@@ -1,0 +1,341 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>R — entity model</title>
+<style>
+:root{
+  --bg:#f6f7f9; --fg:#14161a; --muted:#666e7a; --line:#c3c9d2; --box:#fff;
+  --shadow:0 1px 2px rgba(0,0,0,.08),0 4px 14px rgba(0,0,0,.06);
+  --asset:#2563eb; --norm:#b4530b; --evid:#0f766e; --econ:#7c3aed; --epis:#be185d; --out:#15803d;
+}
+@media (prefers-color-scheme:dark){:root{
+  --bg:#0f1115; --fg:#e6e8ec; --muted:#98a1ad; --line:#39414d; --box:#181b21;
+  --shadow:0 1px 2px rgba(0,0,0,.5),0 4px 18px rgba(0,0,0,.4);
+  --asset:#60a5fa; --norm:#fb923c; --evid:#2dd4bf; --econ:#a78bfa; --epis:#f472b6; --out:#4ade80;
+}}
+*{box-sizing:border-box}
+html,body{margin:0;height:100%}
+body{background:var(--bg);color:var(--fg);
+  font:14px/1.45 ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  overflow:hidden}
+#bar{position:fixed;top:0;left:0;right:0;height:46px;display:flex;align-items:center;gap:14px;
+  padding:0 16px;background:var(--box);border-bottom:1px solid var(--line);z-index:100}
+#bar h1{font-size:15px;margin:0;font-weight:650}
+#bar .sub{color:var(--muted);font-size:12.5px}
+button{font:inherit;font-size:12.5px;padding:5px 11px;border:1px solid var(--line);
+  background:var(--bg);color:var(--fg);border-radius:7px;cursor:pointer}
+button:hover{border-color:var(--muted)}
+#legend{display:flex;gap:12px;margin-left:auto;font-size:12px;color:var(--muted);flex-wrap:wrap}
+#legend i{display:inline-block;width:9px;height:9px;border-radius:2px;margin-right:5px;vertical-align:-1px}
+#stage{position:absolute;inset:46px 0 0 0;overflow:auto}
+#canvas{position:relative;width:1720px;height:1000px}
+svg{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
+.ent{position:absolute;background:var(--box);border:1px solid var(--line);border-radius:9px;
+  box-shadow:var(--shadow);min-width:212px;max-width:280px;border-top:3px solid var(--c)}
+.ent.dragging{opacity:.9;box-shadow:0 8px 30px rgba(0,0,0,.25);z-index:50}
+.ent h3{margin:0;padding:8px 11px 7px;font-size:13px;font-weight:650;cursor:grab;
+  display:flex;align-items:baseline;gap:7px;user-select:none}
+.ent h3:active{cursor:grabbing}
+.ent h3 em{font-style:normal;font-size:10.5px;font-weight:500;color:var(--c);
+  letter-spacing:.04em;text-transform:lowercase}
+.ent h3 .badge{margin-left:auto;font-size:9.5px;font-weight:600;padding:1px 5px;border-radius:4px;
+  background:var(--c);color:var(--box);opacity:.9}
+.ent ul{margin:0;padding:0 0 7px;list-style:none;border-top:1px solid var(--line)}
+.ent li{padding:3px 11px;font-size:12px;display:flex;gap:8px;align-items:baseline}
+.ent li:first-child{padding-top:7px}
+.ent li b{font-weight:500;flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.ent li s{text-decoration:none;color:var(--muted);font-size:10.5px;white-space:nowrap}
+.ent li.pk b{font-weight:700}
+.ent li.fk s{color:var(--asset)}
+.ent li.enum{cursor:pointer}
+.ent li.enum s{color:var(--norm);border-bottom:1px dotted currentColor}
+.ent li.enum:hover{background:rgba(128,128,128,.09)}
+.ent li.new{background:rgba(190,24,93,.09)}
+.ent li.new b::after{content:" +";color:var(--epis);font-weight:700}
+.lbl{font-size:10.5px;fill:var(--muted)}
+#pop{position:fixed;z-index:200;background:var(--box);border:1px solid var(--line);border-radius:9px;
+  box-shadow:var(--shadow);padding:11px 13px;max-width:400px;display:none}
+#pop h4{margin:0 0 7px;font-size:12.5px}
+#pop code{font-size:11.5px;display:block;padding:2px 0;color:var(--muted)}
+#pop code b{color:var(--fg);font-weight:600}
+#pop .note{margin-top:8px;font-size:11.5px;color:var(--muted);border-top:1px solid var(--line);padding-top:7px}
+</style>
+
+<div id="bar">
+  <h1>R — entity model</h1>
+  <span class="sub">drag the headers, click orange types for enum values</span>
+  <button onclick="reset()">reset layout</button>
+  <div id="legend">
+    <span><i style="background:var(--asset)"></i>asset</span>
+    <span><i style="background:var(--epis)"></i>epistemics</span>
+    <span><i style="background:var(--norm)"></i>normative</span>
+    <span><i style="background:var(--evid)"></i>evidence</span>
+    <span><i style="background:var(--econ)"></i>economics</span>
+    <span><i style="background:var(--out)"></i>output</span>
+  </div>
+</div>
+<div id="stage"><div id="canvas"><svg id="wires"></svg></div></div>
+<div id="pop"></div>
+
+<script>
+const ENUMS = {
+  Pathway:{v:{EMBER:"firebrand lands on or enters the structure — 26 measures",
+    RADIANT:"heat flux from nearby burning fuel, no contact — 8",
+    FLAME:"fuel touching or continuous with the structure — 37"},n:"The physical mechanism. Independent of any regulation."},
+  Locus:{v:{BUILDING_ENVELOPE:"the house itself",ATTACHED_STRUCTURE:"deck, porch, attached garage",
+    SITE:"the ground around it",PARCEL:"whole lot incl. outbuildings",NEIGHBOURHOOD:"beyond the parcel",
+    ACCESS_ROUTE:"driveway, road, signage"},n:"Where the measure acts."},
+  Element:{v:{"ROOF / GUTTER / VENT / EAVE":"roof assembly",
+    "SIDING / WINDOW / DOOR / GARAGE":"wall assembly","DECK / FENCE / GATE / OUTBUILDING":"attachments",
+    "VEGETATION / GROUND_COVER":"living and dead fuel","STORED_MATERIAL / UTILITY":"firewood, propane, vehicles",
+    "ROADWAY / SIGNAGE / ORGANISATION":"access and community"},n:"What thing. 21 values."},
+  DistanceBand:{v:{ON_STRUCTURE:"part of the building",ZONE_0:"0–5 ft — 15 measures",
+    ZONE_1:"5–30 ft — 7 measures",ZONE_2:"30–100 ft — 1 measure",BEYOND:"outside 100 ft"},
+    n:"How far from the wall. Zone 0's noncombustible band width flexes with eave depth."},
+  DeonticForce:{v:{MUST:"legally mandatory",MUST_NOT:"prohibited (e.g. no new trees in Zone 0)",
+    MUST_REPORT:"disclose it, you need not do it",MAY_EARN:"optional, earns a credit",
+    SHOULD:"best practice, no legal effect",NONE:"not applicable"},
+    n:"How hard the obligation bites. Combines with EnforcementMode to give the 7 statuses in the data."},
+  EnforcementMode:{v:{INSPECTION:"CAL FIRE / local fire agency inspects",
+    TRANSACTION_GATE:"blocks close of escrow",RATE_FILING:"insurer must credit it",
+    CERTIFICATION_AUDIT:"third-party evaluator visit",PERMIT_REVIEW:"building department",NONE:"nobody checks"},
+    n:"Who checks, and what happens if you fail. MUST+TRANSACTION_GATE renders as 'you cannot close escrow without this.'"},
+  Status:{v:{NOT_APPLICABLE:"153 cells",CERT_REQUIRED:"49",REQUIRED:"35",
+    DISCLOSE_ONLY:"31",VOLUNTARY_CREDIT:"19",RECOMMENDED:"7",PROHIBITED:"2"},
+    n:"Current flat enum in measures.yaml. 153 of 296 cells are explicit NOT_APPLICABLE — store R sparse, not dense."},
+  TriggerKind:{v:{CONTINUOUS:"in force now, always — 22 cells",
+    ABSOLUTE_DATE:"a fixed calendar date",REGIME_EPOCH_RELATIVE:"effective date + N years — 16 cells (Zone 0 phases 1 and 2)",
+    EVENT:"fires on something happening — 7 cells"},n:"Zone 0 alone uses three different clocks."},
+  EventKind:{v:{SALE:"AB 38 — before close of escrow",
+    COMPONENT_REPLACEMENT:"only when replacing anyway — 4 OSFM items",
+    PERMIT_APPLICATION:"building permit pulled",POLICY_RENEWAL:"insurance renewal",
+    POST_LOSS_REBUILD:"rebuilding after a fire pulls you into current code"},
+    n:"COMPONENT_REPLACEMENT is the one people get wrong — rendering it as 'do this now' turns a $0 duty into a $12,000 recommendation."},
+  AuthorityLevel:{v:{STATE:"17 cells",LOCAL_JURISDICTION:"5 cells — sets the Zone 0 Phase 2 date",
+    FIRE_DISTRICT:"the body that actually inspects",COUNTY:"",MUNICIPAL:"",
+    HOA:"landscaping covenants that conflict with Zone 0",CARRIER:"",PRIVATE_STANDARD:"IBHS"},
+    n:"Only STATE and LOCAL_JURISDICTION are in the data today."},
+  RegimeKind:{v:{STATUTE:"PRC 4291",REGULATION:"Zone 0",INSURANCE_REGULATION:"10 CCR 2644.9",
+    TRANSACTION_STATUTE:"AB 38 defensible space docs",TRANSACTION_DISCLOSURE:"AB 38 features + retrofit list",
+    VOLUNTARY_CERTIFICATION:"IBHS",BUILDING_CODE:"Chapter 7A / CWUI — currently only a suppression prior"},
+    n:"What makes the claim stick."},
+  Modality:{v:{ADMINISTRATIVE_RECORD:"assessor, permits — cheap, high confidence",
+    GEOSPATIAL_COMPUTATION:"footprints, lidar, DEM — free, highest confidence, 13 measures",
+    REMOTE_SENSING:"aerial and oblique imagery — 18 measures",
+    STREET_LEVEL_IMAGERY:"Street View — 19 measures, front elevation only, 1–7 yrs stale",
+    SELF_REPORT:"the survey — 21 measures",PROFESSIONAL_INSPECTION:"someone visits"},
+    n:"The GIS tier is free and most reliable. Build it first."},
+  ObservabilityClass:{v:{DIRECT:"measured — 'your roof is wood shake'",
+    INFERRED:"proxy — 'likely, given overhanging canopy'",
+    PRIOR:"cohort statistic — 'homes built after 2008 usually have…'",
+    UNOBSERVABLE:"must ask — vent type, window panes",
+    OCCLUDED:"structurally hidden from any sensor — under decks, inside attics"},
+    n:"Replaces HIGH/MEDIUM/LOW because it explains WHY, and the report wording differs for each. OCCLUDED never improves with a bigger imagery budget — stop pricing sensors against it."},
+  AdoptionState:{v:{ADOPTED:"already in place → feeds ENTITLEMENT output",
+    NOT_ADOPTED:"gap → feeds ACTION output",UNKNOWN:"→ feeds UNRESOLVED output, becomes a survey question"},
+    n:"This is `a`. It must NOT be binary. 43 of 71 measures are LOW-confidence detection, so UNKNOWN is the common case, not an edge case."},
+  CostUnit:{v:{JOB:"23 measures",NONE:"18 — free",EA:"13 — per vent, window, door",
+    SF:"9 — needs an area",LF:"7 — needs a length",CY:"1 — gravel volume"},
+    n:"A rate without a quantity is not a price. That is what quantity_driver fixes."},
+  BenefitKind:{v:{PREMIUM_DISCOUNT:"measured — $5–31/yr per measure (RFF)",
+    INSURABILITY:"unknowable — carrier appetite is proprietary. The big one.",
+    TRANSACTION_ENABLEMENT:"removes an escrow blocker",
+    GRANT_ELIGIBILITY:"California Safe Homes, CWMP",
+    PENALTY_AVOIDANCE:"avoids failing an inspection",
+    LOSS_REDUCTION:"expected damage avoided — the actual point",
+    CERTIFICATION_PROGRESS:"moves you toward IBHS Essential / Enhanced"},
+    n:"Only PREMIUM_DISCOUNT exists in the data (13 of 71 measures). Each needs its OWN confidence, or an insurability guess renders with the same authority as a measured discount."},
+  RelationKind:{v:{ALTERNATIVE_TO:"either satisfies the same cell — windows ⟷ shutters, 4x cost difference",
+    SUPERSEDES:"stricter version — IBHS full 5 ft ▷ Zone 0's 12 in",
+    PREREQUISITE_OF:"must come first — clear debris ▷ fit gutter guard",
+    COMPOUNDS_WITH:"joint hazard exceeds the sum — mulch + wood fence (NIST)",
+    BLOCKS:"forecloses it — protected tree ▷ IBHS certification",
+    ROUTES_TO:"finding implies actions — structure separation ▷ Firewise",
+    SUPPRESSED_BY:"a prior makes it moot — built ≥2008 ▷ Class A roof"},
+    n:"Each of these appears exactly ONCE in the data, which means they were populated where I noticed, not systematically. SUPERSEDES matters most: it is how 'doing the IBHS version also satisfies Zone 0' becomes derivable."},
+  OutputClass:{v:{ACTION:"a gap to close — g = R ⊙ (a==NOT_ADOPTED)",
+    ENTITLEMENT:"already done, unclaimed — e = R_savings ⊙ (a==ADOPTED). ~$38/yr for a typical post-1990 home.",
+    UNRESOLVED:"cannot tell, ask — u = R ⊙ (a==UNKNOWN)",
+    FINDING:"a fact, not an action — 'nearest structure is 12 ft away'",
+    GUIDANCE:"standing rule — 'do not plant new trees in Zone 0'",
+    BLOCKER:"forecloses a path — protected tree kills IBHS",
+    STALE:"observation too old to rely on"},
+    n:"Drives report layout. Only GUIDANCE and FINDING exist in the data today."},
+  AttributeRole:{v:{RESOLVES_R:"14 — decides which requirements apply, or parameterises them",
+    RESOLVES_A:"41 — decides whether the measure is already done",BOTH:"5"},
+    n:"The 5 BOTH ones are the subtle bit: eave_depth_in and attached_deck_present are PHYSICAL facts that change the REQUIREMENT itself, not just compliance with it."}
+};
+
+const E = [
+{id:"Property",layer:"asset",tag:"the asset",f:[
+ ["property_id","pk"],["address / geocode",""],["fhsz","→ FHSZ enum"],["responsibility_area","SRA|LRA"],
+ ["jurisdiction","county+city"],["year_built","int"],["dwelling_units","int"],["stories","int"],
+ ["structure_type","enum"]],
+ note:"Everything hangs off this. year_built is the single most valuable field — it gates AB 38 and gives the Chapter 7A prior."},
+
+{id:"Attribute",layer:"epis",tag:"definition",f:[
+ ["attribute_id","pk"],["role","AttributeRole"],["values[]","enum domain"],
+ ["modality","Modality"],["observability","ObservabilityClass"],["dataset / cost",""],
+ ["quantity_of","Element"]],
+ note:"60 defined. A DEFINITION, not a value. 'roof_material' the concept, not 'this house has tile'."},
+
+{id:"Observation",layer:"epis",tag:"MISSING — add this",n:1,f:[
+ ["observation_id","pk"],["property_id","fk Property"],["attribute_id","fk Attribute"],
+ ["value",""],["observed_at","when the WORLD was so",1],["resolved_at","when YOU computed it",1],
+ ["confidence","0..1"],["superseded_by","append-only",1]],
+ note:"THE BIGGEST GAP. Street View is 1–7 years stale. Without observed_at you will confidently describe a house from 2019 imagery that burned in 2025. Also gives you a re-engagement hook: 'our imagery is from March 2022 — still accurate?'"},
+
+{id:"Adoption",layer:"epis",tag:"this is `a`",f:[
+ ["property_id","fk Property"],["measure_id","fk Measure"],
+ ["state","AdoptionState"],["confidence","0..1"],["from_observation","fk Observation"]],
+ note:"Derived from Observations. Three states, never boolean — 43 of 71 measures are LOW-confidence, so UNKNOWN is the normal case."},
+
+{id:"Measure",layer:"norm",tag:"an action",f:[
+ ["measure_id","pk"],["name",""],["locus","Locus"],["element","Element"],
+ ["band","DistanceBand"],["pathway","Pathway"],["feature_attribute","fk Attribute"],
+ ["applies_only_if","hard filter"],["recurring","bool"]],
+ note:"71 of them. `applies_only_if` (no chimney → no spark arrestor) is a HARD FILTER and must not be confused with suppress_if, which is a prior on Adoption."},
+
+{id:"Regime",layer:"norm",tag:"an authority",f:[
+ ["regime_id","pk"],["kind","RegimeKind"],["authority","citation"],
+ ["effective_date","date|null"],["authority_level","AuthorityLevel"],["applies_if[]","predicates"]],
+ note:"7 of them: prc4291, zone0, sfw, ab38_ds, ab38_feat, ab38_retro, ibhs. Zone 0's effective_date is still null pending OAL."},
+
+{id:"Cell",layer:"norm",tag:"Measure × Regime",f:[
+ ["measure_id","fk Measure"],["regime_id","fk Regime"],
+ ["deontic_force","DeonticForce",1],["enforcement","EnforcementMode",1],
+ ["status","Status (legacy)"],["trigger","TriggerKind"],["event","EventKind"],
+ ["set_by","AuthorityLevel"],["phase","IMMEDIATE|1|2"],["parameter","{}"],["citation","required"]],
+ note:"THE HEART OF R. 296 cells. `parameter` is why R is not a lookup table: Zone 0's safety-zone width = max(eave_depth_in, 12). A physical fact changes the requirement itself."},
+
+{id:"Evidence",layer:"evid",tag:"independent of law",f:[
+ ["measure_id","fk Measure"],["weight","1..3 (26 / 41 / 4)"],
+ ["pathway","Pathway"],["source_id","fk EvidenceSource"]],
+ note:"Deliberately SEPARATE from Cell. This is the only reason you can say 'the law asks 12 inches, the evidence supports 5 feet.' Fold it into regulation and you lose your differentiator."},
+
+{id:"EvidenceSource",layer:"evid",tag:"MISSING — add this",n:1,f:[
+ ["source_id","pk"],["citation","Syphard & Keeley 2019…"],["study_type",""],["published","date"]],
+ note:"Currently a free-text string. As a row, E can be revised when new post-fire research lands without touching 71 measures."},
+
+{id:"Cost",layer:"econ",tag:"what it costs",f:[
+ ["measure_id","fk Measure"],["rate_low / rate_high","usd"],["unit","CostUnit"],
+ ["quantity_driver","fk Attribute",1],["quantity_default","reference home",1],
+ ["diy_possible","bool",1],["price_as_of","date",1]],
+ note:"quantity_driver is the missing link. {unit:SF, rate:6.67} is unusable until you know how many SF — and roof area, wall perimeter and window count are all derivable from footprint + roof segmentation you already need."},
+
+{id:"Benefit",layer:"econ",tag:"several kinds",f:[
+ ["measure_id","fk Measure"],["kind","BenefitKind",1],["amount_low / high","usd/yr"],
+ ["confidence","per KIND",1],["depends_on_carrier","bool"],["source","RFF WP 25-30"]],
+ note:"Today only PREMIUM_DISCOUNT, on 13 of 71 measures. Savings do NOT sum: most insurers apply the IBHS bundle IN LIEU OF individual credits, so total ≈ max(Σ individual, IBHS)."},
+
+{id:"MeasureRelation",layer:"norm",tag:"edges, not fields",n:1,f:[
+ ["from_measure","fk Measure"],["to_measure","fk Measure"],["kind","RelationKind",1]],
+ note:"Each relation kind appears exactly ONCE in the data — populated where I noticed, not systematically. ALTERNATIVE_TO alone is worth money: shutters satisfy the same SFW credit as new windows at a quarter of the cost."},
+
+{id:"Assessment",layer:"out",tag:"one run",f:[
+ ["assessment_id","pk"],["property_id","fk Property"],["run_at","date"],
+ ["active_regimes[]","fk Regime"],["survey_responses","{}"]],
+ note:"Ties a Property to a moment. Re-runnable when imagery refreshes, which is your re-engagement product."},
+
+{id:"Output",layer:"out",tag:"a report line",f:[
+ ["assessment_id","fk Assessment"],["measure_id","fk Measure"],["cell_ref","fk Cell"],
+ ["output_class","OutputClass",1],["priority","float"],["deadline","resolved date"],
+ ["cost_estimate","from Cost"],["language","from deontic×enforcement",1]],
+ note:"priority = evidence.weight × pathway_exposure × adoption.confidence × urgency ÷ cost_band. Hard overrides: Zone 0 immediate items first; never a $12k item above a $0 item in the same pathway; cap at ~8."}
+];
+
+const REL=[
+ ["Property","Observation","1 : N"],["Attribute","Observation","1 : N"],
+ ["Observation","Adoption","N : 1"],["Measure","Adoption","1 : N"],
+ ["Measure","Attribute","N : 1  feature"],["Measure","Cell","1 : N"],["Regime","Cell","1 : N"],
+ ["Measure","Evidence","1 : 1"],["Evidence","EvidenceSource","N : 1"],
+ ["Measure","Cost","1 : 1"],["Cost","Attribute","N : 1  qty"],["Measure","Benefit","1 : N"],
+ ["Measure","MeasureRelation","N : N"],
+ ["Property","Assessment","1 : N"],["Assessment","Output","1 : N"],
+ ["Cell","Output","1 : N"],["Adoption","Output","1 : N"]
+];
+
+const POS={Property:[20,55],Attribute:[20,340],Observation:[270,340],Adoption:[270,600],
+ Measure:[545,55],MeasureRelation:[545,600],Regime:[825,55],Cell:[825,340],
+ Evidence:[1105,55],EvidenceSource:[1380,55],Cost:[1105,340],Benefit:[1380,340],
+ Assessment:[20,600],Output:[825,690]};
+
+const C={asset:"--asset",norm:"--norm",evid:"--evid",econ:"--econ",epis:"--epis",out:"--out"};
+const cv=document.getElementById('canvas'), svg=document.getElementById('wires'), pop=document.getElementById('pop');
+const nodes={};
+
+E.forEach(e=>{
+  const d=document.createElement('div');
+  d.className='ent'; d.style.setProperty('--c',`var(${C[e.layer]})`);
+  const p=(JSON.parse(localStorage.getItem('Rpos')||'{}')[e.id])||POS[e.id];
+  d.style.left=p[0]+'px'; d.style.top=p[1]+'px';
+  d.innerHTML=`<h3>${e.id}<em>${e.tag}</em>${e.n?'<span class="badge">NEW</span>':''}</h3><ul>`+
+    e.f.map(([n,t,isNew])=>{
+      const en=ENUMS[t]?'enum':''; const fk=/^fk /.test(t)?'fk':''; const pk=t==='pk'?'pk':'';
+      return `<li class="${en} ${fk} ${pk} ${isNew?'new':''}" ${en?`data-e="${t}"`:''}><b>${n}</b><s>${t}</s></li>`;
+    }).join('')+`</ul>`;
+  d.querySelector('h3').addEventListener('mousedown',ev=>drag(ev,d,e.id));
+  d.querySelectorAll('li.enum').forEach(li=>li.addEventListener('click',ev=>showEnum(ev,li.dataset.e)));
+  d.addEventListener('mouseenter',()=>{if(!dragging)hint(e)});
+  cv.appendChild(d); nodes[e.id]=d;
+});
+
+let dragging=null,ox,oy;
+function drag(ev,el,id){
+  dragging={el,id}; el.classList.add('dragging');
+  ox=ev.clientX-el.offsetLeft; oy=ev.clientY-el.offsetTop; pop.style.display='none'; ev.preventDefault();
+}
+addEventListener('mousemove',ev=>{
+  if(!dragging)return;
+  dragging.el.style.left=Math.max(0,ev.clientX-ox)+'px';
+  dragging.el.style.top=Math.max(0,ev.clientY-oy)+'px'; wires();
+});
+addEventListener('mouseup',()=>{
+  if(!dragging)return;
+  dragging.el.classList.remove('dragging');
+  const s=JSON.parse(localStorage.getItem('Rpos')||'{}');
+  s[dragging.id]=[dragging.el.offsetLeft,dragging.el.offsetTop];
+  localStorage.setItem('Rpos',JSON.stringify(s)); dragging=null;
+});
+function reset(){localStorage.removeItem('Rpos');
+  E.forEach(e=>{nodes[e.id].style.left=POS[e.id][0]+'px';nodes[e.id].style.top=POS[e.id][1]+'px'});wires()}
+
+function edge(a,b){ // clip centre-to-centre line at rect a's border
+  const cx=a.offsetLeft+a.offsetWidth/2, cy=a.offsetTop+a.offsetHeight/2;
+  const dx=b.x-cx, dy=b.y-cy, w=a.offsetWidth/2, h=a.offsetHeight/2;
+  if(!dx&&!dy)return{x:cx,y:cy};
+  const s=Math.min(Math.abs(w/(dx||1e-6)),Math.abs(h/(dy||1e-6)));
+  return{x:cx+dx*s,y:cy+dy*s};
+}
+function wires(){
+  svg.innerHTML=REL.map(([f,t,l])=>{
+    const A=nodes[f],B=nodes[t]; if(!A||!B)return'';
+    const ac={x:A.offsetLeft+A.offsetWidth/2,y:A.offsetTop+A.offsetHeight/2};
+    const bc={x:B.offsetLeft+B.offsetWidth/2,y:B.offsetTop+B.offsetHeight/2};
+    const p1=edge(A,bc), p2=edge(B,ac);
+    const mx=(p1.x+p2.x)/2, my=(p1.y+p2.y)/2;
+    return `<line x1="${p1.x}" y1="${p1.y}" x2="${p2.x}" y2="${p2.y}" stroke="var(--line)" stroke-width="1.5"/>
+      <circle cx="${p2.x}" cy="${p2.y}" r="3" fill="var(--line)"/>
+      <rect x="${mx-25}" y="${my-8}" width="50" height="15" rx="3" fill="var(--bg)" opacity=".92"/>
+      <text class="lbl" x="${mx}" y="${my+3.5}" text-anchor="middle">${l}</text>`;
+  }).join('');
+}
+function showEnum(ev,k){
+  ev.stopPropagation(); const e=ENUMS[k]; if(!e)return;
+  pop.innerHTML=`<h4>${k}</h4>`+Object.entries(e.v).map(([a,b])=>
+    `<code><b>${a}</b>${b?' — '+b:''}</code>`).join('')+(e.n?`<div class="note">${e.n}</div>`:'');
+  pop.style.display='block';
+  const r=pop.getBoundingClientRect();
+  pop.style.left=Math.min(ev.clientX+12,innerWidth-r.width-12)+'px';
+  pop.style.top=Math.min(ev.clientY+12,innerHeight-r.height-12)+'px';
+}
+function hint(e){ if(!e.note)return;
+  pop.innerHTML=`<h4>${e.id}</h4><div class="note" style="border:0;padding:0;margin:0">${e.note}</div>`;
+  pop.style.display='block';
+  const n=nodes[e.id], st=document.getElementById('stage');
+  pop.style.left=Math.min(n.getBoundingClientRect().right+10,innerWidth-420)+'px';
+  pop.style.top=n.getBoundingClientRect().top+'px';
+}
+document.getElementById('stage').addEventListener('click',ev=>{
+  if(!ev.target.closest('.ent'))pop.style.display='none'});
+addEventListener('resize',wires); wires();
+</script>

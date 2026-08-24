@@ -1,0 +1,1200 @@
+# R — the measure catalogue.
+# Schema in README.md. Cell statuses: REQUIRED | PROHIBITED | DISCLOSE_ONLY |
+# VOLUNTARY_CREDIT | CERT_REQUIRED | RECOMMENDED | NOT_APPLICABLE
+# Costs: Headwaters Economics 2024, CA installed, reference home 40x25 ft, 130 LF perimeter.
+# Savings: RFF WP 25-30 Tables 3-4, market-share-weighted, full-premium / wildfire-portion.
+
+measures:
+
+# ============================== ROOF ==============================
+
+- id: roof.class_a
+  name: Replace roof covering with a Class A fire-rated assembly
+  component: roof
+  pathway: EMBER
+  feature: {attribute: roof_material, compliant_when: "roof_material != WOOD_SHAKE and assembly is Class A"}
+  regimes:
+    sfw: {status: VOLUNTARY_CREDIT, clock: {basis: ALREADY_IN_FORCE}, citation: "10 CCR 2644.9, Building Hardening: Class-A Fire Rated Roof"}
+    ab38_retro: {status: DISCLOSE_ONLY, clock: {basis: ON_REPLACEMENT}, list: hardening, item: 1, citation: "OSFM Low-Cost Retrofit List 1/1/2026 #1 — 'When it is time to replace your roof'"}
+    ab38_feat: {status: DISCLOSE_ONLY, clock: {basis: ON_TRANSACTION}, citation: "Civ. Code 1102.6f — 'untreated wood shingles or shakes'"}
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL, citation: "IBHS: replace wood shake/shingle with Class A. Barrel tile and some metal also need bird stops."}
+    zone0: {status: NOT_APPLICABLE}
+    prc4291: {status: NOT_APPLICABLE}
+  evidence: {weight: 3, basis: "Headwaters: wood roofs a $6B wildfire problem. Largest single SFW discount."}
+  detection: {method: AERIAL_CV, confidence: HIGH, note: "Wood shake vs not is the highest-value overhead detection. Established in insurance CV."}
+  cost: {unit: SF, low: 4.96, high: 18.68, typical_job: 6300, source: "$4.96/SF composition incl. synthetic underlayment; $18.68/SF metal"}
+  savings: {sfw_item: class_a_roof, pct_full: 1.88, usd_full: 31.38, usd_wildfire: 7.61, note: "Largest single-item discount of all 12."}
+  suppress_if: "year_built >= 2008 and in_sra_or_vhfhsz_lra"
+
+- id: roof.debris_clear
+  name: Keep roof clear of leaves, needles and vegetative debris
+  component: roof
+  pathway: EMBER
+  feature: {attribute: roof_debris_present, compliant_when: "roof_debris_present == false"}
+  regimes:
+    prc4291: {status: REQUIRED, clock: {basis: ALREADY_IN_FORCE}, citation: "PRC 4291 — maintain the roof free of leaves, needles or other vegetative materials"}
+    zone0: {status: REQUIRED, phase: IMMEDIATE, clock: {basis: ON_EFFECTIVE_DATE, set_by: STATE}, citation: "BOF Zone 0 Aug 2026 — combustible debris on roofs required to be removed upon the effective date"}
+    ab38_retro: {status: DISCLOSE_ONLY, list: defensible_space, item: 1}
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL}
+    sfw: {status: NOT_APPLICABLE, note: "Rolled into PRC 4291 compliance credit"}
+  evidence: {weight: 3, basis: "Primary ember accumulation site. IBHS full-scale testing."}
+  detection: {method: AERIAL_CV, confidence: MEDIUM, note: "Better inferred from canopy_overhangs_roof as a proxy."}
+  cost: {unit: NONE, low: 0, high: 0, typical_job: 0, source: "DIY, recurring"}
+  recurring: true
+
+- id: roof.birdstops
+  name: Block gaps between roof covering and sheathing with noncombustible bird stops
+  component: roof
+  pathway: EMBER
+  feature: {attribute: roof_material, compliant_when: "birdstops present where roof profile leaves gaps (tile, some metal)"}
+  regimes:
+    ab38_retro: {status: DISCLOSE_ONLY, list: hardening, item: 2, citation: "OSFM LCRL #2"}
+    ab38_feat: {status: DISCLOSE_ONLY, citation: "Civ. Code 1102.6f — 'loose or missing bird stopping or roof flashing'"}
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL, citation: "IBHS: barrel tile and some metal must include bird stops at the edges"}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+  evidence: {weight: 2, basis: "Direct ember pathway into the attic under profiled roofing."}
+  detection: {method: SURVEY, confidence: LOW, note: "Only relevant if roof_material in (TILE, METAL). Gate the question."}
+  cost: {unit: SF, low: 20.26, high: 20.26, typical_job: 800, source: "Headwaters $20.26/SF birdstop material"}
+  applies_only_if: "roof_material in ('TILE','METAL')"
+
+- id: roof.skylight_mesh
+  name: Cover operable skylight openings with noncombustible metal mesh, max 1/8 inch
+  component: roof
+  pathway: EMBER
+  feature: {attribute: skylight_operable_or_domed, compliant_when: "operable skylight openings screened at <= 1/8 in"}
+  regimes:
+    ab38_retro: {status: DISCLOSE_ONLY, list: hardening, item: 11, citation: "OSFM LCRL #11 — 'openings in the screen not to exceed 1/8 inch'"}
+    ibhs: {status: NOT_APPLICABLE}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+  evidence: {weight: 2, basis: "Direct opening into the conditioned space."}
+  detection: {method: AERIAL_CV, confidence: MEDIUM, note: "Skylight presence detects well; operability does not. Gate a survey question on presence."}
+  cost: {unit: EA, low: 20, high: 80, typical_job: 60, source: "DIY mesh"}
+  applies_only_if: "skylight_present == true"
+
+- id: roof.skylight_flat_tempered
+  name: Replace domed plastic skylights with flat multipane tempered glass
+  component: roof
+  pathway: EMBER
+  feature: {attribute: skylight_operable_or_domed, compliant_when: "skylight is flat multipane tempered glass"}
+  regimes:
+    ibhs: {status: CERT_REQUIRED, level: ENHANCED, citation: "IBHS Plus #5 — replace domed plastic skylights"}
+    ab38_retro: {status: NOT_APPLICABLE}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+  evidence: {weight: 2, basis: "Plastic domes deform and fail under radiant heat."}
+  detection: {method: AERIAL_CV, confidence: MEDIUM}
+  cost: {unit: EA, low: 1434.88, high: 1434.88, typical_job: 1435, source: "Headwaters, incl. labour and demolition"}
+  applies_only_if: "skylight_present == true"
+
+- id: roof.branches_above_roof
+  name: Trim tree branches to at least 5 feet above the roof
+  component: roof
+  pathway: EMBER
+  feature: {attribute: canopy_overhangs_roof, compliant_when: "no canopy within 5 ft above roof plane"}
+  regimes:
+    zone0: {status: REQUIRED, phase: PHASE_1, clock: {basis: EFFECTIVE_PLUS_YEARS, years: 3, set_by: STATE}, citation: "BOF Zone 0 Aug 2026 TREES — 'Branches should also be trimmed five feet above roofs'"}
+    prc4291: {status: REQUIRED, clock: {basis: ALREADY_IN_FORCE}, citation: "PRC 4291 — maintain trees adjacent to or overhanging a building free of dead or dying wood"}
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL, citation: "IBHS: remove trees and trim branches that overhang the 5 ft area; the home buffer extends to the sky"}
+    sfw: {status: NOT_APPLICABLE}
+  evidence: {weight: 3, basis: "Syphard & Keeley: vegetation overhanging or touching the structure among the most effective actions."}
+  detection: {method: GIS, confidence: HIGH, note: "Canopy height model intersected with roof polygon. Cleanest detection in the whole system."}
+  cost: {unit: JOB, low: 300, high: 1500, typical_job: 700, source: "Arborist, CA"}
+
+# ============================== GUTTER ==============================
+
+- id: gutter.debris_clear
+  name: Keep gutters clear of leaves and needles
+  component: gutter
+  pathway: EMBER
+  feature: {attribute: roof_debris_present, compliant_when: "gutters free of vegetative debris"}
+  regimes:
+    zone0: {status: REQUIRED, phase: IMMEDIATE, clock: {basis: ON_EFFECTIVE_DATE, set_by: STATE}, citation: "BOF Zone 0 Aug 2026 — combustible debris in rain gutters removed upon the effective date"}
+    prc4291: {status: REQUIRED, clock: {basis: ALREADY_IN_FORCE}, citation: "PRC 4291 — maintain the roof of a structure free of leaves, needles or other vegetative materials; gutters treated as part of the roof assembly by inspectors"}
+    ab38_retro: {status: DISCLOSE_ONLY, list: defensible_space, item: 1}
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL}
+    sfw: {status: NOT_APPLICABLE}
+  evidence: {weight: 3, basis: "Classic ember trap directly against the fascia and roof edge."}
+  detection: {method: AERIAL_CV, confidence: LOW, note: "Infer from canopy_overhangs_roof."}
+  cost: {unit: NONE, low: 0, high: 200, typical_job: 0, source: "DIY, recurring"}
+  recurring: true
+
+- id: gutter.noncombustible_cover
+  name: Install noncombustible gutter covers
+  component: gutter
+  pathway: EMBER
+  feature: {attribute: gutter_cover_present, compliant_when: "gutter_cover_present == true and noncombustible"}
+  regimes:
+    ab38_retro: {status: DISCLOSE_ONLY, list: hardening, item: 3, citation: "OSFM LCRL #3"}
+    ab38_feat: {status: DISCLOSE_ONLY, citation: "Civ. Code 1102.6f — 'rain gutters without metal or noncombustible gutter covers'"}
+    ibhs: {status: CERT_REQUIRED, level: ENHANCED, citation: "IBHS Plus #2 — cover gutters"}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+  evidence: {weight: 2, basis: "Removes the recurring maintenance failure mode rather than the hazard itself."}
+  detection: {method: SURVEY, confidence: LOW}
+  cost: {unit: LF, low: 4.48, high: 4.48, typical_job: 580, source: "Headwaters $4.48/LF, ~$220 per 50 ft side"}
+
+- id: gutter.metal_replacement
+  name: Replace plastic or vinyl gutters and downspouts with metal
+  component: gutter
+  pathway: EMBER
+  feature: {attribute: gutter_material, compliant_when: "gutter_material == METAL"}
+  regimes:
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL, citation: "IBHS: replace plastic/vinyl gutters and downspouts with metal"}
+    ab38_retro: {status: NOT_APPLICABLE}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+  evidence: {weight: 2, basis: "Vinyl gutters melt and drop burning debris against the wall base."}
+  detection: {method: STREETVIEW_CV, confidence: LOW}
+  cost: {unit: LF, low: 18.78, high: 18.78, typical_job: 2400, source: "Headwaters, ~$930 per side"}
+
+- id: gutter.metal_drip_edge
+  name: Install a metal drip edge at the roof edge
+  component: gutter
+  pathway: EMBER
+  feature: {attribute: gutter_present, compliant_when: "metal drip edge installed"}
+  regimes:
+    ibhs: {status: RECOMMENDED}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 2, basis: "Headwaters lists it as a complementary low-cost measure at all retrofit tiers."}
+  detection: {method: SURVEY, confidence: LOW}
+  cost: {unit: LF, low: 2.93, high: 2.93, typical_job: 380, source: "Headwaters $2.93/LF; $100-200 per roof side"}
+  divergence_note: "Cheap and effective but appears in no regime. Pure evidence-column item."
+
+# ============================== CHIMNEY ==============================
+
+- id: chimney.spark_arrestor
+  name: Fit a corrosion-resistant metal spark arrestor, 3/8 to 1/2 inch openings
+  component: chimney
+  pathway: EMBER
+  feature: {attribute: chimney_present, compliant_when: "spark arrestor fitted, 3/8-1/2 in mesh"}
+  regimes:
+    ab38_retro: {status: DISCLOSE_ONLY, list: hardening, item: 4, citation: "OSFM LCRL #4 — 'with 3/8-inch to 1/2-inch openings'"}
+    ibhs: {status: NOT_APPLICABLE}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+  evidence: {weight: 2, basis: "Prevents the home from being an ember SOURCE as well as a receptor."}
+  detection: {method: AERIAL_CV, confidence: MEDIUM, note: "Chimney presence detects; arrestor does not. Gate a survey question."}
+  cost: {unit: EA, low: 60, high: 300, typical_job: 150}
+  applies_only_if: "chimney_present == true"
+
+- id: chimney.branch_clearance_10ft
+  name: Remove tree branches within 10 feet of a chimney or stovepipe outlet
+  component: chimney
+  pathway: EMBER
+  feature: {attribute: canopy_overhangs_roof, compliant_when: "no branch within 10 ft of outlet"}
+  regimes:
+    prc4291: {status: REQUIRED, clock: {basis: ALREADY_IN_FORCE}, citation: "PRC 4291 — remove that portion of a tree that extends within 10 feet of the outlet of a chimney or stovepipe"}
+    zone0: {status: REQUIRED, phase: IMMEDIATE, clock: {basis: ON_EFFECTIVE_DATE, set_by: STATE}, citation: "BOF Zone 0 Aug 2026 TREES — 'Branches should be ten feet from chimneys and kept clear of eaves per existing statute (effective immediately)'"}
+    ibhs: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+  evidence: {weight: 2, basis: "Long-standing statutory requirement."}
+  detection: {method: GIS, confidence: MEDIUM, note: "Requires chimney location on the roof polygon plus CHM."}
+  cost: {unit: JOB, low: 200, high: 800, typical_job: 400}
+  applies_only_if: "chimney_present == true"
+
+# ============================== VENTS ==============================
+
+- id: vent.ember_resistant
+  name: Install WUI-listed ember and flame resistant vents
+  component: vent
+  pathway: EMBER
+  feature: {attribute: vent_type, compliant_when: "vent_type == WUI_LISTED"}
+  regimes:
+    sfw: {status: VOLUNTARY_CREDIT, clock: {basis: ALREADY_IN_FORCE}, citation: "10 CCR 2644.9, Building Hardening: Fire-Resistant Vents"}
+    ab38_retro: {status: DISCLOSE_ONLY, list: hardening, item: 5, citation: "OSFM LCRL #5 — consult local building official, may reduce airflow"}
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL, citation: "IBHS: install ember-resistant vents OR cover all existing vents with 1/8-inch metal wire mesh"}
+    zone0: {status: NOT_APPLICABLE}
+  evidence: {weight: 3, basis: "Syphard & Keeley: vent screen size among the strongest structural predictors of survival."}
+  detection: {method: SURVEY, confidence: LOW, note: "Not reliably detectable from any imagery. Canonical survey question."}
+  cost: {unit: EA, low: 53.02, high: 420.80, typical_job: 2458, source: "Headwaters: $53 circular, $105 eave, $229 foundation, $421 gable end"}
+  savings: {sfw_item: fire_resistant_vents, pct_full: 0.30, usd_full: 5.59, usd_wildfire: 5.33}
+  suppress_if: "year_built >= 2008 and in_sra_or_vhfhsz_lra"
+
+- id: vent.mesh_1_8
+  name: Cover existing vents with 1/8 inch or finer corrosion-resistant metal mesh
+  component: vent
+  pathway: EMBER
+  feature: {attribute: vent_type, compliant_when: "vent_type in (MESH_LE_1_8, WUI_LISTED)"}
+  regimes:
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL, citation: "IBHS: cover all existing vents with 1/8-inch metal wire mesh"}
+    ab38_feat: {status: DISCLOSE_ONLY, citation: "Civ. Code 1102.6f — 'eave, soffit, and roof ventilation where the vents have openings in excess of one-eighth of an inch'"}
+    sfw: {status: NOT_APPLICABLE, note: "SFW credits fire-resistant vents; mesh alone may not qualify. Verify with carrier."}
+    zone0: {status: NOT_APPLICABLE}
+  evidence: {weight: 3, basis: "Same as vent.ember_resistant, at ~5% of the cost. Best cost-effectiveness ratio in the catalogue."}
+  detection: {method: SURVEY, confidence: LOW}
+  cost: {unit: EA, low: 10, high: 30, typical_job: 300, source: "DIY mesh, ~12 vents"}
+  note: "The cheap path to the same pathway. Lead with this, not vent.ember_resistant."
+
+- id: vent.dryer_louvered
+  name: Ensure the dryer vent has working louvers or a flap
+  component: vent
+  pathway: EMBER
+  feature: {attribute: vent_type, compliant_when: "dryer vent has functioning louvers or flap"}
+  regimes:
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL, citation: "IBHS: wire mesh should NOT be used on dryer vents"}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 2, basis: "Mesh on a dryer vent creates a lint fire hazard. Louvers are the correct control."}
+  detection: {method: SURVEY, confidence: LOW}
+  cost: {unit: EA, low: 0, high: 70, typical_job: 30}
+
+- id: vent.dryer_metal
+  name: Install a metal dryer vent with louvers or a flap
+  component: vent
+  pathway: EMBER
+  feature: {attribute: vent_type, compliant_when: "dryer vent is metal with louvers"}
+  regimes:
+    ibhs: {status: CERT_REQUIRED, level: ENHANCED, citation: "IBHS Plus #3"}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 1}
+  detection: {method: SURVEY, confidence: LOW}
+  cost: {unit: EA, low: 68.70, high: 68.70, typical_job: 69, source: "Headwaters"}
+
+# ============================== EAVES ==============================
+
+- id: eave.enclosed
+  name: Enclose the underside of eaves with noncombustible or ignition-resistant soffit
+  component: eave
+  pathway: RADIANT
+  feature: {attribute: eaves_enclosed, compliant_when: "eaves_enclosed == true with noncombustible or ignition-resistant material"}
+  regimes:
+    sfw: {status: VOLUNTARY_CREDIT, clock: {basis: ALREADY_IN_FORCE}, citation: "10 CCR 2644.9, Building Hardening: Enclosed Eaves"}
+    ibhs: {status: CERT_REQUIRED, level: ENHANCED, citation: "IBHS Plus #1 — fiber-cement board or 2-inch nominal or thicker lumber; soffit vents ember-resistant or 1/8-inch mesh"}
+    zone0: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 3, basis: "Syphard & Keeley: enclosed eaves among the most consistently important structural characteristics. Radiant heat builds up in open eave geometry."}
+  detection: {method: STREETVIEW_CV, confidence: MEDIUM, note: "Detectable on the front elevation only."}
+  cost: {unit: SF, low: 4.51, high: 4.51, typical_job: 4000, source: "Headwaters, ~$4,000 for a typical eave overhang"}
+  savings: {sfw_item: enclosed_eaves, pct_full: 0.30, usd_full: 5.10, usd_wildfire: 4.21}
+  suppress_if: "year_built >= 2008 and in_sra_or_vhfhsz_lra"
+
+- id: eave.rafter_gap_caulk
+  name: Caulk or plug gaps greater than 1/8 inch around exposed rafters and blocking
+  component: eave
+  pathway: EMBER
+  feature: {attribute: eaves_enclosed, compliant_when: "no gaps > 1/8 in at rafter and blocking penetrations"}
+  regimes:
+    ab38_retro: {status: DISCLOSE_ONLY, list: hardening, item: 6, citation: "OSFM LCRL #6"}
+    ibhs: {status: NOT_APPLICABLE}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+  evidence: {weight: 2, basis: "Direct ember path into the attic on open-eave construction."}
+  detection: {method: SURVEY, confidence: LOW}
+  cost: {unit: LF, low: 4.38, high: 4.38, typical_job: 570, source: "Headwaters fire-rated caulk $4.38/LF"}
+  applies_only_if: "eaves_enclosed == false"
+
+# ============================== SIDING / WALL ==============================
+
+- id: siding.vertical_clearance_6in
+  name: Provide at least 6 inches of noncombustible material at the bottom of exterior walls
+  component: siding
+  pathway: FLAME
+  feature: {attribute: vertical_clearance_6in_present, compliant_when: ">= 6 in noncombustible measured from grade and from any attached horizontal surface"}
+  regimes:
+    sfw: {status: VOLUNTARY_CREDIT, clock: {basis: ALREADY_IN_FORCE}, citation: "10 CCR 2644.9 — 'at least six (6) inches of noncombustible vertical clearance at the bottom of the exterior surface'"}
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL, citation: "IBHS #3 — fiber-cement, brick, stone, stucco or exposed concrete foundation; metal flashing acceptable above deck surfaces and posts"}
+    zone0: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 3, basis: "Interrupts the ground-fire-to-siding ignition path, which is the dominant Zone 0 failure mode."}
+  detection: {method: STREETVIEW_CV, confidence: LOW}
+  cost: {unit: SF, low: 6.67, high: 6.67, typical_job: 434, source: "Headwaters $6.67/SF; 130 LF x 0.5 ft = 65 SF"}
+  savings: {sfw_item: vertical_clearance, pct_full: 0.30, usd_full: 5.10, usd_wildfire: 4.02}
+  note: "Cheapest of the five SFW building-hardening items by a wide margin. Lead with it."
+
+- id: siding.gap_caulk_and_repair
+  name: Caulk or plug siding gaps over 1/8 inch and replace dry-rotted boards
+  component: siding
+  pathway: EMBER
+  feature: {attribute: siding_material, compliant_when: "no gaps > 1/8 in, no dry rot, no warped or damaged boards"}
+  regimes:
+    ab38_retro: {status: DISCLOSE_ONLY, list: hardening, item: 7, citation: "OSFM LCRL #7 — inspect for dry rot, gaps, cracks and warping"}
+    ibhs: {status: NOT_APPLICABLE}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+  evidence: {weight: 2, basis: "Embers lodge in gaps and smoulder against sheathing."}
+  detection: {method: STREETVIEW_CV, confidence: LOW}
+  cost: {unit: LF, low: 4.38, high: 4.38, typical_job: 600}
+
+- id: siding.noncombustible
+  name: Replace combustible siding with noncombustible or ignition-resistant material
+  component: siding
+  pathway: RADIANT
+  feature: {attribute: siding_material, compliant_when: "siding_material in (STUCCO, FIBER_CEMENT, MASONRY, METAL)"}
+  regimes:
+    ibhs: {status: CERT_REQUIRED, level: ENHANCED, citation: "IBHS Plus #6 — replace wood, engineered wood-fiber or vinyl siding; also replace combustible decorative shutters"}
+    ab38_retro: {status: DISCLOSE_ONLY, clock: {basis: ON_REPLACEMENT}, list: hardening, item: 10, citation: "OSFM LCRL #10 — 'When it's time to replace your siding or deck'"}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+  evidence: {weight: 2, basis: "Matters under sustained radiant exposure, less so for pure ember attack."}
+  detection: {method: STREETVIEW_CV, confidence: MEDIUM, note: "Coarse material classes reach macro-F1 0.91-0.96 in published work."}
+  cost: {unit: SF, low: 6.67, high: 6.67, typical_job: 12000, source: "Headwaters fiber-cement $6.67/SF"}
+  suppress_if: "year_built >= 2008 and in_sra_or_vhfhsz_lra"
+
+- id: bay_window.enclose_under
+  name: Enclose the open area beneath a ground-floor bay window
+  component: siding
+  pathway: EMBER
+  feature: {attribute: siding_material, compliant_when: "no open cavity under ground-floor bay windows"}
+  regimes:
+    ibhs: {status: CERT_REQUIRED, level: ENHANCED, citation: "IBHS Plus #7"}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 2, basis: "Sheltered cavity that collects embers directly against the wall."}
+  detection: {method: STREETVIEW_CV, confidence: LOW}
+  cost: {unit: JOB, low: 400, high: 1500, typical_job: 800}
+
+# ============================== WINDOWS / DOORS ==============================
+
+- id: window.multipane_tempered
+  name: Replace windows with multipane glazing including at least one tempered pane
+  component: window
+  pathway: RADIANT
+  feature: {attribute: window_glazing, compliant_when: "window_glazing == DUAL_TEMPERED"}
+  regimes:
+    sfw: {status: VOLUNTARY_CREDIT, clock: {basis: ALREADY_IN_FORCE}, citation: "10 CCR 2644.9 — 'multipane or dual-pane windows, or functional shutters'. EITHER satisfies."}
+    ab38_retro: {status: DISCLOSE_ONLY, clock: {basis: ON_REPLACEMENT}, list: hardening, item: 9, citation: "OSFM LCRL #9 — 'When it's time to replace your windows'"}
+    ab38_feat: {status: DISCLOSE_ONLY, citation: "Civ. Code 1102.6f — 'single pane or nontempered glass windows'"}
+    ibhs: {status: CERT_REQUIRED, level: ENHANCED, citation: "IBHS Plus #5 — tempered multipaned glass, at least 2 panes tempered, or fire-resistant glass blocks"}
+    zone0: {status: NOT_APPLICABLE}
+  evidence: {weight: 3, basis: "Syphard & Keeley: number of window panes among the strongest structural predictors."}
+  detection: {method: SURVEY, confidence: LOW, note: "Pane count is not detectable from street imagery. Canonical survey question."}
+  cost: {unit: EA, low: 755.46, high: 1255, typical_job: 12000, source: "Headwaters $755/window + $400-500 trim; $2,200-2,500 per short side"}
+  savings: {sfw_item: multi_pane_windows, pct_full: 0.32, usd_full: 7.04, usd_wildfire: 4.98}
+  alternative: window.shutters
+
+- id: window.shutters
+  name: Install functional noncombustible shutters
+  component: window
+  pathway: RADIANT
+  feature: {attribute: shutters_present, compliant_when: "functional noncombustible shutters on exterior windows"}
+  regimes:
+    sfw: {status: VOLUNTARY_CREDIT, clock: {basis: ALREADY_IN_FORCE}, citation: "10 CCR 2644.9 — accepted as an alternative to multipane windows"}
+    ibhs: {status: RECOMMENDED, note: "IBHS ENHANCED requires the glazing upgrade; shutters do not substitute"}
+    zone0: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 2, basis: "Blocks radiant flux and ember contact at a fraction of replacement cost."}
+  detection: {method: STREETVIEW_CV, confidence: MEDIUM, note: "Detects presence; 'functional' vs decorative is not detectable."}
+  cost: {unit: SF, low: 46.78, high: 46.78, typical_job: 2807, source: "Headwaters $46.78/SF; ~$281 per 6 SF window"}
+  note: >
+    IMPORTANT ROUTING RULE. SFW accepts EITHER windows OR shutters for the same credit.
+    Shutters are roughly 4x cheaper. Never recommend full window replacement for
+    discount purposes when shutters satisfy the same cell.
+
+- id: door.noncombustible
+  name: Upgrade exterior doors to noncombustible or ignition-resistant with a metal threshold
+  component: door
+  pathway: RADIANT
+  feature: {attribute: siding_material, compliant_when: "solid exterior doors of metal, fiberglass or solid hardwood, metal threshold; glazing tempered dual pane"}
+  regimes:
+    ibhs: {status: CERT_REQUIRED, level: ENHANCED, citation: "IBHS Plus #5 Doors — or install a noncombustible storm door over the existing door"}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 2}
+  detection: {method: STREETVIEW_CV, confidence: LOW}
+  cost: {unit: EA, low: 1246.87, high: 9819, typical_job: 2200, source: "Headwaters: metal side door $1,247; fiberglass $1,517; metal slider $2,681; fiberglass slider $9,819"}
+
+- id: door.metal_kick_plate
+  name: Fit a metal kick plate to wood entry and garage doors
+  component: door
+  pathway: RADIANT
+  feature: {attribute: siding_material, compliant_when: "metal kick plate on combustible doors"}
+  regimes:
+    ibhs: {status: RECOMMENDED}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 2, basis: "Cheap partial substitute for full door replacement."}
+  detection: {method: STREETVIEW_CV, confidence: LOW}
+  cost: {unit: EA, low: 120.41, high: 265.61, typical_job: 190, source: "Headwaters: $120 pedestrian door, $266 garage door"}
+
+- id: garage.weatherstrip
+  name: Weather-strip gaps over 1/8 inch between garage doors and frames, UL 10C compliant
+  component: garage
+  pathway: EMBER
+  feature: {attribute: garage_attached, compliant_when: "no gaps > 1/8 in; weather-stripping compliant with UL Standard 10C"}
+  regimes:
+    ab38_retro: {status: DISCLOSE_ONLY, list: hardening, item: 8, citation: "OSFM LCRL #8 — 'must be compliant with UL Standard 10C'"}
+    ibhs: {status: RECOMMENDED}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+  evidence: {weight: 3, basis: "Attached garages are a major documented ember entry point into the structure."}
+  detection: {method: SURVEY, confidence: LOW}
+  cost: {unit: EA, low: 530.29, high: 530.29, typical_job: 530, source: "Headwaters weather stripping $530.29 ea"}
+  applies_only_if: "garage_attached == true"
+
+# ============================== DECK ==============================
+
+- id: deck.wall_flashing_6in
+  name: Install minimum 6 inch metal flashing at the deck-to-wall intersection
+  component: deck
+  pathway: FLAME
+  feature: {attribute: attached_deck_present, compliant_when: "6 in vertical metal flashing on the wall at the deck-to-wall intersection"}
+  regimes:
+    ab38_retro: {status: DISCLOSE_ONLY, list: hardening, item: 12, citation: "OSFM LCRL #12 — 'minimum 6-inch metal flashing, applied vertically'"}
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL, citation: "IBHS #3 — metal flashing may be used above deck walking surfaces and posts"}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+  evidence: {weight: 3, basis: "Headwaters names this the single cheapest meaningful retrofit, from ~$2,000 total packages."}
+  detection: {method: SURVEY, confidence: LOW}
+  cost: {unit: LF, low: 2.74, high: 4.14, typical_job: 200, source: "Headwaters $2.74-4.14/LF"}
+  applies_only_if: "attached_deck_present == true"
+
+- id: deck.clear_debris_and_combustibles
+  name: Clear debris and combustibles from on, under and within 5 feet of the deck
+  component: deck
+  pathway: EMBER
+  feature: {attribute: stored_combustibles_zone0, compliant_when: "no vegetative debris or stored combustibles on, under or within 5 ft of the deck"}
+  regimes:
+    sfw: {status: VOLUNTARY_CREDIT, clock: {basis: ALREADY_IN_FORCE}, citation: "10 CCR 2644.9, Immediate Surroundings: vegetation clearing under decks"}
+    ab38_retro: {status: DISCLOSE_ONLY, list: defensible_space, item: 2, citation: "OSFM LCRL DS#2 — 'underneath, on top of, or within five feet of a deck'"}
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL, citation: "IBHS #5 — clear all tree debris; remove large rugs and combustible furniture"}
+    zone0: {status: REQUIRED, phase: PHASE_1, clock: {basis: EFFECTIVE_PLUS_YEARS, years: 3, set_by: STATE}, note: "Deck is an 'attachment', so Zone 0 is measured from it"}
+  evidence: {weight: 3, basis: "IBHS full-scale testing: under-deck accumulation is a primary ignition site."}
+  detection: {method: SURVEY, confidence: LOW, note: "Under-deck is invisible to all imagery. Survey only."}
+  cost: {unit: NONE, low: 0, high: 0, typical_job: 0}
+  savings: {sfw_item: under_deck_clearance, pct_full: 0.30, usd_full: 5.10, usd_wildfire: 4.70}
+  recurring: true
+  applies_only_if: "attached_deck_present == true"
+
+- id: deck.under_enclosure_mesh
+  name: Enclose beneath low decks with 1/8 inch or finer metal mesh
+  component: deck
+  pathway: EMBER
+  feature: {attribute: deck_height_ft, compliant_when: "under-deck enclosed with 1/8 in mesh or noncombustible wall covering"}
+  regimes:
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL, citation: "IBHS #5 — decks with walking surface 4 ft or less from the ground"}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 3, basis: "Keeps debris and embers out of the space that ignites decks from below."}
+  detection: {method: SURVEY, confidence: LOW}
+  cost: {unit: SF, low: 27.03, high: 27.03, typical_job: 1081, source: "Headwaters $27.03/SF mesh skirting"}
+  applies_only_if: "attached_deck_present == true and deck_height_ft <= 4"
+
+- id: deck.post_base_6in
+  name: Install 6 inches of noncombustible material at the base of deck posts and stairs
+  component: deck
+  pathway: FLAME
+  feature: {attribute: attached_deck_present, compliant_when: "6 in noncombustible at post and stair bases where they meet the ground"}
+  regimes:
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 2}
+  detection: {method: STREETVIEW_CV, confidence: LOW}
+  cost: {unit: SF, low: 6.67, high: 6.67, typical_job: 150}
+  applies_only_if: "attached_deck_present == true"
+
+- id: deck.noncombustible_surface
+  name: Rebuild or retrofit to a solid noncombustible deck walking surface
+  component: deck
+  pathway: FLAME
+  feature: {attribute: deck_material, compliant_when: "deck_material == NONCOMBUSTIBLE and walking surface solid, no gaps"}
+  regimes:
+    ibhs: {status: CERT_REQUIRED, level: ENHANCED, citation: "IBHS Plus #8 — composite decking, plastic, FRT wood and dense hardwood do NOT comply"}
+    ab38_retro: {status: DISCLOSE_ONLY, clock: {basis: ON_REPLACEMENT}, list: hardening, item: 10}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+  evidence: {weight: 2}
+  detection: {method: SURVEY, confidence: LOW}
+  cost: {unit: SF, low: 11.17, high: 66.76, typical_job: 9000, source: "Headwaters: $11.17/SF decking; >$9,000 for a typical steel deck"}
+  note: "Composite decking failing IBHS ENHANCED surprises almost everyone. Flag explicitly."
+
+- id: deck.first_board_metal_grate
+  name: Replace the first deck board parallel to the house with a metal grate
+  component: deck
+  pathway: EMBER
+  feature: {attribute: attached_deck_present, compliant_when: "first board against the wall is metal grate"}
+  regimes:
+    ibhs: {status: RECOMMENDED}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 2, basis: "Lets debris fall through instead of accumulating in the deck-to-wall crevice."}
+  detection: {method: SURVEY, confidence: LOW}
+  cost: {unit: LF, low: 104.13, high: 104.13, typical_job: 2100, source: "Headwaters"}
+  divergence_note: "Appears in no regime. Evidence-column item."
+
+- id: deck.noncombustible_furniture
+  name: Replace combustible deck furniture and rugs with metal
+  component: deck
+  pathway: EMBER
+  feature: {attribute: stored_combustibles_zone0, compliant_when: "no wood, wicker or plastic furniture, no large rugs on the deck"}
+  regimes:
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL, citation: "IBHS #5 — up to 10 small noncombustible terra cotta or ceramic planters permitted; a few cushions and a small door mat"}
+    ab38_retro: {status: DISCLOSE_ONLY, list: defensible_space, item: 7, citation: "OSFM LCRL DS#7 — store combustible outdoor furnishings away when not in use"}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+  evidence: {weight: 2}
+  detection: {method: SURVEY, confidence: LOW}
+  cost: {unit: JOB, low: 0, high: 800, typical_job: 0}
+
+- id: deck.remove_pergola
+  name: Remove combustible pergolas or gazebos from wood or composite decks
+  component: deck
+  pathway: FLAME
+  feature: {attribute: attached_deck_present, compliant_when: "no combustible overhead structure on the deck"}
+  regimes:
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 2}
+  detection: {method: AERIAL_CV, confidence: MEDIUM}
+  cost: {unit: JOB, low: 0, high: 2000, typical_job: 500}
+
+- id: awning.stored_when_unused
+  name: Retract and store awnings and umbrellas when not in use
+  component: deck
+  pathway: EMBER
+  feature: {attribute: stored_combustibles_zone0, compliant_when: "awnings retracted, umbrellas stored"}
+  regimes:
+    ab38_retro: {status: DISCLOSE_ONLY, list: defensible_space, item: 8, citation: "OSFM LCRL DS#8 — 'so they do not collect leaves and embers'"}
+    ibhs: {status: NOT_APPLICABLE}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+  evidence: {weight: 1}
+  detection: {method: AERIAL_CV, confidence: LOW}
+  cost: {unit: NONE, low: 0, high: 0, typical_job: 0}
+  recurring: true
+
+# ============================== FENCES AND GATES ==============================
+
+- id: fence.noncombustible_section_at_house
+  name: Replace the section of fence where it attaches to the house with noncombustible material
+  component: fence
+  pathway: FLAME
+  feature: {attribute: fence_attaches_to_structure, compliant_when: "no combustible fence, post or gate within 5 ft of the structure"}
+  regimes:
+    zone0:
+      status: REQUIRED
+      phase: PHASE_2
+      clock: {basis: EFFECTIVE_PLUS_YEARS, years: 5, set_by: LOCAL_JURISDICTION}
+      citation: "BOF Zone 0 Aug 2026 FENCES — 'A five-foot noncombustible section is required where fences attach to a home, to be completed in Phase 2'"
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL, citation: "IBHS #1 — replace combustible (wood/vinyl) fencing, posts and gates within 5 ft with metal (aluminium, chain link, iron) or concrete block"}
+    sfw: {status: VOLUNTARY_CREDIT, credit_via: sfw.five_ft_noncombustible_material, citation: "10 CCR 2644.9 — noncombustible materials for improvements within 5 feet"}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 3, basis: "NIST 187-experiment study: combustible fences act as wicks carrying fire to the structure. FEMA Marshall Fire MAT reached the same conclusion."}
+  detection:
+    method: GIS
+    confidence: HIGH
+    note: "GEOMETRY is high confidence: linear feature intersected with a 5 ft footprint buffer. MATERIAL is LOW and needs street view or survey. Split the two in `a`."
+  cost: {unit: EA, low: 150, high: 2000, typical_job: 400, source: "Chain link gate ~$150; full noncombustible fence $60.44/SF"}
+  savings: {sfw_item: five_ft_noncombustible_material, pct_full: 0.54, usd_full: 9.05, usd_wildfire: 4.70}
+
+- id: fence.gate_noncombustible
+  name: Replace combustible gates within Zone 0 with noncombustible gates
+  component: fence
+  pathway: FLAME
+  feature: {attribute: fence_material, compliant_when: "gates within 5 ft are noncombustible"}
+  regimes:
+    zone0:
+      status: REQUIRED
+      phase: PHASE_2
+      clock: {basis: EFFECTIVE_PLUS_YEARS, years: 5, set_by: LOCAL_JURISDICTION}
+      citation: "BOF Zone 0 Aug 2026 — 'replacing combustible gates' named explicitly as a Phase 2 item"
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL}
+    sfw: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 2}
+  detection: {method: STREETVIEW_CV, confidence: LOW}
+  cost: {unit: EA, low: 150, high: 900, typical_job: 300}
+
+- id: fence.no_new_combustible_zone0
+  name: Do not install new combustible fences or gates within 5 feet of the structure
+  component: fence
+  pathway: FLAME
+  feature: {attribute: fence_material, compliant_when: "no NEW combustible fence or gate installed in Zone 0"}
+  regimes:
+    zone0:
+      status: PROHIBITED
+      phase: IMMEDIATE
+      clock: {basis: ON_EFFECTIVE_DATE, set_by: STATE}
+      citation: "BOF Zone 0 Aug 2026 — 'No new combustible fences or gates are permitted within Zone 0. Repairs to existing fences are permitted.'"
+    ibhs: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 2}
+  detection: {method: SURVEY, confidence: LOW, note: "A prohibition, not a gap. Never appears in the action list; render as guidance."}
+  cost: {unit: NONE, low: 0, high: 0, typical_job: 0}
+  output_class: GUIDANCE
+
+- id: fence.remove_back_to_back
+  name: Remove back-to-back fencing where parallel fences sit less than 5 feet apart
+  component: fence
+  pathway: FLAME
+  feature: {attribute: back_to_back_fencing, compliant_when: "no parallel fence pair < 5 ft apart within 30 ft of the home"}
+  regimes:
+    ibhs: {status: CERT_REQUIRED, level: ENHANCED, citation: "IBHS Plus #9 — work with your neighbour to remove sections within 30 ft of the home"}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 3, basis: "NIST: paired fences less than 5 ft apart burned dramatically worse than single fences. Explicit compounding effect."}
+  detection: {method: AERIAL_CV, confidence: MEDIUM, note: "Parallel linear features under 5 ft apart. Computable."}
+  cost: {unit: JOB, low: 200, high: 3000, typical_job: 800}
+  requires_neighbour_cooperation: true
+
+# ============================== ZONE 0 (0-5 FT) ==============================
+
+- id: zone0.mulch_removal
+  name: Replace combustible mulch and woodchips within 5 feet with noncombustible ground cover
+  component: zone0
+  pathway: FLAME
+  feature: {attribute: ground_cover_zone0, compliant_when: "ground_cover_zone0 not in (WOOD_MULCH)"}
+  regimes:
+    zone0:
+      status: REQUIRED
+      phase: PHASE_1
+      clock: {basis: EFFECTIVE_PLUS_YEARS, years: 3, set_by: STATE}
+      citation: "BOF Zone 0 Aug 2026 PLANTS/LANDSCAPING — combustible mulches, woodchips, firewood and stored wood prohibited in Zone 0"
+    ab38_retro: {status: DISCLOSE_ONLY, list: defensible_space, item: 4, citation: "OSFM LCRL DS#4 — replace with dirt, stone or gravel"}
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL, citation: "IBHS #1 — remove all vegetation and combustible ground covers such as wood mulch within 5 ft, down to bare dirt or hardscape"}
+    sfw: {status: VOLUNTARY_CREDIT, credit_via: sfw.five_ft_noncombustible_material}
+  evidence: {weight: 3, basis: "NIST: flames rush along mulch lining the base of fences. Compounds severely with fence.* measures."}
+  detection: {method: STREETVIEW_CV, confidence: LOW, note: "Front elevation only. Overhead is unreliable: eave overhang occludes the ring and 5 ft is 5-10 px."}
+  cost: {unit: CY, low: 463.62, high: 463.62, typical_job: 2782, source: "Headwaters: full mulch-to-pea-gravel job $2,782 incl. demo and haul; weed barrier +$100"}
+  savings: {sfw_item: five_ft_noncombustible_material, pct_full: 0.54, usd_full: 9.05, usd_wildfire: 4.70}
+  compounds_with: [fence.noncombustible_section_at_house, deck.clear_debris_and_combustibles]
+
+- id: zone0.firewood_removal
+  name: Move firewood and stored wood out of the 5 foot zone
+  component: zone0
+  pathway: FLAME
+  feature: {attribute: stored_combustibles_zone0, compliant_when: "no firewood or stored wood within 5 ft"}
+  regimes:
+    zone0: {status: REQUIRED, phase: PHASE_1, clock: {basis: EFFECTIVE_PLUS_YEARS, years: 3, set_by: STATE}, citation: "BOF Zone 0 Aug 2026 — firewood, stored wood prohibited in Zone 0"}
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL, citation: "IBHS: firewood should be stored 30 feet from any structure"}
+    ab38_retro: {status: DISCLOSE_ONLY, list: defensible_space, item: 6, citation: "OSFM LCRL DS#6 — 30 ft away or fully covered in fire-resistant material; 10 ft clearance around wood piles"}
+    sfw: {status: VOLUNTARY_CREDIT, credit_via: sfw.five_ft_debris_removal}
+  evidence: {weight: 3, basis: "Highest-energy fuel load typically found in Zone 0, and free to move."}
+  detection: {method: STREETVIEW_CV, confidence: LOW}
+  cost: {unit: NONE, low: 0, high: 0, typical_job: 0}
+  note: "Free. Always near the top of the action list."
+
+- id: zone0.leaf_litter_removal
+  name: Clear fallen leaves, needles and vegetative debris from the 5 foot zone
+  component: zone0
+  pathway: EMBER
+  feature: {attribute: ground_cover_zone0, compliant_when: "no accumulated vegetative debris within 5 ft"}
+  regimes:
+    zone0: {status: REQUIRED, phase: PHASE_1, clock: {basis: EFFECTIVE_PLUS_YEARS, years: 3, set_by: STATE}, citation: "BOF Zone 0 Aug 2026 PLANTS/LANDSCAPING — 'fallen leaves and needles' named among combustible materials prohibited in Zone 0"}
+    ab38_retro: {status: DISCLOSE_ONLY, list: defensible_space, item: 1, citation: "OSFM LCRL DS#1 — includes 'the base of walls'"}
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL}
+    sfw: {status: VOLUNTARY_CREDIT, credit_via: sfw.five_ft_debris_removal}
+  evidence: {weight: 3}
+  detection: {method: STREETVIEW_CV, confidence: LOW}
+  cost: {unit: NONE, low: 0, high: 0, typical_job: 0}
+  recurring: true
+  savings: {sfw_item: five_ft_clearance, pct_full: 0.84, usd_full: 13.98, usd_wildfire: 4.70}
+
+- id: zone0.dead_plants_removal
+  name: Remove dead and dying plants from the 5 foot zone
+  component: zone0
+  pathway: FLAME
+  feature: {attribute: ground_cover_zone0, compliant_when: "no dead or dying vegetation within 5 ft"}
+  regimes:
+    zone0: {status: REQUIRED, phase: PHASE_1, clock: {basis: EFFECTIVE_PLUS_YEARS, years: 3, set_by: STATE}, citation: "BOF Zone 0 Aug 2026 PHASE 1 — 'Removing dead and dying plants'"}
+    prc4291: {status: REQUIRED, clock: {basis: ALREADY_IN_FORCE}, citation: "PRC 4291 — maintain a tree, shrub or other plant adjacent to or overhanging a building free of dead or dying wood"}
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL}
+    ab38_retro: {status: DISCLOSE_ONLY, list: defensible_space, item: 5}
+  evidence: {weight: 3}
+  detection: {method: AERIAL_CV, confidence: LOW, note: "NDVI-based senescence detection is possible but seasonally confounded in CA."}
+  cost: {unit: NONE, low: 0, high: 300, typical_job: 0}
+
+- id: zone0.safety_zone_vegetation_free
+  name: Establish a vegetation-free noncombustible safety zone under the eaves
+  component: zone0
+  pathway: FLAME
+  feature:
+    attribute: ground_cover_zone0
+    compliant_when: "vegetation-free noncombustible band of width max(eave_depth_in, 12) inches against the structure"
+  regimes:
+    zone0:
+      status: REQUIRED
+      phase: PHASE_2
+      clock: {basis: EFFECTIVE_PLUS_YEARS, years: 5, set_by: LOCAL_JURISDICTION}
+      parameter:
+        width_in: "max(eave_depth_in, 12)"
+        shallow_eave_additions:
+          - "vegetation-free within 24 in of windows, doors and vents"
+          - "vegetation-free within 60 in of attached decks and similar features"
+      citation: >
+        BOF Zone 0 Aug 2026 — 'This zone width flexes with the width of the eave. If the
+        structure has 12-inch eaves, the safety zone is 12 inches in width. If the structure
+        has 36-inch eaves, the safety zone is 36 inches in width.'
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL, note: "IBHS requires the FULL 5 ft bare, not just the eave-width band. Strictly stronger."}
+    sfw: {status: VOLUNTARY_CREDIT, credit_via: sfw.five_ft_noncombustible_material}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 3, basis: "Strongest consensus item in the field. Note the ADOPTED rule is weaker than the science."}
+  detection: {method: SURVEY, confidence: LOW, note: "Needs eave_depth_in, which is itself hard to measure remotely."}
+  cost: {unit: JOB, low: 400, high: 2800, typical_job: 1200}
+  divergence_note: >
+    THE flagship divergence. Zone 0 requires as little as 12 inches. IBHS and the
+    published science support a full 5 ft. Show the homeowner both: the legal minimum
+    and the effective standard. This is the product's honesty differentiator.
+
+- id: zone0.allowable_vegetation_conversion
+  name: Convert remaining Zone 0 planting to allowable low-combustibility species
+  component: zone0
+  pathway: FLAME
+  feature:
+    attribute: ground_cover_zone0
+    compliant_when: >
+      Outside the safety zone, only: non-woody herbaceous plants and flowers in spaced
+      groupings (bulbs, impatiens, begonias, petunias, poppies, yarrow, non-thatching
+      succulents); low ground covers (blue-star creeper, beach strawberry, creeping thyme,
+      mosses); grass or lawn maintained and mowed to 3 in; potted plants in noncombustible
+      pots, easily moveable, no taller than 1.5 ft, meeting spacing requirements.
+  regimes:
+    zone0: {status: REQUIRED, phase: PHASE_1, clock: {basis: EFFECTIVE_PLUS_YEARS, years: 3, set_by: STATE}, citation: "BOF Zone 0 Aug 2026 PLANTS/LANDSCAPING"}
+    ibhs: {status: NOT_APPLICABLE, note: "IBHS permits NO vegetation in the 5 ft zone at all. Zone 0 compliance does not imply IBHS compliance."}
+    sfw: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 2, basis: "Regulatory compromise, not a science-derived threshold."}
+  detection: {method: STREETVIEW_CV, confidence: LOW, note: "Species-level identification is not realistic at scale. Survey or self-attest."}
+  cost: {unit: JOB, low: 0, high: 3000, typical_job: 800}
+
+- id: zone0.tree_deadwood_removal
+  name: Remove dead wood from trees within the 5 foot zone
+  component: zone0
+  pathway: FLAME
+  feature: {attribute: canopy_within_zone0, compliant_when: "no dead wood in Zone 0 trees"}
+  regimes:
+    zone0: {status: REQUIRED, phase: IMMEDIATE, clock: {basis: ON_EFFECTIVE_DATE, set_by: STATE}, citation: "BOF Zone 0 Aug 2026 TREES — 'Dead wood should be removed (immediately)'"}
+    prc4291: {status: REQUIRED, clock: {basis: ALREADY_IN_FORCE}, citation: "PRC 4291 — maintain a tree, shrub or other plant adjacent to or overhanging a building free of dead or dying wood"}
+    ibhs: {status: NOT_APPLICABLE, note: "IBHS requires removal of the tree itself from the 5 ft zone"}
+    sfw: {status: NOT_APPLICABLE}
+  evidence: {weight: 2}
+  detection: {method: SURVEY, confidence: LOW}
+  cost: {unit: JOB, low: 200, high: 1200, typical_job: 500}
+  applies_only_if: "canopy_within_zone0 == true"
+
+- id: zone0.tree_ladder_fuel_removal
+  name: Remove ladder fuels from trees in the 5 foot zone
+  component: zone0
+  pathway: FLAME
+  feature:
+    attribute: canopy_within_zone0
+    compliant_when: "limbs removed from the bottom 6 ft for large trees, or the lower third for smaller trees, whichever is less"
+  regimes:
+    zone0:
+      status: REQUIRED
+      phase: PHASE_1
+      clock: {basis: EFFECTIVE_PLUS_YEARS, years: 3, set_by: STATE}
+      parameter: {large_tree_clear_ft: 6, small_tree_clear_fraction: 0.333, rule: "whichever is less"}
+      citation: "BOF Zone 0 Aug 2026 TREES. Per-tree transmission risk determined by the local defensible space inspector."
+    ibhs: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 2}
+  detection: {method: SURVEY, confidence: LOW, note: "Lidar CHM can suggest crown base height where flown; otherwise survey."}
+  cost: {unit: JOB, low: 300, high: 1500, typical_job: 700}
+  applies_only_if: "canopy_within_zone0 == true"
+
+- id: zone0.no_new_trees
+  name: Do not plant new trees within the 5 foot zone
+  component: zone0
+  pathway: FLAME
+  feature: {attribute: canopy_within_zone0, compliant_when: "no trees planted in Zone 0 after the effective date"}
+  regimes:
+    zone0: {status: PROHIBITED, phase: IMMEDIATE, clock: {basis: ON_EFFECTIVE_DATE, set_by: STATE}, citation: "BOF Zone 0 Aug 2026 — aligns with the CWUI code overseen by OSFM"}
+    ibhs: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 2}
+  detection: {method: SURVEY, confidence: LOW}
+  cost: {unit: NONE, low: 0, high: 0, typical_job: 0}
+  output_class: GUIDANCE
+
+- id: zone0.tree_removal_full
+  name: Remove trees and overhanging branches from the 5 foot zone entirely
+  component: zone0
+  pathway: FLAME
+  feature: {attribute: canopy_within_zone0, compliant_when: "canopy_within_zone0 == false"}
+  regimes:
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL, citation: "IBHS #1 — 'the home buffer extends to the sky'"}
+    zone0: {status: NOT_APPLICABLE, note: "Zone 0 explicitly PERMITS existing trees to remain. This is IBHS-only."}
+    sfw: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 3, basis: "Syphard & Keeley: vegetation overhanging or touching the structure among the most effective interventions."}
+  detection: {method: GIS, confidence: HIGH, note: "Canopy height model in the 5 ft footprint buffer. High confidence."}
+  cost: {unit: JOB, low: 800, high: 6000, typical_job: 2200}
+  blocker: protected_tree_present_zone0
+  blocker_note: >
+    IBHS HARD DISQUALIFIER. If a protected or heritage tree cannot legally be removed,
+    IBHS certification is unavailable regardless of everything else. Surface this EARLY,
+    before the homeowner spends anything. High-confidence detection makes this feasible
+    and it is a genuinely differentiated output.
+
+- id: zone0.stored_items_removal
+  name: Remove stored combustible items from the 5 foot zone
+  component: zone0
+  pathway: FLAME
+  feature: {attribute: stored_combustibles_zone0, compliant_when: "no potted plants, furniture, trash cans, pet houses, lawn tools, sheds or hot tubs within 5 ft"}
+  regimes:
+    zone0: {status: REQUIRED, phase: PHASE_1, clock: {basis: EFFECTIVE_PLUS_YEARS, years: 3, set_by: STATE}, citation: "BOF Zone 0 Aug 2026 PLANTS/LANDSCAPING — 'No combustible materials, unless otherwise permitted, shall be in Zone 0'"}
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL}
+    sfw: {status: VOLUNTARY_CREDIT, credit_via: sfw.five_ft_debris_removal}
+    ab38_retro: {status: DISCLOSE_ONLY, list: defensible_space, item: 7}
+  evidence: {weight: 3}
+  detection: {method: STREETVIEW_CV, confidence: LOW}
+  cost: {unit: NONE, low: 0, high: 0, typical_job: 0}
+
+- id: zone0.vehicles_removal
+  name: Do not park vehicles, RVs, boats, trailers or ATVs within 5 feet of the house
+  component: zone0
+  pathway: FLAME
+  feature: {attribute: stored_combustibles_zone0, compliant_when: "no vehicles parked within 5 ft"}
+  regimes:
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL, citation: "IBHS #1 — relocate to a closed garage or at least 30 ft away"}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 2, basis: "Vehicles carry large fuel and plastic loads directly against the wall."}
+  detection: {method: AERIAL_CV, confidence: MEDIUM}
+  cost: {unit: NONE, low: 0, high: 0, typical_job: 0}
+
+- id: zone0.vines_removal
+  name: Remove vines from walls, pergolas and fences within 5 feet
+  component: zone0
+  pathway: FLAME
+  feature: {attribute: ground_cover_zone0, compliant_when: "no vines on the structure, pergolas or fences within 5 ft"}
+  regimes:
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL}
+    zone0: {status: REQUIRED, phase: PHASE_1, clock: {basis: EFFECTIVE_PLUS_YEARS, years: 3, set_by: STATE}, note: "Falls under the general prohibition on combustible materials in Zone 0"}
+    sfw: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 3, basis: "A continuous vertical fuel path from ground to eave."}
+  detection: {method: STREETVIEW_CV, confidence: MEDIUM}
+  cost: {unit: NONE, low: 0, high: 400, typical_job: 0}
+
+- id: zone0.artificial_turf_removal
+  name: Remove artificial turf from within 5 feet of the house
+  component: zone0
+  pathway: FLAME
+  feature: {attribute: ground_cover_zone0, compliant_when: "no artificial turf within 5 ft"}
+  regimes:
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL, citation: "IBHS #1 — artificial turf named explicitly among items to remove"}
+    zone0: {status: NOT_APPLICABLE, note: "Not named in the adopted Zone 0 text. IBHS-only."}
+    sfw: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 2}
+  detection: {method: AERIAL_CV, confidence: LOW}
+  cost: {unit: JOB, low: 300, high: 2500, typical_job: 900}
+
+- id: zone0.window_door_clearance
+  name: Remove vegetation and combustibles within 5 feet of windows and glass doors
+  component: zone0
+  pathway: RADIANT
+  feature: {attribute: ground_cover_zone0, compliant_when: "no vegetation or combustibles within 5 ft of windows and glass doors"}
+  regimes:
+    ab38_retro: {status: DISCLOSE_ONLY, list: defensible_space, item: 3, citation: "OSFM LCRL DS#3"}
+    zone0: {status: REQUIRED, phase: PHASE_2, clock: {basis: EFFECTIVE_PLUS_YEARS, years: 5, set_by: LOCAL_JURISDICTION}, parameter: {distance_in: 24}, citation: "BOF Zone 0 Aug 2026 — where eaves are shallow, vegetation-free within two feet of windows, doors and vents"}
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL}
+    sfw: {status: NOT_APPLICABLE}
+  evidence: {weight: 3, basis: "Glazing fails under radiant flux, opening the interior to embers."}
+  detection: {method: STREETVIEW_CV, confidence: LOW}
+  cost: {unit: NONE, low: 0, high: 600, typical_job: 0}
+  note: "NOTE the conflict: OSFM says 5 ft, adopted Zone 0 says 2 ft for shallow eaves. Report the stricter."
+
+# ============================== ZONE 1 (5-30 FT) ==============================
+
+- id: zone1.dead_vegetation_removal
+  name: Remove all dead or dying vegetation within 30 feet
+  component: zone1
+  pathway: FLAME
+  feature: {attribute: canopy_cover_5_30ft, compliant_when: "no dead or dying grass, plants, shrubs, trees, branches, leaves, weeds or pine needles within 30 ft or to the property line"}
+  regimes:
+    prc4291: {status: REQUIRED, clock: {basis: ALREADY_IN_FORCE}, citation: "PRC 4291 Zone 1"}
+    ab38_retro: {status: DISCLOSE_ONLY, list: defensible_space, item: 5, citation: "OSFM LCRL DS#5"}
+    ab38_ds: {status: REQUIRED, clock: {basis: ON_TRANSACTION}, citation: "Documented PRC 4291 compliance required before close of escrow"}
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL}
+    sfw: {status: VOLUNTARY_CREDIT, credit_via: sfw.local_ordinance_compliance}
+  evidence: {weight: 2, basis: "Syphard & Keeley found 0-30 m vegetation a weak predictor, but it is legally required and inspected."}
+  detection: {method: AERIAL_CV, confidence: LOW}
+  cost: {unit: JOB, low: 0, high: 2000, typical_job: 400}
+  recurring: true
+  savings: {sfw_item: local_ordinance_compliance, pct_full: 0.56, usd_full: 10.15, usd_wildfire: 6.90}
+
+- id: zone1.grass_mowed
+  name: Keep grass mown and irrigated
+  component: zone1
+  pathway: FLAME
+  feature: {attribute: ground_cover_zone0, compliant_when: "grass <= 4 in (IBHS) / <= 3 in within Zone 0 (Zone 0 rule)"}
+  regimes:
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL, parameter: {max_height_in: 4}, citation: "IBHS #6 — cut grass to no more than 4 inches and keep watered"}
+    zone0: {status: REQUIRED, phase: PHASE_1, clock: {basis: EFFECTIVE_PLUS_YEARS, years: 3, set_by: STATE}, parameter: {max_height_in: 3}, citation: "BOF Zone 0 Aug 2026 — 'mowed to the three-inch requirement'"}
+    prc4291: {status: REQUIRED, clock: {basis: ALREADY_IN_FORCE}, citation: "PRC 4291 Zone 1 — remove all dead or dying grass, plants, shrubs, trees, branches, leaves, weeds and pine needles"}
+    sfw: {status: NOT_APPLICABLE}
+  evidence: {weight: 2}
+  detection: {method: AERIAL_CV, confidence: LOW}
+  cost: {unit: NONE, low: 0, high: 0, typical_job: 0}
+  recurring: true
+  note: "Thresholds CONFLICT: 3 in inside Zone 0, 4 in for IBHS beyond. Report the stricter applicable value."
+
+- id: zone1.tree_limbing_6ft
+  name: Remove tree limbs below 6 feet from the ground
+  component: zone1
+  pathway: FLAME
+  feature: {attribute: canopy_cover_5_30ft, compliant_when: "no limbs below 6 ft"}
+  regimes:
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL, citation: "IBHS #6 — remove tree limbs less than 6 feet from the ground"}
+    prc4291: {status: REQUIRED, clock: {basis: ALREADY_IN_FORCE}, citation: "PRC 4291 Zone 1 — vertical fuel separation per BOF General Guidelines for Creating Defensible Space"}
+    zone0: {status: NOT_APPLICABLE, note: "Zone 0's ladder-fuel rule covers the 0-5 ft band only"}
+    sfw: {status: NOT_APPLICABLE}
+  evidence: {weight: 2, basis: "Breaks the surface-to-crown transition."}
+  detection: {method: GIS, confidence: MEDIUM, note: "Crown base height from lidar where 3DEP coverage exists."}
+  cost: {unit: JOB, low: 300, high: 1500, typical_job: 700}
+
+- id: zone1.canopy_spacing_10ft
+  name: Maintain at least 10 feet between neighbouring tree canopies
+  component: zone1
+  pathway: FLAME
+  feature: {attribute: canopy_cover_5_30ft, compliant_when: ">= 10 ft horizontal separation between canopies"}
+  regimes:
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL, citation: "IBHS #6", _staleness: IBHS_2023}
+    prc4291: {status: REQUIRED, clock: {basis: ALREADY_IN_FORCE}, note: "PRC 4291 Zone 2 uses fuel separation or continuous canopy methods per BOF guidelines"}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+  evidence: {weight: 2}
+  detection: {method: GIS, confidence: HIGH, note: "Canopy polygon separation from CHM. Fully computable."}
+  cost: {unit: JOB, low: 400, high: 3000, typical_job: 1200}
+  _staleness: IBHS_2023
+  staleness_note: "IBHS June 2026 update RELAXED tree and shrub spacing rules. Re-verify before use."
+
+- id: zone1.shrub_spacing
+  name: Space shrubs into discontinuous groupings and remove privacy hedges
+  component: zone1
+  pathway: FLAME
+  feature: {attribute: canopy_cover_5_30ft, compliant_when: "no more than 3 shrubs or 10 ft wide per grouping, 10 ft between groupings; no continuous hedges"}
+  regimes:
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL, citation: "IBHS #6 — remove privacy hedges or rows of bushes that create a pathway for fire", _staleness: IBHS_2023}
+    prc4291: {status: REQUIRED, clock: {basis: ALREADY_IN_FORCE}, citation: "PRC 4291 Zone 2 — horizontal fuel separation per BOF General Guidelines for Creating Defensible Space"}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+  evidence: {weight: 2}
+  detection: {method: AERIAL_CV, confidence: MEDIUM}
+  cost: {unit: JOB, low: 300, high: 4000, typical_job: 1000}
+  _staleness: IBHS_2023
+
+- id: zone1.firewood_30ft
+  name: Store firewood at least 30 feet from all structures
+  component: zone1
+  pathway: FLAME
+  feature: {attribute: stored_combustibles_zone0, compliant_when: "firewood >= 30 ft from structures, or fully covered in fire-resistant material, with 10 ft clearance around piles"}
+  regimes:
+    ab38_retro: {status: DISCLOSE_ONLY, list: defensible_space, item: 6, citation: "OSFM LCRL DS#6"}
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL}
+    prc4291: {status: REQUIRED, clock: {basis: ALREADY_IN_FORCE}, citation: "PRC 4291 Zone 1 — removal of combustible materials that could carry fire to the structure"}
+    sfw: {status: NOT_APPLICABLE}
+  evidence: {weight: 3}
+  detection: {method: AERIAL_CV, confidence: LOW}
+  cost: {unit: NONE, low: 0, high: 0, typical_job: 0}
+
+- id: zone1.propane_tank_30ft
+  name: Relocate or shield large stationary propane tanks
+  component: zone1
+  pathway: FLAME
+  feature:
+    attribute: propane_tank_present
+    compliant_when: >
+      Tank >= 30 ft from the home. If not possible, >= 10 ft AND either buried, or
+      enclosed on all four sides with concrete block, 1/8 in mesh over the top for
+      ventilation, and 5 ft of noncombustible ground cover surrounding.
+  regimes:
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL, citation: "IBHS #6 — retrofit in coordination with your propane provider"}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 2}
+  detection: {method: AERIAL_CV, confidence: LOW, note: "Distinctive shape and shadow in rural settings only."}
+  cost: {unit: JOB, low: 0, high: 5000, typical_job: 1500}
+  applies_only_if: "propane_tank_present == true"
+  safety_note: "Never instruct a homeowner to move a propane tank themselves. Route to the provider."
+
+# ============================== ZONE 2 (30-100 FT) ==============================
+
+- id: zone2.fuel_separation
+  name: Create horizontal and vertical fuel separation from 30 to 100 feet
+  component: zone2
+  pathway: FLAME
+  feature: {attribute: canopy_cover_30_100ft, compliant_when: "fuel separation or continuous canopy method per BOF General Guidelines"}
+  regimes:
+    prc4291: {status: REQUIRED, clock: {basis: ALREADY_IN_FORCE}, parameter: {extent_ft: 100, limit: "not beyond the property line"}, citation: "PRC 4291 — 100 feet from each side, front and rear, but not beyond the property line"}
+    ab38_ds: {status: REQUIRED, clock: {basis: ON_TRANSACTION}, citation: "AB 38 — seller must provide documentation of a compliant PRC 4291 defensible space inspection before close of escrow, completed within 6 months of the sales contract"}
+    sfw: {status: VOLUNTARY_CREDIT, credit_via: sfw.local_ordinance_compliance}
+    ibhs: {status: NOT_APPLICABLE}
+    zone0: {status: NOT_APPLICABLE}
+  evidence:
+    weight: 1
+    basis: >
+      Syphard & Keeley found treatment beyond 30 m gave no additional protection even on
+      steep slopes. Legally required, but weak on survival evidence. Rank it accordingly.
+  detection: {method: GIS, confidence: HIGH, note: "CHM in the 30-100 ft buffer ring. Fully computable."}
+  cost: {unit: JOB, low: 500, high: 8000, typical_job: 2000}
+  divergence_note: >
+    A clear R-vs-E divergence in the OPPOSITE direction to Zone 0: legally required,
+    expensive, and weakly supported by post-fire evidence. Say so plainly rather than
+    ranking it high just because it is mandatory.
+
+# ============================== OUTBUILDINGS ==============================
+
+- id: outbuilding.noncombustible_in_zone0
+  name: Sheds and outbuildings within 5 feet must have noncombustible roofs and walls
+  component: outbuilding
+  pathway: FLAME
+  feature: {attribute: outbuildings_within_30ft, compliant_when: "outbuildings within Zone 0 have noncombustible exterior roofs and walls"}
+  regimes:
+    zone0: {status: REQUIRED, phase: PHASE_2, clock: {basis: EFFECTIVE_PLUS_YEARS, years: 5, set_by: LOCAL_JURISDICTION}, citation: "BOF Zone 0 Aug 2026 FENCES, GATES AND SHEDS"}
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL, note: "IBHS instead requires 10 ft separation (ESSENTIAL) or 30 ft (ENHANCED)"}
+    sfw: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 2}
+  detection: {method: AERIAL_CV, confidence: MEDIUM}
+  cost: {unit: JOB, low: 500, high: 6000, typical_job: 2000}
+
+- id: outbuilding.separation_10ft
+  name: Place structures at least 10 feet from the home and 10 feet apart, maximum 3 within 30 feet
+  component: outbuilding
+  pathway: FLAME
+  feature:
+    attribute: outbuildings_within_30ft
+    compliant_when: >
+      Each shed, hot tub, pergola or playset >= 10 ft from the home and any attached deck,
+      >= 10 ft apart from each other, at most 3 within 30 ft. Each with a 5 ft
+      noncombustible buffer, 6 in noncombustible base, no overhanging branches or vines,
+      and elevated structures skirted with 1/8 in or finer metal mesh.
+  regimes:
+    ibhs: {status: CERT_REQUIRED, level: ESSENTIAL, citation: "IBHS #6", _staleness: IBHS_2023}
+    sfw: {status: VOLUNTARY_CREDIT, credit_via: sfw.thirty_ft_noncombustible_structure}
+    zone0: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 2}
+  detection: {method: GIS, confidence: MEDIUM, note: "Footprints intersected with parcel and buffers. Computable where outbuildings are mapped."}
+  cost: {unit: JOB, low: 0, high: 4000, typical_job: 1000}
+  savings: {sfw_item: thirty_ft_noncombustible_structure, pct_full: 0.31, usd_full: 5.83, usd_wildfire: 5.07}
+  _staleness: IBHS_2023
+
+- id: outbuilding.separation_30ft
+  name: Move all outbuildings at least 30 feet from the home, or remove them
+  component: outbuilding
+  pathway: FLAME
+  feature: {attribute: outbuildings_within_30ft, compliant_when: "outbuildings_within_30ft == 0"}
+  regimes:
+    ibhs: {status: CERT_REQUIRED, level: ENHANCED, citation: "IBHS Plus #4 — the one exception where ENHANCED overrides ESSENTIAL rather than adding to it"}
+    sfw: {status: VOLUNTARY_CREDIT, credit_via: sfw.thirty_ft_noncombustible_structure, citation: "10 CCR 2644.9 — removal of combustible outbuildings within 30 feet, or as much as controllable"}
+    zone0: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 2}
+  detection: {method: GIS, confidence: HIGH}
+  cost: {unit: JOB, low: 500, high: 8000, typical_job: 2000}
+
+# ============================== COMMUNITY ==============================
+
+- id: community.firewise
+  name: Establish or join a Firewise USA site in good standing
+  component: community
+  pathway: FLAME
+  feature: {attribute: firewise_site_status, compliant_when: "address falls within a Firewise USA Site in Good Standing"}
+  regimes:
+    sfw: {status: VOLUNTARY_CREDIT, clock: {basis: ALREADY_IN_FORCE}, citation: "10 CCR 2644.9 — Firewise USA Sites in Good Standing"}
+    ibhs: {status: NOT_APPLICABLE, note: "See the separate Wildfire Prepared Neighborhood standard, added June 2026"}
+    zone0: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 2, basis: "Addresses the collective-action problem that RFF identifies as a barrier to larger discounts."}
+  detection: {method: GIS, confidence: MEDIUM, note: "Spatial join against the NFPA site list."}
+  cost: {unit: NONE, low: 0, high: 200, typical_job: 0, source: "Organising time, nominal fees"}
+  savings: {sfw_item: firewise, pct_full: 2.86, usd_full: 46.49, usd_wildfire: 31.52}
+  note: >
+    BEST DOLLAR RETURN IN THE ENTIRE CATALOGUE. $46.49/yr for near-zero spend, more than
+    any single property-level action including a Class A roof. Also inherently viral:
+    organising neighbours brings more addresses into the funnel. Put it in every report.
+
+- id: community.frrc
+  name: Support certification as a Fire Risk Reduction Community
+  component: community
+  pathway: FLAME
+  feature: {attribute: frrc_status, compliant_when: "jurisdiction listed by the Board of Forestry under PRC 4290.1"}
+  regimes:
+    sfw: {status: VOLUNTARY_CREDIT, clock: {basis: ALREADY_IN_FORCE}, citation: "10 CCR 2644.9 — Fire Risk Reduction Community listed by the Board of Forestry pursuant to PRC 4290.1"}
+    ibhs: {status: NOT_APPLICABLE}
+    zone0: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 1}
+  detection: {method: GIS, confidence: MEDIUM}
+  cost: {unit: NONE, low: 0, high: 0, typical_job: 0, source: "Municipal action, not homeowner spend"}
+  savings: {sfw_item: frr_community, pct_full: 0.30, usd_full: 5.59, usd_wildfire: 4.46}
+  output_class: GUIDANCE
+
+# ============================== ACCESS (evidence-only) ==============================
+
+- id: access.address_visible
+  name: Install reflective address numbers at least 4 inches high, visible from the road
+  component: access
+  pathway: FLAME
+  feature: {attribute: address_number_visible, compliant_when: "address legible from the roadway"}
+  regimes:
+    prc4291: {status: RECOMMENDED, note: "Commonly a LOCAL ordinance requirement rather than PRC 4291. Check jurisdiction."}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+    ibhs: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 2, basis: "Engine crews cannot defend a house they cannot find. Cheap, and reads as genuine expertise."}
+  detection: {method: STREETVIEW_CV, confidence: MEDIUM, note: "OCR against the known address."}
+  cost: {unit: JOB, low: 20, high: 150, typical_job: 60}
+  divergence_note: "Evidence-column item. Almost no consumer tool offers it."
+
+- id: access.driveway_clearance
+  name: Maintain driveway clearance and an engine turnaround
+  component: access
+  pathway: FLAME
+  feature: {attribute: driveway_length_ft, compliant_when: "12 ft clear width, 13.5 ft vertical clearance, turnaround where driveway exceeds 150 ft"}
+  regimes:
+    prc4291: {status: RECOMMENDED, note: "PRC 4290 road standards apply to new subdivisions; local ordinances vary for existing."}
+    zone0: {status: NOT_APPLICABLE}
+    sfw: {status: NOT_APPLICABLE}
+    ibhs: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+  evidence: {weight: 2, basis: "Determines whether the property is defendable at all."}
+  detection: {method: GIS, confidence: MEDIUM}
+  cost: {unit: JOB, low: 0, high: 15000, typical_job: 800}
+  divergence_note: "Evidence-column item. Verify local standards before quoting figures."
+
+# ============================== STRUCTURE SEPARATION (finding, not action) ==============================
+
+- id: structure.separation_finding
+  name: Distance to the nearest neighbouring structure
+  component: structure
+  pathway: RADIANT
+  feature: {attribute: distance_to_nearest_structure_ft, compliant_when: "n/a — this is a finding, not an action"}
+  regimes:
+    sfw: {status: NOT_APPLICABLE}
+    zone0: {status: NOT_APPLICABLE}
+    ibhs: {status: NOT_APPLICABLE}
+    ab38_retro: {status: NOT_APPLICABLE}
+    prc4291: {status: NOT_APPLICABLE}
+  evidence:
+    weight: 3
+    basis: >
+      NIST Camp Fire reconstruction and FEMA Marshall Fire MAT both found parcel-level
+      structure-to-structure spread dominated losses in dense settings. In a
+      high-density suburb this is the single largest driver and it is not individually
+      fixable, which is exactly why it should route to community.firewise.
+  detection: {method: GIS, confidence: HIGH}
+  cost: {unit: NONE, low: 0, high: 0, typical_job: 0}
+  output_class: FINDING
+  routes_to: [community.firewise, fence.remove_back_to_back, window.multipane_tempered, eave.enclosed]
+  note: >
+    Emitting this honestly ("your biggest risk is 12 ft away and you cannot fix it
+    alone") builds more credibility than any recommendation, and it is the natural
+    on-ramp to the Firewise output.

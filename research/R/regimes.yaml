@@ -1,0 +1,197 @@
+# Regimes: the four requirement systems, plus PRC 4291 which underpins two of them.
+# Each regime declares when it applies and what clock its cells hang off.
+
+regimes:
+
+  prc4291:
+    name: Defensible space (Public Resources Code 4291)
+    kind: STATUTE
+    authority: California Public Resources Code 4291
+    status_default: REQUIRED
+    in_force_since: "1965 (current form amended by AB 3074, 2020)"
+    applies_if: [in_sra_or_vhfhsz_lra]
+    enforced_by: CAL FIRE and local fire agencies, by inspection
+    notes: >
+      Already law. Failing an inspection has direct consequences, and AB 38 makes
+      documented compliance a precondition of sale. Stronger "compliance" framing than
+      Zone 0 because there is no multi-year grace period.
+
+  zone0:
+    name: Zone 0 ember-resistant zone
+    kind: REGULATION
+    authority: CA Board of Forestry and Fire Protection, per AB 3074 (2020)
+    adopted_vote: "2026-08-19"        # 8-0
+    effective_date: null              # PENDING — confirm OAL step before use
+    effective_date_confirmed: false
+    new_construction_effective: "2026-09"
+    applies_if: [in_sra_or_vhfhsz_lra]
+    geometry:
+      extent_ft: 5
+      measured_from: exterior walls, decks and attachments, horizontally
+      vertical: extends upward (overhanging branches count)
+      sub_zones:
+        safety_zone:
+          description: >
+            Noncombustible, vegetation-free band immediately against the structure and
+            under the eaves. Width FLEXES with eave depth.
+          width_rule: "max(eave_depth_in, 12) inches"
+          shallow_eave_additions:
+            - "vegetation-free within 24 in of windows, doors and vents"
+            - "vegetation-free within 60 in of attached decks and similar features"
+          phase: PHASE_2
+        low_combustibility_zone:
+          description: remainder of the 5 ft beyond the safety zone / eave drip line
+          phase: PHASE_1
+    phases:
+      IMMEDIATE:
+        basis: ON_EFFECTIVE_DATE
+        note: aligns Zone 0 with existing statute and the CWUI code
+      PHASE_1:
+        basis: EFFECTIVE_PLUS_YEARS
+        years: 3
+        set_by: STATE
+      PHASE_2:
+        basis: EFFECTIVE_PLUS_YEARS
+        years: 5
+        set_by: LOCAL_JURISDICTION
+        note: >
+          Local jurisdiction assigns the actual date within the 5-year cap.
+          Not resolvable from state data. Render as a range.
+    local_variation:
+      stricter_allowed: true
+      alternatives_allowed: true
+      alternative_test: "substantially similar practical effect"
+      basis_for_alternatives:
+        [geography, topography, fire risk, lot size, response resources,
+         structure composition, CWUI code compliance]
+    weakened_from_proposal: true
+    divergence_note: >
+      The adopted rule is materially weaker than the original 5 ft fully-noncombustible
+      proposal and weaker than IBHS. Existing trees may remain; herbaceous plants, low
+      groundcover, mowed lawn and moveable pots are allowed outside the safety zone.
+      Fire scientists and the insurance industry publicly objected. Treat as a floor.
+
+  sfw:
+    name: Safer from Wildfires
+    kind: INSURANCE_REGULATION
+    authority: Cal. Code Regs. Tit. 10, section 2644.9
+    in_force_since: "2022-10"
+    applies_if: [insurer_uses_wildfire_risk_in_rating]
+    status_default: VOLUNTARY_CREDIT
+    insurer_duties:
+      - Apply a mitigation credit, discount or rate differential for each listed measure
+      - Disclose the property's wildfire risk score at application, before renewal,
+        before non-renewal, and on request after a mitigation is completed
+      - Disclose the full range of scores that could possibly be assigned
+      - Explain the factors driving the score and how to lower it
+      - State the specific premium reduction for completing each measure
+      - Accept an appeal orally or in writing, and respond within 30 calendar days
+    escalation: California Department of Insurance, 800-927-4357
+    caveats:
+      - >
+        Only binds insurers that use wildfire risk in rating. Three carriers removed
+        wildfire from rating rather than comply, covering 500,000+ policies.
+      - >
+        Most insurers apply the IBHS discount IN LIEU OF the individual item discounts,
+        not on top. Total is approximately max(sum(individual), ibhs_bundle).
+      - Carriers stack additively or multiplicatively, some cap, some add bonuses.
+      - Six carriers discount the whole premium; the rest only the wildfire portion,
+        roughly halving the dollar value.
+    review_duty: AB 1 (eff. 2026-01-01) requires CDI to review and update periodically
+
+  ab38_ds:
+    name: AB 38 — defensible space documentation before close of escrow
+    kind: TRANSACTION_STATUTE
+    authority: AB 38 (2019), Public Resources Code 4291 compliance
+    in_force_since: "2021-07-01"
+    applies_if: [in_high_or_vhfhsz, is_sale_transaction]
+    status_default: REQUIRED
+    clock: ON_TRANSACTION
+    detail: >
+      Seller must provide the buyer documentation of a compliant defensible space
+      inspection before close of escrow, completed within 6 months of the sales
+      contract. If unavailable, buyer and seller may agree in writing that the buyer
+      obtains it within 1 year of closing.
+
+  ab38_feat:
+    name: AB 38 — vulnerable feature disclosure
+    kind: TRANSACTION_DISCLOSURE
+    authority: California Civil Code 1102.6f
+    in_force_since: "2021-01-01"
+    applies_if: [in_high_or_vhfhsz, built_before_2010, units_1_to_4, is_sale_transaction]
+    status_default: DISCLOSE_ONLY
+    clock: ON_TRANSACTION
+    detail: >
+      Seller must disclose which of six named vulnerable features exist on the property.
+      This is a duty to REPORT, not to remediate. A seller who discloses "yes, I have
+      single-pane windows" is fully compliant.
+
+  ab38_retro:
+    name: AB 38 — Low-Cost Retrofit List disclosure
+    kind: TRANSACTION_DISCLOSURE
+    authority: Gov. Code 51189; OSFM Low-Cost Retrofit List, updated 2026-01-01
+    in_force_since: "2025-07-01"
+    applies_if: [in_high_or_vhfhsz, built_before_2010, units_1_to_4, is_sale_transaction]
+    status_default: DISCLOSE_ONLY
+    clock: ON_TRANSACTION
+    detail: >
+      Seller must disclose which listed low-cost retrofits they completed during their
+      ownership. Duty to REPORT, not to perform. The list has two parts: 12 home
+      hardening items and 8 defensible space items.
+
+  ibhs:
+    name: IBHS Wildfire Prepared Home
+    kind: VOLUNTARY_CERTIFICATION
+    authority: Insurance Institute for Business & Home Safety
+    levels: [ESSENTIAL, ENHANCED]     # formerly Base and Plus, renamed Jun 2026
+    status_default: CERT_REQUIRED
+    applies_if: [ibhs_eligible]
+    states: [AZ, CA, CO, FL, ID, MT, NV, NM, OK, OR, TX, UT, WA, WY]
+    eligibility:
+      applicant_must_be: homeowner
+      structure: single-family detached
+      max_stories: 3
+      excluded: [townhome, condo]     # see Wildfire Prepared Multifamily instead
+    fees:
+      application_usd: 125
+      refundable: false
+      annual_review_usd: {self: 25, third_party: 100}
+      _staleness: IBHS_2023
+      annual_review_note: >
+        Fee figures are from the 2023 checklist. The current About page describes
+        annual photo reviews at year 1 and year 2 without naming a fee. VERIFY.
+    validity_years: 3
+    process: [homeowner does work, pay + submit 4-side photos, IBHS eligibility QA,
+              third-party evaluator visit, QA review, certificate]
+    disqualifiers:
+      - Protected or heritage trees that cannot legally be removed from the 5 ft zone
+      - Setbacks requiring a neighbour's cooperation to clear the 5 ft on a boundary
+    economics_note: >
+      Not justifiable on discount economics. ENHANCED earns ~$94.80/yr and is applied in
+      lieu of individual discounts, making it ~$3.53/yr WORSE than doing all nine SFW
+      items and self-reporting, for full-premium insurers. Its value is that nine
+      insurers recognise it as an underwriting credential. Sell as insurability.
+
+# Predicates referenced by applies_if. Each resolves from attributes.yaml.
+predicates:
+  in_sra_or_vhfhsz_lra:
+    expr: "responsibility_area == 'SRA' or (responsibility_area == 'LRA' and fhsz == 'VERY_HIGH')"
+    note: Zone 0 and PRC 4291 scope. ~2 million homes.
+  in_high_or_vhfhsz:
+    expr: "fhsz in ('HIGH','VERY_HIGH')"
+  built_before_2010:
+    expr: "year_built < 2010"
+  built_before_2008:
+    expr: "year_built < 2008"
+    note: Chapter 7A WUI construction standards applied to new builds from 2008.
+  units_1_to_4:
+    expr: "dwelling_units >= 1 and dwelling_units <= 4"
+  is_sale_transaction:
+    expr: "intent_to_sell_12mo"
+    source: SURVEY
+  insurer_uses_wildfire_risk_in_rating:
+    expr: "carrier not in CARRIERS_WITHOUT_WILDFIRE_RATING"
+    source: SURVEY
+    note: Unknown for most users. Default to true and caveat.
+  ibhs_eligible:
+    expr: "structure_type == 'SINGLE_FAMILY_DETACHED' and stories <= 3 and state in IBHS_STATES and is_owner_occupier"

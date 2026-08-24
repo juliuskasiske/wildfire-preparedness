@@ -1,0 +1,366 @@
+# R(X) — every property attribute needed to resolve R (which requirements apply, and in
+# what form) or a (whether the measure is already adopted).
+#
+# role: RESOLVES_R  -> determines applicability or parameterises the requirement itself
+#       RESOLVES_A  -> determines whether the measure is already in place
+#       BOTH
+#
+# NOTE the non-obvious ones: eave_depth_in and attached_deck_present are PHYSICAL
+# attributes that parameterise R, not just a. Zone 0's safety zone width is a function
+# of eave depth. Easy to miss when treating R as purely jurisdictional.
+
+attributes:
+
+  # ---- Jurisdictional. Free. High confidence. Resolve these first. ----
+  - id: fhsz
+    role: RESOLVES_R
+    values: [MODERATE, HIGH, VERY_HIGH, NONE]
+    source: CAL FIRE Fire Hazard Severity Zone layer, geocoded
+    cost: free
+    confidence: HIGH
+    gates: [ab38_ds, ab38_feat, ab38_retro, zone0, prc4291]
+
+  - id: responsibility_area
+    role: RESOLVES_R
+    values: [SRA, LRA, FRA]
+    source: CAL FIRE responsibility area layer
+    cost: free
+    confidence: HIGH
+    note: >
+      DISTINCT from fhsz and both are needed. Zone 0 applies to all of SRA, but within
+      LRA only to VERY_HIGH. Conflating them mis-scopes ~2 million homes.
+
+  - id: jurisdiction
+    role: RESOLVES_R
+    source: geocode to county and incorporated place
+    cost: free
+    confidence: HIGH
+    gates: [zone0_phase2_date, local_ordinance, tree_protection_ordinance]
+
+  - id: firewise_site_status
+    role: RESOLVES_A
+    source: NFPA Firewise USA site list, spatial join
+    cost: free
+    confidence: MEDIUM
+    note: Best single dollar return in the whole system ($46.49/yr). Always check.
+
+  - id: frrc_status
+    role: RESOLVES_A
+    source: Board of Forestry Fire Risk Reduction Community list
+    cost: free
+    confidence: MEDIUM
+
+  # ---- Assessor / parcel. Cheap. High confidence. ----
+  - id: year_built
+    role: BOTH
+    source: county assessor
+    cost: cheap
+    confidence: HIGH
+    note: >
+      Highest-value single non-image variable. Gates AB 38 (pre-2010) and provides the
+      Chapter 7A prior (>=2008 in SRA/VHFHSZ implies Class A roof, ember-resistant
+      vents, ignition-resistant eaves and siding). Use it to SUPPRESS recommendations.
+
+  - id: dwelling_units
+    role: RESOLVES_R
+    source: county assessor
+    cost: cheap
+    confidence: HIGH
+    gates: [ab38_feat, ab38_retro, ibhs]
+
+  - id: stories
+    role: RESOLVES_R
+    source: county assessor or lidar building height
+    cost: cheap
+    confidence: HIGH
+    gates: [ibhs]
+
+  - id: structure_type
+    role: RESOLVES_R
+    values: [SINGLE_FAMILY_DETACHED, TOWNHOME, CONDO, MULTIFAMILY]
+    source: county assessor
+    cost: cheap
+    confidence: HIGH
+    gates: [ibhs]
+
+  - id: rebuilt_after_fire
+    role: RESOLVES_A
+    source: permit records, or assessor effective year built
+    cost: cheap
+    confidence: MEDIUM
+    note: Implies post-2008 code compliance regardless of original year built.
+
+  # ---- Terrain and landscape. Free. Computed, not inferred. ----
+  - id: slope_pct
+    role: RESOLVES_A
+    source: USGS 3DEP DEM
+    cost: free
+    confidence: HIGH
+  - id: aspect
+    role: RESOLVES_A
+    source: USGS 3DEP DEM
+    cost: free
+    confidence: HIGH
+  - id: slope_position
+    role: RESOLVES_A
+    values: [CANYON, MID_SLOPE, RIDGE, FLAT, SADDLE]
+    source: DEM terrain analysis
+    cost: free
+    confidence: HIGH
+  - id: distance_to_wildland_ft
+    role: RESOLVES_A
+    source: LANDFIRE / WUI layer
+    cost: free
+    confidence: MEDIUM
+  - id: dominant_fire_wind_bearing
+    role: RESOLVES_A
+    source: Santa Ana / Diablo climatology + local terrain
+    cost: free
+    confidence: MEDIUM
+    note: Drives the "which elevation to prioritise" output. Differentiator, nobody offers it.
+
+  # ---- Footprint-derived. Free. This is the highest-confidence tier. ----
+  - id: footprint_polygon
+    role: RESOLVES_A
+    source: Microsoft / Google Open Buildings, or county
+    cost: free
+    confidence: HIGH
+  - id: distance_to_nearest_structure_ft
+    role: RESOLVES_A
+    source: computed from footprints
+    cost: free
+    confidence: HIGH
+    note: >
+      Dominant loss driver in dense suburbs (NIST Camp Fire, FEMA Marshall). Fully
+      computable, no vision model. Often the honest headline finding.
+  - id: outbuildings_within_30ft
+    role: BOTH
+    source: footprints intersected with parcel + 30 ft buffer
+    cost: free
+    confidence: MEDIUM
+  - id: parcel_structure_density
+    role: RESOLVES_A
+    source: footprints
+    cost: free
+    confidence: HIGH
+    note: High density should DOWN-weight wildland vegetation advice.
+
+  # ---- Vegetation. Free from lidar where flown, else imagery. ----
+  - id: canopy_overhangs_roof
+    role: RESOLVES_A
+    source: canopy height model intersected with roof polygon
+    cost: free
+    confidence: HIGH
+    note: Cleanest vegetation detection available. Also an IBHS disqualifier signal.
+  - id: canopy_within_zone0
+    role: RESOLVES_A
+    source: CHM intersected with 5 ft footprint buffer
+    cost: free
+    confidence: HIGH
+  - id: canopy_cover_5_30ft
+    role: RESOLVES_A
+    source: CHM in buffer ring
+    cost: free
+    confidence: HIGH
+  - id: canopy_cover_30_100ft
+    role: RESOLVES_A
+    source: CHM in buffer ring
+    cost: free
+    confidence: HIGH
+  - id: protected_tree_present_zone0
+    role: RESOLVES_R
+    source: local tree protection ordinance + species detection
+    cost: medium
+    confidence: LOW
+    note: IBHS hard disqualifier. Worth surfacing early even at low confidence.
+
+  # ---- Structure physical. The expensive tier. ----
+  - id: roof_material
+    role: RESOLVES_A
+    values: [WOOD_SHAKE, COMPOSITION, TILE, METAL, OTHER]
+    source: AERIAL_CV on roof polygon
+    cost: medium
+    confidence: HIGH
+    note: Wood shake vs not is the single highest-value overhead detection.
+  - id: roof_debris_present
+    role: RESOLVES_A
+    source: AERIAL_CV, or proxy from canopy_overhangs_roof
+    cost: medium
+    confidence: MEDIUM
+  - id: roof_complexity
+    role: RESOLVES_A
+    source: roof plane segmentation (plane count, valley length)
+    cost: medium
+    confidence: HIGH
+    note: Proxy for number of debris traps. Drives maintenance frequency advice.
+  - id: skylight_present
+    role: RESOLVES_A
+    source: AERIAL_CV
+    cost: medium
+    confidence: HIGH
+  - id: skylight_operable_or_domed
+    role: RESOLVES_A
+    source: SURVEY
+    confidence: LOW
+  - id: eave_depth_in
+    role: BOTH
+    source: OBLIQUE_CV or lidar, else SURVEY
+    cost: high
+    confidence: LOW
+    note: >
+      PARAMETERISES R. Sets the Zone 0 safety zone width (max(eave_depth, 12) inches).
+      Genuinely hard to measure remotely. Strong candidate for a survey question with
+      a "measure from the wall to the edge of your roof" instruction.
+  - id: eaves_enclosed
+    role: RESOLVES_A
+    source: STREETVIEW_CV or OBLIQUE_CV
+    cost: medium
+    confidence: MEDIUM
+  - id: vent_type
+    role: RESOLVES_A
+    values: [UNSCREENED, MESH_GT_1_8, MESH_LE_1_8, WUI_LISTED, UNKNOWN]
+    source: SURVEY
+    confidence: LOW
+    note: Not reliably detectable from any imagery. Canonical survey question.
+  - id: gutter_present
+    role: RESOLVES_A
+    source: STREETVIEW_CV
+    cost: medium
+    confidence: MEDIUM
+  - id: gutter_material
+    role: RESOLVES_A
+    values: [METAL, VINYL, NONE]
+    source: STREETVIEW_CV or SURVEY
+    confidence: LOW
+  - id: gutter_cover_present
+    role: RESOLVES_A
+    source: SURVEY
+    confidence: LOW
+  - id: siding_material
+    role: RESOLVES_A
+    values: [STUCCO, FIBER_CEMENT, WOOD, VINYL, MASONRY, METAL, OTHER]
+    source: STREETVIEW_CV
+    cost: medium
+    confidence: MEDIUM
+    note: Published facade classifiers reach macro-F1 0.91-0.96 on coarse classes.
+  - id: vertical_clearance_6in_present
+    role: RESOLVES_A
+    source: STREETVIEW_CV or SURVEY
+    confidence: LOW
+  - id: window_glazing
+    role: RESOLVES_A
+    values: [SINGLE, DUAL_UNTEMPERED, DUAL_TEMPERED, UNKNOWN]
+    source: SURVEY
+    confidence: LOW
+    note: Not detectable from street imagery. Survey question.
+  - id: shutters_present
+    role: RESOLVES_A
+    source: STREETVIEW_CV
+    cost: medium
+    confidence: MEDIUM
+    note: SFW accepts functional shutters as an ALTERNATIVE to dual-pane windows.
+  - id: attached_deck_present
+    role: BOTH
+    source: AERIAL_CV
+    cost: medium
+    confidence: MEDIUM
+    note: PARAMETERISES R — triggers the Zone 0 5 ft deck clause.
+  - id: deck_height_ft
+    role: RESOLVES_R
+    source: SURVEY
+    confidence: LOW
+    note: IBHS under-deck enclosure applies at <= 4 ft walking surface height.
+  - id: deck_material
+    role: RESOLVES_A
+    values: [WOOD, COMPOSITE, NONCOMBUSTIBLE, UNKNOWN]
+    source: STREETVIEW_CV or SURVEY
+    confidence: LOW
+  - id: fence_attaches_to_structure
+    role: BOTH
+    source: linear feature detection intersected with 5 ft footprint buffer
+    cost: medium
+    confidence: HIGH
+    note: Geometry is high confidence; MATERIAL is not. Split the two.
+  - id: fence_material
+    role: RESOLVES_A
+    values: [WOOD, VINYL, METAL, MASONRY, UNKNOWN]
+    source: STREETVIEW_CV or SURVEY
+    confidence: LOW
+  - id: back_to_back_fencing
+    role: RESOLVES_A
+    source: parallel linear features < 5 ft apart
+    cost: medium
+    confidence: MEDIUM
+    note: NIST found paired fences dramatically worse than one. IBHS ENHANCED item.
+  - id: ground_cover_zone0
+    role: RESOLVES_A
+    values: [BARE_OR_HARDSCAPE, GRAVEL, LAWN, WOOD_MULCH, SHRUB, MIXED, UNKNOWN]
+    source: STREETVIEW_CV front only; AERIAL_CV unreliable
+    confidence: LOW
+    note: >
+      Eave overhang occludes exactly the ring you care about, and 5 ft is 5-10 px at
+      typical urban resolution. Do NOT assert Zone 0 compliance from overhead imagery.
+  - id: stored_combustibles_zone0
+    role: RESOLVES_A
+    source: STREETVIEW_CV or SURVEY
+    confidence: LOW
+  - id: propane_tank_present
+    role: RESOLVES_A
+    source: AERIAL_CV (shape + shadow, rural) or SURVEY
+    confidence: LOW
+  - id: chimney_present
+    role: RESOLVES_R
+    source: AERIAL_CV
+    cost: medium
+    confidence: HIGH
+  - id: garage_attached
+    role: RESOLVES_R
+    source: AERIAL_CV or assessor
+    confidence: MEDIUM
+
+  # ---- Access. Cheap, computable, and almost nobody offers it. ----
+  - id: driveway_length_ft
+    role: RESOLVES_A
+    source: road network + parcel
+    cost: free
+    confidence: MEDIUM
+  - id: road_is_dead_end
+    role: RESOLVES_A
+    source: road network topology
+    cost: free
+    confidence: HIGH
+  - id: address_number_visible
+    role: RESOLVES_A
+    source: STREETVIEW_CV OCR
+    cost: medium
+    confidence: MEDIUM
+
+  # ---- Survey. Free to you, and doubles as routing. ----
+  - id: intent_to_sell_12mo
+    role: RESOLVES_R
+    source: SURVEY
+    gates: [ab38_ds, ab38_feat, ab38_retro]
+    note: The single highest-value routing question. Activates the sharpest hook.
+  - id: is_owner_occupier
+    role: RESOLVES_R
+    source: SURVEY
+    gates: [ibhs]
+  - id: carrier
+    role: RESOLVES_R
+    source: SURVEY
+    gates: [sfw]
+  - id: on_fair_plan
+    role: RESOLVES_A
+    source: SURVEY
+  - id: non_renewal_history
+    role: RESOLVES_A
+    source: SURVEY
+  - id: has_requested_risk_score
+    role: RESOLVES_A
+    source: SURVEY
+    note: Almost always no. Generates the demand-letter output.
+  - id: household_income_band
+    role: RESOLVES_R
+    source: SURVEY
+    optional: true
+    gates: [california_safe_homes_grant]

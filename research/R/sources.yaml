@@ -1,0 +1,208 @@
+# Data sources behind attributes.yaml. 37 free-text source strings collapse to 19 real datasets.
+# Prices verified Aug 2026. per_building = marginal cost of one more address.
+# one_time = cost to acquire the whole dataset once (bulk/statewide).
+
+sources:
+
+# ---------- TIER 0: free, bulk-downloadable, $0 marginal ----------
+- id: calfire_fhsz
+  name: CAL FIRE Fire Hazard Severity Zone
+  access: FRAP open data portal, shapefile/GeoJSON statewide download
+  licence: public
+  per_building: 0
+  one_time: 0
+  refresh: LRA maps updated 2025; re-pull annually
+  feeds: [fhsz]
+  note: Gates AB 38, Zone 0 and PRC 4291. Nothing works without it.
+
+- id: calfire_sra
+  name: CAL FIRE State/Local Responsibility Area
+  access: same FRAP portal, separate layer
+  licence: public
+  per_building: 0
+  one_time: 0
+  feeds: [responsibility_area]
+  note: DISTINCT from FHSZ. Zone 0 needs both — SRA entirely, plus VERY_HIGH within LRA.
+
+- id: usgs_3dep
+  name: USGS 3DEP lidar and 1 m DEM
+  access: USGS National Map, or AWS Open Data s3://usgs-lidar-public (no egress inside AWS)
+  licence: public domain
+  per_building: 0
+  one_time: 0
+  compute: "meaningful — point-cloud processing (PDAL). Budget engineering time, not licence fees."
+  coverage_caveat: Excellent across most of populated CA, but verify tile coverage per county.
+  feeds: [slope_pct, aspect, slope_position, stories, canopy_height_model, eave_depth_in]
+  note: >
+    Derive your own canopy height model from returns rather than licensing one. Also the only
+    free path to building height and, plausibly, eave depth.
+
+- id: building_footprints
+  name: Microsoft US Building Footprints / Google Open Buildings
+  access: GitHub + Azure Open Datasets; Google via Earth Engine or GCS
+  licence: ODbL (Microsoft) / CC BY 4.0 (Google) — attribution required
+  per_building: 0
+  one_time: 0
+  feeds: [footprint_polygon, distance_to_nearest_structure_ft, outbuildings_within_30ft, parcel_structure_density]
+  note: Powers your highest-confidence findings at zero marginal cost.
+
+- id: canopy_height
+  name: Meta/WRI 1 m Global Canopy Height, or CHM derived from 3DEP
+  access: AWS Open Data / Earth Engine
+  licence: CC BY 4.0
+  per_building: 0
+  one_time: 0
+  feeds: [canopy_overhangs_roof, canopy_within_zone0, canopy_cover_5_30ft, canopy_cover_30_100ft]
+  note: canopy_overhangs_roof is the single cleanest detection in the whole system.
+
+- id: naip
+  name: NAIP 60 cm aerial imagery
+  access: AWS Open Data, Earth Engine, USDA
+  licence: public domain, no ML or caching restrictions
+  per_building: 0
+  one_time: 0
+  refresh: every 2-3 years per state
+  feeds: [roof_material, roof_debris_present, attached_deck_present, propane_tank_present]
+  note: >
+    THE UNRESTRICTED IMAGERY OPTION. Lower resolution than Google, but you may legally
+    store it, run models over it, and retain derivatives. Start here.
+
+- id: landfire
+  name: LANDFIRE fuel and WUI layers
+  access: landfire.gov bulk download
+  licence: public
+  per_building: 0
+  one_time: 0
+  feeds: [distance_to_wildland_ft]
+
+- id: road_network
+  name: OpenStreetMap / Census TIGER-Line
+  access: Geofabrik extracts (OSM) or Census FTP (TIGER)
+  licence: ODbL / public domain
+  per_building: 0
+  one_time: 0
+  feeds: [driveway_length_ft, road_is_dead_end]
+
+- id: wind_climatology
+  name: NOAA / gridMET fire-weather wind
+  access: NOAA, gridMET via Earth Engine
+  licence: public
+  per_building: 0
+  one_time: 0
+  feeds: [dominant_fire_wind_bearing]
+
+- id: firewise_list
+  name: NFPA Firewise USA sites in good standing
+  access: NFPA publishes a list, no clean API — scrape or request
+  licence: unclear, confirm before redistributing
+  per_building: 0
+  one_time: "engineering only"
+  refresh: annually
+  feeds: [firewise_site_status]
+  note: Worth $46.49/yr to the homeowner, more than any single property measure.
+
+- id: frrc_list
+  name: Board of Forestry Fire Risk Reduction Communities
+  access: BOF website list, manual
+  licence: public
+  per_building: 0
+  one_time: "manual"
+  feeds: [frrc_status]
+
+- id: tree_ordinances
+  name: Local protected/heritage tree ordinances
+  access: NO DATASET EXISTS. Per-jurisdiction municipal code research.
+  per_building: 0
+  one_time: "high manual cost, per jurisdiction"
+  feeds: [protected_tree_present_zone0]
+  note: >
+    IBHS hard disqualifier, and there is no shortcut. Start with the 10-20 jurisdictions
+    you actually target rather than attempting statewide.
+
+# ---------- TIER 1: cheap per-call ----------
+- id: geocoding
+  name: Address to coordinates and jurisdiction
+  options:
+    - {provider: US Census Geocoder, per_building: 0, note: "free, unlimited, US only, decent match rates"}
+    - {provider: Nominatim self-hosted, per_building: 0, note: "free, infra cost only"}
+    - {provider: Google Geocoding, per_building: 0.004, note: "$4.00/1k at 100k+, 10k/mo free"}
+  recommended: US Census Geocoder, fall back to Google on no-match
+  feeds: [jurisdiction, and every spatial join above]
+
+- id: parcel_assessor
+  name: Parcel and assessor records
+  options:
+    - {provider: County assessors direct, per_building: 0,
+       note: "free but 58 CA counties, inconsistent schemas. Heavy ETL. Viable if you target few counties."}
+    - {provider: RentCast, per_building: 0.015,
+       tiers: "$0/50 req; $74/1k ($0.074 ea); $199/5k ($0.040); $449/25k ($0.018); overage $0.015-0.20",
+       note: "published pricing, self-serve, fastest path to a working prototype"}
+    - {provider: BatchData, per_building: 0.01, note: "~$0.01/call, 155M properties"}
+    - {provider: ATTOM, per_building: null, note: "from $95/mo, quote required"}
+    - {provider: Regrid, per_building: null, note: "quote; hundreds to thousands/mo. Best geometry."}
+  recommended: RentCast to prototype, county direct or Regrid at scale
+  feeds: [year_built, dwelling_units, stories, structure_type, garage_attached, rebuilt_after_fire]
+  note: year_built alone justifies this line item — it gates AB 38 and the Chapter 7A prior.
+
+# ---------- TIER 2: imagery, cheap per call, LEGALLY CONSTRAINED ----------
+- id: google_static_maps
+  name: Google Static Maps (satellite tile)
+  access: Static Maps API
+  per_building: 0.0016      # $1.60/1k at 100k-500k; 10k/mo free
+  one_time: 0
+  licence_risk: HIGH
+  licence_note: "Pre-fetching, indexing, storing and caching of Maps Content generally prohibited."
+  feeds: [roof_material, skylight_present, attached_deck_present, chimney_present]
+
+- id: google_streetview
+  name: Google Street View Static
+  access: Street View Static API
+  per_building: 0.0056      # $5.60/1k at 100k-500k; 10k/mo free
+  one_time: 0
+  licence_risk: HIGH
+  licence_note: >
+    "Content pre-fetching, indexing, storing, or caching is generally prohibited, except for
+    place IDs and panorama IDs." Only the panorama ID may be retained indefinitely.
+  staleness: 1-7 years; many WUI properties on private drives have no coverage at all
+  feeds: [siding_material, eaves_enclosed, shutters_present, gutter_present, ground_cover_zone0, address_number_visible]
+
+- id: google_solar
+  name: Google Solar API — Building Insights
+  access: Solar API
+  per_building: 0.005       # $5.00/1k; 10k/mo free
+  one_time: 0
+  licence_risk: MEDIUM
+  feeds: [roof_complexity, roof_area_sf, roof_pitch, roof_segment_count]
+  note: >
+    UNDERRATED. Returns structured roof geometry — segment count, pitch, azimuth, area —
+    rather than pixels. roof_area_sf is exactly the missing quantity_driver for roof cost,
+    and segment count is a direct proxy for debris-trap complexity.
+
+- id: oblique_aerial
+  name: Oblique aerial imagery (Nearmap / EagleView / Vexcel)
+  access: enterprise contract, no self-serve tier
+  per_building: null
+  one_time: null
+  pricing_note: >
+    Quote-only for all three. EagleView's consumer-facing roof reports are reported around
+    $15-38 each, which is a report product, not API imagery — do not plan against it.
+    GET ACTUAL QUOTES before committing to any attribute that needs this.
+  licence_risk: LOW  # licensed specifically for this use case
+  feeds: [eave_depth_in, eaves_enclosed, vent presence, deck skirting, siding_material]
+  note: >
+    THE ONLY source that sees vents, eaves, deck skirting and siding from above. Also the
+    only line item that could break your unit economics. Treat as the gating unknown.
+
+# ---------- TIER 3: free to you ----------
+- id: survey
+  name: The homeowner
+  access: the form
+  per_building: 0
+  one_time: 0
+  feeds: [vent_type, window_glazing, deck_height_ft, deck_material, gutter_cover_present,
+          skylight_operable_or_domed, stored_combustibles_zone0, intent_to_sell_12mo,
+          is_owner_occupier, carrier, on_fair_plan, non_renewal_history,
+          has_requested_risk_score, household_income_band]
+  note: >
+    43 of 71 measures are LOW-confidence detection. This is not a fallback, it is the
+    primary source for most of the matrix — and it is the thing you wanted to collect anyway.
