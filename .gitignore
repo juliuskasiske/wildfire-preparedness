@@ -1,0 +1,28 @@
+# --- Python ---
+.venv/
+__pycache__/
+*.pyc
+
+# --- macOS ---
+.DS_Store
+
+# ---------------------------------------------------------------------------
+# Downloaded / derived geodata. ~9.7 GB and all of it is reproducible by running
+# the scripts in sources/, so it stays out of git. data/MANIFEST.md IS tracked -
+# it records what each dataset is, where it came from and its caveats.
+#
+#   data/index      8.7G  GeoPackages + the 18.9M-row address SQLite
+#   data/raw        680M  raw GeoJSON pulls
+#   data/addresses  134M  OpenAddresses county files
+#   data/lidar      100M  3DEP LAZ point clouds (90-210 MB each)
+#   data/dem         48M  per-property DEM tiles + hillshades (regenerated on demand)
+#   data/wind        33M  gridMET climatology accumulation
+#   data/tiles       18M  PMTiles vector tiles
+# ---------------------------------------------------------------------------
+data/*
+!data/MANIFEST.md
+
+# scratch
+*.log
+*.asc
+/tmp/
