@@ -1,0 +1,423 @@
+<!doctype html>
+<meta charset="utf-8"><title>Property 3D — terrain / buildings / vegetation</title>
+<style>
+:root{--bg:#0f1115;--fg:#e6e8ec;--mut:#98a1ad;--line:#39414d;--panel:#181b21;--acc:#60a5fa}
+*{box-sizing:border-box} html,body{margin:0;height:100%;overflow:hidden}
+body{background:var(--bg);color:var(--fg);font:14px/1.45 ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+#bar{position:fixed;top:0;left:0;right:0;z-index:10;display:flex;gap:10px;align-items:center;
+  padding:10px 14px;background:var(--panel);border-bottom:1px solid var(--line)}
+#addr{width:100%;padding:8px 11px;border:1px solid var(--line);border-radius:8px;
+  background:var(--bg);color:var(--fg);font:inherit}
+button{padding:8px 14px;border:1px solid var(--line);border-radius:8px;background:var(--acc);
+  color:#07101f;font:inherit;font-weight:600;cursor:pointer}
+button.sec{background:var(--bg);color:var(--fg);font-weight:400}
+button:disabled{opacity:.5;cursor:default}
+#status{color:var(--mut);font-size:12.5px;max-width:420px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+#wrap{position:relative;flex:1;max-width:520px}
+#sugg{position:absolute;top:calc(100% + 4px);left:0;right:0;background:var(--panel);
+  border:1px solid var(--line);border-radius:8px;overflow:hidden;display:none;z-index:20}
+#sugg div{padding:8px 11px;cursor:pointer;font-size:13px;border-bottom:1px solid var(--line)}
+#sugg div:last-child{border-bottom:0}
+#sugg div:hover,#sugg div.sel{background:#222732}
+#sugg .approx{color:var(--mut);font-size:11px;margin-left:6px}
+#info{position:fixed;left:14px;bottom:14px;z-index:10;background:var(--panel);
+  border:1px solid var(--line);border-radius:10px;padding:12px 14px;max-width:330px;font-size:12.5px}
+#info h3{margin:0 0 6px;font-size:13px} #info div{color:var(--mut);padding:1px 0}
+#info b{color:var(--fg);font-weight:600}
+#legend{position:fixed;right:14px;bottom:14px;z-index:10;background:var(--panel);
+  border:1px solid var(--line);border-radius:10px;padding:10px 12px;font-size:12px}
+#legend label{display:flex;align-items:center;gap:7px;padding:2px 0;cursor:pointer;color:var(--mut)}
+#legend i{width:10px;height:10px;border-radius:2px;display:inline-block}
+canvas{display:block}
+</style>
+<div id="bar">
+  <strong style="font-size:14px">Property 3D</strong>
+  <span id="wrap"><input id="addr" value="15751 Sunset Blvd, Pacific Palisades, CA 90272"
+     spellcheck="false" autocomplete="off"><div id="sugg"></div></span>
+  <button id="go">Load</button>
+  <button id="demo" class="sec">Altadena</button>
+  <button id="plan" class="sec" title="top-down, north up (matches map apps)">Plan</button>
+  <label style="display:flex;align-items:center;gap:6px;color:var(--mut);font-size:12px">
+    relief x<span id="vexv">1</span>
+    <input id="vex" type="range" min="1" max="8" step="1" value="1" style="width:90px">
+  </label>
+  <span id="status">ready</span>
+</div>
+<div id="info"><h3>—</h3><div>enter an address and press Load</div></div>
+<div id="legend">
+  <label><input type="checkbox" id="t_terrain" checked><i style="background:#6b7a52"></i>terrain (3DEP 1 m)</label>
+  <label><input type="checkbox" id="t_build" checked><i style="background:#c9ccd1"></i>buildings (Overture)</label>
+  <label><input type="checkbox" id="t_veg" checked><i style="background:#3f8f4f"></i>vegetation (lidar)</label>
+  <label><input type="checkbox" id="t_zone" checked><i style="background:#ef4444"></i>subject property + Zone 0</label>
+  <label><input type="checkbox" id="t_wind" checked><i style="background:#38bdf8"></i>wind on high-risk days</label>
+</div>
+<script type="importmap">
+{"imports":{"three":"https://unpkg.com/three@0.160.0/build/three.module.js",
+"three/addons/":"https://unpkg.com/three@0.160.0/examples/jsm/"}}
+</script>
+<script type="module">
+import * as THREE from 'three';
+import {OrbitControls} from 'three/addons/controls/OrbitControls.js';
+
+const scene=new THREE.Scene();
+scene.background=new THREE.Color(0x0f1115);
+scene.fog=new THREE.Fog(0x0f1115,260,620);
+const camera=new THREE.PerspectiveCamera(48,innerWidth/innerHeight,0.5,3000);
+camera.position.set(140,120,140);
+const renderer=new THREE.WebGLRenderer({antialias:true});
+renderer.setSize(innerWidth,innerHeight); renderer.setPixelRatio(Math.min(devicePixelRatio,2));
+renderer.shadowMap.enabled=true; document.body.appendChild(renderer.domElement);
+const controls=new OrbitControls(camera,renderer.domElement);
+controls.enableDamping=true; controls.maxPolarAngle=Math.PI/2.05;
+
+scene.add(new THREE.HemisphereLight(0x9fb4d0,0x2a2f27,0.85));
+const sun=new THREE.DirectionalLight(0xffe9c4,1.5);
+sun.position.set(-120,190,90); sun.castShadow=true;
+sun.shadow.mapSize.set(2048,2048);
+Object.assign(sun.shadow.camera,{left:-220,right:220,top:220,bottom:-220,near:1,far:700});
+scene.add(sun);
+
+const G={terrain:new THREE.Group(),build:new THREE.Group(),veg:new THREE.Group(),
+         zone:new THREE.Group(),north:new THREE.Group(),wind:new THREE.Group()};
+Object.values(G).forEach(g=>scene.add(g));
+const clear=g=>{while(g.children.length){const c=g.children.pop();c.geometry?.dispose?.();g.remove(c);}};
+
+let H=null, terrainMesh=null, VEX=1; // height sampler, mesh, vertical exaggeration
+function sampler(t){
+  const n=t.n,S=t.size_m,h=t.heights;
+  return (x,z)=>{ // x east, z south(+)
+    const u=(x+S/2)/S*(n-1), v=(z+S/2)/S*(n-1);
+    const i=Math.max(0,Math.min(n-1,Math.round(v))), j=Math.max(0,Math.min(n-1,Math.round(u)));
+    const val=h[i]?.[j]; return (val==null||val<=-9000)?t.min:val;
+  };
+}
+
+function buildTerrain(t){
+  clear(G.terrain);
+  const n=t.n,S=t.size_m;
+  const geo=new THREE.PlaneGeometry(S,S,n-1,n-1);
+  geo.rotateX(-Math.PI/2);
+  const pos=geo.attributes.position;
+  for(let i=0;i<n;i++)for(let j=0;j<n;j++){
+    const idx=i*n+j; let v=t.heights[i]?.[j];
+    if(v==null||v<=-9000)v=t.min;
+    pos.setY(idx,(v-t.min)*VEX);
+  }
+  geo.computeVertexNormals();
+  const mat=new THREE.MeshStandardMaterial({color:0x8f9a72,roughness:.97,metalness:0});
+  if(t.hillshade){
+    const tex=new THREE.TextureLoader().load('/dem/'+t.hillshade,()=>{mat.needsUpdate=true;});
+    tex.colorSpace=THREE.SRGBColorSpace; tex.anisotropy=8;
+    tex.wrapS=tex.wrapT=THREE.ClampToEdgeWrapping;
+    mat.map=tex;
+  }
+  const mesh=new THREE.Mesh(geo,mat); mesh.receiveShadow=true;
+  G.terrain.add(mesh); terrainMesh=mesh;
+  H=sampler(t);
+}
+
+function ringContainsOrigin(ring){
+  let c=0;
+  for(let i=0;i<ring.length;i++){
+    const [x1,y1]=ring[i], [x2,y2]=ring[(i+1)%ring.length];
+    if((y1>0)!==(y2>0)){ if(x1+(0-y1)*(x2-x1)/(y2-y1)>0) c++; }
+  }
+  return c%2===1;
+}
+let SUBJECT=null;   // the building the address actually sits in
+
+function buildBuildings(list,t){
+  clear(G.build); SUBJECT=null;
+  const matKnown=new THREE.MeshStandardMaterial({color:0xc9ccd1,roughness:.8});
+  const matGuess=new THREE.MeshStandardMaterial({color:0x8b8f96,roughness:.85,transparent:true,opacity:.75});
+  const matSubject=new THREE.MeshStandardMaterial({color:0xef6a4a,roughness:.7,emissive:0x3a0e05});
+  list.forEach(b=>{
+    if(!b.ring||b.ring.length<3)return;
+    const shape=new THREE.Shape();
+    // CONVENTION: world +x = east, world -z = north (DEM row 0 is north and lands at
+    // z=-S/2). ExtrudeGeometry+rotateX(-PI/2) maps shape_y -> -z, so shape_y must be
+    // NORTH, not -north. The old '-p[1]' put buildings at +z = north, mirroring them
+    // north-south against the terrain and trees.
+    b.ring.forEach((p,i)=>i?shape.lineTo(p[0],p[1]):shape.moveTo(p[0],p[1]));
+    const known=typeof b.height==='number';
+    const h=known?Math.max(b.height,2):5;
+    const geo=new THREE.ExtrudeGeometry(shape,{depth:h,bevelEnabled:false});
+    geo.rotateX(-Math.PI/2);
+    let cx=0,cz=0; b.ring.forEach(p=>{cx+=p[0];cz+=-p[1];}); cx/=b.ring.length; cz/=b.ring.length;
+    // cz already uses -north, matching the sampler's z-south-positive convention
+    const g=H?(H(cx,cz)-t.min)*VEX:0;
+    const isSubject=ringContainsOrigin(b.ring);
+    if(isSubject) SUBJECT={ring:b.ring,height:h,props:b};
+    const m=new THREE.Mesh(geo,isSubject?matSubject:(known?matKnown:matGuess));
+    m.position.y=g; m.castShadow=true; m.receiveShadow=true;
+    m.userData=b; G.build.add(m);
+  });
+}
+
+function buildVeg(v,t){
+  clear(G.veg);
+  if(!v||!v.available||!v.trees?.length)return;
+  const trunk=new THREE.CylinderGeometry(.18,.26,1,5);
+  const crown=new THREE.ConeGeometry(1,1,7);
+  const mT=new THREE.MeshStandardMaterial({color:0x5a4632,roughness:1});
+  const mC=new THREE.MeshStandardMaterial({color:0x3f8f4f,roughness:.95});
+  const N=v.trees.length;
+  const iT=new THREE.InstancedMesh(trunk,mT,N), iC=new THREE.InstancedMesh(crown,mC,N);
+  iC.castShadow=true;
+  const d=new THREE.Object3D();
+  v.trees.forEach((tr,i)=>{
+    const x=tr.x, z=-tr.y, g=H?(H(x,z)-t.min)*VEX:0, h=tr.h;
+    d.position.set(x,g+h*0.22,z); d.scale.set(1,h*0.45,1); d.rotation.set(0,0,0);
+    d.updateMatrix(); iT.setMatrixAt(i,d.matrix);
+    const cr=Math.max(1.1,Math.min(4.2,h*0.34));
+    d.position.set(x,g+h*0.62,z); d.scale.set(cr,h*0.78,cr);
+    d.updateMatrix(); iC.setMatrixAt(i,d.matrix);
+  });
+  G.veg.add(iT); G.veg.add(iC);
+}
+
+function buildNorth(t){
+  clear(G.north);
+  const S=t.size_m/2;
+  const mat=new THREE.MeshBasicMaterial({color:0xff5555});
+  const cone=new THREE.Mesh(new THREE.ConeGeometry(4,12,4),mat);
+  cone.position.set(0,6,-S+8); cone.rotation.x=-Math.PI/2;   // -z is north
+  G.north.add(cone);
+  const bar=new THREE.Mesh(new THREE.BoxGeometry(1.2,1.2,26),mat);
+  bar.position.set(0,3,-S+24); G.north.add(bar);
+}
+
+function offsetRing(ring,d){
+  // push each vertex outward along the average normal of its two edges
+  const n=ring.length, out=[];
+  for(let i=0;i<n;i++){
+    const p=ring[i], a=ring[(i-1+n)%n], b=ring[(i+1)%n];
+    const n1=[p[1]-a[1],-(p[0]-a[0])], n2=[b[1]-p[1],-(b[0]-p[0])];
+    const l1=Math.hypot(...n1)||1, l2=Math.hypot(...n2)||1;
+    let nx=n1[0]/l1+n2[0]/l2, ny=n1[1]/l1+n2[1]/l2;
+    const l=Math.hypot(nx,ny)||1; nx/=l; ny/=l;
+    out.push([p[0]+nx*d,p[1]+ny*d]);
+  }
+  // ensure we grew rather than shrank; flip if the area went down
+  const area=r=>Math.abs(r.reduce((s,p,i)=>{const q=r[(i+1)%r.length];return s+p[0]*q[1]-q[0]*p[1];},0))/2;
+  if(area(out)<area(ring)) return ring.map((p,i)=>{
+    const q=out[i]; return [p[0]-(q[0]-p[0]),p[1]-(q[1]-p[1])];});
+  return out;
+}
+
+function arrowMesh(len,col){
+  const g=new THREE.Group();
+  const shaft=new THREE.Mesh(new THREE.CylinderGeometry(0.28,0.28,len,6),
+    new THREE.MeshBasicMaterial({color:col}));
+  shaft.rotation.x=Math.PI/2; shaft.position.z=len/2;
+  const head=new THREE.Mesh(new THREE.ConeGeometry(1.1,3.0,7),
+    new THREE.MeshBasicMaterial({color:col}));
+  head.rotation.x=Math.PI/2; head.position.z=len+1.2;
+  g.add(shaft); g.add(head); return g;
+}
+
+function buildWind(w,t){
+  clear(G.wind);
+  if(!w||!w.stats?.available||!w.field?.length)return;
+  const gy=(x,z)=>H?(H(x,z)-t.min)*VEX:0;
+  w.field.forEach(f=>{
+    // f.from is the bearing the wind comes FROM; draw the arrow pointing where it GOES
+    const goDeg=(f.from+180)%360, r=goDeg*Math.PI/180;
+    // world: +x east, -z north
+    const dirX=Math.sin(r), dirZ=-Math.cos(r);
+    const x=f.x, z=-f.y;
+    const len=7+9*Math.min(f.m,1.6);
+    const col=f.m>1.15?0x38bdf8:(f.m<0.85?0x1e5f7a:0x2aa3d4);
+    const a=arrowMesh(len,col);
+
+    // VERTICAL TILT: air flowing over ground follows the surface, so the arrow must
+    // pitch with the slope ALONG ITS OWN DIRECTION. Central difference either side of
+    // the sample point is smoother than looking only ahead.
+    const step=Math.max(4,len*0.5);
+    const hF=gy(x+dirX*step, z+dirZ*step);
+    const hB=gy(x-dirX*step, z-dirZ*step);
+    const pitch=Math.atan2(hF-hB, 2*step);
+
+    a.position.set(x,gy(x,z)+3.5,z);
+    // YXZ so the heading is applied first and the pitch then acts about the arrow's
+    // own sideways axis. With the default XYZ order the tilt happens in world space
+    // and arrows lean sideways instead of climbing.
+    a.rotation.order='YXZ';
+    a.rotation.y=Math.atan2(dirX,dirZ);
+    a.rotation.x=-pitch;          // terrain rising ahead -> nose up
+    G.wind.add(a);
+  });
+  // one big arrow at the property showing the regional direction
+  const goDeg=((w.regional_from_deg||0)+180)%360, r=goDeg*Math.PI/180;
+  const big=arrowMesh(26,0xf59e0b);
+  big.position.set(0,gy(0,0)+(SUBJECT?SUBJECT.height:5)+9,0);
+  big.rotation.order='YXZ';
+  big.rotation.y=Math.atan2(Math.sin(r),-Math.cos(r));
+  {const dX=Math.sin(r), dZ=-Math.cos(r), st=14;
+   big.rotation.x=-Math.atan2(gy(dX*st,dZ*st)-gy(-dX*st,-dZ*st), 2*st);}
+  big.scale.set(1.7,1.7,1.0);
+  G.wind.add(big);
+}
+
+function buildZone(t){
+  clear(G.zone);
+  const ZONE0_M=1.524;                     // 5 ft
+  const gy=(x,z)=>H?(H(x,z)-t.min)*VEX:0;
+  if(SUBJECT){
+    // Zone 0 is measured from the WALLS, so draw a band around the footprint.
+    const inner=SUBJECT.ring, outer=offsetRing(SUBJECT.ring,ZONE0_M);
+    const shape=new THREE.Shape();
+    outer.forEach((p,i)=>i?shape.lineTo(p[0],p[1]):shape.moveTo(p[0],p[1]));
+    const hole=new THREE.Path();
+    inner.forEach((p,i)=>i?hole.lineTo(p[0],p[1]):hole.moveTo(p[0],p[1]));
+    shape.holes.push(hole);
+    const geo=new THREE.ExtrudeGeometry(shape,{depth:0.12,bevelEnabled:false});
+    geo.rotateX(-Math.PI/2);
+    const mat=new THREE.MeshBasicMaterial({color:0xef4444,transparent:true,opacity:.55,
+      side:THREE.DoubleSide,depthWrite:false});
+    const m=new THREE.Mesh(geo,mat);
+    let cx=0,cz=0; inner.forEach(p=>{cx+=p[0];cz+=-p[1];});
+    m.position.y=gy(cx/inner.length,cz/inner.length)+0.15;
+    G.zone.add(m);
+  }
+  // a beacon so the subject property is findable from any angle and any zoom
+  const g0=gy(0,0), top=g0+(SUBJECT?SUBJECT.height:5)+16;
+  const beam=new THREE.Mesh(new THREE.CylinderGeometry(0.22,0.22,top-g0,6),
+    new THREE.MeshBasicMaterial({color:0xef4444,transparent:true,opacity:.7,depthWrite:false}));
+  beam.position.set(0,(g0+top)/2,0); G.zone.add(beam);
+  const knob=new THREE.Mesh(new THREE.SphereGeometry(1.5,12,10),
+    new THREE.MeshBasicMaterial({color:0xef4444}));
+  knob.position.set(0,top,0); G.zone.add(knob);
+}
+
+const $=id=>document.getElementById(id);
+let LAST=null;
+async function load(addr){
+  $('go').disabled=true; $('status').textContent='geocoding…';
+  try{
+    const r=await fetch('/api/property?address='+encodeURIComponent(addr)+'&radius=150');
+    const d=await r.json();
+    if(d.error){
+      if(d.did_you_mean?.length){
+        renderSug(d.did_you_mean.map(l=>({label:l,exact:true})));
+        $('status').textContent=d.error+' — pick a suggestion';
+        $('info').innerHTML='<h3>no such address</h3><div>'+d.error+'</div><div>real numbers on that street are listed above.</div>';
+        $('go').disabled=false; return;
+      }
+      $('status').textContent=d.error+(d.hint?' — '+d.hint:'');
+      $('info').innerHTML='<h3>not found</h3><div>'+d.error+'</div>'+(d.hint?'<div>'+d.hint+'</div>':'');
+      $('go').disabled=false; return;}
+    $('status').textContent='rendering…'; LAST=d;
+    buildTerrain(d.terrain); buildBuildings(d.buildings,d.terrain);
+    buildVeg(d.vegetation,d.terrain); buildZone(d.terrain); buildNorth(d.terrain);
+    buildWind(d.wind,d.terrain);
+    const relief=(d.terrain.max-d.terrain.min).toFixed(1);
+    const veg=d.vegetation||{};
+    $('info').innerHTML=`<h3>${d.address}</h3>
+      <div>hazard <b>${d.hazard?.fhsz||'none mapped'}</b> ${d.hazard?.fhsz_source?'('+d.hazard.fhsz_source+')':''} , area <b>${d.hazard?.responsibility_area||'—'}</b></div>
+      <div>relief across 300 m <b>${relief} m</b> (${d.terrain.min.toFixed(0)}–${d.terrain.max.toFixed(0)} m)</div>
+      <div>buildings <b>${d.buildings.length}</b> , with height <b>${d.buildings.filter(b=>typeof b.height==='number').length}</b></div>
+      <div>vegetation <b>${veg.available?(veg.trees?.length||0)+' clumps':'no lidar tile cached'}</b>${veg.reason?' — '+veg.reason:''}</div>
+      <div>subject building <b>${SUBJECT?'found':'NOT FOUND at this point'}</b>${SUBJECT?` (${SUBJECT.props.cls||'building'}, ${SUBJECT.height.toFixed(1)} m)`:''}</div>
+      ${(()=>{const w=d.wind,s2=w?.stats;
+        if(!s2?.available) return `<div>wind <b>${s2?.reason||'not available'}</b></div>`;
+        const ts=w.summary||{}, ww=w.windward;
+        // Lead with the WALL, not the compass sector. "26% from the NE" invites
+        // "what about the other 74%"; a wall's complement is the opposite wall.
+        let head='';
+        if(ww){
+          const pct=Math.round((ww.kind==='corner'?ww.exposure:ww.walls[0].exposure)*100);
+          const lift=(pct/50);
+          const strength = lift>=1.5?'strong':(lift>=1.25?'moderate':'weak');
+          const name = ww.kind==='corner'
+            ? `<b>${ww.faces} corner</b> (${ww.walls[0].faces} and ${ww.walls[1].faces} sides)`
+            : `<b>${ww.walls[0].faces} side</b>`;
+          head = lift<1.25
+            ? `<div>wind gives <b>no strong steer</b> here — most exposed is the ${ww.kind==='corner'?ww.faces+' corner':ww.walls[0].faces+' side'} at ${pct}%, barely above the 50% you would get by chance</div>`
+            : `<div>your ${name} is windward on <b>${pct}%</b> of high-risk days <span style="color:#98a1ad">(${lift.toFixed(2)}x the 50% random baseline — ${strength})</span></div>`;
+          const others=(w.walls||[]).filter(x=>!ww.walls.some(y=>y.faces===x.faces&&y.bearing===x.bearing));
+          if(others.length) head+=`<div style="color:#98a1ad;font-size:11.5px">other sides: ${others.map(x=>x.faces+' '+Math.round(x.exposure*100)+'%').join(', ')}</div>`;
+        } else {
+          head = `<div>wind from <b>${s2.dominant_sector}</b> — no building footprint to score walls against</div>`;
+        }
+        return head+`<div><b>${s2.dangerous_days_per_year}</b> high-risk days a year, peak <b>${s2.peak_months.join(', ')}</b> (${s2.years[0]}–${s2.years[1]})</div>
+        <div>terrain here <b>${ts.exposure||'?'}</b>, wind x<b>${ts.speed_multiplier??'?'}</b>${ts.uphill_of_wind?', <b>uphill of the wind</b>':''}</div>`;})()}
+      <div>firewise <b>${d.firewise?.count??'—'}</b> within 4 km${d.firewise?.nearest?' , nearest '+d.firewise.nearest.km+' km':''}</div>
+      <div style="margin-top:5px;font-size:11px">geocoded by <b>${d.geocoder||'?'}</b> (${d.precision||'?'})</div>
+      ${d.warning?`<div style="margin-top:6px;color:#fbbf24;font-size:11.5px">${d.warning}</div>
+        <div style="font-size:11px">did you mean: ${(d.did_you_mean||[]).slice(0,3).join(' | ')}</div>`:''}`;
+    $('status').textContent='ready';
+    controls.target.set(0,0,0); camera.position.set(140,120,140);
+  }catch(e){
+    const msg=(e&&(e.name+': '+e.message))||String(e);
+    console.error('load failed',e);
+    $('status').textContent=msg;
+    $('info').innerHTML='<h3>render error</h3><div>'+msg+'</div>'+
+      '<div style="margin-top:6px;font-size:11px">'+((e&&e.stack)||'').split('\n').slice(0,3).join('<br>')+'</div>';
+  }
+  $('go').disabled=false;
+}
+// ---- autocomplete (debounced; Nominatim allows ~1 req/sec) ----
+let sugTimer=null, sugItems=[], sugIdx=-1;
+const sug=$('sugg');
+function hideSug(){sug.style.display='none';sugIdx=-1;}
+function renderSug(items){
+  sugItems=items;
+  if(!items.length){hideSug();return;}
+  sug.innerHTML=items.map((s,i)=>
+    `<div data-i="${i}">${s.label}${s.exact?'':'<span class="approx">approximate</span>'}</div>`).join('');
+  sug.style.display='block';
+  [...sug.children].forEach(el=>el.onclick=()=>{
+    $('addr').value=sugItems[+el.dataset.i].label; hideSug(); load($('addr').value);});
+}
+$('addr').addEventListener('input',()=>{
+  clearTimeout(sugTimer);
+  const q=$('addr').value.trim();
+  if(q.length<3){hideSug();return;}
+  sugTimer=setTimeout(async()=>{
+    try{const r=await fetch('/api/suggest?q='+encodeURIComponent(q));renderSug(await r.json());}
+    catch(_){hideSug();}
+  },350);
+});
+$('addr').addEventListener('keydown',e=>{
+  if(sug.style.display!=='block')return;
+  if(e.key==='ArrowDown'||e.key==='ArrowUp'){
+    e.preventDefault();
+    sugIdx=(sugIdx+(e.key==='ArrowDown'?1:-1)+sugItems.length)%sugItems.length;
+    [...sug.children].forEach((el,i)=>el.classList.toggle('sel',i===sugIdx));
+  } else if(e.key==='Enter'&&sugIdx>=0){
+    e.preventDefault(); $('addr').value=sugItems[sugIdx].label; hideSug(); load($('addr').value);
+  } else if(e.key==='Escape'){hideSug();}
+});
+document.addEventListener('click',e=>{if(!e.target.closest('#wrap'))hideSug();});
+
+$('vex').oninput=e=>{VEX=+e.target.value; $('vexv').textContent=VEX;
+  if(LAST) {buildTerrain(LAST.terrain); buildBuildings(LAST.buildings,LAST.terrain);
+            buildVeg(LAST.vegetation,LAST.terrain); buildZone(LAST.terrain);
+            buildNorth(LAST.terrain); buildWind(LAST.wind,LAST.terrain);} };
+// Top-down, north up. World -z is north, so the camera's up vector must point to -z.
+function planView(){
+  const S=(LAST?.terrain?.size_m||300);
+  camera.up.set(0,0,-1);
+  camera.position.set(0,S*1.15,0.001);
+  controls.target.set(0,0,0); controls.update();
+}
+function perspView(){
+  camera.up.set(0,1,0);
+  camera.position.set(140,120,140); controls.target.set(0,0,0); controls.update();
+}
+$('plan').onclick=planView;
+window.__view={plan:planView,persp:perspView};
+// debug hook so layer geometry can be verified numerically, not by eye
+window.__dbg={G,get LAST(){return LAST;},get H(){return H;},get SUBJECT(){return SUBJECT;}};
+$('go').onclick=()=>{hideSug();load($('addr').value);};
+$('demo').onclick=()=>{$('addr').value='2200 Fair Oaks Ave, Altadena, CA 91001';load($('addr').value);};
+$('addr').onkeydown=e=>{if(e.key==='Enter')load($('addr').value);};
+['terrain','build','veg','zone','wind'].forEach(k=>{
+  $('t_'+(k==='build'?'build':k)).onchange=e=>{G[k].visible=e.target.checked;};
+});
+addEventListener('resize',()=>{camera.aspect=innerWidth/innerHeight;camera.updateProjectionMatrix();
+  renderer.setSize(innerWidth,innerHeight);});
+(function anim(){requestAnimationFrame(anim);controls.update();renderer.render(scene,camera);})();
+load($('addr').value);
+</script>
