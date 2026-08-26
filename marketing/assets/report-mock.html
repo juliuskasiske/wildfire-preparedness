@@ -1,0 +1,99 @@
+<title>Report Mock</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap">
+<style>
+/* Mock of the assessment report, used only as artwork inside the flyer frame.
+   Numbers are the real output for 15757 W Sunset Blvd so the mock does not
+   misrepresent what the tool produces. */
+:root{
+  --paper:#FFFFFF; --ink:#16130F; --soft:#5C554E; --faint:#8B837A;
+  --ember:#C1380F; --rule:#E4E0D9; --green:#3F7A4B; --band:#F4F3F0;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{width:900px;background:var(--paper);color:var(--ink);
+  font-family:"Source Serif 4",Georgia,serif;font-size:15px;line-height:1.45}
+.page{padding:46px 52px}
+.top{display:flex;justify-content:space-between;align-items:flex-start;
+  border-bottom:2px solid var(--ink);padding-bottom:18px;margin-bottom:26px}
+.top h1{font-family:Archivo,sans-serif;font-size:27px;font-weight:800;letter-spacing:-.02em;line-height:1.1}
+.top .addr{color:var(--soft);font-size:15px;margin-top:5px}
+.badge{background:var(--ember);color:#fff;font-family:Archivo,sans-serif;
+  font-size:12.5px;font-weight:700;padding:7px 13px;border-radius:4px;white-space:nowrap}
+.grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:16px;margin-bottom:28px}
+.stat{background:var(--band);padding:15px 17px;border-radius:5px}
+.stat .k{font-family:Archivo,sans-serif;font-size:11.5px;font-weight:600;color:var(--faint);margin-bottom:6px}
+.stat .v{font-family:Archivo,sans-serif;font-size:25px;font-weight:800;letter-spacing:-.02em;line-height:1}
+.stat .n{font-size:12.5px;color:var(--soft);margin-top:5px}
+h2{font-family:Archivo,sans-serif;font-size:17px;font-weight:700;margin-bottom:14px;letter-spacing:-.012em}
+table{width:100%;border-collapse:collapse}
+th{font-family:Archivo,sans-serif;font-size:11.5px;font-weight:600;color:var(--faint);
+  text-align:left;padding-bottom:9px;border-bottom:1px solid var(--rule)}
+th.r,td.r{text-align:right}
+td{padding:11px 0;border-bottom:1px solid var(--rule);font-size:14.5px;vertical-align:top}
+td.act{font-weight:600}
+td .sub{display:block;font-size:12.5px;color:var(--soft);margin-top:2px}
+.cost{font-family:Archivo,sans-serif;font-weight:700;white-space:nowrap}
+.free{color:var(--green)}
+.zone{display:flex;gap:9px;margin-top:26px}
+.zbar{flex:1;background:var(--band);border-radius:5px;padding:12px 14px}
+.zbar .z{font-family:Archivo,sans-serif;font-size:11.5px;font-weight:600;color:var(--faint)}
+.zbar .m{font-family:Archivo,sans-serif;font-size:19px;font-weight:800;margin-top:4px}
+.ok{color:var(--green)}
+</style>
+<div class="page">
+  <div class="top">
+    <div>
+      <h1>Wildfire assessment</h1>
+      <div class="addr">15757 West Sunset Boulevard, Pacific Palisades 90272</div>
+    </div>
+    <div class="badge">Very High hazard zone</div>
+  </div>
+
+  <div class="grid">
+    <div class="stat">
+      <div class="k">Most exposed side</div>
+      <div class="v">East</div>
+      <div class="n">windward on 85% of high-risk days</div>
+    </div>
+    <div class="stat">
+      <div class="k">High-risk days a year</div>
+      <div class="v">5.8</div>
+      <div class="n">peak Nov, Jan, Dec</div>
+    </div>
+    <div class="stat">
+      <div class="k">Nearest structure</div>
+      <div class="v">4.1 m</div>
+      <div class="n">31 buildings within 150 m</div>
+    </div>
+  </div>
+
+  <h2>What to do, in order</h2>
+  <table>
+    <tr><th>Action</th><th class="r">Cost</th></tr>
+    <tr>
+      <td class="act">Clear roof and gutters<span class="sub">Required now under state defensible space law</span></td>
+      <td class="r cost free">Free</td>
+    </tr>
+    <tr>
+      <td class="act">Move firewood out of the first 5 feet<span class="sub">Highest fuel load found next to the house</span></td>
+      <td class="r cost free">Free</td>
+    </tr>
+    <tr>
+      <td class="act">Mesh over existing vents, 1/8 inch<span class="sub">Same protection as listed vents at a twentieth of the cost</span></td>
+      <td class="r cost">$300</td>
+    </tr>
+    <tr>
+      <td class="act">Noncombustible base, first 6 inches of wall<span class="sub">Qualifies for an insurance credit you can claim</span></td>
+      <td class="r cost">$430</td>
+    </tr>
+    <tr>
+      <td class="act">Replace bark mulch with gravel in the first 5 feet<span class="sub">Phase 1 of the new Zone 0 rules</span></td>
+      <td class="r cost">$2,780</td>
+    </tr>
+  </table>
+
+  <div class="zone">
+    <div class="zbar"><div class="z">Zone 0, first 5 ft</div><div class="m ok">Clear</div></div>
+    <div class="zbar"><div class="z">Zone 1, to 30 ft</div><div class="m">18 clumps, 10.1 m tall</div></div>
+    <div class="zbar"><div class="z">Zone 2, to 100 ft</div><div class="m">205 clumps</div></div>
+  </div>
+</div>

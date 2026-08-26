@@ -1,0 +1,252 @@
+<title>Fire Season Flyer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800;900&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap">
+
+<style>
+/* ---------------------------------------------------------------------------
+   Fire Season Flyer, A5 portrait (148 x 210 mm).
+
+   Single visual world on purpose: this is a printed sheet, so it commits to the
+   paper palette and paints every colour explicitly rather than inheriting a
+   host theme.
+
+   Hierarchy is carried by SIZE and WEIGHT only. No uppercase tracked labels
+   anywhere, so the eye steps down the page by scale: headline, then the four
+   questions, then their answers, then the trade, then the domain.
+
+   Palette comes from the subject's own material. California's Fire Hazard
+   Severity Zone maps run yellow to orange to red, so the accent is an ember red
+   off that scale, and the contour field is the same terrain the assessment reads.
+--------------------------------------------------------------------------- */
+:root{
+  --paper:      #F4F3F0;
+  --paper-deep: #EAE7E1;
+  --ink:        #16130F;
+  --ink-soft:   #554E48;
+  --ink-faint:  #8B837A;
+  --ember:      #C1380F;
+  --terrain:    #8C9382;
+  --rule:       #D9D5CE;
+}
+
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{
+  background:var(--paper);
+  color:var(--ink);
+  font-family:"Source Serif 4","Iowan Old Style",Georgia,serif;
+  line-height:1.45;
+  -webkit-font-smoothing:antialiased;
+  display:flex;justify-content:center;
+  padding:24px 16px 48px;
+}
+
+/* A5 portrait */
+.sheet{
+  width:148mm; height:210mm;
+  background:var(--paper);
+  position:relative; overflow:hidden;
+  display:flex; flex-direction:column;
+  box-shadow:0 1px 2px rgba(22,19,15,.10), 0 14px 44px rgba(22,19,15,.13);
+}
+
+/* ---------- header: the headline is the flyer ---------- */
+.head{
+  position:relative;
+  flex:0 0 auto;
+  padding:10mm 11mm 5mm;
+  background:var(--paper-deep);
+  border-bottom:2.5px solid var(--ink);
+  overflow:hidden;
+}
+#contours{
+  position:absolute;inset:0;width:100%;height:100%;pointer-events:none;
+  /* denser on the open right, fading out under the headline so type stays first */
+  -webkit-mask-image:linear-gradient(102deg,transparent 22%,rgba(0,0,0,.5) 44%,#000 74%);
+          mask-image:linear-gradient(102deg,transparent 22%,rgba(0,0,0,.5) 44%,#000 74%);
+}
+.head > *{position:relative}
+
+h1{
+  font-family:Archivo,"Helvetica Neue",Arial,sans-serif;
+  font-size:39px; line-height:1.0; font-weight:800; letter-spacing:-.030em;
+  margin:0 0 4mm; text-wrap:balance;
+}
+h1 .free{color:var(--ember);display:block}
+
+.sub{
+  font-size:14.5px; line-height:1.4; color:var(--ink-soft);
+  margin:0; max-width:40ch;
+}
+.sub strong{color:var(--ink);font-weight:600}
+
+/* ---------- the four questions ---------- */
+.body{padding:4.5mm 11mm 3mm;flex:1;display:flex;flex-direction:column}
+
+.pillars{
+  display:grid;grid-template-columns:1fr 1fr;
+  gap:4.5mm 6mm;
+  margin:0 0 4mm;
+}
+.pillar{padding-left:3mm;border-left:2.5px solid var(--ember)}
+.pillar h2{
+  font-family:Archivo,"Helvetica Neue",Arial,sans-serif;
+  font-size:15px;font-weight:700;letter-spacing:-.012em;
+  margin:0 0 1mm;line-height:1.18;
+}
+.pillar p{margin:0;font-size:11.6px;line-height:1.38;color:var(--ink-soft)}
+
+/* ---------- author ---------- */
+.author{
+  display:grid;grid-template-columns:19mm 1fr;gap:5mm;
+  align-items:start;
+  padding-top:4.5mm;margin-top:auto;
+  border-top:1px solid var(--rule);
+}
+.portrait{
+  width:19mm;height:19mm;border-radius:50%;
+  border:1.5px dashed var(--ink-faint);
+  display:flex;align-items:center;justify-content:center;text-align:center;
+  font-family:Archivo,"Helvetica Neue",Arial,sans-serif;
+  font-size:8.5px;font-weight:600;color:var(--ink-faint);line-height:1.3;
+}
+.author h2{
+  font-family:Archivo,"Helvetica Neue",Arial,sans-serif;
+  font-size:17px;font-weight:700;margin:0 0 1.5mm;letter-spacing:-.014em;
+}
+.author p{margin:0;font-size:11.8px;line-height:1.42;color:var(--ink-soft)}
+.author p strong{color:var(--ink);font-weight:600}
+
+/* ---------- call to action ---------- */
+.cta{
+  background:var(--ink);
+  color:var(--paper);
+  flex:0 0 auto;
+  padding:5mm 11mm;
+  display:grid;grid-template-columns:1fr 20mm;gap:6mm;align-items:center;
+}
+.cta-domain{
+  font-family:Archivo,"Helvetica Neue",Arial,sans-serif;
+  font-size:26px;font-weight:800;letter-spacing:-.024em;
+  margin:0 0 1.5mm;line-height:1.05;color:var(--paper);
+}
+.cta-note{margin:0;font-size:11.6px;color:#B9B2AA;line-height:1.35}
+.qr{
+  width:20mm;height:20mm;background:var(--paper);
+  border:1.5px dashed var(--ink-faint);
+  display:flex;align-items:center;justify-content:center;text-align:center;
+  font-family:Archivo,"Helvetica Neue",Arial,sans-serif;
+  font-size:8.5px;font-weight:600;color:var(--ink-faint);line-height:1.3;
+}
+
+.finepr{
+  flex:0 0 auto;
+  padding:2mm 11mm 3mm;
+  font-size:9px;line-height:1.4;color:var(--ink-faint);
+  background:var(--paper);
+}
+
+/* ---------- print ---------- */
+@page{size:A5 portrait;margin:0}
+@media print{
+  body{padding:0;background:#fff;display:block}
+  .sheet{box-shadow:none;width:148mm;height:210mm}
+  *{-webkit-print-color-adjust:exact;print-color-adjust:exact}
+}
+
+@media (max-width:170mm){
+  body{padding:12px 8px 32px}
+  .sheet{width:100%;height:auto}
+  .pillars{grid-template-columns:1fr}
+  .cta{grid-template-columns:1fr;gap:4mm}
+}
+</style>
+
+<div class="sheet">
+
+  <header class="head">
+    <svg id="contours" aria-hidden="true"></svg>
+    <h1>Is your home ready for fire season?<span class="free">Find out for free.</span></h1>
+    <p class="sub"><strong>Enter your address.</strong> See what's exposed, what to fix first,
+       and what it costs, starting with what's free.</p>
+  </header>
+
+  <main class="body">
+    <div class="pillars">
+      <div class="pillar">
+        <h2>Will my home survive?</h2>
+        <p>Where you're exposed, which side takes the wind, and what to fix first,
+           starting with what costs nothing.</p>
+      </div>
+      <div class="pillar">
+        <h2>Am I leaving money on the table?</h2>
+        <p>Which insurance discounts your home already qualifies for, and which are
+           worth doing the work for.</p>
+      </div>
+      <div class="pillar">
+        <h2>Can I get proper coverage again?</h2>
+        <p>What insurers look at, and what moves the needle if you've been non-renewed
+           or pushed onto the FAIR Plan.</p>
+      </div>
+      <div class="pillar">
+        <h2>Do the new rules apply to me?</h2>
+        <p>What California now requires for your property, and by when.</p>
+      </div>
+    </div>
+
+    <section class="author">
+      <div class="portrait">Photo</div>
+      <div>
+        <h2>Hi, I'm Julius</h2>
+        <p>I'm researching how Californians are actually handling wildfire risk. I can't
+           answer that from data alone, so I built a free assessment for your specific home
+           and <strong>trade it for your honest take on 5 questions.</strong></p>
+      </div>
+    </section>
+  </main>
+
+  <section class="cta">
+    <div>
+      <p class="cta-domain">yourdomain.com</p>
+      <p class="cta-note">No account. No salesperson will call.</p>
+    </div>
+    <div class="qr">QR</div>
+  </section>
+
+  <p class="finepr">An educational assessment built from public records. Not a site inspection,
+     not insurance advice, and it can't guarantee coverage or a discount.</p>
+
+</div>
+
+<script>
+/* Topographic contour field behind the headline. Not decoration for its own sake:
+   the assessment reads real terrain, so the header is drawn from the same
+   vocabulary. Generated rather than hand-authored so the ridges nest naturally. */
+(function(){
+  const svg = document.getElementById('contours');
+  const W = 559, H = 230;                 // A5 width at 96dpi, header block
+  svg.setAttribute('viewBox', `0 0 ${W} ${H}`);
+  svg.setAttribute('preserveAspectRatio','none');
+
+  const LINES = 20;
+  const wave = (x, k) =>
+      Math.sin(x / 132 + k * 0.44) * 26 +
+      Math.sin(x / 58  + k * 1.08) * 11 +
+      Math.sin(x / 29  + k * 1.95) * 4.5;
+
+  let out = '';
+  for (let i = 0; i < LINES; i++) {
+    const base = -18 + i * 13;
+    const amp  = 0.55 + 0.8 * (1 - i / LINES);   // ridges loosen toward the foot
+    let d = '';
+    for (let x = -20; x <= W + 20; x += 9) {
+      const y = base + wave(x, i) * amp;
+      d += (x === -20 ? 'M' : 'L') + x.toFixed(1) + ' ' + y.toFixed(1);
+    }
+    out += `<path d="${d}" fill="none" stroke="var(--terrain)" stroke-width="1"
+             stroke-opacity="0.55" stroke-linecap="round"/>`;
+  }
+  svg.innerHTML = out;
+})();
+</script>

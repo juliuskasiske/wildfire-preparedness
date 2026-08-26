@@ -1,0 +1,229 @@
+<title>Fire Season Flyer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800;900&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap">
+
+<style>
+/* ---------------------------------------------------------------------------
+   Fire Season Flyer v1.2, A5 portrait (148 x 210 mm).
+
+   Change from v1.1: the subheader and the four explanatory sublines are gone.
+   That frees roughly 44 mm, all of it spent on scale. The headline is now the
+   dominant object on the sheet and the four questions stand alone as claims,
+   set in one column so each gets a full line rather than a cramped half.
+
+   Single visual world on purpose: this is a printed sheet, so it commits to the
+   paper palette and paints every colour explicitly rather than inheriting a
+   host theme.
+
+   Hierarchy is carried by SIZE and WEIGHT only. No uppercase tracked labels.
+
+   Palette comes from the subject's own material. California's Fire Hazard
+   Severity Zone maps run yellow to orange to red, so the accent is an ember red
+   off that scale, and the contour field is the same terrain the assessment reads.
+--------------------------------------------------------------------------- */
+:root{
+  --paper:      #F4F3F0;
+  --paper-deep: #EAE7E1;
+  --ink:        #16130F;
+  --ink-soft:   #554E48;
+  --ink-faint:  #8B837A;
+  --ember:      #C1380F;
+  --terrain:    #8C9382;
+  --rule:       #D9D5CE;
+}
+
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{
+  background:var(--paper);
+  color:var(--ink);
+  font-family:"Source Serif 4","Iowan Old Style",Georgia,serif;
+  line-height:1.45;
+  -webkit-font-smoothing:antialiased;
+  display:flex;justify-content:center;
+  padding:24px 16px 48px;
+}
+
+/* A5 portrait */
+.sheet{
+  width:148mm; height:210mm;
+  background:var(--paper);
+  position:relative; overflow:hidden;
+  display:flex; flex-direction:column;
+  box-shadow:0 1px 2px rgba(22,19,15,.10), 0 14px 44px rgba(22,19,15,.13);
+}
+
+/* ---------- header: the headline is the flyer ---------- */
+.head{
+  position:relative;
+  flex:0 0 auto;
+  padding:13mm 11mm 11mm;
+  background:var(--paper-deep);
+  border-bottom:2.5px solid var(--ink);
+  overflow:hidden;
+}
+#contours{
+  position:absolute;inset:0;width:100%;height:100%;pointer-events:none;
+  /* denser on the open right, fading out under the headline so type stays first */
+  -webkit-mask-image:linear-gradient(102deg,transparent 20%,rgba(0,0,0,.5) 42%,#000 72%);
+          mask-image:linear-gradient(102deg,transparent 20%,rgba(0,0,0,.5) 42%,#000 72%);
+}
+.head > *{position:relative}
+
+h1{
+  font-family:Archivo,"Helvetica Neue",Arial,sans-serif;
+  font-size:54px; line-height:.96; font-weight:800; letter-spacing:-.036em;
+  margin:0; text-wrap:balance;
+}
+h1 .free{color:var(--ember);display:block}
+
+/* ---------- the four questions, standing alone ---------- */
+.body{padding:7mm 11mm 5mm;flex:1;display:flex;flex-direction:column}
+
+.questions{
+  display:flex;flex-direction:column;gap:5mm;
+  margin:0 0 6mm;
+}
+.q{
+  font-family:Archivo,"Helvetica Neue",Arial,sans-serif;
+  font-size:21px;font-weight:700;letter-spacing:-.020em;line-height:1.14;
+  margin:0;padding-left:4mm;
+  border-left:3px solid var(--ember);
+}
+
+/* ---------- author ---------- */
+.author{
+  display:grid;grid-template-columns:21mm 1fr;gap:5mm;
+  align-items:start;
+  padding-top:5mm;margin-top:auto;
+  border-top:1px solid var(--rule);
+}
+.portrait{
+  width:21mm;height:21mm;border-radius:50%;
+  border:1.5px dashed var(--ink-faint);
+  display:flex;align-items:center;justify-content:center;text-align:center;
+  font-family:Archivo,"Helvetica Neue",Arial,sans-serif;
+  font-size:9px;font-weight:600;color:var(--ink-faint);line-height:1.3;
+}
+.author h2{
+  font-family:Archivo,"Helvetica Neue",Arial,sans-serif;
+  font-size:18px;font-weight:700;margin:0 0 2mm;letter-spacing:-.016em;
+}
+.author p{margin:0;font-size:12.4px;line-height:1.45;color:var(--ink-soft)}
+.author p strong{color:var(--ink);font-weight:600}
+
+/* ---------- call to action ---------- */
+.cta{
+  background:var(--ink);
+  color:var(--paper);
+  flex:0 0 auto;
+  padding:6mm 11mm;
+  display:grid;grid-template-columns:1fr 21mm;gap:6mm;align-items:center;
+}
+.cta-domain{
+  font-family:Archivo,"Helvetica Neue",Arial,sans-serif;
+  font-size:29px;font-weight:800;letter-spacing:-.026em;
+  margin:0 0 1.5mm;line-height:1.05;color:var(--paper);
+}
+.cta-note{margin:0;font-size:12px;color:#B9B2AA;line-height:1.35}
+.qr{
+  width:21mm;height:21mm;background:var(--paper);
+  border:1.5px dashed var(--ink-faint);
+  display:flex;align-items:center;justify-content:center;text-align:center;
+  font-family:Archivo,"Helvetica Neue",Arial,sans-serif;
+  font-size:9px;font-weight:600;color:var(--ink-faint);line-height:1.3;
+}
+
+.finepr{
+  flex:0 0 auto;
+  padding:2.5mm 11mm 3.5mm;
+  font-size:9.2px;line-height:1.4;color:var(--ink-faint);
+  background:var(--paper);
+}
+
+/* ---------- print ---------- */
+@page{size:A5 portrait;margin:0}
+@media print{
+  body{padding:0;background:#fff;display:block}
+  .sheet{box-shadow:none;width:148mm;height:210mm}
+  *{-webkit-print-color-adjust:exact;print-color-adjust:exact}
+}
+
+@media (max-width:170mm){
+  body{padding:12px 8px 32px}
+  .sheet{width:100%;height:auto}
+  .cta{grid-template-columns:1fr;gap:4mm}
+}
+</style>
+
+<div class="sheet">
+
+  <header class="head">
+    <svg id="contours" aria-hidden="true"></svg>
+    <h1>Is your home ready for fire season?<span class="free">Find out for free.</span></h1>
+  </header>
+
+  <main class="body">
+    <div class="questions">
+      <p class="q">Will my home survive?</p>
+      <p class="q">Am I leaving money on the table?</p>
+      <p class="q">Can I get proper coverage again?</p>
+      <p class="q">Do the new rules apply to me?</p>
+    </div>
+
+    <section class="author">
+      <div class="portrait">Photo</div>
+      <div>
+        <h2>Hi, I'm Julius</h2>
+        <p>I'm researching how Californians are actually handling wildfire risk. I can't
+           answer that from data alone, so I built a free assessment for your specific home
+           and <strong>trade it for your honest take on 5 questions.</strong></p>
+      </div>
+    </section>
+  </main>
+
+  <section class="cta">
+    <div>
+      <p class="cta-domain">yourdomain.com</p>
+      <p class="cta-note">No account. No salesperson will call.</p>
+    </div>
+    <div class="qr">QR</div>
+  </section>
+
+  <p class="finepr">An educational assessment built from public records. Not a site inspection,
+     not insurance advice, and it can't guarantee coverage or a discount.</p>
+
+</div>
+
+<script>
+/* Topographic contour field behind the headline. Not decoration for its own sake:
+   the assessment reads real terrain, so the header is drawn from the same
+   vocabulary. Generated rather than hand-authored so the ridges nest naturally. */
+(function(){
+  const svg = document.getElementById('contours');
+  const W = 559, H = 300;                 // A5 width at 96dpi, taller header block
+  svg.setAttribute('viewBox', `0 0 ${W} ${H}`);
+  svg.setAttribute('preserveAspectRatio','none');
+
+  const LINES = 24;
+  const wave = (x, k) =>
+      Math.sin(x / 132 + k * 0.44) * 28 +
+      Math.sin(x / 58  + k * 1.08) * 12 +
+      Math.sin(x / 29  + k * 1.95) * 5;
+
+  let out = '';
+  for (let i = 0; i < LINES; i++) {
+    const base = -20 + i * 14;
+    const amp  = 0.55 + 0.8 * (1 - i / LINES);   // ridges loosen toward the foot
+    let d = '';
+    for (let x = -20; x <= W + 20; x += 9) {
+      const y = base + wave(x, i) * amp;
+      d += (x === -20 ? 'M' : 'L') + x.toFixed(1) + ' ' + y.toFixed(1);
+    }
+    out += `<path d="${d}" fill="none" stroke="var(--terrain)" stroke-width="1"
+             stroke-opacity="0.55" stroke-linecap="round"/>`;
+  }
+  svg.innerHTML = out;
+})();
+</script>
