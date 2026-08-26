@@ -120,7 +120,7 @@ h1 .free{color:var(--ember);display:block}
   /* offset is measured, not guessed: the midpoint between his two fingertips
      sits at 43.6% of his width and has to land on the sign's rendered centre,
      which the rotation pushes off the plain box centre */
-  margin-right:3.68mm;
+  margin-right:1.47mm;
 }
 .author p{margin:0;font-size:12.4px;line-height:1.45;color:var(--ink-soft)}
 .author p strong{color:var(--ink);font-weight:600}
@@ -133,9 +133,9 @@ h1 .free{color:var(--ember);display:block}
    margin that the caps sit in white rather than crowding the frame. */
 .signwrap{
   display:inline-block;
-  /* measured: the plate centre sat 2.01 px below the cap-height centre of
+  /* measured: the plate centre sat 1.81 px below the cap-height centre of
      "Hi, I'm", so it is lifted by exactly that onto the same optical line */
-  position:relative;top:-2.01px;
+  position:relative;top:-1.81px;
   /* the drop shadow sits outside the perspective wrapper so it follows the
      transformed silhouette rather than the flat, unrotated box */
   filter:drop-shadow(.15mm .45mm .3mm rgba(22,19,15,.40))
@@ -145,25 +145,25 @@ h1 .free{color:var(--ember);display:block}
 .persp{display:inline-block;perspective:340px}
 .sign{
   display:flex;align-items:center;justify-content:center;
-  width:39mm;height:10.9mm;   /* 3.58 : 1, sized so the caps keep a real margin */
+  width:34.5mm;height:9.64mm;  /* 3.58 : 1, sized so the caps keep a real margin */
   box-sizing:border-box;
-  border:4px solid var(--sign-dark);
-  border-radius:3.4px;
+  border:3.5px solid var(--sign-dark);
+  border-radius:3px;
   background:linear-gradient(100deg,#FFFFFF 0%,#FBFBF9 55%,#EFEEEA 100%);
   font-family:Archivo,"Helvetica Neue",Arial,sans-serif;
-  font-size:30px;font-weight:800;letter-spacing:0;line-height:1;
+  font-size:26.5px;font-weight:800;letter-spacing:0;line-height:1;
   text-transform:uppercase;          /* the sign itself reads in caps */
   color:var(--sign-dark);
   transform:rotateY(15deg) rotateZ(-3deg) rotateX(3deg);
   transform-origin:72% 50%;
   /* slab edge: under rotateY(+15deg) the left side is nearest the viewer, so
      the extrusion runs along local -x, lit at the lip and dark into the depth.
-     Depth is 2.5 px on a 41 px plate, about 6% of its height, which is roughly
-     what a real sign plate reads as. Half-pixel steps keep the edge smooth. */
+     Depth is 2.2 px on a 36 px plate, about 6% of its height, which is roughly
+     what a real sign plate reads as. Sub-pixel steps keep the edge smooth. */
   box-shadow:
-    -.5px .14px 0 #333D48, -1px .28px 0 #262F3A,
-    -1.5px .42px 0 #1C242E, -2px .56px 0 #151C25,
-    -2.5px .70px 0 #10161E;
+    -.44px .12px 0 #333D48, -.88px .25px 0 #262F3A,
+    -1.32px .37px 0 #1C242E, -1.76px .49px 0 #151C25,
+    -2.2px .62px 0 #10161E;
 }
 
 /* ---------- call to action ---------- */
