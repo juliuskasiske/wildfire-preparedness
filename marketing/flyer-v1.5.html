@@ -69,9 +69,10 @@ body{
 }
 #contours{
   position:absolute;inset:0;width:100%;height:100%;pointer-events:none;
-  /* denser on the open right, fading out under the headline so type stays first */
-  -webkit-mask-image:linear-gradient(102deg,transparent 20%,rgba(0,0,0,.5) 42%,#000 72%);
-          mask-image:linear-gradient(102deg,transparent 20%,rgba(0,0,0,.5) 42%,#000 72%);
+  /* No CSS mask here on purpose. A mask forces the whole field to be composited
+     as a raster layer, which was one of three reasons these lines used to wink
+     in and out on zoom. The fade is now an SVG gradient painted into the stroke
+     itself, so the field stays vector all the way into the PDF. */
 }
 .head > *{position:relative}
 
@@ -208,7 +209,13 @@ h1 .free{color:var(--ember);display:block}
 <script>
 /* Topographic contour field behind the headline. Not decoration for its own sake:
    the assessment reads real terrain, so the header is drawn from the same
-   vocabulary. Generated rather than hand-authored so the ridges nest naturally. */
+   vocabulary. Generated rather than hand-authored so the ridges nest naturally.
+
+   Stroke width is deliberately 2, not 1. The viewBox is 300 tall but the header
+   renders about 224 px tall under preserveAspectRatio="none", so every unit of
+   stroke shrinks to roughly 0.75 px. At width 1 that is a sub-pixel hairline,
+   which is why individual lines vanished and returned as zoom moved them on and
+   off the device pixel grid. Width 2 lands near 0.39 mm, always a whole pixel. */
 (function(){
   const svg = document.getElementById('contours');
   const W = 559, H = 300;                 // A5 width at 96dpi, taller header block
@@ -230,9 +237,21 @@ h1 .free{color:var(--ember);display:block}
       const y = base + wave(x, i) * amp;
       d += (x === -20 ? 'M' : 'L') + x.toFixed(1) + ' ' + y.toFixed(1);
     }
-    out += `<path d="${d}" fill="none" stroke="var(--terrain)" stroke-width="1"
-             stroke-opacity="0.55" stroke-linecap="round"/>`;
+    out += `<path d="${d}" fill="none" stroke="url(#fade)" stroke-width="2"
+             stroke-linecap="round"/>`;
   }
-  svg.innerHTML = out;
+  /* The fade, as an opaque gradient rather than an alpha mask. The stops are the
+     old 55%-opacity terrain colour composited over the header's own background
+     at the old mask's 0 / 50 / 100 strengths, so it looks the same while never
+     asking the renderer to blend anything.
+     userSpaceOnUse, not objectBoundingBox: the gradient must map once across the
+     whole field, not once per path. */
+  const defs = `<defs><linearGradient id="fade" gradientUnits="userSpaceOnUse"
+      x1="0" y1="0" x2="${W}" y2="118">
+      <stop offset="0.20" stop-color="#EAE7E1"/>
+      <stop offset="0.42" stop-color="#D0D0C7"/>
+      <stop offset="0.72" stop-color="#B6B9AD"/>
+    </linearGradient></defs>`;
+  svg.innerHTML = defs + out;
 })();
 </script>
