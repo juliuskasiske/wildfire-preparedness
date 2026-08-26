@@ -114,7 +114,7 @@ h1 .free{color:var(--ember);display:block}
   font-family:Archivo,"Helvetica Neue",Arial,sans-serif;
   font-size:22px;font-weight:700;margin:0 0 3.6mm;letter-spacing:-.016em;
   line-height:1;
-  display:flex;align-items:center;gap:5mm;
+  display:flex;align-items:center;gap:3.8mm;
 }
 
 /* ---------- the name, as a street sign ---------- */
@@ -149,12 +149,13 @@ h1 .free{color:var(--ember);display:block}
   transform:rotateY(15deg) rotateZ(-3deg) rotateX(3deg);
   transform-origin:72% 50%;
   /* slab edge: under rotateY(+15deg) the left side is nearest the viewer, so
-     the extrusion runs along local -x, lit at the lip and dark into the depth */
+     the extrusion runs along local -x, lit at the lip and dark into the depth.
+     Depth is 2.5 px on a 41 px plate, about 6% of its height, which is roughly
+     what a real sign plate reads as. Half-pixel steps keep the edge smooth. */
   box-shadow:
-    -1px .28px 0 #39434F, -2px .56px 0 #2C3540,
-    -3px .84px 0 #212A35, -4px 1.12px 0 #19212B,
-    -5px 1.40px 0 #141B24, -6px 1.68px 0 #10161E,
-    -7px 1.96px 0 #0C1118;
+    -.5px .14px 0 #333D48, -1px .28px 0 #262F3A,
+    -1.5px .42px 0 #1C242E, -2px .56px 0 #151C25,
+    -2.5px .70px 0 #10161E;
 }
 .author p{margin:0;font-size:12.4px;line-height:1.45;color:var(--ink-soft)}
 .author p strong{color:var(--ink);font-weight:600}
