@@ -73,11 +73,6 @@ h2{font-size:23px;font-weight:700;letter-spacing:-.02em;margin:0 0 18px;line-hei
 .trade p strong{color:var(--ink);font-weight:600}
 
 /* ---------- form ---------- */
-.formwrap{background:var(--card);border:1px solid var(--rule);border-radius:16px;
-          padding:26px 22px 28px;box-shadow:0 1px 2px rgba(22,19,15,.05),0 10px 30px rgba(22,19,15,.06)}
-fieldset{border:0;margin:0 0 26px;padding:0}
-legend{padding:0;font-size:17.5px;font-weight:700;letter-spacing:-.012em;margin-bottom:4px}
-.qnum{color:var(--ember);font-weight:800;margin-right:7px}
 .hint{color:var(--ink-faint);font-size:14.5px;margin:0 0 12px;line-height:1.4}
 
 label.field{display:block;font-size:16px;font-weight:600;margin:0 0 6px}
@@ -102,8 +97,6 @@ input[type=text]:focus,input[type=email]:focus{
 .opt:has(input:checked){border-color:var(--ember);background:#FCF3EF}
 .opt:has(input:focus-visible){outline:3px solid color-mix(in srgb,var(--focus) 32%,transparent)}
 .opt em{font-style:normal;color:var(--ink-faint);display:block;font-size:14px;margin-top:1px}
-.sublabel{font-size:15px;font-weight:700;color:var(--ink);margin:18px 0 8px;letter-spacing:-.01em}
-.sublabel:first-of-type{margin-top:2px}
 
 /* consent */
 .consent{border-top:1px solid var(--rule);padding-top:22px;margin-top:4px}
@@ -126,6 +119,91 @@ button.go:focus-visible{outline:3px solid color-mix(in srgb,var(--focus) 45%,tra
 .err{color:var(--ember-dark);font-size:14.5px;font-weight:600;margin:9px 0 0;display:none}
 .err.on{display:block}
 .field-bad input{border-color:var(--ember)}
+
+/* ---------- stepper ----------
+   One question per screen, moving sideways. The whole point is that nobody
+   ever scrolls a survey: the card is sized to the tallest question and the
+   viewport animates its height, so the page never jumps and the Next button
+   stays where the thumb already is. */
+.stepper{background:var(--card);border:1px solid var(--rule);border-radius:16px;
+         padding:18px 18px 18px;
+         box-shadow:0 1px 2px rgba(22,19,15,.05),0 10px 30px rgba(22,19,15,.06)}
+
+.prog{display:flex;gap:5px;margin:0 0 9px}
+.prog i{flex:1;height:5px;border-radius:3px;background:var(--rule);
+        transition:background .25s ease}
+.prog i.done{background:var(--ember)}
+.prog i.now{background:var(--ember);box-shadow:0 0 0 3px color-mix(in srgb,var(--ember) 18%,transparent)}
+.progtxt{font-size:13px;font-weight:600;color:var(--ink-faint);margin:0 0 16px;
+         display:flex;justify-content:space-between}
+
+.viewport{overflow:hidden}
+/* No height transition here on purpose. Animating height was stalling
+   mid-transition and leaving the taller steps clipped, which is the one bug
+   this layout cannot afford. The sideways slide is the movement people
+   actually notice; the height just snaps under it. */
+.track{display:flex;align-items:flex-start;
+       transition:transform .32s cubic-bezier(.4,0,.2,1)}
+.step{flex:0 0 100%;min-width:100%;padding:1px}
+.step[hidden]{display:none}
+
+.qtitle{font-size:19.5px;font-weight:700;letter-spacing:-.018em;margin:0 0 6px;line-height:1.25}
+.qhint{color:var(--ink-faint);font-size:14.5px;margin:0 0 15px;line-height:1.4}
+
+/* 1 to 5 scale, laid out as one row so it costs almost no height */
+.likert{display:grid;grid-template-columns:repeat(5,1fr);gap:7px}
+.likert label{position:relative;display:flex;align-items:center;justify-content:center;
+  height:56px;border:1.5px solid var(--rule);border-radius:10px;background:var(--paper);
+  font-size:19px;font-weight:700;cursor:pointer;
+  transition:border-color .12s,background .12s,color .12s}
+.likert label:hover{border-color:var(--ink-faint)}
+.likert input{position:absolute;opacity:0;width:0;height:0}
+.likert label:has(input:checked){border-color:var(--ember);background:var(--ember);color:#fff}
+.likert label:has(input:focus-visible){outline:3px solid color-mix(in srgb,var(--focus) 40%,transparent)}
+.ends{display:flex;justify-content:space-between;gap:12px;margin-top:9px;
+      font-size:13px;color:var(--ink-faint);line-height:1.3}
+.ends span:last-child{text-align:right}
+
+/* tap-in-order ranking */
+.rank .opt{padding:11px 13px;font-size:15.5px}
+.rank .opt input{position:absolute;opacity:0;width:0;height:0}
+.badge{flex:0 0 auto;width:24px;height:24px;border-radius:50%;border:1.5px solid var(--rule);
+  display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:800;
+  color:var(--ink-faint);background:#fff}
+.rank .opt.picked{border-color:var(--ember);background:#FCF3EF}
+.rank .opt.picked .badge{background:var(--ember);border-color:var(--ember);color:#fff}
+
+/* compact multi-select for the barriers list */
+.tight .opt{padding:11px 13px;font-size:15.5px}
+.tight{gap:7px}
+
+/* money */
+.money{display:flex;align-items:center;gap:0;border:1.5px solid var(--rule);
+       border-radius:10px;background:var(--paper);overflow:hidden}
+.money span{padding:0 4px 0 14px;font-size:20px;font-weight:700;color:var(--ink-faint)}
+.money input{border:0;background:none;flex:1;font:inherit;font-size:20px;font-weight:700;
+             padding:14px 14px 14px 4px;width:100%;color:var(--ink)}
+.money input:focus{outline:none}
+.money:focus-within{border-color:var(--focus);background:#fff;
+  outline:3px solid color-mix(in srgb,var(--focus) 32%,transparent)}
+
+.stepnav{display:flex;gap:10px;margin-top:20px}
+.btn-back{flex:0 0 auto;padding:15px 18px;border:1.5px solid var(--rule);border-radius:11px;
+  background:var(--card);font:inherit;font-size:16px;font-weight:600;color:var(--ink-soft);cursor:pointer}
+.btn-back:hover{border-color:var(--ink-faint)}
+.btn-back[hidden]{display:none}
+.btn-next{flex:1;padding:15px 18px;border:0;border-radius:11px;background:var(--ink);
+  color:#fff;font:inherit;font-size:17px;font-weight:700;cursor:pointer;transition:background .12s}
+.btn-next:hover{background:#000}
+.btn-next.final{background:var(--ember);font-size:19px;font-weight:800}
+.btn-next.final:hover{background:var(--ember-dark)}
+.btn-next:disabled{background:var(--ink-faint);cursor:not-allowed}
+.btn-back:focus-visible,.btn-next:focus-visible{
+  outline:3px solid color-mix(in srgb,var(--focus) 45%,transparent);outline-offset:2px}
+
+@media (prefers-reduced-motion:reduce){
+  .track{transition:none}
+}
 
 /* ---------- success ---------- */
 #done{display:none}
@@ -166,7 +244,7 @@ dialog::backdrop{background:rgba(22,19,15,.55)}
 
 @media (min-width:620px){
   .pillars{grid-template-columns:1fr 1fr;gap:18px 24px}
-  .formwrap{padding:32px 30px 34px}
+  .stepper{padding:24px 28px 26px}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
@@ -202,110 +280,137 @@ dialog::backdrop{background:rgba(22,19,15,.55)}
   <section class="wrap" id="form-section">
     <h2>Get your free assessment</h2>
 
-    <div class="formwrap">
+    <div class="stepper">
       <form id="f" novalidate autocomplete="off">
 
-        <div class="field-group" id="fg-address">
-          <label class="field" for="address">Your property address</label>
-          <p class="hint">Street, city and ZIP. This is the property we assess.</p>
-          <input type="text" id="address" name="address" autocomplete="street-address"
-                 placeholder="815 El Medio Ave, Pacific Palisades, CA 90272" required>
-        </div>
+        <div class="prog" id="prog" aria-hidden="true"></div>
+        <p class="progtxt"><span id="progNow"></span><span id="progLeft"></span></p>
 
-        <div class="field-group" id="fg-email">
-          <label class="field" for="email">Your email</label>
-          <p class="hint">Where we send the assessment. Nothing else goes to this address.</p>
-          <input type="email" id="email" name="email" autocomplete="email"
-                 placeholder="you@example.com" required>
-        </div>
+        <div class="viewport" id="viewport">
+          <div class="track" id="track">
 
-        <fieldset>
-          <legend><span class="qnum">1</span>What is your insurance situation right now?</legend>
-          <p class="hint">This tells us which discounts and requirements actually apply to you.</p>
-          <div class="opts">
-            <label class="opt"><input type="radio" name="q1" value="insured_ok"><span>Insured, and the premium is manageable</span></label>
-            <label class="opt"><input type="radio" name="q1" value="insured_expensive"><span>Insured, but the premium jumped a lot</span></label>
-            <label class="opt"><input type="radio" name="q1" value="non_renewed"><span>I was non-renewed or dropped</span></label>
-            <label class="opt"><input type="radio" name="q1" value="fair_plan"><span>I'm on the California FAIR Plan</span></label>
-            <label class="opt"><input type="radio" name="q1" value="uninsured"><span>Currently uninsured</span></label>
-            <label class="opt"><input type="radio" name="q1" value="unknown"><span>Not sure</span></label>
+            <!-- 0 - contact -->
+            <section class="step" data-step="contact">
+              <p class="qtitle">Which property should we assess?</p>
+              <p class="qhint">Built for this exact address, so the full street address matters.</p>
+              <div class="field-group">
+                <label class="field" for="address">Property address</label>
+                <input type="text" id="address" name="address" autocomplete="street-address"
+                       placeholder="815 El Medio Ave, Pacific Palisades, CA 90272">
+              </div>
+              <div class="field-group" style="margin-bottom:0">
+                <label class="field" for="email">Your email</label>
+                <input type="email" id="email" name="email" autocomplete="email"
+                       inputmode="email" placeholder="you@example.com">
+              </div>
+            </section>
+
+            <!-- 1 - concern change -->
+            <section class="step" data-step="q1" hidden>
+              <p class="qtitle">Over the last two years, how has your concern about wildfire risk changed?</p>
+              <p class="qhint">Your own sense of it, not what the news says.</p>
+              <div class="likert" data-likert="q1_concern_change">
+                <label><input type="radio" name="q1_concern_change" value="1"><span>1</span></label>
+                <label><input type="radio" name="q1_concern_change" value="2"><span>2</span></label>
+                <label><input type="radio" name="q1_concern_change" value="3"><span>3</span></label>
+                <label><input type="radio" name="q1_concern_change" value="4"><span>4</span></label>
+                <label><input type="radio" name="q1_concern_change" value="5"><span>5</span></label>
+              </div>
+              <p class="ends"><span>Dropped a lot</span><span>About the same</span><span>Grown a lot</span></p>
+            </section>
+
+            <!-- 2 - preparedness -->
+            <section class="step" data-step="q2" hidden>
+              <p class="qtitle">If a wildfire reached your street, how ready is your home?</p>
+              <p class="qhint">Your honest read. Most people land in the middle.</p>
+              <div class="likert" data-likert="q2_preparedness">
+                <label><input type="radio" name="q2_preparedness" value="1"><span>1</span></label>
+                <label><input type="radio" name="q2_preparedness" value="2"><span>2</span></label>
+                <label><input type="radio" name="q2_preparedness" value="3"><span>3</span></label>
+                <label><input type="radio" name="q2_preparedness" value="4"><span>4</span></label>
+                <label><input type="radio" name="q2_preparedness" value="5"><span>5</span></label>
+              </div>
+              <p class="ends"><span>Not ready at all</span><span>Somewhat</span><span>Fully ready</span></p>
+            </section>
+
+            <!-- 3a - motivations (shown when q2 is 4 or 5) -->
+            <section class="step" data-step="q3a" hidden>
+              <p class="qtitle">What drove you to do that work?</p>
+              <p class="qhint">Tap in order, most important first.</p>
+              <div class="opts rank tight" id="rankBox">
+                <label class="opt" data-v="keep_coverage"><span class="badge"></span><span>Keeping my coverage</span></label>
+                <label class="opt" data-v="lower_premium"><span class="badge"></span><span>Lowering my premium</span></label>
+                <label class="opt" data-v="family"><span class="badge"></span><span>Protecting my family</span></label>
+                <label class="opt" data-v="attachment"><span class="badge"></span><span>Attachment to the home</span></label>
+                <label class="opt" data-v="rules"><span class="badge"></span><span>Meeting the new rules</span></label>
+                <label class="opt" data-v="peace"><span class="badge"></span><span>Peace of mind when away</span></label>
+              </div>
+            </section>
+
+            <!-- 3b - barriers (shown when q2 is 1 to 3) -->
+            <section class="step" data-step="q3b" hidden>
+              <p class="qtitle">What has stopped you doing more so far?</p>
+              <p class="qhint">Tick everything that is true.</p>
+              <div class="opts tight">
+                <label class="opt"><input type="checkbox" name="q3_barriers" value="too_expensive"><span>Too expensive</span></label>
+                <label class="opt"><input type="checkbox" name="q3_barriers" value="never_got_round"><span>Never got round to it</span></label>
+                <label class="opt"><input type="checkbox" name="q3_barriers" value="dont_know_works"><span>Not sure what actually works</span></label>
+                <label class="opt"><input type="checkbox" name="q3_barriers" value="wont_happen"><span>I doubt it will happen here</span></label>
+                <label class="opt"><input type="checkbox" name="q3_barriers" value="trust_fire"><span>I trust the fire service</span></label>
+                <label class="opt"><input type="checkbox" name="q3_barriers" value="hoa"><span>My HOA handles it</span></label>
+                <label class="opt"><input type="checkbox" name="q3_barriers" value="not_my_call"><span>I rent, not my decision</span></label>
+                <label class="opt"><input type="checkbox" name="q3_barriers" value="done_enough"><span>Already done what I can</span></label>
+              </div>
+            </section>
+
+            <!-- 4 - interest -->
+            <section class="step" data-step="q4" hidden>
+              <p class="qtitle">How interested are you in doing more to protect your home?</p>
+              <p class="qhint">Either way the assessment is free.</p>
+              <div class="likert" data-likert="q4_interest">
+                <label><input type="radio" name="q4_interest" value="1"><span>1</span></label>
+                <label><input type="radio" name="q4_interest" value="2"><span>2</span></label>
+                <label><input type="radio" name="q4_interest" value="3"><span>3</span></label>
+                <label><input type="radio" name="q4_interest" value="4"><span>4</span></label>
+                <label><input type="radio" name="q4_interest" value="5"><span>5</span></label>
+              </div>
+              <p class="ends"><span>Not interested</span><span>Maybe</span><span>Very interested</span></p>
+            </section>
+
+            <!-- 5 - budget -->
+            <section class="step" data-step="q5" hidden>
+              <p class="qtitle">What would you be willing to spend defending your home against wildfire?</p>
+              <p class="qhint">A rough number is fine. Zero is a real answer.</p>
+              <div class="money">
+                <span>$</span>
+                <input type="text" id="budget" name="q5_budget_usd" inputmode="numeric"
+                       autocomplete="off" placeholder="0">
+              </div>
+              <p class="ends"><span>One-off amount, not per year</span></p>
+            </section>
+
+            <!-- 6 - consent and send -->
+            <section class="step" data-step="consent" hidden>
+              <p class="qtitle">Last thing, then it is on its way</p>
+              <p class="qhint">We need your permission to look up and store the address you gave us.</p>
+              <label class="opt">
+                <input type="checkbox" id="consent" name="consent">
+                <span>I agree that my address, email and answers may be stored and processed to
+                      produce my assessment, and that Julius Kasiske may contact me about home
+                      hardening and wildfire defence.</span>
+              </label>
+              <button type="button" class="privacy-link" id="openPrivacy">How your data is handled</button>
+            </section>
+
           </div>
-        </fieldset>
-
-        <fieldset>
-          <legend><span class="qnum">2</span>Have you already done any of this work?</legend>
-          <p class="hint">Tick everything that is already done. Several of these earn an insurance discount you may not have claimed.</p>
-          <div class="opts">
-            <label class="opt"><input type="checkbox" name="q2" value="zone0_clear"><span>Cleared the first 5 feet around the walls</span></label>
-            <label class="opt"><input type="checkbox" name="q2" value="vents"><span>Ember-resistant vents fitted</span></label>
-            <label class="opt"><input type="checkbox" name="q2" value="roof"><span>Class A fire-rated roof</span></label>
-            <label class="opt"><input type="checkbox" name="q2" value="windows"><span>Dual-pane or tempered windows</span></label>
-            <label class="opt"><input type="checkbox" name="q2" value="deck"><span>Deck underside enclosed or cleared</span></label>
-            <label class="opt"><input type="checkbox" name="q2" value="gutters"><span>Gutter guards or metal gutters</span></label>
-            <label class="opt"><input type="checkbox" name="q2" value="none"><span>None of these yet</span></label>
-            <label class="opt"><input type="checkbox" name="q2" value="unknown"><span>Not sure</span></label>
-          </div>
-        </fieldset>
-
-        <fieldset>
-          <legend><span class="qnum">3</span>Right now, what is within 5 feet of your walls?</legend>
-          <p class="hint">The single most important five feet on the property, and the one thing no aerial image can tell us. Tick all that apply.</p>
-          <div class="opts">
-            <label class="opt"><input type="checkbox" name="q3" value="mulch"><span>Bark or wood mulch</span></label>
-            <label class="opt"><input type="checkbox" name="q3" value="plants"><span>Shrubs or planting beds</span></label>
-            <label class="opt"><input type="checkbox" name="q3" value="firewood"><span>Firewood or a lumber pile</span></label>
-            <label class="opt"><input type="checkbox" name="q3" value="furniture"><span>Outdoor furniture or cushions</span></label>
-            <label class="opt"><input type="checkbox" name="q3" value="fence"><span>A wooden fence or gate touching the house</span></label>
-            <label class="opt"><input type="checkbox" name="q3" value="clear"><span>Nothing, it's bare ground, gravel or paving</span></label>
-            <label class="opt"><input type="checkbox" name="q3" value="unknown"><span>Not sure</span></label>
-          </div>
-        </fieldset>
-
-        <fieldset>
-          <legend><span class="qnum">4</span>Your vents and windows</legend>
-          <p class="hint">Embers get in through vents far more often than flames get in through walls. Best guess is fine.</p>
-          <p class="sublabel">Your vents</p>
-          <div class="opts">
-            <label class="opt"><input type="radio" name="q4_vents" value="listed"><span>Ember-resistant vents<em>The listed WUI type, often metal with fine mesh</em></span></label>
-            <label class="opt"><input type="radio" name="q4_vents" value="plain"><span>Plain screens or open vents</span></label>
-            <label class="opt"><input type="radio" name="q4_vents" value="unknown"><span>Not sure</span></label>
-          </div>
-          <p class="sublabel">Your windows</p>
-          <div class="opts">
-            <label class="opt"><input type="radio" name="q4_windows" value="tempered"><span>Tempered glass</span></label>
-            <label class="opt"><input type="radio" name="q4_windows" value="dual"><span>Dual-pane</span></label>
-            <label class="opt"><input type="radio" name="q4_windows" value="single"><span>Single-pane</span></label>
-            <label class="opt"><input type="radio" name="q4_windows" value="unknown"><span>Not sure</span></label>
-          </div>
-        </fieldset>
-
-        <fieldset>
-          <legend><span class="qnum">5</span>If a system could defend your home while you were away, what would that be worth?</legend>
-          <p class="hint">Honest answers help most here, including "nothing". This is the question I most need answered.</p>
-          <div class="opts">
-            <label class="opt"><input type="radio" name="q5" value="not_interested"><span>Not interested at any price</span></label>
-            <label class="opt"><input type="radio" name="q5" value="under_5k"><span>Under $5,000</span></label>
-            <label class="opt"><input type="radio" name="q5" value="5_15k"><span>$5,000 to $15,000</span></label>
-            <label class="opt"><input type="radio" name="q5" value="15_40k"><span>$15,000 to $40,000</span></label>
-            <label class="opt"><input type="radio" name="q5" value="over_40k"><span>More than $40,000</span></label>
-            <label class="opt"><input type="radio" name="q5" value="depends"><span>Depends what it actually does</span></label>
-          </div>
-        </fieldset>
-
-        <div class="consent">
-          <label class="opt">
-            <input type="checkbox" id="consent" name="consent" required>
-            <span>I agree that my address, email and answers may be stored and processed to
-                  produce my assessment, and that Julius Kasiske may contact me about home
-                  hardening and wildfire defence.</span>
-          </label>
-          <button type="button" class="privacy-link" id="openPrivacy">How your data is handled</button>
         </div>
 
         <p class="err" id="err"></p>
 
-        <button type="submit" class="go" id="go">Get my report</button>
-        <p class="under-btn">Free. No account. Takes about a minute.</p>
+        <div class="stepnav">
+          <button type="button" class="btn-back" id="back" hidden>Back</button>
+          <button type="button" class="btn-next" id="next">Continue</button>
+        </div>
       </form>
     </div>
   </section>
@@ -519,80 +624,206 @@ document.getElementById('openPrivacy2').addEventListener('click',openDlg);
 document.getElementById('closePrivacy').addEventListener('click',()=>dlg.close());
 dlg.addEventListener('click',e=>{ if(e.target===dlg) dlg.close(); });
 
-/* ---------- "none of these" is exclusive ---------- */
-function wireExclusive(name, exclusiveValues){
-  const boxes=[...document.querySelectorAll(`input[name="${name}"]`)];
-  boxes.forEach(b=>b.addEventListener('change',()=>{
-    if(b.checked && exclusiveValues.includes(b.value)){
-      boxes.forEach(o=>{ if(o!==b) o.checked=false; });
-    } else if(b.checked){
-      boxes.forEach(o=>{ if(exclusiveValues.includes(o.value)) o.checked=false; });
-    }
-  }));
-}
-wireExclusive('q2',['none','unknown']);
-wireExclusive('q3',['clear','unknown']);
+/* ---------------------------------------------------------------------------
+   The stepper.
 
-/* ---------- submit ---------- */
-// Chrome restores radio state across reloads. For a research form that is a
-// data-integrity bug, not a convenience, so every control is cleared on load.
+   Six bullet points but five questions: question 3 is a fork. Answer 4 or 5 on
+   preparedness and you get asked what motivated the work; answer 1 to 3 and you
+   get asked what stopped you. Only one of the two is ever in the flow, so the
+   progress bar counts seven steps either way.
+--------------------------------------------------------------------------- */
+
+// Chrome restores control state across reloads. On a research form that is a
+// data-integrity bug rather than a convenience, so everything is cleared.
 window.addEventListener('pageshow',()=>{
   document.querySelectorAll('input[type=radio],input[type=checkbox]').forEach(i=>i.checked=false);
+  document.querySelectorAll('input[type=text],input[type=email]').forEach(i=>i.value='');
+  rank.length=0; paintRank();
 });
 
-const form=document.getElementById('f');
-const err=document.getElementById('err');
-const go=document.getElementById('go');
+const track    = document.getElementById('track');
+const viewport = document.getElementById('viewport');
+const prog     = document.getElementById('prog');
+const progNow  = document.getElementById('progNow');
+const progLeft = document.getElementById('progLeft');
+const backBtn  = document.getElementById('back');
+const nextBtn  = document.getElementById('next');
+const err      = document.getElementById('err');
 
-function fail(msg, focusEl){
-  err.textContent=msg; err.classList.add('on');
-  if(focusEl){ focusEl.focus(); focusEl.scrollIntoView({block:'center',behavior:'smooth'}); }
-  return false;
+const stepEls = {};
+document.querySelectorAll('.step').forEach(el=>{ stepEls[el.dataset.step]=el; });
+
+let at = 0;                 // index into flow()
+const rank = [];            // ordered list of motivation keys
+
+/* Which branch of question 3 applies. 4 or 5 means they consider themselves
+   prepared, so we ask what motivated it. Anything lower asks what blocked it. */
+function branch(){
+  const v = +val('q2_preparedness');
+  return v >= 4 ? 'q3a' : 'q3b';
 }
-function checkedValues(name){
-  return [...document.querySelectorAll(`input[name="${name}"]:checked`)].map(i=>i.value);
+function flow(){
+  return ['contact','q1','q2',branch(),'q4','q5','consent'];
+}
+function val(name){
+  const el = document.querySelector(`input[name="${name}"]:checked`);
+  return el ? el.value : null;
 }
 
-form.addEventListener('submit', async e=>{
-  e.preventDefault();
+/* ---------- ranking: tap in order ---------- */
+function paintRank(){
+  document.querySelectorAll('#rankBox .opt').forEach(el=>{
+    const i = rank.indexOf(el.dataset.v);
+    el.classList.toggle('picked', i > -1);
+    el.querySelector('.badge').textContent = i > -1 ? (i+1) : '';
+  });
+}
+document.querySelectorAll('#rankBox .opt').forEach(el=>{
+  el.addEventListener('click', e=>{
+    e.preventDefault();
+    const v = el.dataset.v;
+    const i = rank.indexOf(v);
+    if(i > -1) rank.splice(i,1); else rank.push(v);
+    paintRank();
+  });
+});
+
+/* ---------- movement ---------- */
+function sizeTo(el){
+  // The viewport owns the height so the card never jumps and the buttons stay put.
+  viewport.style.height = el.scrollHeight + 'px';
+}
+
+/* A step's height changes for reasons other than navigation: the web font
+   arriving after first paint, an error message wrapping onto two lines, rank
+   badges appearing. Measuring once on render is how the email field ended up
+   clipped, so the active step is observed instead. */
+const ro = new ResizeObserver(()=>{
+  const active = stepEls[flow()[at]];
+  if(active) viewport.style.height = active.scrollHeight + 'px';
+});
+document.querySelectorAll('.step').forEach(el=>ro.observe(el));
+
+function render(){
+  const f = flow();
+  at = Math.max(0, Math.min(at, f.length-1));
+  const id = f[at];
+
+  // Only the steps in the current flow exist in the row, so translating by
+  // index lines up without any arithmetic about the skipped branch.
+  Object.entries(stepEls).forEach(([k,el])=>{ el.hidden = !f.includes(k); });
+
+  track.style.transform = `translateX(${-at*100}%)`;
+  document.querySelectorAll('.step').forEach(el=>{
+    const active = el.dataset.step === id;
+    el.style.visibility = active ? 'visible' : 'hidden';
+    el.querySelectorAll('input,button').forEach(c=>{ c.tabIndex = active ? 0 : -1; });
+  });
+
+  prog.innerHTML = f.map((_,i)=>
+    `<i class="${i<at?'done':i===at?'now':''}"></i>`).join('');
+  progNow.textContent  = `Step ${at+1} of ${f.length}`;
+  progLeft.textContent = at===f.length-1 ? 'Ready to send' : `${f.length-1-at} to go`;
+
+  backBtn.hidden = at===0;
+  const last = at===f.length-1;
+  nextBtn.textContent = last ? 'Get my report' : 'Continue';
+  nextBtn.classList.toggle('final', last);
+
   err.classList.remove('on');
+  sizeTo(stepEls[id]);
+}
 
-  const address=document.getElementById('address').value.trim();
-  const email=document.getElementById('email').value.trim();
-  if(address.length<8) return fail('Please enter the full property address, including the city.', document.getElementById('address'));
-  if(!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) return fail('That email address does not look right.', document.getElementById('email'));
+function fail(msg){ err.textContent=msg; err.classList.add('on'); return false; }
 
-  const answers={
-    q1:(document.querySelector('input[name="q1"]:checked')||{}).value||null,
-    q2:checkedValues('q2'),
-    q3:checkedValues('q3'),
-    q4_vents:(document.querySelector('input[name="q4_vents"]:checked')||{}).value||null,
-    q4_windows:(document.querySelector('input[name="q4_windows"]:checked')||{}).value||null,
-    q5:(document.querySelector('input[name="q5"]:checked')||{}).value||null
-  };
-  for(const [k,label] of [['q1','question 1'],['q4_vents','the vents part of question 4'],
-                          ['q4_windows','the windows part of question 4'],['q5','question 5']]){
-    if(!answers[k]) return fail(`Please answer ${label}.`);
+function validate(id){
+  if(id==='contact'){
+    const a=document.getElementById('address').value.trim();
+    const e=document.getElementById('email').value.trim();
+    if(a.length<8)  return fail('Please enter the full address, including the city.');
+    if(!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(e)) return fail('That email address does not look right.');
+    return true;
   }
-  if(!answers.q2.length) return fail('Please answer question 2, or tick "None of these yet".');
-  if(!answers.q3.length) return fail('Please answer question 3.');
-  if(!document.getElementById('consent').checked)
+  if(id==='q1' && !val('q1_concern_change')) return fail('Pick a number from 1 to 5.');
+  if(id==='q2' && !val('q2_preparedness'))   return fail('Pick a number from 1 to 5.');
+  if(id==='q4' && !val('q4_interest'))       return fail('Pick a number from 1 to 5.');
+  if(id==='q3a' && rank.length===0) return fail('Tap at least one, in order of importance.');
+  if(id==='q3b' && !document.querySelectorAll('input[name="q3_barriers"]:checked').length)
+    return fail('Tick at least one.');
+  if(id==='q5'){
+    const raw=document.getElementById('budget').value.replace(/[^0-9]/g,'');
+    if(raw==='') return fail('Enter an amount. Zero is a valid answer.');
+    return true;
+  }
+  if(id==='consent' && !document.getElementById('consent').checked)
     return fail('Please tick the box so we are allowed to process your address.');
+  return true;
+}
 
-  go.disabled=true; go.textContent='Sending…';
+let moved=false;
+function go(dir){
+  const f=flow();
+  if(dir>0 && !validate(f[at])) return;
+  if(dir>0 && at===f.length-1){ submit(); return; }
+  at+=dir; render();
+  // After the first move, park the card at the top of the screen. Not on load,
+  // which would yank the page before the reader has chosen to start.
+  if(moved) document.querySelector('.stepper').scrollIntoView({block:'start',behavior:'smooth'});
+  moved=true;
+}
+backBtn.addEventListener('click',()=>go(-1));
+nextBtn.addEventListener('click',()=>go(1));
+
+/* Choosing on a 1-to-5 scale moves you on by itself. The pause is long enough
+   to see the answer land, short enough not to feel like waiting. */
+document.querySelectorAll('.likert input').forEach(i=>{
+  i.addEventListener('change',()=>{ setTimeout(()=>go(1),260); });
+});
+
+/* Enter advances from the text fields rather than submitting the form early. */
+document.getElementById('f').addEventListener('keydown',e=>{
+  if(e.key==='Enter'){ e.preventDefault(); go(1); }
+});
+
+/* Digits only, formatted with thousands separators as they type. */
+const budget=document.getElementById('budget');
+budget.addEventListener('input',()=>{
+  const digits=budget.value.replace(/[^0-9]/g,'').slice(0,9);
+  budget.value = digits ? Number(digits).toLocaleString('en-US') : '';
+});
+
+window.addEventListener('resize',()=>{ sizeTo(stepEls[flow()[at]]); });
+document.fonts.ready.then(()=>sizeTo(stepEls[flow()[at]]));
+
+/* ---------- send ---------- */
+async function submit(){
+  const answers={
+    q1_concern_change: +val('q1_concern_change'),
+    q2_preparedness:   +val('q2_preparedness'),
+    q4_interest:       +val('q4_interest'),
+    q5_budget_usd:     Number(document.getElementById('budget').value.replace(/[^0-9]/g,'')),
+    q3_branch:         branch()==='q3a' ? 'motivations' : 'barriers',
+    q3_motivations:    branch()==='q3a' ? rank.slice() : [],
+    q3_barriers:       branch()==='q3b'
+      ? [...document.querySelectorAll('input[name="q3_barriers"]:checked')].map(i=>i.value) : []
+  };
+
+  nextBtn.disabled=true; nextBtn.textContent='Sending…';
   const due=dueDate();
-
   try{
     const res=await fetch('/api/submit',{
       method:'POST',
       headers:{'Content-Type':'application/json'},
-      body:JSON.stringify({address,email,answers,consent:true,
-                           due:due.toISOString().slice(0,10),
-                           page_tz:Intl.DateTimeFormat().resolvedOptions().timeZone})
+      body:JSON.stringify({
+        address:document.getElementById('address').value.trim(),
+        email:document.getElementById('email').value.trim(),
+        answers, consent:true,
+        page_tz:Intl.DateTimeFormat().resolvedOptions().timeZone
+      })
     });
-    if(!res.ok) throw new Error('bad status '+res.status);
+    if(!res.ok) throw new Error('status '+res.status);
   }catch(ex){
-    go.disabled=false; go.textContent='Get my report';
+    nextBtn.disabled=false; nextBtn.textContent='Get my report';
     return fail('Something went wrong sending that. Please try again, or email '+CONTROLLER.email+'.');
   }
 
@@ -601,7 +832,9 @@ form.addEventListener('submit', async e=>{
   const done=document.getElementById('done');
   done.classList.add('on');
   done.scrollIntoView({block:'start',behavior:'smooth'});
-});
+}
+
+render();
 </script>
 </body>
 </html>

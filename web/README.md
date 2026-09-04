@@ -99,11 +99,49 @@ DELETE FROM submissions WHERE email = ?;
 `answers` is JSON, so you can query into it directly:
 
 ```sql
--- what people say a defence system is worth
-SELECT json_extract(answers,'$.q5') AS worth, COUNT(*) FROM submissions GROUP BY worth;
+-- the headline number: what people say they would spend
+SELECT json_extract(answers,'$.q5_budget_usd') AS usd, COUNT(*)
+FROM submissions GROUP BY usd ORDER BY usd;
+
+-- does feeling unprepared track with willingness to spend?
+SELECT json_extract(answers,'$.q2_preparedness') AS prepared,
+       ROUND(AVG(json_extract(answers,'$.q5_budget_usd'))) AS avg_usd,
+       COUNT(*) AS n
+FROM submissions GROUP BY prepared ORDER BY prepared;
+
+-- why the unprepared have not acted (one row per reason given)
+SELECT j.value AS barrier, COUNT(*) AS n
+FROM submissions, json_each(json_extract(answers,'$.q3_barriers')) j
+GROUP BY barrier ORDER BY n DESC;
+
+-- what motivates those who did act, weighted by where they ranked it
+SELECT j.value AS motive, COUNT(*) AS times_picked,
+       ROUND(AVG(j.key + 1),2) AS avg_rank
+FROM submissions, json_each(json_extract(answers,'$.q3_motivations')) j
+GROUP BY motive ORDER BY avg_rank;
 ```
 
----
+## The survey
+
+Six questions on paper, five in practice: question 3 forks on the answer to
+question 2, so nobody sees both halves.
+
+| Key | Question | Shape |
+|---|---|---|
+| `q1_concern_change` | How concern has changed over two years | 1 to 5 |
+| `q2_preparedness` | How ready the home is | 1 to 5 |
+| `q3_motivations` | What drove the work, **asked when q2 is 4 or 5** | ranked list |
+| `q3_barriers` | What stopped them, **asked when q2 is 1 to 3** | multi-select |
+| `q4_interest` | Interest in doing more | 1 to 5 |
+| `q5_budget_usd` | What they would spend | whole dollars |
+
+`q3_branch` records which fork was asked, so an empty `q3_barriers` means
+"not asked" rather than "asked and left blank". `q3_motivations` is order
+carrying: position 0 is what they picked first.
+
+To change the questions, edit the matching `<section class="step">` in
+`index.html` and the `ALLOWED` lists in `functions/api/submit.js`. The server
+only stores values that appear in those lists.
 
 ## Promises this code makes to the user
 

@@ -13,14 +13,16 @@
 
 const MAX_BODY = 8 * 1024;          // a legitimate submission is well under 2 KB
 
+const LIKERT = ['1','2','3','4','5'];
+
 const ALLOWED = {
-  q1:         ['insured_ok','insured_expensive','non_renewed','fair_plan','uninsured','unknown'],
-  q2:         ['zone0_clear','vents','roof','windows','deck','gutters','none','unknown'],
-  q3:         ['mulch','plants','firewood','furniture','fence','clear','unknown'],
-  q4_vents:   ['listed','plain','unknown'],
-  q4_windows: ['tempered','dual','single','unknown'],
-  q5:         ['not_interested','under_5k','5_15k','15_40k','over_40k','depends'],
+  q3_motivations: ['keep_coverage','lower_premium','family','attachment','rules','peace'],
+  q3_barriers:    ['too_expensive','never_got_round','dont_know_works','wont_happen',
+                   'trust_fire','hoa','not_my_call','done_enough'],
+  q3_branch:      ['motivations','barriers'],
 };
+
+const MAX_BUDGET = 100000000;   // $100M, a sanity ceiling not a real limit
 
 const json = (obj, status = 200) =>
   new Response(JSON.stringify(obj), {
@@ -30,13 +32,6 @@ const json = (obj, status = 200) =>
 
 const isEmail = (s) =>
   typeof s === 'string' && s.length <= 254 && /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(s);
-
-/** Keep only values we published as options, so a hand-rolled POST cannot
- *  write arbitrary strings into the research data. */
-const clean = (value, allowed) => {
-  const list = Array.isArray(value) ? value : [value];
-  return list.filter((v) => allowed.includes(v));
-};
 
 export async function onRequestPost({ request, env }) {
   if (!env.DB) return json({ error: 'storage not configured' }, 500);
@@ -62,14 +57,47 @@ export async function onRequestPost({ request, env }) {
 
   // ---- answers ----------------------------------------------------------
   const a = body.answers ?? {};
-  const answers = {
-    q1:         clean(a.q1, ALLOWED.q1)[0] ?? null,
-    q2:         clean(a.q2, ALLOWED.q2),
-    q3:         clean(a.q3, ALLOWED.q3),
-    q4_vents:   clean(a.q4_vents, ALLOWED.q4_vents)[0] ?? null,
-    q4_windows: clean(a.q4_windows, ALLOWED.q4_windows)[0] ?? null,
-    q5:         clean(a.q5, ALLOWED.q5)[0] ?? null,
+
+  // 1 to 5 scales. Stored as integers so they can be averaged without parsing.
+  const likert = (v) => (LIKERT.includes(String(v)) ? Number(v) : null);
+
+  // Ranking is order-carrying, so dedupe while preserving the order tapped.
+  const ranked = (v, allowed) => {
+    if (!Array.isArray(v)) return [];
+    const seen = new Set();
+    return v.filter((x) => allowed.includes(x) && !seen.has(x) && seen.add(x));
   };
+
+  // The page always sends a number here, so anything out of range is a
+  // hand-rolled POST. Rejecting keeps every stored row fully answered rather
+  // than leaving nulls that read as "declined to say".
+  const budget = Number(a.q5_budget_usd);
+  const budgetOk = Number.isFinite(budget) && budget >= 0 && budget <= MAX_BUDGET;
+
+  const branch = ALLOWED.q3_branch.includes(a.q3_branch) ? a.q3_branch : null;
+
+  const answers = {
+    q1_concern_change: likert(a.q1_concern_change),
+    q2_preparedness:   likert(a.q2_preparedness),
+    q4_interest:       likert(a.q4_interest),
+    q5_budget_usd:     budgetOk ? Math.round(budget) : null,
+    q3_branch:         branch,
+    // Only the branch that was actually asked is stored, so an empty array
+    // means "not asked" rather than "asked and left blank".
+    q3_motivations: branch === 'motivations' ? ranked(a.q3_motivations, ALLOWED.q3_motivations) : [],
+    q3_barriers:    branch === 'barriers'
+      ? ranked(a.q3_barriers, ALLOWED.q3_barriers) : [],
+  };
+
+  // The three scales and the branch are the spine of the research set. A row
+  // missing any of them is not worth storing.
+  if (answers.q1_concern_change === null ||
+      answers.q2_preparedness === null ||
+      answers.q4_interest === null ||
+      answers.q3_branch === null ||
+      !budgetOk) {
+    return json({ error: 'incomplete answers' }, 400);
+  }
 
   // ---- the promise made on the success screen ---------------------------
   // Computed here, not taken from the client, so the date in the database is
