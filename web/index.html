@@ -1,0 +1,607 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Prep My Property, free wildfire assessment for your California home</title>
+<meta name="description" content="Enter your address and get a free, address-specific wildfire assessment for your California home. No account, no salesperson.">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="Is your home ready for fire season?">
+<meta property="og:description" content="A free wildfire assessment for your specific California home, in exchange for your honest take on 5 questions.">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Albert+Sans:wght@400;500;600;700;800&display=swap">
+
+<style>
+/* ---------------------------------------------------------------------------
+   prepmyproperty.tech, one page.
+
+   Mobile is the primary case, not the fallback: the flyer's QR code opens this
+   on a phone held in one hand, usually outdoors. So the form is a single
+   column of tap targets, every question answers with a thumb, and nothing but
+   the address and email needs the keyboard.
+
+   Palette and type are the flyer's, so the page looks like the thing they were
+   holding thirty seconds ago.
+--------------------------------------------------------------------------- */
+:root{
+  --paper:      #F4F3F0;
+  --paper-deep: #EAE7E1;
+  --card:       #FFFFFF;
+  --ink:        #16130F;
+  --ink-soft:   #554E48;
+  --ink-faint:  #8B837A;
+  --ember:      #C1380F;
+  --ember-dark: #9E2D0C;
+  --terrain:    #8C9382;
+  --rule:       #DCD8D1;
+  --ok:         #2F6B3D;
+  --focus:      #1B5FBF;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0;background:var(--paper);color:var(--ink);
+  font-family:"Albert Sans","Helvetica Neue",Arial,sans-serif;
+  font-size:17px;line-height:1.5;-webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:660px;margin:0 auto;padding:0 20px}
+a{color:var(--ember);text-decoration-thickness:1px;text-underline-offset:2px}
+
+/* ---------- hero ---------- */
+.hero{position:relative;overflow:hidden;background:var(--paper-deep);
+      border-bottom:2.5px solid var(--ink);padding:38px 0 30px}
+#contours{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
+.hero .wrap{position:relative}
+h1{font-size:clamp(34px,8.2vw,50px);line-height:1.0;font-weight:800;
+   letter-spacing:-.035em;margin:0 0 14px;text-wrap:balance}
+h1 .free{color:var(--ember);display:block}
+.lede{font-size:clamp(16px,4vw,18.5px);color:var(--ink-soft);margin:0;max-width:34em}
+.lede strong{color:var(--ink);font-weight:600}
+
+/* ---------- what you get ---------- */
+section{padding:34px 0}
+h2{font-size:23px;font-weight:700;letter-spacing:-.02em;margin:0 0 18px;line-height:1.2}
+.pillars{display:grid;gap:16px;margin:0;padding:0;list-style:none}
+.pillars li{padding-left:15px;border-left:3px solid var(--ember)}
+.pillars b{display:block;font-size:17.5px;font-weight:700;letter-spacing:-.012em;margin-bottom:2px}
+.pillars span{color:var(--ink-soft);font-size:15.5px;line-height:1.45}
+
+.trade{background:var(--paper-deep);border-radius:12px;padding:20px 22px;margin-top:26px}
+.trade p{margin:0;font-size:16px;color:var(--ink-soft)}
+.trade p strong{color:var(--ink);font-weight:600}
+
+/* ---------- form ---------- */
+.formwrap{background:var(--card);border:1px solid var(--rule);border-radius:16px;
+          padding:26px 22px 28px;box-shadow:0 1px 2px rgba(22,19,15,.05),0 10px 30px rgba(22,19,15,.06)}
+fieldset{border:0;margin:0 0 26px;padding:0}
+legend{padding:0;font-size:17.5px;font-weight:700;letter-spacing:-.012em;margin-bottom:4px}
+.qnum{color:var(--ember);font-weight:800;margin-right:7px}
+.hint{color:var(--ink-faint);font-size:14.5px;margin:0 0 12px;line-height:1.4}
+
+label.field{display:block;font-size:16px;font-weight:600;margin:0 0 6px}
+input[type=text],input[type=email]{
+  width:100%;font:inherit;font-size:17px;padding:13px 14px;
+  border:1.5px solid var(--rule);border-radius:10px;background:var(--paper);
+  color:var(--ink);
+}
+input[type=text]:focus,input[type=email]:focus{
+  outline:3px solid color-mix(in srgb,var(--focus) 32%,transparent);
+  border-color:var(--focus);background:#fff;
+}
+.field-group{margin-bottom:22px}
+
+/* tap-to-answer options */
+.opts{display:grid;gap:9px}
+.opt{display:flex;align-items:flex-start;gap:11px;padding:13px 14px;
+     border:1.5px solid var(--rule);border-radius:10px;background:var(--paper);
+     cursor:pointer;font-size:16px;line-height:1.35;transition:border-color .12s,background .12s}
+.opt:hover{border-color:var(--ink-faint)}
+.opt input{margin:2px 0 0;width:20px;height:20px;flex:0 0 auto;accent-color:var(--ember)}
+.opt:has(input:checked){border-color:var(--ember);background:#FCF3EF}
+.opt:has(input:focus-visible){outline:3px solid color-mix(in srgb,var(--focus) 32%,transparent)}
+.opt em{font-style:normal;color:var(--ink-faint);display:block;font-size:14px;margin-top:1px}
+.sublabel{font-size:15px;font-weight:700;color:var(--ink);margin:18px 0 8px;letter-spacing:-.01em}
+.sublabel:first-of-type{margin-top:2px}
+
+/* consent */
+.consent{border-top:1px solid var(--rule);padding-top:22px;margin-top:4px}
+.consent .opt{align-items:flex-start;background:var(--paper)}
+.privacy-link{background:none;border:0;padding:0;margin-top:7px;
+  font:inherit;font-size:13px;color:var(--ink-faint);text-decoration:underline;
+  cursor:pointer;display:inline-block}
+.privacy-link:hover{color:var(--ink)}
+
+button.go{
+  width:100%;margin-top:22px;padding:19px 20px;border:0;border-radius:12px;
+  background:var(--ember);color:#fff;font:inherit;font-size:20px;font-weight:800;
+  letter-spacing:-.015em;cursor:pointer;transition:background .12s;
+}
+button.go:hover{background:var(--ember-dark)}
+button.go:disabled{background:var(--ink-faint);cursor:not-allowed}
+button.go:focus-visible{outline:3px solid color-mix(in srgb,var(--focus) 45%,transparent);outline-offset:2px}
+.under-btn{text-align:center;color:var(--ink-faint);font-size:14px;margin:11px 0 0}
+
+.err{color:var(--ember-dark);font-size:14.5px;font-weight:600;margin:9px 0 0;display:none}
+.err.on{display:block}
+.field-bad input{border-color:var(--ember)}
+
+/* ---------- success ---------- */
+#done{display:none}
+#done.on{display:block}
+.done-card{background:var(--card);border:1px solid var(--rule);border-radius:16px;
+           padding:34px 24px;text-align:center;
+           box-shadow:0 1px 2px rgba(22,19,15,.05),0 10px 30px rgba(22,19,15,.06)}
+.tick{width:56px;height:56px;border-radius:50%;background:var(--ok);color:#fff;
+      display:flex;align-items:center;justify-content:center;margin:0 auto 18px;font-size:30px}
+.done-card h2{margin:0 0 10px}
+.done-card p{color:var(--ink-soft);margin:0 auto 14px;max-width:34em;font-size:16px}
+.done-card p:last-child{margin-bottom:0}
+.duewrap{margin:24px 0;padding:20px 16px;background:var(--paper);border-radius:12px}
+.duelabel{font-size:14px;font-weight:600;color:var(--ink-faint);margin:0 0 4px}
+p.due{font-size:clamp(21px,5.6vw,26px);font-weight:800;letter-spacing:-.025em;text-wrap:balance;
+      margin:0;color:var(--ember);line-height:1.15}
+
+/* ---------- footer ---------- */
+footer{border-top:1px solid var(--rule);padding:26px 0 40px;color:var(--ink-faint);font-size:13.5px}
+footer p{margin:0 0 9px;line-height:1.5}
+footer a{color:var(--ink-faint)}
+
+/* ---------- privacy dialog ---------- */
+dialog{border:0;border-radius:14px;padding:0;max-width:720px;width:calc(100% - 32px);
+       max-height:86vh;background:var(--card);color:var(--ink)}
+dialog::backdrop{background:rgba(22,19,15,.55)}
+.dlg-head{position:sticky;top:0;background:var(--card);border-bottom:1px solid var(--rule);
+          padding:18px 22px;display:flex;justify-content:space-between;align-items:center;gap:12px}
+.dlg-head h3{margin:0;font-size:19px;font-weight:800;letter-spacing:-.015em}
+.dlg-close{border:0;background:var(--paper-deep);border-radius:8px;width:34px;height:34px;
+           font-size:19px;cursor:pointer;color:var(--ink);flex:0 0 auto}
+.dlg-body{padding:20px 22px 26px;overflow-y:auto;font-size:14.5px;line-height:1.55;color:var(--ink-soft)}
+.dlg-body h4{color:var(--ink);font-size:15.5px;font-weight:700;margin:20px 0 6px}
+.dlg-body h4:first-child{margin-top:0}
+.dlg-body p,.dlg-body li{margin:0 0 9px}
+.dlg-body ul{margin:0 0 9px;padding-left:20px}
+.dlg-body address{font-style:normal;background:var(--paper);border-radius:8px;padding:12px 14px;color:var(--ink)}
+
+@media (min-width:620px){
+  .pillars{grid-template-columns:1fr 1fr;gap:18px 24px}
+  .formwrap{padding:32px 30px 34px}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <svg id="contours" aria-hidden="true"></svg>
+  <div class="wrap">
+    <h1>Is your home ready for fire season?<span class="free">Find out for free.</span></h1>
+    <p class="lede"><strong>Enter your address.</strong> You get an assessment built for your
+       specific home, not a generic checklist. It is free, and no salesperson will call.</p>
+  </div>
+</header>
+
+<main>
+  <section class="wrap">
+    <h2>What the assessment tells you</h2>
+    <ul class="pillars">
+      <li><b>Will my home survive?</b><span>Where you are exposed, which side takes the wind, and what to fix first, starting with what costs nothing.</span></li>
+      <li><b>Am I leaving money on the table?</b><span>Which insurance discounts your home already qualifies for, and which are worth doing the work for.</span></li>
+      <li><b>Can I get proper coverage again?</b><span>What insurers look at, and what moves the needle if you have been non-renewed or pushed onto the FAIR Plan.</span></li>
+      <li><b>Do the new rules apply to me?</b><span>What California now requires for your property, and by when.</span></li>
+    </ul>
+
+    <div class="trade">
+      <p>Hi, I'm Julius. I'm researching how Californians are actually handling wildfire risk.
+         I can't answer that from data alone, so I built a free assessment for your specific home
+         and <strong>trade it for your honest take on 5 questions.</strong></p>
+    </div>
+  </section>
+
+  <section class="wrap" id="form-section">
+    <h2>Get your free assessment</h2>
+
+    <div class="formwrap">
+      <form id="f" novalidate autocomplete="off">
+
+        <div class="field-group" id="fg-address">
+          <label class="field" for="address">Your property address</label>
+          <p class="hint">Street, city and ZIP. This is the property we assess.</p>
+          <input type="text" id="address" name="address" autocomplete="street-address"
+                 placeholder="815 El Medio Ave, Pacific Palisades, CA 90272" required>
+        </div>
+
+        <div class="field-group" id="fg-email">
+          <label class="field" for="email">Your email</label>
+          <p class="hint">Where we send the assessment. Nothing else goes to this address.</p>
+          <input type="email" id="email" name="email" autocomplete="email"
+                 placeholder="you@example.com" required>
+        </div>
+
+        <fieldset>
+          <legend><span class="qnum">1</span>What is your insurance situation right now?</legend>
+          <p class="hint">This tells us which discounts and requirements actually apply to you.</p>
+          <div class="opts">
+            <label class="opt"><input type="radio" name="q1" value="insured_ok"><span>Insured, and the premium is manageable</span></label>
+            <label class="opt"><input type="radio" name="q1" value="insured_expensive"><span>Insured, but the premium jumped a lot</span></label>
+            <label class="opt"><input type="radio" name="q1" value="non_renewed"><span>I was non-renewed or dropped</span></label>
+            <label class="opt"><input type="radio" name="q1" value="fair_plan"><span>I'm on the California FAIR Plan</span></label>
+            <label class="opt"><input type="radio" name="q1" value="uninsured"><span>Currently uninsured</span></label>
+            <label class="opt"><input type="radio" name="q1" value="unknown"><span>Not sure</span></label>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend><span class="qnum">2</span>Have you already done any of this work?</legend>
+          <p class="hint">Tick everything that is already done. Several of these earn an insurance discount you may not have claimed.</p>
+          <div class="opts">
+            <label class="opt"><input type="checkbox" name="q2" value="zone0_clear"><span>Cleared the first 5 feet around the walls</span></label>
+            <label class="opt"><input type="checkbox" name="q2" value="vents"><span>Ember-resistant vents fitted</span></label>
+            <label class="opt"><input type="checkbox" name="q2" value="roof"><span>Class A fire-rated roof</span></label>
+            <label class="opt"><input type="checkbox" name="q2" value="windows"><span>Dual-pane or tempered windows</span></label>
+            <label class="opt"><input type="checkbox" name="q2" value="deck"><span>Deck underside enclosed or cleared</span></label>
+            <label class="opt"><input type="checkbox" name="q2" value="gutters"><span>Gutter guards or metal gutters</span></label>
+            <label class="opt"><input type="checkbox" name="q2" value="none"><span>None of these yet</span></label>
+            <label class="opt"><input type="checkbox" name="q2" value="unknown"><span>Not sure</span></label>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend><span class="qnum">3</span>Right now, what is within 5 feet of your walls?</legend>
+          <p class="hint">The single most important five feet on the property, and the one thing no aerial image can tell us. Tick all that apply.</p>
+          <div class="opts">
+            <label class="opt"><input type="checkbox" name="q3" value="mulch"><span>Bark or wood mulch</span></label>
+            <label class="opt"><input type="checkbox" name="q3" value="plants"><span>Shrubs or planting beds</span></label>
+            <label class="opt"><input type="checkbox" name="q3" value="firewood"><span>Firewood or a lumber pile</span></label>
+            <label class="opt"><input type="checkbox" name="q3" value="furniture"><span>Outdoor furniture or cushions</span></label>
+            <label class="opt"><input type="checkbox" name="q3" value="fence"><span>A wooden fence or gate touching the house</span></label>
+            <label class="opt"><input type="checkbox" name="q3" value="clear"><span>Nothing, it's bare ground, gravel or paving</span></label>
+            <label class="opt"><input type="checkbox" name="q3" value="unknown"><span>Not sure</span></label>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend><span class="qnum">4</span>Your vents and windows</legend>
+          <p class="hint">Embers get in through vents far more often than flames get in through walls. Best guess is fine.</p>
+          <p class="sublabel">Your vents</p>
+          <div class="opts">
+            <label class="opt"><input type="radio" name="q4_vents" value="listed"><span>Ember-resistant vents<em>The listed WUI type, often metal with fine mesh</em></span></label>
+            <label class="opt"><input type="radio" name="q4_vents" value="plain"><span>Plain screens or open vents</span></label>
+            <label class="opt"><input type="radio" name="q4_vents" value="unknown"><span>Not sure</span></label>
+          </div>
+          <p class="sublabel">Your windows</p>
+          <div class="opts">
+            <label class="opt"><input type="radio" name="q4_windows" value="tempered"><span>Tempered glass</span></label>
+            <label class="opt"><input type="radio" name="q4_windows" value="dual"><span>Dual-pane</span></label>
+            <label class="opt"><input type="radio" name="q4_windows" value="single"><span>Single-pane</span></label>
+            <label class="opt"><input type="radio" name="q4_windows" value="unknown"><span>Not sure</span></label>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend><span class="qnum">5</span>If a system could defend your home while you were away, what would that be worth?</legend>
+          <p class="hint">Honest answers help most here, including "nothing". This is the question I most need answered.</p>
+          <div class="opts">
+            <label class="opt"><input type="radio" name="q5" value="not_interested"><span>Not interested at any price</span></label>
+            <label class="opt"><input type="radio" name="q5" value="under_5k"><span>Under $5,000</span></label>
+            <label class="opt"><input type="radio" name="q5" value="5_15k"><span>$5,000 to $15,000</span></label>
+            <label class="opt"><input type="radio" name="q5" value="15_40k"><span>$15,000 to $40,000</span></label>
+            <label class="opt"><input type="radio" name="q5" value="over_40k"><span>More than $40,000</span></label>
+            <label class="opt"><input type="radio" name="q5" value="depends"><span>Depends what it actually does</span></label>
+          </div>
+        </fieldset>
+
+        <div class="consent">
+          <label class="opt">
+            <input type="checkbox" id="consent" name="consent" required>
+            <span>I agree that my address, email and answers may be stored and processed to
+                  produce my assessment, and that Julius Kasiske may contact me about home
+                  hardening and wildfire defence.</span>
+          </label>
+          <button type="button" class="privacy-link" id="openPrivacy">How your data is handled</button>
+        </div>
+
+        <p class="err" id="err"></p>
+
+        <button type="submit" class="go" id="go">Get my report</button>
+        <p class="under-btn">Free. No account. Takes about a minute.</p>
+      </form>
+    </div>
+  </section>
+
+  <section class="wrap" id="done">
+    <div class="done-card">
+      <div class="tick" aria-hidden="true">&#10003;</div>
+      <h2>You're on the list</h2>
+      <p>We're pulling the public records for your address now, and building the assessment by hand.</p>
+      <div class="duewrap">
+        <p class="duelabel">Your assessment arrives</p>
+        <p class="due" id="dueDate"></p>
+      </div>
+      <p>It arrives by email from <strong>juliuskasiske@gmail.com</strong>. Worth adding that to
+         your contacts so it doesn't land in spam. Nothing else is sent to you unless you ask.</p>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>An educational assessment built from public records. Not a site inspection, not insurance
+       advice, and it cannot guarantee coverage or a discount.</p>
+    <p>prepmyproperty.tech &nbsp;&ndash;&nbsp; 
+       <button class="privacy-link" id="openPrivacy2" style="font-size:13.5px">Privacy</button></p>
+  </div>
+</footer>
+
+<dialog id="privacyDlg" aria-labelledby="pTitle">
+  <div class="dlg-head">
+    <h3 id="pTitle">How your data is handled</h3>
+    <button class="dlg-close" id="closePrivacy" aria-label="Close">&times;</button>
+  </div>
+  <div class="dlg-body" id="privacyBody"></div>
+</dialog>
+
+<script>
+/* ---------------------------------------------------------------------------
+   CONTROLLER
+   The one thing on this page that is not allowed to be a guess. Both the
+   California CPRA and the EU GDPR require the identity and a postal address of
+   whoever is collecting the data to be shown before consent is taken.
+   Fill this in before the site goes live.
+--------------------------------------------------------------------------- */
+const CONTROLLER = {
+  name:    "Julius Kasiske",
+  street:  null,          // <- REQUIRED before launch
+  city:    null,          // <- REQUIRED before launch
+  country: null,          // <- REQUIRED before launch
+  email:   "juliuskasiske@gmail.com"
+};
+
+/* Terracotta contour field, same generator as the flyer, so the page looks like
+   the thing they were holding. Opaque stroke on a gradient rather than a thin
+   translucent line, so it never shimmers on a phone's variable zoom. */
+(function(){
+  const svg=document.getElementById('contours');
+  const W=760,H=300;
+  svg.setAttribute('viewBox',`0 0 ${W} ${H}`);
+  svg.setAttribute('preserveAspectRatio','none');
+  const LINES=22;
+  const wave=(x,k)=>Math.sin(x/132+k*.44)*28+Math.sin(x/58+k*1.08)*12+Math.sin(x/29+k*1.95)*5;
+  let out='';
+  for(let i=0;i<LINES;i++){
+    const base=-20+i*15, amp=.55+.8*(1-i/LINES);
+    let d='';
+    for(let x=-20;x<=W+20;x+=9){
+      d+=(x===-20?'M':'L')+x.toFixed(1)+' '+(base+wave(x,i)*amp).toFixed(1);
+    }
+    out+=`<path d="${d}" fill="none" stroke="url(#fade)" stroke-width="2" stroke-linecap="round"/>`;
+  }
+  svg.innerHTML=`<defs><linearGradient id="fade" gradientUnits="userSpaceOnUse"
+      x1="0" y1="0" x2="${W}" y2="150">
+      <stop offset="0.10" stop-color="#EAE7E1"/>
+      <stop offset="0.45" stop-color="#D6D6CD"/>
+      <stop offset="0.80" stop-color="#BFC2B6"/>
+    </linearGradient></defs>`+out;
+})();
+
+/* ---------- the assessment promise: today + 5 days ---------- */
+function dueDate(){
+  const d=new Date(); d.setDate(d.getDate()+5);
+  return d;
+}
+function prettyDate(d){
+  // Non-breaking space before the day number so the date never wraps as
+  // "September" / "9" on a narrow phone.
+  return d.toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric'})
+          .replace(/ (\d+)$/,'\u00A0$1');
+}
+
+/* ---------- privacy notice ---------- */
+function addressBlock(){
+  const c=CONTROLLER;
+  if(!c.street||!c.city||!c.country){
+    return `<address><strong>${c.name}</strong><br>
+      <span style="color:#C1380F;font-weight:600">Postal address not yet set. This notice is
+      incomplete and the site must not be published until it is filled in.</span><br>
+      ${c.email}</address>`;
+  }
+  return `<address><strong>${c.name}</strong><br>${c.street}<br>${c.city}<br>${c.country}<br>${c.email}</address>`;
+}
+
+function privacyHTML(){
+  return `
+<p>This notice explains what happens to the information you enter on this page. It is written
+   to satisfy both the EU General Data Protection Regulation (GDPR) and the California Consumer
+   Privacy Act as amended by the CPRA, because the person running this site is in Europe and the
+   people using it are in California.</p>
+
+<h4>Who is responsible</h4>
+<p>The controller of your data, and the person you contact about any of it, is:</p>
+${addressBlock()}
+
+<h4>What is collected</h4>
+<ul>
+  <li>The property address you enter.</li>
+  <li>Your email address.</li>
+  <li>Your answers to the five questions.</li>
+  <li>The date and time you submitted, and a coarse technical record of the request
+      (country and browser type) kept by our hosting provider for security.</li>
+</ul>
+<p>Nothing else. There is no account, no password, no advertising tracker, no analytics
+   cookie and no third-party marketing pixel on this page.</p>
+
+<h4>Why it is collected, and the legal basis</h4>
+<ul>
+  <li><strong>To produce and send your assessment.</strong> Legal basis: performance of a
+      service you asked for (GDPR Art. 6(1)(b)).</li>
+  <li><strong>To contact you later about home hardening and wildfire defence,</strong>
+      including products or services that may be offered. Legal basis: your consent
+      (GDPR Art. 6(1)(a)), given by ticking the box. You may withdraw it at any time.</li>
+  <li><strong>To understand, in aggregate, how Californians are handling wildfire risk.</strong>
+      Legal basis: legitimate interest in research (GDPR Art. 6(1)(f)). Anything published from
+      this is aggregated and never identifies you or your address.</li>
+</ul>
+
+<h4>Withdrawing consent</h4>
+<p>Email <a href="mailto:${CONTROLLER.email}">${CONTROLLER.email}</a> and say so. You will be
+   removed from any contact list. Withdrawing consent does not affect processing that already
+   happened, and does not stop the assessment you already asked for.</p>
+
+<h4>Who else sees it</h4>
+<ul>
+  <li><strong>Cloudflare, Inc.</strong> hosts this page and stores the submissions. They act as
+      a processor on documented instructions and do not use your data for their own purposes.</li>
+  <li>Email is sent using Google (Gmail), which processes the message in order to deliver it.</li>
+</ul>
+<p>Your data is <strong>not sold</strong> and <strong>not shared</strong> for cross-context
+   behavioural advertising, as those terms are defined by the CPRA. There is no other recipient.</p>
+
+<h4>Where it goes</h4>
+<p>Data is stored on infrastructure in the United States and may be accessed from Germany.
+   Transfers out of the EEA rely on the European Commission's Standard Contractual Clauses,
+   which our hosting provider incorporates by default.</p>
+
+<h4>How long it is kept</h4>
+<ul>
+  <li>Your address, answers and email are kept for <strong>24 months</strong> from submission,
+      then deleted, unless you are still in active contact about a service.</li>
+  <li>If you withdraw consent or ask for deletion, everything is deleted within 30 days,
+      except where a record must be kept to prove that you asked.</li>
+  <li>Aggregated, de-identified research figures that cannot be traced back to you may be
+      kept indefinitely.</li>
+</ul>
+
+<h4>Your rights if the GDPR applies to you</h4>
+<p>You can ask to see your data, correct it, delete it, restrict or object to how it is used,
+   receive a portable copy, and withdraw consent. You also have the right to complain to a
+   supervisory authority. In Germany, that is the data protection authority of the federal state
+   in which the controller is established.</p>
+
+<h4>Your rights if you are a California resident</h4>
+<p>Under the CCPA as amended by the CPRA, you have the right to:</p>
+<ul>
+  <li>know what personal information is collected, used and disclosed;</li>
+  <li>delete personal information we hold about you;</li>
+  <li>correct inaccurate personal information;</li>
+  <li>opt out of sale or sharing. We do not sell or share, so there is nothing to opt out of,
+      but the right stands;</li>
+  <li>limit the use of sensitive personal information. We do not collect any category that the
+      CPRA defines as sensitive;</li>
+  <li>not be discriminated against for exercising any of these rights. The assessment is free
+      and stays free either way.</li>
+</ul>
+<p>To exercise any of these, email <a href="mailto:${CONTROLLER.email}">${CONTROLLER.email}</a>.
+   You will get a response within 45 days. You may use an authorised agent.</p>
+
+<h4>Automated decisions</h4>
+<p>The assessment is generated from public records and your answers, and is reviewed by a person
+   before it is sent. No decision with a legal or similarly significant effect on you is made
+   automatically.</p>
+
+<h4>Children</h4>
+<p>This service is not directed at anyone under 16, and information from under-16s is not
+   knowingly collected. We do not sell or share the personal information of minors.</p>
+
+<h4>Changes</h4>
+<p>If this notice changes materially, the version you consented to still governs the data
+   already collected. The current version is always the one on this page.</p>
+
+<p style="margin-top:18px;color:#8B837A;font-size:13.5px">Last updated when this page was
+   published. Questions: <a href="mailto:${CONTROLLER.email}">${CONTROLLER.email}</a>.</p>`;
+}
+
+const dlg=document.getElementById('privacyDlg');
+document.getElementById('privacyBody').innerHTML=privacyHTML();
+function openDlg(){ dlg.showModal(); }
+document.getElementById('openPrivacy').addEventListener('click',openDlg);
+document.getElementById('openPrivacy2').addEventListener('click',openDlg);
+document.getElementById('closePrivacy').addEventListener('click',()=>dlg.close());
+dlg.addEventListener('click',e=>{ if(e.target===dlg) dlg.close(); });
+
+/* ---------- "none of these" is exclusive ---------- */
+function wireExclusive(name, exclusiveValues){
+  const boxes=[...document.querySelectorAll(`input[name="${name}"]`)];
+  boxes.forEach(b=>b.addEventListener('change',()=>{
+    if(b.checked && exclusiveValues.includes(b.value)){
+      boxes.forEach(o=>{ if(o!==b) o.checked=false; });
+    } else if(b.checked){
+      boxes.forEach(o=>{ if(exclusiveValues.includes(o.value)) o.checked=false; });
+    }
+  }));
+}
+wireExclusive('q2',['none','unknown']);
+wireExclusive('q3',['clear','unknown']);
+
+/* ---------- submit ---------- */
+// Chrome restores radio state across reloads. For a research form that is a
+// data-integrity bug, not a convenience, so every control is cleared on load.
+window.addEventListener('pageshow',()=>{
+  document.querySelectorAll('input[type=radio],input[type=checkbox]').forEach(i=>i.checked=false);
+});
+
+const form=document.getElementById('f');
+const err=document.getElementById('err');
+const go=document.getElementById('go');
+
+function fail(msg, focusEl){
+  err.textContent=msg; err.classList.add('on');
+  if(focusEl){ focusEl.focus(); focusEl.scrollIntoView({block:'center',behavior:'smooth'}); }
+  return false;
+}
+function checkedValues(name){
+  return [...document.querySelectorAll(`input[name="${name}"]:checked`)].map(i=>i.value);
+}
+
+form.addEventListener('submit', async e=>{
+  e.preventDefault();
+  err.classList.remove('on');
+
+  const address=document.getElementById('address').value.trim();
+  const email=document.getElementById('email').value.trim();
+  if(address.length<8) return fail('Please enter the full property address, including the city.', document.getElementById('address'));
+  if(!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) return fail('That email address does not look right.', document.getElementById('email'));
+
+  const answers={
+    q1:(document.querySelector('input[name="q1"]:checked')||{}).value||null,
+    q2:checkedValues('q2'),
+    q3:checkedValues('q3'),
+    q4_vents:(document.querySelector('input[name="q4_vents"]:checked')||{}).value||null,
+    q4_windows:(document.querySelector('input[name="q4_windows"]:checked')||{}).value||null,
+    q5:(document.querySelector('input[name="q5"]:checked')||{}).value||null
+  };
+  for(const [k,label] of [['q1','question 1'],['q4_vents','the vents part of question 4'],
+                          ['q4_windows','the windows part of question 4'],['q5','question 5']]){
+    if(!answers[k]) return fail(`Please answer ${label}.`);
+  }
+  if(!answers.q2.length) return fail('Please answer question 2, or tick "None of these yet".');
+  if(!answers.q3.length) return fail('Please answer question 3.');
+  if(!document.getElementById('consent').checked)
+    return fail('Please tick the box so we are allowed to process your address.');
+
+  go.disabled=true; go.textContent='Sending…';
+  const due=dueDate();
+
+  try{
+    const res=await fetch('/api/submit',{
+      method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({address,email,answers,consent:true,
+                           due:due.toISOString().slice(0,10),
+                           page_tz:Intl.DateTimeFormat().resolvedOptions().timeZone})
+    });
+    if(!res.ok) throw new Error('bad status '+res.status);
+  }catch(ex){
+    go.disabled=false; go.textContent='Get my report';
+    return fail('Something went wrong sending that. Please try again, or email '+CONTROLLER.email+'.');
+  }
+
+  document.getElementById('dueDate').textContent='By '+prettyDate(due);
+  document.getElementById('form-section').style.display='none';
+  const done=document.getElementById('done');
+  done.classList.add('on');
+  done.scrollIntoView({block:'start',behavior:'smooth'});
+});
+</script>
+</body>
+</html>
