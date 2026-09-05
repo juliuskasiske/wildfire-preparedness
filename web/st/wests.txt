@@ -1,0 +1,42 @@
+Westshire Drive	Los Angeles	90068
+Westshore	Thousand Oaks	91361
+Westshore Ct	Cupertino	95014
+Westshore Dr	Soda Springs	95728
+Westshore Ln	Thousand Oaks	91361
+Westshore Rd	Bodega Bay	94923
+Westshore Street	Davis	95616
+Westshore Way	Buena Park	90621
+Westside Ave	Forestville	95436
+Westside Ave	Redwood City	94063
+Westside Ave	Sunnyvale	94087
+Westside Avenue	Los Angeles	90008
+Westside Avenue	Los Angeles	90018
+Westside Blvd	Hollister	95023
+Westside Boulevard	Atwater	95301
+Westside Boulevard	Livingston	95334
+Westside Boulevard	Stevinson	95374
+Westside Court	Yreka	96097
+Westside Ct	San Ramon	94583
+Westside Dr	San Diego	0
+Westside Dr	San Diego	92108
+Westside Dr	San Francisco	94130
+Westside Dr	San Ramon	94583
+Westside Dr	White Water	92282
+Westside Drive	Carmel Valley	93924
+Westside Drive	La Verne	91750
+Westside Drive	Los Angeles	90022
+Westside Pkwy	Bakersfield	93314
+Westside Pl	San Ramon	94583
+Westside Potter Valley Rd	Potter Valley	 
+Westside Rd	Forestville	95436
+Westside Rd	Healdsburg	95448
+Westside Rd	Hollister	95023
+Westside Rd	Imperial	92251
+Westside Rd	Redding	96001
+Westside Rd	Twentynine Palms	92277
+Westside Rd	Victorville	92395
+Westside Road	Yreka	96097
+Westside Way	Elk Grove	95758
+Westslope Lane	La Canada Flintridge	91011
+Weststar Road	Acton	93510
+Weststate St	Westminster	92683

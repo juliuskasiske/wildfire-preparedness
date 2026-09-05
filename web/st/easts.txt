@@ -1,0 +1,40 @@
+Eastsac Walk	Sacramento	95816
+Eastshore	Irvine	92604
+Eastshore Blvd	El Cerrito	94530
+Eastshore Fwy	Berkeley	94710
+Eastshore Hwy	Berkeley	94710
+Eastshore Rd	Bodega Bay	94923
+Eastshore Rd	Redding	96003
+Eastshore Ter	Chula Vista	91913
+Eastshore Wy	Lathrop	95330
+Eastside Ave	Sebastopol	95472
+Eastside Calpella Rd	Calpella	 
+Eastside Calpella Rd	Ukiah	 
+Eastside Cir	Petaluma	94954
+Eastside Cir	Ybl	 
+Eastside Cir	Ybl	92887
+Eastside Cir	Yorba Linda	92887
+Eastside Ct	Firebaugh	93622
+Eastside Ct	Orangevale	95662
+Eastside Ct	Santa Rosa	95409
+Eastside Dr	Firebaugh	93622
+Eastside Dr	San Jose	95127
+Eastside Lane	Topaz	96133
+Eastside Lane	Walker	96107
+Eastside Rd	Anderson	96007
+Eastside Rd	Castella	96017
+Eastside Rd	El Cajon	92020
+Eastside Rd	Firebaugh	93622
+Eastside Rd	Forestville	95436
+Eastside Rd	Healdsburg	95448
+Eastside Rd	Napa	94558
+Eastside Rd	Redding	96001
+Eastside Rd	Redding	96007
+Eastside Rd	Windsor	95492
+Eastside Road	Etna	96027
+Eastside Road	Etna	96032
+Eastside Road	Fort Jones	96032
+Eastside Road	Walker	96107
+Eastside St	Castella	96017
+Eastside St	Lakehead	96051
+Eastside Way	Petaluma	94954

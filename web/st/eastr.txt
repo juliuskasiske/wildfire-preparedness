@@ -1,0 +1,46 @@
+Eastridge	Coto De Caza	92679
+Eastridge	Santa Cruz	95060
+Eastridge Ave	Menifee	92584
+Eastridge Ave	Menlo Park	94025
+Eastridge Ave	Riverside	92507
+Eastridge Cir	Modesto	95355
+Eastridge Cir	Pacifica	94044
+Eastridge Ct	Bakersfield	93306
+Eastridge Ct	Chino Hills	91709
+Eastridge Ct	Oroville	95966
+Eastridge Ct	Oxnard	93036
+Eastridge Ct	Post Mountain	96041
+Eastridge Ct	Roseville	95746
+Eastridge Ct	San Diego	92131
+Eastridge Dr	Kelseyville	95451
+Eastridge Dr	La Mesa	91941
+Eastridge Dr	Lake Forest	92630
+Eastridge Dr	Lake Forest	92630-5851
+Eastridge Dr	Lake Forest	92630-5852
+Eastridge Dr	Lincoln	95648
+Eastridge Dr	Los Gatos	95032
+Eastridge Dr	Modesto	95355
+Eastridge Dr	Napa	94558
+Eastridge Dr	Roseville	95746
+Eastridge Dr	Sacramento	95842
+Eastridge Dr	San Jose	95148
+Eastridge Dr	San Ramon	94582
+Eastridge Drive	Fairfield	94534
+Eastridge Drive	Whittier	90602
+Eastridge Knl	Fullerton	92835
+Eastridge Knls	Fullerton	92835
+Eastridge Lane	Carson	90745
+Eastridge Ln	Carson	90745
+Eastridge Ln	Concord	94518
+Eastridge Ln	Escondido	92026
+Eastridge Loop	Chula Vista	91915
+Eastridge Loop	Oxnard	93036
+Eastridge Loop	San Jose	95122
+Eastridge N Ct	Post Mountain	96041
+Eastridge Pl	Manteca	95336
+Eastridge Pl	San Diego	92131
+Eastridge Pl	Temecula	92592
+Eastridge Rd	Cottonwood	96022
+Eastridge S Ct	Post Mountain	96041
+Eastridge Trl	Oxnard	93036
+Eastridge Way	Brea	92821

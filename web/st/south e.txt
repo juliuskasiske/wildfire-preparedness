@@ -1,0 +1,135 @@
+South E Street	Exeter	93221
+South E Street	Porterville	93257
+South E Street	Tulare	93274
+South Eaglemont Drive	Whittier	90601
+South Eaglewood Place	La Habra	90631
+South East Boulevard	Los Angeles	90066
+South East River Street	Truckee	96161
+South Eastbury Avenue	Covina	91723
+South Eastern Avenue	Bell Gardens	90201
+South Eastern Avenue	Los Angeles	90022
+South Eastern Avenue	Los Angeles	90040
+South Eastern Avenue	Pasadena	91107
+South Easthills Drive	West Covina	91791
+South Eastman Avenue	Los Angeles	90023
+South Eastman Avenue	Los Angeles	90063
+South Eastmont Avenue	Los Angeles	90022
+South Eastwood Avenue	Inglewood	90304
+South Eddington Drive	Carson	90746
+South Edenfield Avenue	Covina	91723
+South Edgar Street	Carson	90745
+South Edgehill Drive	Los Angeles	90008
+South Edgehill Drive	Los Angeles	90018
+South Edgemar Avenue	Los Angeles	90043
+South Edgemont Drive	San Pedro	90732
+South Edgemont Street	Los Angeles	90004
+South Edinburgh Avenue	Los Angeles	90048
+South Edison Street	Visalia	93292
+South Edison Way	Compton	90220
+South Edwards Court	Visalia	93277
+South Eighth Street	Dixon	95620
+South Eileen Avenue	Covina	91722
+South Eileen Avenue	Los Angeles	90043
+South El Cajon Court	Visalia	93277
+South El Camino Drive	Beverly Hills	90212
+South El Macero Drive	El Macero	95618
+South El Molino Avenue	Pasadena	91101
+South El Molino Avenue	Pasadena	91106
+South El Molino Street	Alhambra	91801
+South El Nido	Pasadena	91107
+South El Nido Avenue	Pasadena	91107
+South El Nido Street	La Habra	90631
+South El Toro Road	Duarte	91010
+South Elberta Road	Exeter	93221
+South Elden Avenue	Los Angeles	90006
+South Eldermoore Drive	Malibu	90265
+South Eldon Avenue	Hacienda Heights	91745
+South Eleanor Street	Pomona	91766
+South Eleanor Street	Pomona	91767
+South Electric Avenue	Alhambra	91801
+South Electric Avenue	Alhambra	91803
+South Electric Avenue	Venice	90291
+South Elena Avenue	Redondo Beach	90277
+South Elephant Back Road	Lindsay	93247
+South Eleventh Street	Los Banos	93635
+South Ellendale Place	Los Angeles	90007
+South Ellery Drive	San Pedro	90732
+South Ellesford Avenue	West Covina	91792
+South Elliot Avenue	Azusa	91702
+South Ellsmere Avenue	Los Angeles	90019
+South Elm Drive	Beverly Hills	90212
+South Elm Drive	Los Angeles	90035
+South Elm Road	Earlimart	93219
+South Elm Street	Pixley	93256
+South Elm Street	Pomona	91766
+South Elm Street	Visalia	93291
+South Elman St	San Diego	92111
+South Elmer Road	Yuba City	95993
+South Elmwood Avenue	Lindsay	93247
+South Elton Avenue	Los Angeles	90022
+South Elverta Street	Visalia	93292
+South Elvira Avenue	Redondo Beach	90277
+South Elwood Avenue	Glendora	91740
+South Elwood Avenue	Glendora	91741
+South Embassy Avenue	Long Beach	90810
+South Emerald Court	Visalia	93277
+South Emerald Drive	Los Angeles	90026
+South Emerald Street	Los Angeles	90026
+South Emerson Avenue	Los Angeles	90045
+South Emily Drive	West Covina	91790
+South Emily Street	San Pedro	90731
+South Encina Street	Visalia	93277
+South Encinitas Avenue	Monrovia	91016
+South Encinitas Street	La Habra	90631
+South Enid Avenue	Azusa	91702
+South Enola Avenue	Carson	90745
+South Enos Street	Visalia	93292
+South Enslow Drive	Carson	90746
+South Enterprise Street	Tulare	93274
+South Eriel Avenue	Gardena	90249
+South Ermanita Avenue	Gardena	90249
+South Ermanita Avenue South	Gardena	90249
+South Ernest Street	Visalia	93277
+South Esperanza Street	Los Angeles	90023
+South Esplanade	Marina Del Rey	90292
+South Esplanade	Playa Del Rey	90293
+South Essex Street	Los Angeles	90021
+South Essey Avenue	Compton	90221
+South Esther Street	Porterville	93257
+South Estrella Avenue	Gardena	90247
+South Estrella Avenue	Gardena	90248
+South Estrella Avenue	Los Angeles	90007
+South Estrella Avenue	Los Angeles	90044
+South Estudillo Avenue	Los Angeles	90023
+South Ethel Avenue	Alhambra	91803
+South Eucalyptus Avenue	Inglewood	90301
+South Eucalyptus Avenue	Inglewood	90302
+South Eucalyptus Street	Pixley	93256
+South Eucalyptus Way	La Habra	90631
+South Eucla Avenue	San Dimas	91773
+South Euclid Avenue	Los Angeles	90023
+South Euclid Avenue	Los Angeles	90063
+South Euclid Avenue	Pasadena	91101
+South Euclid Avenue	Pasadena	91106
+South Euclid Avenue	San Gabriel	91776
+South Euclid Street	La Habra	90631
+South Eunice Circle	La Habra	90631
+South Evans Drive	Dinuba	93618
+South Evans Road	Tipton	93272
+South Evanwood Avenue	West Covina	91790
+South Evarg Avenue	Compton	90220
+South Evelyn Avenue	Gardena	90248
+South Everett Street	Glendale	91205
+South Everett Street	Glendale	91206
+South Evergreen Avenue	Los Angeles	90023
+South Evergreen Avenue	Los Angeles	90033
+South Evergreen Place	San Pedro	90732
+South Evermont Place	Los Angeles	90044
+South Evers Avenue	Compton	90222
+South Evers Avenue	Los Angeles	90002
+South Evers Avenue	Los Angeles	90059
+South Evonda Avenue	Long Beach	90810
+South Exa Court	Carson	90746
+South Exeter Court	Visalia	93292
+South Exmoor Avenue	Compton	90220
+South Ezra Street	Los Angeles	90023

@@ -1,0 +1,32 @@
+Xana Way	Carlsbad	92009
+Xana Way	Moreno Valley	92551
+Xanadu Ct	Hemet	92544
+Xanadu Ln	Redding	96003
+Xanadu Way	Oxnard	93036
+Xanadu Way	Paradise	95969
+Xanadu Way	Simi Valley	93065
+Xander Ct	Palm Desert	92211
+Xandria Ct	Bakersfield	93311
+Xandria Dr	Sacramento	95838
+Xanthe Way	Manteca	95336
+Xanthe Wy	Manteca	95336
+Xanthos Court	34	94583
+Xavier Ave	Bakersfield	93307
+Xavier Ave	Chula Vista	91913
+Xavier Ave	Hayward	94545
+Xavier Ave	Imperial	92251
+Xavier Ave	Turlock	95382
+Xavier Ave	Ventura	93003
+Xavier Cir	Westminster	92683
+Xavier Ct	Fortuna	95540
+Xavier Ct	Palm Desert	92211
+Xavier Ct	Sacramento	95841
+Xavier Ct	San Jose	95008
+Xavier Ct	San Jose	95129
+Xavier Ct	Santa Clara	95051
+Xavier Ln	Roseville	95747
+Xavier Pl	Clayton	94517
+Xavier St	East Palo Alto	94303
+Xavier St	Eastvale	92880
+Xavier St	Mountain View	94043
+Xavier Way	Mountain View	94043

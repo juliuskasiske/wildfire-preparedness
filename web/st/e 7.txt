@@ -1,0 +1,35 @@
+E 78 Hwy	Brawley	92227
+E 7Th	Calexico	92231
+E 7Th	Heber	92249
+E 7Th	Holtville	92250
+E 7Th	Imperial	92251
+E 7Th	Westmorland	92281
+E 7Th & 711 Walnut St	Holtville	92250
+E 7Th Ave	Chico	95926
+E 7Th Ave	Escondido	92025
+E 7Th Ave	Westmorland	92281
+E 7Th Hwy	Calexico	92231
+E 7Th St	Antioch	94509
+E 7Th St	Arcata	95521
+E 7Th St	Bakersfield	93307
+E 7Th St	Beaumont	92223
+E 7Th St	Calexico	92231
+E 7Th St	Chico	95928
+E 7Th St	Corona	92879
+E 7Th St	Gilroy	95020
+E 7Th St	Heber	92249
+E 7Th St	Holtville	92250
+E 7Th St	Imperial	92251
+E 7Th St	Lincoln	95648
+E 7Th St	Madera	93637
+E 7Th St	Madera	93638
+E 7Th St	National City	91950
+E 7Th St	Niland	92257
+E 7Th St	Ontario	91764
+E 7Th St	Perris	92570
+E 7Th St	Perris	92571
+E 7Th St	Pittsburg	94565
+E 7Th St	San Jacinto	92583
+E 7Th St	Stockton	95206
+E 7Th St	Upland	91786
+E 7Th St Or 351 No D	Westmorland	92281

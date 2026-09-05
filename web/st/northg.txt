@@ -1,0 +1,40 @@
+Northgate	Redlands	92374
+Northgate Ave	Berkeley	94708
+Northgate Ave	Daly City	94015
+Northgate Ave	Temecula	92592
+Northgate Avenue	Canoga Park	91304
+Northgate Blvd	Sacramento	95815
+Northgate Blvd	Sacramento	95833
+Northgate Blvd	Sacramento	95834
+Northgate Cir	Auburn	95602
+Northgate Ct	Daly City	94015
+Northgate Ct	Tracy	95376
+Northgate Dr	Atherton	94027
+Northgate Dr	Chico	95973
+Northgate Dr	Goleta	93117
+Northgate Dr	Manteca	95336
+Northgate Dr	Modesto	95350
+Northgate Dr	Palo Cedro	96073
+Northgate Dr	Riverside	92507
+Northgate Dr	San Francisco	94127
+Northgate Dr	San Jose	95111
+Northgate Dr	San Rafael	94903
+Northgate Dr	Woodside	94062
+Northgate Drive	Yuba City	95991
+Northgate One	San Rafael	94903
+Northgate Pkwy	Temecula	92591
+Northgate Pky	Temecula	92591
+Northgate Pl	Oakley	94561
+Northgate Rd	Indio	92203
+Northgate St	Culver City	90230
+Northgate St	Riverside	92507
+Northgate St	San Diego	92114
+Northgate Street	Culver City	90230
+Northgate Wood Ct	Walnut Creek	94598
+Northglen Sq	Cupertino	95014
+Northglen St	Granite Bay	95746
+Northglen St	Sacramento	95833
+Northgraves Ave	Chico	95928
+Northgrove	Irvine	92604
+Northgrove Ln	San Jose	95133
+Northgrove Way	Citrus Heights	95610

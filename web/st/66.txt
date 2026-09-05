@@ -1,0 +1,19 @@
+66Th Ave	Mecca	92254
+66Th Ave	Mecca	92274
+66Th Ave	Sacramento	95822
+66Th Ave	Sacramento	95823
+66Th Ave	Thermal	92274
+66Th Avenue	Playa Del Rey	90293
+66Th Place	Long Beach	90803
+66Th Place	Los Angeles	90043
+66Th St	Berkeley	94608
+66Th St	Berkeley	94702
+66Th St	Emeryville	94608
+66Th St	Jurupa Valley	91752
+66Th St	Sacramento	95819
+66Th St	Sacramento	95820
+66Th St	Sacramento	95824
+66Th St	San Diego	92114
+66Th Street	Los Angeles	90043
+66Th Street	Los Angeles	90044
+66Th Street West	Lancaster	93536

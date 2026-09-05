@@ -1,0 +1,70 @@
+La Habra	Pittsburg	94565
+La Habra Ave	Adelanto	92301
+La Habra Ave	Hemet	92545
+La Habra Ave	Yucca Valley	92284
+La Habra Cir	Buena Park	90620
+La Habra Court	Davis	95618
+La Habra Ct	Laguna Hills	92653
+La Habra Dr	San Marcos	92078
+La Habra Glen	Escondido	92026
+La Habra Gln	Escondido	92026
+La Habra Rd	Victorville	92392
+La Habra St	Escondido	92026
+La Habra Street	Merced	95341
+La Habra Way	Sacramento	95864
+La Hacienda	Watsonville	95076
+La Hacienda Ave	Fountain Valley	92708
+La Hacienda Ct	San Jose	95127
+La Hai Roi	Aptos	95003
+La Haina Pl	Ramona	92065
+La Haina St	Ramona	92065
+La Harina Ct	San Diego	0
+La Harina Ct	San Diego	92129
+La Harve Ln	San Jacinto	92583
+La Have Way	Cypress	90630
+La Haya Dr	Elk Grove	95624
+La Helena Dr	Lucerne	95458
+La Hermosa Ave	Laguna Niguel	92677
+La Hermosa Dr	Redlands	92373
+La Hermosa Drive	Whittier	90603
+La Hernandez St	Coachella	92236
+La Herran Dr	Santa Clara	95051
+La Homa	Ybl	92887
+La Homa	Yorba Linda	92887
+La Homa Ct	Napa	94558
+La Homa Dr	Napa	94558
+La Homa Ln	Cottonwood	96022
+La Homa St	Cypress	90630
+La Honda	Aptos	95003
+La Honda Ave	El Cerrito	94530
+La Honda Ave	San Jose	95129
+La Honda Circle	Salinas	93905
+La Honda Court	Salinas	93905
+La Honda Court	Seaside	93955
+La Honda Ct	Clayton	94517
+La Honda Ct	El Sobrante	94803
+La Honda Ct	Morgan Hill	95037
+La Honda Dr	Escondido	92026
+La Honda Dr	Escondido	92027
+La Honda Dr	Milpitas	95035
+La Honda Dr	Morgan Hill	95037
+La Honda Ln	Bella Vista	96008
+La Honda Place	Seaside	93955
+La Honda Rd	El Sobrante	94803
+La Honda Rd	Half Moon Bay	94074
+La Honda Rd	Hillsborough	94010
+La Honda Rd	La Honda	94020
+La Honda Rd	La Honda	94062
+La Honda Rd	La Honda	94074
+La Honda Rd	Redwood City	94020
+La Honda Rd	Redwood City	94062
+La Honda Rd	San Gregorio	94020
+La Honda Rd	San Gregorio	94074
+La Honda Rd	Woodside	94020
+La Honda Rd	Woodside	94062
+La Honda Sur	Morgan Hill	95037
+La Honda Way	Carmichael	95608
+La Honda Way	Salton City	92274
+La Honda Way	Yucca Valley	92284
+La Huerta Rd	Homeland	92548
+La Huerta Way	San Diego	92154

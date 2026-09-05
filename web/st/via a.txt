@@ -1,0 +1,408 @@
+Via A La Casa	Rancho Santa Fe	92067
+Via Abaca	San Diego	92126
+Via Abajar	San Clemente	92673
+Via Abajo	San Diego	92129
+Via Abajo	Santa Barbara Unincorporated	93110
+Via Abby	Montclair	91763
+Via Abeja	Cathedral City	92234
+Via Abertura	Rancho Santa Fe	92067
+Via Abrazar	San Clemente	92673
+Via Abrigada	Hope Ranch	93110
+Via Abril	Murrieta	92562
+Via Abruzzi	Aliso Viejo	92656
+Via Acalones	Palos Verdes Peninsula	90274
+Via Acapulco	Laguna Niguel	92677
+Via Acapulco	Palm Springs	92262
+Via Acaso	Laguna Niguel	92677
+Via Acero	Malibu	90265
+Via Acero Street	Malibu	90265
+Via Aciando	Camarillo	93012
+Via Acorde	Camarillo	93010
+Via Acorde	Valencia	91355
+Via Acosta	Montebello	90640
+Via Acosta	Rancho Santa Margarita	92688
+Via Acosta	Thousand Oaks	91320
+Via Acquaviva	Fallbrook	92028
+Via Acuatica	Rancho Santa Margarita	92688
+Via Acuna	Mission Viejo	92692
+Via Acuna	Murrieta	92562
+Via Adarme	Palos Verdes Peninsula	90274
+Via Adela	Ybl	92886
+Via Adela	Yorba Linda	92886
+Via Adelena	Valencia	91354
+Via Adelfa	Carlsbad	92009
+Via Adelfa	Rancho Santa Margarita	92688
+Via Adelia	San Clemente	92672
+Via Adorna	Thousand Oaks	91320
+Via Adorna	Valencia	91355
+Via Adrian	San Clemente	92673
+Via Adriana	Oceanside	92056
+Via Afable	San Diego	92154
+Via Agaudulce	Murrieta	92562
+Via Agave	San Diego	92130
+Via Agradar	San Clemente	92673
+Via Agua Codorniz	Creston	93432
+Via Aguadulce	Murrieta	92562
+Via Agualdulce	Murrieta	92562
+Via Aguila	Coto De Caza	92679
+Via Aguila	Palm Springs	92264
+Via Aguila	San Clemente	92673
+Via Aguila	Temecula	92591
+Via Agustini	Mission Viejo	92692
+Via Aida	Montclair	91763
+Via Airosa	Hope Ranch	93110
+Via Airosa	Rancho Cucamonga	91730
+Via Alameda	Palos Verdes Peninsula	90274
+Via Alameda	Redondo Beach	90277
+Via Alameda	San Dimas	91773
+Via Alameda	Ybl	92886
+Via Alameda	Yorba Linda	92886
+Via Alamitos	Palos Verdes Peninsula	90274
+Via Alamitos	Thousand Oaks	91320
+Via Alamitos	Unincorporated Alameda County	94580
+Via Alamonte	Hemet	92545
+Via Alamtos	Thousand Oaks	91320
+Via Alano	San Juan Capistrano	92675
+Via Alba	Camarillo	93012
+Via Alba	Palm Desert	92260
+Via Alba	Santa Barbara Unincorporated	93111
+Via Albeniz	Mission Viejo	92692
+Via Alberca	Riverside	92507
+Via Alberti	Gustine	95322
+Via Alberti	Mission Viejo	92692
+Via Alberto	San Diego	92129
+Via Alcala	Mission Viejo	92691
+Via Alcamo	San Clemente	92673
+Via Alcance	Palos Verdes Peninsula	90274
+Via Alcazar	Camarillo	93010
+Via Alcazar	Carlsbad	92009
+Via Alcazar	San Diego	92111
+Via Alcazar Ave	Laguna Niguel	92677
+Via Alcira	Valencia	91355
+Via Aldea	Indio	92201
+Via Aldea	La Quinta	92253
+Via Aldea	Oceanside	92057
+Via Aldea	Thousand Oaks	91320
+Via Alegra Dr	Ramona	92065
+Via Alegre	Escondido	92027
+Via Alegre	Fallbrook	92028
+Via Alegre	Hope Ranch	93110
+Via Alegre	Murrieta	92563
+Via Alegre	San Clemente	92672
+Via Alegre	San Dimas	91773
+Via Alegre	Ybl	92886
+Via Alegre	Yorba Linda	92886
+Via Alegre Ct	Murrieta	92563
+Via Alegre Dr	Ramona	92065
+Via Alegria	Moreno Valley	92551
+Via Alegria Ct	San Jose	95121
+Via Alella	Temecula	92591
+Via Alessandro	San Diego	92111
+Via Alexandra	Escondido	92026
+Via Alexandria	Escondido	92026
+Via Alfalfa	El Cajon	92019
+Via Alfonse	Laguna Niguel	92677
+Via Alfredo	Laguna Niguel	92677
+Via Algardi	Rancho Murieta	95683
+Via Alhama	Temecula	92592
+Via Alhambra	Laguna Woods	92637
+Via Alia	Riverside	92503
+Via Alia Rd	Riverside	92503
+Via Alicante	Corona	92881
+Via Alicante	Granite Bay	95746
+Via Alicante	La Jolla	92037
+Via Alicante	Tustin	92782
+Via Alicia	Fallbrook	92028
+Via Alicia	Montecito	93108
+Via Alicia	Oceanside	92056
+Via Alicia	San Juan Capistrano	92675
+Via Alicia	Santa Barbara	93108
+Via Alicia Dr	Moreno Valley	92551
+Via Alicia St	Highland	92346
+Via Alisa	Stevenson Ranch	91381
+Via Alisa	Ybl	92887
+Via Alisa	Yorba Linda	92887
+Via Alisal	San Diego	92128
+Via Alisol	Murrieta	92562
+Via Alista	La Verne	91750
+Via Alista	Thousand Oaks	91320
+Via Alivio	Rancho Santa Margarita	92688
+Via Allegra	Twentynine Palms	92277
+Via Allegra	Vista	92081
+Via Allegre	Indian Wells	92210
+Via Allegre	Rancho Santa Margarita	92679
+Via Allena	Oceanside	92056
+Via Allondra	San Marcos	92078
+Via Almaden	San Jose	95120
+Via Almansa	Encinitas	92024
+Via Almar	Palos Verdes Peninsula	90274
+Via Almazan	Temecula	92592
+Via Almendro	Long Beach	90805
+Via Almeria	San Clemente	92673
+Via Almeria	Tustin	92782
+Via Almeria	Ybl	92887
+Via Almeria	Yorba Linda	92887
+Via Almodovar	San Clemente	92672
+Via Almonte	Fallbrook	92028
+Via Alondra	Camarillo	93012
+Via Alondra	Coto De Caza	92679
+Via Alondra	La Quinta	92253
+Via Alondra	Palos Verdes Peninsula	90274
+Via Alondra Ct	Alamo	94507
+Via Alonso	San Clemente	92673
+Via Alta	Benicia	94510
+Via Alta	Burbank	91501
+Via Alta	Del Mar	92014
+Via Alta	Lafayette	94549
+Via Alta	Orcutt	93455
+Via Alta	San Diego	0
+Via Alta	San Diego	92108
+Via Alta	Santa Maria	93455
+Via Alta Blvd	San Diego	0
+Via Alta Mesa	Nipomo	93444
+Via Alta Mira	Cathedral City	92234
+Via Alta Mira	Murrieta	92562
+Via Alta Mirasol	San Diego	92128
+Via Alta Pl	San Diego	92108
+Via Alta Vista	Bonsall	92003
+Via Alta Way	Elk Grove	95624
+Via Altamira	Cathedral City	92234
+Via Altamira	Fallbrook	92028
+Via Altamira	Montebello	90640
+Via Altamira	Palm Springs	92262
+Via Altamira	Thousand Oaks	91320
+Via Altiva	San Diego	92128
+Via Alto	Saratoga	95070
+Via Alto Cerro	Laguna Niguel	92677
+Via Alto Ct	Saratoga	95070
+Via Altura	Modesto	95357
+Via Alturas	Hemet	92545
+Via Alvarado	Palos Verdes Peninsula	90274
+Via Alvarado	Ybl	92887
+Via Alvarado	Yorba Linda	92887
+Via Alvaro	Temecula	92592
+Via Alvorado	Mission Viejo	92692
+Via Amable	San Diego	92122
+Via Amadeo	San Dimas	91773
+Via Amado	Valencia	91355
+Via Amador	Carlsbad	92010
+Via Amador	Moreno Valley	92557
+Via Amador	Palos Verdes Peninsula	90274
+Via Amalfi	Palm Desert	92260
+Via Amalia	San Diego	92111
+Via Amante	La Quinta	92253
+Via Amante	Menifee	92584
+Via Amante	Palm Springs	92264
+Via Amante	Ybl	92886
+Via Amante	Yorba Linda	92886
+Via Amanti	Newport Beach	92657
+Via Amapola	Murrieta	92562
+Via Amapola	San Clemente	92673
+Via Amare	Stevenson Ranch	91381
+Via Amarilla	Murrieta	92563
+Via Amarilla	San Dimas	91773
+Via Amarilla	Ybl	92886
+Via Amarilla	Yorba Linda	92886
+Via Amarilla Rd	Murrieta	92563
+Via Amata	San Diego	92111
+Via Ambiente	Escondido	92029
+Via Ambiente	Murrieta	92562
+Via Ambiente	Rancho Santa Fe	92067
+Via Ambra	Newport Beach	92657
+Via Ambrosa	Laguna Niguel	92677
+Via Ameno	San Clemente	92672
+Via Amigos	San Jose	95120
+Via Amistad	La Quinta	92253
+Via Amistad	Pomona	91768
+Via Amistosa	Agoura Hills	91301
+Via Amistosa	Rancho Santa Fe	92091
+Via Amistosa	Rancho Santa Margarita	92688
+Via Amistoso	Mission Viejo	92692
+Via Amnate	Menifee	92584
+Via Amor	Rancho Santa Margarita	92688
+Via Amore	Montclair	91763
+Via Amorio	Palm Desert	92260
+Via Amorita	Downey	90241
+Via Amormio	Palm Desert	92260
+Via Amorosa	Rowland Heights	91748
+Via Amparo	San Jose	95135
+Via Ana	San Juan Capistrano	92675
+Via Anacapa	Palos Verdes Peninsula	90274
+Via Anacapa	San Jose	95139
+Via Anacapa	San Marcos	92069
+Via Anadeja	Rancho Santa Margarita	92688
+Via Ancantara	La Quinta	92253
+Via Andalusia	Encinitas	92024
+Via Andalusia	San Juan Capistrano	92675
+Via Andalusia	Ybl	92886
+Via Andalusia	Yorba Linda	92886
+Via Andar	San Diego	92122
+Via Andaremos	San Clemente	92673
+Via Andorra	Coto De Caza	92679
+Via Andorra	Santa Barbara Unincorporated	93110
+Via Andorra	Valencia	91355
+Via Andrea	Thousand Oaks	91320
+Via Andres	Palos Verdes Peninsula	90274
+Via Angeles	Temecula	92592
+Via Angelica	San Juan Capistrano	92675
+Via Angelica	Vista	92081
+Via Angelica Vista	Vista	92081
+Via Angelina	La Jolla	92037
+Via Angelina	Ybl	92886
+Via Angelina	Yorba Linda	92886
+Via Angelina Dr	Huntington Beach	92647
+Via Angelina Dr	Huntington Beach	92647-6603
+Via Angelina Dr	Huntington Beach	92647-6661
+Via Angelina Dr	Huntington Beach	92647-6662
+Via Angelina Dr	Huntington Beach	92647-6671
+Via Angelina Dr	Huntington Beach	92647-6682
+Via Angelina Dr	Huntington Beach	92647-6683
+Via Angelo	Montclair	91763
+Via Anita	La Jolla	92037
+Via Anita	La Verne	91750
+Via Anita	Pacific Palisades	90272
+Via Anita	Palos Verdes Peninsula	90274
+Via Anita	Redondo Beach	90277
+Via Anita	Santee	92071
+Via Anita	Temecula	92592
+Via Anita	Thousand Oaks	91320
+Via Anita Ave	Temecula	92592
+Via Anita Rd	Temecula	92592
+Via Anna	Spring Valley	91978
+Via Annette	Unincorporated Alameda County	94580
+Via Anta	Rancho Santa Margarita	92688
+Via Antibes	Dana Point	92629
+Via Antibes	La Quinta	92253
+Via Antibes	Newport Beach	92663
+Via Antibes	Redlands	92374
+Via Antibes	Riverside	92503
+Via Antigua	El Cajon	92019
+Via Antiqua St	Hesperia	92345
+Via Antoinette	Valley Center	92082
+Via Antonio	Corona	92882
+Via Antonio	Thousand Oaks	91320
+Via Anzar	San Juan Capistrano	92675
+Via Anzuelo	Atascadero	93422
+Via Apolina	Moreno Valley	92557
+Via Apolina	Ybl	92886
+Via Apolina	Yorba Linda	92886
+Via Appia	Walnut Creek	94598
+Via Aprilia	Del Mar	92014
+Via Apuesta	Tarzana	91356
+Via Apuesto	San Clemente	92673
+Via Apuesto	San Marcos	92078
+Via Aquara Ave	Laguna Niguel	92677
+Via Aquarela	Chula Vista	91913
+Via Aquario	San Diego	92111
+Via Arabella	San Dimas	91773
+Via Arabella	Thousand Oaks	91320
+Via Aracena	Camarillo	93010
+Via Aranda	Valencia	91355
+Via Arandana	Camarillo	93012
+Via Arango	San Diego	92129
+Via Ararat	Bonsall	92003
+Via Ararat Dr	Bonsall	92003
+Via Arbol	Moreno Valley	92557
+Via Arbolada	Los Angeles	90032
+Via Arbolada	Los Angeles	90042
+Via Arboleda	Escondido	92029
+Via Arboleda	Murrieta	92563
+Via Arboleda	San Clemente	92672
+Via Arboleda	San Juan Capistrano	92675
+Via Arboleda	Temecula	92591
+Via Arboleda	Ybl	92886
+Via Arboleda	Yorba Linda	92886
+Via Arboleda Ave	Murrieta	92563
+Via Arboles	Monterey	93940
+Via Arboles	San Marcos	92069
+Via Arbolitos	Indio	92203
+Via Arcadia	Indio	92203
+Via Arce	Carlsbad	92009
+Via Arcerolo	Monterey	93940
+Via Archimedes	Geyserville	95441
+Via Arcilla	San Diego	92111
+Via Arco	Palos Verdes Peninsula	90274
+Via Ardilla	Palos Verdes Peninsula	90274
+Via Aregio	Palm Desert	92260
+Via Arenosa	Twentynine Palms	92277
+Via Arenosa	Wonder Valley	92277
+Via Arequipa	Carlsbad	92008
+Via Arevalo	Mission Viejo	92691
+Via Arezzo	Indian Wells	92210
+Via Arezzo Place	Altadena	91001
+Via Argentina	Vista	92081
+Via Arias	Temecula	92592
+Via Arica	Laguna Niguel	92677
+Via Arleta	Indio	92203
+Via Arline Rd	Los Altos Hills	94022
+Via Armado	Chula Vista	91910
+Via Armilla	San Clemente	92673
+Via Arnaz	Yorba Linda	92887
+Via Arneda	Temecula	92592
+Via Arnedo	Temecula	92592
+Via Arnez	Mission Hills	93436
+Via Arrezo	Indian Wells	92210
+Via Arriaga	Mission Viejo	92692
+Via Arriba	Palos Verdes Peninsula	90274
+Via Arriba	Unincorporated Alameda County	94580
+Via Arriba Dr	Saratoga	95070
+Via Arriba Linda	Ybl	92887
+Via Arriba Linda	Yorba Linda	92887
+Via Arribo	Rancho Santa Margarita	92688
+Via Arroya	Sonora	95370
+Via Arroyo	Fallbrook	92028
+Via Arroyo	La Verne	91750
+Via Arroyo	Palos Verdes Peninsula	90274
+Via Arroyo	Paso Robles	93446
+Via Arroyo	Ventura	93003
+Via Arroyo	Watsonville	95076
+Via Arroyo Ct	Ventura	93003
+Via Arroyo Dr	Buena Park	90620
+Via Arroyo Dr	Paso Robles	93446
+Via Arroyo Dr	Ventura	93003
+Via Artemesia	San Clemente	92672
+Via Artina	Valencia	91355
+Via Arturo	Oceano	93445
+Via Arturo Rd	Descanso	91916
+Via Asalea	San Clemente	92673
+Via Ascenso	Rancho Santa Fe	92067
+Via Asoleado	Alpine	91901
+Via Aspero	Alamo	94507
+Via Assisi	Cathedral City	92234
+Via Asti	San Diego	92129
+Via Astorga	Mission Viejo	92691
+Via Asturias	Palos Verdes Peninsula	90274
+Via Asturias	Ybl	92887
+Via Asturias	Yorba Linda	92887
+Via Astuto	Carlsbad	92010
+Via Astuto	Murrieta	92562
+Via Asueto	Santa Maria	93454
+Via Athena	Aliso Viejo	92656
+Via Attivo	Oakdale	95361
+Via Augusto	Ybl	92887
+Via Augusto	Yorba Linda	92887
+Via Aurelio	Oregon House	95962
+Via Aurora	Mission Viejo	92691
+Via Aurora	Thousand Oaks	91320
+Via Aurora Cir	Corona	92881
+Via Avant	Valencia	91355
+Via Avante	La Quinta	92253
+Via Avante	San Diego	92130
+Via Ave	Atascadero	93422
+Via Avella	San Diego	92108
+Via Aventura	North Tustin	92705
+Via Avila	Mission Viejo	92691
+Via Avila	San Clemente	92672
+Via Avion	Granite Bay	95746
+Via Avoria	Newport Beach	92657
+Via Azafran	Ybl	92886
+Via Azafran	Yorba Linda	92886
+Via Azalea	Palos Verdes Peninsula	90274
+Via Azalea	Temecula	92592
+Via Azul	Laguna Niguel	92677
+Via Azul	Murrieta	92563
+Via Azul	San Diego	92127
+Via Azul	Thousand Oaks	91320
+Via Azul	Ybl	92886
+Via Azul	Yorba Linda	92886
+Via Azur	Rancho Santa Margarita	92688

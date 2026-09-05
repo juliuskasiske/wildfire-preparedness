@@ -1,0 +1,25 @@
+55Th Ave	Sacramento	95822
+55Th Ave	Thermal	92274
+55Th Pl	San Diego	92115
+55Th Place	Long Beach	90803
+55Th St	Emeryville	94608
+55Th St	Emeryville	94609
+55Th St	Emeryville	94610
+55Th St	Jurupa Valley	92509
+55Th St	Sacramento	95817
+55Th St	Sacramento	95819
+55Th St	Sacramento	95820
+55Th St	Sacramento	95823
+55Th St	Sacramento	95824
+55Th St	San Diego	92105
+55Th St	San Diego	92114
+55Th St	San Diego	92115
+55Th St	San Diego	92182
+55Th St	Thermal	92274
+55Th Street	Los Angeles	90011
+55Th Street East	Lancaster	93535
+55Th Street East	Palmdale	93552
+55Th Street West	Acton	93510
+55Th Street West	Lancaster	93536
+55Th Street West	Palmdale	93551
+55Th Way	Long Beach	90805

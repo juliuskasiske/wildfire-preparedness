@@ -1,0 +1,288 @@
+W D	Brawley	92227
+W D	Winterhaven	92283
+W D Ave	Winterhaven	92283
+W D Dr	Brawley	92227
+W D & N Vine NW	Ontario	91762
+W D Rd	Brawley	92227
+W D St	Biola	93606
+W D St	Brawley	92227
+W D St	Colton	92324
+W D St	Encinitas	92024
+W D St	Kerman	93630
+W D St	Lemoore	93245
+W D St	Ontario	91762
+W D St	Winterhaven	92283
+W D Street St	Brawley	92227
+W Dahl Ln	Santa Ana	92704
+W Daily Dr	Camarillo	93010
+W Daisy Dr	Fresno	93722
+W Daisy St	Upland	91784
+W Dakota Ave	Firebaugh	93622
+W Dakota Ave	Fresno	93705
+W Dakota Ave	Fresno	93706
+W Dakota Ave	Fresno	93722
+W Dakota Ave	Fresno	93723
+W Dakota Ave	Kerman	93630
+W Dal Porto Ln	Santa Maria	93454
+W Dal Porto Ln	Santa Maria	93458
+W Dale Ave	Beaumont	92223
+W Dale St	Beaumont	92223
+W Dalewood Ave	Rialto	92377
+W Dalewood Pl	Bre	92821
+W Dali Ct	Hanford	93230
+W Dali Way	Hanford	93230
+W Dalton Ct	Upland	91784
+W Damask Ct	Santa Maria	93458
+W Damon Ave	Anaheim	92802
+W Damsen Ave	Visalia	93291
+W Damsen Ct	Visalia	93291
+W Damson Ct	Ontario	91762
+W Dan Ronquillo Dr	Fresno	93706
+W Dana St	Mountain View	94040
+W Dana St	Mountain View	94041
+W Dana St	Nipomo	93444
+W Danbrook Ave	Anaheim	92804
+W Danenberg	El Centro	92243
+W Danenberg Dr	El Centro	92243
+W Danenberg Rd	El Centro	92243
+W Danmont Ct	Thousand Oaks	91320
+W Dannenberg Dr	El Centro	92243
+W Danner Ave	Porterville	93257
+W Dante Dr	Santa Maria	93458
+W Darby St	Muscoy	92407
+W Darby St	San Bernardino	92407
+W Darien Way	Santa Maria	93458
+W Darien Wy	Santa Maria	93458
+W Darlene Ct	Upland	91784
+W Dartmouth Ave	Coalinga	93210
+W Dartmouth Ave	Visalia	93277
+W Date	Calipatria	92233
+W Date Av	Lompoc	93436
+W Date Ave	Kerman	93630
+W Date Ave	Porterville	93257
+W Date Ct	Calipatria	92233
+W Date St	Bre	92821
+W Date St	Brea	92821
+W Date St	Calipatria	92233
+W Date St	Oxnard	93033
+W Date St	San Diego	92101
+W Date Tree Rd	Colton	92324
+W David Ave	Kerman	93630
+W David Way	Santa Ana	92703
+W Davini Rd	Stockton	95206
+W Davis Ave	Caruthers	93609
+W Davis Ave	Five Points	93624
+W Davis Ave	Riverdale	93656
+W Davis St	Hanford	93230
+W Davit Ave	Santa Ana	92704
+W Dawnview Dr	Rialto	92377
+W Day Ave	Bakersfield	93308
+W Daylily St	Upland	91784
+W Dayton Ave	Fresno	93705
+W Dayton Ave	Fresno	93722
+W Dayton Ave	Fresno	93723
+W Dayton St	Upland	91786
+W De Anza Dr	Colton	92324
+W De Broggi Rd	Lodi	95242
+W De Carmen Dr	Colton	92324
+W De Coronado Dr	Indio	92201
+W De La Guerra St	Santa Barbara	93101
+W De Las Robles	Visalia	93291
+W De Lima Rd	Lathrop	95330
+W De Ovan Av	Stockton	95204
+W De Voy Dr	Anaheim	92804
+W Deacon Dr	La Quinta	92253
+W Deanna Dr	Bre	92821
+W Deanna Dr	San Bernardino	92407
+W Deborah Ct	Upland	91784
+W Deborah St	Upland	91784
+W Decatur Ave	Fresno	93711
+W Decatur Ave	Fresno	93722
+W Deep Well Rd	Palm Springs	92264
+W Deer Creek Rd	San Bernardino	92410
+W Deerefield Rd	Santa Ana	92704
+W Deerfield Cir	Upland	91784
+W Deergrass Ln	Mh	95391
+W Deerwood Dr	Anaheim	92804
+W Del Monte	Anaheim	92804
+W Del Monte Dr	Anaheim	92804
+W Del Norte St	Eureka	95501
+W Del Prado Ct	Mh	95391
+W Del Prado St	Anaheim	92804
+W Del Rancho Ct	Ontario	91762
+W Del Rio Dr	Stockton	95204
+W Del Sol Ln	Mh	95391
+W Delano St	Elverta	95626
+W Delaware Ave	Redlands	92374
+W Delaware Ave	Visalia	93291
+W Delaware Ct	Visalia	93291
+W Della Ave	Porterville	93257
+W Della Ct	Porterville	93257
+W Della Dr	Santa Maria	93458
+W Della Ln	Fresno	93711
+W Delta	Calipatria	92233
+W Delta Av	Tracy	95304
+W Delta Ave	Visalia	93291
+W Delta Ct	Visalia	93291
+W Delta Green	Port Hueneme	93041
+W Delta Green St	Port Hueneme	93041
+W Delta St	Calipatria	92233
+W Demaret Ct	La Habra	90631
+W Denise Dr	Ripon	95366
+W Dennett Ave	Fresno	93722
+W Dennett Ave	Fresno	93728
+W Deodar Ave	Oxnard	93030
+W Deodar Dr	Lemoore	93245
+W Deodar St	Ontario	91762
+W Deodar St	Oxnard	93030
+W Deol Wy	Mh	95391
+W Depot Master Ct	Tracy	95304
+W Depot Master Dr	Tracy	95304
+W Derek Way	Fresno	93722
+W Desert Greens Dr	Palm Desert	92260
+W Desert View Dr	Barstow	92311
+W Desert Willow	Imperial	92251
+W Desert Willow St	Imperial	92251
+W Desford St	Carson	90745
+W Devils Gate Rd	Kirkwood	95646
+W Devlan Ave	Fresno	93722
+W Devon Ave	Porterville	93257
+W Devonshire Ave	Hemet	92543
+W Devonshire Ave	Hemet	92545
+W Devonshire Dr	Oxnard	93030
+W Devonshire St	Oxnard	93030
+W Devoy Dr	Anaheim	92804
+W Dewdrop	Upland	91786
+W Dewey Dr	Anaheim	92802
+W Dewey Pl	Anaheim	92802
+W Dewey St	Hanford	93230
+W Dexter Ave	Porterville	93257
+W Diablo Ct	Tracy	95304
+W Diamond Ct	Upland	91786
+W Diamond St	Anaheim	92801
+W Diamond View Dr	Pioneer	95666
+W Diana Ct	Upland	91786
+W Diane Way	Anaheim	92801
+W Dickerson St	Westmorland	92281
+W Diehl	Seeley	92273
+W Diehl Rd	Imperial	92251
+W Diehl Rd	Seeley	92273
+W Dinuba Ave	Cantua Creek	93608
+W Dinuba Ave	Fresno	93706
+W Dinuba Ave	Helm	93627
+W Dinuba Ave	Kerman	93630
+W Dinuba Ave	Mendota	93640
+W Dinuba Ave	Raisin City	93652
+W Dinuba Ave	Reedley	93654
+W Dinuba Ave	San Joaquin	93660
+W Disney Way	Anaheim	92802
+W Ditto Dr	San Bernardino	92407
+W Dobkin Pl	Simi Valley	93065
+W Dodge Ave	Cantua Creek	93608
+W Doe Ave	Visalia	93291
+W Doetsch Rd	El Centro	92243
+W Dogwood Ave	Anaheim	92801
+W Dogwood Cir	Palm Springs	92264
+W Dogwood St	Upland	91784
+W Dolcetto Ln	Santa Maria	93458
+W Dollie St	Oxnard	93033
+W Dollison St	Eureka	95501
+W Dolon St	Blythe	92225
+W Domingo Rd	Fullerton	92833
+W Dominguez Rd	Palm Springs	92262
+W Dominic Ct	Hanford	93230
+W Dominic Way	Hanford	93230
+W Don Pedro Rd	Modesto	95358
+W Don Quixote Dr	Rancho Mirage	92270
+W Donald St	San Bernardino	92407
+W Donlon St	Blythe	92225
+W Donner Ave	Fresno	93705
+W Donner Ave	Fresno	93722
+W Donner Ave	Fresno	93723
+W Donner Way	Manteca	95336
+W Donnick Ave	Thousand Oaks	91360
+W Donovan Ranch Rd	Anaheim	92804
+W Donovan Rd	Santa Maria	93458
+W Dori Ave	Fresno	93722
+W Doris Ave	Oxnard	93030
+W Doris Ave	Porterville	93257
+W Doris Pl	Anaheim	92802
+W Dorjil Pl	San Bernardino	92411
+W Dorothea Ave	Visalia	93277
+W Dorothea Ct	Visalia	93277
+W Dorothy Dr	Bre	92821
+W Dorothy Dr	Brea	92821
+W Dorris	Huron	93234
+W Dorris Ave	Coalinga	93210
+W Dorris Ave	Huron	93234
+W Dorrit St	Thousand Oaks	91320
+W Dorsey Dr	Santa Ana	92704
+W Doug Mitchell Pl	Stockton	95209
+W Dougherty St	Fallbrook	92028
+W Doughty Ave	Tranquillity	93668
+W Douglas Ave	El Cajon	92020
+W Douglas Ave	Oxnard	93030
+W Douglas Ave	Visalia	93291
+W Douglas Rd	Stockton	95207
+W Douglas St	Oxnard	93030
+W Dove Ave	Visalia	93291
+W Dove Ct	Visalia	93291
+W Dove Dr	Visalia	93291
+W Dover Dr	San Bernardino	92407
+W Dovewood Ln	Fresno	93704
+W Dovewood Ln	Fresno	93711
+W Dovewood Ln	Fresno	93722
+W Dovewood Ln	Fresno	93723
+W Downen Ave	Hemet	92543
+W Downey Dr	Mh	95391
+W Downie Pl	Santa Ana	92706
+W Downing Av	Stockton	95206
+W Downing Ct	Fresno	93711
+W Downing Dr	Rialto	92377
+W Downs St	Stockton	95204
+W Downs St	Stockton	95207
+W Dr Martin Luther King Jr Bl	Stockton	95206
+W Driftwood	Brawley	92227
+W Driftwood Ct	Rocklin	95677
+W Driftwood Pl	Brawley	92227
+W Driftwood St	Upland	91784
+W Drive	Merced	95341
+W Dry Creek Rd	Geyserville	95441
+W Dry Creek Rd	Healdsburg	95448
+W Duane Ave	Sunnyvale	94085
+W Duarte	Brawley	92227
+W Duarte St	Brawley	92227
+W Dublin Ct	Upland	91784
+W Dudley Ave	Anaheim	92802
+W Dudley Ave	Fresno	93705
+W Dudley Ave	Fresno	93722
+W Dudley Ave	Fresno	93723
+W Dudley Ave	Fresno	93728
+W Dufau Rd	Oxnard	93033
+W Duff Rd	El Centro	92243
+W Duke St	Upland	91786
+W Dundee Ct	Applegate	95703
+W Dundee Ct	Applegate	95736
+W Dundee Ct	Bre	92821
+W Dunes St	Oxnard	93035
+W Dunham Ave	Madera	93637
+W Dunlop Ct	Colton	92324
+W Dunlop St	San Diego	92111
+W Dunn Ave	Fresno	93706
+W Dunne Ave	Morgan Hill	95037
+W Dunne Ave	Morgan Hill	95037-4901
+W Dunton Ave	Orange	92865
+W Dupont Dr	Fresno	93722
+W Duranta St	Roseville	95678
+W Durham Ferry Rd	Tracy	95304
+W Durham Way	Santa Maria	93458
+W Durham Wy	Santa Maria	93458
+W Durian Ave	Coalinga	93210
+W Durst Dr	Rialto	92376
+W Dustin Ave	Fowler	93625
+W Duvali Dr	Santa Maria	93458
+W Dwyer Dr	Anaheim	92801
+W Dyer Ave	Fresno	93711
+W Dyer Rd	Santa Ana	92707
+W Dylan Ave	Kerman	93630
+W Dynamic Pl	Rialto	92376

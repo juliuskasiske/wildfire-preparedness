@@ -1,0 +1,77 @@
+West 6 Street	San Pedro	90731
+West 60Th Place	Los Angeles	90044
+West 60Th Place	Los Angeles	90047
+West 60Th Street	Los Angeles	90001
+West 60Th Street	Los Angeles	90003
+West 60Th Street	Los Angeles	90043
+West 60Th Street	Los Angeles	90044
+West 60Th Street	Los Angeles	90047
+West 60Th Street West	Los Angeles	90043
+West 61St Street	Los Angeles	90003
+West 61St Street	Los Angeles	90043
+West 61St Street	Los Angeles	90044
+West 61St Street	Los Angeles	90047
+West 61St Street	Los Angeles	90056
+West 62Nd Place	Los Angeles	90043
+West 62Nd Place	Los Angeles	90044
+West 62Nd Street	Los Angeles	90003
+West 62Nd Street	Los Angeles	90043
+West 62Nd Street	Los Angeles	90044
+West 62Nd Street	Los Angeles	90047
+West 62Nd Street	Los Angeles	90056
+West 63Rd Place	Los Angeles	90003
+West 63Rd Place	Los Angeles	90044
+West 63Rd Street	Los Angeles	90043
+West 63Rd Street	Los Angeles	90056
+West 64Th Place	Inglewood	90302
+West 64Th Street	Inglewood	90302
+West 64Th Street	Los Angeles	90003
+West 64Th Street	Los Angeles	90043
+West 64Th Street	Los Angeles	90044
+West 64Th Street	Los Angeles	90047
+West 64Th Street	Los Angeles	90056
+West 65Th Place	Los Angeles	90043
+West 65Th Place	Los Angeles	90044
+West 65Th Place	Los Angeles	90047
+West 65Th Street	Los Angeles	90001
+West 65Th Street	Los Angeles	90003
+West 65Th Street	Los Angeles	90044
+West 65Th Street	Los Angeles	90047
+West 66Th Place	Los Angeles	90043
+West 66Th Street	Los Angeles	90003
+West 66Th Street	Los Angeles	90043
+West 66Th Street	Los Angeles	90044
+West 66Th Street	Los Angeles	90047
+West 67Th Street	Los Angeles	90003
+West 67Th Street	Los Angeles	90043
+West 67Th Street	Los Angeles	90044
+West 67Th Street	Los Angeles	90047
+West 67Th Way	Long Beach	90805
+West 68Th Street	Long Beach	90805
+West 68Th Street	Los Angeles	90003
+West 68Th Street	Los Angeles	90043
+West 68Th Street	Los Angeles	90044
+West 68Th Street	Los Angeles	90047
+West 69Th Street	Los Angeles	90003
+West 69Th Street	Los Angeles	90043
+West 69Th Street	Los Angeles	90044
+West 69Th Street	Los Angeles	90047
+West 6Th St	Chico	95928
+West 6Th Street	Azusa	91702
+West 6Th Street	Benicia	94510
+West 6Th Street	Claremont	91711
+West 6Th Street	Long Beach	90802
+West 6Th Street	Los Angeles	90005
+West 6Th Street	Los Angeles	90014
+West 6Th Street	Los Angeles	90017
+West 6Th Street	Los Angeles	90020
+West 6Th Street	Los Angeles	90023
+West 6Th Street	Los Angeles	90036
+West 6Th Street	Los Angeles	90048
+West 6Th Street	Los Angeles	90057
+West 6Th Street	Los Angeles	90071
+West 6Th Street	Merced	95341
+West 6Th Street	Pomona	91766
+West 6Th Street	San Dimas	91773
+West 6Th Street	San Pedro	90731
+West 6Th Street	San Pedro	90732

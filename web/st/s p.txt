@@ -1,0 +1,489 @@
+S P	Imperial	92251
+S.P. Avenue	Atwater	95301
+S.P. Avenue	Merced	95301
+S.P. Avenue	Merced	95348
+S P Rd	Imperial	92251
+S P St	Bakersfield	93304
+S P St	Bakersfield	93307
+S P St	Imperial	92251
+S P St	Lompoc	93436
+S P St	Madera	93637
+S Pacheco Dr	Kerman	93630
+S Pacheta Sq	Thousand Palms	92276
+S Pacific	Ventura	93001
+S Pacific Av	Lodi	95242
+S Pacific Ave	Huntington Beach	90742
+S Pacific Ave	Oxnard	93030
+S Pacific Ave	Santa Ana	92703
+S Pacific Ave	Santa Ana	92704
+S Pacific Ave	Ventura	93001
+S Pacific Dr	Fullerton	92833
+S Pacific St	Maxwell	95950
+S Pacific St	Maxwell	95955
+S Pacific St	Oceanside	92054
+S Pacific St	Orcutt	93455
+S Pacific St	San Marcos	92069
+S Pacific St	San Marcos	92078
+S Pacific St	Ventura	93001
+S Pacifica Rd	Fallbrook	92028
+S Pacifico St	Mh	95391
+S Paddon Dr	Escalon	95320
+S Padonia Ave	Whittier	90603
+S Padre Juan Ave	Ojai	93023
+S Padre Juan Dr	Ojai	93023
+S Page Ave	Fresno	93725
+S Page Ct	Anaheim	92806
+S Page St	Porterville	93257
+S Pagossa Way	Anaheim	92808
+S Painter Ave	Whittier	90601
+S Painter Ave	Whittier	90602
+S Painter Ave	Whittier	90605
+S Painter St	La Habra	90631
+S Paiute Wy	Manteca	95336
+S Palermo Ln	Mh	95391
+S Palisade Dr	Santa Maria	93454
+S Palisade Path	Whittier	90603
+S Palm	Brawley	92227
+S Palm	Ventura	93001
+S Palm Ave	Beaumont	92223
+S Palm Ave	Brawley	92227
+S Palm Ave	Hemet	92543
+S Palm Ave	Ontario	91762
+S Palm Ave	Rialto	92376
+S Palm Ave	Santa Paula	93060
+S Palm Ave	Upland	91786
+S Palm Ave	Whittier	90601
+S Palm Ave	Ybl	92886
+S Palm Canyon	Palm Springs	92264
+S Palm Canyon Dr	Palm Canyon	92264
+S Palm Canyon Dr	Palm Springs	92262
+S Palm Canyon Dr	Palm Springs	92264
+S Palm Canyon Rd	Palm Springs	92264
+S Palm Cyn Dr	Palm Springs	92264
+S Palm Dr	Blythe	92225
+S Palm Dr	Bre	92821
+S Palm Dr	Brea	92821
+S Palm Dr	Novato	94949
+S Palm Dr	Ventura	93001
+S Palm Pl	Ontario	91762
+S Palm St	Anaheim	92805
+S Palm St	Brawley	92227
+S Palm St	La Habra	90631
+S Palm St	Lah	90631
+S Palm St	Turlock	95380
+S Palm St	Ventura	93001
+S Palm St	Visalia	93292
+S Palm Way	Anaheim	92802
+S Palma	Ventura	93003
+S Palmer Ct	La Habra	90631
+S Palmetto Ave	Ontario	91762
+S Palo Alto Rd	Altu	96101
+S Palo Verde Ave	Palm Springs	92264
+S Palo Verde Avenue	Monterey	93940
+S Palo Verde Dr	Indio	92201
+S Palomar Dr	Redwood City	94062
+S Palomino Ln	Anaheim	92807
+S Palomino Pl	Ontario	91761
+S Palou Paseo	Ontario	91762
+S Pam Ct	Santa Maria	93454
+S Pampas Ave	Rialto	92376
+S Pandora Pl	Anaheim	92802
+S Panorama Dr	Anaheim	92807
+S Panorama Dr	Whittier	90601
+S Paradise Av	Tracy	95304
+S Paradise Creek Ln	Valley Center	92082
+S Paradise Island Ln	Banning	92220
+S Paradise Ln	Anaheim	92806
+S Paradise Ridge Way	Chula Vista	91915
+S Paradise Valley	Carson	90745
+S Paraiso Dr	Santa Maria	93458
+S Paraiso Wy	Mh	95391
+S Parallel Av	Ripon	95366
+S Parallel Ave	Fresno	93702
+S Parallel Ave	Fresno	93721
+S Parco Ave	Ontario	91761
+S Pardee St	San Diego	92113
+S Parise Dr	Whittier	90603
+S Parish Pl	Burbank	91506
+S Park	Calipatria	92233
+S Park Ave	Calipatria	92233
+S Park Ave	Kerman	93630
+S Park Ave	Rialto	92376
+S Park Cir	Anaheim	92804
+S Park Circle Dr	Fresno	93727
+S Park Dr	Madera	93637
+S Park Dr	Magalia	95954
+S Park Dr	Porterville	93257
+S Park Dr	Sacramento	95821
+S Park Dr	Santa Ana	92707
+S Park Hyde St	Orange	92868
+S Park Ln	Moorpark	93021
+S Park Ln	Orange	92866
+S Park Pl	Porterville	93257
+S Park Ridge Ct	Riverbank	95367
+S Park Rim Cir	Anaheim	92807
+S Park St	Orange	92869
+S Park St	Porterville	93257
+S Park Victoria Dr	Milpitas	95035
+S Park Vine St	Orange	92868
+S Parker St	Orange	92868
+S Parkglen Pl	Ana	92808
+S Parkglen Pl	Anaheim	92808
+S Parkhill Rd	Santa Margarita	93453
+S Parkplace Ave	Ontario	91762
+S Parkside Ave	Ontario	91761
+S Parkside Dr	Ontario	91761
+S Parkside Pl	Ontario	91761
+S Parkview Ave	Daly City	94014
+S Parkwalk Ln	Desert Hot Springs	92240
+S Parkway Dr	Fresno	93725
+S Parkway Esplanade	La Quinta	92253
+S Parkwest St	Porterville	93257
+S Parkwood Ct	Visalia	93277
+S Parkwood St	Visalia	93277
+S Parlier Ct	Parlier	93648
+S Parton St	Santa Ana	92701
+S Parton St	Santa Ana	92707
+S Pasadena Ave	Fallbrook	92028
+S Pasadena Ave	Fillmore	93015
+S Pasadena Ave	Waterford	95386
+S. Pasadena St	Wildomar	92595
+S Paseo Bandera	Anaheim	92807
+S Paseo Carmel	Anaheim	92807
+S Paseo Caroleta	Palm Springs	92264
+S Paseo Cielo	Santa Maria	93454
+S Paseo Cielo	Santa Maria	93455
+S Paseo Cumbre	Anaheim	92807
+S Paseo De La Palma	Palm Springs	92264
+S Paseo De Luna	Anaheim	92807
+S Paseo De Marcia	Palm Springs	92264
+S Paseo Dorotea	Palm Springs	92264
+S Paseo Estrella	Anaheim	92807
+S Paseo Ganado	Anaheim	92807
+S Paseo Lucero	Anaheim	92807
+S Paseo Palmilla	Santa Maria	93458
+S Paseo Prado	Anaheim	92807
+S Paseo Real	Anaheim	92807
+S Paseo Serena	Anaheim	92807
+S Pastel Ln	Ontario	91762
+S Pasteur St	Santa Ana	92707
+S Pastoria Ave	Sunnyvale	94086
+S Patencio Rd	Palm Springs	92262
+S Pathfinder Trl	Anaheim	92807
+S Patricia Ct	Santa Maria	93455
+S Patricia Dr	Anaheim	92804
+S Patrick Rd	Stockton	95215
+S Patrick Way	Anaheim	92808
+S Patterson Av	Goleta	93111
+S Patterson Av	Santa Barbara Unincorporated	93111
+S Patterson Paseo	Ontario	91762
+S Patterson Rd	Oxnard	93030
+S Patterson Rd	Oxnard	93035
+S Patton Av	Stockton	95215
+S Patwood Dr	La Habra	90631
+S Paul Dr	Whittier	90606
+S Paula Ave	Fresno	93725
+S Paula Dr	Fullerton	92833
+S Paula Ln	Anaheim	92805
+S Pauma Valley Rd	Banning	92220
+S Pavilion Way	Palm Springs	92262
+S Payette Dr	Whittier	90603
+S Payne Rd	Stockton	95215
+S Payton Way	Santa Maria	93454
+S Payton Wy	Santa Maria	93454
+S Peach Ave	Bre	92821
+S Peach Ave	Fowler	93625
+S Peach Ave	Fresno	93725
+S Peach Ave	Fresno	93727
+S Peach Ave	Reedley	93654
+S Peach Ave	Selma	93662
+S Peach St	Ontario	91761
+S Peach Tree Pl	Ontario	91761
+S Peachtree Ave	Banning	92220
+S Peak	Laguna Niguel	92677
+S Pear St	Caruthers	93609
+S Pear St	San Bernardino	92410
+S Peardale Dr	Lafayette	94549
+S Pearl St	Fresno	93721
+S Pearl Street	Salinas	93905
+S Pearson Ln	Mh	95391
+S Pearson St	Porterville	93257
+S Pearwood Ave	Fresno	93727
+S Pearwood Ln	Anaheim	92806
+S Peary Way	Anaheim	92807
+S Pebble Beach Ct	Ontario	91761
+S Pebble Beach Dr	Palm Springs	92264
+S Pebble Beach Ln	Ripon	95366
+S Pecan Ave	Reedley	93654
+S Peck Rd	Santa Paula	93060
+S Pedersen Ave	Reedley	93654
+S Pederson Ave	Reedley	93654
+S Pegasus St	Anaheim	92807
+S Pembrooke Ln	Anaheim	92804
+S Pendleton St	Riverdale	93656
+S Peninsula Dr	Oxnard	93035
+S Peninsula Rd	Oxnard	93035
+S Penn Ct	Santa Maria	93458
+S Penn Dr	Orange	92866
+S Pennant Pl	Whittier	90606
+S Pennsylvania Ave	San Bernardino	92410
+S Pennsylvania St	Lake Elsinore	92530
+S Pennsylvannia St	Lake Elsinore	92530
+S Penny Ln	Anaheim	92808
+S Pepper Ave	Rialto	92376
+S Pepper Dr	Bakersfield	93307
+S Pepper St	Anaheim	92802
+S Pepper St	Orange	92868
+S Pepper Tree Ln	San Bernardino	92408
+S Peppertree Ct	Visalia	93277
+S Peppertree St	Visalia	93277
+S Peppertree St	Visalia	93291
+S Pepperwood St	Colton	92324
+S Peral Way	Ontario	91761
+S Peralta Hills Dr	Anaheim	92807
+S Peralta Way	Anaheim	92807
+S Perdido St	Anaheim	92804
+S Peregrine Ct	Stockton	95215
+S Peregrine Pl	Anaheim	92806
+S Peregrine St	Anaheim	92806
+S Perez Wy	Mh	95391
+S Pergola St	Santa Maria	93458
+S Peridot Paseo	Ontario	91761
+S Peridot Pl	Anaheim	92807
+S Perkins Pl	Mh	95391
+S Perris Blvd	Perris	92570
+S Pershing Av	Stockton	95203
+S Pershing Av	Stockton	95206
+S Pershing Ave	San Bernardino	92408
+S Petal Pl	Anaheim	92805
+S Petaluma Ave	Fort Bragg	 
+S Peter Dr	Campbell	95008
+S Peterson Dr	Whittier	90605
+S Petit Ave	Ventura	93004
+S Petit St	Camarillo	93012
+S Philadelphia St	Anaheim	92805
+S Philip Martin Ct	Tracy	95304
+S Phillip Ave	Fresno	93727
+S Phillips St	Hanford	93230
+S Phoenix Ave	Ontario	91761
+S Phoenix Club Dr	Anaheim	92806
+S Phoenix Pl	Ontario	91761
+S Phyllis Cir	Anaheim	92806
+S Pickering Ave	Whittier	90601
+S Pickering Ave	Whittier	90602
+S Pickford Ave	Fresno	93706
+S Pico Ave	Fallbrook	92028
+S Pico Ave	San Bernardino	92410
+S Pico Ave	San Jacinto	92583
+S Pico St	Fallbrook	92028
+S Piedmont St	Oxnard	93035
+S Piedra Rd	Sanger	93657
+S Pierce Ave	Fresno	93725
+S Pierce Ave	Fresno	93727
+S Pierce Ave	Whittier	90601
+S Pierce Ave	Whittier	90602
+S Pierce St	El Cajon	92020
+S Pike St	Porterville	93257
+S Pilgrim St	Stockton	95205
+S Pilgrim St	Stockton	95206
+S Pine Ave	Bre	92821
+S Pine Ave	Ontario	91762
+S Pine Ave	Rialto	92376
+S Pine Bluff Dr	Whittier	90601
+S Pine Canyon Cir	Anaheim	92807
+S Pine Ct	Ontario	91762
+S Pine Dr	Fullerton	92833
+S Pine Pl	Ontario	91762
+S Pine St	Anaheim	92805
+S Pine St	Colton	92324
+S Pine St	Escondido	92025
+S Pine St	Madera	93637
+S Pine St	Madera	93638
+S Pine St	Orange	92866
+S Pine St	Oxnard	93030
+S Pine St	Santa Maria	93458
+S Pine St	Ukiah	 
+S Pine Valley Ave	Ontario	91761
+S Pine Valley Rd	Banning	92220
+S Pinecone Way	Ontario	91761
+S Pinehurst Ct	Ontario	91761
+S Pinehurst Pl	Ontario	91761
+S Pinkham St	Visalia	93292
+S Pinnacle	Santa Maria	93458
+S Pinnacle Ct	Visalia	93292
+S Pinnacle Dr	Santa Maria	93458
+S Pinnacle St	Visalia	93292
+S Pinon Ln	Big Bear City	92314
+S Pinositas Rd	Whittier	90605
+S Pinto Pl	Ontario	91761
+S Pintura Cir	Palm Springs	92264
+S Pio Pico Ave	Laton	93242
+S Pioneer Blvd	Whittier	90601
+S Pioneer Blvd	Whittier	90606
+S Pioneer Cir	Jackson	95642
+S Piper Way	Ontario	91762
+S Pippin	Santa Cruz	95065
+S Pixley St	Orange	92868
+S Placentia Ave	Anaheim	92806
+S Placentia Ave	Bre	92821
+S Placentia Ave	Fullerton	92831
+S Placentia Ave	Placentia	92870
+S Placer Ave	Kerman	93630
+S Placer Ave	San Joaquin	93660
+S Plainfield Dr	Ontario	91761
+S Plainfield Pl	Ontario	91761
+S Plano St	Porterville	93257
+S Plantation Pl	Anaheim	92806
+S Platinum Ct	Ontario	91762
+S Platti Rd	Tracy	95304
+S Playa Ave	Fresno	93727
+S Playa Privado	Ontario	91761
+S Plaza	Brawley	92227
+S Plaza Ave	Brawley	92227
+S Plaza De Domingos	Anaheim	92807
+S Plaza De Sueno	Anaheim	92807
+S Plaza Dr	Santa Ana	92704
+S Plaza Dr	Visalia	93277
+S Plaza St	Brawley	92227
+S Pleasant Av	Lodi	95240
+S Pleasant Ave	Ontario	91761
+S Pleasant Ave	Riverdale	93656
+S Pleasant Pl	Ontario	91761
+S Plum Ave	Bre	92821
+S Plum Ave	Ontario	91761
+S Plum Ave	Reedley	93654
+S Plum Dr	Ontario	91761
+S Plum Ln	Ontario	91761
+S Plum Ln	Orange	92868
+S Plum Pl	Ontario	91761
+S Plumas Ave	Kerman	93630
+S Plumas Ave	San Joaquin	93660
+S Plumas St	Fresno	93706
+S Plumwood St	Colton	92324
+S Plymouth Ave	Ontario	91761
+S Plymouth Ct	Santa Maria	93458
+S Plymouth Paseo	Ontario	91761
+S Plymouth Pl	Anaheim	92806
+S Plymouth St	Bakersfield	93308
+S  Plymouth Way	San Bernardino	92408
+S Pock Ln	Stockton	95205
+S Pock Ln	Stockton	95206
+S Podere Dr	Mh	95391
+S Poe St	Lake Elsinore	92530
+S Poinsettia Ave	Bre	92821
+S Poinsettia Ave	Brea	92821
+S Poinsettia Dr	Orange	92868
+S Point Dr	Bonita	91902
+S Point Rd	Orinda	94563
+S Pointe Ave	Ontario	91761
+S Pointe Dr	Laguna Hills	92653
+S Pointe Dr	Lake Forest	92630
+S Pointe Premier	Anaheim	92807
+S Pointsettia Pl	Ventura	93001
+S Polanco Pl	Manteca	95336
+S Polar Ave	Hanford	93230
+S Poli Ave	Ojai	93023
+S Poli St	Ojai	93023
+S Polk Ave	Caruthers	93609
+S Polk Ave	Fresno	93706
+S Polk Ave	Raisin City	93652
+S Polk Ave	Riverdale	93656
+S Polk St	Lakeport	95453
+S Pollock Pl	Mh	95391
+S Pomo Lane	Ukiah	 
+S Pomo Ln	Ukiah	 
+S Pomona Ave	Fullerton	92832
+S Pond Ct	Lafayette	94549
+S Ponderosa Ave	Ontario	91761
+S Ponderosa Pine	Lewiston	96052
+S Ponderosa St	French Camp	95231
+S Ponderosa St	Orange	92866
+S Ponderosa Way	Oakhurst	93644
+S Pons Ct	Thousand Oaks	91320
+S Poona Dr	Anaheim	92804
+S Poplar Ave	Bre	92821
+S Poplar Ave	Brea	92821
+S Poplar Dr	Ontario	91761
+S Poplar Rd (River Club)	Tracy	95304
+S Poplar St	Santa Ana	92703
+S Poplar St	Santa Ana	92704
+S Poppy Ave	Fresno	93706
+S Port Dr	Sacramento	95826
+S Portada Dr	Whittier	90603
+S Portada Dr	Whittier	90604
+S Portafino Pl	Whittier	90603
+S Portal Ave	Cupertino	95014
+S Porter Ave	Dinuba	93618
+S Porto Pl	Anaheim	92802
+S Portola	Laguna Beach	92651
+S Portola Ave	Del Rey	93616
+S Portola Ln	Tustin	92780
+S Portola Rd	Ventura	93003
+S Portsmouth Ln	Ontario	91761
+S Positano Ave	Anaheim	92808
+S Possum Hollow	Anaheim	92808
+S Possum Holw	Anaheim	92808
+S Potomac Cmn	Santa Ana	92704
+S Pottery Ct	Tracy	95377
+S Pounders Ln	Anaheim	92804
+S Pounds Ave	Whittier	90603
+S Powers Av	Manteca	95336
+S Powers Ave	Manteca	95336
+S Prairie Dunes Pl	Ontario	91761
+S Prairie Flower Rd	Turlock	95380
+S Prairie Pl	Anaheim	92807
+S Preakness Ct	Aguanga	92536
+S Prescott Dr	Palm Springs	92262
+S Prescott Pl	Anaheim	92808
+S Prescott Rd	Manteca	95336
+S Preston Dr	Calexico	92231
+S Preuss Ave	Fresno	93727
+S Price Ave	Fresno	93702
+S Price Ave	Fresno	93725
+S Pride Ct	Visalia	93277
+S Pride St	Visalia	93277
+S Priest Rd	French Camp	95231
+S Primrose Ave	Rialto	92376
+S Primrose Dr	Ontario	91761
+S Primrose Pl	Ontario	91762
+S Primrose St	Anaheim	92804
+S Prince Way	Ontario	91762
+S Princeton Ave	Coalinga	93210
+S Princeton Ave	Fullerton	92831
+S Priscilla St	Anaheim	92806
+S Priscilla Way	Anaheim	92806
+S Pritchard Ave	Fullerton	92833
+S Professional Pkwy	Santa Maria	93455
+S Proforma Ave	Ontario	91761
+S Promenade Ave	Corona	92879
+S Promenade St	Corona	92879
+S Promontory Ln	Ventura	93003
+S Prospect Ave	Fresno	93706
+S Prospect Ave	San Bernardino	92410
+S Prospect Ave	Tustin	92780
+S Prospect St	North Tustin	92705
+S Prospect St	Orange	92869
+S Prospect St	Porterville	93257
+S Prosperity St	Mh	95391
+S Providence St	Mh	95391
+S Prunedale Road	Salinas	93907
+S Ptolemy Way	Jurupa Valley	91752
+S Puebla Dr	Thousand Palms	92276
+S Pueblo	Laton	93242
+S Pueblo Av	Ojai	93023
+S Pueblo Ave	Ojai	93023
+S Pueblo Dr	Manteca	95336
+S Pueblo Pl	Ana	92807
+S Pueblo Pl	Anaheim	92807
+S Pueblo St	Ojai	93023
+S Puente Dr	Mh	95391
+S Puente St	Bre	92821
+S Puente St	Brea	92821
+S Puente St	Fullerton	92835
+S Pullman Ave	Fresno	93725
+S Pullman St	Santa Ana	92705
+S Pump House Ln	Santa Paula	93060
+S Pump House St	Santa Paula	93060
+S Purdue Ave	Fresno	93727
+S Purdue Cir	Anaheim	92807
+S Pythias Ave	Anaheim	92802

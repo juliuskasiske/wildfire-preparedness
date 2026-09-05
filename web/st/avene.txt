@@ -1,0 +1,5 @@
+Avenel Drive	Palmdale	93551
+Avenel Ln	Ramona	92065
+Avenel Ln	Yucaipa	92399
+Avenel Street	Los Angeles	90039
+Avenel Terrace	Los Angeles	90039

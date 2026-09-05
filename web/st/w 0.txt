@@ -1,0 +1,13 @@
+W 02Nd Ave	Escondido	92025
+W 02Nd St	National City	91950
+W 03Rd Ave	Escondido	92025
+W 03Rd St	National City	91950
+W 04Th Ave	Escondido	92025
+W 05Th Ave	Escondido	92025
+W 06Th Ave	Escondido	92025
+W 07Th Ave	Escondido	92025
+W 08Th Ave	Escondido	92025
+W 08Th St	National City	91950
+W 09Th Ave	Escondido	92025
+W 09Th Ave	Escondido	92029
+W 09Th St	National City	91950

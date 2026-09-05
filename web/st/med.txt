@@ -1,0 +1,294 @@
+Med Sci Drive	Davis	95616
+Meda Ave	San Francisco	94112
+Meda Ave	Santa Rosa	95404
+Meda Avenue	Glendora	91741
+Meda Ct	Mill Valley	94941
+Meda Ct	Santa Rosa	95404
+Meda Drive	Grass Valley	95949
+Meda Ln	Auburn	95602
+Meda Ln	Mill Valley	94941
+Medal Dr	Lincoln	95648
+Medal Play St	Beaumont	92223
+Medalist Ct	Oceanside	92057
+Medallion Ave	Tustin	92780
+Medallion Ct	Citrus Heights	95621
+Medallion Ct	Lincoln	95648
+Medallion Ct	Perris	92571
+Medallion Ct	Pleasant Hill	94523
+Medallion Ct	Riverbank	95367
+Medallion Dr	Bakersfield	93311
+Medallion Dr	Hayward	94544
+Medallion Dr	San Jose	95120
+Medallion Dr	Union City	94587
+Medallion Ln	Lakeside	92040
+Medallion Pl	Riverside	92503
+Medallion Rose Ave	Bakersfield	93313
+Medallion St	Redlands	92374
+Medallion Way	Rohnert Park	94928
+Medallion Way	Sacramento	95826
+Medallion Wy	Lodi	95242
+Medallist Dr	La Quinta	92253
+Medano Dr	Cathedral City	92234
+Medano Dr	Santa Rosa	95407
+Medano Rd	Cathedral City	92234
+Medano St	Rancho Mission Viejo	92694
+Medanos Ave	Bay Point	94565
+Medanos Ave	Lucerne Valley	92356
+Medanos Loop	Bay Point	94565
+Medanos St	Antioch	94509
+Medau Pl	San Francisco	94133
+Medawar Way	Lomita	90717
+Medburn St	Concord	94520
+Medbury Drive	Salinas	93906
+Medcliff Rd	Santa Barbara	93101
+Medcliff Rd	Santa Barbara	93109
+Medea Court	Palmdale	93550
+Medea Creek Ln	Oak Park	91377
+Medea Creek Road	Agoura Hills	91301
+Medea Mesa Road	Agoura Hills	91301
+Medea Valley Drive	Agoura Hills	91301
+Medeabrook Place	Agoura Hills	91301
+Medeiros Ln	American Canyon	94503
+Medeiros Rd	Turlock	95382
+Medeiros Way	Sacramento	95829
+Medella Cir	Rancho Murieta	95683
+Meder	Santa Cruz	95060
+Meder Ct	Sacramento	95838
+Medfield Rd	Lafayette	94549
+Medford Av	Manteca	95337
+Medford Ave	Escondido	92027
+Medford Ave	Irvine	92620
+Medford Ave	Manteca	95337
+Medford Ave	North Tustin	92705
+Medford Ave	Redwood City	94061
+Medford Ave	Stratford	93266
+Medford Ave	Tustin	92780
+Medford Ave	Unincorporated Alameda County	94541
+Medford Court	Long Beach	90803
+Medford Ct	Carlsbad	92010
+Medford Ct	Chino	91710
+Medford Ct	Martinez	94553
+Medford Dr	Huntington Beach	92647
+Medford Dr	Huntington Beach	92647-2416
+Medford Dr	Huntington Beach	92647-2417
+Medford Dr	Huntington Beach	92647-2418
+Medford Dr	Huntington Beach	92647-2421
+Medford Dr	Huntington Beach	92647-2456
+Medford Dr	Huntington Beach	92647-2457
+Medford Dr	Huntington Beach	92647-2458
+Medford Dr	Los Altos	94024
+Medford Drive	Montebello	90640
+Medford Ln	Modesto	95356
+Medford Pl	Escondido	92027
+Medford Pl	Ful	92835
+Medford Pl	Fullerton	92835
+Medford Pl	Ventura	93004
+Medford Place	Castaic	91384
+Medford Rd	Auberry	93602
+Medford Rd	Temecula	92591
+Medford Road	Pasadena	91107
+Medford St	El Cajon	92020
+Medford St	Fair Oaks	95628
+Medford St	Oceanside	92057
+Medford St	Riverside	92508
+Medford St	Santa Ana	92705
+Medford St	Ventura	93004
+Medford Street	Los Angeles	90033
+Medford Street	Los Angeles	90063
+Medford Way	Apple Valley	92308
+Medford Way	Menifee	92586
+Media Center Drive	Los Angeles	90065
+Media Center Lane	Valencia	91355
+Media Dr	Hinkley	92347
+Media Drive	Los Angeles	90042
+Media Panorama	North Tustin	92705
+Media Pl	Sacramento	95815
+Media Way	Chico	95969
+Media Way	Paradise	95969
+Media Way	San Jose	95125
+Median Ave	City Of Shasta Lake	96019
+Median Way	Mill Valley	94941
+Mediar Ct	San Ramon	94582
+Mediar Dr	San Ramon	94582
+Mediation Ln	Lakeshore	93634
+Mediatrice Ln	San Diego	92129
+Medica Rd	Santa Rosa	95405
+Medical Canter Ct	Chula Vista	91911
+Medical Center	Perris	92571
+Medical Center Ave	Perris	92571
+Medical Center Ct	Chula Vista	91911
+Medical Center Dr	Chula Vista	91911
+Medical Center Dr	La Jolla	92037
+Medical Center Dr	Murrieta	92562
+Medical Center Dr	Perris	92571
+Medical Center Dr	Rohnert Park	94928
+Medical Center Dr	San Bernardino	92411
+Medical Center Drive	Palmdale	93551
+Medical Center Drive	West Hills	91307
+Medical Center Rd	Mission Viejo	92691
+Medical Center Rd	Perris	92571
+Medical Plaza	Los Angeles	90024
+Medical Plaza Cir	Novato	94947
+Medical Plaza Dr	Irvine	92617
+Medical Pz	Roseville	95661
+Medical Pz Ste 100	Roseville	95661
+Medical Pz Ste 110	Roseville	95661
+Medical Pz Ste 111	Roseville	95661
+Medical Pz Ste 120	Roseville	95661
+Medical Pz Ste 130	Roseville	95661
+Medical Pz Ste 140	Roseville	95661
+Medical Pz Ste 150	Roseville	95661
+Medical Pz Ste 160	Roseville	95661
+Medical Pz Ste 170	Roseville	95661
+Medical Pz Ste 180	Roseville	95661
+Medical Pz Ste 190	Roseville	95661
+Medical Pz Ste 200	Roseville	95661
+Medical Pz Ste 205	Roseville	95661
+Medical Pz Ste 210	Roseville	95661
+Medical Pz Ste 215	Roseville	95661
+Medical Pz Ste 270	Roseville	95661
+Medical Pz Ste 280	Roseville	95661
+Medical Pz Ste 290	Roseville	95661
+Medical Pz Ste 300	Roseville	95661
+Medical Sciences Quad	Irvine	92617
+Medici	Aliso Viejo	92656
+Medici Aisle	Irvine	92606
+Medici Court	Newhall	91321
+Medici Ct	Elk Grove	95757
+Medici Ct	Stockton	95207
+Medici Lane	Inglewood	90305
+Medici Way	Oceanside	92056
+Medicine Bow Cir	Indian Wells	92210
+Medicine Bow Ct	Thousand Oaks	91362
+Medicine Bow Ct	Victorville	92394
+Medicine Bow Dr	Modesto	95355
+Medicine Man Way	Big Bear Lake	92315
+Medicine Mans Pl	Big Bear Lake	92315
+Medicine Mountain Ct	Antioch	94531
+Medicine Way	Ukiah	 
+Medicus Ct	Cupertino	95014
+Medieval Street	Merced	95341
+Medill Ave	El Cajon	92021
+Medill Place	Los Angeles	90064
+Medina	La Quinta	92253
+Medina	Mission Viejo	92692
+Medina Ave	Coachella	92236
+Medina Ave	Simi Valley	93063
+Medina Court	El Monte	91731
+Medina Court	Fairfield	94533
+Medina Ct	Cupertino	95014
+Medina Ct	La Grange	95329
+Medina Ct	Murrieta	92562
+Medina Ct	Palm Springs	92264
+Medina Dr	Garden Grove	92840
+Medina Dr	Pacheco	94553
+Medina Dr	Palm Desert	92260
+Medina Dr	San Bruno	94066
+Medina Dr	San Diego	92145
+Medina Dr	Santee	92071
+Medina Drive	Pacheco	94553
+Medina Drive	Woodland Hills	91364
+Medina Estates Drive	Woodland Hills	91364
+Medina Glen	Escondido	92026
+Medina Ln	Bakersfield	93306
+Medina Ln	Cupertino	94015
+Medina Ln	Cupertino	95014
+Medina Road	Woodland Hills	91364
+Medina Street	Pomona	91768
+Medina Way	Newport Beach	92661
+Medina Way	North Highlands	95660
+Medina Way	Rancho Mirage	92270
+Medinac Ln	Seal Beach	90740
+Medinah	La Quinta	92253
+Medinah Cir	Upland	91784
+Medinah Ct	Hayward	94544
+Medinah Ct	Modesto	95355
+Medinah Ct	Roseville	95678
+Medinah Ct	San Ramon	94583
+Medinah Dr	Indio	92201
+Medinah Ln	Laguna Niguel	92677
+Medinah Ln	Vandenberg Village	93436
+Medinah Pl	San Ramon	94583
+Medinah Rd	San Marcos	92069
+Medinah St	Fontana	92336
+Medinah St	Hayward	94544
+Medinah Way	Hollister	95023
+Medinah Way	Modesto	95355
+Medinah Way	Moreno Valley	92555
+Medinah Way	Temecula	92591
+Medio Ave	El Granada	94019
+Medio Ave	Half Moon Bay	94019
+Medio Ave	Other	94019
+Medio Luna Ave	Bakersfield	93306
+Medio Rd	Santa Barbara	93103
+Medio St	San Diego	92114
+Mediros Ln	Clearlake	95422
+Meditation Pl	Milpitas	95035
+Mediterra Cir	Winchester	92596
+Mediterranean	Ceres	95351
+Mediterranean	Palm Desert	92211
+Mediterranean Ave	Hayward	94544
+Mediterranean Ave	Salton City	92274
+Mediterranean Avenue	Delhi	95315
+Mediterranean Dr	Dana Point	92629
+Mediterranean Dr	Huntington Beach	92646
+Mediterranean Dr	Huntington Beach	92646-4636
+Mediterranean Dr	Huntington Beach	92646-4637
+Mediterranean Dr	Huntington Beach	92646-4638
+Mediterranean Dr	Huntington Beach	92646-4639
+Mediterranean Dr	Huntington Beach	92646-4641
+Mediterranean Dr	Moreno Valley	92551
+Mediterranean Dr	Rancho Cucamonga	91739
+Mediterranean Ln	Redwood City	94065
+Mediterranean Way	Sacramento	95826
+Mediterraneo Pl	Brentwood	94513
+Mediterraneo Way	Brentwood	94513
+Mediterranian Ave	Salton City	92274
+Medjool Ave	Palm Desert	92211
+Medlar	Irvine	92618
+Medlar Dr	Hayward	94544
+Medlar Drive	Valencia	91354
+Medlar Ln	Chino Hills	91709
+Medlar Rd	Tustin	92780
+Medlar St	Yucaipa	92399
+Medlar Way	Pomona	91766
+Medley Ct	San Jose	95121
+Medley Dr	San Jose	95121
+Medley Drive	Encino	91316
+Medley Lane	Topanga	90290
+Medley Ln	Escondido	92027
+Medley Ln	Fontana	92336
+Medley Ln	Oroville	95966
+Medley Place	Encino	91316
+Medley Ranch Rd	Tollhouse	93667
+Medley Ridge Drive	Canyon Country	91387
+Medlin Rd	Newman	95360
+Medlow Ave	Hesperia	92344
+Medlow Ave	Oak Hills	92344
+Medlow Avenue	Los Angeles	90041
+Medlow Avenue	Los Angeles	90065
+Medlyn Ln	Alamo	94507
+Medoc	Rancho Mirage	92270
+Medoc Cir	San Jacinto	92583
+Medoc Ct	Brentwood	94513
+Medoc Ct	Mountain View	94043
+Medoc Ct	San Diego	92131
+Medoc Dr	Winchester	92596
+Medoc Ln	San Diego	92131
+Medoc Way	Elk Grove	95624
+Medora Dr	North Highlands	95660
+Medora Pl	Westminster	92683
+Medovale Ln	Redding	96002
+Medra	Mission Viejo	92691
+Medstead Way	Elk Grove	95758
+Medusa Way	Sacramento	95864
+Medved Ln	Sebastopol	95472
+Medway Avenue	Lancaster	93536
+Medway Rd	Redwood City	94062
+Medway Rd	San Anselmo	94960
+Medway Rd	San Rafael	94901
+Medway Rd	Woodside	94062
+Medway St	Indio	92203
+Medwick Ln	Pla	92870
+Medwick Ln	Placentia	92870
+Medwin Ct	San Jose	95148

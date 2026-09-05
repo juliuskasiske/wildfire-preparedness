@@ -1,0 +1,26 @@
+47Th	Capitola	95010
+47Th Ave	Coachella	92236
+47Th Ave	Sacramento	95822
+47Th Ave	Sacramento	95824
+47Th Ave	Sacramento	95831
+47Th Ave	San Francisco	94116
+47Th Ave	San Francisco	94121
+47Th Ave	San Francisco	94122
+47Th St	Emeryville	94608
+47Th St	Newport Beach	92663
+47Th St	Sacramento	95819
+47Th St	Sacramento	95820
+47Th St	Sacramento	95823
+47Th St	San Diego	92102
+47Th St	San Diego	92105
+47Th St	San Diego	92113
+47Th St	San Diego	92115
+47Th St S	San Diego	92113
+47Th Street	Long Beach	90805
+47Th Street	Los Angeles	90011
+47Th Street	Los Angeles	90037
+47Th Street	Los Angeles	90062
+47Th Street	Palmdale	93552
+47Th Street East	Lancaster	93535
+47Th Street East	Palmdale	93552
+47Th Street West	Lancaster	93536

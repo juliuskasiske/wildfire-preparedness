@@ -1,0 +1,530 @@
+N R Ave	National City	91950
+N R St	Lompoc	93436
+N R St	Madera	93637
+N Rabe Ave	Fresno	93727
+N Rachel Dr	Oxnard	93030
+N Radec Ct	Villa Park	92867
+N Rafael Ave	Fresno	93711
+N Rafael Ave	Fresno	93722
+N Ragan Cir	Villa Park	92867
+N Railroad	Calipatria	92233
+N Railroad Av	Santa Maria	93458
+N Railroad Ave	Calipatria	92223
+N Railroad Ave	Calipatria	92233
+N Railroad Ave	San Mateo	94401
+N Railroad Ave	Santa Maria	93455
+N Railroad Ave	Santa Maria	93458
+N Rainbow Glen Rd	Fallbrook	92028
+N Rainier Av	Stockton	95204
+N Rainwood Cir	Anaheim	92807
+N Raisin St	Biola	93606
+N Raisina St	Fresno	93710
+N Raisina St	Fresno	93720
+N Raitt St	Santa Ana	92703
+N Raleigh Dr	Fresno	93727
+N Raleigh St	Anaheim	92801
+N Ralorama St	Ventura	93001
+N Ralph Rd	Lake Elsinore	92530
+N Ralston St	Anaheim	92801
+N Rama St	Orange	92867
+N Rama St	Villa Park	92867
+N Ramona Ave	Corona	92879
+N Ramona Ave	San Bernardino	92411
+N Ramona Ave	San Jacinto	92583
+N Ramona Blvd	San Jacinto	92582
+N Ramona Blvd	San Jacinto	92583
+N Ramona Dr	Perris	92571
+N Ramona St	Hemet	92543
+N Ramona St	Orange	92865
+N Rampart St	Orange	92868
+N Ramsey Av	Stockton	95215
+N Ranch Ct	Visalia	93291
+N Ranch St	Santa Maria	93454
+N Ranch St	Visalia	93291
+N Ranch Wood Trl	Orange	92869
+N Ranchford Ct	Concord	94520
+N Ranchito St	Anaheim	92801
+N Rancho Amigos Rd	Bonsall	92003
+N Rancho Ave	Colton	92324
+N Rancho Ave	San Bernardino	92410
+N Rancho Ct	Pinole	94564
+N Rancho Del Rey Pkwy	Chula Vista	91910
+N Rancho Del Rey Pky	Chula Vista	91910
+N Rancho Pl	El Sobrante	94803
+N Rancho Pl	Pinole	94564
+N Rancho Rd	El Sobrante	94803
+N Rancho Rd	Thousand Oaks	91362
+N Rancho Santa Fe Rd	Encinitas	92024
+N Rancho Santa Fe Rd	Rancho Santa Fe	92067
+N Rancho Santa Fe Rd	San Marcos	92069
+N Rancho Santiago Bl	Orange	92869
+N Rancho Santiago Blvd	Orange	92869
+N Ranchroad Dr	Orange	 
+N Ranchroad Dr	Orange	92869
+N Ranchview Dr	Orange	92865
+N Randall Aly	San Bernardino	92410
+N Randall Ave	Colton	92324
+N Randall St	Orange	92869
+N Randolph Ave	Bre	92821
+N Randolph Ave	Brea	92821
+N Range View Dr	Fresno	93730
+N Ranier Way	Hanford	93230
+N Raptor Ridge Trl	Templeton	93465
+N Raquel Ct	San Bernardino	92407
+N Ravenna St	Anaheim	92801
+N Ravina Curv	Upland	91784
+N Ravine Ln	Fair Oaks	95628
+N Ray Rd	Lodi	95242
+N Raymond Ave	Anaheim	92801
+N Raymond Ave	Fullerton	92831
+N Raymond Ct	Ontario	91764
+N Raymond Rd	Hanford	93230
+N Rd	Cupertino	95014
+N Rd	Cupertino	95014-0311
+N Rd	Cupertino	95014-0312
+N Rd	Cupertino	95014-0313
+N Rd	Cupertino	95014-0316
+N Rd	Cupertino	95014-0317
+N Rd	Cupertino	95014-0318
+N Rd	Cupertino	95014-0319
+N Rd	Cupertino	95014-0320
+N Rd	Cupertino	95014-0321
+N Rd	Cupertino	95014-0322
+N Rd	Cupertino	95014-0323
+N Rd	Cupertino	95014-0324
+N Rd	Cupertino	95014-0325
+N Rd	Cupertino	95014-0326
+N Rd	Cupertino	95014-0327
+N Rd	Cupertino	95014-0328
+N Rd	Cupertino	95014-0329
+N Rd	Cupertino	95014-0330
+N Rd	Cupertino	95014-0331
+N Rd	Cupertino	95014-0332
+N Rd	Cupertino	95014-0333
+N Rd	Cupertino	95014-0334
+N Rd	Cupertino	95014-0335
+N Rd	Cupertino	95014-0336
+N Rd	Cupertino	95014-0337
+N Rd	Cupertino	95014-0338
+N Rd	Cupertino	95014-0339
+N Rd	Cupertino	95014-0351
+N Rd	Cupertino	95014-0460
+N Rd	Cupertino	95014-0461
+N Rd	Cupertino	95014-2500
+N Rd	Cupertino	95014-2510
+N Rd	Cupertino	95014-2511
+N Rd	Cupertino	95014-2512
+N Rd	Cupertino	95014-2513
+N Rd	Cupertino	95014-2514
+N Rd	Cupertino	95014-2516
+N Rd	Cupertino	95014-2518
+N Rd	Cupertino	95014-2520
+N Rd	Cupertino	95014-2523
+N Rd	Cupertino	95014-2528
+N Rd	Cupertino	95014-2529
+N Rd	Cupertino	95014-253
+N Rd	Cupertino	95014-2531
+N Rd	Cupertino	95014-2532
+N Rd	Cupertino	95014-2533
+N Rd	Cupertino	95014-2534
+N Rd	Cupertino	95014-2535
+N Rd	Cupertino	95014-2538
+N Rd	Cupertino	95014-2544
+N Rd	Cupertino	95014-2546
+N Rd	Cupertino	95014-2549
+N Rd	Cupertino	95014-2561
+N Rd	Cupertino	95014-2562
+N Rd	Cupertino	95014-2568
+N Rd	Cupertino	95014-2585
+N Rd	Cupertino	95014-2588
+N Rd	Cupertino	95014-2589
+N Rd	Cupertino	95014-2590
+N Rd	Cupertino	95014-2592
+N Rd	Cupertino	95014-2593
+N Rd	Cupertino	95014-2594
+N Rd	Cupertino	95014-8500
+N Rd	Cupertino	95014-8503
+N Rd	Cupertino	95014-8505
+N Rd	Cupertino	95014-8507
+N Rd	Cupertino	95014-8508
+N Rd	Cupertino	95014-8510
+N Rd	Cupertino	95014-8512
+N Rd	Cupertino	95104
+N Rd St	Burbank	91502
+N Rd St	Burbank	91504
+N Rd St Pointaddress	Burbank	91504
+N Read Rd	Moorpark	93021
+N Recreation Ave	Fresno	93702
+N Recreation Ave	Fresno	93703
+N Recreation Ave	Fresno	93710
+N Recreation Ave	Fresno	93720
+N Recreation Ave	Fresno	93726
+N Recreation Ave	Fresno	93730
+N Rector Way	Fresno	93737
+N Red Gum St	Anaheim	92806
+N Red Knot St	Carlsbad	92011
+N Red Lion Dr	Fresno	93720
+N Red Maple Ct	Concord	94521
+N Red Oak Dr	Porterville	93257
+N Red Oak St	Porterville	93257
+N Red Oak Way	Porterville	93257
+N Red Robin St	Orange	92869
+N Redda Rd	Fresno	93737
+N Redding Way	Upland	91784
+N Redding Way	Upland	91786
+N Redgrove Way	Upland	91784
+N Redhaven Dr	Fresno	93727
+N Redhill North Dr	Upland	91786
+N Redington St	Hanford	93230
+N Redlands Ave	Colton	92324
+N Redlands Ave	Perris	92571
+N Redondo Ave	Camarillo	93012
+N Redondo Cir	Camarillo	93012
+N Redondo Dr	Anaheim	92801
+N Redondo Dr	Oceanside	92057
+N Redondo Dr E	Anaheim	92801
+N Redondo Dr W	Anaheim	92801
+N Redondo St	Porterville	93257
+N Redrock St	Anaheim	92807
+N Redtail Dr	Bre	92823
+N Redtail Rd	Acampo	95220
+N Redwood Av	Stockton	95205
+N Redwood Ave	Rialto	92377
+N Redwood Ave	San Jose	95128
+N Redwood Ave	Upland	91786
+N Redwood Dr	Palm Springs	92262
+N Redwood Dr	San Rafael	94903
+N Redwood Pl	Anaheim	92806
+N Redwood St	San Bernardino	92407
+N Redwood Way	Upland	91784
+N Redwood Way	Upland	91786
+N Reed Ave	Fresno	93723
+N Reed Ave	Reedley	93654
+N Reed Cir	Corona	92879
+N Reedy Ave	Highland	92346
+N Reese Ave	Fresno	93722
+N Reese Pl	Burbank	91504
+N Reese Pl	Burbank	91506
+N Refinement Dr	Fresno	93711
+N Refugio Rd	Ballard	93460
+N Refugio Rd	Santa Barbara Unincorporated	93460
+N Refugio Rd	Santa Ynez	93460
+N Refugio Rd	Santa Ynez	93463
+N Regency Dr	Palm Springs	92264
+N Regina St	Visalia	93292
+N Reino Rd	Thousand Oaks	91320
+N Reinway Ave	Waterford	95386
+N Reiser Ct	Anaheim	92801
+N Relajante Way	Fresno	93730
+N Rembrandt Cir	Orange	92867
+N Remington Ave	Fresno	93704
+N Remington Ave	Fresno	93711
+N Rena St	Arroyo Grande	93420
+N Renee St	Orange	92869
+N Rengstorff Ave	Mountain View	94043
+N Rengstorff Rd	Mountain View	94043
+N Renn Ave	Fresno	93727
+N Report Av	Stockton	95205
+N Republic Wy	Lodi	95242
+N Reservation Rd	Porterville	93257
+N Resh Pl	Anaheim	92805
+N Resh St	Anaheim	92805
+N Residence Club Dr	La Quinta	92253
+N Reubens Cir	Orange	92867
+N Revere Ave	San Bernardino	92407
+N Rexford St	Colton	92324
+N Reynoso Pkwy	Bre	92821
+N Rhode Island Av	Stockton	95205
+N Rhone Ave	Highland	92346
+N Rialto Ave	Colton	92324
+N Rice Ave	Oxnard	93030
+N Rice Ave	Oxnard	93036
+N Rice Rd	Fresno	93730
+N Rice Rd	Ojai	93023
+N Ricewood Ave	Fresno	93705
+N Ricewood Ave	Fresno	93711
+N Richard St	Orange	92869
+N Richelle Ave	Fresno	93720
+N Richfield Rd	Ana	92807
+N Richfield Rd	Anaheim	92807
+N Richman Ave	Fullerton	92832
+N Richman Ave	Fullerton	92835
+N Richman Knls	Fullerton	92835
+N Richmond Ave	Hanford	93230
+N Richmond Rd	Santa Paula	93060
+N Richmond St	Santa Ana	92705
+N Richmont Dr	Anaheim	92801
+N Rick St	Orange	92869
+N Ridge Dr	Fallbrook	92028
+N Ridge Dr	Idyllwild	92549
+N Ridge Park Ln	Orange	92867
+N Ridge View Dr	Orcutt	93454
+N Ridge View Dr	Orcutt	93455
+N Ridge View Dr	Santa Maria	93454
+N Ridge View Dr	Santa Maria	93455
+N Ridgecrest Ln	Orange	92867
+N Ridgecrest Ln	Somis	93066
+N Ridgeline Ave	San Bernardino	92407
+N Ridgeline Rd	Orange	92869
+N Ridgemont Ct	Upland	91784
+N Ridgemont Way	Upland	91784
+N Ridgepark Ln	Orange	92867
+N Ridgeside Dr	Riverside	92506
+N Ridgeview Ave	Fresno	93711
+N Ridgeview Cir	Palm Springs	92264
+N Ridgeview Rd	Highland	92346
+N Ridgeview Rd	Villa Park	92867
+N Ridgeway Dr	Fresno	93730
+N Ridgeway St	Anaheim	92801
+N Ridgewood Rd	Kentfield	94904
+N Ridgewood St	Orange	92865
+N Ridgewood St	Santa Ana	92705
+N Riesling Ave	Hanford	93230
+N Righter Cir	Santa Ana	92705
+N Rigsby St	La Habra	90631
+N Riley St	Lake Elsinore	92530
+N Riley Way	Orange	92865
+N Rim Way	Rancho Cucamonga	91739
+N Rinaldi Ct	Visalia	93291
+N Rinaldi St	Visalia	93291
+N Ring Ave	Fresno	93723
+N Ringwood	Simi Valley	93063
+N Ringwood St	Simi Valley	93063
+N Rio Blanco Rd	Lodi	95242
+N Rio Blanco Rd	Stockton	95219
+N Rio Linda Ave	Fresno	93711
+N Rio Verde St	Woodbridge	95258
+N Rio Vis	Brawley	92227
+N Rio Vista	Anaheim	92806
+N Rio Vista	Sanger	93667
+N Rio Vista Ave	Brawley	92227
+N Rio Vista Ave	Sanger	93657
+N Rio Vista Ct	Visalia	93292
+N Rio Vista Rd	Brawley	92227
+N Rio Vista St	Anaheim	92806
+N Rio Vista St	Brawley	92227
+N Rios Ave	Solana Beach	92075
+N Ripon Rd	Ripon	95366
+N Rippling Creek Dr	Orange	92865
+N Rita Ct	Upland	91784
+N Rittenhouse Ln	Fresno	93720
+N Ritz Rd	Acampo	95220
+N River Birch Cir	Orange	92869
+N River Cir	Oceanside	92057
+N River Lane	Walker	96107
+N River Mist Cir	Orange	92865
+N River Rd	Bonsall	92003
+N River Rd	Oceanside	92054
+N River Rd	Oceanside	92057
+N River Rd	Oceanside	92058
+N River Rd	Paso Robles	93446
+N River Rd	San Miguel	93451
+N River Rock Ct	Santa Maria	93454
+N River Rock Way	Clovis	93619
+N River St	San Jose	95110
+N River Trail Rd	Orange	92865
+N River Way	Sacramento	95864
+N Riverbend Ave	Sanger	93657
+N Riverine Ave	Santa Ana	92701
+N Rivermist Ct	Hanford	93230
+N Rivers Edge Rd	Fresno	93711
+N Riverside Ave	Colton	92324
+N Riverside Ave	Rialto	92376
+N Riverside Ave	Rialto	92377
+N Riverside Dr	Fresno	93722
+N Riverside Dr	Modesto	95354
+N Riverside Dr	Palm Springs	92264
+N Riverside Dr	Santa Ana	92706
+N Riverton Dr	Santa Maria	93458
+N Riverview Ave	Reedley	93654
+N Riverview Dr	Ana	92808
+N Riverview Dr	Anaheim	92808
+N Riviera	Tustin	92782
+N Riviera St	Anaheim	92801
+N Roadrunner Ct	Highland	92346
+N Roanne Pl	Anaheim	92801
+N Roanne St	Anaheim	92801
+N Roanoke St	La Habra	90631
+N Rob Way	Anaheim	92801
+N Roberds Ave	San Bernardino	92405
+N Roberds Ave	San Bernardino	92411
+N Roberge	Banning	92220
+N Roberge Ave	Banning	92220
+N Robert Ct	Bre	92821
+N Roberta Ct	Colton	92324
+N Roberta Way	Porterville	93257
+N Roberto Dr	Palm Springs	92262
+N Roberts St	Highland	92346
+N Robin Hood Cir	Villa Park	92867
+N Robin Ln	San Bernardino	92407
+N Robin Ln	Stockton	95212
+N Robin Privado	Ontario	91764
+N Robin Rd	San Bernardino	92407
+N Robin St	Anaheim	92801
+N Robinhood Pl	Orange	92867
+N Robins Pl	Bre	92823
+N Robinwood Ct	Moorpark	93021
+N Robiolo Ln	Mh	95391
+N Robwood Cir	Ana	92807
+N Robwood Cir	Anaheim	92807
+N Roca Ave	Thousand Oaks	91360
+N Roche St	Porterville	93257
+N Rochester Ave	Ontario	91764
+N Rochester Dr	Orange	92867
+N Rochester St	San Mateo	94401
+N Rock Creek Ln	Anaheim	92807
+N Rockaway Rd	Oak View	93022
+N Rockdale Ave	Simi Valley	93063
+N Rockford Ave	Highland	92346
+N Rockhurst Dr	Orange	92869
+N Rocklite Rd	Ventura	93001
+N Rockridge Cir	Orange	92867
+N Rockridge Pl	Orange	92867
+N Rockridge St	Mh	95391
+N Rockrose Ln	Oak Park	91377
+N Rocky Rd	Meadow Vista	95722
+N Rocky Rd	Upland	91784
+N Rodeo Cir	Orange	92869
+N Rodeo Rd	Palm Springs	92262
+N Rodgers Rd	Hanford	93230
+N Rodney Ave	Fresno	93722
+N Roeben Ct	Visalia	93291
+N Roeben Dr	Visalia	93291
+N Roeben St	Visalia	93291
+N Roemer Pl	Santa Maria	93454
+N Rogers Ct	Bre	92821
+N Rogers Ln	San Bernardino	92404
+N Rogers Rd	Spring Valley	91977
+N Rolinda Ave	Fresno	93722
+N Rolinda Ave	Fresno	93723
+N Rolling Knoll Dr	Palm Desert	92260
+N Rollings	Thousand Oaks	91360
+N Rollings Ave	Thousand Oaks	91360
+N Rollins Rd	Chatsworth	91311
+N Rollins Rd	Millbrae	94030
+N Romagna Ln	Mh	95391
+N Romeo Ln	Fresno	93711
+N Rond Rd	Lodi	95242
+N Roni Ln	Ana	92807
+N Roni Ln	Anaheim	92807
+N Rono Ct	Visalia	93291
+N Rono St	Visalia	93291
+N Roosevelt	Oxnard	93030
+N Roosevelt Ave	Fresno	93701
+N Roosevelt Ave	Fresno	93704
+N Roosevelt Ave	Fresno	93728
+N Roosevelt Ave	Fullerton	92832
+N Roosevelt Ave	Oxnard	93030
+N Roosevelt Dr	Porterville	93257
+N Roosevelt St	Escondido	92027
+N Roripaugh Valley Rd	Temecula	92591
+N Rory	Simi Valley	93063
+N Rory Ln	Simi Valley	93063
+N Rosalia Ave	Fresno	93722
+N Rosalia Ave	Fresno	93723
+N Rosalind Ave	Rialto	92376
+N Rosalind Dr	Santa Maria	93458
+N Rosalind St	Rialto	92376
+N Rosalind St	San Bernardino	92376
+N Roscoe St	Bre	92821
+N Roscoe St	La Habra	90631
+N Rose Arbor Ct	Redlands	92374
+N Rose Av	Oxnard	93036
+N Rose Ave	Oxnard	93030
+N Rose Ave	Oxnard	93036
+N Rose Ave	Palm Springs	92262
+N Rose Ave	Somis	93066
+N Rose Blossom Ln	Anaheim	92807
+N Rose Dr	Bre	92823
+N Rose Dr	Pla	92870
+N Rose Dr	Placentia	92870
+N Rose Dr	Ybl	 
+N Rose Dr	Ybl	92886
+N Rose Ln	Porterville	93257
+N Rose St	Anaheim	92805
+N Rose St	Burbank	91505
+N Rose St	Escondido	92027
+N Rose St	Lodi	95240
+N Rose St	Porterville	93257
+N Roseburg Ct	Visalia	93291
+N Rosedale Curv E	Upland	91784
+N Rosedale Curv W	Upland	91784
+N Rosehedge Ln	Oak Park	91377
+N Roselawn Ave	Turlock	95380
+N Rosemary Ln	Burbank	91505
+N Rosemary Way	Upland	91786
+N Rosemere St	Orange	92867
+N Rosemont Pl	Mh	95391
+N Rosemont St	Anaheim	92805
+N Rosemont St	Pla	92870
+N Rosendo Ave	Fresno	93722
+N Rosewood Ave	Camarillo	93010
+N Rosewood Ave	Santa Ana	92706
+N Rosewood Pl	Anaheim	92805
+N Rosewood Way	Upland	91784
+N Rosewood Wy	Woodbridge	95258
+N Rosita Ct	Pacifica	94044
+N Rosita St	Santa Ana	92703
+N Ross St	Santa Ana	92701
+N Ross St	Santa Ana	92706
+N Rossmoor Ct	Visalia	93291
+N Rossmoor St	Visalia	93291
+N Roswell St	Santa Ana	92705
+N Roth Ln	Orange	92869
+N Roundtree Ct	Bre	92821
+N Roundtree Ln	Anaheim	92801
+N Roundup Cir	Thousand Oaks	91360
+N Rous Ln	Lodi	95240
+N Rova Ct	Visalia	93291
+N Rova St	Visalia	93291
+N Rowell Ave	Fresno	93702
+N Rowell Ave	Fresno	93703
+N Rowell Ave	Fresno	93710
+N Rowell Ave	Fresno	93720
+N Rowell Ave	Fresno	93726
+N Rowell Ave	Fresno	93730
+N Rowell Rd	Chatsworth	91311
+N Rowland Ave	Camarillo	93010
+N Roxanne St	Anaheim	92807
+N Roxboro St	Anaheim	92805
+N Roxbury Dr	San Bernardino	92404
+N Roxbury St	Orange	92867
+N Royal Ct	San Jose	95127
+N Royal Links Cir	Antioch	94509
+N Royal Pl	Anaheim	92806
+N Royal Rd	Lodi	95242
+N Royal St	Anaheim	92806
+N Rubel Dr	Bre	92821
+N Rubel Dr	Brea	92821
+N Ruby Ct	Upland	91784
+N Rudder Ave	Port Hueneme	93041
+N Ruff Av	Stockton	95212
+N Rugby Way	Upland	91786
+N Rumi Ave	Fresno	93722
+N Rumi Ave	Fresno	93723
+N Ruotolo Ln	Lodi	95240
+N Ruscitto Ln	Placentia	92870
+N Rushmore Dr	Fresno	93730
+N Rushmore St	Orange	92867
+N Russ	King City	93930
+N Russ Avenue	King City	93930
+N Russell Av	Santa Maria	93458
+N Russell Ave	Firebaugh	93622
+N Russell Ave	Santa Maria	93458
+N Russell Dr	Orange	92867
+N Russell St	La Habra	90631
+N Russell St	Lakeport	95453
+N Rustic Gate Way	Orange	92867
+N Rustic Rd	Escondido	92025
+N Ruth St	Porterville	93257
+N Rutherford St	Anaheim	92806
+N Ryan Cir	Villa Park	92867
+N Ryan Ln	San Bernardino	92407
+N Ryan Rd	Creston	93432
+N Ryan Rd	Paso Robles	93446
+N Ryan Ter	Porterville	93257
+N Ryan Way	Upland	91784
+N Ryburn Wy	Linden	95236
+N Ryde Av	Stockton	95204
+N Ryerson Ct	Simi Valley	93065
+N Rynerson Ct	Simi Valley	93065

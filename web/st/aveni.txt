@@ -1,0 +1,1342 @@
+Avenida Abajo	El Cajon	92020
+Avenida Abeja	San Marcos	92069
+Avenida Abetos	San Jose	95123
+Avenida Abril	Hemet	92544
+Avenida Abril	Temecula	92592
+Avenida Acacias	Murrieta	92563
+Avenida Acacias Rd	Murrieta	92563
+Avenida Acacias St	Murrieta	92563
+Avenida Acapulco	San Clemente	92672
+Avenida Acaso	Camarillo	93010
+Avenida Acaso	Camarillo	93012
+Avenida Acero	Spring Valley	91977
+Avenida Adobe	Coachella	92236
+Avenida Adobe	Escondido	92029
+Avenida Adobe	San Clemente	92672
+Avenida Adobe	Ybl	92887
+Avenida Adobe	Yorba Linda	92887
+Avenida Aeropuerto	San Juan Capistrano	92675
+Avenida Aguas Calientes	Los Angeles	90040
+Avenida Aguascaliente	Los Angeles	90040
+Avenida Aguascalientes	Los Angeles	90040
+Avenida Aguila	San Marcos	92069
+Avenida Alamar	La Jolla	92037
+Avenida Alamitos	Indio	92201
+Avenida Alba	Chula Vista	91913
+Avenida Albercon	Lake Forest	92630
+Avenida Albercon	Lake Forest	92630-2205
+Avenida Albercon	Lake Forest	92630-2206
+Avenida Alcachofa	San Diego	92128
+Avenida Alcalde	Indio	92203
+Avenida Alcola	Arroyo Grande	93420
+Avenida Alcor	Carlsbad	92009
+Avenida Aldea	Porter Ranch	91326
+Avenida Aleenah	Coachella	92236
+Avenida Alegre	Porter Ranch	91326
+Avenida Algodon	San Clemente	92672
+Avenida Alicante	Palm Desert	92211
+Avenida Aliso Canyon	Indio	92203
+Avenida Almada	Oceanside	92056
+Avenida Almendros	San Jose	95123
+Avenida Alondra	Rancho Santa Fe	92067
+Avenida Alozdra	San Diego	92128
+Avenida Alta Loma	Desert Hot Springs	92240
+Avenida Alta Mira	Oceanside	92056
+Avenida Altamira	Chula Vista	91914
+Avenida Altamira	Indio	92203
+Avenida Alteras	Rancho Santa Fe	92067
+Avenida Altisima	Rancho Palos Verdes	90275
+Avenida Altura Bella	Beaumont	92223
+Avenida Alturas	Indio	92203
+Avenida Alvarado	La Quinta	92253
+Avenida Alvarado	Placentia	92870
+Avenida Alvarado	Roseville	95747
+Avenida Alvarado	Temecula	92590
+Avenida Alvarado Ave	Temecula	92590
+Avenida Alvarado St	Temecula	92590
+Avenida Alvera	Cathedral City	92234
+Avenida Amadis	Walnut	91789
+Avenida Amantea	La Jolla	92037
+Avenida Amapola	Lake Forest	92630
+Avenida Amapola	Lake Forest	92630-2207
+Avenida Amapola	Lake Forest	92630-2208
+Avenida Amapola	Lake Forest	92630-2209
+Avenida Amapola	Lake Forest	92630-2210
+Avenida Amapola	Lake Forest	92630-2211
+Avenida Amapola	Lake Forest	92630-2212
+Avenida Amaranto	Thousand Oaks	91362
+Avenida Amatista	Rancho Santa Fe	92067
+Avenida Ambiente	Lake Forest	92630
+Avenida Ambiente	Lake Forest	92630-2124
+Avenida Amelgado	Thousand Oaks	91360
+Avenida Amigo	San Marcos	92069
+Avenida Amistad	San Marcos	92069
+Avenida Amistad	Temecula	92592
+Avenida Amorosa	Escondido	92029
+Avenida Anacapa	Carlsbad	92009
+Avenida Anacapa	El Cajon	92019
+Avenida Andante	Oceanside	92056
+Avenida Andanza	Chula Vista	91913
+Avenida Andorra	La Jolla	92037
+Avenida Andra	Palm Desert	92260
+Avenida Angulia	Spring Valley	91977
+Avenida Anillo	Moreno Valley	92555
+Avenida Anillo	Rancho Palos Verdes	90275
+Avenida Anita	Chino Hills	91709
+Avenida Annalie	Valley Center	92082
+Avenida Anselmo	La Quinta	92253
+Avenida Antigua	Fullerton	92833
+Avenida Antigua	Ybl	92887
+Avenida Antigua	Yorba Linda	92887
+Avenida Antonio	Chula Vista	91914
+Avenida Antonovich	Temecula	92591
+Avenida Apice	Rancho Santa Fe	92067
+Avenida Apolinaria	El Cajon	92019
+Avenida Aprenda	Rancho Palos Verdes	90275
+Avenida Aqua	Murrieta	92563
+Avenida Aquila	San Diego	92154
+Avenida Aragon	Carlsbad	92009
+Avenida Aragon	Oceanside	92056
+Avenida Aragon	San Clemente	92672
+Avenida Arana	San Marcos	92069
+Avenida Arboles	Murrieta	92562
+Avenida Arboles	San Jose	95123
+Avenida Arcada	Palm Desert	92260
+Avenida Arconte	Murrieta	92562
+Avenida Arivaca	Mission Viejo	92691
+Avenida Arizona	Temecula	92591
+Avenida Arizona Rd	Temecula	92591
+Avenida Arlena	San Clemente	92672
+Avenida Armada	Winchester	92596
+Avenida Armijo	Laguna Niguel	92677
+Avenida Arriba	El Cajon	92020
+Avenida Arriba	Temecula	92592
+Avenida Arriba Dr	Temecula	92592
+Avenida Arroyo	National City	91950
+Avenida Arroyo Pasajero	Rancho Santa Fe	92067
+Avenida Artana	Chula Vista	91913
+Avenida Arteaga	La Quinta	92253
+Avenida Ascencion	Temecula	92592
+Avenida Ashley	Pacific Palisades	90272
+Avenida Asoleada	Calabasas	91302
+Avenida Atesada	Desert Hot Springs	92240
+Avenida Atezada	Desert Hot Springs	92240
+Avenida Atezada	Redondo Beach	90277
+Avenida Atwater	Indio	92201
+Avenida Augustine	Murrieta	92562
+Avenida Avalon	Laguna Hills	92653
+Avenida Aveiro	San Diego	92128
+Avenida Aviare	Chula Vista	91913
+Avenida Avila	Temecula	92592
+Avenida Avila	Valencia	91354
+Avenida Avilla	Riverside	92503
+Avenida Avilla	San Juan Capistrano	92675
+Avenida Azor	San Clemente	92673
+Avenida Azul	San Marcos	92069
+Avenida Bahia	Indio	92203
+Avenida Baja	Jurupa Valley	92509
+Avenida Baja	San Clemente	92672
+Avenida Balita	Valencia	91355
+Avenida Bancal	Lake Forest	92630
+Avenida Bancal	Lake Forest	92630-2213
+Avenida Bancal	Lake Forest	92630-2214
+Avenida Bancal	Lake Forest	92630-2215
+Avenida Bancal	Lake Forest	92630-2216
+Avenida Barbados	Riverside	92503
+Avenida Barbera	Sonoma	95476
+Avenida Barbosa	Irwindale	91706
+Avenida Barca	Temecula	92591
+Avenida Barcelona	Cerritos	90703
+Avenida Barcelona	San Clemente	92672
+Avenida Barcelona	Ybl	92887
+Avenida Barcelona	Yorba Linda	92887
+Avenida Barona	Desert Hot Springs	92240
+Avenida Barranca	Rancho Santa Fe	92067
+Avenida Begonia	Temecula	92590
+Avenida Belleza	Cathedral City	92234
+Avenida Belleza	Winchester	92596
+Avenida Benito	San Jose	95131
+Avenida Benjamin	La Mesa	91941
+Avenida Bermudas	La Quinta	92253
+Avenida Bernardo	San Dimas	91773
+Avenida Bicicleta	Temecula	92592
+Avenida Bienvenida	Indio	92203
+Avenida Biona	Temecula	92591
+Avenida Bizaro	Murrieta	92562
+Avenida Bizarro	La Jolla	92037
+Avenida Blanca	Indio	92201
+Avenida Blanco	San Marcos	92069
+Avenida Bogota	Temecula	92592
+Avenida Bolero	Indio	92203
+Avenida Bonachon	Mission Viejo	92691
+Avenida Bonita	Murrieta	92562
+Avenida Bonita	Pacoima	91331
+Avenida Bonita	Sonora	95370
+Avenida Bonita N	Sonora	95370
+Avenida Bonita Rd	Murrieta	92562
+Avenida Bordeaux	Temecula	92592
+Avenida Bosque	Murrieta	92562
+Avenida Bosques	Spring Valley	91977
+Avenida Bravura	Temecula	92592
+Avenida Breve	Laguna Niguel	92677
+Avenida Brio	San Clemente	92673
+Avenida Brisa	Rancho Santa Fe	92091
+Avenida Brisa	Temecula	92592
+Avenida Brisa Ct	Chico	95928
+Avenida Buena Suerte	San Clemente	92672
+Avenida Buena Suerte	Temecula	92591
+Avenida Buena Ventura	La Quinta	92253
+Avenida Buena Ventura	San Clemente	92672
+Avenida Buenos Aires	San Clemente	92672
+Avenida Caballeros	Palm Springs	92262
+Avenida Caballeros	San Clemente	92672
+Avenida Cabrillo	Chino Hills	91709
+Avenida Cabrillo	San Clemente	92672
+Avenida Cabrillo	San Juan Capistrano	92675
+Avenida Cadena	Desert Hot Springs	92240
+Avenida Cafe	Camarillo	93012
+Avenida Cala	Rohnert Park	94928
+Avenida Calafia	Oceanside	92057
+Avenida Calafia	Palm Desert	92260
+Avenida Calafia	San Clemente	92672
+Avenida Calandria	Hemet	92545
+Avenida Caleta	Murrieta	92562
+Avenida Calidad	Mission Viejo	92691
+Avenida Calientes	Los Angeles	90040
+Avenida California	San Juan Capistrano	92675
+Avenida Calita	San Juan Capistrano	92675
+Avenida Callada	Calabasas	91302
+Avenida Callecita	San Clemente	92672
+Avenida Calma	Rancho Santa Fe	92091
+Avenida Camarillo	Indio	92203
+Avenida Camelia	Indio	92201
+Avenida Camisa	Roseville	95747
+Avenida Campana	Fallbrook	92028
+Avenida Campana	Newport Beach	92660
+Avenida Campana	Thousand Oaks	91360
+Avenida Campanas	Coachella	92236
+Avenida Campillo	Calexico	92231
+Avenida Campillo Ave	Calexico	92231
+Avenida Campillo Way	Calexico	92231
+Avenida Campo	Newport Beach	92660
+Avenida Canora	Alpine	91901
+Avenida Canora	Oceanside	92057
+Avenida Cantante	Rancho Santa Fe	92067
+Avenida Cantaria	San Diego	92130
+Avenida Capistrano	Colton	92324
+Avenida Cappela	Valencia	91355
+Avenida Caprese	Chula Vista	91913
+Avenida Capri	Dana Point	92629
+Avenida Caprise	Chula Vista	91913
+Avenida Carlos	Newport Beach	92660
+Avenida Carmel	Colton	92324
+Avenida Carmel	Cypress	90630
+Avenida Carmel	Laguna Woods	92637
+Avenida Carmelo	San Clemente	92672
+Avenida Carolinas	Murrieta	92562
+Avenida Carranza	La Quinta	92253
+Avenida Carraza	La Quinta	92253
+Avenida Castana	Carlsbad	92009
+Avenida Castelar	Indio	92203
+Avenida Castilla	Laguna Woods	92637
+Avenida Castilla	Murrieta	92562
+Avenida Castro	Rancho Cucamonga	91730
+Avenida Catarina	Chula Vista	91914
+Avenida Catherina	Spring Valley	91978
+Avenida Caylee	Homeland	92548
+Avenida Cedrus	Coachella	92236
+Avenida Celaya	Indio	92203
+Avenida Celestial	Rancho Palos Verdes	90275
+Avenida Cenit	Rancho Santa Fe	92067
+Avenida Centenario	Temecula	92591
+Avenida Centenario Rd	Temecula	92591
+Avenida Central	La Grange	95329
+Avenida Centro	Chula Vista	91910
+Avenida Cerca	Palm Springs	92262
+Avenida Cereza	Carlsbad	92009
+Avenida Cerritos	Newport Beach	92660
+Avenida Cerrovista	Beaumont	92223
+Avenida Cesar Chavez	Hollister	95023
+Avenida Cesar Chavez	Monterey Park	91754
+Avenida Chagres	Hemet	92544
+Avenida Chamnez	La Jolla	92037
+Avenida Chapala	San Marcos	92069
+Avenida Chapala	Temecula	92592
+Avenida Chelsea	Vista	92081
+Avenida Cherylita	El Cajon	92020
+Avenida Cherylita	Murrieta	92562
+Avenida Chica	Temecula	92592
+Avenida Chico	Newport Beach	92660
+Avenida Chonchita	Murrieta	92562
+Avenida Christina	Carlsbad	92009
+Avenida Cielo	Temecula	92592
+Avenida Cima Del Sol	Temecula	92591
+Avenida Cinco De Mayo	Fountain Valley	92708
+Avenida Circo	San Diego	92124
+Avenida Ciruela	Carlsbad	92009
+Avenida Citron	Chula Vista	91913
+Avenida Classica	Moreno Valley	92551
+Avenida Classica	Oxnard	93030
+Avenida Classica	Palmdale	93551
+Avenida Classica	Rancho Palos Verdes	90275
+Avenida Club	La Quinta	92253
+Avenida Club La Quinta	La Quinta	92253
+Avenida Codorniz	Indian Wells	92210
+Avenida Codorniz	San Marcos	92069
+Avenida Colima	La Quinta	92253
+Avenida Colino	Spring Valley	91977
+Avenida Colonia	Moorpark	93021
+Avenida Colonia Ave	Moorpark	93021
+Avenida Colonias	Indio	92203
+Avenida Columbia	Mission Viejo	92691
+Avenida Columbo	San Clemente	92672
+Avenida Compadres	Chino Hills	91709
+Avenida Conchita	Murrieta	92562
+Avenida Condesa	Cathedral City	92234
+Avenida Consentido	San Diego	92128
+Avenida Contento	Indio	92203
+Avenida Copete	Laguna Hills	92653
+Avenida Cordillera	San Diego	92128
+Avenida Cordoba	Murrieta	92562
+Avenida Cordoba	San Marcos	92069
+Avenida Corona	Dana Point	92629
+Avenida Corona	Rancho Palos Verdes	90275
+Avenida Corrida De Toros	Vacaville	95687
+Avenida Cortez	Bloomington	92316
+Avenida Cortez	Coachella	92236
+Avenida Cortez	La Jolla	92037
+Avenida Cortez	La Quinta	92253
+Avenida Costa Blanca	San Diego	92154
+Avenida Costa Del Sol	San Diego	92154
+Avenida Costa Este	San Diego	92154
+Avenida Costa Norte	San Diego	92154
+Avenida Costa Sur	San Diego	92154
+Avenida Costanso	San Clemente	92672
+Avenida Cota	San Clemente	92672
+Avenida Coyote	Indio	92201
+Avenida Crescenta	San Clemente	92672
+Avenida Crescenta	Valencia	91355
+Avenida Crespi	San Clemente	92672
+Avenida Cresta	La Jolla	92037
+Avenida Cristal	San Clemente	92673
+Avenida Crystal	Coachella	92236
+Avenida Cuaderno	Rancho Palos Verdes	90275
+Avenida Cuatro Vientos	Rancho Santa Fe	92067
+Avenida Cuesta Del Sol	Rancho Santa Fe	92067
+Avenida Cuesta Los Osos	Rancho Santa Fe	92067
+Avenida Cumbre	Calabasas	91302
+Avenida Cumbre	Newport Beach	92660
+Avenida Daniels	Temecula	92590
+Avenida Daroca	Coto De Caza	92679
+Avenida Davina	Indio	92201
+Avenida De Acacias	Rancho Santa Fe	92067
+Avenida De Acacias	Temecula	92592
+Avenida De Amigos	Nipomo	93444
+Avenida De Amor	Ybl	92886
+Avenida De Amor	Yorba Linda	92886
+Avenida De Angelina	Santa Clara	95054
+Avenida De Anita	Carlsbad	92010
+Avenida De Anita	Temecula	92592
+Avenida De Anza	Murrieta	92562
+Avenida De Aprisa	Camarillo	93010
+Avenida De Aquacate	Escondido	92026
+Avenida De Arboles	Murrieta	92562
+Avenida De Arboles Dr	Murrieta	92562
+Avenida De Arboles Rd	Murrieta	92562
+Avenida De Autlan	Camarillo	93010
+Avenida De Avila	Chula Vista	91913
+Avenida De Azalea	Rancho Palos Verdes	90275
+Avenida De Baile	Indio	92203
+Avenida De Benito Juarez	Vista	92083
+Avenida De Calazad	Temecula	92592
+Avenida De Calazada	Temecula	92592
+Avenida De Calma	Moreno Valley	92555
+Avenida De Calma	Rancho Palos Verdes	90275
+Avenida De Camelia	Murrieta	92562
+Avenida De Camelia	Rancho Palos Verdes	90275
+Avenida De Carmen	Santa Clara	95050
+Avenida De Carmen	Santa Clara	95054
+Avenida De Castillo	Long Beach	90803
+Avenida De Cielo	Desert Hot Springs	92240
+Avenida De Circo	Moreno Valley	92555
+Avenida De Cobre	San Jose	95116
+Avenida De Cortez	Menifee	92586
+Avenida De Cortez	Pacific Palisades	90272
+Avenida De Despacio	Ybl	92887
+Avenida De Despacio	Yorba Linda	92887
+Avenida De Diamante	Arroyo Grande	93420
+Avenida De Diego	Palmdale	93552
+Avenida De Elenora	Palm Springs	92262
+Avenida De Encanto	Murrieta	92562
+Avenida De Espuela	Poway	92064
+Avenida De Estrella	Castaic	91384
+Avenida De Felicidad	Murrieta	92562
+Avenida De Fiesta	Menifee	92586
+Avenida De Guadalupe	Santa Clara	95054
+Avenida De Jose	Redondo Beach	90277
+Avenida De Kristine	Ybl	92887
+Avenida De Kristine	Yorba Linda	92887
+Avenida De La Bandolero	Temecula	92592
+Avenida De La Barca	Chula Vista	91910
+Avenida De La Cantina	San Diego	92129
+Avenida De La Carlota	Laguna Hills	92653
+Avenida De La Cruz	San Ysidro	92173
+Avenida De La Cruzada	Ojai	93023
+Avenida De La Encinal	Malibu	90265
+Avenida De La Entrada	Ojai	93023
+Avenida De La Estrella	San Clemente	92672
+Avenida De La Familias	Desert Hot Springs	92240
+Avenida De La Flor	Menifee	92587
+Avenida De La Fuente	San Diego	92154
+Avenida De La Fuente Sur	San Diego	92154
+Avenida De La Grulla	San Clemente	92672
+Avenida De La Herradura	Pacific Palisades	90272
+Avenida De La Luna	Jamul	91935
+Avenida De La Luna	Vista	92083
+Avenida De La Luz	Ybl	92886
+Avenida De La Luz	Yorba Linda	92886
+Avenida De La Madre	Fallbrook	92028
+Avenida De La Madrid	San Ysidro	92173
+Avenida De La Paz	Moreno Valley	92555
+Avenida De La Paz	San Clemente	92672
+Avenida De La Paz	Ybl	 
+Avenida De La Paz	Yorba Linda	92887
+Avenida De La Plata	Laguna Niguel	92677
+Avenida De La Plata	Oceanside	92056
+Avenida De La Plata	Oceanside	92057
+Avenida De La Plata	Thousand Oaks	91320
+Avenida De La Plata #H-1 #H-2	Oceanside	92056
+Avenida De La Playa	La Jolla	92037
+Avenida De La Plaza	Vista	92083
+Avenida De La Plz	Vista	92083
+Avenida De La Reina	Temecula	92592
+Avenida De La Ribera	La Jolla	92037
+Avenida De La Riviera	San Clemente	92672
+Avenida De La Ronda	Rancho Santa Fe	92067
+Avenida De La Rosa	Camarillo	93012
+Avenida De La Suerte	Azusa	91702
+Avenida De La Vereda	Ojai	93023
+Avenida De La Vista	San Juan Capistrano	92675
+Avenida De La Vista Hermosa	Pauma Valley	92061
+Avenida De Lago	Santa Clara	95054
+Avenida De Lamar	Spring Valley	91977
+Avenida De Las Adelsas	Encinitas	92024
+Avenida De Las Arenas	Coronado	92118
+Avenida De Las Banderas	Rancho Santa Margarita	92688
+Avenida De Las Brisas	Santa Rosa	95405
+Avenida De Las Estrell	Ybl	92886
+Avenida De Las Estrellas	Pauma Valley	92061
+Avenida De Las Estrellas	Valley Center	92082
+Avenida De Las Estrellas	Yorba Linda	92886
+Avenida De Las Flores	Chino Hills	91709
+Avenida De Las Flores	Laguna Niguel	92677
+Avenida De Las Flores	Menifee	92587
+Avenida De Las Flores	Rancho Santa Margarita	92688
+Avenida De Las Flores	Santa Clara	95054
+Avenida De Las Flores	Sun City	92587
+Avenida De Las Flores	Thousand Oaks	91360
+Avenida De Las Flores	Thousand Oaks	91362
+Avenida De Las Flores	Ybl	92886
+Avenida De Las Flores	Yorba Linda	92886
+Avenida De Las Lilas	Encinitas	92024
+Avenida De Las Ondas	La Jolla	92037
+Avenida De Las Palmeras	San Clemente	92672
+Avenida De Las Pescas	La Jolla	92037
+Avenida De Las Plantas	Thousand Oaks	91360
+Avenida De Las Rosas	Encinitas	92024
+Avenida De Las Rosas	Santa Clara	95054
+Avenida De Las Vida	Bonsall	92003
+Avenida De Las Vistas	San Diego	92154
+Avenida De Laura	Winchester	92596
+Avenida De Laura Ave	Winchester	92596
+Avenida De Loring	Moreno Valley	92551
+Avenida De Los Alumnos	Santa Clara	95054
+Avenida De Los Arboles	Alpine	91901
+Avenida De Los Arboles	Santa Clara	95050
+Avenida De Los Arboles	Santa Clara	95054
+Avenida De Los Arboles	Thousand Oaks	91360
+Avenida De Los Arboles	Thousand Oaks	91362
+Avenida De Los Arboles	Ybl	92886
+Avenida De Los Arboles	Yorba Linda	92886
+Avenida De Los Arboles Rd	Thousand Oaks	91360
+Avenida De Los Clavele	Encinitas	92024
+Avenida De Los Claveles	Encinitas	92024
+Avenida De Los Flores	Menifee	92587
+Avenida De Los Flores	Thousand Oaks	91360
+Avenida De Los Fundadores	Rancho Santa Margarita	92688
+Avenida De Los Lirios	Encinitas	92024
+Avenida De Los Lobos	San Diego	92127
+Avenida De Los Ninos	Laguna Niguel	92677
+Avenida De Los Olivos	Rancho Santa Fe	92067
+Avenida De Los Padres	Morgan Hill	95037
+Avenida De Los Pinos	Bonsall	92003
+Avenida De Los Posas	Murrieta	92562
+Avenida De Los Ranchos	La Grange	95329
+Avenida De Los Reyes	Ybl	92886
+Avenida De Los Reyes	Yorba Linda	92886
+Avenida De Los Rosas	Santa Clara	95054
+Avenida De Los Suenos	Ybl	92886
+Avenida De Los Suenos	Yorba Linda	92886
+Avenida De Louisa	Murrieta	92562
+Avenida De Loyola	Oceanside	92056
+Avenida De Magnolia	Rancho Palos Verdes	90275
+Avenida De Marcia	Ybl	92887
+Avenida De Marcia	Yorba Linda	92887
+Avenida De Michelle	Ybl	92887
+Avenida De Michelle	Yorba Linda	92887
+Avenida De Mirada	Sylmar	91342
+Avenida De Missiones	Temecula	92592
+Avenida De Missions	Temecula	92592
+Avenida De Monaco	Cardiff	92007
+Avenida De Monaco	Cardiff By The Sea	92007
+Avenida De Musica	Indio	92203
+Avenida De Nog	Fallbrook	92028
+Avenida De Nogales	San Clemente	92672
+Avenida De Nuves	Desert Hot Springs	92240
+Avenida De Olma	Rancho Palos Verdes	90275
+Avenida De Orinda	Orinda	94563
+Avenida De Oro	Calexico	92231
+Avenida De Oro	Coachella	92236
+Avenida De Oro	Jamul	91935
+Avenida De Palais	Carlsbad	92009
+Avenida De Paz	Desert Hot Springs	92240
+Avenida De Pio Pico	Placentia	92870
+Avenida De Plata	Coachella	92236
+Avenida De Plata	Moreno Valley	92551
+Avenida De Platina	Coachella	92236
+Avenida De Portugal	Chino Hills	91709
+Avenida De Portugal	Moreno Valley	92555
+Avenida De Portugal	San Diego	92106
+Avenida De Real	Menifee	92586
+Avenida De Robles Verde	Boulevard	91905
+Avenida De Robles Verdes	Boulevard	91905
+Avenida De Rosa	Rancho Palos Verdes	90275
+Avenida De Royale	Thousand Oaks	91362
+Avenida De San Clemente	Encinitas	92024
+Avenida De San Pasqual	Temecula	92592
+Avenida De Santa Ynez	Pacific Palisades	90272
+Avenida De Sereno	Menifee	92586
+Avenida De Socios	Nipomo	93444
+Avenida De Soledad	Desert Hot Springs	92240
+Avenida De Sonoma	Apple Valley	92307
+Avenida De Sonrisa	Santa Clarita	91350
+Avenida De Sueno	Carlsbad	92009
+Avenida De Suenos	Oceanside	92056
+Avenida De Suerte	San Marcos	92069
+Avenida De Vaca	Placentia	92870
+Avenida De Verdes	San Clemente	92672
+Avenida Debla Reina	Temecula	92592
+Avenida Del Alba	Carlsbad	92009
+Avenida Del Caballo	Laguna Niguel	92677
+Avenida Del Campo	Walnut	91789
+Avenida Del Canada	Rowland Heights	91748
+Avenida Del Charro	El Cajon	92021
+Avenida Del Cielo	Alpine	91901
+Avenida Del Corazo	Moreno Valley	92555
+Avenida Del Corazon	Moreno Valley	92555
+Avenida Del Corro	Coto De Caza	92679
+Avenida Del Corto	Fullerton	92833
+Avenida Del Dia	Oxnard	93030
+Avenida Del Diablo	Escondido	92029
+Avenida Del Diablo	Temecula	92590
+Avenida Del Duque	Rancho Santa Fe	92067
+Avenida Del Duque	Rancho Santa Fe	92091
+Avenida Del Este	Ybl	92886
+Avenida Del Este	Yorba Linda	92886
+Avenida Del Gado	Oceanside	92057
+Avenida Del Gato	San Diego	92126
+Avenida Del General	San Diego	92129
+Avenida Del Las Flores	Menifee	92587
+Avenida Del Luna	Castaic	91384
+Avenida Del Manzano	Camarillo	93010
+Avenida Del Mar	Indio	92201
+Avenida Del Mar	Lancaster	93535
+Avenida Del Mar	Malibu	90265
+Avenida Del Mar	San Clemente	92672
+Avenida Del Mesa	Rancho Palos Verdes	90275
+Avenida Del Mexico	San Diego	92154
+Avenida Del Mexico 252	San Diego	92154
+Avenida Del Monte	Chino Hills	91709
+Avenida Del Mundo	Cathedral City	92234
+Avenida Del Mundo	Coronado	92118
+Avenida Del Norte	Fullerton	92833
+Avenida Del Norte	Redondo Beach	90277
+Avenida Del Norte	Ybl	92886
+Avenida Del Norte	Yorba Linda	92886
+Avenida Del Oceano	El Cajon	92019
+Avenida Del Oro	Coachella	92236
+Avenida Del Oro	Oceanside	92056
+Avenida Del Oro	Temecula	92590
+Avenida Del Oro Rd	Temecula	92590
+Avenida Del Ossa	Fullerton	92833
+Avenida Del Padre	Cathedral City	92234
+Avenida Del Paraiso	Carlsbad	92009
+Avenida Del Parque	Coachella	92236
+Avenida Del Parque	Rancho Santa Fe	92091
+Avenida Del Piero	San Juan Bautista	95045
+Avenida Del Platino	Thousand Oaks	91320
+Avenida Del Poniente	San Clemente	92672
+Avenida Del Prado	Coachella	92236
+Avenida Del Presidente	San Clemente	92672
+Avenida Del Recreo	Ojai	93023
+Avenida Del Reposo	San Clemente	92672
+Avenida Del Reposo	Temecula	92591
+Avenida Del Reposo Ave	Temecula	92591
+Avenida Del Reposo Rd	Temecula	92591
+Avenida Del Rey	Chula Vista	91910
+Avenida Del Rey	Santa Clarita	91390
+Avenida Del Rey	Ybl	92886
+Avenida Del Rey	Yorba Linda	92886
+Avenida Del Rio	Chino Hills	91709
+Avenida Del Rio	Modesto	95356
+Avenida Del Rio	San Jacinto	92582
+Avenida Del Roble	San Jose	95123
+Avenida Del Rosal	San Juan Capistrano	92675
+Avenida Del Rubio	Murrieta	92562
+Avenida Del Sol	Atascadero	93422
+Avenida Del Sol	Bakersfield	93307
+Avenida Del Sol	Castaic	91384
+Avenida Del Sol	Cathedral City	92234
+Avenida Del Sol	Corona	92882
+Avenida Del Sol	Coronado	92118
+Avenida Del Sol	Joshua Tree	92252
+Avenida Del Sol	Laguna Woods	92637
+Avenida Del Sol	Lancaster	93535
+Avenida Del Sol	Palm Desert	92260
+Avenida Del Sol	Porter Ranch	91326
+Avenida Del Sol	Sonora	95370
+Avenida Del Sol	Studio City	91604
+Avenida Del Sol	Temecula	92591
+Avenida Del Sol	Walnut	91789
+Avenida Del Sol E	Sonora	95370
+Avenida Del Tienda	Murrieta	92562
+Avenida Del Tiendas	Murrieta	92562
+Avenida Del Toro	Indio	92203
+Avenida Del Tren	Ybl	92887
+Avenida Del Tren	Yorba Linda	92887
+Avenida Del Verdor	San Clemente	92672
+Avenida Del Vista	Corona	92882
+Avenida Del Yermo	Cathedral City	92234
+Avenida Deleitante	Walnut	91789
+Avenida Delores	Desert Hot Springs	92240
+Avenida Derecho	Bakersfield	93309
+Avenida Descanso	Desert Hot Springs	92240
+Avenida Descanso	Oceanside	92057
+Avenida Descanso	San Juan Capistrano	92675
+Avenida Deseo	Mission Viejo	92691
+Avenida Despacio	Laguna Woods	92637
+Avenida Diaz	La Quinta	92253
+Avenida Diestro	Carlsbad	92009
+Avenida Diosa	Cathedral City	92234
+Avenida Dolores	Desert Hot Springs	92240
+Avenida Dolores	Murrieta	92562
+Avenida Dolores	San Clemente	92672
+Avenida Domingo	Mission Viejo	92691
+Avenida Dominguez	San Clemente	92672
+Avenida Donari	Santa Clarita	91390
+Avenida Dorado	Desert Hot Springs	92240
+Avenida Dorena	Newhall	91321
+Avenida Dr	Berkeley	94708
+Avenida Dulce	Indio	92203
+Avenida Duquesa	Cathedral City	92234
+Avenida Echeveria	Chula Vista	91913
+Avenida El Cid	Ybl	92887
+Avenida El Cid	Yorba Linda	92887
+Avenida El Mundo	Cathedral City	92234
+Avenida El Nido	La Quinta	92253
+Avenida El Pueblo	Cathedral City	92234
+Avenida Elegans	Lake Elsinore	92530
+Avenida Elegante	Rancho Palos Verdes	90275
+Avenida Elena	San Marcos	92069
+Avenida Elenita	Mountain Center	92561
+Avenida Elisa	El Cajon	92019
+Avenida Elisa	San Jose	95131
+Avenida Empresa	Oceanside	92056
+Avenida Empresa	Rancho Santa Margarita	92688
+Avenida Empresa	Riverside	92503
+Avenida Empressa	Oceanside	92056
+Avenida Encanto	Camarillo	93012
+Avenida Encinas	Carlsbad	92008
+Avenida Encinas	Carlsbad	92011
+Avenida Encinas Ave	Carlsbad	92011
+Avenida Encino	Mountain Center	92561
+Avenida Enrique	Temecula	92591
+Avenida Entrada	Palmdale	93551
+Avenida Entrada	San Dimas	91773
+Avenida Entrana	Valencia	91355
+Avenida Escala	Murrieta	92562
+Avenida Escalera	Murrieta	92562
+Avenida Escalera	Valencia	91355
+Avenida Escaya	Chula Vista	91913
+Avenida Escuela	Bakersfield	93306
+Avenida Esmeralda	Indio	92201
+Avenida Espada	San Clemente	92673
+Avenida Espaldar	Moreno Valley	92551
+Avenida Espana	San Jose	95139
+Avenida Esparza	Thousand Palms	92276
+Avenida Esperanza	Encinitas	92024
+Avenida Esperanza	Olivenhain	92024
+Avenida Esplendida	Palmdale	93551
+Avenida Esplendida	Rancho Palos Verdes	90275
+Avenida Esplendor	Walnut	91789
+Avenida Estacion	San Clemente	92672
+Avenida Esteban	Encinitas	92024
+Avenida Estrada	Hemet	92545
+Avenida Estrada	Palm Desert	92260
+Avenida Estrada	Temecula	92591
+Avenida Estrada Rd	Temecula	92591
+Avenida Estrella	Desert Hot Springs	92240
+Avenida Estrella	Indio	92203
+Avenida Estrella	Menifee	92587
+Avenida Estrella	Sun City	92587
+Avenida Estrella Way	Menifee	92587
+Avenida Estuco	Indio	92203
+Avenida Estudiante	Rancho Palos Verdes	90275
+Avenida Europa	Coachella	92236
+Avenida Evelita	Palm Springs	92264
+Avenida Evita	San Juan Capistrano	92675
+Avenida Fabricante	San Clemente	92672
+Avenida Facilitar	Mission Viejo	92691
+Avenida Familias	Desert Hot Springs	92240
+Avenida Farralone	Stinson Beach	94970
+Avenida Fayelynne	Indio	92201
+Avenida Feliciano	Rancho Palos Verdes	90275
+Avenida Felicita	Temecula	92592
+Avenida Feliz	Rancho Santa Fe	92091
+Avenida Fernando	La Quinta	92253
+Avenida Fernando Ave	La Quinta	92253
+Avenida Fernando Dr	La Quinta	92253
+Avenida Fey Norte	Palm Springs	92262
+Avenida Fiesta	La Jolla	92037
+Avenida Fiesta	Moreno Valley	92555
+Avenida Florabunda	Coachella	92236
+Avenida Florencia	Poway	92064
+Avenida Florencia	San Clemente	92672
+Avenida Florencia	Ybl	92887
+Avenida Florencia	Yorba Linda	92887
+Avenida Florencita	Desert Hot Springs	92240
+Avenida Flores	Encinitas	92024
+Avenida Flores	Pacheco	94553
+Avenida Floresta	Lake Forest	92630
+Avenida Floresta	Lake Forest	92630-2217
+Avenida Floresta	Lake Forest	92630-2218
+Avenida Floresta	Lake Forest	92630-2219
+Avenida Floresta	Lake Forest	92630-2220
+Avenida Floresta	Rancho Santa Fe	92067
+Avenida Floribunda	San Jacinto	92583
+Avenida Fortuna	San Clemente	92673
+Avenida Fragata	San Marcos	92069
+Avenida Francesca	Menifee	92585
+Avenida Frasca	Valencia	91355
+Avenida Frasca Dr	Bakersfield	93311
+Avenida Frontera	Oceanside	92057
+Avenida Gabriel	Chula Vista	91914
+Avenida Galeana	Indio	92203
+Avenida Ganso	Goleta	93117
+Avenida Garcia	Indio	92201
+Avenida Garnette	San Jacinto	92583
+Avenida Garza	Goleta	93117
+Avenida Gato	Hemet	92544
+Avenida Gaviota	Camarillo	93012
+Avenida Gaviota	Cathedral City	92234
+Avenida Gaviota	Indio	92201
+Avenida Gaviota	Menifee	92587
+Avenida Gaviota Cyn	Menifee	92587
+Avenida Gaviota Rd	Menifee	92587
+Avenida Gloria Molina	South El Monte	91733
+Avenida Gonzalez	Indio	92201
+Avenida Gorrion	Goleta	93117
+Avenida Grace	Coachella	92236
+Avenida Gracia	Desert Hot Springs	92240
+Avenida Granada	Cypress	90630
+Avenida Granada	Long Beach	90814
+Avenida Granada	Palm Springs	92264
+Avenida Granada	Poway	92064
+Avenida Granada	San Clemente	92672
+Avenida Granada	Ybl	92887
+Avenida Granada	Yorba Linda	92887
+Avenida Grande	San Diego	92129
+Avenida Grande	San Jose	95139
+Avenida Graneros	Indio	92203
+Avenida Gregory	Spring Valley	91977
+Avenida Guillermo	Oceanside	92056
+Avenida Hacienda	Chino Hills	91709
+Avenida Hacienda	Escondido	92029
+Avenida Hacienda	Riverside	92508
+Avenida Hacienda	San Clemente	92672
+Avenida Hacienda	Tarzana	91356
+Avenida Halago	Menifee	92585
+Avenida Hanna	Indio	92201
+Avenida Helecho	Carlsbad	92009
+Avenida Hermosa	Desert Hot Springs	92240
+Avenida Herrera	La Quinta	92253
+Avenida Hidalgo	Vacaville	95687
+Avenida Hierba	Temecula	92590
+Avenida Hokona	Palm Springs	92264
+Avenida Hortensia	Hemet	92544
+Avenida Ignacio	Valencia	91355
+Avenida Imperial	San Clemente	92673
+Avenida Insook	Murrieta	92562
+Avenida Insurgentes	Rancho Santa Fe	92067
+Avenida Interno	Menifee	92585
+Avenida Isabella	Indio	92203
+Avenida Jalisco	Desert Hot Springs	92240
+Avenida Joaquin	Encinitas	92024
+Avenida Johanna	La Mesa	91941
+Avenida Jolita	Valencia	91355
+Avenida Josefa	Encinitas	92024
+Avenida Juan Bautista	Jurupa Valley	92509
+Avenida Juarez	Cathedral City	92234
+Avenida Juarez	La Quinta	92253
+Avenida Kirjah	La Jolla	92037
+Avenida La Candela	Joshua Tree	92252
+Avenida La Caza	Coto De Caza	92679
+Avenida La Cima	Carlsbad	92009
+Avenida La Cima	Escondido	92027
+Avenida La Costa	San Clemente	92672
+Avenida La Cresta	Murrieta	92562
+Avenida La Cresta Rd	Murrieta	92562
+Avenida La Cuesta	San Clemente	92672
+Avenida La Cuesta	San Marcos	92078
+Avenida La Cumbre	Mountain Center	92561
+Avenida La Espana Daga	Joshua Tree	92252
+Avenida La Flora Desierta	Joshua Tree	92252
+Avenida La Fonda	La Quinta	92253
+Avenida La Gaviota	Cathedral City	92234
+Avenida La Jarita	La Quinta	92253
+Avenida La Luna	Coachella	92236
+Avenida La Manana	Joshua Tree	92252
+Avenida La Mancha	San Juan Capistrano	92675
+Avenida La Mirada	Joshua Tree	92252
+Avenida La Paloma	Cathedral City	92234
+Avenida La Paloma Ave	Cathedral City	92234
+Avenida La Pata	Rancho Mission Viejo	92675
+Avenida La Pata	San Clemente	92673
+Avenida La Pata	San Juan Capistrano	92675
+Avenida La Pata	Unincorporated	92675
+Avenida La Paz	Cathedral City	92234
+Avenida La Paz	Chino Hills	91709
+Avenida La Playa	Temecula	92592
+Avenida La Posta	Carlsbad	92009
+Avenida La Posta	Encinitas	92024
+Avenida La Promesa	Coto De Caza	92679
+Avenida La Reina	La Jolla	92037
+Avenida La Torres	La Quinta	92253
+Avenida La Valencia	Poway	92064
+Avenida La Valencia	San Diego	92128
+Avenida La Vista	Cathedral City	92234
+Avenida La Vista	Desert Hot Springs	92240
+Avenida Ladera	Desert Hot Springs	92240
+Avenida Ladera	El Cajon	92020
+Avenida Ladera	Newport Beach	92660
+Avenida Ladera	Thousand Oaks	91362
+Avenida Lamego	San Diego	92128
+Avenida Laredo	Barstow	92311
+Avenida Larga	San Juan Capistrano	92675
+Avenida Largo	Newport Beach	92660
+Avenida Las Baulinas	Stinson Beach	94970
+Avenida Las Brisas	Northridge	91325
+Avenida Las Brisas	Oceanside	92057
+Avenida Las Brisas	San Jose	95131
+Avenida Las Flores	San Clemente	92672
+Avenida Las Palmas	Dana Point	92624
+Avenida Las Palmas	La Quinta	92253
+Avenida Las Palmas	Rancho Mirage	92270
+Avenida Las Perlas	Rancho Santa Fe	92067
+Avenida Las Ramblas	Chino Hills	91709
+Avenida Las Ramblas	Indio	92203
+Avenida Leon	Rancho Cucamonga	91701
+Avenida Leon	Rancho Cucamonga	91730
+Avenida Leon	San Marcos	92069
+Avenida Lestonnac	Temecula	92592
+Avenida Libre	Lake Forest	92630
+Avenida Libre	Lake Forest	92630-2101
+Avenida Libre	Lake Forest	92630-2102
+Avenida Libre	Lake Forest	92630-2103
+Avenida Libre	Lake Forest	92630-2104
+Avenida Linda	Lancaster	93535
+Avenida Linda Vista	Indio	92203
+Avenida Lirio Blanco	Rancho Mirage	92270
+Avenida Ln	Cupertino	95014
+Avenida Lobeiro	San Clemente	92672
+Avenida Loma De Oro	Rancho Santa Fe	92067
+Avenida Loma Portal	Thousand Oaks	91320
+Avenida Loma Vista	San Dimas	91773
+Avenida Lorena	Indio	92203
+Avenida Lorenzo	Newport Beach	92660
+Avenida Lorenzo	Oceanside	92057
+Avenida Loretta	Chula Vista	91914
+Avenida Los Altos	Salinas	93907
+Avenida Los Amigos	San Juan Capistrano	92675
+Avenida Los Cerritos	San Juan Capistrano	92675
+Avenida Los Circos	Indio	92203
+Avenida Los Feliz	Mountain Center	92561
+Avenida Los Ninos	Cathedral City	92234
+Avenida Los Padres	Indio	92203
+Avenida Los Pinos	Mountain Center	92561
+Avenida Los Ramblo	Rancho Mirage	92270
+Avenida Los Tres Ninos	Vista	92084
+Avenida Lucia	Newport Beach	92660
+Avenida Lucia	San Clemente	92672
+Avenida Lugano	Chula Vista	91913
+Avenida Lugo N	La Grange	95329
+Avenida Lugo S	La Grange	95329
+Avenida Luis	Rancho Santa Fe	92067
+Avenida Luna	Riverside	92508
+Avenida Lynell	Temecula	92591
+Avenida Madera	Chula Vista	91910
+Avenida Madera	La Quinta	92253
+Avenida Madera	Temecula	92592
+Avenida Madero	La Quinta	92253
+Avenida Madrid	Cypress	90630
+Avenida Madrid	Homeland	92548
+Avenida Madrid	Indio	92203
+Avenida Madrid	San Clemente	92672
+Avenida Madrid	San Juan Capistrano	92675
+Avenida Madrugada	La Quinta	92253
+Avenida Magdalena	Camarillo	93010
+Avenida Magnifica	Carlsbad	92008
+Avenida Magnifica	Lake Forest	92630
+Avenida Magnifica	Lake Forest	92630-0000
+Avenida Magnifica	Lake Forest	92630-7021
+Avenida Magnifica	Lake Forest	92630-7022
+Avenida Magnifica	Lake Forest	92630-7025
+Avenida Magnifica	Rancho Palos Verdes	90275
+Avenida Magnifica	San Diego	92131
+Avenida Magoria	Escondido	92029
+Avenida Majorca	Laguna Woods	92637
+Avenida Mallari	Temecula	92591
+Avenida Manana	La Jolla	92037
+Avenida Manana	Murrieta	92562
+Avenida Manana	Murrieta	92563
+Avenida Manantial	Lake Forest	92630
+Avenida Manantial	Lake Forest	92630-2125
+Avenida Manantial	Rancho Santa Fe	92067
+Avenida Manessa	Oceanside	92057
+Avenida Mantilla	Chula Vista	91914
+Avenida Mantilla	Oceanside	92056
+Avenida Manzana	Atascadero	93422
+Avenida Manzana	Desert Hot Springs	92240
+Avenida Manzana	Desert Hot Springs	92241
+Avenida Manzanillo	Indio	92203
+Avenida Manzanos	San Jose	95123
+Avenida Mara	Chula Vista	91914
+Avenida Maravilla	Carlsbad	92009
+Avenida Maravilla	Cathedral City	92234
+Avenida Maravillas	Rancho Santa Fe	92067
+Avenida Marbella	Menifee	92584
+Avenida Marbella	San Diego	92128
+Avenida Marcella	El Cajon	92019
+Avenida Marco	El Cajon	92021
+Avenida Marejada	San Clemente	92673
+Avenida Marguarita	Oceanside	92057
+Avenida Marguerite	Chino Hills	91709
+Avenida Maria	Atascadero	93422
+Avenida Maria	Coachella	92236
+Avenida Maria	San Diego	92129
+Avenida Mariposa	Jurupa Valley	92509
+Avenida Mariposa	San Juan Capistrano	92675
+Avenida Marlina	Chula Vista	91914
+Avenida Marquesa	Cathedral City	92234
+Avenida Martina	Roseville	95747
+Avenida Martinez	El Sobrante	94803
+Avenida Martinez	La Quinta	92253
+Avenida Mastil	San Clemente	92673
+Avenida Mateo	Cypress	90630
+Avenida Mateo	San Clemente	92672
+Avenida Melisenda	San Dimas	91773
+Avenida Melodia	Encinitas	92024
+Avenida Mendoza	La Quinta	92253
+Avenida Merced	Desert Hot Springs	92240
+Avenida Merida	Chula Vista	91913
+Avenida Merida	San Clemente	92673
+Avenida Mesita	San Clemente	92673
+Avenida Michaelinda	Jurupa Valley	92509
+Avenida Miguel	Encinitas	92024
+Avenida Miguel Oeste	Murrieta	92563
+Avenida Mil Flores	Bonsall	92003
+Avenida Mil Flores	Vista	92084
+Avenida Mimosa	Encinitas	92024
+Avenida Mirabella St	Hemet	92545
+Avenida Mirador	Rancho Santa Fe	92067
+Avenida Miraflores	Hemet	92544
+Avenida Miraflores	Tiburon	94920
+Avenida Miramar	San Clemente	92672
+Avenida Miravella	Hemet	92545
+Avenida Miravella St	Hemet	92545
+Avenida Miravilla	Beaumont	92223
+Avenida Miravilla Ave	Beaumont	92223
+Avenida Miravilla Dr	Beaumont	92223
+Avenida Miravilla Rd	Beaumont	92223
+Avenida Mirola	Desert Hot Springs	92240
+Avenida Mirola	La Jolla	92037
+Avenida Mirola	Palos Verdes Peninsula	90274
+Avenida Misico	Murrieta	92562
+Avenida Modero	La Quinta	92253
+Avenida Molino Viejo	Rancho Santa Fe	92067
+Avenida Montalvo	San Clemente	92672
+Avenida Montana	Palm Springs	92262
+Avenida Monte Vista	San Dimas	91773
+Avenida Montecito Verde	Nipomo	93444
+Avenida Monteflora	Desert Hot Springs	92240
+Avenida Monterey	Colton	92324
+Avenida Monterey	Cypress	90630
+Avenida Monterey	San Clemente	92672
+Avenida Montero	La Quinta	92253
+Avenida Montezuma	La Quinta	92253
+Avenida Montuosa	San Diego	92129
+Avenida Montuoso	Thousand Oaks	91362
+Avenida Montura	Indio	92203
+Avenida Morales	La Quinta	92253
+Avenida Morinda	Indio	92201
+Avenida Munoz	Riverside	92508
+Avenida Musico	Murrieta	92562
+Avenida Naranja	La Quinta	92253
+Avenida Naranja	Ramona	92065
+Avenida Narciso	Lake Forest	92630
+Avenida Narciso	Lake Forest	92630-2221
+Avenida Narciso	Lake Forest	92630-2222
+Avenida Narciso	Lake Forest	92630-2223
+Avenida Navarro	La Quinta	92253
+Avenida Navarro	San Clemente	92672
+Avenida Navidad	Camarillo	93012
+Avenida Navidad	San Diego	92122
+Avenida Neblina	Indio	92203
+Avenida Nerium	Coachella	92236
+Avenida Nicole	Coachella	92236
+Avenida Nieve	Carlsbad	92009
+Avenida Nobleza	San Diego	92128
+Avenida Nogales	San Jose	95123
+Avenida Nordeste	Borrego Springs	92004
+Avenida Nube	Perris	92571
+Avenida Nubes	Lake Forest	92630
+Avenida Nubes	Lake Forest	92630-2147
+Avenida Nuestra	La Quinta	92253
+Avenida Nueva	Diablo	94528
+Avenida Obertura	Carlsbad	92009
+Avenida Obregon	La Quinta	92253
+Avenida Oceana	Oceanside	92056
+Avenida Oceano	Oceanside	92056
+Avenida Ocotillo	Alpine	91901
+Avenida Ofelita	El Cajon	92019
+Avenida Okizaba	Temecula	92592
+Avenida Olancha	Cathedral City	92234
+Avenida Olancha	Palm Springs	92264
+Avenida Olema	Stinson Beach	94970
+Avenida Olinda	San Diego	92127
+Avenida Oliva	San Clemente	92673
+Avenida Olivera	San Juan Capistrano	92675
+Avenida Olivos	Hemet	92545
+Avenida Olivos	Palm Springs	92262
+Avenida Olmeda	Carlsbad	92009
+Avenida Omeara	Murrieta	92562
+Avenida Oriente	Tarzana	91356
+Avenida Orilla	Rancho Santa Fe	92067
+Avenida Ortega	Palm Springs	92264
+Avenida Ortega	San Clemente	92672
+Avenida Ortega	San Marcos	92078
+Avenida Ortega	Temecula	92592
+Avenida Ossa	San Clemente	92672
+Avenida Otono	Thousand Oaks	91362
+Avenida Pacifica	Lake Forest	92630
+Avenida Pacifica	Lake Forest	92630-3840
+Avenida Pacifica	Lake Forest	92630-7023
+Avenida Pacifica	Menifee	92584
+Avenida Pacifica Way	Oceanside	92057
+Avenida Padilla	Irwindale	91702
+Avenida Pala	San Clemente	92672
+Avenida Palizada	Murrieta	92563
+Avenida Palizada	San Diego	92130
+Avenida Palmas	Palm Springs	92262
+Avenida Palmas	San Jose	95123
+Avenida Palmera	Homeland	92548
+Avenida Palmera	Palm Springs	92264
+Avenida Palo Verde	Bonita	91902
+Avenida Paloma	Indian Wells	92210
+Avenida Paloma	Porter Ranch	91326
+Avenida Palomino	Chula Vista	91913
+Avenida Palos Verdes	Palm Springs	92262
+Avenida Pamplona	Cerritos	90703
+Avenida Pamplona	Indio	92203
+Avenida Pantera	Carlsbad	92009
+Avenida Pantera	San Marcos	92069
+Avenida Parito	Indio	92203
+Avenida Patero De Oro	San Clemente	92672
+Avenida Pedregal	San Juan Capistrano	92675
+Avenida Pelayo	San Clemente	92672
+Avenida Pelicanos	Oceano	93445
+Avenida Penasco	El Cajon	92019
+Avenida Pequena	Santa Barbara Unincorporated	93111
+Avenida Peregrina	Rancho Santa Fe	92067
+Avenida Perla Bonita	Murrieta	92562
+Avenida Perris	Murrieta	92562
+Avenida Pescador	Riverside	92503
+Avenida Pescador	San Juan Capistrano	92675
+Avenida Peyri	Hemet	92544
+Avenida Picacho	Rancho Santa Fe	92067
+Avenida Pico	Desert Hot Springs	92240
+Avenida Pico	San Clemente	92673
+Avenida Pimentera	Carlsbad	92009
+Avenida Pinos	San Jose	95123
+Avenida Pizarro	San Clemente	92672
+Avenida Placida	San Juan Capistrano	92675
+Avenida Planicie	Lake Forest	92630
+Avenida Planicie	Lake Forest	92630-2143
+Avenida Platanar	San Clemente	92673
+Avenida Platino	Carlsbad	92009
+Avenida Playa Cancun	San Diego	92124
+Avenida Playa Veracruz	San Diego	92124
+Avenida Prado	Thousand Oaks	91360
+Avenida Presa	Murrieta	92562
+Avenida Presidio	San Clemente	92672
+Avenida Presidio	Valencia	91355
+Avenida Presidio	Walnut	91789
+Avenida Primavena	Del Mar	92014
+Avenida Primavera	Cathedral City	92234
+Avenida Primavera	Del Mar	92014
+Avenida Princesa	San Clemente	92672
+Avenida Principal	Salinas	93908
+Avenida Privado	Oceanside	92057
+Avenida Puerto Vallarta	Encino	91316
+Avenida Puesta Del Sol	Ybl	92886
+Avenida Puesta Del Sol	Yorba Linda	92886
+Avenida Quintana	Cathedral City	92234
+Avenida Ramada	Desert Hot Springs	92240
+Avenida Ramada	Homeland	92548
+Avenida Rambla	Desert Hot Springs	92240
+Avenida Ramblas	Highland	92346
+Avenida Ramirez	La Quinta	92253
+Avenida Rancheros	Diamond Bar	91765
+Avenida Rancho Tesoro Drive	Valencia	91354
+Avenida Rancho Vista	Temecula	92592
+Avenida Raylynn	Coachella	92236
+Avenida Razon	Coachella	92236
+Avenida Real	Ceres	95307
+Avenida Real	Lakeside	92040
+Avenida Redondo	Santa Maria	93458
+Avenida Refinida	Rancho Palos Verdes	90275
+Avenida Reflexion	San Clemente	92673
+Avenida Reforma	Coachella	92236
+Avenida Refugio	Simi Valley	93063
+Avenida Regina	San Marcos	92069
+Avenida Regina	Vista	92084
+Avenida Reposo	Escondido	92029
+Avenida Requejo	Bryn Mawr	92318
+Avenida Ricardo	San Marcos	92069
+Avenida Ricardo	Spring Valley	91977
+Avenida Rio Del Oro	Ybl	 
+Avenida Rio Del Oro	Ybl	92886
+Avenida Rio Del Oro	Yorba Linda	92886
+Avenida Rio Encontrado	Murrieta	92562
+Avenida Riviera	Laguna Niguel	92677
+Avenida Riviera	Santa Maria	93458
+Avenida Roberta	Spring Valley	91978
+Avenida Robles	Granite Bay	95746
+Avenida Roca Grande	Ramona	92065
+Avenida Romero	Indio	92201
+Avenida Romero	San Juan Capistrano	92675
+Avenida Ronada	Valencia	91355
+Avenida Rondel	Valencia	91355
+Avenida Rorras	San Diego	92128
+Avenida Rosa	Chula Vista	91911
+Avenida Rosa	San Clemente	92672
+Avenida Rosa Mundi	San Jacinto	92583
+Avenida Rosada	Indio	92201
+Avenida Rosario	Palm Desert	92260
+Avenida Rosella	Murrieta	92562
+Avenida Rotella	San Jose	95139
+Avenida Rotella	Valencia	91355
+Avenida Roundelay	San Jacinto	92583
+Avenida Rubio	La Quinta	92253
+Avenida Sabia	Bakersfield	93309
+Avenida Salvador	San Clemente	92672
+Avenida Samtiago	Indio	92203
+Avenida San Antero	Camarillo	93010
+Avenida San Carlos	San Clemente	92672
+Avenida San Diego	San Clemente	92672
+Avenida San Dimas	San Clemente	92672
+Avenida San Domingo	Coachella	92236
+Avenida San Felipe	Indio	92203
+Avenida San Fernando	Indio	92203
+Avenida San Fernando	San Clemente	92672
+Avenida San Gabriel	Palm Springs	92262
+Avenida San Ignacio	Indio	92203
+Avenida San Lorenzo	Fullerton	92833
+Avenida San Luis Rey	San Clemente	92672
+Avenida San Martin	La Mirada	90638
+Avenida San Miguel	Bonita	91902
+Avenida San Miguel	La Mirada	90638
+Avenida San Miguel	Perris	92571
+Avenida San Pablo	San Clemente	92672
+Avenida San Sebast	Perris	92571
+Avenida San Sebastian	Perris	92571
+Avenida San Timoteo	Beaumont	92223
+Avenida Sanchez	San Diego	92124
+Avenida Santa Alicia	Indio	92203
+Avenida Santa Anita	La Habra	90631
+Avenida Santa Barbara	La Habra	90631
+Avenida Santa Barbara	San Clemente	92672
+Avenida Santa Beli	Indio	92203
+Avenida Santa Belinda	Indio	92203
+Avenida Santa Carmen	Indio	92203
+Avenida Santa Catalina	La Habra	90631
+Avenida Santa Dorotea	La Habra	90631
+Avenida Santa Elena	La Habra	90631
+Avenida Santa Eugenia	Indio	92203
+Avenida Santa Inez	San Clemente	92672
+Avenida Santa Isidora	Indio	92203
+Avenida Santa Margarita	San Clemente	92672
+Avenida Santa Marta	Indio	92203
+Avenida Santa Olivia	Indio	92203
+Avenida Santa Regina	Indio	92203
+Avenida Santa Tecla	La Mirada	90638
+Avenida Santiago	Indio	92203
+Avenida Santo Domingo	La Habra	90631
+Avenida Sarita	Temecula	92592
+Avenida Sebastiani	Sonoma	95476
+Avenida Secreto	Carlsbad	92009
+Avenida Segovia	Oceanside	92056
+Avenida Selecta	Rancho Palos Verdes	90275
+Avenida Selva	Fullerton	92833
+Avenida Senecio	Chula Vista	91913
+Avenida Senna	Chula Vista	91913
+Avenida Serena	Barstow	92311
+Avenida Serena	Carlsbad	92009
+Avenida Serena	Desert Hot Springs	92240
+Avenida Serena	Indio	92203
+Avenida Sereno	Encinitas	92024
+Avenida Serra	San Clemente	92672
+Avenida Sevilla	Cypress	90630
+Avenida Sevilla	Laguna Woods	92637
+Avenida Sevilla	Oceanside	92056
+Avenida Sevilla	Palm Springs	92264
+Avenida Sevilla	Walnut Creek	94595
+Avenida Shonto	Mission Viejo	92691
+Avenida Sierra	Escondido	92029
+Avenida Sierra	San Clemente	92672
+Avenida Sierra Madre	Valencia	91354
+Avenida Simi	Simi Valley	93063
+Avenida Simi	Simi Valley	93065
+Avenida Simi Ave	Simi Valley	93063
+Avenida Simi Dr	Simi Valley	93063
+Avenida Sivrita	San Diego	92128
+Avenida Sobrina	Oceanside	92057
+Avenida Socorro	La Mirada	90638
+Avenida Solana	Palm Desert	92260
+Avenida Solano	Roseville	95747
+Avenida Solaria	Chula Vista	91910
+Avenida Soledad	Carlsbad	92009
+Avenida Soledad	Chula Vista	91914
+Avenida Soledad	Fullerton	92833
+Avenida Soledad	Oceanside	92057
+Avenida Soltura	Camarillo	93010
+Avenida Soltura Dr	Camarillo	93010
+Avenida Sombra	Indio	92203
+Avenida Sombra	Murrieta	92563
+Avenida Sonoma	Temecula	92591
+Avenida Sonrisa	Beaumont	92223
+Avenida Sonrisa	Castaic	91384
+Avenida Sonrisa Ave	Beaumont	92223
+Avenida Soria	Carlsbad	92009
+Avenida Sosiega	Laguna Woods	92637
+Avenida Sosiega W	Laguna Woods	92637
+Avenida Suarez	Indio	92201
+Avenida Suavidad	San Diego	92128
+Avenida Suenos	Desert Hot Springs	92240
+Avenida Sureste	Borrego Springs	92004
+Avenida Sureste	Murrieta	92562
+Avenida Tacuba	Coachella	92236
+Avenida Talega	San Clemente	92673
+Avenida Taxco	Hemet	92544
+Avenida Taxco	Vista	92084
+Avenida Tealing	Chula Vista	91913
+Avenida Tejunga	La Quinta	92253
+Avenida Teresa	San Clemente	92672
+Avenida Terramar	San Juan Capistrano	92675
+Avenida Terraza	Santa Clarita	91350
+Avenida Terrazo	Cathedral City	92234
+Avenida Terrazo	Corona	92882
+Avenida Theresa	Carlsbad	92009
+Avenida Thomas	La Mesa	91941
+Avenida Tierra	Temecula	92590
+Avenida Tigre	Hemet	92544
+Avenida Tineo	San Diego	92128
+Avenida Topanga	Carlsbad	92009
+Avenida Topanga	Mission Viejo	92691
+Avenida Torcello	Chula Vista	91913
+Avenida Toronja	Carlsbad	92009
+Avenida Torres	La Quinta	92253
+Avenida Tortuga	Indio	92201
+Avenida Tortuga	Joshua Tree	92252
+Avenida Tranquila	Lake Forest	92630
+Avenida Tranquila	Lake Forest	92630-3168
+Avenida Tranquila	Lake Forest	92630-7024
+Avenida Tranquila	Rancho Palos Verdes	90275
+Avenida Tranquila	San Clemente	92672
+Avenida Trebolo	Temecula	92592
+Avenida Tres Lagunas	Indio	92203
+Avenida Trieste	San Clemente	92672
+Avenida Trinidad Pl	San Miguel	93451
+Avenida Tujunga	La Quinta	92253
+Avenida Ultimo	La Quinta	92253
+Avenida Valdez	Cathedral City	92234
+Avenida Valedor	Bakersfield	93309
+Avenida Valencia	Camarillo	93012
+Avenida Valencia	Homeland	92548
+Avenida Valencia	Jurupa Valley	92509
+Avenida Valera	Carlsbad	92009
+Avenida Vallejo	La Quinta	92253
+Avenida Valverde	Laguna Hills	92653
+Avenida Vaquero	San Clemente	92672
+Avenida Vaquero	San Clemente	92673
+Avenida Vejar	Rancho Cucamonga	91730
+Avenida Velarte	Valencia	91355
+Avenida Velasco	La Quinta	92253
+Avenida Venida	Murrieta	92562
+Avenida Venusto	San Diego	92128
+Avenida Veracruz	Riverside	92503
+Avenida Veraneo	Lake Forest	92630
+Avenida Veraneo	Lake Forest	92630-2226
+Avenida Verano	Coachella	92236
+Avenida Verano	Thousand Oaks	91360
+Avenida Verde	San Clemente	92672
+Avenida Verde	San Marcos	92069
+Avenida Verde	Temecula	92591
+Avenida Verde	Temecula	92592
+Avenida Verde Vista	San Dimas	91773
+Avenida Veronica	Coachella	92236
+Avenida Veronica	Mission Viejo	92691
+Avenida Victoria	San Clemente	92672
+Avenida Vidrio	Indio	92203
+Avenida Viesca	Indio	92203
+Avenida Villa	La Quinta	92253
+Avenida Villaha	San Diego	92128
+Avenida Visalia	San Diego	92127
+Avenida Vista	San Miguel	93451
+Avenida Vista Bonita	La Quinta	92253
+Avenida Vista Del Oceano	San Clemente	92672
+Avenida Vista Hermosa	San Clemente	92672
+Avenida Vista Hermosa	San Clemente	92673
+Avenida Vista Labera	Oceanside	92056
+Avenida Vista Ladera	Temecula	92591
+Avenida Vista Montana	San Clemente	92672
+Avenida Vista Verde	Palmdale	93551
+Avenida Vivara	Chula Vista	91913
+Avenida Vizcaya	Homeland	92548
+Avenida Wilfredo	La Jolla	92037
+Avenida Ximino	Cathedral City	92234
+Avenida Ysidora	Chula Vista	91910
+Avenida Yucateco	Coachella	92236
+Avenida Yucateco	Coachella	92336
+Avenidadel Vista	Corona	92882
+Avenidas Del Ranchos	Jurupa Valley	91752
+Avenido Del Lago	Fairfield	94533
+Aveninda Herrera	La Quinta	92253
+Aveninda Neblina	Indio	92203
+Aveninda Quintana	Cathedral City	92234
+Avenir Court	Palmdale	93551
+Avenir Way	Menifee	92584
+Avenita Alpera	Tustin	92782
+Avenita Benito	San Jose	95131
+Avenita Deorita	Temecula	92592
+Avenita Elisa	San Jose	95131

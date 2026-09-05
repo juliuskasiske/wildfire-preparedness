@@ -1,0 +1,116 @@
+Blvd	Cupertino	95014
+Blvd	Cupertino	95014-1170
+Blvd	Cupertino	95014-1171
+Blvd	Cupertino	95014-1175
+Blvd	Cupertino	95014-1208
+Blvd	Cupertino	95014-1230
+Blvd	Cupertino	95014-2104
+Blvd	Cupertino	95014-2109
+Blvd	Cupertino	95014-2110
+Blvd	Cupertino	95014-2111
+Blvd	Cupertino	95014-2112
+Blvd	Cupertino	95014-2115
+Blvd	Cupertino	95014-2116
+Blvd	Cupertino	95014-2117
+Blvd	Cupertino	95014-2118
+Blvd	Cupertino	95014-2120
+Blvd	Cupertino	95014-2122
+Blvd	Cupertino	95014-2125
+Blvd	Cupertino	95014-2132
+Blvd	Cupertino	95014-2154
+Blvd	Cupertino	95014-2226
+Blvd	Cupertino	95014-2230
+Blvd	Cupertino	95014-2234
+Blvd	Cupertino	95014-2241
+Blvd	Cupertino	95014-2242
+Blvd	Cupertino	95014-2243
+Blvd	Cupertino	95014-2244
+Blvd	Cupertino	95014-2245
+Blvd	Cupertino	95014-2246
+Blvd	Cupertino	95014-2247
+Blvd	Cupertino	95014-2248
+Blvd	Cupertino	95014-2249
+Blvd	Cupertino	95014-225
+Blvd	Cupertino	95014-2250
+Blvd	Cupertino	95014-2252
+Blvd	Cupertino	95014-2255
+Blvd	Cupertino	95014-2265
+Blvd	Cupertino	95014-2267
+Blvd	Cupertino	95014-2269
+Blvd	Cupertino	95014-227
+Blvd	Cupertino	95014-2270
+Blvd	Cupertino	95014-2271
+Blvd	Cupertino	95014-2272
+Blvd	Cupertino	95014-2273
+Blvd	Cupertino	95014-2274
+Blvd	Cupertino	95014-2275
+Blvd	Cupertino	95014-2276
+Blvd	Cupertino	95014-2281
+Blvd	Cupertino	95014-2290
+Blvd	Cupertino	95014-2291
+Blvd	Cupertino	95014-2296
+Blvd	Cupertino	95014-2298
+Blvd	Cupertino	95014-230
+Blvd	Cupertino	95014-2306
+Blvd	Cupertino	95014-2315
+Blvd	Cupertino	95014-2345
+Blvd	Cupertino	95014-2350
+Blvd	Cupertino	95014-2353
+Blvd	Cupertino	95014-2355
+Blvd	Cupertino	95014-2356
+Blvd	Cupertino	95014-2359
+Blvd	Cupertino	95014-2363
+Blvd	Cupertino	95014-2364
+Blvd	Cupertino	95014-2380
+Blvd	Cupertino	95014-2382
+Blvd	Cupertino	95014-2393
+Blvd	Cupertino	95014-2394
+Blvd	Cupertino	95014-2397
+Blvd	Cupertino	95014-2398
+Blvd	Cupertino	95014-2530
+Blvd	Cupertino	95014-2563
+Blvd	Cupertino	95014-2565
+Blvd	Cupertino	95014-2569
+Blvd	Cupertino	95014-2570
+Blvd	Cupertino	95014-2571
+Blvd	Cupertino	95014-2572
+Blvd	Cupertino	95014-2573
+Blvd	Cupertino	95014-2574
+Blvd	Cupertino	95014-2575
+Blvd	Cupertino	95014-2576
+Blvd	Cupertino	95014-2577
+Blvd	Cupertino	95014-2579
+Blvd	Cupertino	95014-2580
+Blvd	Cupertino	95014-2584
+Blvd	Cupertino	95014-2586
+Blvd	Cupertino	95014-2598
+Blvd	Cupertino	95014-337
+Blvd	Cupertino	95014-3674
+Blvd	Cupertino	95014-3675
+Blvd	Cupertino	95014-5626
+Blvd	Cupertino	95014-5636
+Blvd	San Bernardino	92404
+Blvd	San Bernardino	92407
+Blvd	San Jose	95014-7601
+Blvd	San Jose	95014-7602
+Blvd	San Jose	95014-7604
+Blvd	San Jose	95014-7605
+Blvd	San Jose	95014-7607
+Blvd	San Jose	95014-7608
+Blvd	San Jose	95014-7610
+Blvd	San Jose	95014-7611
+Blvd	San Jose	95014-7613
+Blvd	San Jose	95014-7614
+Blvd	San Jose	95014-7616
+Blvd	San Jose	95014-7617
+Blvd	San Jose	95014-7619
+Blvd	San Jose	95014-7620
+Blvd	San Jose	95014-7621
+Blvd	San Jose	95014-7622
+Blvd	San Jose	95014-7623
+Blvd	San Jose	95014-7624
+Blvd	San Jose	95014-7625
+Blvd	San Jose	95014-7626
+Blvd	San Jose	95014-7627
+Blvd	San Jose	95014-7629
+Blvd	San Jose	95014-7632

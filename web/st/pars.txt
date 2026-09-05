@@ -1,0 +1,63 @@
+Pars Oak Ln	Carmichael	95608
+Pars Way	Modesto	95355
+Parsenn Road	Truckee	96161
+Parsippany Ct	Temecula	92592
+Parsley Ave	Moreno Valley	92553
+Parsley Ct	Adelanto	92301
+Parsley Ct	Chula Vista	91915
+Parsley Dr	Brentwood	94513
+Parsley Dr	Morgan Hill	95037
+Parsley Leaf Pl	Fontana	92336
+Parsley Ln	Bakersfield	93309
+Parsley Ln	Chico	95973
+Parsley Ln	Corona	92879
+Parsley Ln	Fontana	92337
+Parsley Ln	Riverbank	95367
+Parsley Pl	Garden Grove	92840
+Parsley Pl	Orcutt	93455
+Parsley Pl	Roseville	95747
+Parsley Way	Oceanside	92057
+Parson Brown	Irvine	92618
+Parson Brown Ct	Moraga	94556
+Parson Circle	Marina	93933
+Parson Ln	Oroville	95966
+Parson Rd	Riverside	92508
+Parson Road	Moss Landing	95039
+Parsons	Salinas	93906
+Parsons Ave	Campbell	95008
+Parsons Ave	Ventura	93003
+Parsons Avenue	Ducor	93218
+Parsons Avenue	Merced	95340
+Parsons Avenue	Merced	95341
+Parsons Avenue	Salinas	93906
+Parsons Avenue Avenue	Salinas	93906
+Parsons Ct	Campbell	95008
+Parsons Ct	Ceres	95351
+Parsons Ct	Folsom	95630
+Parsons Ct	Modesto	95357
+Parsons Dr	Redding	96002
+Parsons Dr	Santa Rosa	95404
+Parsons Drive	Fairfield	94533
+Parsons Drive	Penn Valley	95946
+Parsons Landing	Long Beach	90803
+Parsons Landing	San Diego	92154
+Parsons Landing Bay	Long Beach	90803
+Parsons Landing St	Elk Grove	95624
+Parsons Ln	Antioch	94509
+Parsons Ln	San Marcos	92069
+Parsons Lndg	San Diego	92154
+Parsons Pl	Garden Grove	92843
+Parsons Ranch Rd	Pioneertown	92268
+Parsons Rd	Riverside	92508
+Parsons Rd	Shelter Cove	95589
+Parsons Road	Moss Landing	95039
+Parsons St	Costa Mesa	92627
+Parsons St	Hanford	93230
+Parsons St	La Habra	90631
+Parsons St	San Francisco	94118
+Parsons Trail	Tujunga	91042
+Parsons Way	Bakersfield	93307
+Parsons Way	Folsom	95630
+Parsons Way	Los Altos	94022
+Parsons Way	Madera	93636
+Parsons Way	San Luis Obispo	93401

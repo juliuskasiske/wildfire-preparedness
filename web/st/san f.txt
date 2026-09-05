@@ -1,0 +1,172 @@
+San Fabio Cir	Buena Park	90620
+San Federico Av	Santa Barbara Unincorporated	93111
+San Feipe Ave	Thousand Oaks	91320
+San Felice Cir	Sacramento	95822
+San Felice Ct	Moorpark	93021
+San Felice Dr	Salida	95368
+San Felicia Way	Los Altos	94022
+San Feliciano Drive	La Mirada	90638
+San Feliciano Drive	Woodland Hills	91364
+San Felipe	Desert Hot Springs	92240
+San Felipe	Imperial	92251
+San Felipe	San Jose	95135
+San Felipe Ave	Chino	91710
+San Felipe Ave	Pomona	91766
+San Felipe Ave	Riverside	92504
+San Felipe Ave	San Bruno	94066
+San Felipe Ave	San Francisco	94127
+San Felipe Ave	South San Francisco	94080
+San Felipe Ave	Thousand Oaks	91320
+San Felipe Cir	Buena Park	90620
+San Felipe Court	Los Banos	93635
+San Felipe Court	Merced	95348
+San Felipe Court	Palmdale	93550
+San Felipe Court	Salinas	93901
+San Felipe Creek	Borrego Springs	92004
+San Felipe Ct	Atascadero	93422
+San Felipe Ct	Citrus Heights	95621
+San Felipe Ct	Rancho Cucamonga	91737
+San Felipe Ct	San Jose	95135
+San Felipe Dr	Desert Hot Springs	92240
+San Felipe Dr	Hemet	92544
+San Felipe Dr	Imperial	92251
+San Felipe Dr	Palm Desert	92260
+San Felipe Dr	Perris	92571
+San Felipe Dr	Santa Barbara Unincorporated	93111
+San Felipe Hill	Azusa	91702
+San Felipe Pl	San Diego	92114
+San Felipe Rd	Cathedral City	92234
+San Felipe Rd	Cupertino	95014
+San Felipe Rd	Desert Hot Springs	92240
+San Felipe Rd	Gilroy	95020
+San Felipe Rd	Gilroy	95023
+San Felipe Rd	Hollister	95023
+San Felipe Rd	Imperial	92251
+San Felipe Rd	Julian	92036
+San Felipe Rd	San Jose	95135
+San Felipe Rd	San Jose	95138
+San Felipe Rd	Santa Ysabel	92070
+San Felipe Rd	Warner Springs	92086
+San Felipe St	Fountain Valley	92708
+San Felipe St	Perris	92571
+San Felipe St	San Diego	92114
+San Felipe St	Victorville	92394
+San Felipe Street	La Mirada	90638
+San Felipe Street	Pomona	91767
+San Felipe Street	Salinas	93901
+San Felipe Valley Rd	Warner Springs	92086
+San Felipe Way	Modesto	95355
+San Felipe Way	Novato	94945
+San Ferando Ave	Ventura	93001
+San Ferdinand	San Diego	92154
+San Fermin Pl	Temecula	92592
+San Fermo Dr	Goleta	93117
+San Fernando	Rancho Mirage	92270
+San Fernando	Rancho Santa Margarita	92688
+San Fernando	Soledad	93960
+San Fernando Av	Stockton	95210
+San Fernando Av	Ventura County	93001
+San Fernando Ave	Berkeley	94707
+San Fernando Ave	Cupertino	95014
+San Fernando Ave	Indio	92203
+San Fernando Ave	Morro Bay	93442
+San Fernando Ave	Oxnard	93035
+San Fernando Ave	Ventura	93001
+San Fernando Avenue	Salinas	93901
+San Fernando Boulevard	Burbank	91502
+San Fernando Boulevard	Burbank	91504
+San Fernando Boulevard	Burbank	91505
+San Fernando Court	Claremont	91711
+San Fernando Court	Los Banos	93635
+San Fernando Court	Merced	95348
+San Fernando Ct	Cupertino	95014
+San Fernando Ct	Riverside	92508
+San Fernando Ct	Stockton	95210
+San Fernando Dr	Atascadero	93422
+San Fernando Dr	Corona	92882
+San Fernando Dr	Paso Robles	93446
+San Fernando Dr	Santa Barbara Unincorporated	93111
+San Fernando Drive	Salinas	93901
+San Fernando Drive Drive	Salinas	93901
+San Fernando Ln	Pla	92870
+San Fernando Ln	Placentia	92870
+San Fernando Mission Boulevard	Chatsworth	91311
+San Fernando Mission Boulevard	Granada Hills	91344
+San Fernando Mission Boulevard	Porter Ranch	91326
+San Fernando Mission Boulevard	San Fernando	91340
+San Fernando Mission Boulevard	San Fernando	91345
+San Fernando Pl	Rancho Cucamonga	91739
+San Fernando Pl	San Diego	92109
+San Fernando Rd	Atascadero	93422
+San Fernando Rd	Roseville	95747
+San Fernando Road	Burbank	91505
+San Fernando Road	Glendale	91201
+San Fernando Road	Glendale	91202
+San Fernando Road	Glendale	91203
+San Fernando Road	Glendale	91204
+San Fernando Road	Granada Hills	91344
+San Fernando Road	Los Angeles	90039
+San Fernando Road	Los Angeles	90065
+San Fernando Road	Pacoima	91331
+San Fernando Road	San Fernando	91340
+San Fernando Road	Sun Valley	91352
+San Fernando Road	Sylmar	91342
+San Fernando St	Bakersfield	93241
+San Fernando St	Moreno Valley	92557
+San Fernando St	San Diego	92106
+San Fernando St	San Jose	95110
+San Fernando St	San Pablo	94806
+San Fernando St	Yountville	94599
+San Fernando Street	Los Banos	93635
+San Fernando Way	Daly City	94015
+San Fernando Way	Sacramento	95818
+San Fernando Way	San Francisco	94127
+San Fernando Way	Vallejo	94590
+San Fidel	Desert Hot Springs	92240
+San Fidel St	Fountain Valley	92708
+San Fidel Way	Desert Hot Springs	92240
+San Filippo Way	Sacramento	95834
+San Francesca Dr	Camarillo	93012
+San Francis Av	Stockton	95210
+San Francisco	San Diego	92154
+San Francisco Av	Ventura	93004
+San Francisco Ave	Atascadero	93422
+San Francisco Ave	Brisbane	94005
+San Francisco Ave	Ventura	93004
+San Francisco Avenue	Lancaster	93535
+San Francisco Avenue	Long Beach	90802
+San Francisco Avenue	Long Beach	90806
+San Francisco Avenue	Long Beach	90813
+San Francisco Avenue	Pomona	91767
+San Francisco Avenue	Robbins	95676
+San Francisco Blvd	Sacramento	95820
+San Francisco Blvd	San Anselmo	94960
+San Francisco Court	Claremont	91711
+San Francisco Court	Merced	95348
+San Francisco Ct	Highland	92346
+San Francisco Ct	Rohnert Park	94928
+San Francisco Ct	San Jose	95138
+San Francisco Ct	Stanford	94305
+San Francisco Dr	Buena Park	90620
+San Francisco Dr	Hemet	92543
+San Francisco Golf Club Rd	San Francisco	94132
+San Francisco Ln	Victorville	92394
+San Francisco St	Avila Beach	93424
+San Francisco St	Fountain Valley	92708
+San Francisco St	Highland	92346
+San Francisco St	Maxwell	95955
+San Francisco St	Redding	96001
+San Francisco St	Rocklin	95677
+San Francisco St	Spring Valley	91977
+San Francisco St	Yountville	94599
+San Francisco St #1/2	Rocklin	95677
+San Francisco St N	Maxwell	95955
+San Francisco Street	Los Banos	93635
+San Francisco Street	Merced	95348
+San Francisco Street	North San Juan	95960
+San Francisco Ter	Stanford	94305
+San Francisco Way	Rohnert Park	94928
+San Francisquito Canyon Road	Palmdale	93551
+San Francisquito Canyon Road	Santa Clarita	91390
+San Francisquito Canyon Road	Valencia	91354
+San Francisquito Road	Santa Clarita	91390

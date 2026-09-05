@@ -1,0 +1,37 @@
+South 10Th Avenue	Arcadia	91006
+South 10Th Avenue	Inglewood	90303
+South 10Th Avenue	Inglewood	90305
+South 10Th Avenue	Los Angeles	90018
+South 10Th Avenue	Los Angeles	90043
+South 10Th Avenue	Monrovia	91016
+South 10Th Place	Long Beach	90802
+South 10Th Street	Montague	96064
+South 10Th Street	Montebello	90640
+South 11Th Avenue	Inglewood	90305
+South 11Th Avenue	Los Angeles	90018
+South 11Th Avenue	Los Angeles	90043
+South 11Th Place	Long Beach	90802
+South 11Th Street	Montague	96064
+South 12Th Avenue	Inglewood	90305
+South 12Th Avenue	Los Angeles	90018
+South 12Th Avenue	Los Angeles	90019
+South 12Th Place	Long Beach	90802
+South 12Th Street	Montague	96064
+South 13Th Street	Montague	96064
+South 14Th Street	Montague	96064
+South 15Th Place	Long Beach	90802
+South 15Th Street	Montague	96064
+South 18Th Place	Long Beach	90803
+South 18Th Street	Montebello	90640
+South 19Th Street	Montebello	90640
+South 1St Anita Drive	Los Angeles	90049
+South 1St Avenue	Arcadia	91006
+South 1St Avenue	Covina	91723
+South 1St Avenue	Dinuba	93618
+South 1St Avenue	Inglewood	90303
+South 1St Place	Long Beach	90802
+South 1St Street	Alhambra	91801
+South 1St Street	Burbank	91502
+South 1St Street	Dunsmuir	96025
+South 1St Street	La Puente	91744
+South 1St Street	Los Angeles	90058

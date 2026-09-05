@@ -1,0 +1,11 @@
+Coke Avenue	Bellflower	90706
+Coke Avenue	Lakewood	90712
+Coke Avenue	Long Beach	90805
+Coke Avenue	Paramount	90723
+Coke Street	West Sacramento	95691
+Cokeley Ct	Escondido	92027
+Coker Ct	Sacramento	95826
+Coker Ln	Rocklin	95677
+Coker Rd	Salinas	93907
+Coker Road	Salinas	93907
+Coker Way	El Cajon	92021

@@ -1,0 +1,23 @@
+Cormac Way	Sacramento	95835
+Cormier Dr	Bakersfield	93311
+Cormorant	Watsonville	95076
+Cormorant Cir	Fountain Valley	92708
+Cormorant Cir	Newport Beach	92660
+Cormorant Cir	Rocklin	95765
+Cormorant Close	The Sea Ranch	95497
+Cormorant Court	Fairfield	94533
+Cormorant Ct	Jurupa Valley	91752
+Cormorant Ct	Martinez	94553
+Cormorant Ct	Newport Beach	92660
+Cormorant Ct	Sunnyvale	94087
+Cormorant Dr	Carlsbad	92011
+Cormorant Dr	Folsom	95630
+Cormorant Dr	Modesto	95354
+Cormorant Drive	Fairfield	94533
+Cormorant Drive	Merced	95340
+Cormorant Ln	Laguna Niguel	92677
+Cormorant Place	Fairfield	94533
+Cormorant Road	Pebble Beach	93953
+Cormorant St	Manteca	95337
+Cormorant Way	Avila Beach	93424
+Cormorant Way	Sacramento	95815

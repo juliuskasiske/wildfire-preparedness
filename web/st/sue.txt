@@ -1,0 +1,47 @@
+Sue Ave	San Jose	95111
+Sue Avenue	Dinuba	93618
+Sue Avenue	Lynwood	90262
+Sue Cir	Corona	92882
+Sue Ct	Stockton	95210
+Sue Dr	Pla	92870
+Sue Dr	Placentia	92870
+Sue Dr	Turlock	95380
+Sue Drive	Santa Clarita	91350
+Sue Ellen Ct	Oroville	95965
+Sue Lin Way	Bakersfield	93309
+Sue Ln	Jurupa Valley	92509
+Sue Ln	Nuevo	92567
+Sue Pam Dr	Carmichael	95608
+Sue St	San Diego	92105
+Sue Way	Oxnard	93036
+Sueda Ranch Rd	Auburn	95603
+Suede	Irvine	92602
+Suede	Simi Valley	93063
+Suede Hill Ct	Orangevale	95662
+Sueirro St	Hayward	94541
+Suel Dr	Oroville	95965
+Sueldo St	San Luis Obispo	93401
+Suellen Ct	Goleta	93117
+Suellen Dr	Tracy	95376
+Suemark Ter	Vista	92084
+Suenen Ct	Walnut Creek	94595
+Sueno Camino	La Honda	94020
+Sueno Court	Merced	95348
+Sueno Ct	Bakersfield	93306
+Sueno Ct	Camarillo	93010
+Sueno Ct	Fontana	92337
+Sueno Dr	San Jose	95148
+Sueno Ln	Victorville	92394
+Sueno Rd	Isla Vista	93117
+Sueno Road	Woodland Hills	91364
+Suerich Ln	Lemon Grove	91945
+Suerte St	Rancho Mission Viejo	92694
+Suerte Way	Desert Hot Springs	92240
+Suess Ct	Manteca	95337
+Suey Creek Rd	Santa Maria	93454
+Suey Park Dr	Santa Maria	93454
+Suez Canal Dr	Sonora	95370
+Suez Canal Ln	Sacramento	95834
+Suez Dr	Pacheco	94553
+Suez Drive	Pacheco	94553
+Suez Ter	Sunnyvale	94089

@@ -1,0 +1,381 @@
+North L Street	Dinuba	93618
+North L Street	Tulare	93274
+North La Alameda Avenue	San Pedro	90731
+North La Alameda Avenue	San Pedro	90732
+North La Barca Place	Tarzana	91356
+North La Brea Avenue	Inglewood	90301
+North La Brea Avenue	Inglewood	90302
+North La Brea Avenue	Los Angeles	90028
+North La Brea Avenue	Los Angeles	90036
+North La Brea Avenue	Los Angeles	90038
+North La Brea Avenue	Los Angeles	90046
+North La Brea Terrace	Los Angeles	90046
+North La Breda	Covina	91722
+North La Breda Avenue	West Covina	91791
+North La Cadena Way	La Habra	90631
+North La Calandria Way	Los Angeles	90032
+North La Castana Drive	Los Angeles	90046
+North La Cienega Boulevard	Beverly Hills	90211
+North La Cienega Boulevard	Los Angeles	90048
+North La Cienega Boulevard	West Hollywood	90069
+North La Collina Drive	Beverly Hills	90210
+North La Cuesta Drive	Los Angeles	90046
+North La Fayette Lane	Los Angeles	90026
+North La Fayette Park Place	Los Angeles	90026
+North La Fond Road	Tipton	93272
+North La Grange Road	Snelling	95369
+North La Highland Avenue	Los Angeles	90056
+North La Highland Boulevard	Los Angeles	90056
+North La Jolla Avenue	Los Angeles	90046
+North La Jolla Avenue	Los Angeles	90048
+North La Madrid Drive	Santa Clarita	91350
+North La Mirada Street	La Habra	90631
+North La Peer Drive	Beverly Hills	90211
+North La Peer Drive	Los Angeles	90048
+North La Peer Drive	West Hollywood	90069
+North La Placita De Delores	Los Angeles	90012
+North La Plaza Court	La Habra	90631
+North La Plaza Drive	La Habra	90631
+North La Primavera Court	Earlimart	93219
+North La Primavera Road	Earlimart	93219
+North La Sena Avenue	West Covina	91790
+North La Tijera Boulevard	Los Angeles	90056
+North La Tuna Canyon Road	Tujunga	91042
+North La Vere Drive	Long Beach	90810
+North La Vita Place	La Habra	90631
+North Labaig Avenue	Los Angeles	90028
+North Lachman Lane	Pacific Palisades	90272
+North Lacy Street	Los Angeles	90031
+North Lafayette Road	Claremont	91711
+North Lafler Road	Los Angeles	90032
+North Lagoon Avenue	Wilmington	90744
+North Laguna Avenue	Los Angeles	90026
+North Laguna Circle Drive	Agoura Hills	91301
+North Lake Avenue	Altadena	91001
+North Lake Avenue	Long Beach	90805
+North Lake Avenue	Pasadena	91101
+North Lake Avenue	Pasadena	91104
+North Lake Avenue	Pasadena	91106
+North Lake Dr	Lake Elsinore	92530
+North Lake Hollywood Drive	Los Angeles	90068
+North Lake Hughes Road	Castaic	91384
+North Lake Shore Avenue	Los Angeles	90039
+North Lake Street	Burbank	91502
+North Lake Street	Los Angeles	90026
+North Lake View Avenue	Los Angeles	90039
+North Lakehills Road	Castaic	91384
+North Lakepointe Lane	Palmdale	93550
+North Lakeridge Drive	Los Angeles	90068
+North Lakeview Way	Castaic	91384
+North Lakewood Boulevard	Downey	90242
+North Lakewood Boulevard	Lakewood	90712
+North Lakewood Boulevard	Long Beach	90808
+North Lakewood Boulevard	Long Beach	90815
+North Lakme Avenue	Wilmington	90744
+North Lamar Street	Tulare	93274
+North Lambert Drive	Los Angeles	90068
+North Lamer Street	Burbank	91504
+North Lamer Street	Burbank	91506
+North Lamia Court	North Hills	91343
+North Lamos Street	Inglewood	90302
+North Landa Street	Los Angeles	90039
+North Lane Street	Tulare	93274
+North Lang Avenue	Covina	91722
+North Lang Avenue	West Covina	91790
+North Langdon Avenue	North Hills	91343
+North Langdon Avenue	Van Nuys	91406
+North Lange Way	Yreka	96097
+North Langham Avenue	Covina	91724
+North Langmuir Avenue	Sunland	91040
+North Lankershim Boulevard	North Hollywood	91601
+North Lankershim Boulevard	North Hollywood	91602
+North Lankershim Boulevard	North Hollywood	91605
+North Lankershim Boulevard	North Hollywood	91606
+North Lankershim Boulevard	Studio City	91604
+North Lankershim Boulevard	Sun Valley	91352
+North Lansdowne Avenue	Los Angeles	90032
+North Lantern Court	Playa Vista	90094
+North Lapeer Drive	Los Angeles	90048
+North Larchmont Boulevard	Los Angeles	90004
+North Largo Avenue	Compton	90222
+North Largo Vista Road	Llano	93544
+North Larimore Avenue	La Puente	91744
+North Lark Ellen Avenue	Covina	91722
+North Lark Ellen Avenue	West Covina	91790
+North Lark Ellen Avenue	West Covina	91791
+North Lark Ellen Lane	Covina	91722
+North Larkin Drive	Covina	91722
+North Larkspur Ln	Beaumont	92223
+North Larrabee Street	West Hollywood	90069
+North Larson Street	Porterville	93257
+North Larwin Avenue	Chatsworth	91311
+North Las Alturas Street	Los Angeles	90068
+North Las Casas Avenue	Pacific Palisades	90272
+North Las Flores Avenue	Montebello	90640
+North Las Lomas Avenue	Pacific Palisades	90272
+North Las Palmas Avenue	Los Angeles	90004
+North Las Palmas Avenue	Los Angeles	90028
+North Las Palmas Avenue	Los Angeles	90038
+North Las Palmas Avenue	Los Angeles	90068
+North Las Virgenes Road	Calabasas	91302
+North Laspina Street	Tulare	93274
+North Lassen Court	San Fernando	91345
+North Latimer Road	Santa Monica	90402
+North Latrobe Street	Los Angeles	90031
+North Launer Drive	La Habra	90631
+North Laura Street	La Habra	90631
+North Laurel Avenue	Los Angeles	90046
+North Laurel Avenue	Los Angeles	90048
+North Laurel Canyon Boulevard	Los Angeles	90046
+North Laurel Canyon Boulevard	North Hollywood	91605
+North Laurel Canyon Boulevard	North Hollywood	91606
+North Laurel Canyon Boulevard	Pacoima	91331
+North Laurel Canyon Boulevard	San Fernando	91340
+North Laurel Canyon Boulevard	Studio City	91604
+North Laurel Canyon Boulevard	Sun Valley	91352
+North Laurel Canyon Boulevard	Valley Village	91607
+North Laurel Drive	Dinuba	93618
+North Laurel Pass Avenue	Los Angeles	90046
+North Laurel Valley Drive	Azusa	91702
+North Laurelgrove Avenue	Studio City	91604
+North Lavell Drive	Los Angeles	90065
+North Laveta Terrace	Los Angeles	90026
+North Lawrence Avenue	Yuba City	95991
+North Layton Drive	Los Angeles	90049
+North Lazard Street	San Fernando	91340
+North Le Doux Road	Beverly Hills	90211
+North Le Gray Avenue	Los Angeles	90042
+North Leaf Avenue	Azusa	91702
+North Leaf Avenue	West Covina	91791
+North Lebec Court	Visalia	93292
+North Lecouvreur Avenue	Wilmington	90744
+North Ledge Avenue	North Hollywood	91602
+North Ledgewood Drive	Los Angeles	90068
+North Lee Avenue	Long Beach	90804
+North Leeds Avenue	Wilmington	90744
+North Leggett Street	Porterville	93257
+North Leghorn Avenue	Van Nuys	91401
+North Legion Drive	Signal Hill	90755
+North Lehigh Avenue	Pacoima	91331
+North Leicester Drive	Los Angeles	90046
+North Leila Court	Visalia	93291
+North Leila Street	Visalia	93291
+North Leilani Avenue	Winnetka	91306
+North Leland Avenue	West Covina	91790
+North Leland Street	San Pedro	90732
+North Lemon Avenue	Azusa	91702
+North Lemon Avenue	Walnut	91789
+North Lemon Street	La Habra	90631
+North Lemona Avenue	North Hills	91343
+North Lemona Avenue	San Fernando	91345
+North Lemoyne Street	Los Angeles	90026
+North Lemp Avenue	Studio City	91604
+North Lennox Avenue	Sherman Oaks	91423
+North Leo Way	Sunland	91040
+North Leolang Avenue	Sunland	91040
+North Leonard Road	Los Angeles	90049
+North Leonard Street	Montebello	90640
+North Leora Street	La Habra	90631
+North Leose Lane	Glendora	91741
+North Leslie Court	Visalia	93291
+North Leslie Street	Visalia	93291
+North Levee Road	Hallwood	95901
+North Levitt Lane	Sherman Oaks	91403
+North Lewis Avenue	Long Beach	90805
+North Lewis Avenue	Long Beach	90806
+North Lewis Avenue	Long Beach	90807
+North Lewis Avenue	Signal Hill	90755
+North Lewis Street	Los Angeles	90042
+North Lewis Street	Pomona	91768
+North Lexicon Avenue	Sylmar	91342
+North Libbit Avenue	Encino	91436
+North Liberty Court	Visalia	93292
+North Liberty Street	Los Angeles	90026
+North Liberty Street	Visalia	93292
+North Light Ln	Desert Hot Springs	92240
+North Lihu Street	Porterville	93257
+North Lillian Way	Los Angeles	90038
+North Lillie Avenue	Dinuba	93618
+North Lillyvale Avenue	Los Angeles	90032
+North Lima Street	Burbank	91504
+North Lima Street	Burbank	91505
+North Lima Street	Sierra Madre	91024
+North Lime Avenue	Long Beach	90805
+North Lime Avenue	Long Beach	90806
+North Lime Avenue	Long Beach	90807
+North Lime Avenue	Signal Hill	90755
+North Lime Street	La Habra	90631
+North Lime Street	Porterville	93257
+North Limerock Trail	Canoga Park	91304
+North Limoges Court	Calabasas	91302
+North Lincoln Avenue	Altadena	91001
+North Lincoln Avenue	Dinuba	93618
+North Lincoln Avenue	Montebello	90640
+North Lincoln Avenue	Monterey Park	91755
+North Lincoln Boulevard	Venice	90291
+North Lincoln High Drive	Los Angeles	90031
+North Lincoln Park Avenue	Los Angeles	90031
+North Lincoln Place	Monrovia	91016
+North Lincoln St	Fort Bragg	 
+North Lincoln Street	Burbank	91504
+North Lincoln Street	Burbank	91506
+North Lincoln Street	Dixon	95620
+North Linda Flora Drive	Los Angeles	90049
+North Linda Flora Drive	Los Angeles	90077
+North Linda Lou Avenue	Covina	91724
+North Linda Terrace	Covina	91722
+North Linda Terrace	Covina	91723
+North Linda View Place	Tujunga	91042
+North Linda Vista Court	Visalia	93291
+North Linda Vista Street	Visalia	93291
+North Linda Vista Terrace	Los Angeles	90032
+North Linda Way	Porterville	93257
+North Lindacrest Drive	Beverly Hills	90210
+North Lindale Place	Porterville	93257
+North Lindale Street	Porterville	93257
+North Lindale Way	Porterville	93257
+North Lindauer Drive	La Habra	90631
+North Linden Drive	Beverly Hills	90210
+North Linden Drive	Beverly Hills	90212
+North Lindley Avenue	Encino	91316
+North Lindley Avenue	Northridge	91325
+North Lindley Avenue	Northridge	91330
+North Lindley Avenue	Reseda	91335
+North Lindley Avenue	Tarzana	91356
+North Lindley Drive	Porterville	93257
+North Lindsay Court	Visalia	93291
+North Lindsay Street	Visalia	93291
+North Linnel Avenue	Farmersville	93223
+North Linsley Court	Long Beach	90806
+North Linton Drive	Covina	91724
+North Linwood Court	Visalia	93291
+North Linwood Street	Visalia	93291
+North Litchfield Avenue	Long Beach	90815
+North Little Oak Lane	Woodland Hills	91367
+North Live Oak Avenue	Glendora	91741
+North Live Oak Drive	Los Angeles	90068
+North Live Oak View Avenue	Los Angeles	90041
+North Llamas Place	San Fernando	91340
+North Llano Cutoff	Llano	93544
+North Llano Drive	Woodland Hills	91364
+North Ln	Burlingame	94010
+North Ln	Del Mar	92014
+North Ln	El Cajon	92021
+North Ln	Hayward	94545
+North Ln	Lakeside	92040
+North Ln	Orinda	94563
+North Ln	San Ysidro	92173
+North Ln	Santee	92071
+North Ln	Trabuco Canyon	92679
+North Loadstone Drive	Sherman Oaks	91403
+North Lobos Road	Woodland Hills	91364
+North Locke Avenue	Los Angeles	90032
+North Locke Road	Vacaville	95688
+North Lockheed Drive	Burbank	91505
+North Locust Avenue	Compton	90221
+North Locust Avenue	Long Beach	90802
+North Locust Court	Visalia	93291
+North Locust Street	Inglewood	90301
+North Locust Street	Visalia	93291
+North Lodge Avenue	Los Angeles	90042
+North Lodi Place	Los Angeles	90038
+North Logan Street	Los Angeles	90026
+North Lois Street	La Habra	90631
+North Loleta Avenue	Los Angeles	90041
+North Loma Avenue	Long Beach	90803
+North Loma Avenue	Long Beach	90804
+North Loma Avenue	Long Beach	90814
+North Loma Norte Place	La Habra	90631
+North Loma Verde Avenue	Canoga Park	91303
+North Lombard Street	Visalia	93291
+North Lombardi Street	Porterville	93257
+North Lombardy Boulevard	Los Angeles	90032
+North Lomina Avenue	Long Beach	90808
+North Lomina Avenue	Long Beach	90815
+North Lomita Street	Burbank	91506
+North Lomitas Drive	Los Angeles	90032
+North Lomitas Drive	Los Angeles	90042
+North Londonderry Place	West Hollywood	90069
+North Lone Hill Avenue	Glendora	91741
+North Lone Hill Avenue	San Dimas	91773
+North Long Beach Boulevard	Compton	90221
+North Long Beach Boulevard	Long Beach	90802
+North Long Beach Boulevard	Long Beach	90805
+North Long Beach Boulevard	Long Beach	90806
+North Long Beach Boulevard	Long Beach	90807
+North Long Beach Boulevard	Long Beach	90813
+North Long Street	Inglewood	90302
+North Longacre Avenue	Granada Hills	91344
+North Longmont Avenue	San Gabriel	91775
+North Longridge Avenue	Sherman Oaks	91423
+North Longridge Avenue	Studio City	91604
+North Loop Dr	San Jose	95126
+North Loop Rd	Menifee	92584
+North Lopez Canyon Road	Sylmar	91342
+North Loraine Avenue	Glendora	91741
+North Loranne Avenue	Pomona	91767
+North Loren Avenue	Azusa	91702
+North Lorena Street	Los Angeles	90063
+North Loreta Walk	Long Beach	90803
+North Lorri Way	Walnut	91789
+North Los Altos Drive	Hacienda Heights	91745
+North Los Angeles Street	Los Angeles	90012
+North Los Angeles Street	Tulare	93274
+North Los Coyotes Diagon	Long Beach	90808
+North Los Coyotes Diagonal	Long Beach	90808
+North Los Coyotes Diagonal	Long Beach	90815
+North Los Feliz Boulevard	Los Angeles	90039
+North Los Liones Drive	Pacific Palisades	90272
+North Los Robles Avenue	Altadena	91001
+North Los Robles Avenue	Pasadena	91101
+North Los Robles Avenue	Pasadena	91104
+North Lost Trail Drive	Sylmar	91342
+North Lotas Place	Porterville	93257
+North Lotas Street	Porterville	93257
+North Lotas Way	Porterville	93257
+North Lotta Drive	Los Angeles	90063
+North Lotus Avenue	Pasadena	91107
+North Lotus Avenue	San Gabriel	91775
+North Louise Avenue	Azusa	91702
+North Louise Avenue	Encino	91316
+North Louise Avenue	Granada Hills	91344
+North Louise Avenue	Northridge	91325
+North Louise Avenue	Van Nuys	91406
+North Louise Street	Glendale	91205
+North Louise Street	Glendale	91206
+North Louise Street	Glendale	91207
+North Lovers Lane	Etna	96027
+North Lovers Lane	Visalia	93292
+North Lowell Avenue	Glendora	91741
+North Lowell Avenue	La Crescenta	91214
+North Lowell Avenue	Los Angeles	90032
+North Lowena Drive	Long Beach	90803
+North Lowery Street	Porterville	93257
+North Lowry Road	Los Angeles	90027
+North Lu Ann Place	Porterville	93257
+North Lu Ann Street	Porterville	93257
+North Lubao Avenue	Woodland Hills	91367
+North Lucerne Boulevard	Los Angeles	90004
+North Lucero Place	Pacific Palisades	90272
+North Lucia Avenue	Redondo Beach	90277
+North Lucile Avenue	Los Angeles	90026
+North Lucile Avenue	Los Angeles	90039
+North Lucretia Avenue	Los Angeles	90026
+North Lucy Lane	Northridge	91325
+North Luella Drive	Los Angeles	90063
+North Lugano Place	Los Angeles	90068
+North Lunsford Drive	Los Angeles	90041
+North Lurline Avenue	Winnetka	91306
+North Luse Tank Road	Topanga	90290
+North Lyall Avenue	Covina	91722
+North Lyall Avenue	West Covina	91790
+North Lydia Street	La Habra	90631
+North Lyman Avenue	Covina	91724
+North Lyman Place	Los Angeles	90027
+North Lyman Place	Los Angeles	90029
+North Lyndsay Way	Dinuba	93618
+North Lynn Avenue	Dos Palos	93620
+North Lynnfield Circle	Los Angeles	90032
+North Lynora Street	Tulare	93274
+North Lynton Avenue	Wilmington	90744
+North Lyric Avenue	Los Angeles	90027

@@ -1,0 +1,7 @@
+74Th Ave	Thermal	92274
+74Th Street	Inglewood	90305
+74Th Street	Los Angeles	90001
+74Th Street	Los Angeles	90003
+74Th Street	Los Angeles	90043
+74Th Street	Los Angeles	90045
+74Th Street	Los Angeles	90047

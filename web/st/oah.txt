@@ -1,0 +1,20 @@
+Oahu	West Covina	91792
+Oahu Ct	Roseville	95747
+Oahu Ct	San Ramon	94582
+Oahu Dr	Fair Oaks	95628
+Oahu Dr	Huntington Beach	92649
+Oahu Dr	Huntington Beach	92649-2328
+Oahu Dr	Huntington Beach	92649-2329
+Oahu Dr	Huntington Beach	92649-2367
+Oahu Dr	Huntington Beach	92649-2368
+Oahu Dr	Pittsburg	94565
+Oahu Ln	Bakersfield	93312
+Oahu Ln	Salton City	92274
+Oahu Ln	Saratoga	95070
+Oahu Pl	Costa Mesa	92626
+Oahu Pl	Redding	96003
+Oahu Rd	Newberry Springs	92365
+Oahu St	Morro Bay	93442
+Oahu St	Victorville	92392
+Oahu Street	West Covina	91792
+Oahu Way	Placentia	92870

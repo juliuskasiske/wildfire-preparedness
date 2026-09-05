@@ -121,6 +121,37 @@ FROM submissions, json_each(json_extract(answers,'$.q3_motivations')) j
 GROUP BY motive ORDER BY avg_rank;
 ```
 
+## Address suggestions
+
+`web/st/` holds a street index built from the county address points already in
+`data/index/address_points.sqlite`. Rebuild it with:
+
+```bash
+python3 tools/build_street_index.py
+```
+
+513,952 California streets in 2,676 static shards, 15 MB in total. The browser
+downloads only the shard matching what has been typed, around 16 KB gzipped,
+and caches it.
+
+Three decisions worth keeping:
+
+- **Streets, not addresses.** The user types their own house number, so the
+  index only needs distinct street, city and ZIP: 513,952 rows instead of
+  18.9M, 15 MB instead of 670.
+- **Static files, not a service.** Cloudflare Pages caches them at the edge for
+  nothing, there is no runtime query, and nothing anyone types leaves the site.
+  That is what keeps the privacy notice true when it says Cloudflare and Gmail
+  are the only recipients. A hosted geocoder would have to be added there.
+- **The junk is filtered.** One row in five was a placeholder rather than a
+  street, mostly 132,539 rows of `UNASSIGNED <parcel number>` from Riverside
+  County. Left in, a fifth of every dropdown would have been parcel numbers.
+  The filters are the `JUNK` list in the build script.
+
+Suggestions are a convenience and never a gate: if the index is missing or a
+fetch fails, the field still accepts a typed address and the validation below
+still decides.
+
 ## Address validation
 
 Every submission has to be an address we can actually produce a report for, so

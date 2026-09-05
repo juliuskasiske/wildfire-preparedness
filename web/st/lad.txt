@@ -1,0 +1,201 @@
+Lada Ave	Camarillo	93012
+Lada Ave	Madera	93638
+Ladan Dr	Santa Barbara Unincorporated	93463
+Ladan Lane	Grass Valley	95949
+Ladana Court	Santa Fe Springs	90670
+Ladante St	Lemoore	93245
+Ladbrook Grv	Coto De Caza	92679
+Ladbrook Way	Bakersfield	93311
+Ladbrook Way	Thousand Oaks	91361
+Ladd Ave	Moreno Valley	92555
+Ladd Avenue	Los Angeles	90032
+Ladd Canyon Rd	Silverado Canyon	92676
+Ladd Ct	Antelope	95843
+Ladd Ct	Hemet	92544
+Ladd Ln	Auburn	95603
+Ladd Ln	Hollister	95023
+Ladd Ln	Tres Pinos	95023
+Ladd Rd	Modesto	95356
+Ladd Road	Seiad Valley	96086
+Ladd St	San Diego	92109
+Ladd Tract Ct	Stockton	95205
+Ladd Tract Rd	Stockton	95205
+Laddeck Ct	San Diego	92114
+Laddell Ave	Clearlake	95422
+Ladder Canyon Dr	Indio	92201
+Ladder Ridge Rd	Upper Lake	95485
+Laddie Ct	San Jose	95121
+Laddie Ln	San Diego	92123
+Laddie Way	San Jose	95121
+Laddy Ln	Paso Robles	93446
+Ladeene Avenue	Torrance	90503
+Ladeene Avenue	Torrance	90505
+Ladeene Street	Torrance	90503
+Ladefonos Ct	Sacramento	95842
+Ladelle Avenue	Palmdale	93550
+Ladelle Hilltop Rd	Hopland	 
+Ladelle Orchard Rd	Hopland	 
+Ladelle Ranch Rd	Hopland	 
+Ladera	Lompoc	93436
+Ladera	Ojai	93023
+Ladera	Santa Cruz	95060
+Ladera	Soquel	95073
+Ladera Ave	Lucerne Valley	92356
+Ladera Brisa	San Clemente	92673
+Ladera Cir	Corona	92879
+Ladera Cir	La Quinta	92253
+Ladera Cir	Palm Springs	92262
+Ladera Cir	Ybl	92886
+Ladera Cir	Yorba Linda	92886
+Ladera Corte	San Ramon	94583
+Ladera Court	Davis	95618
+Ladera Crest Drive	Los Angeles	90056
+Ladera Ct	Carlsbad	92009
+Ladera Ct	Rancho Cucamonga	91730
+Ladera Ct	San Luis Obispo	93401
+Ladera Ct	Saratoga	95070
+Ladera Ct	Vista	92083
+Ladera Dr	Anderson	96007
+Ladera Dr	Guadalupe	93434
+Ladera Dr	La Quinta	92253
+Ladera Dr	Lincoln	95648
+Ladera Dr	Mission Viejo	92691
+Ladera Dr	San Jose	95134
+Ladera Dr	Sonoma	95476
+Ladera Drive	Beverly Hills	90210
+Ladera Drive	Carmel	93923
+Ladera Drive	Carmel By The Sea	93921
+Ladera Drive	Vallejo	94591
+Ladera Lane	Grass Valley	95945
+Ladera Lane	Woodland Hills	91364
+Ladera Linda	Del Mar	92014
+Ladera Linda Way	Del Mar	92014
+Ladera Ln	Paso Robles	93446
+Ladera Ln	Riverside	92501
+Ladera Ln	San Clemente	92672
+Ladera Ln	Toro Canyon	93108
+Ladera Park Avenue	Los Angeles	90056
+Ladera Piedra Way	Poway	92064
+Ladera Pl	Arroyo Grande	93420
+Ladera Pl	Placentia	92870
+Ladera Ranch Rd	Ojai	93023
+Ladera Rd	Glen Ellen	95442
+Ladera Rd	Ojai	93023
+Ladera Sarina	Del Mar	92014
+Ladera Senda	North Tustin	92705
+Ladera St	Grand Terrace	92313
+Ladera St	Redlands	92373
+Ladera St	San Diego	92107
+Ladera St	Santa Barbara	93101
+Ladera St	Santa Barbara	93109
+Ladera Street	Monterey Park	91754
+Ladera Vista	Temecula	92592
+Ladera Vista Dr	Camarillo	93012
+Ladera Vista Dr	Chino Hills	91709
+Ladera Vista Dr	Fullerton	92831
+Ladera Vista Dr	Temecula	92592
+Ladera Vista Pl	Fullerton	92831
+Ladera Vista Rd	Fallbrook	92028
+Ladera Way	Belmont	94002
+Ladera Way	Carmichael	95608
+Ladera Way	La Grange	95329
+Ladera Way	Oceanside	92054
+Ladera Way	Pacifica	94044
+Laderman Lane	Palmdale	93550
+Laderman Ln	Greenbrae	94904
+Ladero Pl	Escondido	92029
+Ladi Ave	Salton City	92274
+Ladino Avenue	Merced	95348
+Ladino Avenue	Penn Valley	95946
+Ladino Rd	Sacramento	95864
+Ladiosa Ct	Bonita	91902
+Ladiosa Ct	Chula Vista	91910
+Ladis Ct	Sunnyvale	94086
+Ladlehill Dr	San Diego	92139
+Ladley Court	Canyon Country	91387
+Ladner Dr	San Jose	95123
+Ladner St	San Diego	92113
+Ladner Street	Whittier	90603
+Lado De Loma Dr	Vista	92083
+Lado De Loma Drive	Hacienda Heights	91745
+Lado Del Rio	Gasquet	95543
+Lado Del Rio Dr	Gasquet	95543
+Lado Dr	Santa Barbara Unincorporated	93111
+Ladoga Avenue	Lakewood	90713
+Ladoga Avenue	Long Beach	90808
+Ladoga Avenue	Long Beach	90815
+Ladoga Dr	Menifee	92585
+Ladoga Ln	Vista	92083
+Ladoga Pl	Jurupa Valley	92509
+Ladona Cir	Huntington Beach	92649
+Ladona Cir	Huntington Beach	92649-2133
+Ladona Ct	Modesto	95354
+Ladonia St	Simi Valley	93063
+Ladrido Ln	Ramona	92065
+Ladrillo Aisle	Irvine	92606
+Ladrillo St	Lake Elsinore	92530
+Ladrillo St	San Diego	92111
+Ladrillo Street	Lake Elsinore	92530
+Ladrillo Street	Woodland Hills	91367
+Ladrillo Way	Victorville	92392
+Ladrillos Way	San Miguel	93451
+Ladwp	Adelanto	92301
+Ladwp	Rancho Cucamonga	91737
+Lady Banks Loop	Corona	92883
+Lady Bell Way	Perris	92571
+Lady Bells Dr	Orcutt	93455
+Lady Bells Dr	Santa Maria	93455
+Lady Bess Pl	San Diego	92126
+Lady Bess Way	San Diego	92126
+Lady Bird Ct	Elk Grove	95757
+Lady Bird Ct	Indio	92201
+Lady Bird Drive	Calabasas	91302
+Lady Bird Way	Fontana	92336
+Lady Bug Lane	Rough And Ready	95975
+Lady Bug Lane	Vacaville	95688
+Lady Bug Ln	San Marcos	92069
+Lady Clare Wa	Manteca	95336
+Lady Clare Wk	Manteca	95336
+Lady Dawn Ct	Riverbank	95367
+Lady Di Court	Merced	95301
+Lady Di Way	Elk Grove	95758
+Lady Ellen Ln	Pioneer	95666
+Lady Emma Ct	Gold River	95670
+Lady Fern Ct	San Diego	92131
+Lady Fern Street	Arboga	95961
+Lady Hill Rd	San Diego	92130
+Lady Jane Ln	Stockton	95206
+Lady Jane Road	Grass Valley	95949
+Lady Jane Way	Orangevale	95662
+Lady Linda Lane	Santa Clarita	91390
+Lady Ln	Lakeside	92040
+Lady Miram Rd	Pioneer	 
+Lady Palm Ct	San Jose	95133
+Lady Slipper Ln	Newman	95360
+Lady Slipper Pl	Elk Grove	95624
+Lady Smith Ave	Anderson	96007
+Ladybird Drive	Grass Valley	95949
+Ladybird Ln	La Jolla	92037
+Ladybird Ln	Victorville	92394
+Ladybird Wy	Stockton	95209
+Ladybug Ct	Martinez	94553
+Ladybug Ln	Martinez	94553
+Ladybug Ln	Murrieta	92563
+Ladybug Ln	San Marcos	92069
+Ladybug Peak Road	Verdi	NA
+Ladybug Pl	Chula Vista	91915
+Ladycliff Cir	Thousand Oaks	91360
+Ladyface Circle	Agoura Hills	91301
+Ladyface Court	Agoura Hills	91301
+Ladyfern Ct	Lake Elsinore	92532
+Ladyfern Lane	Palmdale	93551
+Ladyhawk Ct	Sacramento	95835
+Ladymuir Ct	San Jose	95131
+Ladypalm	Irvine	92618
+Ladys Secret Ct	Rancho Santa Fe	92067
+Ladys Secret Dr	Rancho Santa Fe	92067
+Ladysmith Ave	Anderson	96007
+Ladysmith Dr	El Cajon	92020
+Ladysmith Street	Hacienda Heights	91745
+Ladywood Ct	San Jose	95130
+Ladywood Place	Montebello	90640

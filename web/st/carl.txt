@@ -1,0 +1,468 @@
+Carl	Capitola	95010
+Carl	Santa Cruz	95062
+Carl	Scotts Valley	95066
+Carl Ave	Milpitas	95035
+Carl Ave	Richmond	94804
+Carl Avenue	Vallejo	94590
+Carl Boyer Drive	Santa Clarita	91350
+Carl Court	Newhall	91321
+Carl Ct	Jurupa Valley	91752
+Carl Ct	Thousand Oaks	91320
+Carl Dr	Hemet	92545
+Carl Dr	Jamul	91935
+Carl Lewis Drive	Olivehurst	95961
+Carl Ln	Bakersfield	93306
+Carl Ln	Garden Grove	92844
+Carl Ln	Ripon	95366
+Carl Raymond Brown Ln	Tracy	95377
+Carl Rd	Lafayette	94549
+Carl Rd	Madera	93636
+Carl Rd	Sunnyvale	94086
+Carl Rd	Wildomar	92584
+Carl Sandburg Cir	Sacramento	95842
+Carl St	Riverside	92507
+Carl St	San Francisco	94117
+Carl St	Wildomar	92584
+Carl Street	Pacoima	91331
+Carl Street	Sylmar	91342
+Carl Way	Modesto	95357
+Carla Ave	Chula Vista	91910
+Carla Avenue	Pixley	93256
+Carla Cir	Huntington Beach	92647
+Carla Cir	Huntington Beach	92647-4315
+Carla Cir	Redding	96003
+Carla Court	Canyon Country	91387
+Carla Ct	Antioch	94509
+Carla Ct	Escondido	92026
+Carla Ct	Lake Elsinore	92532
+Carla Ct	Mountain View	94040
+Carla Ct	Palm Desert	92211
+Carla Ct	Ripon	95366
+Carla Ct	San Jose	95120
+Carla Ct	San Luis Obispo	93401
+Carla Ct	Santa Maria	93454
+Carla Dr	Lemoore	93245
+Carla Dr	San Jose	95120
+Carla Dr	Simi Valley	93065
+Carla Jean Dr	Moreno Valley	92553
+Carla Lane	Beverly Hills	90210
+Carla Lane	Canoga Park	91304
+Carla Ln	Forestville	95436
+Carla Ln	Modesto	95350
+Carla Place	Cerritos	90703
+Carla Ridge	Beverly Hills	90210
+Carla Ridge	Los Angeles	90046
+Carla St	Stanton	92841
+Carla Way	Gilroy	95020
+Carla Way	La Jolla	92037
+Carla Way	Sacramento	95826
+Carland Drive	Newhall	91321
+Carlann Cir	Tustin	92780
+Carlann Dr	San Marcos	92069
+Carlann Ln	Escondido	92027
+Carlaris Road	San Marino	91108
+Carlata Ln	Valley Center	92082
+Carlback Ave	Walnut Creek	94596
+Carle Ln	Sacramento	95841
+Carlee Dr	Anderson	96007
+Carleen Court	Tujunga	91042
+Carleen Ct	Galt	95632
+Carleen Ct	Turlock	95380
+Carlen Avenue	Winton	95388
+Carlena Ln	Temecula	92591
+Carlene	Freedom	95019
+Carlene Cir	Corona	92882
+Carlene Lane	Lomita	90717
+Carlene Pl	Chico	95973
+Carlene St	Corona	92882
+Carlerik Ave	Carson	90810
+Carlester Dr	Los Gatos	95032
+Carlet Place	San Dimas	91773
+Carlet Street	La Verne	91750
+Carlet Street	San Dimas	91773
+Carleta Pl	Lathrop	95330
+Carleton Avenue	Los Angeles	90065
+Carleton Avenue	Tulare	93274
+Carleton Cir	Pla	92870
+Carleton Cir	Placentia	92870
+Carleton Cir	Victorville	92392
+Carleton Ct	Corona	92881
+Carleton Ct	Redwood City	94061
+Carleton Dr	Concord	94518
+Carleton Dr	Petaluma	94952
+Carleton Dr	Turlock	95382
+Carleton Dr	Ukiah	 
+Carleton Drive	Cerritos	90703
+Carleton Ln	Citrus Heights	95610
+Carleton Pl	Pacifica	94044
+Carleton Pl	Santa Clara	95051
+Carleton Place	Claremont	91711
+Carleton Rd	Mariposa	95338
+Carleton Sq	San Diego	92106
+Carleton St	Berkeley	94702
+Carleton St	Berkeley	94703
+Carleton St	Berkeley	94704
+Carleton St	Berkeley	94710
+Carleton St	Berkeley	94720
+Carleton St	Fountain Valley	92708
+Carleton St	Redding	96002
+Carleton St	San Bernardino	92407
+Carleton St	San Diego	0
+Carleton St	San Diego	92106
+Carleton Way	Alamo	94507
+Carleton Way	Fullerton	92833
+Carleton Way	Temecula	92591
+Carlette St	La Mesa	91942
+Carlevaro Way	Bodega Bay	94923
+Carley Avenue	Whittier	90601
+Carley Cir	San Diego	92126
+Carley Rd	Santa Rosa	95405
+Carlfield St	El Sobrante	94803
+Carli Ct	Paradise	95969
+Carli Dr	Calistoga	94515
+Carli Way	Nevada City	95959
+Carlie Dr	Bella Vista	96008
+Carlile Ct	Granite Bay	95746
+Carlile Dr	Loomis	95650
+Carlile Dr	Novato	94945
+Carlile Pl	Santa Rosa	95403
+Carlin Ave	Sacramento	95823
+Carlin Ave	Westminster	92683
+Carlin Avenue	Lynwood	90262
+Carlin Ct	Petaluma	94954
+Carlin Dr	Guadalupe	93434
+Carlin Drive	Posey	93260
+Carlin Drive	West Sacramento	95691
+Carlin Heights	Escondido	92025
+Carlin Ln	Riverside	92507
+Carlin Pl	La Mesa	91941
+Carlin St	Ramona	92065
+Carlin Street	Los Angeles	90016
+Carlina	Irvine	92620
+Carlina Ct	Roseville	95747
+Carlina St	Carlsbad	92009
+Carling Ct	San Jose	95111
+Carling Dr	San Diego	92115
+Carling Way	San Diego	92115
+Carlingford Ave	Riverside	92504
+Carlingford Lane	Vallejo	94591
+Carlino	Aptos	95003
+Carlisle Ave	Chino	91710
+Carlisle Ave	Modesto	95356
+Carlisle Ave	Sacramento	95828
+Carlisle Ave	Sacramento	95829
+Carlisle Cir	La Habra	90631
+Carlisle Court	Benicia	94510
+Carlisle Court	Linda	95901
+Carlisle Court	San Dimas	91773
+Carlisle Court	Vacaville	95688
+Carlisle Ct	Bakersfield	93309
+Carlisle Ct	Brentwood	94513
+Carlisle Ct	Ladera Ranch	92694
+Carlisle Ct	Modesto	95356
+Carlisle Ct	Moreno Valley	92557
+Carlisle Ct	Oxnard	93033
+Carlisle Ct	Roseville	95747
+Carlisle Ct	San Ramon	94583
+Carlisle Ct	Stockton	95210
+Carlisle Dr	Brentwood	94513
+Carlisle Dr	Lemon Grove	91945
+Carlisle Dr	San Diego	92114
+Carlisle Dr	San Mateo	94402
+Carlisle Drive	San Marino	91108
+Carlisle Ln	Apple Valley	92307
+Carlisle Pl	Rancho Cucamonga	91730
+Carlisle Place	Benicia	94510
+Carlisle Rd	Apple Valley	92307
+Carlisle Rd	Malibu	90265
+Carlisle Rd	North Tustin	92705
+Carlisle Rd	Thousand Oaks	91361
+Carlisle Road	Ducor	93218
+Carlisle Road	Westlake Village	91361
+Carlisle St	Murrieta	92563
+Carlisle St	Perris	92571
+Carlisle Way	Benicia	94510
+Carlisle Way	Manteca	95336
+Carlisle Way	Sunnyvale	94087
+Carlisle Way	Vallejo	94591
+Carlisle Way	Yuba City	95991
+Carlisle Wy	Goleta	93117
+Carlisle Wy	Manteca	95336
+Carlita	Perris	92570
+Carlita Cir	Perris	92570
+Carlita Cir	Rohnert Park	94928
+Carlita Ct	Bakersfield	93304
+Carlita Rd	Bakersfield	93304
+Carlitos Ct	Palo Alto	94306
+Carlmont Dr	Belmont	94002
+Carlmont Pl	Simi Valley	93065
+Carlo Court	Palmdale	93552
+Carlo Ct	Galt	95632
+Carlo Dr	Goleta	93117
+Carlo Dr	Riverside	92506
+Carlo Dr	Santa Barbara Unincorporated	93117
+Carlo Scimeca Ct	San Jose	95132
+Carlo Scimeca Dr	San Jose	95132
+Carlo St	San Marcos	92078
+Carlo Wy	Lodi	95240
+Carlock Street	Fort Jones	96032
+Carlos	La Selva Bch	95076
+Carlos Ave	Burlingame	94010
+Carlos Ave	El Cerrito	94530
+Carlos Ave	Redwood City	94061
+Carlos Ave	Richmond	94804
+Carlos Ave	Ventura	93004
+Carlos Avenue	Alhambra	91803
+Carlos Avenue	Los Angeles	90028
+Carlos Bee Blvd	Hayward	94542
+Carlos Canyon Ct	Chula Vista	91910
+Carlos Canyon Dr	Chula Vista	91910
+Carlos Cir	Rancho Murieta	95683
+Carlos Ct	Chino	91710
+Carlos Ct	Coulterville	95311
+Carlos Ct	Modesto	95351
+Carlos Ct	Santa Rosa	95409
+Carlos Ct	Walnut Creek	94597
+Carlos Dr	San Rafael	94903
+Carlos Pl	Chico	95926
+Carlos Place	Newhall	91321
+Carlos Privada	Mountain View	94040
+Carlos Rd	Ybl	92887
+Carlos Rd	Yorba Linda	92887
+Carlos St	Moss Beach	94038
+Carlos St	Napa	94558
+Carlos St	Other	94038
+Carlos St	San Diego	92102
+Carlos St	Ventura	93004
+Carlos Street	Alhambra	91803
+Carlos Way	Rancho Cordova	95670
+Carlota Boulevard	Los Angeles	90031
+Carlota Boulevard	Los Angeles	90042
+Carlota Dr	Mission Viejo	92691
+Carlota St	San Diego	92129
+Carlota Way	Riverside	92507
+Carlotta	Newport Beach	92660
+Carlotta	Palm Desert	92211
+Carlotta Ave	Berkeley	94703
+Carlotta Ave	Berkeley	94707
+Carlotta Ave	Buena Park	90620
+Carlotta Cir	Mill Valley	94941
+Carlotta Cir	Pinole	94564
+Carlotta Ct	Redlands	92374
+Carlotta Ct	San Jose	95136
+Carlotta Ct	Sebastopol	95472
+Carlotta Dr	Concord	94519
+Carlotta Dr	Hemet	92543
+Carlotta Dr	Palm Desert	92211
+Carlotta Dr	Sacramento	95825
+Carlotta Rd	Santa Margarita	93453
+Carlotta St	Garden Grove	92845
+Carlotta St	Hemet	92543
+Carlotta St	Simi Valley	93063
+Carlotta Ter	Columbia	95310
+Carlotta Way	Oceanside	92057
+Carlotta Way	Yuba City	95991
+Carlotti Dr	Santa Maria	93454
+Carlow	Irvine	92618
+Carlow Ct	El Cajon	92020
+Carlow Ct	Rancho Cucamonga	91701
+Carlow Ct	Sunnyvale	94087
+Carlow Dr	Citrus Heights	95621
+Carlow Dr	Huntington Beach	92647
+Carlow Dr	Huntington Beach	92647-3113
+Carlow Ln	El Cajon	92020
+Carlow Road	Torrance	90505
+Carlow St	El Cajon	92020
+Carlow Way	2	94531
+Carlow Way	El Cajon	92020
+Carlow Way	Redding	96001
+Carlow Way	South San Francisco	94080
+Carlozzi Dr	Soulsbyville	95372
+Carls Ct	San Jose	95123
+Carls Ct	San Martin	95046
+Carls Way	Lemon Grove	91945
+Carlsbad Ave	Big River	92242
+Carlsbad Ave	Mentone	92359
+Carlsbad Ave	Sacramento	95821
+Carlsbad Ave	Yucca Valley	92284
+Carlsbad Avenue	Davis	95616
+Carlsbad Blvd	Carlsbad	92008
+Carlsbad Blvd	Carlsbad	92011
+Carlsbad Caverns Ct	Newman	95360
+Carlsbad Cir	Hemet	92545
+Carlsbad Cir	Los Alamitos	90720
+Carlsbad Cir	Thousand Palms	92276
+Carlsbad Circle	Vacaville	95687
+Carlsbad Ct	Chico	95973
+Carlsbad Ct	Fountain Valley	92708
+Carlsbad Ct	Milpitas	95035
+Carlsbad Ct	Petaluma	94954
+Carlsbad Ct	Redding	96002
+Carlsbad Ct	Rocklin	95765
+Carlsbad Ct	San Diego	92114
+Carlsbad Ct	San Rafael	94903
+Carlsbad Ct	South San Francisco	94080
+Carlsbad Ct	Yucca Valley	92284
+Carlsbad Dr	Indio	92203
+Carlsbad Dr	North Tustin	92705
+Carlsbad Dr	San Jose	95118
+Carlsbad Dr	Thousand Palms	92276
+Carlsbad Drive	Merced	95348
+Carlsbad Inn	Carlsbad	92008
+Carlsbad Inn Timeshare	Carlsbad	92008
+Carlsbad Ln	Aliso Viejo	92656
+Carlsbad Ln	Huntington Beach	92646
+Carlsbad Ln	Huntington Beach	92646-5344
+Carlsbad Ln	Huntington Beach	92646-5345
+Carlsbad Ln	Huntington Beach	92646-5347
+Carlsbad Ln	Redding	96002
+Carlsbad Ln	Victorville	92392
+Carlsbad Pl	Chino	91710
+Carlsbad Pl	Ventura	93003
+Carlsbad Place	Davis	95616
+Carlsbad Place	Woodland	95695
+Carlsbad St	Hesperia	92344
+Carlsbad St	Milpitas	95035
+Carlsbad St	Pla	92870
+Carlsbad St	Placentia	92870
+Carlsbad St	San Diego	92114
+Carlsbad St	Spring Valley	91977
+Carlsbad Street	Redondo Beach	90278
+Carlsbad Street	Sylmar	91342
+Carlsbad Village Dr	Carlsbad	92008
+Carlsbad Village Dr	Carlsbad	92010
+Carlsbad Way	Riverside	92506
+Carlsen Road	Salinas	93907
+Carlsen Way	San Jose	95118
+Carlson Ave	Redlands	92374
+Carlson Ave	Rohnert Park	94928
+Carlson Ave	San Anselmo	94960
+Carlson Avenue	King City	93930
+Carlson Avenue	Yuba City	95993
+Carlson Blvd	El Cerrito	94530
+Carlson Blvd	Richmond	94804
+Carlson Cir	Palo Alto	94306
+Carlson Circle	Canoga Park	91303
+Carlson Ct	Concord	94519
+Carlson Ct	Laguna Hills	92653
+Carlson Ct	Palo Alto	94306
+Carlson Ct	Poway	92064
+Carlson Ct	Rohnert Park	94928
+Carlson Ct	San Anselmo	94960
+Carlson Ct	Unincorporated Alameda County	94541
+Carlson Ct	Vista	92083
+Carlson Dr	Arcata	95521
+Carlson Dr	Brea	92821
+Carlson Dr	Morgan Hill	95037
+Carlson Dr	Sacramento	95819
+Carlson Lane	Fairfield	94533
+Carlson Lane	Redondo Beach	90278
+Carlson Ln	Eureka	95503
+Carlson Pl	Riverside	92503
+Carlson Rd	Richvale	95965
+Carlson Road	Salinas	93907
+Carlson Road	Yuba City	95993
+Carlson St	Mendocino	 
+Carlson St	Poway	92064
+Carlson Street	King City	93930
+Carlson Street	Vallejo	94590
+Carlson Way	Folsom	95630
+Carlson Way	Napa	94558
+Carlson Way	Salida	95368
+Carlston St	Richmond	94805
+Carlton	Irvine	92620
+Carlton	Monterey	93940
+Carlton	Watsonville	95076
+Carlton Av	Stockton	95203
+Carlton Ave	Blythe	92225
+Carlton Ave	Daly City	94015
+Carlton Ave	Los Gatos	95032
+Carlton Ave	Menlo Park	94025
+Carlton Ave	Modesto	95350
+Carlton Ave	San Bruno	94066
+Carlton Ave	San Jose	95124
+Carlton Ave	Westminster	92683
+Carlton Avenue	Pasadena	91103
+Carlton Avenue	Pomona	91768
+Carlton Avenue	Vacaville	95687
+Carlton Ct	Chino Hills	91709
+Carlton Ct	Granite Bay	95746
+Carlton Ct	Laguna Niguel	92677
+Carlton Ct	Los Gatos	95032
+Carlton Ct	San Pablo	94806
+Carlton Ct	South San Francisco	94080
+Carlton Dr	Thousand Oaks	91360
+Carlton Dr	Wildomar	92595
+Carlton Drive	Glendale	91205
+Carlton Drive	Inglewood	90305
+Carlton Drive	Monterey	93940
+Carlton Hills Blvd	Santee	92071
+Carlton Lane	Sylmar	91342
+Carlton Ln	Antioch	94509
+Carlton Oaks Dr	Santee	92071
+Carlton Oaks St	Murrieta	92562
+Carlton Pl	Costa Mesa	92627
+Carlton Pl	Point Reyes Station	94956
+Carlton Pl	Riverside	92507
+Carlton Pl	Santee	92071
+Carlton Pl	Ybl	92886
+Carlton Pl	Yorba Linda	92886
+Carlton Place	Covina	91724
+Carlton Place	Monterey	93940
+Carlton Place	Rowland Heights	91748
+Carlton Privado	Ontario	91762
+Carlton Rd	Hillsborough	94010
+Carlton Rd	Sacramento	95826
+Carlton Rd	Wildomar	92595
+Carlton Road	Montague	96064
+Carlton St	Bakersfield	93309
+Carlton St	Montclair	91763
+Carlton St	Ontario	91762
+Carlton St	Thousand Oaks	91360
+Carlton Street	Palmdale	93551
+Carlton Way	Brentwood	94513
+Carlton Way	Fallbrook	92028
+Carlton Way	Los Angeles	90027
+Carlton Way	Los Angeles	90028
+Carlton Way	Los Gatos	95032
+Carlton Way	Stanton	90680
+Carlton Way	Venice	90291
+Carlton Way	West Hollywood	90069
+Carlton Wy	Santa Barbara	93109
+Carlucci Court	Los Banos	93635
+Carlucci Road	Dos Palos	93620
+Carly Anne Court	Merced	95341
+Carly Anne Drive	Merced	95341
+Carly Court	Rowland Heights	91748
+Carly Creek Dr	Patterson	95363
+Carly Ct	Murrieta	92562
+Carly Ct	National City	91950
+Carly Ct	Riverside	92503
+Carly Ct	San Diego	92114
+Carly Dr	Stockton	95205
+Carly St	National City	91950
+Carly Way	Sacramento	95816
+Carlye Cir	Corona	92882
+Carlyle	Irvine	92620
+Carlyle Ave	Sacramento	95823
+Carlyle Avenue	Santa Monica	90402
+Carlyle Cir	Corona	92882
+Carlyle Ct	Cypress	90630
+Carlyle Ct	Danville	94506
+Carlyle Ct	Gilroy	95020
+Carlyle Ct	Santa Clara	95050
+Carlyle Ct	Santa Clara	95054
+Carlyle Dr	Corona	92882
+Carlyle Dr	Jurupa Valley	92509
+Carlyle Dr	Yucca Valley	92284
+Carlyle Place	Los Angeles	90065
+Carlyle St	Hayward	94544
+Carlyle St	Ventura	93004
+Carlyle Street	Los Angeles	90065
+Carlyle Ter	Lafayette	94549
+Carlyle Way	Chowchilla	93610
+Carlyn Ave	Campbell	95008
+Carlyn Ct	Sunnyvale	94086
+Carlynn Place	Tujunga	91042
+Carlysle Av	Santa Clara	95051
+Carlysle Ave	Santa Clara	95051

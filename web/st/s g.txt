@@ -1,0 +1,319 @@
+S G	Imperial	92251
+S G	Westmorland	92281
+S G Ln	Big Bear City	92314
+S G St	Arcata	95521
+S G St	Empire	95319
+S G St	Empire	95357
+S G St	Fresno	93721
+S G St	Imperial	92251
+S G St	Lompoc	93436
+S G St	Madera	93637
+S G St	Oxnard	93030
+S G St	Oxnard	93033
+S G St	Perris	92570
+S G St	Porterville	93257
+S G St	San Bernardino	92410
+S G St 1/2	Madera	93637
+S G Street St	Imperial	92251
+S Gable Ln	Santa Maria	93458
+S Gadsden Dr	Milpitas	95035
+S Gage St	San Bernardino	92408
+S Gail Ln	Anaheim	92802
+S Gain St	Anaheim	92804
+S Gaines Ave	Raisin City	93652
+S Gale Ridge Rd	San Ramon	94582
+S Galesmoore Ct	Thousand Oaks	91361
+S Galicia St	Mh	95391
+S Gallaher Way	Banning	92220
+S Gamble Ct	Tustin	92782
+S Garcia St	Santa Paula	93060
+S Garden Av	Manteca	95337
+S Garden Av	Stockton	95205
+S Garden Ave	Fresno	93725
+S Garden Ave	Fresno	93727
+S Garden Ave	Hayward	94541
+S Garden Ave	Hayward	94545
+S Garden Ave	Rialto	92376
+S Garden Cir	Highland	92346
+S Garden Dr	Anaheim	92804
+S Garden Gate Ln	Ontario	91762
+S Garden St	Ventura	93001
+S Garden St	Visalia	93277
+S Gardena Ave	Rialto	92376
+S Gardena St	San Bernardino	92408
+S Gardenaire Ln	Anaheim	92804
+S Gardenia Ave	Ontario	91762
+S Gardenia St	Anaheim	92805
+S Gardner Dr	Orange	92866
+S Gardner Ln	Mh	95391
+S Gardner St	Orange	92866
+S Garfield Av	Manteca	95336
+S Garfield Av	Manteca	95337
+S Garfield Ave	Caruthers	93609
+S Garfield Ave	Fresno	93706
+S Garfield Ave	Manteca	95336
+S Garfield Ave	Ontario	91761
+S Garfield Ave	Oxnard	93030
+S Garfield Ave	Riverdale	93656
+S Garfield Pl	Ontario	91761
+S Garfield St	Coalinga	93210
+S Garfield St	Lodi	95240
+S Garland Ter	Sunnyvale	94086
+S Garner Ln	Manteca	95336
+S Garnet Ct	Colton	92324
+S Garnet Paseo	Ontario	91761
+S Garnsey Ave	Bakersfield	93309
+S Garnsey St	Santa Ana	92701
+S Garnsey St	Santa Ana	92707
+S Garrard Blvd	Richmond	94801
+S Garretson Ave	Corona	92879
+S Garrett St	Anaheim	92804
+S Garvey	Westmorland	92281
+S Gary St	Anaheim	92804
+S Garza Ave	Anaheim	92804
+S Garza St	Anaheim	92804
+S Gasly Paseo	Ontario	91762
+S Gates St	Santa Ana	92704
+S Gateway Bl	Tracy	95377
+S Gateway Dr	Madera	93637
+S Gateway Dr	Madera	93638
+S Gaylord Dr	Burbank	91505
+S Gaymont Dr	Anaheim	92804
+S Gaymont St	Anaheim	92804
+S Gearhart St	Fresno	93702
+S Gearhart St	Fresno	93725
+S Gemini Ave	Bre	92821
+S Gene Autry Trl	Palm Springs	92264
+S Gene Autry Way	Palm Springs	92264
+S General Kearny	Temecula	92591
+S General Kearny Rd	Temecula	92591
+S Geneva Ave	Fresno	93706
+S Genevieve Ln	San Jose	95128
+S Genoa Dr	Santa Ana	92704
+S Genoa Way	Upland	91786
+S Gentry Ln	Anaheim	92807
+S Gentry St	Riverdale	93656
+S Gerhart Ln	Tracy	95304
+S Geronimo Ave	Bloomington	92316
+S Geronimo Ave	Rialto	92316
+S Gertrude Av	Stockton	95215
+S Gibraltar Ave	Anaheim	92808
+S Gibson Ct	Burbank	91501
+S Gibson Ln	Santa Maria	93454
+S Giddings Ct	Visalia	93277
+S Giddings St	Visalia	93277
+S Giddings St	Visalia	93291
+S Gifford Ave	San Bernardino	92408
+S Gifford Ave	San Bernardino	92415
+S Gilbert Ave	Corona	92881
+S Gilbert Ave	Hemet	92543
+S Gilbert St	Anaheim	92801
+S Gilbert St	Anaheim	92804
+S Gilbert St	Fullerton	92833
+S Gilbert St	Hemet	92543
+S Gilbuck Dr	Anaheim	92802
+S Gilbuck St	Anaheim	92802
+S Gillis Canyon Rd	Shandon	93461
+S Gillis Rd	Stockton	95215
+S Gilmar St	Anaheim	92802
+S Gilmore Dr	Upland	91786
+S Gilmore St	Hemet	92545
+S Gina Ave	El Cajon	92019
+S Ginzburg St	Mh	95391
+S Giovanola Ave	San Bernardino	92410
+S Girard St	Hemet	92544
+S Glacier Trl	Ontario	91762
+S Glassell St	Orange	92866
+S Glen Annie Rd	Goleta	93117
+S Glen Cir	Palm Springs	92262
+S Glen Dr	Orange Park Acres	92869
+S Glen Oaks Dr	Alpine	91901
+S Glen Robin St	Orange	92869
+S Glenarbor St	Santa Ana	92704
+S Glencliff St	La Habra	90631
+S Glendon St	Anaheim	92806
+S Glengarry Ave	Whittier	90606
+S Glenhurst Dr	Anaheim	92808
+S Glenn	Huron	93234
+S Glenn Dr	Camarillo	93010
+S Glennon Dr	Whittier	90601
+S Glenoaks Blvd	Burbank	91502
+S Glenview Ave	Cupertino	95014
+S Glenview Pl	Orange	92868
+S Glenwood Av	Manteca	95336
+S Glenwood Ave	Bloomington	92316
+S Glenwood Ave	Colton	92324
+S Glenwood Ave	Rialto	92376
+S Glenwood Dr	El Centro	92243
+S Glenwood Pl	Burbank	91506
+S Gobind Bl	Mh	95391
+S Goddard St	Visalia	93292
+S Goetz Rd	Perris	92570
+S Gold Ct	Ontario	91762
+S Gold Ridge Dr	Unincorporated Alameda County	94552
+S Goldcrest Ave	Ontario	91761
+S Goldcrest Pl	Ontario	91761
+S Golden Ave	San Bernardino	92408
+S Golden Gate Av	Stockton	95205
+S Golden Hills Dr	Aguanga	92536
+S Golden Sky Ln	Anaheim	92807
+S Golden State Blvd	Fowler	93625
+S Golden State Blvd	Fresno	93706
+S Golden State Blvd	Fresno	93725
+S Golden State Blvd	Madera	93637
+S Golden State Blvd	Selma	93662
+S Golden State Blvd	Turlock	95380
+S Golden State Frontage Rd	Fresno	93725
+S Golden West Ave	Santa Ana	92703
+S Golden West Ave	Santa Ana	92704
+S Goldenrod Ave	Five Points	93624
+S Goldenrod Ave	Kerman	93630
+S Goldfinch Way	Anaheim	92807
+S Goldstone Cir	Anaheim	92804
+S Gonser St	Laton	93242
+S Goodrich Ave	Tranquillity	93668
+S Goodyear	Carson	90746
+S Gordon Pl	Santa Ana	92704
+S Gordon Way	Los Altos	94022
+S Gowdy Ct	Visalia	93292
+S Gowdy St	Visalia	93292
+S Grable Cir	Orange	92868
+S Grace Cir	Porterville	93257
+S Grace St	Fresno	93721
+S Gracemont St	Whittier	90602
+S Grade Rd	Alpine	91901
+S Grade Rd	Palomar Mountain	92060
+S Grade Rd	Pauma Valley	92061
+S Graham Ln	Santa Ana	92703
+S Granada Ave	Spring Valley	91977
+S Granada Dr	Madera	93637
+S Granados Ave	Solana Beach	92075
+S Granby Ave	Indio	92201
+S Grand Army Ave	San Jacinto	92583
+S Grand Ave	Anaheim	92804
+S Grand Ave	Lake Elsinore	92530
+S Grand Ave	Lemoore	93245
+S Grand Ave	San Jacinto	92582
+S Grand Ave	Santa Ana	92701
+S Grand Ave	Santa Ana	92705
+S Grand Ave	Ventura	93003
+S Grand Ave	Winchester	92596
+S Grand Ct	Visalia	93292
+S Grand Pacific Dr	Carlsbad	92008
+S Grand St	Orange	92866
+S Grand St	Visalia	93292
+S Grand View Ave	Banning	92220
+S Grande Vista Dr	Whittier	90601
+S Granite Ave	Ontario	91762
+S Granite Cir	Anaheim	92806
+S Granite Ct	Fresno	93706
+S Granite Hills Dr	Granite Bay	95746
+S Granite Privado	Ontario	91762
+S Granite Rd	Bakersfield	93308
+S Grant Av	Manteca	95336
+S Grant Ave	Manteca	95336
+S Grant Ave	Oxnard	93030
+S Grant Ct	Visalia	93277
+S Grant Ln	Folsom	95630
+S Grant Paseo	Ontario	91762
+S Grant St	Roseville	95678
+S Grant St	San Mateo	94401
+S Grant St	San Mateo	94402
+S Grant St	Stockton	95202
+S Grant St	Stockton	95203
+S Grant St	Stockton	95206
+S Grant St	Visalia	93277
+S Grant St Ste 100	Roseville	95678
+S Grant St Ste 110	Roseville	95678
+S Grant St Ste 200	Roseville	95678
+S Grant St Ste 210	Roseville	95678
+S Grant St Ste 300	Roseville	95678
+S Grant St Ste 310	Roseville	95678
+S Grant St Ste 400	Roseville	95678
+S Grant St Ste 410	Roseville	95678
+S Grantland Ave	Caruthers	93609
+S Grantland Ave	Fresno	93706
+S Grantland Ave	Riverdale	93656
+S Granville Dr	Anaheim	92805
+S Grape St	Escondido	92025
+S Grape St	San Bernardino	92410
+S Grapefruit Dr	Brawley	92227
+S Grapevine Trl	Ontario	91762
+S Grass Valley Rd	Blue Jay	92317
+S Grass Valley Rd	Lake Arrowhead	92352
+S Grass Valley Rd	Lake Arrowhead	92391
+S Grass Valley Rd	Twin Peaks	92391
+S Gratton Rd	Denair	95316
+S Gravier St	Anaheim	92804
+S Gray St	Orcutt	93455
+S Grayling Ave	Whittier	90603
+S Grayson Way	Ontario	91762
+S Grayson Way	Upland	91786
+S Great Valley Pk	Mh	95391
+S Green Ave	Kerman	93630
+S Green Ave	Ontario	91761
+S Green Estates Ln	Oakdale	95361
+S Green Oaks Ct	Visalia	93277
+S Green Oaks Dr	Visalia	93277
+S Green Privado	Ontario	91761
+S Green St	Hanford	93230
+S Green St	Visalia	93292
+S Greenbrook Dr	Oxnard	93033
+S Greencastle Ln	Oxnard	93035
+S Greencastle Way	Oxnard	93035
+S Greengrove Dr	Orange	92866
+S Greengrove St	Orange	92866
+S Greenleaf Ave	Whittier	90601
+S Greenleaf Ave	Whittier	90602
+S Greenleaf Ave	Whittier	90605
+S Greenleaf Dr	Bre	92823
+S Greenmeadow Ave	Thousand Oaks	91320
+S Greenmeadow Ave	Thousand Oaks	91361
+S Greensview Dr	Chula Vista	91915
+S Greentree Rd	Upland	91786
+S Greenville St	Santa Ana	92704
+S Greenway Ave	Thousand Oaks	91320
+S Greenwich St	Anaheim	92804
+S Greenwood	Sanger	93657
+S Greenwood Ave	Del Rey	93616
+S Greenwood Ave	Ontario	91761
+S Greenwood Ave	Sanger	93657
+S Greenwood Pl	Ontario	91761
+S Greenwood Rd	Tracy	95304
+S Greenwood St	Porterville	93257
+S Greenwood Wy	Tracy	95304
+S Gregorio Av	Mh	95391
+S Gregory Ave	Whittier	90601
+S Gregory St	San Diego	92113
+S Gretna Ave	Whittier	90601
+S Gretna Ave	Whittier	90606
+S Grey Fox Ln	Ontario	91761
+S Grey Fox Pl	Stockton	95215
+S Griffith Ln	Whittier	90602
+S Griffith Park Dr	Burbank	91506
+S Griffith Pk Dr	Burbank	91506
+S Grinnell St	Anaheim	92807
+S Griset Pl	Santa Ana	92704
+S Grisly Canyon Dr	Orange	92869
+S Grove Ave	Anaheim	92805
+S Grove Ave	Ontario	91761
+S Grove Ave	Ontario	91762
+S Grove St	Anaheim	92805
+S Grove St	Redlands	92374
+S Grove St	Rocklin	95677
+S Grove St #1/2	Rocklin	95677
+S Grove Tree Rd	French Camp	95231
+S Grovedale Dr	Whittier	90603
+S Groveland Ave	Whittier	90603
+S Groveland Pl	Anaheim	92806
+S Groveside Ave	Whittier	90603
+S Grower Ave	Ontario	91761
+S Grunauer Rd	Tracy	95304
+S Guild Av	Lodi	95240
+S Guilford Ave	Whittier	90605
+S Guilford Way	Whittier	90602
+S Gumwood Ln	Anaheim	92806
+S Gunn Ave	Whittier	90605
+S Gunther St	Santa Ana	92704
+S Gypsum Canyon Rd	Anaheim	92808
+S Gypsum Ridge Rd	San Bernardino	92410

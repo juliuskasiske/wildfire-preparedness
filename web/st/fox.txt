@@ -1,0 +1,645 @@
+Fox	Scotts Valley	95066
+Fox Ave	Apple Valley	92307
+Fox Ave	San Diego	92117
+Fox Ave	San Jose	95110
+Fox Borough Ct	Oakdale	95361
+Fox Borough Dr	Oakdale	95361
+Fox Bridge Ct	Fallbrook	92028
+Fox Canyon Ln	Arroyo Grande	93420
+Fox Cir	Huntington Beach	92648
+Fox Cir	Huntington Beach	92648-1456
+Fox Cir	Huntington Beach	92648-1457
+Fox Cir	Walnut Creek	94596
+Fox Cliff Way	Elk Grove	95758
+Fox Court	Lancaster	93536
+Fox Court	Truckee	96161
+Fox Court	Weed	96094
+Fox Creek Ct	Bakersfield	93312
+Fox Creek Ct	Danville	94506
+Fox Creek Ct	Stockton	95210
+Fox Creek Dr	Danville	94506
+Fox Creek Dr	Elk Grove	95758
+Fox Creek Dr	Menifee	92586
+Fox Creek Dr	Stockton	95210
+Fox Creek Ln	Tollhouse	93667
+Fox Creek Rd	Carlotta	95528
+Fox Creek Rd	Mariposa	95338
+Fox Crossing Ct	Redwood City	94062
+Fox Ct	Colton	92324
+Fox Ct	Groveland	95321
+Fox Ct	Ione	95640
+Fox Ct	Martinez	94553
+Fox Ct	Novato	94945
+Fox Ct	Phelan	92371
+Fox Ct	Rancho Cucamonga	91701
+Fox Ct	Redlands	92374
+Fox Ct	San Diego	92126
+Fox Den Cir	Lincoln	95648
+Fox Den Ct	Elk Grove	95758
+Fox Den Ct	Oxnard	93036
+Fox Den Dr	Redding	96003
+Fox Den Place	Stevenson Ranch	91381
+Fox Den Rd	Wildomar	92595
+Fox Dr	Anderson	96007
+Fox Dr	Banning	92220
+Fox Dr	Big Bear Lake	92315
+Fox Dr	Cobb	95426
+Fox Dr	Fullerton	92835
+Fox Dr	Inverness	94956
+Fox Dr	Point Reyes Station	94956
+Fox Dr	San Jose	95131
+Fox Draw	Truckee	96161
+Fox Drive	Springville	93265
+Fox Estates Ct	Redding	96003
+Fox Farm Rd	Big Bear City	92314
+Fox Farm Rd	Big Bear Lake	92315
+Fox Farm & Starvation Fl	Big Bear Lake	92315
+Fox Field Ln	Santa Maria	93458
+Fox Flower Ct	Elk Grove	95758
+Fox Gate Wy	Roseville	95661
+Fox Glen	Lake Forest	92630
+Fox Glen	Salinas	93905
+Fox Glen Avenue	La Verne	91750
+Fox Glen Dr	Hughson	95326
+Fox Glen Drive	Diamond Bar	91765
+Fox Glen Drive	Fairfield	94534
+Fox Glen Pl	Walnut Creek	94598
+Fox Glen Rd	Hidden Valley Lake	95467
+Fox Glen Rd	Riverside	92504
+Fox Glen Way	Elk Grove	95758
+Fox Glen Way	Salinas	93905
+Fox Gln	Escondido	92029
+Fox Gln	Lake Forest	92630
+Fox Glove Dr	Moorpark	93021
+Fox Glove Ln	Victorville	92392
+Fox Grape Dr	Winchester	92596
+Fox Hall Rd	Chino Hills	91709
+Fox Hatch Ln	Lathrop	95330
+Fox Haven Ln	Victorville	92394
+Fox Hill Ct	Jurupa Valley	92509
+Fox Hill Dr	Rocklin	95765
+Fox Hill Lane	Chatsworth	91311
+Fox Hill Ln	Fortuna	95540
+Fox Hill Ln	Newcastle	95658
+Fox Hill Pl	Santa Rosa	95404
+Fox Hill Rd	Berry Creek	95916
+Fox Hill Rd	Woodside	94062
+Fox Hill Road	Nevada City	95959
+Fox Hills Ave	Buena Park	90621
+Fox Hills Ct	Palm Desert	92260
+Fox Hills Dr	Citrus Heights	95610
+Fox Hills Dr	Thousand Oaks	91361
+Fox Hills Drive	Los Angeles	90025
+Fox Hills Drive	Los Angeles	90064
+Fox Hills Rd	Paso Robles	93446
+Fox Hills St	Westminster	92683
+Fox Hole Rd	Ladera Ranch	92694
+Fox Hollow	Temecula	92592
+Fox Hollow Cir	Eastvale	92880
+Fox Hollow Cir	Morgan Hill	95037
+Fox Hollow Circle	Vacaville	95687
+Fox Hollow Ct	Bakersfield	93312
+Fox Hollow Ct	Concord	94521
+Fox Hollow Ct	Milpitas	95035
+Fox Hollow Dr	Hayward	94542
+Fox Hollow Lane	Pacoima	91331
+Fox Hollow Ln	Mariposa	95338
+Fox Hollow Ln	Redwood City	94062
+Fox Hollow Ln	Sacramento	95864
+Fox Hollow Pl	Novato	94945
+Fox Hollow Pl	Windsor	95492
+Fox Hollow Rd	San Luis Obispo	93401
+Fox Hollow Rd	Temecula	92592
+Fox Hollow Rd	Woodside	94062
+Fox Hollow Springs Cir	Ahwahnee	93601
+Fox Hollow St	Folsom	95630
+Fox Hollow Way	Chino Hills	91709
+Fox Hollow Way	Cohasset	95973
+Fox Hollow Way	Vacaville	95687
+Fox Hollow Wy	Tracy	95376
+Fox Hound Cir	Elk Grove	95758
+Fox Hound Court	Vacaville	95687
+Fox Hound Road	Vacaville	95687
+Fox Hunt Dr	Cottonwood	96002
+Fox Hunt Dr	Cottonwood	96022
+Fox Hunt Ln	San Diego	92128
+Fox Hunt Ln	Santa Rosa	95404
+Fox Hunt Pl	Fontana	92336
+Fox Hunt Rd	Chino Hills	91709
+Fox Hunt Way	Rio Linda	95673
+Fox Indian Drive	Malibu	90265
+Fox Lane	Los Angeles	90026
+Fox Lane	Rough And Ready	95975
+Fox Ln	Arrowbear	92382
+Fox Ln	Arrowbear Lake	92382
+Fox Ln	Bangor	95966
+Fox Ln	Big Bear City	92314
+Fox Ln	Calimesa	92320
+Fox Ln	Escondido	92026
+Fox Ln	Hayfork	96041
+Fox Ln	Hemet	92544
+Fox Ln	Lincoln	95648
+Fox Ln	San Anselmo	94960
+Fox Ln	San Jose	95131
+Fox Ln	Sebastopol	95472
+Fox Mead Lane	Truckee	96161
+Fox Meadow Ct	Oakdale	95361
+Fox Meadow Ct	San Jose	95120
+Fox Meadow Ct	Tracy	95376
+Fox Meadow Ln	Granite Bay	95746
+Fox Meadow Pl	Citrus Heights	95610
+Fox Meadow Rd	San Diego	92127
+Fox Meadow Way	Concord	94518
+Fox Mills Ln	Riverside	92506
+Fox Oak Court	Vacaville	95688
+Fox Oaks Ct	Sacramento	95831
+Fox Pl	Lucerne	95458
+Fox Pl	San Diego	92117
+Fox Point Rd	Victorville	92392
+Fox Pointe Road	Vacaville	95687
+Fox Raceway Drwy	Pala	92059
+Fox Rd	Hughson	95326
+Fox Rd	Paradise	95969
+Fox Rd	Perris	92570
+Fox Rd	Temecula	92592
+Fox Rd	Willits	 
+Fox Ridge Court	Fairfield	94534
+Fox Ridge Ct	Walnut Creek	94597
+Fox Ridge Cv	Menifee	92585
+Fox Ridge Dr	Fontana	92336
+Fox Ridge Dr	Thousand Oaks	91361
+Fox Ridge Drive	Pasadena	91107
+Fox Ridge Lane	Palos Verdes Peninsula	90274
+Fox Ridge Ln	Wildomar	92595
+Fox Ridge Rd	Beaumont	92223
+Fox River St	Bakersfield	93306
+Fox River Way	Ceres	95307
+Fox River Way	Sacramento	95829
+Fox Road	Dixon	95620
+Fox Road	Merced	95301
+Fox Road	Merced	95348
+Fox Rock Rd	Laytonville	 
+Fox Run	Corona	92882
+Fox Run	La Quinta	92253
+Fox Run	Los Gatos	95033
+Fox Run	Orinda	94563
+Fox Run Circle	Castaic	91384
+Fox Run Ct	Auburn	95603
+Fox Run Ct	Murrieta	92563
+Fox Run Dr	Bakersfield	93312
+Fox Run Ln	Corona	92882
+Fox Run Ln	San Juan Capistrano	92675
+Fox Run Ln	Valley Center	92082
+Fox Run Pl	Chula Vista	91914
+Fox Run Rd	Oak Run	96069
+Fox Run Rd	Victorville	92392
+Fox Run Rd	Woodacre	94973
+Fox Run Row	San Diego	92130
+Fox Run Trl	La Quinta	92253
+Fox Run Way	Elk Grove	95758
+Fox Sedge Way	Murrieta	92563
+Fox Sparrow	Scotts Valley	95066
+Fox Sparrow Ct	Stockton	95207
+Fox Sparrow Ln	Brisbane	94005
+Fox Spings Rd	Murrieta	92562
+Fox Spring Rd	Honeydew	95542
+Fox Springs Cir	Thousand Oaks	91320
+Fox Springs Rd	Honeydew	95542
+Fox Springs Rd	Murrieta	92562
+Fox Springs Rd	North Tustin	92705
+Fox Springs Way	Elk Grove	95624
+Fox St	Chula Vista	91913
+Fox St	Kings Beach	96143
+Fox St	Lemoore	93245
+Fox St	Ojai	93023
+Fox St	Riverside	92503
+Fox Street	San Fernando	91340
+Fox Street	San Fernando	91345
+Fox Tail Ct	Highland	92346
+Fox Tail Ln	Fieldbrook	95519
+Fox Tail Ln	Jurupa Valley	92509
+Fox Tail Pl	Highland	92346
+Fox Tail Way	Highland	92346
+Fox Tail Way	Victorville	92392
+Fox Tower Way	Big Bear Lake	92315
+Fox Tr	Lucerne	95458
+Fox Tree Ct	Bakersfield	93306
+Fox Tree Pl	Citrus Heights	95610
+Fox Trl	Big River	92242
+Fox Trl	Morongo Valley	92256
+Fox Trl	Yucca Valley	92284
+Fox Trot Cir	Hemet	92545
+Fox Trot Ct	Elk Grove	95624
+Fox Trot Ln	Moreno Valley	92555
+Fox Trot Way	Manteca	95336
+Fox Trot Wy	Manteca	95336
+Fox Trot Wy	Roseville	95747
+Fox Trotter Pl	San Jacinto	92582
+Fox Trotter Way	Elk Grove	95757
+Fox Valley Cir	North Highlands	95660
+Fox Valley Ct	San Diego	92127
+Fox Valley Dr	San Diego	92127
+Fox Valley Ln	San Diego	92127
+Fox Valley Way	San Diego	92127
+Fox View Drive	Malibu	90265
+Fox Way	Concord	94518
+Fox Way	Palm Springs	92262
+Fox Wind Ct	Elk Grove	95758
+Fox Wy	Clearlake Oaks	95423
+Foxberry Ct	Elk Grove	95624
+Foxberry Rd	Winchester	92596
+Foxboro	Irvine	92614
+Foxboro Ave	Bakersfield	93309
+Foxboro Ave	Chula Vista	91911
+Foxboro Cir	Huntington Beach	92648
+Foxboro Cir	Huntington Beach	92648-7024
+Foxboro Cir	Huntington Beach	92648-7025
+Foxboro Cir	San Ramon	94583
+Foxboro Court	Lancaster	93535
+Foxboro Ct	Bakersfield	93309
+Foxboro Ct	Bass Lake	93604
+Foxboro Ct	Brentwood	94513
+Foxboro Ct	Rocklin	95677
+Foxboro Ct	San Ramon	94583
+Foxboro Dr	Napa	94559
+Foxboro Drive	Los Angeles	90049
+Foxboro Drive	Truckee	96161
+Foxboro Drive	Walnut	91789
+Foxboro Lane	Canoga Park	91304
+Foxboro Ln	Highland	92346
+Foxboro Ln	Nuevo	92567
+Foxboro Parkway	Vacaville	95687
+Foxboro Pl	San Jose	95135
+Foxboro St	Petaluma	94954
+Foxboro Way	Sacramento	95833
+Foxboro Way	San Ramon	94583
+Foxborough	Aliso Viejo	92656
+Foxborough Ct	3-Yl-2	92886
+Foxborough Ct	Jurupa Valley	92509
+Foxborough Ct	Lakeside	92040
+Foxborough Ct	Yorba Linda	92886
+Foxborough Dr	Fontana	92336
+Foxborough Dr	Mountain View	94041
+Foxborough Ln	Lakeside	92040
+Foxborough Pl	Fullerton	92833
+Foxborough Pt	San Diego	92130
+Foxborough Way	Lake Forest	92630
+Foxborough Way	Lake Forest	92630-5013
+Foxborough Way	Lake Forest	92630-5014
+Foxborough Way	Lake Forest	92630-5015
+Foxborough Way	Lake Forest	92630-5016
+Foxborough Way	Victorville	92392
+Foxborough Wy	Lodi	95240
+Foxbrook Dr	Palm Desert	92211
+Foxbrook Drive	Glendora	91740
+Foxbrook Ln	Palm Desert	92211
+Foxbrook Way	Fontana	92336
+Foxburg Rd	Seal Beach	90740
+Foxburgh Ct	Elk Grove	95757
+Foxburrow Ct	Orcutt	93455
+Foxburrow Ct	Santa Maria	93455
+Foxbury Avenue	Pomona	91767
+Foxbury Glen	Escondido	92026
+Foxbury Gln	Escondido	92026
+Foxbury Way	Pico Rivera	90660
+Foxcatcher Wy	Stockton	95212
+Foxchase	Irvine	92618
+Foxchase Dr	San Jose	95123
+Foxclove Ct	Tracy	95376
+Foxclove Dr	Tracy	95376
+Foxcrest	Irvine	92620
+Foxcroft Ci	Roseville	95747
+Foxcroft Ct	Chino	91710
+Foxcroft Ct	San Diego	92129
+Foxcroft Drive	Whittier	90604
+Foxcroft Lane	Walnut	91789
+Foxcroft Ln	Bakersfield	93312
+Foxcroft Ln	Modesto	95355
+Foxcroft Pl	San Diego	92129
+Foxcroft Pl	San Ramon	94583
+Foxcroft Place	Granada Hills	91344
+Foxcroft Rd	Tustin	92780
+Foxcroft St	Riverside	92506
+Foxdale Ave	La Habra	90631
+Foxdale Avenue	Covina	91722
+Foxdale Avenue	Irwindale	91706
+Foxdale Cir	Huntington Beach	92648
+Foxdale Cir	Huntington Beach	92648-6614
+Foxdale Ct	San Jose	95122
+Foxdale Ct	Thousand Oaks	91320
+Foxdale Dr	Desert Hot Springs	92240
+Foxdale Dr	La Habra	90631
+Foxdale Dr	Moreno Valley	92553
+Foxdale Dr	San Jose	95122
+Foxdale Loop	San Jose	95122
+Foxdale Pl	Escondido	92027
+Foxen Bluff Ln	Arroyo Grande	93420
+Foxen Canyon Ln	Avila Beach	93424
+Foxen Canyon Rd	Garey	93454
+Foxen Canyon Rd	Los Olivos	93441
+Foxen Canyon Rd	Los Olivos	93460
+Foxen Canyon Rd	Santa Barbara Unincorporated	93441
+Foxen Canyon Rd	Santa Barbara Unincorporated	93454
+Foxen Canyon Rd	Santa Barbara Unincorporated	93463
+Foxen Canyon Rd	Santa Maria	93454
+Foxen Canyon Rd	Sisquoc	93454
+Foxen Ct	Orcutt	93455
+Foxen Ct	Santa Maria	93455
+Foxen Dr	Santa Barbara	93105
+Foxen Dr	Winchester	92596
+Foxen Ln	Los Alamos	93436
+Foxen Ln	Los Alamos	93440
+Foxen Ln	Santa Barbara Unincorporated	93440
+Foxenwood Cir	Santa Maria	93455
+Foxenwood Dr	Orcutt	93454
+Foxenwood Dr	Orcutt	93455
+Foxenwood Dr	Santa Maria	93454
+Foxenwood Dr	Santa Maria	93455
+Foxenwood Ln	Orcutt	93455
+Foxenwood Ln	Santa Maria	93455
+Foxfield Ct	Chico	95973
+Foxfield Drive	Westlake Village	91361
+Foxfield Ln	Fontana	92336
+Foxfield Ln	Mariposa	95338
+Foxfield Ln	O'Neals	93614
+Foxfield Ln	Ybl	92886
+Foxfield Ln	Yorba Linda	92886
+Foxfield Rd	Angelus Oaks	92305
+Foxfield Way	North Highlands	95660
+Foxfield Wy	Roseville	95747
+Foxfire Court	Fairfield	94534
+Foxfire Ct	Bakersfield	93304
+Foxfire Ct	Escondido	92026
+Foxfire Dr	Manteca	95337
+Foxfire Dr	O'Neals	93645
+Foxfire Dr	Orangevale	95662
+Foxfire Ln	Fallbrook	92028
+Foxfire Ln	Fontana	92336
+Foxfire Ln	Hayward	94544
+Foxfire Pl	Escondido	92026
+Foxfire Rd	Fallbrook	92028
+Foxfire Rd	Victorville	92392
+Foxfire St	Menifee	92586
+Foxfire Way	Nevada City	95959
+Foxford Ct	Elk Grove	95758
+Foxford Glen Ct	Roseville	95747
+Foxford Road	La Verne	91750
+Foxford Way	2	94531
+Foxgate Ln	Chino Hills	91709
+Foxglen	Irvine	92614
+Foxglen Ct	Bakersfield	93312
+Foxglen Dr	San Jacinto	92582
+Foxglen Ln	Huntington Beach	92648
+Foxglen Ln	Huntington Beach	92648-6603
+Foxglen Ln	Huntington Beach	92648-6606
+Foxglove	Boulder Creek	95006
+Foxglove Ave	Fountain Valley	92708
+Foxglove Ave	Newman	95360
+Foxglove Cir	Murrieta	92563
+Foxglove Circle	Winters	95694
+Foxglove Court	Glendora	91741
+Foxglove Court	Newhall	91321
+Foxglove Court	Palmdale	93551
+Foxglove Court	Walnut	91789
+Foxglove Ct	Bakersfield	93304
+Foxglove Ct	Brentwood	94513
+Foxglove Ct	Citrus Heights	95610
+Foxglove Ct	Gilroy	95020
+Foxglove Ct	Lincoln	95648
+Foxglove Ct	Newman	95360
+Foxglove Ct	Oakley	94561
+Foxglove Ct	Orcutt	93455
+Foxglove Ct	Pittsburg	94565
+Foxglove Ct	Rancho Cucamonga	91739
+Foxglove Ct	Roseville	95661
+Foxglove Ct	Santa Maria	93455
+Foxglove Ct	Santa Rosa	95405
+Foxglove Ct	Stockton	95212
+Foxglove Ct	Thousand Oaks	91362
+Foxglove Dr	Chino Hills	91709
+Foxglove Dr	Huntington Beach	92649
+Foxglove Dr	Huntington Beach	92649-4091
+Foxglove Dr	Huntington Beach	92649-4093
+Foxglove Dr	Riverside	92503
+Foxglove Dr	Sunnyvale	94086
+Foxglove Drive	Monterey Park	91755
+Foxglove Ln	Adelanto	92301
+Foxglove Ln	Corona	92878
+Foxglove Ln	Corona	92880
+Foxglove Ln	Corona	92883
+Foxglove Ln	Crescent City	95531
+Foxglove Ln	Fallbrook	92028
+Foxglove Ln	Indio	92201
+Foxglove Ln	Redding	96001
+Foxglove Ln	San Ramon	94583
+Foxglove Ln	Shaver Lake	93664
+Foxglove Ln	Walnut Creek	94597
+Foxglove Ln	Yountville	94599
+Foxglove Pl	Fontana	92336
+Foxglove Pl	Oxnard	93036
+Foxglove Pl	Richmond	94806
+Foxglove Pl	San Jose	95131
+Foxglove Place	Valencia	91354
+Foxglove Rd	El Centro	92243
+Foxglove Rd	Tustin	92780
+Foxglove Road	Glendale	91206
+Foxglove St	Brea	92821
+Foxglove St	Encinitas	92024
+Foxglove St	Pittsburg	94565
+Foxglove View	Carlsbad	92011
+Foxglove Way	Chula Vista	91915
+Foxglove Way	Irvine	92612
+Foxglove Way	Lincoln	95648
+Foxglove Way	Madera	93637
+Foxglove Way	San Diego	92130
+Foxglove Way	Union City	94587
+Foxgrove Ct	Upland	91784
+Foxgrove Pl	San Diego	92130
+Foxgrove Rd	Menifee	92586
+Foxhall Ct	Danville	94526
+Foxhall Ct	Riverside	92506
+Foxhall Ct	San Marcos	92078
+Foxhall Dr	Corona	92883
+Foxhall Dr	Huntington Beach	92646
+Foxhall Dr	Huntington Beach	92646-6725
+Foxhall Dr	Huntington Beach	92646-6726
+Foxhall Dr	Huntington Beach	92646-6727
+Foxhall Dr	Huntington Beach	92646-6728
+Foxhall Dr	San Marcos	92078
+Foxhall Gln	Escondido	92029
+Foxhall Loop	San Jose	95125
+Foxhall Way	Sacramento	95831
+Foxhaven Place	Diamond Bar	91765
+Foxhill	Irvine	92604
+Foxhill Cir	Hollister	95023
+Foxhill Ct	Rancho Cucamonga	91730
+Foxhill Dr	Martinez	94553
+Foxhills Ter	Vista	92081
+Foxhollow	Irvine	92614
+Foxhollow	Rancho Santa Margarita	92679
+Foxhollow Ct	Roseville	95747
+Foxhollow Ct	San Diego	92130
+Foxhollow Dr	Winchester	92596
+Foxhollow Dr	Ybl	92886
+Foxhollow Dr	Yorba Linda	92886
+Foxhollow Ln	Daly City	94014
+Foxhollow Wy	Roseville	95747
+Foxholm Dr	Nipton	92364
+Foxholm Drive	Palmdale	93551
+Foxhound Cir	Moreno Valley	92555
+Foxhound Way	San Diego	92130
+Foxhurst Ct	Rancho Cordova	95742
+Foxhurst Way	San Jose	95120
+Foxkirk Road	Glendale	91206
+Foxlane Drive	Canyon Country	91351
+Foxley Dr	Escondido	92027
+Foxley Drive	Whittier	90602
+Foxley Drive	Whittier	90605
+Foxlove Ln	Moreno Valley	92557
+Foxmeadow Court	Los Banos	93635
+Foxmeadow Way	Los Banos	93635
+Foxmoor Court	Westlake Village	91361
+Foxmoor Ct	Hemet	92545
+Foxmoor Ct	Rocklin	95677
+Foxmouth Cir	Mather	95655
+Foxpark Ct	Antelope	95843
+Foxpark Drive	Claremont	91711
+Foxpark Drive	Pomona	91767
+Foxplain Rd	Corona	92882
+Foxpoint Ct	Eastvale	92880
+Foxpoint Lane	Palos Verdes Peninsula	90274
+Foxridge	Mission Viejo	92692
+Foxridge Cir	Auburn	95603
+Foxridge Ct	Madera	93638
+Foxridge Ct	Napa	94558
+Foxridge Dr	Folsom	95630
+Foxridge Pl	San Jose	95133
+Foxridge Rd	Geyserville	95441
+Foxridge Rd	Oroville	95966
+Foxridge Way	Napa	94558
+Foxridge Way	San Jose	95133
+Foxrun Dr	Chino Hills	91709
+Foxrun Rd	North Tustin	92705
+Foxshield Dr	Huntington Beach	92647
+Foxshield Dr	Huntington Beach	92647-6447
+Foxshield Dr	Huntington Beach	92647-6448
+Foxshield St	Moreno Valley	92553
+Foxstone Ct	San Jose	95118
+Foxstone Ct	San Jose	95125
+Foxswallow Ct	San Jose	95120
+Foxtail	Mission Viejo	92692
+Foxtail	Portola Valley	94028
+Foxtail	Salinas	93907
+Foxtail Canyon Dr	Chula Vista	91913
+Foxtail Cir	La Quinta	92253
+Foxtail Court	Atwater	95301
+Foxtail Court	Azusa	91702
+Foxtail Court	Salinas	93908
+Foxtail Court	Stevenson Ranch	91381
+Foxtail Ct	Auburn	95602
+Foxtail Ct	Brentwood	94513
+Foxtail Ct	Hollister	95023
+Foxtail Ct	Oceanside	92056
+Foxtail Ct	Perris	92571
+Foxtail Ct	Portola Valley	94028
+Foxtail Ct	Rancho Cucamonga	91739
+Foxtail Ct	Redding	96002
+Foxtail Ct	Roseville	95747
+Foxtail Ct	Sacramento	95842
+Foxtail Ct	San Jose	95138
+Foxtail Ct	Santa Rosa	95403
+Foxtail Ct	Thousand Oaks	91362
+Foxtail Ct	Tracy	95376
+Foxtail Ct	Turlock	95382
+Foxtail Ct	Walnut Creek	94598
+Foxtail Dr	Corona	92880
+Foxtail Dr	Murrieta	92563
+Foxtail Dr	Sunnyvale	94086
+Foxtail Dr	Temecula	92591
+Foxtail Dr	Ybl	 
+Foxtail Dr	Ybl	92887
+Foxtail Dr	Yorba Linda	92887
+Foxtail Drive	Palmdale	93551
+Foxtail Drive	Penn Valley	95946
+Foxtail Drive	Santa Monica	90402
+Foxtail Drive	Three Rivers	93271
+Foxtail Ln	Butte Valley	95965
+Foxtail Ln	Fontana	92336
+Foxtail Ln	Jurupa Valley	92509
+Foxtail Ln	Palm Desert	92260
+Foxtail Ln	Rancho Santa Margarita	92679
+Foxtail Ln	Riverside	92508
+Foxtail Ln	Shaver Lake	93664
+Foxtail Ln	Templeton	93465
+Foxtail Ln	Victorville	92395
+Foxtail Loop	Carlsbad	92010
+Foxtail Place	Salinas	93907
+Foxtail Rd	Coarsegold	93614
+Foxtail Street	Lancaster	93534
+Foxtail Way	Descanso	91916
+Foxtail Way	Norco	92860
+Foxtail Way	Pomona	91767
+Foxtail Way	San Diego	92130
+Foxtail Wy	Roseville	95747
+Foxtail Wy	Tracy	95376
+Foxton Avenue	Lancaster	93535
+Foxton Way	Rancho Cordova	95670
+Foxtrace Lane	Dixon	95620
+Foxtrail Dr	El Centro	92243
+Foxtrail Drive Ave	El Centro	92243
+Foxtrail Drive Dr	El Centro	92243
+Foxtrail Drive Rd	El Centro	92243
+Foxtrail Drive St	El Centro	92243
+Foxtrot Loop	Chula Vista	91915
+Foxtrot St	Riverside	92501
+Foxtrotter Rd	Norco	92860
+Foxtrotter Way	Galt	95632
+Foxview Drive	Malibu	90265
+Foxview Way	Elk Grove	95757
+Foxwell Ave	Carson	90745
+Foxwell Ct	San Jose	95138
+Foxwood	Mission Viejo	92692
+Foxwood Court	Valencia	91354
+Foxwood Ct	Citrus Heights	95621
+Foxwood Ct	Lake Elsinore	92532
+Foxwood Ct	Oakdale	95361
+Foxwood Ct	Perris	92570
+Foxwood Ct	Thousand Oaks	91360
+Foxwood Ct	Tracy	95376
+Foxwood Ct	Windsor	95492
+Foxwood Dr	Eureka	95503
+Foxwood Dr	Madera	93638
+Foxwood Dr	Oak Park	91377
+Foxwood Dr	Oceanside	92057
+Foxwood Dr	San Jose	95118
+Foxwood Dr	Tracy	95376
+Foxwood Dr	Windsor	95492
+Foxwood Dr	Yucaipa	92399
+Foxwood Lane	Rio Vista	94571
+Foxwood Lane	Salinas	93907
+Foxwood Ln	Huntington Beach	92648
+Foxwood Ln	Huntington Beach	92648-6662
+Foxwood Ln	Huntington Beach	92648-6666
+Foxwood Ln	Vista	92081
+Foxwood Pl	Fullerton	92833
+Foxwood Pl	Santa Rosa	95405
+Foxwood Rd	Chino Hills	91709
+Foxwood Rd	Oak Park	91377
+Foxwood Rd	Portola Valley	94028
+Foxwood Rd	San Diego	92126
+Foxwood Rd	Victorville	92395
+Foxwood Road	La Canada Flintridge	91011
+Foxwood St	Bakersfield	93306
+Foxwood St	Hollister	95023
+Foxwood Way	San Jose	95118
+Foxwood Way	Walnut Creek	94595
+Foxworth Avenue	La Puente	91744
+Foxworth Ct	Lincoln	95648
+Foxworthy Ave	San Jose	95118
+Foxworthy Ave	San Jose	95118-1031
+Foxworthy Ave	San Jose	95124
+Foxworthy Ave	San Jose	95125
+Foxworthy Ave	San Jose	95136
+Foxy Ct	Patterson	95363
+Foxy Flats Rd	Joshua Tree	92252
+Foxy Ln	Ahwahnee	93601

@@ -1,0 +1,53 @@
+N 20Th St	Banning	92220
+N 20Th St	San Jose	95112
+N 20Th St	San Jose	95116
+N 21St	El Centro	92243
+N 21St St	Banning	92220
+N 21St St	El Centro	92243
+N 21St St	San Jose	95112
+N 21St St	San Jose	95116
+N 21St Way	El Centro	92243
+N 22Nd	El Centro	92243
+N 22Nd Rd	El Centro	92243
+N 22Nd St	Banning	92220
+N 22Nd St	El Centro	92243
+N 22Nd St	San Jose	95112
+N 23Rd	El Centro	92243
+N 23Rd St	El Centro	92243
+N 23Rd St	San Jose	95112
+N 24Th St	San Jose	95116
+N 25Th St	San Jose	95116
+N 25Th St	San Jose	95116-1138
+N 26Th St	San Jose	95116
+N 27Th St	San Jose	95116
+N 28Th St	San Jose	95116
+N 2Nd	Brawley	92227
+N 2Nd	El Centro	92243
+N 2Nd Ave	Chula Vista	91910
+N 2Nd Ave	National City	91950
+N 2Nd Ave	Oakdale	95361
+N 2Nd Ave	Upland	91784
+N 2Nd Ave	Upland	91786
+N 2Nd Avenue	Marina	93933
+N 2Nd St	Banning	92220
+N 2Nd St	Blythe	92225
+N 2Nd St	Brawley	92227
+N 2Nd St	Campbell	95008
+N 2Nd St	Chowchilla	93610
+N 2Nd St	Coalinga	93210
+N 2Nd St	Colton	92324
+N 2Nd St	El Cajon	92021
+N 2Nd St	El Centro	92243
+N 2Nd St	Fowler	93625
+N 2Nd St	Grover Beach	93433
+N 2Nd St	Orange Cove	93646
+N 2Nd St	Patterson	95363
+N 2Nd St	Port Hueneme	93041
+N 2Nd St	San Jose	95112
+N 2Nd St	San Jose	95112-6315
+N 2Nd St	San Jose	95113
+N 2Nd St	Santa Clara	95054
+N 2Nd St	Shandon	93461
+N 2Nd Street	King City	93930
+N 2Nd Street	Salinas	93905
+N 2Nd Street	Salinas	93906

@@ -1,0 +1,348 @@
+Alp Ave	Daly City	94014
+Alp Circle	Salinas	93906
+Alp Ct	Big Bear Lake	92315
+Alp Rouge Rd	Colfax	95713
+Alpaca Ct	Eastvale	92880
+Alpaca Ln	Victorville	92395
+Alpaca Street	Rosemead	91770
+Alpaca Street	South El Monte	91733
+Alparas Cir	Moreno Valley	92551
+Alpaugh	Crescent City	95531
+Alpaugh Ave	Crescent City	95531
+Alpen Dr	Lake Arrowhead	92352
+Alpen Dr	Lemoore	93245
+Alpen Rose Way	Galt	95632
+Alpenglow Court	June Lake	93529
+Alpenglow Ln	Lincoln	95648
+Alpenglow St	Bakersfield	93314
+Alpental Ln	Murrieta	92562
+Alpenweg Dr	Big Bear City	92314
+Alpenweg Dr	Big Bear Lake	92315
+Alpet Dr	Morgan Hill	95037
+Alpha Av	Eureka	95503
+Alpha Avenue	Pasadena	91104
+Alpha Avenue	South Pasadena	91030
+Alpha Circle	La Verne	91750
+Alpha Court	Grass Valley	95949
+Alpha Ct	Bakersfield	93312
+Alpha Ct	Campbell	95008
+Alpha Ct	Modesto	95355
+Alpha Ct	North Highlands	95660
+Alpha Ct	San Jacinto	92583
+Alpha Ln	Auburn	95603
+Alpha Ln	Redding	96003
+Alpha Loop	Nevada City	95959
+Alpha Pl	Temecula	92592
+Alpha Rd	Turlock	95380
+Alpha Road	Glendale	91208
+Alpha Road	Nevada City	95959
+Alpha St	Eureka	95503
+Alpha St	Moreno Valley	92557
+Alpha St	National City	91950
+Alpha St	San Diego	92113
+Alpha St	San Francisco	94134
+Alpha Street	Esparto	95627
+Alpha Street	Inglewood	90302
+Alpha Street	Irwindale	91010
+Alpha Street	Los Angeles	90032
+Alpha Street	South Pasadena	91030
+Alpha Street	Tulare	93274
+Alpha Way	Antioch	94509
+Alphabet City Ct	Sacramento	95835
+Alphecca Way	San Diego	92126
+Alphington Avenue	Cerritos	90703
+Alphonse Ct	Sacramento	95829
+Alphonse Dr	Ceres	95307
+Alphonse St	Santa Barbara	93103
+Alphonse St	Santee	92071
+Alphonso St	San Luis Obispo	93401
+Alphy'S Ln	Magalia	95954
+Alpin View Ct	Highland	92346
+Alpina Ct	Tracy	95376
+Alpine	Boulder Creek	95006
+Alpine	Irvine	92620
+Alpine	Jackson	95642
+Alpine	Mission Viejo	92692
+Alpine	Santa Cruz	95062
+Alpine Av	Manteca	95336
+Alpine Av	Santa Clara	95051
+Alpine Ave	Beaumont	92223
+Alpine Ave	Burlingame	94010
+Alpine Ave	Chula Vista	91910
+Alpine Ave	Chula Vista	91911
+Alpine Ave	Daly City	94015
+Alpine Ave	Hemet	92545
+Alpine Ave	Homewood	96141
+Alpine Ave	La Mesa	91941
+Alpine Ave	Los Gatos	95030
+Alpine Ave	Manteca	95336
+Alpine Ave	Menlo Park	94025
+Alpine Ave	Modesto	95358
+Alpine Ave	Sacramento	95826
+Alpine Ave	Salton City	92274
+Alpine Ave	Salton City	92275
+Alpine Ave	San Jose	95127
+Alpine Ave	Santa Clara	95051
+Alpine Ave	Twentynine Palms	92277
+Alpine Ave	Ventura	93004
+Alpine Avenue	Lynwood	90262
+Alpine Blue Ct	Elk Grove	95624
+Alpine Blue Dr	San Ramon	94583
+Alpine Blvd	Alpine	91901
+Alpine Blvd	El Cajon	92021
+Alpine Cir	Colfax	95713
+Alpine Cir	Desert Hot Springs	92240
+Alpine Cir	Hollister	95023
+Alpine Cir	Tahoe City	96145
+Alpine Cir	Victorville	92392
+Alpine Circle	Baldwin Park	91706
+Alpine Circle	Mammoth Lakes	93546
+Alpine Court	Fairfield	94534
+Alpine Creek Dr	Patterson	95363
+Alpine Creek Ln	Alpine	91901
+Alpine Crest Road	Walnut	91789
+Alpine Ct	Beaumont	92223
+Alpine Ct	Brentwood	94513
+Alpine Ct	Chino Hills	91709
+Alpine Ct	Covington Mill	96091
+Alpine Ct	Crestline	92325
+Alpine Ct	Desert Hot Springs	92240
+Alpine Ct	Eureka	95503
+Alpine Ct	Kelseyville	95451
+Alpine Ct	Lake Elsinore	92530
+Alpine Ct	Long Barn	95335
+Alpine Ct	Martinez	94553
+Alpine Ct	Murrieta	92562
+Alpine Ct	Murrieta	92563
+Alpine Ct	Napa	94558
+Alpine Ct	Paradise	95969
+Alpine Ct	Petaluma	94954
+Alpine Ct	Pioneer	95666
+Alpine Ct	Pittsburg	94565
+Alpine Ct	Redlands	92374
+Alpine Ct	Rocklin	95765
+Alpine Ct	San Pablo	94806
+Alpine Ct	South San Francisco	94080
+Alpine Ct	Temecula	92592
+Alpine Ct	Thousand Oaks	91362
+Alpine Ct	Tracy	95376
+Alpine Ct	Ventura	93004
+Alpine Dr	Cold Springs	95335
+Alpine Dr	Colfax	95713
+Alpine Dr	Concord	94521
+Alpine Dr	Crestline	92325
+Alpine Dr	Cupertino	95014
+Alpine Dr	Fontana	92337
+Alpine Dr	Goleta	93117
+Alpine Dr	Lodi	95240
+Alpine Dr	Long Barn	95335
+Alpine Dr	Mountain Center	92561
+Alpine Dr	Perris	92570
+Alpine Dr	Pioneer	95666
+Alpine Dr	Pittsburg	94565
+Alpine Dr	Poway	92064
+Alpine Drive	Dunsmuir	96025
+Alpine Drive	Gonzales	93926
+Alpine Drive	Merced	95340
+Alpine Drive	Mount Shasta	96067
+Alpine Drive	Pomona	91767
+Alpine Drive	Rio Vista	94571
+Alpine Drive	Salinas	93906
+Alpine Drive	San Marino	91108
+Alpine Drive	Springville	93265
+Alpine Drive	West Covina	91791
+Alpine Estates Pl	Alpine	91901
+Alpine Falls Dr	Folsom	95630
+Alpine Falls Ln	Bakersfield	93312
+Alpine Fir Ave	Sacramento	95834
+Alpine Fir Ct	San Bernardino	92407
+Alpine Fir Road	Truckee	96161
+Alpine Frost Dr	Sacramento	95823
+Alpine Glen Pl	Alpine	91901
+Alpine Gold Way	Sacramento	95829
+Alpine Grove Ln	Alpine	91901
+Alpine Heights Ln	Alpine	91901
+Alpine Heights Rd	Alpine	91901
+Alpine Heights Rd	El Cajon	92019
+Alpine Heights Way	Alpine	91901
+Alpine Lane	Grass Valley	95945
+Alpine Lane	Los Banos	93635
+Alpine Laurel Way	Sacramento	95829
+Alpine Lily Pl	San Rafael	94903
+Alpine Ln	Auburn	95602
+Alpine Ln	Huntington Beach	92648
+Alpine Ln	Huntington Beach	92648-3767
+Alpine Ln	Huntington Beach	92648-3774
+Alpine Ln	Lakeside	92040
+Alpine Ln	Loomis	95650
+Alpine Ln	Palm Desert	92211
+Alpine Ln	Pioneer	95666
+Alpine Ln	Rio Dell	95562
+Alpine Ln	San Anselmo	94960
+Alpine Ln	Sonora	95370
+Alpine Ln	Twin Peaks	92391
+Alpine Ln	Wrightwood	92397
+Alpine Ln	Ybl	92887
+Alpine Ln	Yorba Linda	92887
+Alpine Meadows Ave	Chino	91708
+Alpine Meadows Ave	Chino	91710
+Alpine Meadows Court	Stevenson Ranch	91381
+Alpine Meadows Ct	Rancho Cucamonga	91737
+Alpine Meadows Ln	Riverside	92506
+Alpine Meadows Rd	Shingletown	96088
+Alpine Meadows Rd	Tahoe City	96141
+Alpine Meadows Rd	Tahoe City	96145
+Alpine Meadows Rd #1	Tahoe City	96145
+Alpine Meadows Rd #10	Tahoe City	96145
+Alpine Meadows Rd #11	Tahoe City	96145
+Alpine Meadows Rd #12	Tahoe City	96145
+Alpine Meadows Rd #13	Tahoe City	96145
+Alpine Meadows Rd #14	Tahoe City	96145
+Alpine Meadows Rd #15	Tahoe City	96145
+Alpine Meadows Rd #16	Tahoe City	96145
+Alpine Meadows Rd #17	Tahoe City	96145
+Alpine Meadows Rd #18	Tahoe City	96145
+Alpine Meadows Rd #19	Tahoe City	96145
+Alpine Meadows Rd #2	Tahoe City	96145
+Alpine Meadows Rd #20	Tahoe City	96145
+Alpine Meadows Rd #21	Tahoe City	96145
+Alpine Meadows Rd #22	Tahoe City	96145
+Alpine Meadows Rd #23	Tahoe City	96145
+Alpine Meadows Rd #24	Tahoe City	96145
+Alpine Meadows Rd #25	Tahoe City	96145
+Alpine Meadows Rd #26	Tahoe City	96145
+Alpine Meadows Rd #27	Tahoe City	96145
+Alpine Meadows Rd #28	Tahoe City	96145
+Alpine Meadows Rd #29	Tahoe City	96145
+Alpine Meadows Rd #3	Tahoe City	96145
+Alpine Meadows Rd #30	Tahoe City	96145
+Alpine Meadows Rd #31	Tahoe City	96145
+Alpine Meadows Rd #32	Tahoe City	96145
+Alpine Meadows Rd #33	Tahoe City	96145
+Alpine Meadows Rd #34	Tahoe City	96145
+Alpine Meadows Rd #35	Tahoe City	96145
+Alpine Meadows Rd #36	Tahoe City	96145
+Alpine Meadows Rd #4	Tahoe City	96145
+Alpine Meadows Rd #5	Tahoe City	96145
+Alpine Meadows Rd #6	Tahoe City	96145
+Alpine Meadows Rd #7	Tahoe City	96145
+Alpine Meadows Rd #8	Tahoe City	96145
+Alpine Meadows Rd #9	Tahoe City	96145
+Alpine Minot Ave	Chula Vista	91910
+Alpine Oaks Dr	Alpine	91901
+Alpine Oaks Rd	La Honda	94020
+Alpine Oaks Rd	Other	94020
+Alpine Pl	Escondido	92027
+Alpine Pl	Salton City	92274
+Alpine Pl	San Marcos	92078
+Alpine Pl	Temecula	92592
+Alpine Place	Davis	95616
+Alpine Place	La Mirada	90638
+Alpine Place	Tulare	93274
+Alpine Place	Woodland	95695
+Alpine Rd	Alpine	91901
+Alpine Rd	La Honda	94020
+Alpine Rd	Menlo Park	94025
+Alpine Rd	Novato	94945
+Alpine Rd	Other	94025
+Alpine Rd	Other	94028
+Alpine Rd	Other	94062
+Alpine Rd	Palo Alto	94028
+Alpine Rd	Portola Valley	94025
+Alpine Rd	Portola Valley	94028
+Alpine Rd	Portola Valley	94062
+Alpine Rd	San Pablo	94806
+Alpine Rd	Santa Rosa	95404
+Alpine Rd	Upland	91784
+Alpine Rd	Walnut Creek	94596
+Alpine Ridge Ct	Bakersfield	93306
+Alpine Ridge Rd	San Diego	92129
+Alpine Ridge Rd	Shingletown	96088
+Alpine Road	Mount Shasta	96067
+Alpine Spring Ct	Ceres	95307
+Alpine Spur	Twin Peaks	92391
+Alpine Spur	Twin Peaks	92407
+Alpine St	Apple Valley	92308
+Alpine St	Arroyo Grande	93420
+Alpine St	Avenal	93204
+Alpine St	Bakersfield	93305
+Alpine St	Chico	95928
+Alpine St	City Of Shasta Lake	96019
+Alpine St	Crescent City	95531
+Alpine St	Desert Hot Springs	92240
+Alpine St	Eastvale	91752
+Alpine St	Hemet	92545
+Alpine St	Jackson	95642
+Alpine St	Lah	90631
+Alpine St	Madera	93638
+Alpine St	Moreno Valley	92553
+Alpine St	Oxnard	93030
+Alpine St	Rancho Cucamonga	91730
+Alpine St	San Rafael	94901
+Alpine St	Simi Valley	93063
+Alpine Street	Los Angeles	90012
+Alpine Street	Mount Shasta	96067
+Alpine Street	Pasadena	91106
+Alpine Street	Vacaville	95688
+Alpine Street	West Sacramento	95691
+Alpine Ter	Monte Rio	95462
+Alpine Ter	San Anselmo	94960
+Alpine Ter	San Diego	92128
+Alpine Ter	San Francisco	94117
+Alpine Ter	Sunnyvale	94086
+Alpine Terrace	Monterey Park	91754
+Alpine Terrace Rd	Alpine	91901
+Alpine Trail	Topanga	90290
+Alpine Trail Pl	Alpine	91901
+Alpine Trail Rd	Alpine	91901
+Alpine Trl	Anderson	96007
+Alpine Union St	Murrieta	92563
+Alpine View Ct	Truckee	96161
+Alpine View Dr	Roseville	95747
+Alpine View Ln	Murrieta	92562
+Alpine View Rd	Alpine	91901
+Alpine View Way	Alpine	91901
+Alpine Villa Drive	Altadena	91001
+Alpine Vista Rd	Tahoe City	96145
+Alpine Vista Way	Bridgeport	93517
+Alpine Way	Big Bear Lake	92314
+Alpine Way	Big Bear Lake	92315
+Alpine Way	Colfax	95713
+Alpine Way	Escondido	92029
+Alpine Way	Fall River Mills	96028
+Alpine Way	Hayward	94545
+Alpine Way	Idyllwild	92549
+Alpine Way	Laguna Beach	92651
+Alpine Way	Lincoln	95648
+Alpine Way	Linda	95901
+Alpine Way	Madera	93636
+Alpine Way	Nevada City	95959
+Alpine Way	Palm Springs	92262
+Alpine Way	Paso Robles	93446
+Alpine Way	Ridgecrest	93555
+Alpine Way	Riverside	92505
+Alpine Way	San Bruno	94066
+Alpine Way	Shingletown	96088
+Alpine Way	Soda Springs	95728
+Alpine Way	Tahoe City	96145
+Alpine Way	Tujunga	91042
+Alpine Way	Twin Peaks	92391
+Alpine Willow Ln	Sacramento	95828
+Alpine Wy	Tracy	95376
+Alpinemist St	Corona	92879
+Alpinespring Way	Elk Grove	95758
+Alpinmead Cir	Sacramento	95828
+Alps Av	Manteca	95337
+Alps Ave	Manteca	95337
+Alps Court	Los Banos	93635
+Alps Ct	Apple Valley	92308
+Alps Ct	Ceres	95307
+Alps Ct	Elk Grove	95624
+Alps Ct	Groveland	95321
+Alps Ct	Martinez	94553
+Alps Drive	Los Banos	93635
+Alps Ln	Escondido	92026
+Alps Rd	Corona	92881
+Alps View Way	Lewiston	96052
+Alps Way	Escondido	92026
+Alps Way	Valley Center	92082

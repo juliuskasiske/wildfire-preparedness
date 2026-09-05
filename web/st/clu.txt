@@ -1,0 +1,171 @@
+Club	Riverside	92506
+Club Ave	Wildomar	92584
+Club Center Dr	Sacramento	95835
+Club Cir	Borrego Springs	92004
+Club Cir	Palm Desert	92260
+Club Cir E	Borrego Springs	92004
+Club Cir W	Borrego Springs	92004
+Club Circle Dr	Desert Hot Springs	92240
+Club Circle Dr	Palm Desert	92260
+Club Circle Dr	Palm Springs	92264
+Club Cricle Dr	Palm Springs	92264
+Club Ct	Camarillo	93010
+Club Ct	Helendale	92342
+Club Ct	Richmond	94803
+Club Ct	Richmond	94806
+Club Ct	Riverside	92506
+Club Dr	Belmont	94002
+Club Dr	Crescent City	95531
+Club Dr	Gilroy	95020
+Club Dr	Indian Wells	92210
+Club Dr	Madera	93638
+Club Dr	Novato	94945
+Club Dr	Perris	92570
+Club Dr	Rancho Mission Viejo	92675
+Club Dr.	Rancho Mission Viejo	92694
+Club Dr	Redlands	92373
+Club Dr	Richmond	94803
+Club Dr	Rocklin	95765
+Club Dr	San Carlos	94002
+Club Dr	San Carlos	94070
+Club Dr	San Jose	95127
+Club Dr	Tahoe City	96145
+Club Drive	Los Angeles	90034
+Club Drive	Los Angeles	90064
+Club Drive	Mammoth Lakes	93546
+Club Drive	Merced	95340
+Club Drive	Pomona	91768
+Club Drive	Vallejo	94592
+Club Heights Ln	Vista	92081
+Club House	Aptos	95003
+Club House	Santa Cruz	95060
+Club House Cir	Costa Mesa	92626
+Club House Ct	Vandenberg Village	93436
+Club House Dr	Desert Hot Springs	92241
+Club House Dr	Helendale	92342
+Club House Dr	Ione	95640
+Club House Dr	Jurupa Valley	92509
+Club House Dr	Laguna Niguel	92677
+Club House Dr	Rancho Cordova	95670
+Club House Dr	Rancho Cucamonga	91730
+Club House Rd	Costa Mesa	92626
+Club House Rd	Desert Hot Springs	92241
+Club House Rd	Diablo	94528
+Club House Rd	Vandenberg Village	93436
+Club House Wy	Tracy	95376
+Club Ln	Huntington Beach	92648
+Club Ln	Huntington Beach	92648-1817
+Club Ln	Huntington Beach	92648-1818
+Club Ln	Huntington Beach	92648-1819
+Club Ln	Huntington Beach	92648-1820
+Club Ln	Huntington Beach	92648-1821
+Club Ln	Huntington Beach	92648-1822
+Club Ln	Huntington Beach	92648-1823
+Club Ln	Huntington Beach	92648-1835
+Club Ln	Huntington Beach	92648-1837
+Club Ln	Huntington Beach	92648-1840
+Club Ln	Richmond	94803
+Club Ln	Sacramento	95821
+Club Mesa Pl	Costa Mesa	92627
+Club Moss Ln	Avila Beach	93424
+Club Oak Way	Shafter	93314
+Club Park Dr	Elk Grove	95757
+Club Place	Carmel	93923
+Club Place	Los Angeles	90064
+Club Rancho Drive	Palmdale	93551
+Club Rd	Cathedral City	92234
+Club Road	Pasadena	91105
+Club Road	Pebble Beach	93953
+Club Run	Bakersfield	93309
+Club Ter	Danville	94526
+Club Terrace	Indian Wells	92210
+Club Terrace Dr	3-Yl-1	92886
+Club Terrace Dr	Indian Wells	92210
+Club Terrace Dr	Oco	92886
+Club Terrace Dr	Ybl	92886
+Club Terrace Dr	Yorba Linda	92886
+Club View Ct	El Cerrito	94530
+Club View Dr	3-Yl-1	92886
+Club View Dr	Bakersfield	93309
+Club View Dr	Big Bear Lake	92315
+Club View Dr	Highland	92346
+Club View Dr	Mecca	92254
+Club View Dr	Novato	94949
+Club View Dr	Rancho Mirage	92270
+Club View Dr	Thousand Oaks	91362
+Club View Dr	Ybl	92886
+Club View Dr.	Yorba Linda	92886
+Club View Drive	Los Angeles	90024
+Club View Lane	Palos Verdes Peninsula	90274
+Club View Ter	Chula Vista	91911
+Club View Ter	Los Altos	94024
+Club View Ter	Walnut Creek	94598
+Club Villa Dr	Indian Wells	92210
+Club Vista	Rancho Santa Margarita	92679
+Club Vista Avenue	Palmdale	93551
+Club Vista Drive	Glendora	91741
+Club Vista Drive	Palmdale	93551
+Club Vista Ln	Bonsall	92003
+Club Vista Way	Bickford Ranch	95648
+Clubh Ouse	Aptos	95003
+Clubhouse	Aptos	95003
+Clubhouse Ave	Newport Beach	92663
+Clubhouse Avenue	Venice	90291
+Clubhouse Blvd	Desert Hot Springs	92240
+Clubhouse Cir	Arroyo Grande	93420
+Clubhouse Ct	Hanford	93230
+Clubhouse Ct	Rocklin	95765
+Clubhouse Ct	San Jose	95135
+Clubhouse Dr	Bakersfield	93301
+Clubhouse Dr	Chula Vista	91915
+Clubhouse Dr	Desert Hot Springs	92240
+Clubhouse Dr	Discovery Bay	94505
+Clubhouse Dr	Fontana	92336
+Clubhouse Dr	Hayward	94541
+Clubhouse Dr	Helendale	92342
+Clubhouse Dr	Hemet	92545
+Clubhouse Dr	Indio	92201
+Clubhouse Dr	Jurupa Valley	92509
+Clubhouse Dr	Newport Beach	92660
+Clubhouse Dr	Norco	92860
+Clubhouse Dr	Orcutt	93455
+Clubhouse Dr	Paso Robles	93446
+Clubhouse Dr	Rancho Santa Fe	92067
+Clubhouse Dr	Rocklin	95765
+Clubhouse Dr	Sacramento	95823
+Clubhouse Dr	San Marcos	92078
+Clubhouse Dr	Santa Maria	93455
+Clubhouse Dr	Somis	93066
+Clubhouse Dr	Temecula	92592
+Clubhouse Dr	Twin Peaks	92391
+Clubhouse Dr	Yorba Linda	92886
+Clubhouse Dr W	Rocklin	95765
+Clubhouse Drive	El Macero	95618
+Clubhouse Drive	Lakewood	90712
+Clubhouse Drive	Pasadena	91105
+Clubhouse Drive	Rio Vista	94571
+Clubhouse Ln	Cupertino	95014
+Clubhouse Ln	Santa Maria	93454
+Clubhouse Pkwy	Folsom	95630
+Clubhouse Pkwy	Oroville	95966
+Clubhouse Rd	Desert Hot Springs	92241
+Clubhouse Rd	Diablo	94528
+Clubhouse View Dr	Hemet	92545
+Clubhouse View Dr	Palm Springs	92262
+Clubhouse Way	Manteca	95337
+Clubhouse Way	Temecula	92592
+Clubhouse Wy	Manteca	95337
+Clubside Ln	Sacramento	95835
+Clubview Ct	Rocklin	95765
+Clubview Dr	Rancho Mirage	92270
+Clune Avenue	Venice	90291
+Cluney St	Arbuckle	95912
+Clunie Dr	Sacramento	95864
+Cluny Avenue	Palmdale	93550
+Cluny Cir	Riverside	92505
+Cluster Ct	Magalia	95954
+Cluster Lane	Redondo Beach	90278
+Cluster Pines Rd	Garden Grove	92845
+Clusterberry Court	Los Angeles	90077
+Clusterwood Ct	Burney	96013
+Clute Canyon Rd	Volcano	95689

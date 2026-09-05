@@ -1,0 +1,138 @@
+N 1 St	San Jose	95002
+N 10Th	El Centro	92243
+N 10Th Ave	Blythe	92225
+N 10Th Ave	El Centro	92243
+N 10Th Ave	Hanford	93230
+N 10Th Ave	Upland	91786
+N 10Th Rd	El Centro	92243
+N 10Th St	Banning	92220
+N 10Th St	Blythe	92225
+N 10Th St	Chowchilla	93610
+N 10Th St	Colton	92324
+N 10Th St	El Centro	92243
+N 10Th St	Fowler	93625
+N 10Th St	Grover Beach	93433
+N 10Th St	Kern County	93268
+N 10Th St	Ramona	92065
+N 10Th St	Sacramento	95811
+N 10Th St	San Jose	95112
+N 10Th St	San Jose	95112-3136
+N 10Th St	San Jose	95113
+N 10Th St	Santa Paula	93060
+N 10Th St  1001 Euclid Dr	El Centro	92243
+N 10Th St  890 890 1/2 W C Ave	El Centro	92243
+N. 11T St	Grover Beach	93433
+N 11Th	Brawley	92227
+N 11Th Ave	Hanford	93230
+N 11Th Ave	Ontario	91764
+N 11Th Ave	Upland	91786
+N 11Th St	Brawley	92227
+N 11Th St	Chowchilla	93610
+N 11Th St	Colton	92324
+N 11Th St	Fresno	93703
+N 11Th St	Grover Beach	93433
+N 11Th St	Sacramento	95811
+N 11Th St	San Jose	95112
+N 11Th St	San Jose	95112-3137
+N 11Th St	San Jose	95112-3221
+N 11Th St	Santa Paula	93060
+N 12Th	El Centro	92243
+N 12Th Ave	El Centro	92243
+N 12Th Ave	Hanford	93230
+N 12Th Ave	Upland	91786
+N 12Th Dr	El Centro	92243
+N 12Th St	Banning	92220
+N 12Th St	Chowchilla	93610
+N 12Th St	Colton	92324
+N 12Th St	El Centro	92243
+N 12Th St	Grover Beach	93433
+N 12Th St	Sacramento	95811
+N 12Th St	San Jose	95112
+N 12Th St	Santa Paula	93060
+N 12Th Way	El Centro	92243
+N 13Th	Brawley	92227
+N 13Th Ave	Hanford	93230
+N 13Th Ave	Upland	91786
+N 13Th Dr	Brawley	92227
+N 13Th St	Brawley	92227
+N 13Th St	Chowchilla	93610
+N 13Th St	Colton	92324
+N 13Th St	Grover Beach	93433
+N 13Th St	San Jose	95112
+N 13Th St	Santa Paula	93060
+N 13Th Street St	Brawley	92227
+N 14Th Ave	Upland	91786
+N 14Th Ln	El Centro	92243
+N 14Th St	Banning	92220
+N 14Th St	Chowchilla	93610
+N 14Th St	El Centro	92243
+N 14Th St	Grover Beach	93433
+N 14Th St	Ramona	92065
+N 14Th St	San Jose	95112
+N 14Th St	Santa Paula	93060
+N 15Th St	Chowchilla	93610
+N 15Th St	Chowchilla	93619
+N 15Th St	Chowchilla	93637
+N 15Th St	San Jose	95112
+N 16Th St	Banning	92220
+N 16Th St	Brawley	92227
+N 16Th St	Grover Beach	93433
+N 16Th St	Sacramento	95811
+N 16Th St	San Jose	95112
+N 17Th	El Centro	92243
+N 17Th Rd	El Centro	92243
+N 17Th St	Banning	92220
+N 17Th St	El Centro	92243
+N 17Th St	Sacramento	95811
+N 17Th St	San Jose	95112
+N 17Th St	San Jose	95112-3030
+N 17Th Way	El Centro	92243
+N 18Th	El Centro	92243
+N 18Th Dr	El Centro	92243
+N 18Th Rd	El Centro	92243
+N 18Th St	Banning	92220
+N 18Th St	El Centro	92243
+N 18Th St	San Jose	95112
+N 19 1/2 Ave	Lemoore	93245
+N 19Th	El Centro	92243
+N 19Th Ave	Lemoore	93245
+N 19Th St	Banning	92220
+N 19Th St	El Centro	92243
+N 19Th St	San Jose	95112
+N 19Th St	San Jose	95116
+N 1St	Brawley	92227
+N 1St Ave	Barstow	92311
+N 1St Ave	Brawley	92227
+N 1St Ave	Oakdale	95361
+N 1St Ave	San Bernardino	92407
+N 1St Ave	Upland	91784
+N 1St Ave	Upland	91786
+N 1St Dr	Brawley	92227
+N 1St St	Alviso	95002
+N 1St St	Banning	92220
+N 1St St	Blythe	92225
+N 1St St	Brawley	92227
+N 1St St	Burbank	91502
+N 1St St	Campbell	95008
+N 1St St	Chowchilla	93610
+N 1St St	Coalinga	93210
+N 1St St	El Cajon	92021
+N 1St St	El Centro	92243
+N 1St St	Grover Beach	93433
+N 1St St	Hemet	92544
+N 1St St	Kerman	93630
+N 1St St	Orange	92869
+N 1St St	Patterson	95363
+N 1St St	San Jose	95002
+N 1St St	San Jose	95110
+N 1St St	San Jose	95112
+N 1St St	San Jose	95112-4508
+N 1St St	San Jose	95113
+N 1St St	San Jose	95131
+N 1St St	San Jose	95131-2004
+N 1St St	San Jose	95134
+N 1St St	San Jose	95136
+N 1St St	Shandon	93461
+N 1St St	Turlock	95380
+N 1St Street	King City	93930
+N 1St Street	Salinas	93906

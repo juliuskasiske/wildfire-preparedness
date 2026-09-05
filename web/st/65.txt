@@ -1,0 +1,27 @@
+65 Hwy	Bakersfield	93308
+65Th Ave	Mecca	92254
+65Th Ave	Sacramento	95822
+65Th Ave	Thermal	92274
+65Th Avenue	Playa Del Rey	90293
+65Th Place	Long Beach	90803
+65Th Place	Los Angeles	90043
+65Th St	Berkeley	94702
+65Th St	Eastvale	92880
+65Th St	Emeryville	94608
+65Th St	Emeryville	94609
+65Th St	Jurupa Valley	91752
+65Th St	Jurupa Valley	92509
+65Th St	Sacramento	95817
+65Th St	Sacramento	95819
+65Th St	Sacramento	95820
+65Th St	Sacramento	95823
+65Th St	Sacramento	95824
+65Th St	Sacramento	95828
+65Th St	San Diego	0
+65Th St	San Diego	92114
+65Th Street	Long Beach	90805
+65Th Street	Los Angeles	90044
+65Th Street East	Lancaster	93535
+65Th Street East	Palmdale	93552
+65Th Street Expy	Sacramento	95824
+65Th Street West	Lancaster	93536

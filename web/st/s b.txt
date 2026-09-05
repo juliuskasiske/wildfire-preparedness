@@ -1,0 +1,632 @@
+S B	Imperial	92251
+S B	Westmorland	92281
+S B St	Imperial	92251
+S B St	Lompoc	93436
+S B St	Madera	93637
+S B St	Madera	93638
+S B St	Oxnard	93030
+S B St	Oxnard	93033
+S B St	Perris	92570
+S B St	Porterville	93257
+S B St	San Mateo	94401
+S B St	San Mateo	94402
+S B St	Stockton	95205
+S B St	Stockton	95206
+S B St	Tustin	92780
+S B St 1/2	Madera	93637
+S B St 1/2	Madera	93638
+S Bacanora Ave	Whittier	90603
+S Bacchetti Rd	Tracy	95304
+S Backer Ave	Fresno	93702
+S Backer Ave	Fresno	93725
+S Bacon Island Rd	Stockton	95206
+S Bacon Rd	Whittier	90602
+S Badgerglen Pl	Ontario	91761
+S Bagley Ave	Fresno	93725
+S Bailey Ave	Fresno	93727
+S Baird Ct	Fresno	93702
+S Baker Ave	Ontario	91761
+S Baker Ave	Ontario	91762
+S Baker St	Anaheim	92804
+S Baker St	Bakersfield	93307
+S Baker St	Santa Ana	92703
+S Baker St	Santa Ana	92707
+S Baker St	Stockton	95206
+S Balboa	Coachella	92236
+S Balboa Ave	Ontario	91761
+S Balboa Plz	Anaheim	92802
+S Balboa St	Coachella	92236
+S Balcom Ave	Fullerton	92832
+S Balcom Canyon Rd	Santa Paula	93060
+S Baldwin Ave	San Mateo	94401
+S Baldwin Dr	San Mateo	94401
+S Baldwin Pl	Whittier	90602
+S Baler Ave	Bre	92821
+S Balmoral St	Porterville	93257
+S Balsa Ave	Landers	92285
+S Balsamina Way	Portola Valley	94028
+S Bamdal St	Santa Ana	92703
+S Bamdal St	Santa Ana	92704
+S Bancroft St	San Diego	92113
+S Bancroft Wy	Mh	95391
+S Bank Rd	Oxnard	93036
+S Banneker Ave	Fresno	93706
+S Banner Ave	Ventura	93004
+S Banta Rd	Tracy	95304
+S Bantam Paseo	Ontario	91762
+S Bar Ln	Wilton	95693
+S Bar V Rd	Auburn	95603
+S Barbara St	Anaheim	92806
+S Barbara St	Santa Maria	93458
+S Barbara Way	Anaheim	92806
+S Barbary Rd	Pioneertown	92268
+S Barberry Ct	Mh	95391
+S Barberry Pl	Hanford	93230
+S Barcelona St	Spring Valley	91977
+S Barcus Ave	Kerman	93630
+S Bardeen Ln	Mh	95391
+S Bardell St	Fresno	93706
+S Bardmoor Ct	Santa Maria	93454
+S Bardmoor Ct	Santa Maria	93455
+S Bardo St	Visalia	93277
+S Barker St	Coalinga	93210
+S Barker St	Mh	95391
+S Barnes St	Ukiah	 
+S Barnett St	Anaheim	92805
+S Barney Rd	Anderson	96007
+S Barnsdale St	Anaheim	92804
+S Barnum Dr	Whittier	90606
+S Barnwell St	Oceanside	92054
+S Barolo Pl	Santa Maria	93458
+S Barrington Pl	San Bernardino	92408
+S Barrow Ct	Thousand Oaks	91361
+S Barrow Ln	Santa Maria	93458
+S Bartolomei Rd	Stockton	95215
+S Barton Ave	Fresno	93702
+S Barton Ave	Fresno	93725
+S Barton Ct	Ana	92808
+S Barton Ct	Anaheim	92808
+S Barton Rd	Colton	92324
+S Barton Rd	Whittier	90605
+S Basanite Ave	Ontario	91761
+S Bascom Av	San Jose	95128
+S Bascom Ave	Campbell	95008
+S Bascom Ave	Campbell	95008-2215
+S Bascom Ave	Campbell	95008-2310
+S Bascom Ave	Campbell	95124
+S Bascom Ave	Campbell	95128
+S Bascom Ave	Los Gatos	95032
+S Bascom Ave	Los Gatos	95124
+S Bascom Ave	San Jose	95008
+S Bascom Ave	San Jose	95124
+S Bascom Ave	San Jose	95125
+S Bascom Ave	San Jose	95128
+S Bascom Ave	San Jose	95130
+S Basil St	Ana	92808
+S Basil St	Anaheim	92808
+S Basque Ave	Fullerton	92833
+S Batavia St	Orange	92868
+S Bay Blvd	Los Osos	93402
+S Bay Blvd	Morro Bay	93442
+S Bay Dr	Indio	92203
+S Bay Front	Newport Beach	92662
+S Bay Hill Rd	Banning	92220
+S Bay Oak Pl	Porterville	93257
+S Bay Oak St	Porterville	93257
+S Bayberry Ct	Anaheim	92807
+S Bayberry St	Fountain Valley	92708
+S Bayberry St	Orange	92869
+S Bayless St	Anaheim	92802
+S Bayshore Blvd	San Mateo	94401
+S Bayshore Cir	San Bruno	94066
+S Bayshore Hwy	San Jose	95111
+S Bayview Ave	Sunnyvale	94086
+S Bayview St	Arcata	95521
+S Baywood Ave	Campbell	95008
+S Baywood Ave	San Jose	95128
+S Beach Blvd	Anaheim	92801
+S Beach Blvd	Anaheim	92804
+S Beach Blvd	La Habra	90631
+S Beach Club Way	Malibu	90265
+S Beach Dr	Sacramento	95831
+S Beachcomber Dr	Pismo Beach	93449
+S Beachwood Dr	Burbank	91506
+S Beachy Pl	Anaheim	92804
+S Beal Rd	Niland	92257
+S Bear Creek Dr	Murrieta	92562
+S Bear Creek Pl	Ontario	91761
+S Bear Creek Rd	Murrieta	92562
+S Bear St	Santa Ana	92704
+S Bearberry Ave	Ontario	91761
+S Beatty Pl	Thousand Oaks	91320
+S Beaufort Dr	Oxnard	93033
+S Beaumont Ln	Vista	92084
+S Beaver Creek Way	Ontario	91761
+S Beckett Ct	Anaheim	92808
+S Beckman Rd	Lodi	95240
+S Beckwith Rd	Santa Paula	93060
+S Bedford Dr	Palm Springs	92264
+S Bedford Rd	Orange	92868
+S Bedford St	La Habra	90631
+S Bedford St	Lah	90631
+S Bedford Way	Upland	91786
+S Beech Dr	Visalia	93292
+S Beech St	Escondido	92025
+S Beech St	Turlock	95380
+S Beechnut Ave	Nipomo	93444
+S Beechtree Ct	Ana	92808
+S Beechtree Ct	Anaheim	92808
+S Beechwood Ave	Bloomington	92316
+S Beechwood Ave	Rialto	92376
+S Beechwood St	Anaheim	92805
+S Beeler Rd	Escalon	95320
+S Bel Air St	Anaheim	92804
+S Bel Aire Av	Burbank	91501
+S Bel Aire Dr	Burbank	91501
+S Belami Loop	Union City	94587
+S Belardo Rd	Palm Springs	92262
+S Belden St	Rialto	92376
+S Belden St	San Bernardino	92376
+S Belden Street	Gonzales	93926
+S Belhaven St	Anaheim	92806
+S Bell Ave	Kerman	93630
+S Bella Monte Ave	Bay Point	94565
+S Bella Vista St	Anaheim	92804
+S Bella Vita St	Mh	95391
+S Bellagio Ln	Mh	95391
+S Belle Ave	Corona	92882
+S Bellevue Pl	Anaheim	92805
+S Belleza Ln	Anaheim	92807
+S Bellwood Cir	Corona	92882
+S Belmont Ave	National City	91950
+S Belmont Ct	Santa Maria	93458
+S Belmont Dr	Visalia	93292
+S Belmont Ln	Pla	92870
+S Belmont Ln	Placentia	92870
+S Belmont St	Porterville	93257
+S Belmont St	Visalia	93292
+S Belterra Way	Anaheim	92804
+S Ben Alder Ave	Whittier	90601
+S Ben Alder Ave	Whittier	90606
+S Ben Hur Ave	Whittier	90603
+S Ben Hur Ave	Whittier	90605
+S Ben Maddox Way	Visalia	93292
+S Bend Rd	Coto De Caza	92679
+S Bend Rd	Murrieta	92563
+S Benedict Ave	Riverdale	93656
+S Benedict Dr	Riverdale	93656
+S Bengston Ave	Fresno	93706
+S Benjamin St	Rialto	92376
+S Benson Ave	Chino	91710
+S Benson Ave	Ontario	91762
+S Benson Ave	Upland	91786
+S Bent Ave	San Marcos	92078
+S Bent Tree Dr	Orcutt	93455
+S Bent Tree Dr	Santa Maria	93455
+S Benwiley Av	Santa Maria	93458
+S Benwiley Ave	Santa Maria	93458
+S Benwood Dr	Anaheim	92804
+S Berkeley Ave	San Bernardino	92410
+S Berkeley Ave	Turlock	95380
+S Berkeley Cir	Fullerton	92831
+S Berkeley Cir	Fullerton	92832
+S Berkeley Wy	Stockton	95215
+S Berkley St	Anaheim	92804
+S Bernard Dr	Tracy	95377
+S Bernardo Ave	Sunnyvale	94086
+S Bernardo Ave	Sunnyvale	94087
+S Berry Dr	Madera	93637
+S Berry St	Bre	92821
+S Berry St	Brea	92821
+S Berry St	Colton	92324
+S Berry St	Santa Ana	92704
+S Berwick Pl	Thousand Oaks	91361
+S Best Rd	Stockton	95215
+S Beth Cir	Anaheim	92806
+S Bethany Paseo	Ontario	91761
+S Bethel	Del Rey	93616
+S Bethel Ave	Del Rey	93616
+S Bethel Ave	Kingsburg	93631
+S Bethel Ave	Parlier	93662
+S Bethel Ave	Sanger	93657
+S Bethel Ave	Selma	93662
+S Bethel Rd	Templeton	93465
+S Betmor Ln	Anaheim	92805
+S Bette Ave	Fresno	93727
+S Bettes Pl	Anaheim	92804
+S Beverly Ave	Ontario	91762
+S Beverly Dr	Palm Springs	92264
+S Beverly Hills Dr	Whittier	90601
+S Beverly St	Porterville	93257
+S Bevis Rd	Tracy	95304
+S Bewley St	Santa Ana	92704
+S Biederman Wy	Escalon	95320
+S Bieghle St	Stockton	95206
+S Big Canyon Dr	Palm Springs	92264
+S Big Creek Ln	Ontario	91761
+S Big Horn Mountain Rd	San Bernardino	92410
+S Big River Rd	Mendocino	 
+S Bihr Ct	Whittier	90601
+S Billie Jo Cir	Anaheim	92806
+S Billings Way	Anaheim	92808
+S Biola Ave	Kerman	93630
+S Birch Ave	Reedley	93654
+S Birch St	Porterville	93257
+S Birch St	Santa Ana	92701
+S Birch St	Santa Ana	92707
+S Birchbark Ln	4-Or-16	92869
+S Birchbark Ln	Orange	92869
+S Birchleaf Dr	Anaheim	92804
+S Birchwood St	Ana	92808
+S Birchwood St	Anaheim	92808
+S Bird Av	Stockton	95215
+S Bird Av	Tracy	95304
+S Bird Rd	Stockton	95215
+S Bird Rd	Tracy	95304
+S Bird Rd	Tracy	95377
+S Bird St	Tracy	95304
+S Biscayne Ct	Anaheim	92804
+S Biscayne St	Santa Maria	93458
+S Bisceglia Ave	Fresno	93725
+S Bishop	Kerman	93630
+S Bishop Ave	Five Points	93624
+S Bishop Ave	Fresno	93706
+S Bishop Ave	Kerman	93630
+S Bishop Ave	Riverdale	93656
+S Bixby Way	Upland	91786
+S Black Oak Rd	Anaheim	92807
+S Blackberry Ln	Ana	92808
+S Blackberry Ln	Anaheim	92808
+S Blackbrush Ln	San Ramon	94582
+S Blackhawk Dr	Manteca	95336
+S Blackpine Pl	Ontario	91761
+S Blackstone Privado	Ontario	91762
+S Blackthorn Ln	Orange	92869
+S Blackwood St	Thousand Oaks	91320
+S Blaire Way	Ontario	91762
+S Blake St	La Habra	90631
+S Blake St	Mh	95391
+S Blaker Rd	Turlock	95380
+S Blanche Ct	Santa Maria	93458
+S Blanche St	Ojai	93023
+S Blaney	Cupertino	95014
+S Blaney Ave	Cupertino	95014
+S Blaney Ave	San Jose	95129
+S Bliss Ave	Fresno	93727
+S Bliss Ave	Laton	93242
+S Bliss St	Bakersfield	93307
+S Bloembergen Ln	Mh	95391
+S Blosser	Santa Maria	93458
+S Blosser Ave	Fresno	93706
+S Blosser Ct	Riverdale	93656
+S Blosser Rd	Orcutt	93454
+S Blosser Rd	Orcutt	93455
+S Blosser Rd	Santa Maria	93454
+S Blosser Rd	Santa Maria	93455
+S Blosser Rd	Santa Maria	93458
+S Blossom Dr	Reedley	93654
+S Blossom Ln	Tracy	95304
+S Blossom Rd	Waterford	95386
+S Blue Fox Dr	Ontario	91761
+S Blue Ridge Ct	Thousand Oaks	91362
+S Blue Ridge Ln	Colton	92324
+S Blue Sky Pl	Whittier	90602
+S Blueberry St	Ana	92808
+S Blueberry St	Anaheim	92808
+S Bluebird Cir	Anaheim	92807
+S Bluebird St	Santa Maria	93454
+S Bluegrass Ct	Visalia	93277
+S Bluesail Cir	Thousand Oaks	91361
+S Bluestem Ln	Mh	95391
+S Bluevista Cir	Ana	92808
+S Bluevista Cir	Anaheim	92808
+S Bluford Ave	Whittier	90602
+S Blvd	Cupertino	95014
+S Blvd	Cupertino	95014-3000
+S Blvd	Cupertino	95014-3006
+S Blvd	Cupertino	95014-3011
+S Blvd	Cupertino	95014-3018
+S Blvd	Cupertino	95014-3022
+S Blvd	Cupertino	95014-3023
+S Blvd	Cupertino	95014-3024
+S Blvd	Cupertino	95014-3025
+S Blvd	Cupertino	95014-3027
+S Blvd	Cupertino	95014-3028
+S Blvd	Cupertino	95014-303
+S Blvd	Cupertino	95014-3032
+S Blvd	Cupertino	95014-3069
+S Blvd	Cupertino	95014-3098
+S Blvd	Cupertino	95014-4400
+S Blvd	Cupertino	95014-444
+S Blvd	Cupertino	95014-4446
+S Blvd	Cupertino	95014-4448
+S Blvd	Cupertino	95014-4449
+S Blvd	Cupertino	95014-4451
+S Blvd	Cupertino	95014-4463
+S Blvd	Cupertino	95014-4464
+S Blvd	Cupertino	95014-5317
+S Blvd	Cupertino	95014-5319
+S Blvd	Cupertino	95014-535
+S Blvd	Cupertino	95014-5350
+S Blvd	Cupertino	95014-5351
+S Blvd	Cupertino	95014-5358
+S Blvd	Cupertino	95014-5361
+S Blvd	Cupertino	95014-5362
+S Blvd	Cupertino	95014-5363
+S Blvd	Cupertino	95014-5399
+S Blythe Ave	Caruthers	93609
+S Blythe Ave	Fresno	93706
+S Blythe Ave	Riverdale	93656
+S Boas Dr	Santa Rosa	95409
+S Bob Heidelbach Pl	French Camp	95231
+S Bob Hope Dr	Burbank	91505
+S Bobolink Ln	Fresno	93727
+S Boca West Ave	Banning	92220
+S Bocce Bl	Mh	95391
+S Bodega Way	Ontario	91761
+S Bogardus Ave	Whittier	90603
+S Boise Creek Pl	Ontario	91761
+S Boise Ct	Visalia	93291
+S Bollinger Ct	Visalia	93277
+S Bollinger St	Visalia	93277
+S Bollinger St	Visalia	93291
+S Bolotin Rd	San Marcos	92078
+S Bon View Ave	Ontario	91761
+S Bonavista Ln	Whittier	90603
+S Bond St	Anaheim	92805
+S Bonetti Rd	Stockton	95206
+S Bonita Ave	Ontario	91762
+S Bonita Ave	Oxnard	93030
+S Bonita Ct	Ontario	91762
+S Bonita Pl	Ontario	91762
+S Bonita St	Santa Maria	93454
+S Bonita St	Spring Valley	91977
+S Bonnie Gene Ln	Anaheim	92807
+S Bonnie St	Visalia	93277
+S Bonnyview Rd	Redding	96001
+S Bonnyview Rd	Redding	96002
+S Boone Cir	Anaheim	92807
+S Booth St	Santa Ana	92703
+S Borba Rd	Stockton	95206
+S Borchard Dr	Ventura	93003
+S Bordeaux Ave	Kerman	93630
+S Bostick Ave	Colton	92324
+S Bostick Ave	Grand Terrace	92313
+S Boston Ln	Santa Maria	93458
+S Boulder Ave	Ontario	91762
+S Boulder Pl	Anaheim	92808
+S Boulder Privado	Ontario	91762
+S Boulton Rd	Stockton	95206
+S Boundary St	San Diego	92113
+S Boundry Line	Laton	93242
+S Boundryline	Laton	93242
+S Bountiful Trl	Ontario	91762
+S Bouvais Rd	Anaheim	92804
+S Bowen Dr	Whittier	90602
+S Bowers Ct	Tustin	92782
+S Bowery Pl	Ontario	91761
+S Bowles Ln	Santa Maria	93454
+S Boxthorn Ave	Thousand Oaks	91320
+S Boxthorn St	Thousand Oaks	91320
+S Boxwood St	Anaheim	92802
+S Boy Scout Camp Rd	Frazier Park	93225
+S Boyar Ave	Whittier	90605
+S Boyd Ave	Fresno	93702
+S Boyd Ave	Fresno	93725
+S Boyd Ave	Kerman	93630
+S Boyd Dr	Kerman	93630
+S Boyd St	San Bernardino	92415
+S Boyd St	Santa Ana	92705
+S Bradbury Ct	Thousand Oaks	91361
+S Bradford Ave	Placentia	92870
+S Bradford Pl	Santa Ana	92707
+S Bradley Ct	Visalia	93292
+S Bradley Rd	Orcutt	93455
+S Bradley Rd	Santa Maria	 
+S Bradley Rd	Santa Maria	93454
+S Bradley Rd	Santa Maria	93455
+S Bradley Road	Santa Maria	 
+S Bradley St	Visalia	93292
+S Brahma Paseo	Ontario	91762
+S Bramble Way	Ana	92808
+S Bramble Way	Anaheim	92808
+S Brampton Ave	Rialto	92376
+S Brampton Paseo	Ontario	91761
+S Branch Dr	Colton	92324
+S Branciforte	Santa Cruz	95062
+S Brandon Rd	Fallbrook	92028
+S Brannon Ave	Mendota	93640
+S Brannon Rd	Firebaugh	93622
+S Brant Ct	Mh	95391
+S Brass Lantern Dr	La Habra	90631
+S Brawley	Brawley	92227
+S Brawley Ave	Brawley	92227
+S Brawley Ave	Caruthers	93609
+S Brawley Ave	Fresno	93706
+S Brawley Ave	Riverdale	93656
+S Brea Blvd	Bre	 
+S Brea Blvd	Bre	92821
+S Brea Blvd	Brea	92821
+S Brea Blvd	Ful	92835
+S Breden Ln	Rialto	92376
+S Breeze Ln	San Jose	95122
+S Breeze Loop	San Jose	95122
+S Breeze Way	San Jose	95122
+S Breezy Cir	Banning	92220
+S Breezy Meadow Dr	Sacramento	95834
+S Breezy Way	Orange	92869
+S Brenda Ct	Visalia	93277
+S Brennan Av	Escalon	95320
+S Brent St	Ventura	93003
+S Brentford Ave	Thousand Oaks	91361
+S Brentwood Dr	Palm Springs	92264
+S Brentwood Pl	Anaheim	92804
+S Bresse Paseo	Ontario	91762
+S Brewer Rd	Elverta	95626
+S Brewer Rd	Lincoln	95648
+S Brewer Rd	Pleasant Grove	95668
+S Brewer Rd	Roseville	95747
+S Brewster Cmn	Santa Ana	92704
+S Brianna Way	Anaheim	92808
+S Briar Ave	Ontario	91762
+S Briar Privado	Ontario	91762
+S Briar Rose Ln	Ana	92808
+S Briar Rose Ln	Anaheim	92808
+S Briar Way	Ontario	91762
+S Briarrose Ln	Anaheim	92808
+S Briarwood Dr	Bre	92821
+S Brichetto Ct	Tracy	95377
+S Bridge Ct	Visalia	93277
+S Bridge St	Gold River	95670
+S Bridge St	Visalia	93277
+S Bridge St	Visalia	93291
+S Bridge View Dr	Ana	92808
+S Bridge View Dr	Anaheim	92808
+S Bridle Ave	Fresno	93727
+S Bridlepath Dr	Fontana	92336
+S Brierwood Ave	Rialto	92376
+S Briggs Rd	Santa Paula	93060
+S Bright Ave	Whittier	90601
+S Bright Ave	Whittier	90602
+S Bright Rd	French Camp	95231
+S Brighton St	Burbank	91506
+S Bristol St	Santa Ana	92703
+S Bristol St	Santa Ana	92704
+S Brittany Ln	Bre	92821
+S Broadmoor Dr	Palm Springs	92264
+S Broadview Pl	Anaheim	92804
+S Broadview St	Anaheim	92804
+S Broadway	Bay Point	94565
+S Broadway	Blythe	92225
+S Broadway	Carson	90248
+S Broadway	Escondido	92025
+S Broadway	Eureka	95503
+S Broadway	Millbrae	94030
+S Broadway	Oceanside	92054
+S Broadway	Orcutt	 
+S Broadway	Orcutt	93455
+S Broadway	Santa Ana	92701
+S Broadway	Santa Ana	92707
+S Broadway	Santa Maria	93454
+S Broadway	Santa Maria	93455
+S Broadway	Santa Maria	93458
+S Broadway	Turlock	95380
+S Broadway	Walnut Creek	94596
+S Broadway Av	Stockton	95205
+S Broadway St	Blythe	92225
+S Broadway St	Cabazon	92230
+S Broadway St	Millbrae	94030
+S Broadway St	Santa Maria	93455
+S Broadway St	Santa Maria	93458
+S Brockram Dr	Ontario	91761
+S Broden St	Anaheim	92802
+S Broder St	Anaheim	92804
+S Brodmoor Dr	Palm Springs	92264
+S Bromley Ct	Anaheim	92808
+S Bronwyn Dr	Anaheim	92804
+S Brook Ln	Anaheim	92807
+S Brookhollow Dr	Santa Ana	92705
+S Brookhurst Rd	Fullerton	92833
+S Brookhurst St	4-An-6	92804
+S Brookhurst St	4-An-7	92804
+S Brookhurst St	Anaheim	92804
+S Brookmead Dr	Whittier	90601
+S Brookshire Ave	Ventura	93003
+S Brookside Ct	Ana	92808
+S Brookside Ct	Anaheim	92808
+S Brookville Dr	San Diego	92131
+S Brown	Calipatria	92233
+S Brown Ave	Calipatria	92233
+S Brown Ave	Jurupa Valley	92509
+S Brown Ave	Riverside	92509
+S Brown Rd	Manteca	95337
+S Brown St	Bakersfield	93307
+S Brown St	Hanford	93230
+S Bruce Ln	Burbank	91502
+S Bruce St	Anaheim	92804
+S Bruin Dr	Corona	92879
+S Brunello St	Mh	95391
+S Brunswick Ct	Santa Maria	93454
+S Brunswick Dr	Santa Maria	93454
+S Brunswick Paseo	Ontario	91761
+S Brush Creek Pl	Ontario	91761
+S Brush St	Lakeport	95453
+S Bryan Ave	Caruthers	93609
+S Bryan Ave	Fresno	93706
+S Bryan Ave	Oakdale	95361
+S Bryan Ave	Raisin City	93652
+S Bryan Ave	Riverdale	93656
+S Bryant	Ojai	93023
+S Bryant Paseo	Ontario	91762
+S Bryant St	Calimesa	92320
+S Bryant St	Ojai	93023
+S Bryce Canyon Trl	Ontario	91762
+S Bryn Mawr	Ventura	93003
+S Bryn Mawr St	Ventura	93003
+S Bryn Mawr Way	Whittier	90602
+S Buchanan Cir	Pacheco	94553
+S Buckman Rd	Farmington	95230
+S Bucknell Cir	Anaheim	92807
+S Bucksmoore Ct	Thousand Oaks	91361
+S Buckthorn Dr	Mh	95391
+S Buckthorn Ln	4-Or-16	92869
+S Buckthorn Ln	Orange	92869
+S Buena Vida Dr	Bre	92823
+S Buena Vista	Corona	92882
+S Buena Vista	Hemet	92543
+S Buena Vista Ave	Corona	92882
+S Buena Vista Ave	San Jose	95126
+S Buena Vista St	Burbank	91505
+S Buena Vista St	Burbank	91521
+S Buena Vista St	Corona	92882
+S Buena Vista St	Hemet	92543
+S Buena Vista St	Ione	95640
+S Buena Vista St	Redlands	92373
+S Buena Vista St	San Jacinto	92583
+S Buffalo Ave	Coalinga	93210
+S Buffalo Ct	Hanford	93230
+S Buffalo Dr	Hanford	93230
+S Bull Pine Rd	Stockton	95215
+S Bundy Dr	Fresno	93727
+S Bunfill Dr	Santa Maria	93454
+S Bunfill Dr	Santa Maria	93455
+S Bungalow Dr	Santa Maria	93458
+S Bunker Hill Dr	San Bernardino	92410
+S Bunting Ct	Anaheim	92808
+S Burgan Ave	Fowler	93625
+S Burgan Ave	Fresno	93727
+S Burgundy Ave	Kerman	93630
+S Burgundy Pl	Anaheim	92804
+S Burgundy Pl	Ontario	91761
+S Burgundy St	Kerman	93630
+S Burke Ct	Visalia	93292
+S Burke St	Visalia	93292
+S Burl Ave	Fresno	93727
+S Burlington Cmn	Santa Ana	92704
+S Burlington Pl	Whittier	90603
+S Burlwood Dr	Anaheim	92807
+S Burney St	Rialto	92376
+S Burning Tree Dr	Ontario	91761
+S Burns Pl	Mh	95391
+S Burrel Dr	Visalia	93292
+S Burton St	Nipomo	93444
+S Burwood Ln	Escalon	95320
+S Burwood Rd	Escalon	95320
+S Bush Ave	Fresno	93725
+S Bush Ave	Fresno	93727
+S Bush St	Anaheim	92805
+S Bush St	Orange	92868
+S Bush St	Ukiah	 
+S Business Center Dr	San Bernardino	92408
+S Business Pkwy	Ontario	91761
+S Butano Fire Trl	La Honda	94060
+S Butte	Huron	93234
+S Butte Ave	Five Points	93624
+S Butte Ave	Huron	93234
+S Butte Ave	Kerman	93630
+S Butte Creek Pl	Ontario	91761
+S Buttonwillow Ave	Reedley	93654
+S Byrd Ct	Visalia	93292
+S Byrd St	Visalia	93292
+S Byron Dr	Lemoore	93245
+S Byron Rd	Whittier	90606

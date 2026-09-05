@@ -1,0 +1,214 @@
+San Lago Court	Gustine	95322
+San Lazaro Ave	Bakersfield	93314
+San Lazaro Ave	Sunnyvale	94086
+San Lazaro Cir	Buena Park	90620
+San Lazaro Ct	Hemet	92543
+San Lazaro Wy	Santa Barbara Unincorporated	93111
+San Leandro	Irvine	92614
+San Leandro	Mission Viejo	92692
+San Leandro	Tustin	92782
+San Leandro Ave	Cupertino	95014
+San Leandro Ave	Mountain View	94043
+San Leandro Ave	Yucaipa	92399
+San Leandro Avenue	Salinas	93901
+San Leandro Cir	Buena Park	90620
+San Leandro Ct	Hemet	92544
+San Leandro Ct	Los Osos	93402
+San Leandro Ct	Rancho Mirage	92270
+San Leandro Dr	Fontana	92336
+San Leandro Dr	Hemet	92545
+San Leandro Drive	Diamond Bar	91765
+San Leandro Drive	Newhall	91321
+San Leandro Ln	Huntington Beach	92647
+San Leandro Ln	Huntington Beach	92647-6639
+San Leandro Ln	Huntington Beach	92647-6640
+San Leandro Ln	Huntington Beach	92647-6675
+San Leandro Ln	Huntington Beach	92647-6676
+San Leandro Ln	Huntington Beach	92647-6677
+San Leandro Ln	Montecito	93108
+San Leandro Pl	Montecito	93108
+San Leandro St	Ventura	93004
+San Leandro Way	Salinas	93901
+San Leandro Way	San Diego	92130
+San Leandro Way	San Francisco	94127
+San Leon	Irvine	92606
+San Leon Ave	Fountain Valley	92708
+San Leon Cir	Buena Park	90620
+San Leon Ct	Borrego Springs	92004
+San Leon Ct	Solana Beach	92075
+San Leon Drive	El Monte	91732
+San Leon Drive	Vacaville	95688
+San Leon Rd	Borrego Springs	92004
+San Lisa Ct	Concord	94520
+San Lorenzo	Felton	95018
+San Lorenzo	King City	93930
+San Lorenzo	Mission Viejo	92692
+San Lorenzo	Mountain Center	92561
+San Lorenzo	Santa Cruz	95060
+San Lorenzo Ave	Bakersfield	93304
+San Lorenzo Ave	Berkeley	94707
+San Lorenzo Avenue	King City	93930
+San Lorenzo Cir	Fountain Valley	92708
+San Lorenzo Court	Los Banos	93635
+San Lorenzo Ct	Oceanside	92057
+San Lorenzo Ct	Solana Beach	92075
+San Lorenzo Ct	Sonoma	95476
+San Lorenzo Dr	Buena Park	90620
+San Lorenzo Dr	Desert Hot Springs	92240
+San Lorenzo Dr	Hemet	92545
+San Lorenzo Dr	Hollister	95023
+San Lorenzo Dr	Palm Springs	92264
+San Lorenzo Dr	San Jose	95123
+San Lorenzo Dr	Santa Barbara Unincorporated	93111
+San Lorenzo Rd	Mountain Center	92561
+San Lorenzo Rd	Palm Springs	92264
+San Lorenzo Street	Fairfield	94533
+San Lorenzo Street	Los Banos	93635
+San Lorenzo Street	Pomona	91766
+San Lorenzo Street	Santa Monica	90402
+San Lorenzo Ter	Sunnyvale	94085
+San Lorenzo Way	Carmichael	95608
+San Lorenzo Way	Merced	95348
+San Lorenzo Way	San Francisco	94127
+San Lori Ln	El Cajon	92019
+San Lucar Ct	Sunnyvale	94086
+San Lucas	La Quinta	92253
+San Lucas	Mission Viejo	92692
+San Lucas	Seaside	93955
+San Lucas	Watsonville	95076
+San Lucas Av	Stockton	95210
+San Lucas Ave	Moss Beach	94038
+San Lucas Ave	Mountain View	94043
+San Lucas Ave	Thousand Oaks	91320
+San Lucas Cir	Buena Park	90620
+San Lucas Cir	Roseville	95747
+San Lucas Court	San Dimas	91773
+San Lucas Ct	Lake Elsinore	92530
+San Lucas Ct	Modesto	95355
+San Lucas Ct	Mountain View	94043
+San Lucas Ct	Solana Beach	92075
+San Lucas Ct	St Helena	94574
+San Lucas Dr	Bakersfield	93307
+San Lucas Dr	Desert Hot Springs	92240
+San Lucas Dr	Loma Linda	92354
+San Lucas Dr	Pittsburg	94565
+San Lucas Dr	Solana Beach	92075
+San Lucas Dr	Victorville	92392
+San Lucas Dr	Yucaipa	92399
+San Lucas Drive	Whittier	90605
+San Lucas Ln	Costa Mesa	92626
+San Lucas Pl	Chula Vista	91914
+San Lucas Rd	Altu	96101
+San Lucas Rd	Atascadero	93422
+San Lucas Rd	Palm Springs	92264
+San Lucas Road	Carmel	93923
+San Lucas Road	King City	93930
+San Lucas Road	Lockwood	93932
+San Lucas St	La Quinta	92253
+San Lucas Street	San Lucas	93954
+San Lucas Street	Seaside	93955
+San Lucas Trl	Thousand Palms	92276
+San Lucas Way	Sacramento	95864
+San Lucas Way	San Jose	95135
+San Lucas Way	Thousand Palms	92276
+San Lucas Wy	Santa Barbara Unincorporated	93111
+San Luis	Watsonville	95076
+San Luis Ave	Atascadero	93422
+San Luis Ave	Chino	91710
+San Luis Ave	El Granada	94018
+San Luis Ave	Los Altos	94024
+San Luis Ave	Los Osos	93402
+San Luis Ave	Mountain View	94043
+San Luis Ave	Pismo Beach	93449
+San Luis Ave	San Bruno	94066
+San Luis Ave	San Ramon	94583
+San Luis Ave	Santa Rosa	95409
+San Luis Avenue	Bell Gardens	90201
+San Luis Avenue	Carmel	93923
+San Luis Avenue	Lynwood	90262
+San Luis Avenue	South Gate	90280
+San Luis Bay Dr	San Luis Obispo	93405
+San Luis Cir	Buena Park	90620
+San Luis Cir	Daly City	94014
+San Luis Court	Vacaville	95688
+San Luis Ct	Concord	94518
+San Luis Ct	Indio	92201
+San Luis Ct	Novato	94945
+San Luis Ct	Sacramento	95818
+San Luis Ct	Walnut Creek	94597
+San Luis Dr	Hemet	92543
+San Luis Dr	Menlo Park	94025
+San Luis Dr	Palm Desert	92260
+San Luis Dr	Perris	92571
+San Luis Dr	San Luis Obispo	93401
+San Luis Drive	Gustine	95322
+San Luis Drive	Lancaster	93535
+San Luis Ln	Redding	96003
+San Luis Obispo Ave	Hayward	94544
+San Luis Obispo Court	Merced	95340
+San Luis Obispo Ln	Riverside	92508
+San Luis Obispo Pl	San Diego	92109
+San Luis Obispo Rd	San Miguel	93451
+San Luis Obispo St	Ladera Ranch	92694
+San Luis Obispo St	San Pablo	94806
+San Luis Obispo Street	Los Banos	93635
+San Luis Pl	Santa Rosa	95409
+San Luis Place	Claremont	91711
+San Luis Potosi Place	Pico Rivera	90660
+San Luis Ranch	San Luis Obispo	93405
+San Luis Ranch Rd	San Luis Obispo	93405
+San Luis Ray Ln	Riverside	92508
+San Luis Rd	Berkeley	94707
+San Luis Rd	Desert Hot Springs	92240
+San Luis Rd	Perris	92571
+San Luis Rd	Sonoma	95476
+San Luis Rd	Walnut Creek	94596
+San Luis Rd	Walnut Creek	94597
+San Luis Rey	Oceanside	92057
+San Luis Rey	Palm Desert	92260
+San Luis Rey	Soledad	93960
+San Luis Rey Ave	Coronado	92118
+San Luis Rey Ave	Palm Desert	92260
+San Luis Rey Ave	San Jose	95118
+San Luis Rey Ave	Vista	92084
+San Luis Rey Court	Merced	95348
+San Luis Rey Ct	Rancho Cucamonga	91739
+San Luis Rey Dr	Cathedral City	92234
+San Luis Rey Dr	Oceanside	92058
+San Luis Rey Dr	Valley Center	92082
+San Luis Rey Drive	Glendale	91208
+San Luis Rey Drive	San Dimas	91773
+San Luis Rey Golf Course	Bonsall	92003
+San Luis Rey Ln	Palm Desert	92260
+San Luis Rey Ln	Riverside	92508
+San Luis Rey Pl	San Diego	92109
+San Luis Rey Rd	Oceanside	92057
+San Luis Rey Rd	Oceanside	92058
+San Luis Rey Rd	Valley Center	92082
+San Luis Rey Road	Arcadia	91007
+San Luis St	Avila Beach	93424
+San Luis St	Bakersfield	93305
+San Luis St	Fountain Valley	92708
+San Luis St	Loma Linda	92354
+San Luis St	Needles	92363
+San Luis St	Oxnard	93030
+San Luis St	Pismo Beach	93449
+San Luis St	Richmond	94804
+San Luis St	Thousand Oaks	91320
+San Luis St	Ventura	93003
+San Luis Street	Fairfield	94533
+San Luis Street	Los Banos	93635
+San Luis Street	Paramount	90723
+San Luis Street	Pomona	91767
+San Luis Street	Woodland	95695
+San Luis Way	Blythe	92225
+San Luis Way	Modesto	95355
+San Luis Way	Morgan Hill	95037
+San Luis Way	Novato	94945
+San Luis Way	Pla	92870
+San Luis Way	Placentia	92870
+San Luisito Creek Rd	Morro Bay	93442
+San Luisito Creek Rd	San Luis Obispo	93405
+San Luisito Way	Sunnyvale	94085
+San Lupe Ave	Moreno Valley	92551
+San Luppe Dr	Mountain View	94043

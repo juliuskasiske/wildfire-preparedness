@@ -1,0 +1,11 @@
+Sdsu Parking 10	San Diego	92115
+Sdsu Parking 11	San Diego	92182
+Sdsu Parking 15	San Diego	92182
+Sdsu Parking 16	San Diego	92120
+Sdsu Parking 17A	San Diego	92120
+Sdsu Parking 17B	San Diego	92120
+Sdsu Parking 2C	San Diego	92182
+Sdsu Parking 4A	San Diego	92115
+Sdsu Parking 6B	San Diego	92115
+Sdsu Parking 8	San Diego	92182
+Sdsu Parking 9A	San Diego	92115

@@ -1,0 +1,156 @@
+Via Fabricante	Mission Viejo	92691
+Via Faisan	Coto De Caza	92679
+Via Faisan	San Clemente	92673
+Via Fajita	San Juan Capistrano	92675
+Via Falerno	Aliso Viejo	92656
+Via Famero Drive	Acton	93510
+Via Famero Drive	Palmdale	93551
+Via Famero Road	Acton	93510
+Via Famgro Drive	Acton	93510
+Via Fanal	Oceanside	92056
+Via Farallon	Orinda	94563
+Via Farallon	Valencia	91355
+Via Fargo	Orcutt	93455
+Via Fargo	Santa Maria	93455
+Via Faro	Mission Viejo	92691
+Via Farol	Valencia	91355
+Via Fedora	Orcutt	93455
+Via Fedora	Santa Maria	93455
+Via Felice	Santa Maria	93454
+Via Felicia	El Cajon	92019
+Via Felicia	Rancho Santa Margarita	92688
+Via Felicia	Thousand Oaks	91320
+Via Felicidad	Escondido	92029
+Via Felicidad	Vista	92084
+Via Felicita	Oceanside	92057
+Via Felino	Del Mar	92014
+Via Felipe	Corona	92882
+Via Feliz	Cathedral City	92234
+Via Feliz	Fallbrook	92028
+Via Feliz	Los Altos Hills	94022
+Via Feliz	Mission Hills	93436
+Via Feliz	Rancho Santa Margarita	92688
+Via Ferlinghetti	San Francisco	94133
+Via Fermato	Palm Springs	92264
+Via Fernado	Temecula	92592
+Via Fernandez	Palos Verdes Peninsula	90274
+Via Fernando	San Juan Capistrano	92675
+Via Fernando	Temecula	92592
+Via Fernando Ave	Temecula	92592
+Via Ferrara	Burbank	91504
+Via Ferrari	Kenwood	95452
+Via Ferrari	Lafayette	94549
+Via Ferrari	San Jose	95122
+Via Festivo	Carlsbad	92010
+Via Festivo	San Juan Capistrano	92675
+Via Fierro	Laguna Niguel	92677
+Via Fierro	Menifee	92584
+Via Fierro	San Juan Capistrano	92675
+Via Fiesta	Mission Viejo	92691
+Via Fiesta	San Diego	92127
+Via Fiesta	Thousand Oaks	91320
+Via Finaldi Way	Corona	92881
+Via Fineza	Mission Viejo	92691
+Via Fiore	Indian Wells	92210
+Via Fiori	Goleta	93117
+Via Fiori	Modesto	95357
+Via Firenza	Indian Wells	92210
+Via Firenza	Rancho Mirage	92270
+Via Firenze	American Canyon	94503
+Via Firenze	Cathedral City	92234
+Via Firenze	Indian Wells	92210
+Via Firenze	La Quinta	92253
+Via Firenze	Newport Beach	92663
+Via Firenze	San Marcos	92078
+Via Firenze Ct	Arroyo Grande	93420
+Via Firenze Way	Corona	92881
+Via Firenzia	Rancho Mirage	92270
+Via Firezne	Indian Wells	92210
+Via Firul	San Diego	92128
+Via Flamenco	Valencia	91355
+Via Flor	San Juan Capistrano	92675
+Via Flora	Chino Hills	91709
+Via Flora	Olivehurst	95961
+Via Flora	Paso Robles	93446
+Via Flora Ct	Chico	95973
+Via Flora Rd	San Marcos	92069
+Via Flore	Temecula	92592
+Via Floreado	Orinda	94563
+Via Florecer	Mission Viejo	92692
+Via Flored	Valencia	91355
+Via Florence	Clovis	93619
+Via Florence	La Quinta	92253
+Via Florence	Newport Beach	92663
+Via Florence	Pacific Palisades	90272
+Via Florence	Redlands	92374
+Via Florencia	Jurupa Valley	92509
+Via Florencia	Mission Viejo	92692
+Via Florencia	Rancho Mirage	92270
+Via Florentia St	Bakersfield	93314
+Via Flores	Rancho Mirage	92270
+Via Flores	San Diego	92106
+Via Flores	San Juan Capistrano	92675
+Via Flores	Soquel	95073
+Via Flores Ct	San Jose	95132
+Via Flores St	Hesperia	92345
+Via Floresta	Fallbrook	92028
+Via Floresta	Lake Forest	92630
+Via Floresta	Lake Forest	92630-2014
+Via Floresta	Lake Forest	92630-2015
+Via Floresta	Pacific Palisades	90272
+Via Floria	Rancho Santa Margarita	92688
+Via Florida	San Clemente	92672
+Via Floritas	San Clemente	92673
+Via Foggia	Burbank	91504
+Via Fonda	Palm Desert	92260
+Via Fontana	Chula Vista	91913
+Via Fonte	Modesto	95357
+Via Fonte	Ybl	92886
+Via Fonte	Yorba Linda	92886
+Via Fontenelle Dr	Bakersfield	93308
+Via Fonti Ln	Fontana	92336
+Via Fontibre	San Clemente	92673
+Via Fortezza	San Diego	92129
+Via Fortuna	Dana Point	92624
+Via Fortuna	Palm Desert	92260
+Via Fortuna	Palm Springs	92264
+Via Fortuna	Palos Verdes Peninsula	90274
+Via Fortuna	San Jose	95120
+Via Fortuna	San Juan Capistrano	92675
+Via Fortuna Marfil	La Mesa	91941
+Via Fraga	Gustine	95322
+Via Fragante	Palm Desert	92260
+Via Franca	San Clemente	92673
+Via Frances	Unincorporated Alameda County	94580
+Via Francesco	San Diego	92129
+Via Francesco Ct	Loomis	95650
+Via Francis	Santee	92071
+Via Francisca	San Pedro	90732
+Via Francisco	Murrieta	92562
+Via Francisco	Ybl	92887
+Via Francisco	Yorba Linda	92887
+Via Frascati	Rancho Palos Verdes	90275
+Via Fresa	La Jolla	92037
+Via Fresa	San Dimas	91773
+Via Fresco	Camarillo	93012
+Via Fresco Cir	Corona	92881
+Via Fresno	Cathedral City	92234
+Via Fromista	Mission Viejo	92691
+Via Frondosa	Ybl	92886
+Via Frondosa	Yorba Linda	92886
+Via Frontera	Chino Hills	91709
+Via Frontera	Escondido	92029
+Via Frontera	Murrieta	92563
+Via Frontera	Rancho Santa Margarita	92688
+Via Frontera	San Diego	92127
+Via Frontera	Temecula	92591
+Via Frontera Rd	Murrieta	92563
+Via Fronteras	Riverside	92504
+Via Fruteria	Hope Ranch	93110
+Via Fuchsia	Paso Robles	93446
+Via Fuente	Valencia	91355
+Via Fuerte	Temecula	92590
+Via Fuschia Pl	Paso Robles	93446
+Via Fustero	Piru	93040
+Via Fustero Rd	Piru	93040
+Via Fustero St	Piru	93040

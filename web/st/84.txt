@@ -1,0 +1,7 @@
+84Th Ave	Thermal	92274
+84Th Place	Los Angeles	90001
+84Th Place	Los Angeles	90003
+84Th St	Sacramento	95826
+84Th St	Thermal	92274
+84Th Street	Los Angeles	90001
+84Th Street	Los Angeles	90044

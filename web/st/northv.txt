@@ -1,0 +1,40 @@
+Northvale Road	Los Angeles	90064
+Northvale Way	Citrus Heights	95610
+Northvalley	Thousand Oaks	91362
+Northvalley Dr	Thousand Oaks	91362
+Northview Ave	Arroyo Grande	93420
+Northview Avenue	Arcadia	91006
+Northview Circle	La Verne	91750
+Northview Circle	Yreka	96097
+Northview Court	Azusa	91702
+Northview Court	Palmdale	93550
+Northview Ct	Danville	94506
+Northview Ct	San Rafael	94903
+Northview Dr	Beaumont	92223
+Northview Dr	El Cajon	92019
+Northview Dr	Modesto	95355
+Northview Dr	Oroville	95966
+Northview Dr	Palm Desert	92260
+Northview Dr	Rancho Cucamonga	91701
+Northview Dr	Sacramento	95833
+Northview Dr	Unincorporated Alameda County	94541
+Northview Dr	Yucaipa	92399
+Northview Drive	Nevada City	95959
+Northview Drive	Walnut	91789
+Northview Drive	Yreka	96097
+Northview Ln	San Rafael	94903
+Northview Ln	Santee	92071
+Northview Ln	Yucaipa	92399
+Northview Pl	Paso Robles	93446
+Northview Pl	Redlands	92374
+Northview Place	Diamond Bar	91765
+Northview Rd	Escondido	92029
+Northview Rd	Santa Barbara Unincorporated	93105
+Northview Rd	Willits	 
+Northview Sq	Cupertino	95014
+Northview St	Eastvale	92880
+Northview St	Santa Rosa	95403
+Northview St	Selma	93662
+Northview Ter	Santee	92071
+Northview Terrace	Hacienda Heights	91745
+Northview Way	Redwood City	94062

@@ -1,0 +1,250 @@
+4Th	Calexico	92231
+4Th	Carmel-By-The-Sea	93921
+4Th	Desert Hot Springs	92240
+4Th	Palo Verde	92266
+4Th	Santa Cruz	95062
+4Th  407 Dool St	Calexico	92231
+4Th Anita Drive	Los Angeles	90049
+4Th Army Road	Seaside	93955
+4Th Av	Blue Lake	95525
+4Th Av	Rio Dell	95562
+4Th Av	Westhaven	95570
+4Th Ave	Blythe	92225
+4Th Ave	Calexico	92231
+4Th Ave	Chula Vista	91910
+4Th Ave	Chula Vista	91911
+4Th Ave	Clearlake	95422
+4Th Ave	Corcoran	93212
+4Th Ave	Escondido	92025
+4Th Ave	Galt	95632
+4Th Ave	Half Moon Bay	94019
+4Th Ave	Hanford	93230
+4Th Ave	Isleton	95641
+4Th Ave	Kingsburg	93631
+4Th Ave	Laguna Beach	92651
+4Th Ave	Lake Elsinore	92530
+4Th Ave	Lakeport	95453
+4Th Ave	Murrieta	92562
+4Th Ave	Napa	94558
+4Th Ave	Napa	94559
+4Th Ave	Newport Beach	92625
+4Th Ave	Ocotillo	92259
+4Th Ave	Oroville	95965
+4Th Ave	Other	94063
+4Th Ave	Pacheco	94553
+4Th Ave	Pacifica	94044
+4Th Ave	Palo Verde	92266
+4Th Ave	Pinole	94564
+4Th Ave	Pleasant Hill	94523
+4Th Ave	Redwood City	94063
+4Th Ave	Rio Linda	95673
+4Th Ave	Sacramento	95817
+4Th Ave	Sacramento	95818
+4Th Ave	San Bruno	94066
+4Th Ave	San Diego	92101
+4Th Ave	San Diego	92103
+4Th Ave	Sonoma	95476
+4Th Ave	Walnut Grove	95690
+4Th Avenue	Carmel	93923
+4Th Avenue	Covina	91723
+4Th Avenue	Gustine	95322
+4Th Avenue	La Crescenta	91214
+4Th Avenue	La Puente	91746
+4Th Avenue	Los Angeles	90008
+4Th Avenue	Los Angeles	90018
+4Th Avenue	Los Angeles	90019
+4Th Avenue	Los Angeles	90043
+4Th Avenue	Lynwood	90262
+4Th Avenue	Marina	93933
+4Th Avenue	Merced	95340
+4Th Avenue	Rio Oso	95674
+4Th Avenue	Santa Monica	90401
+4Th Avenue	Santa Monica	90402
+4Th Avenue	Santa Monica	90403
+4Th Avenue	Santa Monica	90405
+4Th Avenue	Tulare	93274
+4Th Avenue	Venice	90291
+4Th Court	Hermosa Beach	90254
+4Th Court	Santa Monica	90403
+4Th Ct	Calexico	92231
+4Th Ct	Hermosa Beach	90254
+4Th Division Avenue	Seaside	93955
+4Th Dr	Calexico	92231
+4Th & Grape	Holtville	92250
+4Th & Grove S	Ontario	91764
+4Th Helena Drive	Los Angeles	90049
+4Th Ln	Big Bear City	92314
+4Th Ln	South San Francisco	94080
+4Th Pkwy	Sacramento	95823
+4Th Pl	Escondido	92029
+4Th Pl	Hanford	93230
+4Th Pl	Highland	92346
+4Th Place	Downey	90241
+4Th Place	Manhattan Beach	90266
+4Th St	Arcata	95521
+4Th St	Bakersfield	93304
+4Th St	Barstow	92311
+4Th St	Beaumont	92223
+4Th St	Berkeley	94710
+4Th St	Big Bear City	92314
+4Th St	Biggs	95917
+4Th St	Bloomington	92316
+4Th St	Blythe	92225
+4Th St	Bombay Beach	92257
+4Th St	Borrego Springs	92004
+4Th St	Brentwood	94513
+4Th St	Buena Park	90621
+4Th St	Calexico	92231
+4Th St	Calimesa	92320
+4Th St	Calistoga	94515
+4Th St	Cayucos	93430
+4Th St	Ceres	95307
+4Th St	Chino	91710
+4Th St	Coachella	92236
+4Th St	Coronado	92118
+4Th St	Creston	93432
+4Th St	Crows Landing	95313
+4Th St	Daggett	92327
+4Th St	Del Mar	92014
+4Th St	Desert Hot Springs	92240
+4Th St	Earp	92242
+4Th St	Encinitas	92024
+4Th St	Eureka	95501
+4Th St	Ferndale	95536
+4Th St	Fillmore	93015
+4Th St	Fortuna	95540
+4Th St	Galt	95632
+4Th St	Gilroy	95020
+4Th St	Guerneville	95446
+4Th St	Havasu Lake	92363
+4Th St	Hayward	94541
+4Th St	Hemet	92544
+4Th St	Hermosa Beach	90254
+4Th St	Hickman	95323
+4Th St	Hollister	95023
+4Th St	Hood	95639
+4Th St	Hughson	95326
+4Th St	Huntington Beach	90742
+4Th St	Huron	93234
+4Th St	Imperial	92251
+4Th St	Isleton	95641
+4Th St	Joshua Tree	92252
+4Th St	Julian	92036
+4Th St	Kettleman City	93239
+4Th St	La Mesa	91941
+4Th St	Lafayette	94549
+4Th St	Lincoln	95648
+4Th St	Los Altos	94022
+4Th St	Los Osos	93402
+4Th St	Mariposa	95338
+4Th St	Mecca	92254
+4Th St	Mendota	93640
+4Th St	Menifee	92585
+4Th St	Modesto	95351
+4Th St	Montara	94037
+4Th St	Napa	94559
+4Th St	National City	91950
+4Th St	Needles	92363
+4Th St	Niland	92257
+4Th St	Norco	92860
+4Th St	Nuevo	92567
+4Th St	Oakley	94561
+4Th St	Oceano	93445
+4Th St	Oceanside	92054
+4Th St	Orange Cove	93646
+4Th St	Oro Grande	92368
+4Th St	Oroville	95965
+4Th St	Palo Verde	92266
+4Th St	Parlier	93648
+4Th St	Paso Robles	93446
+4Th St	Perris	92570
+4Th St	Petaluma	94952
+4Th St	Pismo Beach	93449
+4Th St	Rancho Cucamonga	91730
+4Th St	Rancho Cucamonga	91739
+4Th St	Redlands	92373
+4Th St	Represa	95630
+4Th St	Richmond	94801
+4Th St	Rio Linda	95673
+4Th St	Riverbank	95367
+4Th St	Riverside	92501
+4Th St	Riverside	92507
+4Th St	Rodeo	94572
+4Th St	Sacramento	95811
+4Th St	Sacramento	95814
+4Th St	Sacramento	95818
+4Th St	San Bernardino	92410
+4Th St	San Diego	92101
+4Th St	San Joaquin	93660
+4Th St	San Jose	95112
+4Th St	San Rafael	94901
+4Th St	Sanger	93657
+4Th St	Santa Rosa	95401
+4Th St	Santa Rosa	95404
+4Th St	Santa Rosa	95405
+4Th St	Santa Rosa	95409
+4Th St	Saratoga	95070
+4Th St	Scotia	95565
+4Th St	Seal Beach	90740
+4Th St	Selma	93662
+4Th St	Shandon	93461
+4Th St	Stratford	93266
+4Th St	Susanville	96130
+4Th St	Temecula	92590
+4Th St	Temecula	92592
+4Th St	Templeton	93465
+4Th St	Trona	93562
+4Th St	Turlock	95380
+4Th St	Union City	94587
+4Th St	Victorville	92392
+4Th St	Victorville	92395
+4Th St	Westwood	96137
+4Th St	Windsor	95492
+4Th St	Yermo	92398
+4Th St	Yucaipa	92399
+4Th St E	National City	91950
+4Th St E	Sonoma	95476
+4Th St & Milliken Ave SW	Rancho Cucamonga	91730
+4Th St S	Joshua Tree	92252
+4Th St W	Sonoma	95476
+4Th Street	Alhambra	91801
+4Th Street	Alhambra	91803
+4Th Street	Arboga	95961
+4Th Street	City Of Marysville	95901
+4Th Street	Davis	95616
+4Th Street	Delhi	95315
+4Th Street	Downey	90241
+4Th Street	Dunsmuir	96025
+4Th Street	Gonzales	93926
+4Th Street	Greenfield	93927
+4Th Street	Gustine	95322
+4Th Street	Hermosa Beach	90254
+4Th Street	Irwindale	91706
+4Th Street	Livingston	95334
+4Th Street	Long Beach	90802
+4Th Street	Los Angeles	90013
+4Th Street	Los Angeles	90017
+4Th Street	Los Angeles	90020
+4Th Street	Los Angeles	90063
+4Th Street	Manhattan Beach	90266
+4Th Street	Marina	93933
+4Th Street	Marysville	95901
+4Th Street	Meridian	95957
+4Th Street	Newhall	91321
+4Th Street	Pacific Grove	93950
+4Th Street	San Fernando	91340
+4Th Street	Santa Monica	90401
+4Th Street	Santa Monica	90403
+4Th Street	Santa Monica	90405
+4Th Street	Soledad	93960
+4Th Street	Spreckels	93908
+4Th Street	Tulelake	96134
+4Th Street	West Sacramento	95605
+4Th Street	Winters	95694
+4Th Street	Yreka	96097
+4Th Street East	Lancaster	93535
+4Th Street East	Palmdale	93550
+4Th Street West	Lancaster	93534
+4Th Trail	Sylmar	91342
+4Th W St	Pittsburg	94565
+4Th Way	Calexico	92231

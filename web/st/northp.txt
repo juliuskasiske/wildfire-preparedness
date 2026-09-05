@@ -1,0 +1,32 @@
+Northpark Blvd	San Bernardino	92407
+Northpark Cir	Irvine	92604
+Northpark Ct	Concord	94519
+Northpark Ct	Stockton	95210
+Northpark Ct	Thousand Oaks	91362
+Northpark Dr	Riverside	92508
+Northpark Dr	Roseville	95747
+Northpark Drive	Valencia	91354
+Northpark Pl	Auburn	95602
+Northpark Rd	Hesperia	92345
+Northpark Rd	Yucca Valley	92284
+Northpark St	Thousand Oaks	91362
+Northpoint Cir	Orcutt	93455
+Northpoint Cir	Santa Maria	93455
+Northpoint Ct	Martinez	94553
+Northpoint Ct	Redwood City	94063
+Northpoint Dr	Redding	96003
+Northpoint Dr	San Francisco	94130
+Northpoint Pky	Santa Rosa	95407
+Northpoint Pl	Lompoc	93436
+Northpoint St	Lake Elsinore	92530
+Northpointe	Lake Elsinore	92530
+Northpointe Ct	Unincorporated Alameda County	94541
+Northpointe St	Lake Elsinore	92530
+Northport Ct	Sacramento	95827
+Northport Dr	Huntington Beach	92646
+Northport Dr	Huntington Beach	92646-4424
+Northport Dr	Huntington Beach	92646-4425
+Northport Dr	Huntington Beach	92646-4426
+Northport Dr	Huntington Beach	92646-8568
+Northport Drive	West Sacramento	95691
+Northport Ln	Oxnard	93035

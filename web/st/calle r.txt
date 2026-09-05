@@ -1,0 +1,120 @@
+Calle R Tuttle	Santee	92071
+Calle Rabano	Menifee	92585
+Calle Rafael	San Dimas	91773
+Calle Ramona	Dana Point	92624
+Calle Ramos	Mecca	92254
+Calle Ranchera	Rancho Santa Margarita	92688
+Calle Ranchero	Petaluma	94954
+Calle Ranchitos	Temecula	92592
+Calle Rancho Vis	Encinitas	92024
+Calle Rancho Vista	Encinitas	92024
+Calle Raphael	Cathedral City	92234
+Calle Raphael	Indio	92201
+Calle Raquel	San Juan Capistrano	92675
+Calle Rayo	San Marcos	92069
+Calle Rayo Lunar	Chino Hills	91709
+Calle Real	Dana Point	92624
+Calle Real	El Capitan	93117
+Calle Real	Goleta	93111
+Calle Real	Goleta	93117
+Calle Real	Murrieta	92563
+Calle Real	Palmdale	93550
+Calle Real	San Clemente	92673
+Calle Real	Santa Barbara	93105
+Calle Real	Santa Barbara	93110
+Calle Real	Santa Barbara Unincorporated	93105
+Calle Real	Santa Barbara Unincorporated	93110
+Calle Real	Santa Barbara Unincorporated	93111
+Calle Real	Santa Barbara Unincorporated	93117
+Calle Real Ave	Murrieta	92563
+Calle Real St	Murrieta	92563
+Calle Reata	San Clemente	92673
+Calle Recodo	San Clemente	92673
+Calle Recreo	Lake Forest	92630
+Calle Recreo	Lake Forest	92630-2141
+Calle Recreo	Lake Forest	92630-2630
+Calle Redonda	Hacienda Heights	91745
+Calle Redonda	Walnut	91789
+Calle Redonda Ln	Escondido	92026
+Calle Redondel	San Clemente	92672
+Calle Redondela	Temecula	92592
+Calle Refugio	Atascadero	93422
+Calle Regal	Encinitas	92024
+Calle Regina	Rancho Mirage	92270
+Calle Regio	San Clemente	92673
+Calle Regla	San Clemente	92672
+Calle Reina	Rancho Santa Fe	92067
+Calle Reina	Santa Barbara Unincorporated	93110
+Calle Remo	La Quinta	92253
+Calle Renata	San Dimas	91773
+Calle Renfro	Moreno Valley	92551
+Calle Resaca	Temecula	92592
+Calle Resplendor	San Juan Capistrano	92675
+Calle Retama	Thousand Oaks	91360
+Calle Reva	Temecula	92592
+Calle Rey	Thousand Oaks	91360
+Calle Rey Mar	Carpinteria	93013
+Calle Reynalda	San Juan Capistrano	92675
+Calle Rica	San Clemente	92672
+Calle Ricardo	Escondido	92026
+Calle Ricardo	San Juan Capistrano	92675
+Calle Rienda	Rancho Santa Margarita	92688
+Calle Rinconada	Santa Barbara	93105
+Calle Rio Grande	Temecula	92592
+Calle Rio Vista	Moreno Valley	92551
+Calle Rio Vista	San Juan Capistrano	92675
+Calle Riscoso	Thousand Oaks	91362
+Calle Ritari	Newberry Springs	92365
+Calle Rivera	Highland	92346
+Calle Rivero	Rancho Mirage	92270
+Calle Roberto	Coachella	92236
+Calle Roberto	San Juan Capistrano	92675
+Calle Roble	Murrieta	92562
+Calle Roble	Nipomo	93444
+Calle Roble	Thousand Oaks	91360
+Calle Robleda	Agoura Hills	91301
+Calle Robles	San Clemente	92672
+Calle Roca	Palm Springs	92264
+Calle Roca	Temecula	92590
+Calle Roca Vista	San Clemente	92672
+Calle Rocas	Camarillo	93010
+Calle Rochelle	Thousand Oaks	91360
+Calle Rociada	Fallbrook	92028
+Calle Rocinante	Temecula	92592
+Calle Rocio	Temecula	92590
+Calle Rockfish	San Diego	92154
+Calle Rocosa	Temecula	92592
+Calle Rocosa Rd	Temecula	92592
+Calle Rocoso	Murrieta	92563
+Calle Rodriguez	Coachella	92236
+Calle Roja	North Tustin	92705
+Calle Roja	Rohnert Park	94928
+Calle Rojo	Coachella	92236
+Calle Rolando	San Juan Capistrano	92675
+Calle Rolph	Palm Springs	92262
+Calle Rolph	Palm Springs	92264
+Calle Rondo	La Quinta	92253
+Calle Rosa	Coachella	92236
+Calle Rosa	Moreno Valley	92555
+Calle Rosa	San Dimas	91773
+Calle Rosado	El Cajon	92021
+Calle Rosado	Mission Viejo	92692
+Calle Rosales	Bakersfield	93314
+Calle Rosales	Santa Barbara	93105
+Calle Rosalito	Santa Clarita	91390
+Calle Rosamaria	San Dimas	91773
+Calle Rosarita	La Quinta	92253
+Calle Rosarito	Indio	92201
+Calle Rosas	Pauma Valley	92061
+Calle Rosas Way	Redding	96001
+Calle Rose	Perris	92570
+Calle Rosita	Dana Point	92624
+Calle Rosita	Murrieta	92562
+Calle Roxanne	Fallbrook	92028
+Calle Royale Way	Sacramento	95823
+Calle Ruiz	Coachella	92236
+Calle Ruiz	Perris	92570
+Calle Ruiz	Thousand Oaks	91360
+Calle Ruiz	West Covina	91792
+Calle Ruiz St	Perris	92570
+Calle Ryan	Encinitas	92024

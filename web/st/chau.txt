@@ -1,0 +1,97 @@
+Chaucer Ave	San Diego	92120
+Chaucer Cir	Riverside	92503
+Chaucer Cir	San Ramon	94583
+Chaucer Cir	Westminster	92683
+Chaucer Court	San Dimas	91773
+Chaucer Ct	American Canyon	94503
+Chaucer Ct	Carmichael	95608
+Chaucer Ct	Mill Valley	94941
+Chaucer Ct	Pleasant Hill	94523
+Chaucer Ct	Rancho Cucamonga	91701
+Chaucer Ct	Redlands	92374
+Chaucer Ct	Roseville	95747
+Chaucer Ct	San Ramon	94583
+Chaucer Dr	Brentwood	94513
+Chaucer Dr	Concord	94521
+Chaucer Dr	Pleasant Hill	94523
+Chaucer Dr	San Jose	95116
+Chaucer Drive	Salinas	93901
+Chaucer Lane	Fairfield	94533
+Chaucer Lane	Grass Valley	95945
+Chaucer Lane	Inglewood	90305
+Chaucer Ln	American Canyon	94503
+Chaucer Ln	Huntington Beach	92646
+Chaucer Ln	Huntington Beach	92646-5809
+Chaucer Ln	Huntington Beach	92646-5810
+Chaucer Ln	Huntington Beach	92646-5811
+Chaucer Ln	Huntington Beach	92646-5812
+Chaucer Ln	Ventura	93003
+Chaucer Pl	Manteca	95337
+Chaucer Pl	Petaluma	94954
+Chaucer Pl	Thousand Oaks	91362
+Chaucer Place	Stevenson Ranch	91381
+Chaucer Rd	Menifee	92584
+Chaucer Rd	Menifee	92585
+Chaucer Rd	Rossmoor	90720
+Chaucer Road	San Marino	91108
+Chaucer St	Bakersfield	93311
+Chaucer St	Berkeley	94702
+Chaucer St	Moreno Valley	92557
+Chaucer St	Palo Alto	94301
+Chaucer Street	Los Angeles	90065
+Chaucer Way	City Of Shasta Lake	96019
+Chaudhary Ct	Napa	94558
+Chaudhuri Cir	Hemet	92544
+Chauler Pl	Thousand Oaks	91362
+Chaulet Ln	Ceres	95307
+Chaumont	Mission Viejo	92692
+Chaumont	Mountain Center	92561
+Chaumont Cir	Foothill Ranch	92610-2327
+Chaumont Cir	Foothill Ranch	92610-2328
+Chaumont Cir	Foothill Ranch	92610-2329
+Chaumont Cir	Foothill Ranch	92610-2330
+Chaumont Cir	Foothill Ranch	92610-2335
+Chaumont Cir	Foothill Ranch	92610-2336
+Chaumont Cir	Foothill Ranch	92610-2337
+Chaumont Cir	Foothill Ranch	92610-2338
+Chaumont Cir	Foothill Ranch	92610-2339
+Chaumont Cir	Foothill Ranch	92610-2343
+Chaumont Cir	Foothill Ranch	92610-2344
+Chaumont Cir	Foothill Ranch	92610-2345
+Chaumont Cir	Foothill Ranch	92610-2346
+Chaumont Cir	Foothill Ranch	92610-2347
+Chaumont Cir	Foothill Ranch	92610-2348
+Chaumont Cir	Foothill Ranch	92610-2352
+Chaumont Cir	Foothill Ranch	92610-2353
+Chaumont Cir	Foothill Ranch	92610-2354
+Chaumont Cir	Foothill Ranch	92610-2355
+Chaumont Cir	Foothill Ranch	92610-2356
+Chaumont Cir	Lake Forest	92610
+Chaumont Court	Palmdale	93551
+Chaumont Ct	Bakersfield	93311
+Chaumont Dr	San Diego	92114
+Chaumont Dr	San Jose	95118
+Chaumont Dr	Wrightwood	92397
+Chaumont Ln	Wrightwood	92397
+Chaumont Pl	San Diego	92114
+Chaumont Road	Woodland Hills	91364
+Chaumont St	Lake Elsinore	92530
+Chauncey Ct	San Jose	95128
+Chauncey Dr	San Diego	92123
+Chauncey Drive	Cerritos	90703
+Chauncey Rd	Oceanside	92056
+Chauncey Rd	San Diego	92106
+Chauncey Way	Orangevale	95662
+Chauncey Way	San Jose	95128
+Chauncey Way	Temecula	92591
+Chauncy Ci	Stockton	95209
+Chauncy Court	Vacaville	95688
+Chauncy Pl	Riverside	92506
+Chauncy St	Tracy	95377
+Chauncy Way	Ceres	95307
+Chauncy Way	Redding	96003
+Chauncy Way	Vacaville	95688
+Chauplin Ave	Atascadero	93422
+Chautauqua Boulevard	Pacific Palisades	90272
+Chautauqua Boulevard	Santa Monica	90402
+Chauvet Rd	Glen Ellen	95442

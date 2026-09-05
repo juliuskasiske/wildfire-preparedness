@@ -1,0 +1,457 @@
+Calle Daggett	Santa Clarita	91390
+Calle Dalia	Thousand Oaks	91360
+Calle Damasco	Thousand Oaks	91360
+Calle Danielle	Coachella	92236
+Calle Dario	San Diego	92126
+Calle Datura	Chula Vista	91913
+Calle De Acacia	Redlands	92373
+Calle De Adele	Encinitas	92024
+Calle De Aida	San Jose	95118
+Calle De Alba	Perris	92571
+Calle De Alberto	Tecate	91980
+Calle De Alcala	Escondido	92025
+Calle De Amigos	Moreno Valley	92551
+Calle De Amistad	Adelanto	92301
+Calle De Amor	Murrieta	92563
+Calle De Amor	San Jose	95124
+Calle De Andalucia	Redondo Beach	90277
+Calle De Andluca	La Jolla	92037
+Calle De Anza	Placentia	92870
+Calle De Anza	San Clemente	92672
+Calle De Aragon	Redondo Beach	90277
+Calle De Arboles	Redondo Beach	90277
+Calle De Arboles	Torrance	90505
+Calle De Arena	Rancho Santa Margarita	92688
+Calle De Armonia	San Dimas	91773
+Calle De Arroyo	San Jose	95118
+Calle De Barcelona	Cupertino	95014
+Calle De Barranca	Redlands	92373
+Calle De Bonanza	San Juan Capistrano	92675
+Calle De Buena Fe	El Cajon	92021
+Calle De Bueno	Winchester	92596
+Calle De Buho	Murrieta	92563
+Calle De Caballos	Menifee	92585
+Calle De Callado	Palm Springs	92264
+Calle De Cambio	Laguna Niguel	92677
+Calle De Campanero	Murrieta	92562
+Calle De Campo	Santa Maria	93454
+Calle De Carlos	Palm Springs	92264
+Calle De Casitas	Oceanside	92057
+Calle De Castellana	Redondo Beach	90277
+Calle De Catalina	Pacific Palisades	90272
+Calle De Cinco	La Jolla	92037
+Calle De Compadres	Alpine	91901
+Calle De Companero	Murrieta	92562
+Calle De Cordoba	Fairfield	94534
+Calle De Corizon	Murrieta	92562
+Calle De Cristo	San Marcos	92069
+Calle De Cuerno	Temecula	92590
+Calle De Cuestanada	Milpitas	95035
+Calle De Damasco	Chula Vista	91910
+Calle De Debesa	Camarillo	93010
+Calle De Dietel	Murrieta	92562
+Calle De Encinas	Valley Center	92082
+Calle De Encinas Ct	Valley Center	92082
+Calle De Ensueno	Valley Center	92082
+Calle De Ernesto	El Cajon	92021
+Calle De Escarpado	Murrieta	92563
+Calle De Escuela	Santa Clara	95054
+Calle De Espacio	Palm Springs	92264
+Calle De Esparanza	Wildomar	92595
+Calle De Estrellas	Palm Springs	92264
+Calle De Estribo	Pacific Palisades	90272
+Calle De Farrar	San Jose	95118
+Calle De Felice	San Jose	95124
+Calle De Felicidad	Rancho Santa Margarita	92688
+Calle De Felipe	Torrance	90505
+Calle De Flora Vis	Palm Springs	92262
+Calle De Fortuna	Murrieta	92563
+Calle De Fuentes	Carlsbad	92009
+Calle De Gato	Redding	96001
+Calle De Gilda	San Jose	95118
+Calle De Grande	La Verne	91750
+Calle De Guadalupe	San Jose	95116
+Calle De Halcones	Valley Center	92082
+Calle De Industrias	San Clemente	92672
+Calle De Jimenez	Moreno Valley	92555
+Calle De La Alianza	San Ysidro	92173
+Calle De La Burrita	Malibu	90265
+Calle De La Estrella	Pine Valley	91962
+Calle De La Fiesta	Pine Valley	91962
+Calle De La Flor	Chula Vista	91913
+Calle De La Fuente	Hacienda Heights	91745
+Calle De La Garza	La Jolla	92037
+Calle De La Ladera	Ybl	92887
+Calle De La Ladera	Yorba Linda	92887
+Calle De La Louisa	Laguna Hills	92653
+Calle De La Luna	San Clemente	92673
+Calle De La Luna	Sonoma	95476
+Calle De La Magdalena	Laguna Hills	92653
+Calle De La Mesa	Novato	94949
+Calle De La Paloma	Carmel Valley	93924
+Calle De La Paloma	Fallbrook	92028
+Calle De La Paz	Escondido	92029
+Calle De La Paz	Murrieta	92563
+Calle De La Paz	San Jose	95120
+Calle De La Paz Drive	Valencia	91354
+Calle De La Plata	La Jolla	92037
+Calle De La Plata	Laguna Hills	92653
+Calle De La Reina	Escondido	92026
+Calle De La Rosa	Camarillo	93012
+Calle De La Rosa	Chula Vista	91913
+Calle De La Rosa	Orcutt	93455
+Calle De La Rosa	San Juan Capistrano	92675
+Calle De La Sabe	Carmel Valley	93924
+Calle De La Selva	Novato	94949
+Calle De La Siena	San Diego	92130
+Calle De La Sierra	El Cajon	92019
+Calle De La Siesta	Murrieta	92563
+Calle De La Silla	Palm Desert	92260
+Calle De La Ventana	Carmel Valley	93924
+Calle De La Vuelta	Fallbrook	92028
+Calle De Lago Rd	Murrieta	92563
+Calle De Lagrima	Rancho Santa Fe	92067
+Calle De Lara	Indio	92203
+Calle De Las Brisas	Castaic	91384
+Calle De Las Casas	Santa Clarita	91390
+Calle De Las Estrella	San Jose	95148
+Calle De Las Estrellas	Azusa	91702
+Calle De Las Estrellas	Bonsall	92003
+Calle De Las Flores	Palm Springs	92262
+Calle De Las Flores	San Dimas	91773
+Calle De Las Flores	San Jose	95148
+Calle De Las Focas	San Clemente	92672
+Calle De Las Ovejas	Oak Park	91377
+Calle De Las Palmas	Redlands	92373
+Calle De Las Piedras	Vista	92084
+Calle De Las Rosas	Bonsall	92003
+Calle De Las Rosas	Rancho Mirage	92270
+Calle De Las Rosas	San Diego	92129
+Calle De Las Sonatas	Rancho Santa Margarita	92688
+Calle De Leon	El Cajon	92019
+Calle De Leon	Sun City	92585
+Calle De Leon Dr	Sun City	92585
+Calle De Lepanto	Escondido	92025
+Calle De Limar	Fallbrook	92028
+Calle De Lina	Murrieta	92562
+Calle De Linea	San Diego	92154
+Calle De Lobo	Murrieta	92562
+Calle De Lobo Rd	Murrieta	92562
+Calle De Lorena	Redding	96003
+Calle De Lorena Dr	Redding	96003
+Calle De Los Agrimensors	Carmel Valley	93924
+Calle De Los Agrinemsors	Carmel Valley	93924
+Calle De Los Agrnmsrs	Carmel Valley	93924
+Calle De Los Alamos	San Clemente	92672
+Calle De Los Amigos	Pacific Grove	93950
+Calle De Los Amigos	Santa Barbara	93105
+Calle De Los Arboles	San Clemente	92673
+Calle De Los Caballeros	Laguna Hills	92653
+Calle De Los Campesinos Rd	Palm Desert	92260
+Calle De Los Grabados	Rancho Santa Margarita	92688
+Calle De Los Molinos	San Clemente	92672
+Calle De Los Ninos	Rancho Santa Margarita	92688
+Calle De Los Ninos	San Diego	92129
+Calle De Los Ositos	Carmel Valley	93924
+Calle De Los Pinos	Lake Elsinore	92530
+Calle De Los Pinos Rd	Lake Elsinore	92530
+Calle De Los Potros	Bonita	91902
+Calle De Los Roble	Lake Elsinore	92530
+Calle De Los Robles	Lake Elsinore	92530
+Calle De Los Serranos	San Marcos	92078
+Calle De Los Vientos	Palm Springs	92264
+Calle De Lucia	San Jose	95124
+Calle De Luna	Rancho Santa Margarita	92688
+Calle De Luna	Santa Clara	95054
+Calle De Luz	Fallbrook	92028
+Calle De Madera	Encinitas	92024
+Calle De Madrid	Pacific Palisades	90272
+Calle De Madrid	Redondo Beach	90277
+Calle De Malibu	Escondido	92029
+Calle De Marejada	Camarillo	93010
+Calle De Maria	Palm Springs	92264
+Calle De Maria	San Diego	92128
+Calle De Marisa	Pacific Palisades	90272
+Calle De Maya	La Mirada	90638
+Calle De Maya	Temecula	92592
+Calle De Maya Rd	Temecula	92592
+Calle De Medio	El Cajon	92019
+Calle De Mimosas	Palm Springs	92262
+Calle De Montana	El Cajon	92019
+Calle De Mucho	Murrieta	92562
+Calle De Mucho Rd	Murrieta	92562
+Calle De Muzik	Twentynine Palms	92277
+Calle De Newman	San Diego	92129
+Calle De Nicole	El Cajon	92019
+Calle De Norte	Indian Wells	92210
+Calle De Nubes	Palm Springs	92264
+Calle De Nubes	Winchester	92596
+Calle De Oro	Jamul	91935
+Calle De Oro	Lake Forest	92630
+Calle De Oro	Lake Forest	92630-2005
+Calle De Oro	Lake Forest	92630-2006
+Calle De Oro	Lake Forest	92630-2007
+Calle De Oro	Lake Forest	92630-2008
+Calle De Oro	Oakley	94561
+Calle De Oro	Pomona	91768
+Calle De Oro	Rancho Mirage	92270
+Calle De Oro	San Dimas	91773
+Calle De Oro	Thousand Oaks	91360
+Calle De Oro	Twentynine Palms	92277
+Calle De Oro Ave E	Calexico	92231
+Calle De Oro Ave W	Calexico	92231
+Calle De Oro Ct	Thousand Oaks	91360
+Calle De Oro Ct W	Calexico	92231
+Calle De Oro E	Calexico	92231
+Calle De Oro W	Calexico	92231
+Calle De Palermo	Pacific Palisades	90272
+Calle De Paseo	Irwindale	91706
+Calle De Paseo	Lake Forest	92630
+Calle De Paseo	Lake Forest	92630-0000
+Calle De Pescadores	Alpine	91901
+Calle De Pinos	Palm Springs	92262
+Calle De Plata	San Dimas	91773
+Calle De Plata	San Jose	95116
+Calle De Portola	San Marcos	92078
+Calle De Primavera	Santa Clara	95054
+Calle De Primera	Torrance	90505
+Calle De Primra	La Jolla	92037
+Calle De Princesa	Coto De Caza	92679
+Calle De Prospero	San Jose	95124
+Calle De Pueblo	Templeton	93465
+Calle De Quien Sabe	Carmel Valley	93924
+Calle De Remo	Sun City	92585
+Calle De Retiro	Oceanside	92057
+Calle De Ricardo	Palm Springs	92264
+Calle De Ricardo	Torrance	90505
+Calle De Rico	San Jose	95124
+Calle De Rob	Poway	92064
+Calle De Robles	Carmel Valley	93924
+Calle De Robles Road	Carmel Valley	93924
+Calle De Rolph	Palm Springs	92262
+Calle De Sahen	Murrieta	92562
+Calle De Salida	Murrieta	92562
+Calle De Sarah	Pacific Palisades	90272
+Calle De Sereno	Encinitas	92024
+Calle De Sevilla	Pacific Palisades	90272
+Calle De Silva	Redlands	92374
+Calle De Sirenas	Redondo Beach	90277
+Calle De Sota	Santa Clarita	91390
+Calle De Soto	San Clemente	92672
+Calle De Soto	San Marcos	92078
+Calle De Stuarda	San Jose	95118
+Calle De Sueno	Fallbrook	92028
+Calle De Suenos	Murrieta	92562
+Calle De Suenos	Rancho Palos Verdes	90275
+Calle De Suenos	Rancho Santa Margarita	92688
+Calle De Suerte	San Jose	95124
+Calle De Talar	Bonsall	92003
+Calle De Tenis	Dana Point	92629
+Calle De Tierra	Alpine	91901
+Calle De Topo	Nipomo	93444
+Calle De Toros	Temecula	92592
+Calle De Tosca	San Jose	95118
+Calle De Valardo	Temecula	92592
+Calle De Valenzuela	Brawley	92227
+Calle De Vecinos	Desert Hot Springs	92240
+Calle De Vega	Coachella	92236
+Calle De Velardo	Temecula	92592
+Calle De Verde	San Jose	95136
+Calle De Vida	Brawley	92227
+Calle De Vida	Rancho Santa Margarita	92688
+Calle De Vida	San Diego	92124
+Calle De Vida Ave	Brawley	92227
+Calle De Vista	Valley Center	92082
+Calle De Vista Oeste	San Diego	92129
+Calle Deamigos	Moreno Valley	92551
+Calle Debron	Arroyo Grande	93420
+Calle Deceo	Chula Vista	91913
+Calle Del Adobe	Salinas	93907
+Calle Del Adobe Road	Salinas	93907
+Calle Del Alba	Perris	92571
+Calle Del Alcalde	Pine Valley	91962
+Calle Del Alcazar	Rancho Santa Fe	92067
+Calle Del Amor	Chula Vista	91910
+Calle Del Apice	San Clemente	92672
+Calle Del Arco	Fallbrook	92028
+Calle Del Arroyo	San Marcos	92078
+Calle Del Arroyo	Sonoma	95476
+Calle Del Arroyo	Stinson Beach	94970
+Calle Del Barco	Malibu	90265
+Calle Del Baston	San Marcos	92078
+Calle Del Bosque	Pine Valley	91962
+Calle Del Bravo	La Verne	91750
+Calle Del Buho	Murrieta	92563
+Calle Del Buho Rd	Murrieta	92563
+Calle Del Caballo	Fairfield	94534
+Calle Del Cabos	Pomona	91766
+Calle Del Caminos	San Luis Obispo	93401
+Calle Del Campanario	Rancho Santa Fe	92067
+Calle Del Campo	San Diego	92129
+Calle Del Campo	San Juan Capistrano	92675
+Calle Del Casa	Riverside	92503
+Calle Del Casarillo	Diablo	94528
+Calle Del Cerrito	San Clemente	92672
+Calle Del Cerro	San Clemente	92672
+Calle Del Cid	Mission Viejo	92691
+Calle Del Cielo	Azusa	91702
+Calle Del Cielo	Brawley	92227
+Calle Del Cielo	Castaic	91384
+Calle Del Cielo	La Jolla	92037
+Calle Del Cielo Rosado	Wonder Valley	92277
+Calle Del Cielo St	Brawley	92227
+Calle Del Comercio	San Clemente	92672
+Calle Del Conejo	El Cajon	92021
+Calle Del Conejo	San Jose	95120
+Calle Del Corral	Riverside	92504
+Calle Del Cruce	Rancho Santa Fe	92067
+Calle Del Diablo	Desert Hot Springs	92240
+Calle Del Dios	Desert Hot Springs	92240
+Calle Del Embarcadero	Stinson Beach	94970
+Calle Del Establo	San Clemente	92672
+Calle Del Greco	Oceanside	92056
+Calle Del Humo	San Diego	92126
+Calle Del Jonela	Pacific Palisades	90272
+Calle Del Juego	San Clemente	92672
+Calle Del Lago	Lake Forest	92630
+Calle Del Lago	Lake Forest	92630-2150
+Calle Del Lago	Lake Forest	92630-2152
+Calle Del Lago	Lake Forest	92630-2153
+Calle Del Lago	Murrieta	92563
+Calle Del Lago	Santee	92071
+Calle Del Lago St	Murrieta	92563
+Calle Del Lirio	Corona	92883
+Calle Del Los Agrinemsors	Carmel Valley	93924
+Calle Del Mar	Pomona	91766
+Calle Del Mar	Rancho Santa Margarita	92688
+Calle Del Mar	Stinson Beach	94970
+Calle Del Monte	Sonoma	95476
+Calle Del Mundo	Santa Clara	95054
+Calle Del Mundo	Temecula	92590
+Calle Del Norte	Camarillo	93010
+Calle Del Norte	Duarte	91010
+Calle Del Norte	Indian Wells	92210
+Calle Del Norte	Irwindale	91706
+Calle Del Norte	Rancho Mirage	92270
+Calle Del Norte	Rancho Santa Margarita	92688
+Calle Del Oaks	Monterey	93940
+Calle Del Occidente	Stinson Beach	94970
+Calle Del Onda	Stinson Beach	94970
+Calle Del Oro	Chino Hills	91709
+Calle Del Oro	Corona	92882
+Calle Del Oro	La Jolla	92037
+Calle Del Oro	Santa Barbara	93109
+Calle Del Oso Oro	Murrieta	92562
+Calle Del Pacifico	Glendale	91208
+Calle Del Pacifico	San Clemente	92672
+Calle Del Pajarito	Rancho Palos Verdes	90275
+Calle Del Palo	Oceanside	92057
+Calle Del Paz	Lucerne Valley	92356
+Calle Del Pinos	Stinson Beach	94970
+Calle Del Pradero	Stinson Beach	94970
+Calle Del Prado	Milpitas	95035
+Calle Del Prado	Rancho Cucamonga	91730
+Calle Del Prado	Thousand Oaks	91320
+Calle Del Rancho	Escondido	92025
+Calle Del Resaca	Stinson Beach	94970
+Calle Del Rey	Gilroy	95020
+Calle Del Rey	Morgan Hill	95037
+Calle Del Rey	Pomona	91766
+Calle Del Ribera	Stinson Beach	94970
+Calle Del Rio	Joshua Tree	92252
+Calle Del Rio	Lakeside	92040
+Calle Del Rio	Oceanside	92057
+Calle Del Rio	Rancho Santa Margarita	92688
+Calle Del Rio	Watsonville	95076
+Calle Del Rio St	Highland	92346
+Calle Del Rito	San Clemente	92672
+Calle Del Rodeo	Pomona	91766
+Calle Del Roja	Acton	93510
+Calle Del Serenidad	Paso Robles	93446
+Calle Del Sierra	Stinson Beach	94970
+Calle Del Sol	Aptos	95003
+Calle Del Sol	Avalon	90704
+Calle Del Sol	Azusa	91702
+Calle Del Sol	Bodega Bay	94923
+Calle Del Sol	Brawley	92227
+Calle Del Sol	Bre	92823
+Calle Del Sol	Brea	92823
+Calle Del Sol	Dana Point	92624
+Calle Del Sol	Indio	92201
+Calle Del Sol	Jamul	91935
+Calle Del Sol	Los Altos Hills	94022
+Calle Del Sol	Morgan Hill	95037
+Calle Del Sol	Nipomo	93444
+Calle Del Sol	Palm Springs	92264
+Calle Del Sol	Palmdale	93550
+Calle Del Sol	Pomona	91766
+Calle Del Sol	Santa Barbara	93101
+Calle Del Sol	Santa Clara	95054
+Calle Del Sol	Thousand Oaks	91360
+Calle Del Sol	Vista	92083
+Calle Del Sol Drive	Valencia	91354
+Calle Del Sol Rd	Jamul	91935
+Calle Del Sol St	Bakersfield	93307
+Calle Del Sol St	Brawley	92227
+Calle Del Sol Way	Rancho Cordova	95670
+Calle Del Sur	Carlsbad	92009
+Calle Del Sur	Indian Wells	92210
+Calle Del Sur	Irwindale	91706
+Calle Del Sur	Rancho Santa Margarita	92688
+Calle Del Sur	Santa Clarita	91390
+Calle Del Sur	Thousand Oaks	91360
+Calle Del Tesoro	San Juan Capistrano	92675
+Calle Del Valle	Murrieta	92562
+Calle Del Verano	Palm Desert	92260
+Calle Del Verde	Santee	92071
+Calle Del Vinedos	Temecula	92591
+Calle Del Vista	Oceanside	92057
+Calle Delgado	National City	91950
+Calle Delgado	San Juan Capistrano	92675
+Calle Delgado	Ybl	92887
+Calle Delgado	Yorba Linda	92887
+Calle Delicada	La Jolla	92037
+Calle Delicada	San Clemente	92672
+Calle Delphina	San Juan Capistrano	92675
+Calle Denia	Cathedral City	92234
+Calle Deposito	El Cajon	92019
+Calle Descanso	Camarillo	93012
+Calle Descanso	Desert Hot Springs	92240
+Calle Descanso	Indio	92203
+Calle Descanso	Ramona	92065
+Calle Descanso	San Clemente	92673
+Calle Descanso	Walnut	91789
+Calle Desconocido	Santa Clarita	91390
+Calle Desierto	Indio	92203
+Calle Despensero	Hacienda Heights	91745
+Calle Devanar	San Marcos	92078
+Calle Dia	Camarillo	93012
+Calle Dia	Carpinteria	93013
+Calle Diablo	Hemet	92545
+Calle Diablo Ct	Brentwood	94513
+Calle Diablo Ct	Hemet	92545
+Calle Diamante	Indio	92201
+Calle Diamonte	Thousand Oaks	91320
+Calle Diego	Coachella	92236
+Calle Diegueno	Rancho Santa Fe	92067
+Calle Diez	Mission Hills	93436
+Calle Divino	San Clemente	92673
+Calle Dodge Avenue	San Dimas	91773
+Calle Dolores	Dana Point	92624
+Calle Domingo	San Clemente	92673
+Calle Domingo	Victorville	92392
+Calle Don Carlo	San Juan Capistrano	92675
+Calle Don Guillermo	La Habra	90631
+Calle Don Juan	La Habra	90631
+Calle Dorado	San Clemente	92672
+Calle Dorado	San Juan Capistrano	92675
+Calle Dos Lagos	Rancho Santa Fe	92067
+Calle Dos Lomas	Fallbrook	92028
+Calle Duende	Arroyo Grande	93420
+Calle Dulce	Chula Vista	91910
+Calle Dulce	Glendale	91208
+Calle Dulce	San Clemente	92673
+Calle Dulce	Vista	92084
+Calle Dulcinea	San Clemente	92672
+Calle Durango	La Quinta	92253
+Calle Durazno	Thousand Oaks	91360

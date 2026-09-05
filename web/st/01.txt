@@ -1,0 +1,14 @@
+01St Ave	Chula Vista	91910
+01St Ave	Chula Vista	91911
+01St Ave	San Diego	92101
+01St Ave	San Diego	92103
+01St Pl	Escondido	92029
+01St St	Borrego Springs	92004
+01St St	Coronado	92118
+01St St	Coronado	92135
+01St St	Fallbrook	92028
+01St St	Julian	92036
+01St St	San Diego	92101
+01St St	San Francisco	94105
+01St St	San Marcos	92078
+01St St	Santee	92071

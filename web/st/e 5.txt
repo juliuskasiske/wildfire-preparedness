@@ -1,0 +1,55 @@
+E 5 Th St	Niland	92257
+E 50Th St	San Bernardino	92404
+E 51St St	San Bernardino	92404
+E 52Nd St	San Bernardino	92404
+E 53Rd St	San Bernardino	92404
+E 54Th St	San Bernardino	92404
+E 5Th	Calexico	92231
+E 5Th	Holtville	92250
+E 5Th	Watsonville	95076
+E 5Th	Westmorland	92281
+E 5Th  417 Beach	Calexico	92231
+E 5Th  430 432 Paulin Dr	Calexico	92231
+E 5Th Ave	Calexico	92231
+E 5Th Ave	Chico	95926
+E 5Th Ave	Escondido	92025
+E 5Th Ave	Holtville	92250
+E 5Th Ave	Imperial	92251
+E 5Th Ave	San Mateo	94401
+E 5Th Ave	San Mateo	94402
+E 5Th Ave	Westmorland	92281
+E 5Th Rd	Holtville	92250
+E 5Th St	Altu	96101
+E 5Th St	Bakersfield	93307
+E 5Th St	Beaumont	92223
+E 5Th St	Bombay Beach	92257
+E 5Th St	Calexico	92231
+E 5Th St	Chico	95928
+E 5Th St	Corona	92879
+E 5Th St	Crows Landing	95313
+E 5Th St	Highland	92346
+E 5Th St	Holtville	92250
+E 5Th St	Imperial	92251
+E 5Th St	Lincoln	95648
+E 5Th St	Madera	93637
+E 5Th St	Madera	93638
+E 5Th St	Morgan Hill	95037
+E 5Th St	National City	91950
+E 5Th St	Niland	92257
+E 5Th St	Ontario	91764
+E 5Th St	Oxnard	93030
+E 5Th St	Parlier	93648
+E 5Th St	Perris	92570
+E 5Th St	Pittsburg	94565
+E 5Th St	San Bernardino	92346
+E 5Th St	San Bernardino	92401
+E 5Th St	San Bernardino	92410
+E 5Th St	San Jacinto	92583
+E 5Th St	Santa Ana	92701
+E 5Th St	Westmorland	92281
+E 5Th St	Westmorland	92283
+E 5Th St 1/2	Madera	93638
+E 5Th St  504 50 St	Calexico	92231
+E 5Th St  521 Heffernan Ave	Calexico	92231
+E 5Th St & N Grove Ave NE	Ontario	91762
+E 5Th Way	Imperial	92251

@@ -1,0 +1,329 @@
+N T Ave	National City	91950
+N T St	Lompoc	93436
+N Taaffe St	Sunnyvale	94086
+N Tahan Ave	Fresno	93711
+N Tahquitz Ave	Hemet	92543
+N Talbot St	Orange	92867
+N Talco Way	Hayfork	96041
+N Talladega Way	Fresno	93720
+N Tam Ct	Simi Valley	93063
+N Tamarack Ave	Bre	92821
+N Tamarack Dr	Fullerton	92832
+N Tamarack Dr	Visalia	93291
+N Tamarack Drive	Bridgeport	93517
+N Tamarack St	Visalia	93291
+N Tamarind Ave	Rialto	92376
+N Tamarind Ave	Rialto	92377
+N Tamarron Ct	San Bernardino	92407
+N Tamera Ave	Fresno	93711
+N Tamera Ave	Fresno	93722
+N Tami Ln	Woodbridge	95258
+N Tamy Ln	Santa Ana	92706
+N Tandika Trl	Palm Desert	92211
+N Tanforan Ct	Aguanga	92536
+N Tangeman Rd	Stockton	95215
+N Tangerine Dr	Rialto	92377
+N Tangerine Pl	Bre	92823
+N Tangerine Way	Fresno	93722
+N Tantau Ave	Cupertino	95014
+N Tanya Ct	Santa Maria	93454
+N Taormina Dr	Anaheim	92806
+N Taos Ct	Mh	95391
+N Taos Way	Fresno	93722
+N Tapia Ln	Bre	92821
+N Tapia Ln	Brea	92821
+N Tapia Way	Upland	91784
+N Tapo Canyon Rd	Simi Valley	93063
+N Tapo St	Simi Valley	93063
+N Tarragon Ave	Hanford	93230
+N Tarragon Way	Upland	91786
+N Tassajara Dr	San Luis Obispo	93405
+N Taylor Ave	Hanford	93230
+N Taylor Ct	Bre	92821
+N Taylor Ranch Rd	Lockeford	95237
+N Taylor Rd	San Bernardino	92404
+N Taylor St	Hemet	92543
+N Taylor Way	Porterville	93257
+N Taylor Way	Upland	91786
+N Tea Party Ln	Fresno	93720
+N Tea Party Ln	Fresno	93730
+N Teakwood Ave	Rialto	92376
+N Teakwood Ave	Rialto	92377
+N Teakwood Ct	Visalia	93292
+N Teakwood St	Visalia	93292
+N Tecklenburg Rd	Lodi	95240
+N Teddy Ct	Visalia	93291
+N Teddy St	Visalia	93291
+N Teelynn Av	Santa Maria	93458
+N Teelynn Ave	Santa Maria	93458
+N Teepee Dr	Stockton	95205
+N Tegner Rd	Turlock	95380
+N Tegner Rd	Turlock	95382
+N Tegner Rd	Turlock	95813
+N Teilman Ave	Fresno	93705
+N Teilman Ave	Fresno	93706
+N Teilman Ave	Fresno	93711
+N Teilman Ave	Fresno	93728
+N Tejas Pl	Nipomo	93444
+N Tejon Ave	Colton	92324
+N Telegraph Rd	Santa Paula	93060
+N Temescal Cir	Corona	92879
+N Temescal St	Corona	92879
+N Temperance Ave	Clovis	93619
+N Temperance Ave	Fowler	93625
+N Temperance Ave	Fresno	93727
+N Temperance Ave	Fresno	93737
+N Temple Ave	Camarillo	93010
+N Temple Ave	Camarillo	93012
+N Temple Dr	Milpitas	95035
+N Tenth St	Fresno	93703
+N Tenth St	Fresno	93710
+N Tenth St	Fresno	93720
+N Tenth St	Fresno	93726
+N Tenth St	Lompoc	93436
+N Tenth St	Santa Paula	93060
+N Tercero Cir	Palm Springs	92262
+N Teresa Ave	Colton	92324
+N Terminal St	Santa Ana	92701
+N Terra Cotta Dr	Fresno	93727
+N Terra Cotta Rd	Lake Elsinore	92530
+N Terrace Ave	Colton	92324
+N Terrace Ct	Visalia	93291
+N Terrace Dr	Stockton	95212
+N Terrace Lake Dr	Bre	92821
+N Terrace Rd	Rialto	92376
+N Terrace Rd	San Bernardino	92410
+N Terrace St	San Bernardino	92410
+N Terrace St	Visalia	93291
+N Terrace View Ct	Orange	92867
+N Terracita Dr	San Bernardino	92404
+N Terry Way	Upland	91786
+N Teton Dr	Ful	92835
+N Th St	Burbank	91501
+N Th St	Burbank	91504
+N Th St Pointaddress	Burbank	91501
+N Thames Cir	Anaheim	92806
+N The City Dr	Orange	92868
+N The Stand	Oceanside	92054
+N The Strand	Oceanside	92054
+N The Strrand	Oceanside	92054
+N Thesta St	Fresno	93701
+N Thesta St	Fresno	93703
+N Thesta St	Fresno	93710
+N Thesta St	Fresno	93726
+N Third Ave	Avenal	93204
+N Third Ave	Barstow	92311
+N Third Ave	Upland	91784
+N Third Pl	Upland	91786
+N Third St	Campbell	95008
+N Third St	Clements	95227
+N Third St	Fresno	93702
+N Third St	Fresno	93703
+N Third St	Fresno	93710
+N Third St	Fresno	93720
+N Third St	Fresno	93726
+N Third St	Lompoc	93436
+N Third St	Port Hueneme	93041
+N Third St	Porterville	93257
+N Third St	Santa Clara	95054
+N Third Street	King City	93930
+N Thirteenth St	Santa Paula	93060
+N Thistle Rd	Bre	92821
+N Thistle Rd	Brea	92821
+N Thistle St	San Bernardino	92407
+N Thomann Dr	Pla	92870
+N Thomann Dr	Placentia	92870
+N Thomas Ct	Visalia	93292
+N Thomas St	Orange	92869
+N Thomas St	Visalia	93292
+N Thompson Av	Chatsworth	91311
+N Thompson Ave	Arroyo Grande	93420
+N Thompson Ave	Banning	92220
+N Thompson Ave	Chatsworth	91311
+N Thompson Ave	Clovis	93619
+N Thompson Ave	Hemet	92543
+N Thompson Ave	Nipomo	93444
+N Thompson Ave	Reedley	93654
+N Thompson Rd	Lafayette	94549
+N Thompson Rd	Stockton	95215
+N Thompson Rd	Thornton	95686
+N Thompson St	Coalinga	93210
+N Thompson St	Hemet	92543
+N Thor Pl	Bre	92821
+N Thor St	Turlock	95380
+N Thora Cir	Orange	92869
+N Thora St	Orange	92869
+N Thornburg St	Santa Maria	93458
+N Thorne Ave	Fresno	93650
+N Thorne Ave	Fresno	93704
+N Thorne Ave	Fresno	93705
+N Thorne Ave	Fresno	93706
+N Thorne Ave	Fresno	93711
+N Thorne Ave	Fresno	93728
+N Thornton Rd	Galt	95632
+N Thornton Rd	Lodi	95242
+N Thornton Rd	Stockton	95209
+N Thornton Rd	Stockton	95219
+N Thornton Rd	Thornton	95686
+N Thornwood	Simi Valley	93065
+N Thousand Oaks Blvd	Thousand Oaks	91360
+N Three Arches Circle	Villa Park	92867
+N Thunder Mountain Rd	Upland	91784
+N Thunderbird Ter	Rancho Mirage	92270
+N Thurston Ave	Avenal	93204
+N Thurston Pl	Ana	92807
+N Thurston Pl	Anaheim	92807
+N Thyme Way	Fresno	93720
+N Tiajuana St	San Bernardino	92411
+N Tiana Ln	Ana	92807
+N Tiana Ln	Anaheim	92807
+N Tiffani Pl	Highland	92346
+N Tiffany Cir	Palm Springs	92262
+N Tiffany Ct	Camarillo	93010
+N Tiffany Dr	Santa Maria	93454
+N Tilden Ct	Visalia	93291
+N Tilden St	Visalia	93291
+N Tiller Ave	Port Hueneme	93041
+N Timber Canyon Rd	Santa Paula	93060
+N Timbergrove Rd	Orange	92867
+N Timberlane Ave	Simi Valley	93063
+N Timothy Ct	Woodbridge	95258
+N Tina Pl	Stockton	95215
+N Tinker Bell Ave	Big Bear City	92314
+N Tippecanoe Ave	San Bernardino	92410
+N Tippetts Ln	Ana	92807
+N Tippetts Ln	Anaheim	92807
+N Tipton St	Visalia	93292
+N Tisha Ave	Fresno	93723
+N Toby Pl	Simi Valley	93065
+N Todd St	Visalia	93291
+N Toddy St	Santa Ana	92703
+N Toland Rd	Santa Paula	93060
+N Toledo Ln	San Bernardino	92407
+N Toledo Way	Upland	91786
+N Toletachi Rd	Fresno	93711
+N Tollhouse Rd	Fresno	93726
+N Tollhouse Rd	Prather	93651
+N Toluca Park Dr	Burbank	91505
+N Tom Fazio	La Quinta	92253
+N Tom Fazio Ln	La Quinta	92253
+N Tomfazio Ln	La Quinta	92253
+N Tommy Ct	Visalia	93291
+N Tommy St	Visalia	93291
+N Tommy Wy	Linden	95236
+N Tonner Ridge Dr	Bre	92821
+N Topaz Cir	Palm Springs	92262
+N Topaz Ct	Colton	92324
+N Topaz St	Orange	92867
+N Topeka St	Anaheim	92805
+N Topiary Ln	Mh	95391
+N Topsail Ave	Colton	92324
+N Torrens St	Anaheim	92807
+N Torres St	Orange	92865
+N Torrey Pine Ln	Orange	92865
+N Torrey Pines Ave	Fresno	93723
+N Toste Ln	Acampo	95220
+N Totten Av	Stockton	95205
+N Tower Pl	Anaheim	92806
+N Towers Pl	Stockton	95215
+N Towner St	Santa Ana	92703
+N Towner St	Santa Ana	92706
+N Townley Cir	Simi Valley	93063
+N Townley St	Santa Ana	92706
+N Townsend	Lake Elsinore	92530
+N Townsend St	Santa Ana	92703
+N Trabuco Canyon Way	Bre	92821
+N Tracy Ave	Fresno	93722
+N Tracy Ave	San Bernardino	92407
+N Tracy Ave	Simi Valley	93063
+N Tracy Bl	Tracy	95304
+N Tracy Bl	Tracy	95376
+N Tracy St	Simi Valley	93063
+N Tracy St	Visalia	93292
+N Trail Ct	Chula Vista	91914
+N Trails End Dr	Chatsworth	91311
+N Trailview Cir	Bre	92821
+N Tramonto Ct	Mh	95391
+N Tranquility Dr	Sacramento	95823
+N Traverse Ave	Clovis	93619
+N Treasure Av	Stockton	95212
+N Tree Line Dr	Santa Maria	93458
+N Trellis Cir	Fresno	93720
+N Tremont Ave	Simi Valley	93063
+N Tremont St	Oceanside	92054
+N Trendsetter Dr	Fresno	93711
+N Trenton Wy	Stockton	95212
+N Tresana Ave	Fresno	93730
+N Tretheway Rd	Acampo	95220
+N Tretheway Rd	Lockeford	95237
+N Tretheway Rd	Lodi	95240
+N Trevino Ln	Fresno	93730
+N Treviso Dr	Anaheim	92801
+N Trevor St	Anaheim	92806
+N Triad Ave	Fresno	93737
+N Tribune Privado	Ontario	91764
+N Trillium Wy	Mh	95391
+N Trinity Ave	Kerman	93630
+N Trinity Loop	Ontario	91764
+N Triolo St	Woodbridge	95258
+N Tritt Cir	Villa Park	92867
+N Trudy Ave	Rialto	92376
+N Trujillo Ln	Colton	92324
+N Truman St	Coalinga	93210
+N Tudor Pl	Anaheim	92801
+N Tulane Ave	Moorpark	93021
+N Tulare Ct	Upland	91784
+N Tulare St	Bakersfield	93305
+N Tulare Way	Upland	91784
+N Tulare Way	Upland	91786
+N Tulio Ct	Mh	95391
+N Tulip Ave	Upland	91784
+N Tulip Cir	Beaumont	92223
+N Tulip Ln	Bre	92821
+N Tulip St	Escondido	92025
+N Tully Rd	Acampo	95220
+N Tully Rd	Linden	95236
+N Tully Rd	Linden	95240
+N Tully Rd	Lockeford	95237
+N Tully Rd	Lockeford	95240
+N Tully Rd	Lodi	95236
+N Tully Rd	Lodi	95240
+N Tully Rd	Turlock	95380
+N Tully Rd	Turlock	95382
+N Tulsa Av	Stockton	95215
+N Tunales Dr	Fullerton	92835
+N Tunis St	Lakeport	95453
+N Turf Dr	Fresno	93730
+N Turnabout Rd	Orange	92869
+N Turnberry Dr	Orange	92869
+N Turner Ave	Ontario	91761
+N Turner Ave	Ontario	91764
+N Turner Ct	Visalia	93291
+N Turner St	Visalia	93291
+N Turnpike Rd	Santa Barbara Unincorporated	93111
+N Turrill Ave	San Bernardino	92405
+N Turrill Ave	San Bernardino	92411
+N Turrill Ct	San Bernardino	92405
+N Tuscan Rd	Palm Springs	92262
+N Tustin Ave	Ana	92807
+N Tustin Ave	Anaheim	92806
+N Tustin Ave	Anaheim	92807
+N Tustin Ave	Santa Ana	92701
+N Tustin Ave	Santa Ana	92705
+N Tustin Ave	Tustin	92780
+N Tustin St	Orange	92865
+N Tustin St	Orange	92866
+N Tustin St	Orange	92867
+N Tuxedo Cir	Palm Springs	92262
+N Twelfth St	Lompoc	93436
+N Twelfth St	Santa Paula	93060
+N Twin Oaks Valley Rd	San Marcos	92069
+N Twin Oaks Valley Rd	San Marcos	92078
+N Twin Oaks Valley Rd	Vista	92084
+N Twin Valley Rd	San Marcos	92069
+N Two Palms Way	Indio	92201
+N Tyler Way	Upland	91786
+N Tympani Cir	Ana	92807
+N Tympani Cir	Anaheim	92807
+N Tympani St	Ana	92807
+N Tympani St	Anaheim	92807

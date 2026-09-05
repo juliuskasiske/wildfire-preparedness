@@ -1,0 +1,190 @@
+Calle Sabina	San Dimas	91773
+Calle Sabroso	Chula Vista	91914
+Calle Sacate	Temecula	92592
+Calle Sacramento	San Clemente	92672
+Calle Sagrada	Bakersfield	93309
+Calle Sagres	Winchester	92596
+Calle Sal Si Puedes	San Diego	92139
+Calle Salerno	Chula Vista	91913
+Calle Salida	Dana Point	92624
+Calle Salida	San Clemente	92672
+Calle Salida Del Sol	San Diego	92139
+Calle Saltamontes	San Clemente	92673
+Calle Salto	Thousand Oaks	91360
+Calle Saluda	San Clemente	92673
+Calle Sama	Cathedral City	92234
+Calle San Antonio	Palm Springs	92264
+Calle San Antonio	San Juan Bautista	95045
+Calle San Antonio	San Juan Capistrano	92675
+Calle San Arch	San Diego	92154
+Calle San Blas	Carlsbad	92009
+Calle San Carlos	Cathedral City	92234
+Calle San Clemente	Encinitas	92024
+Calle San Clemente	Murrieta	92562
+Calle San Diego	San Juan Capistrano	92675
+Calle San Elijo	Indio	92203
+Calle San Felipe	Carlsbad	92009
+Calle San Felipe	San Juan Capistrano	92675
+Calle San Francisco	San Juan Capistrano	92675
+Calle San Geronimo	Indio	92203
+Calle San Juan	San Juan Capistrano	92675
+Calle San Juan	Thousand Oaks	91320
+Calle San Juan De Los Lag	Moreno Valley	92553
+Calle San Leon	Indio	92203
+Calle San Lucas	Rowland Heights	91748
+Calle San Luis	San Juan Capistrano	92675
+Calle San Luis Potosi	Santa Clarita	91390
+Calle San Luis Rey	Arroyo Grande	93420
+Calle San Luis Rey	Rancho Santa Margarita	92688
+Calle San Marcos	Chino Hills	91709
+Calle San Marcos	San Juan Capistrano	92675
+Calle San Martine	Menifee	92584
+Calle San Miguel	Encinitas	92024
+Calle San Pablo	Camarillo	93012
+Calle San Pedro	San Juan Capistrano	92675
+Calle San Raphael	Palm Springs	92264
+Calle San Remo	San Juan Capistrano	92675
+Calle San Vicente	Murrieta	92562
+Calle Sanbar	San Diego	92154
+Calle Sanborn	Coachella	92236
+Calle Sanc Arch	San Diego	92154
+Calle Sand Arch	San Diego	92154
+Calle Sandbar	San Diego	92154
+Calle Sandcliff	San Diego	92154
+Calle Sandia	San Clemente	92672
+Calle Sandor	Temecula	92592
+Calle Sandwaves	San Diego	92154
+Calle Sansebastian	San Jacinto	92583
+Calle Santa Anita	Indio	92203
+Calle Santa Barbara	La Quinta	92253
+Calle Santa Barbara	San Dimas	91773
+Calle Santa Barbara	San Juan Capistrano	92675
+Calle Santa Cesilia	Temecula	92592
+Calle Santa Claudi	Indio	92203
+Calle Santa Cruz	Encinitas	92024
+Calle Santa Cruz	Indio	92203
+Calle Santa Cruz	Palm Springs	92264
+Calle Santa Fe	Cathedral City	92234
+Calle Santa Fe	Solana Beach	92075
+Calle Santa Juana	Indio	92203
+Calle Santa Monica	Indio	92203
+Calle Santa Monica	Murrieta	92562
+Calle Santa Rosa	Palm Springs	92262
+Calle Santa Rosa	Palm Springs	92264
+Calle Santa Rosa	Thermal	92274
+Calle Santa Rosalia	San Juan Capistrano	92675
+Calle Santa Sofia	Indio	92203
+Calle Santa Ynez	San Juan Capistrano	92675
+Calle Santiago	Carlsbad	92009
+Calle Santiago	Cathedral City	92234
+Calle Santiago	Chula Vista	91910
+Calle Santiago	Thousand Oaks	91320
+Calle Santona	Cathedral City	92234
+Calle Saragoza	Temecula	92591
+Calle Sarmentoso	San Clemente	92673
+Calle Sastre	Bakersfield	93311
+Calle Sastre	Santa Barbara	93105
+Calle Sausalito	Riverside	92503
+Calle Sauza	Temecula	92590
+Calle Scott	Encinitas	92024
+Calle Seabass	San Diego	92154
+Calle Seama	La Quinta	92253
+Calle Seca	Poway	92064
+Calle Seca Ct	Redding	96002
+Calle Seco	Poway	92064
+Calle Segovia	Coachella	92236
+Calle Segovia	Temecula	92592
+Calle Segunda	Camarillo	93010
+Calle Segunda	Mission Hills	93436
+Calle Seguro	Oak Park	91377
+Calle Seguro	San Clemente	92672
+Calle Sencillo	Camarillo	93012
+Calle Sendero	Lake Forest	92630
+Calle Sendero	Lake Forest	92630-2111
+Calle Sendero	Lake Forest	92630-2133
+Calle Sendero	Lake Forest	92630-2134
+Calle Sendero	Lake Forest	92630-2155
+Calle Sendero	Lake Forest	92630-2157
+Calle Sendero	Lake Forest	92630-2159
+Calle Senita	Walnut	91789
+Calle Sequoia	Thousand Oaks	91360
+Calle Seranas	La Quinta	92253
+Calle Serena	Fullerton	92833
+Calle Serena	Lancaster	93536
+Calle Serena	Moreno Valley	92551
+Calle Serena	Rancho Santa Fe	92067
+Calle Serena	San Clemente	92672
+Calle Serena	San Diego	92139
+Calle Sereno	Atascadero	93422
+Calle Sereno	Chula Vista	91913
+Calle Sereno	Temecula	92592
+Calle Sereno Rd	Temecula	92592
+Calle Serra	Aptos	95003
+Calle Serra	Morgan Hill	95037
+Calle Serra	Rancho Santa Margarita	92688
+Calle Serra	San Dimas	91773
+Calle Serranona	Calabasas	91302
+Calle Serrento	Goleta	93117
+Calle Servando	Indio	92203
+Calle Sestao	Cathedral City	92234
+Calle Seville	Coachella	92236
+Calle Siempre	Palm Desert	92211
+Calle Siena	Morgan Hill	95037
+Calle Siena Ct	Morgan Hill	95037
+Calle Sierra	Spring Valley	91977
+Calle Siete	Mission Hills	93436
+Calle Silva	Mecca	92254
+Calle Silvosa	Rowland Heights	91748
+Calle Simpatica	Glendale	91208
+Calle Simpson	El Cajon	92019
+Calle Sin Rival	San Clemente	92673
+Calle Sinaloa	La Quinta	92253
+Calle Sinaloa	Vista	92084
+Calle Sirena	Glendale	91208
+Calle Sobrado	Oceanside	92056
+Calle Sol	San Clemente	92672
+Calle Solana	Cathedral City	92234
+Calle Solana	San Dimas	91773
+Calle Solano	Rancho Mirage	92270
+Calle Soledad	Coachella	92236
+Calle Solejar	Redlands	92373
+Calle Solimar	Oceanside	92057
+Calle Solis	Walnut	91789
+Calle Sombra	San Clemente	92673
+Calle Sombra Ave	Moreno Valley	92557
+Calle Sombre	Laguna Niguel	92677
+Calle Sonador	San Clemente	92673
+Calle Sonia	Fallbrook	92028
+Calle Sonia	Santa Barbara Unincorporated	93111
+Calle Sonoma	Cathedral City	92234
+Calle Sonoma	Indio	92201
+Calle Sonoma	Rancho Santa Margarita	92688
+Calle Sonora	La Quinta	92253
+Calle Sonora	Laguna Woods	92637
+Calle Sonora	San Clemente	92672
+Calle Sonora	Temecula	92592
+Calle Sonora	Ybl	92887
+Calle Sonora	Yorba Linda	92887
+Calle Sonora Este	Laguna Woods	92637
+Calle Sonora Oeste	Laguna Woods	92637
+Calle Sonrisa	Glendale	91208
+Calle Sonrisa	La Quinta	92253
+Calle Sonriso	Santa Clarita	91390
+Calle Sonriso Way	Santa Clarita	91390
+Calle Sonseca	Cathedral City	92234
+Calle Sonseco	Cathedral City	92234
+Calle Soria	Santa Barbara	93109
+Calle Sorpreso	San Clemente	92673
+Calle Splendido	Temecula	92591
+Calle Stellare	Rancho Palos Verdes	90275
+Calle Stellina	Rancho Santa Fe	92091
+Calle Stoneman Avenue	Redondo Beach	90277
+Calle Stornetta	San Luis Obispo	93401
+Calle Sueno	Morgan Hill	95037
+Calle Suenos	Glendale	91208
+Calle Suerte	Camarillo	93012
+Calle Suntuoso	San Diego	92128
+Calle Sur	Lemon Grove	91945
+Calle Sur Juana	Mecca	92254
+Calle Susana	Elk Grove	95624
+Calle Susanna	San Juan Capistrano	92675

@@ -1,0 +1,252 @@
+A 13Th St	Arcata	95521
+A&34Th St	San Diego	92102
+A 6Th St	Eureka	95501
+A 7Th St	Fortuna	95540
+A. Aceves Ave	Calexico	92231
+A Aceves St	Calexico	92231
+A And B H St	Brawley	92227
+A And J Ln	Shingletown	96088
+A Anderholt Dr	Holtville	92250
+A Anna Sparks Wy	Mckinleyville	95519
+A Arkinlander Ln	Martinez	94553
+A Austin Dr	El Centro	92243
+A Austin Ln	El Centro	92243
+A Ave	Bombay Beach	92257
+A Ave	Coronado	92118
+A Ave	Hesperia	92345
+A Ave	Lakeside	92040
+A Ave	National City	91950
+A Ave	Nuevo	92567
+A Avenue	Seaside	93955
+A Avenue Ln	Coronado	92118
+A B C D & E West Orange Ave	El Centro	92243
+A B St	Eureka	95501
+A Belford	Imperial	92251
+A Ben Hulse	Palo Verde	92266
+A Better Way	Garden Grove	92843
+A C Nogales	Calexico	92231
+A Carson Woods Rd	Fortuna	95540
+A Clarie Dr	Pleasant Hill	94523
+A Cordero Ave	Calexico	92231
+A Cota St	Calexico	92231
+A Country Clb	Holtville	92250
+A Ct	Oxnard	93033
+A Cypress Point Rd	Richmond	94801
+A D Ln	Gridley	95948
+A Danville Blvd	Alamo	94507
+- A  Delta Rd	Brentwood	94513
+A Dock	Sausalito	94965
+A Dollison St	Eureka	95501
+A Dorsey	Aptos	95003
+A Dr	Brawley	92227
+A E Hwy 78 (Ben Hulse Hw Rd	Winterhaven	92283
+A E Hwy 98	Calexico	92231
+A Eastern Av	Arcata	95521
+A Edeline Av	Mckinleyville	95519
+A El Cuenco	Carmel Valley	93924
+A El Rio	Carmel Valley	93924
+A Encinas Ave	Calexico	92231
+A English	Niland	92257
+A Flood	Winterhaven	92283
+A G Spanos Bl	Stockton	95209
+A G St	Williams	95987
+A Garden Ct	Walnut Creek	94595
+A Garvin Ave	Richmond	94805
+A Giuntoli Ln	Arcata	95521
+A Glen St	Eureka	95503
+A Golf Course Rd	Bayside	95521
+A Haven Ln	Mckinleyville	95519
+A Heller	Calexico	92231
+A Hems	Calexico	92231
+A Hems Ct	Calexico	92231
+A Hillgrade Ave	Alamo	94507
+A Huntoon St	Eureka	95501
+A Hwy 111	Imperial	92251
+A Hwy 86	El Centro	92243
+A I St	Arcata	95521
+A Imperial St	Seeley	92273
+A. J. Stohr Rd	Forest Ranch	95942
+A J Way	Covington Mill	96091
+A Jackson Ave	Ukiah	 
+A Johnson Ln	El Centro	92243
+A Kittery Ave	San Ramon	94583
+A Klose Way	Richmond	94806
+A Labrucherie Rd	Imperial	92251
+A Las Trampas Rd	Alamo	94507
+A Learning Lane	Brentwood	94513
+A Lemee	Mariposa	95338
+A Ln	Applegate	95703
+A Ln	Big Bear City	92314
+A Ln	Cedar Glen	92321
+A Ln	Huntington Beach	92647
+A Ln	Huntington Beach	92647-4831
+A Ln	Huntington Beach	92647-4832
+A Ln	Huntington Beach	92647-4833
+A Ln	Huntington Beach	92647-6044
+A Ln	Huntington Beach	92647-6045
+A Ln	Huntington Beach	92647-6046
+A Ln	Huntington Beach	92647-6047
+A Ln	Huntington Beach	92647-6059
+A Ln	Huntington Beach	92647-6398
+A Ln	Huntington Beach	92647-6399
+A Ln	Huntington Beach	92647-8252
+A Ln	Huntington Beach	92647-8253
+A Ln	Huntington Beach	92647-8254
+A Ln	Huntington Beach	92647-8255
+A Ln	Lake Arrowhead	92352
+A Mad River Pkwy East	Arcata	95521
+A Main Street	Sattley	96124
+A Mansfield Rd	Brawley	92227
+A Maple St	Willits	95490
+A Milton Ave	Walnut Creek	94596
+A Monge Ct	Calexico	92231
+A Murray	Holtville	92250
+A Myrtle Av	Eureka	95501
+A Nelson Ave	Arbuckle	95912
+A Newell Dr	Fortuna	95540
+A North St	Willits	 
+A-O W Main St	El Centro	92243
+A Oak St	Garberville	95542
+A Olive	El Centro	92243
+A Pacific Av	Rio Dell	95562
+A Painted Gorge Dr	Imperial	92251
+A Pkwy	Sacramento	95823
+A Plaza Dr	Martinez	94553
+A Pleasant Hill Rd	Lafayette	94549
+A Rd	Brawley	92227
+A Richmond Ct	Richmond	94801
+A Rioseco	Calexico	92231
+A Rioseco Dr	Calexico	92231
+A Rioseco St	Calexico	92231
+A Road	Linda	95901
+A Rodrigues Ave	Martinez	94553
+A Rohnerville Rd	Fortuna	95540
+A Ronald Av	Fortuna	95540
+A S Barnes St	Ukiah	95482
+A S California St	Maxwell	95955
+A S Waterman	El Centro	92243
+A San Miguel Dr	Walnut Creek	94596
+A San Pablo Dam Rd	El Sobrante	94803
+A Sandoval Lane Ln	El Centro	92243
+A Sellers Ave	Oakley	94561
+A Sidewinder Rd	Winterhaven	92283
+A Silsbee	El Centro	92243
+A Silsbee Rd	El Centro	92243
+A St	Adelanto	92301
+A St	Anderson	96007
+A St	Antioch	94509
+A St	Arcata	95521
+A St	Bakersfield	93301
+A St	Bakersfield	93304
+A St	Barstow	92311
+A St	Big Lagoon	95570
+A St	Blue Lake	95525
+A St	Bombay Beach	92257
+A St	Borrego Springs	92004
+A St	Brawley	92227
+A St	Cathedral City	92234
+A St	Colma	94014
+A St	Concord	94520
+A St	Crescent City	95531
+A St	Crockett	94525
+A St	Daggett	92327
+A St	Daly City	94014
+A St	Eastvale	92880
+A St	El Cerrito	94530
+A St	Empire	95319
+A St	Empire	95357
+A St	Encinitas	92024
+A St	Eureka	95501
+A St	Fall River Mills	96028
+A St	Ferndale	95536
+A St	Fillmore	93015
+A St	Fresno	93706
+A St	Fresno	93727
+A St	Galt	95632
+A St	Havasu Lake	92363
+A St	Hayward	94541
+A St	Hemet	92544
+A St	Hollister	95023
+A St	Hydesville	95547
+A St	Isleton	95641
+A St	Julian	92036
+A St	Knightsen	94548
+A St	Lincoln	95648
+A St	Los Altos	94024
+A St	Lower Lake	95457
+A St	Martinez	94553
+A St	Mcarthur	96040
+A St	Mcarthur	96056
+A St	Mckinleyville	95519
+A St	Miranda	95554
+A St	Murrieta	92562
+A St	Napa	94559
+A St	Needles	92363
+A St	Newport Beach	92661
+A St	North Highlands	95660
+A St	Oroville	95966
+A St	Oxnard	93030
+A St	Oxnard	93033
+A St	Perris	92570
+A St	Perris	92571
+A St	Petaluma	94952
+A St	Point Reyes Station	94956
+A St	Ramona	92065
+A St	Redding	96002
+A St	Redwood City	94063
+A St	Richmond	94801
+A St	Riverside	92507
+A St	Sacramento	95811
+A St	Sacramento	95819
+A St	San Diego	0
+A St	San Diego	92101
+A St	San Diego	92102
+A St	San Rafael	94901
+A St	Santa Maria	93454
+A St	Santa Maria	93455
+A St	Santa Rosa	95401
+A St	Selma	93662
+A St	South San Francisco	94080
+A St	Tracy	95376
+A St	Trona	93562
+A St	Turlock	95380
+A St	Unincorporated Alameda County	94541
+A St	Unincorporated Alameda County	94546
+A St	Union City	94587
+A St	Victorville	92395
+A St	Walnut Grove	95690
+A St	Waterford	95386
+A St	Williams	95987
+A St	Windsor	95492
+A St & 531 N 2Nd	Brawley	92227
+A St W	Brawley	92227
+A Street	American Canyon	0
+A Street	Atwater	95301
+A Street	City Of Marysville	95901
+A Street	Davis	95616
+A Street	Elmira	95625
+A Street	Gonzales	93926
+A Street	La Verne	91750
+A Street	Livingston	95334
+A Street	Mammoth Lakes	93546
+A Street	Tulelake	96134
+A Street	West Sacramento	95605
+A Street	Woodland	95776
+A Street	Yuba City	95991
+A Street Ave	Brawley	92227
+A Street St	Brawley	92227
+A Summer St	Fortuna	95540
+A Talmage Rd	Ukiah	95482
+A Thiesen	Holtville	92250
+A Tirado Ave	Calexico	92231
+A (Tower) Green	Brawley	92227
+A & V Thieleman Ave	Calexico	92231
+A & V Thielemann	Calexico	92231
+A & V Thielemann Ave	Calexico	92231
+A & V Thielmann Ave	Calexico	92231
+A W Evan Hewes	El Centro	92243
+A W Evan Hewes Hwy	El Centro	92243
+A W Hwy 86	Westmorland	92281
+A W Murphy Rd	Imperial	92251
+A Wescott Rd	Colusa	95932
+A Zuniga Ct	Calexico	92231

@@ -1,0 +1,304 @@
+W F	Winterhaven	92283
+W F Ave	Winterhaven	92283
+W F St	Biola	93606
+W F St	Colton	92324
+W F St	Encinitas	92024
+W F St	Kerman	93630
+W F St	Napa	94558
+W F St	Oakdale	95361
+W F St	Ontario	91762
+W F St	San Diego	92101
+W F St	Tracy	95304
+W F St	Turlock	95380
+W F St	Winterhaven	92283
+W Faculty Rd	Thousand Oaks	91360
+W Faculty St	Thousand Oaks	91360
+W Fairbrook Ln	Santa Ana	92706
+W Faircrest Dr	Anaheim	92804
+W Fairhaven Ave	Porterville	93257
+W Fairhaven Ave	Visalia	93277
+W Fairhaven Cir	Porterville	93257
+W Fairhaven Ln	Porterville	93257
+W Fairmont Ave	Fresno	93705
+W Fairmont Ave	Fresno	93711
+W Fairmont Ave	Fresno	93722
+W Fairmont Ave	Fresno	93723
+W Fairmont Ave	Modesto	95350
+W Fairmont Ct	Visalia	93291
+W Fairoaks Rd	Tracy	95304
+W Fairoaks Rd	Tracy	95377
+W Fairview Ave	Visalia	93277
+W Fairview Ct	Visalia	93277
+W Fairview Dr	Rialto	92377
+W Fairview Rd	Ojai	93023
+W Fairway	Big Bear City	92314
+W Fairway Blvd	Big Bear City	92314
+W Fairway Cir	Palm Springs	92264
+W Fairway Cir	Upland	91784
+W Fairway Dr	Colton	92324
+W Fairway Dr	Orange	92866
+W Fairway Dr	San Bernardino	92408
+W Fairway Dr	Santa Maria	93454
+W Fairway Dr	Santa Maria	93455
+W Fairway Oaks Ave	Banning	92220
+W Falkirk Bay	Oxnard	93035
+W Fall Pl	Anaheim	92805
+W Fallbrook Ave	Fresno	93711
+W Fallbrook Ave	Fresno	93722
+W Fallbrook St	Fallbrook	92028
+W Fallon Ave	Fresno	93722
+W Falmouth Ave	Anaheim	92801
+W Fantz Ave	Fresno	93706
+W Fargo Ave	Hanford	93230
+W Fargo St	Stockton	95204
+W Fargo St	Thousand Oaks	91360
+W Farhad Ct	Mh	95391
+W Farinata Ct	Mh	95391
+W Farm Rd	Lompoc	93436
+W Farnham Ln	Anaheim	92804
+W Farrell Cir	Thousand Oaks	91320
+W Farrin Ave	Fresno	93722
+W Farrin Ave	Fresno	93723
+W Farrington Ave	Fresno	93722
+W Fathom Ln	Anaheim	92801
+W Fauna Av	Mh	95391
+W Fauna Ct	Mh	95391
+W Fausto Wy	Mh	95391
+W Fawn St	Ontario	91762
+W Fay Cir	Santa Ana	92703
+W Fay Ln	Anaheim	92805
+W Feather River Way	Orange	92865
+W Fedora Ave	Fresno	93705
+W Fedora Ave	Fresno	93722
+W Fedora Ave	Fresno	93723
+W Fedora Rd	French Camp	95231
+W Feemster Ave	Visalia	93277
+W Feemster Ct	Visalia	93277
+W Felicidad Av	Mh	95391
+W Felicidad Cir	Anaheim	92801
+W Felicita Ave	Escondido	92025
+W Feliz Wy	Tracy	95304
+W Feliz Wy	Tracy	95377
+W Felton St	Thousand Oaks	91320
+W Fender Ave	Fresno	93722
+W Ferdinand St	Tracy	95376
+W Ferguson Ave	Visalia	93291
+W Fern	Calipatria	92233
+W Fern Ave	Bre	92821
+W Fern Ave	Fresno	93722
+W Fern Ave	Redlands	92373
+W Fern Ave	Redlands	92374
+W Fern Dr	Calipatria	92233
+W Fern Dr	Fullerton	92832
+W Fern Dr	Fullerton	92833
+W Fern St	Calipatria	92233
+W Ferndale Ave	San Bernardino	92404
+W Ferndale Ave	Sunnyvale	94085
+W Ferndale Pl	Mh	95391
+W Fernwood Cir	Sunnyvale	94085
+W Ferry St	Anderson	96007
+W Fesler St	Santa Maria	93458
+W Festivo Ln	Mh	95391
+W Fiano Ave	Visalia	93291
+W Fiano Ct	Visalia	93291
+W Fiat St	Carson	90745
+W Field Rd	San Francisco International	94128
+W Fiesta Green	Port Hueneme	93041
+W Fifth Avenue Dr	Santa Maria	93458
+W Fifth St	Fillmore	93015
+W Fifth St	Hanford	93230
+W Fifth St	Ontario	91762
+W Fifth St	Oxnard	93030
+W Fifth St	Oxnard	93035
+W Fifth St	Ripon	95366
+W Fifth St	San Jacinto	92583
+W Fifth St	Stockton	95206
+W Fifth St	Tres Pinos	95023
+W Fig St	Fallbrook	92028
+W Fig Tree Ln	Fresno	93722
+W Fig Tree Rd	Colton	92324
+W Figarden Dr	Fresno	93711
+W Figarden Dr	Fresno	93722
+W Figueroa St	Santa Barbara	93101
+W Fike Ave	Raisin City	93652
+W Finck Rd	Mountain House	95391
+W Finck Rd	Tracy	95304
+W Fir	Oxnard	93033
+W Fir Av	Lompoc	93436
+W Fir Ave	Anaheim	92801
+W Fir Ave	Fresno	93650
+W Fir Ave	Fresno	93711
+W Fir Ave	Fresno	93722
+W Fir Ave	Oxnard	93033
+W Fir St	Bre	92821
+W Fir St	Brea	92821
+W Fir St	Fort Bragg	 
+W Fir St	Oxnard	93033
+W Fir St	San Diego	92101
+W Firenze Ave	Visalia	93291
+W Fireside Sq	Upland	91786
+W First	Oxnard	93030
+W First St	Cottonwood	96022
+W First St	Oxnard	93030
+W First St	Perris	92570
+W First St	Ripon	95366
+W First St	San Jacinto	92583
+W First St	Tracy	95376
+W Fites Rd	Brawley	92227
+W Fites Rd	Imperial	92251
+W Fix Way	Ventura	93001
+W Flagstaff Ave	Visalia	93291
+W Flagstaff Ct	Visalia	93291
+W Fletcher Av	Orange	92865
+W Fletcher Ave	Orange	92865
+W Flight Ave	Santa Ana	92704
+W Flint	Ventura	93001
+W Flint St	Lake Elsinore	92530
+W Flint St	Ventura	93001
+W Flint Way	Fresno	93705
+W Flint Way	Fresno	93722
+W Flint Way	Fresno	93723
+W Flippen Cir	Anaheim	92802
+W Flippen Ct	Anaheim	92802
+W Flippen Way	Anaheim	92802
+W Flora Ave	Reedley	93654
+W Flora St	Ontario	91762
+W Flora St	Santa Ana	92704
+W Flora St	Stockton	95202
+W Flora St	Stockton	95203
+W Floradora Ave	Fresno	93722
+W Floradora Ave	Fresno	93728
+W Floradora Ave	Kerman	93630
+W Floral Ave	Caruthers	93609
+W Floral Ave	Fresno	93706
+W Floral Ave	Helm	93627
+W Floral Ave	Kerman	93630
+W Floral Ave	San Joaquin	93630
+W Floral Ave	San Joaquin	93660
+W Florence Ave	Beaumont	92223
+W Florence Ave	Fresno	93706
+W Florence Ave	La Habra	90631
+W Florence Ave	Visalia	93277
+W Florence St	Beaumont	92223
+W Floresta Way	Menlo Park	94028
+W Floresta Way	Portola Valley	94028
+W Florida Ave	Hemet	92543
+W Florida Ave	Hemet	92545
+W Florimond Dr	Colusa	95932
+W Florimond Dr #A	Colusa	95932
+W Florimond Dr #B	Colusa	95932
+W Florimond Dr #C	Colusa	95932
+W Florinda St	Hanford	93230
+W Flower Ave	Fullerton	92833
+W Floyd Ave	Anaheim	92804
+W Floyd Cir	Santa Ana	92704
+W Fogg St	Colton	92324
+W Folke St	Rialto	92376
+W Folsom St	Anaheim	92804
+W Fontlee Ln	Bloomington	92316
+W Fontlee Ln	Rialto	92376
+W Fonzie Ave	Imperial	92251
+W Foothill Blvd	Rialto	92376
+W Foothill Blvd	San Bernardino	92410
+W Foothill Blvd	San Luis Obispo	93405
+W Foothill Blvd	Upland	91786
+W Foothill & N San Antonio NE	Upland	91785
+W Foothill Pkwy	Corona	92882
+W Foothill Rd	Santa Paula	93060
+W Foothill Rd	Simi Valley	93063
+W Foothill Trail Blvd	Blythe	92225
+W Ford	El Centro	92243
+W Ford Ave	Coalinga	93210
+W Ford Rd	El Centro	92243
+W Ford St	Hanford	93230
+W Fordham Ave	Santa Ana	92704
+W Forest Ave	Coalinga	93210
+W Forest Ave	Porterville	93257
+W Forest Ct	Porterville	93257
+W Forest Lake Rd	Acampo	95220
+W Forest Ln	Anaheim	92804
+W Forest Ln	Porterville	93257
+W Forest Ln	San Bernardino	92407
+W Forest Oaks Ave	Banning	92220
+W Forest Pl	Bre	92821
+W Forest St	Kingsburg	93631
+W Forest St	Upland	91784
+W Forest View Dr	Willow Creek	95573
+W Forrest Dr	Fresno	93722
+W Fort Bragg Pl	Mh	95391
+W Foster Rd	Santa Maria	93455
+W Fountain Way	Costa Mesa	92627
+W Fountain Way	Fresno	93705
+W Fountain Way	Fresno	93722
+W Fourth St	Beaumont	92223
+W Fourth St	Fillmore	93015
+W Fourth St	Hanford	93230
+W Fourth St	Ontario	91762
+W Fourth St	Oxnard	93030
+W Fourth St	Perris	92570
+W Fourth St	Stockton	95206
+W Fourth St	Tracy	95376
+W Fox Ct	Redwood City	94061
+W Foxdale Ct	Upland	91786
+W Frances Dr	Anaheim	92801
+W Frances Willard Ave	Chico	95926
+W Francis Ave	La Habra	90631
+W Francis Dr	Anaheim	92801
+W Francis St	Corona	92879
+W Francis St	Corona	92882
+W Francis St	Ontario	91762
+W Francisco Blvd	San Rafael	94901
+W Francisco St	Carson	90745
+W Frank Ln	Santa Maria	93458
+W Franklin Ave	Burbank	91505
+W Franklin Ave	Fresno	93706
+W Franklin Ave	Fullerton	92833
+W Franklin St	Lake Elsinore	92530
+W Franklin Street	Monterey	93940
+W Franklin Street	Monterey	93944
+W Franklin Way	Hanford	93230
+W Fred Maloof Ct	Colton	92324
+W Frederick St	Moreno Valley	92553
+W Fredericks	El Centro	92243
+W Fredericks Ln	Upland	91786
+W Fredericks Rd	El Centro	92243
+W Fredricks Rd	Brawley	92227
+W Fredricks St	Barstow	92311
+W Freedom Av	Orange	92865
+W Freedom Ave	Orange	92865
+W Freeland St	Caruthers	93609
+W Fremont Ave	Fresno	93704
+W Fremont Ave	Fresno	93711
+W Fremont Ave	Fresno	93722
+W Fremont Ave	Sunnyvale	94086
+W Fremont Ave	Sunnyvale	94087
+W Fremont Dr	Mh	95391
+W Fremont Rd	Los Altos Hills	94022
+W Fremont St	Stockton	95202
+W Fremont St	Stockton	95203
+W Fremont St	Upland	91784
+W French Camp Rd	French Camp	95231
+W French Camp Rd	Stockton	95206
+W Fresno Av	Stockton	95206
+W Fresno St	Fowler	93625
+W Frewert Rd	Lathrop	95330
+W Friesen Ave	Reedley	93654
+W Fromer St	Rialto	92376
+W Front Rd	Atascadero	93422
+W Front St	Selma	93662
+W Frontage	Imperial	92251
+W Frontage Rd	Brawley	92227
+W Frontage Rd	Chula Vista	91911
+W. Frontage Rd	Perris	92570
+W Fruitvale Ave	Hemet	92543
+W Fruitvale Ave	Hemet	92545
+W Fuchsia St	Upland	91784
+W Fulcrum Pl	Anaheim	92804
+W Fulkerth Rd	Ceres	95307
+W Fulkerth Rd	Ceres	95313
+W Fulkerth Rd	Crows Landing	95313
+W Fulkerth Rd	Modesto	95358
+W Fullerton Dr	San Bernardino	92407
+W Fulmar Ct	Colton	92324
+W Fulton St	Stockton	95204
+W Fur St	Colton	92324

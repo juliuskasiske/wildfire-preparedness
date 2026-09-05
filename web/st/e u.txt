@@ -1,0 +1,30 @@
+E Ullrey Av	Escalon	95320
+E Underhill Ave	Anaheim	92806
+E Underwood	Holtville	92250
+E Underwood Rd	Acampo	95220
+E Underwood Rd	Holtville	92250
+E Union Ave	Fresno	93703
+E Union Ave	Fullerton	92831
+E Union Ave	Fullerton	92832
+E Union Ave	Modesto	95356
+E Union Ave	Redlands	92374
+E Union Pl	Bre	92821
+E Union St	Colton	92324
+E University Av	Stockton	95205
+E University Ave	Fresno	93703
+E University Ave	Fresno	93704
+E University Ave	Fresno	93727
+E University Ave	Fresno	93737
+E University Ave	Orange	92866
+E University Ave	San Diego	92104
+E University Ave	San Diego	92105
+E University Dr	Carson	90746
+E University Dr	Orange	92866
+E University Nv	Carson	90746
+E Upjohn Ave	Ridgecrest	93555
+E Upper Lake Rd	Thousand Oaks	91361
+E Upper Lake Rd	Westlake Village	91361
+E Uppingham Dr	Thousand Oaks	91360
+E Utah Ave	Fresno	93720
+E Utica Ave	Huntington Beach	92648
+E Uyeda Rd	Stockton	95215

@@ -1,0 +1,27 @@
+Ave 272	Visalia	93277
+Ave 288	Visalia	93277
+Ave 312	Visalia	93291
+Ave 316	Visalia	93291
+Ave 44	Indio	92201
+Ave 66	Mecca	92254
+Ave A	Bombay Beach	92257
+Ave A & Third Dr	Calipatria	92233
+Ave Ave	Bakersfield	93309
+Ave B	Bombay Beach	92257
+Ave B	Niland	92257
+Ave D	Bombay Beach	92257
+Ave De Acacias	Rancho Santa Fe	92067
+Ave De La Plata	Oceanside	92056
+Ave H	Bombay Beach	92257
+Ave Maria Road	Monterey	93940
+Ave Of Giants	Miranda	95554
+Ave Of The Giants	Miranda	95553
+Ave Of The Giants	Miranda	95554
+Ave Of The Giants	Myers Flat	95554
+Ave Of The Giants	Pepperwood	95565
+Ave Of The Giants	Phillipsville	95554
+Ave Of The Giants	Redcrest	95569
+Ave Of The Giants	Scotia	95565
+Ave Of The Giants	Weott	95554
+Ave Of The Giants	Weott	95569
+Ave Of The Giants Av	Miranda	95554

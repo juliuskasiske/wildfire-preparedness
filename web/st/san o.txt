@@ -1,0 +1,12 @@
+San Onofre	Palm Desert	92260
+San Onofre Ave	Palm Desert	92260
+San Onofre Ct	Antioch	94531
+San Onofre Ct	Camarillo	93012
+San Onofre Ct	Chino	91710
+San Onofre Ct	San Jose	95127
+San Onofre Dr	Camarillo	93012
+San Onofre Drive	Merced	95348
+San Onofre Drive	Pacific Palisades	90272
+San Onofre Rd	Santa Barbara	93105
+San Onofre St	Victorville	92392
+San Onofre Ter	San Diego	92114

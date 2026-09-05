@@ -1,0 +1,299 @@
+Tal Cir	Santa Rosa	95401
+Tal Tr	Gasquet	95543
+Tal Vez Way	Wildomar	92595
+Taladro Cir	Mission Viejo	92691
+Talak Way	Camp Far West	95692
+Talara Drive	Livingston	95334
+Talaria Ct	Oakley	94561
+Talaria Dr	Oakley	94561
+Talasi Dr	Eastvale	92880
+Talathy Way	San Jose	95135
+Talaud St	Cypress	90630
+Talavera Ci	Lodi	95242
+Talavera Ct	Murrieta	92563
+Talavera Dr	Laguna Niguel	92677
+Talavera Dr	Lincoln	95648
+Talavera Dr	San Ramon	94583
+Talavera Lane	Valencia	91354
+Talbart St	Martinez	94553
+Talbert Ave	Fountain Valley	92708
+Talbert Ave	Huntington Beach	92646
+Talbert Ave	Huntington Beach	92646-1509
+Talbert Ave	Huntington Beach	92646-1519
+Talbert Ave	Huntington Beach	92646-1523
+Talbert Ave	Huntington Beach	92646-1545
+Talbert Ave	Huntington Beach	92646-1546
+Talbert Ave	Huntington Beach	92646-1641
+Talbert Ave	Huntington Beach	92647
+Talbert Ave	Huntington Beach	92647-1546
+Talbert Ave	Huntington Beach	92648
+Talbert Ave	Huntington Beach	92648-1209
+Talbert Ave	Huntington Beach	92648-1212
+Talbert Ave	Huntington Beach	92648-1232
+Talbert Ave	Huntington Beach	92648-1234
+Talbert Ave	Huntington Beach	92648-1239
+Talbert Ave	Huntington Beach	92648-1301
+Talbert Ave	Huntington Beach	92648-1305
+Talbert Ave	Huntington Beach	92648-1313
+Talbert Ave	Huntington Beach	92648-1314
+Talbert Ave	Huntington Beach	92648-1315
+Talbert Ave	Huntington Beach	92648-1316
+Talbert Ave	Huntington Beach	92648-1320
+Talbert Ave	Huntington Beach	92648-1322
+Talbert Ave	Huntington Beach	92648-1370
+Talbert Ave	Huntington Beach	92648-1382
+Talbert Ave	Huntington Beach	92648-1383
+Talbert Ave	Huntington Beach	92648-1386
+Talbert Ave	Huntington Beach	92648-1387
+Talbert Ave	Huntington Beach	92648-1389
+Talbert Ave	Huntington Beach	92648-1390
+Talbert Ave	Huntington Beach	92648-1396
+Talbert Ave	Huntington Beach	92648-5600
+Talbert Ave	Huntington Beach	92648-5639
+Talbert Ave	Huntington Beach	92648-5647
+Talbert Ave	Huntington Beach	92648-5651
+Talbert Ave	Huntington Beach	92648-5652
+Talbert Ave	Huntington Beach	92648-5653
+Talbert Ave	Huntington Beach	92648-5657
+Talbert Ave	Huntington Beach	92648-5661
+Talbert Ave	Huntington Beach	92648-5699
+Talbert Ave	Huntington Beach	92648-8600
+Talbert Ave	Huntington Beach	92648-8612
+Talbert Ave	Huntington Beach	92648-8617
+Talbert Ave	Huntington Beach	92648-8619
+Talbert Ave	Simi Valley	93065
+Talbert Dr	Chico	95928
+Talbert Lane	Birds Landing	94512
+Talbert Lane	Suisun City	94585
+Talbert St	Daly City	94014
+Talbert St	San Francisco	94134
+Talbert Street	Playa Del Rey	90293
+Talbot Ave	Berkeley	94702
+Talbot Ave	Berkeley	94706
+Talbot Ave	Pacifica	94044
+Talbot Ave	Riverbank	95367
+Talbot Ave	Santa Rosa	95404
+Talbot Ave	Santa Rosa	95405
+Talbot Cir	Corona	92882
+Talbot Ct	Chino Hills	91709
+Talbot Ct	Chula Vista	91913
+Talbot Ct	Moreno Valley	92551
+Talbot Ct	Morgan Hill	95037
+Talbot Dr	Big Bear Lake	92315
+Talbot Dr	Hollister	95023
+Talbot Dr	Lathrop	95330
+Talbot Dr	Morgan Hill	95037
+Talbot Drive	La Mirada	90638
+Talbot Rd	Murrieta	92563
+Talbot St	San Diego	92106
+Talbot Street	Salinas	93901
+Talbot Way	Antioch	94509
+Talbot Way	Citrus Heights	95610
+Talbott Court	Merced	95348
+Talbott Ct	Ladera Ranch	92694
+Talbott Street	King City	93930
+Talboy Drive	Springville	93265
+Talbryn Dr	Belmont	94002
+Talc St	Lathrop	95330
+Talc Street	Santa Fe Springs	90670
+Talca Ave	San Diego	92129
+Talca Ct	San Diego	92129
+Talcey Ter	Riverside	92506
+Talco Way	Hayfork	96041
+Talcott Avenue	Marina	93933
+Talcy Way	Bakersfield	93311
+Talea Dr	La Quinta	92253
+Talega	Rancho Santa Margarita	92688
+Talega Ave	Laguna Hills	92653
+Talega Ct	Roseville	95747
+Talega Ct Unit A	Roseville	95747
+Talegate Dr	Huntington Beach	92648
+Talegate Dr	Huntington Beach	92648-1078
+Talegate Dr	Huntington Beach	92648-1079
+Talegate Dr	Huntington Beach	92648-1081
+Talento Way	Palmdale	93551
+Talesfore Ct	San Jose	95131
+Talgarth Ct	Roseville	95661
+Talgarth Ct	Sacramento	95829
+Talgarth Wy	Roseville	95661
+Tali Street	Lancaster	93535
+Talia Av	Santa Clara	95050
+Talia Ave	Santa Clara	95050
+Talia Court	North Hollywood	91602
+Taliesin Way	Bonsall	92003
+Talihina Rd	Apple Valley	92307
+Talisman	Irvine	92620
+Talisman Court	Fairfield	94533
+Talisman Ct	Palo Alto	94303
+Talisman Ct	San Diego	92119
+Talisman Dr	Bakersfield	93304
+Talisman Dr	Folsom	95630
+Talisman Dr	Palo Alto	94303
+Talisman Dr	Sacramento	95826
+Talisman Dr	Sunnyvale	94087
+Talisman Ln	Huntington Beach	92649
+Talisman Ln	Huntington Beach	92649-3118
+Talisman Ln	Huntington Beach	92649-3120
+Talisman Ln	Lake Arrowhead	92352
+Talisman St	Hesperia	92345
+Talisman Street	Torrance	90503
+Talisman Way	Concord	94521
+Talison Way	Modesto	95355
+Talitha Way	Murrieta	92563
+Talkeetna St	Manteca	95337
+Talking Pines Road	Grass Valley	95945
+Talking Rock Rd	La Quinta	92253
+Talking Rock Turn	La Quinta	92253
+Talking Stick Cir	Menifee	92584
+Tall Brave Ct	Citrus Heights	95621
+Tall Cedars	Irvine	92620
+Tall Grass Ct	Folsom	95630
+Tall Grass Ct	Napa	94558
+Tall Grass Ct	Perris	92570
+Tall Grass Ct	San Jacinto	92582
+Tall Grass Dr	Napa	94558
+Tall Grass Way	Elk Grove	95758
+Tall Grass Way	Hollister	95023
+Tall Hedge	Irvine	92603
+Tall Oak	Irvine	92603
+Tall Oak Ct	Bickford Ranch	95648
+Tall Oak Ct	Temecula	92592
+Tall Oak Dr	Bickford Ranch	95648
+Tall Oak Dr	Chino Hills	91709
+Tall Oak Dr	Escondido	92026
+Tall Oak Ln	Escondido	92026
+Tall Oak Ln	Fair Oaks	95628
+Tall Oak Place	Nevada City	95959
+Tall Oaks Bend Way	Folsom	95630
+Tall Pine Cir	Santa Rosa	95403
+Tall Pine Court	Sun Valley	91352
+Tall Pine Ct	Elk Grove	95757
+Tall Pine Drive	Duarte	91008
+Tall Pine Ln	Granite Bay	95746
+Tall Pine Ln	Santa Ynez	93460
+Tall Pine Rd	Julian	92036
+Tall Pines Ct	Applegate	95703
+Tall Pines Dr	Chula Vista	91915
+Tall Pines Dr	Magalia	95954
+Tall Pines Rd	Idyllwild	92549
+Tall Reed	Irvine	92618
+Tall Ship Dr	Menifee	92585
+Tall Timber St	Burney	96013
+Tall Timbers Lane	Grass Valley	95945
+Tall Tree Cir	Citrus Heights	95621
+Tall Tree Dr	Nipomo	93444
+Tall Tree Hill	Los Gatos	95033
+Tall Tree Road	Grass Valley	95949
+Tall Tree Ter	Menifee	92585
+Tall Trees Drive	Vallejo	94589
+Tallac Ave	Homewood	96141
+Tallac Ln	Lincoln	95648
+Tallac St	Carnelian Bay	96140
+Tallac St	Napa	94558
+Tallac St	Sacramento	95821
+Talladega Ct	Bakersfield	93312
+Tallahassee Dr	San Jose	95122
+Tallahassee St	Hayward	94545
+Tallandsia Ct	Moreno Valley	92553
+Tallant Rd	Santa Barbara	93105
+Tallega Ct	Galt	95632
+Tallent Ave	San Jose	95127
+Tallent Dr	Modesto	95355
+Tallent Ln	Yountville	94599
+Talley Ct	Riverside	92503
+Talley Farms Rd	Arroyo Grande	93420
+Talley Ln	Paradise	95969
+Talley Rd	Menifee	92584
+Talley St	Irvine	92604
+Talley Way	Hercules	94547
+Talleyville Way	Folsom	95630
+Tallgrass	The Sea Ranch	95497
+Tallgrass Ct	Perris	92570
+Tallin Pl	Bakersfield	93306
+Tallium Court	West Sacramento	95691
+Tallman Ave	Bakersfield	93308
+Tallman Ct	San Jose	95123
+Tallman Lane	Winters	95694
+Tallmon Street	Marina	93933
+Tallon Way	Antelope	95843
+Tallow Ct	Chula Vista	91911
+Tallow Pl	Banning	92220
+Tallow Place	Davis	95618
+Tallow Tree Cir	Eastvale	92880
+Tallow Tree Ln	Orangevale	95662
+Tallow Tree Ln	San Diego	92127
+Tallow Wood Way	Citrus Heights	95621
+Tallowberry Ln	Simi Valley	93065
+Tallowood	Irvine	92620
+Tallowood Dr	Palm Desert	92211
+Tallulah Falls Ct	Bakersfield	93312
+Tallulah St	Galt	95632
+Tallus Glen	San Diego	92127
+Tallus Gln	San Diego	92127
+Tallus Ranch Dr	Bakersfield	93314
+Tallwood Cir	Citrus Heights	95621
+Tallwood Ct	Atherton	94027
+Tallwood Dr	Daly City	94014
+Tally Ho Ct	Clayton	94517
+Tally Ho Ln	Norco	92860
+Tally Ho Rd	Arroyo Grande	93420
+Tally Ho Rd	Santa Maria	93455
+Tally Rd	Menifee	92585
+Tallyho Dr	Sacramento	95826
+Tallyho Ln	Apple Valley	92308
+Tallyho Ln	Norco	92860
+Tallyho Pl	Orcutt	93455
+Tallyho Pl	Santa Maria	93455
+Tallyho Rd	Orcutt	93455
+Tallyho Rd	Santa Maria	93455
+Tallyrand Drive	Diamond Bar	91765
+Tallywood Dr	Bakersfield	93312
+Talmadge	Irvine	92602
+Talmadge Ave	San Jose	95127
+Talmadge Canyon Row	San Diego	92115
+Talmadge Dr	Chula Vista	91915
+Talmadge Dr	Santa Rosa	95407
+Talmadge Park Row	San Diego	92115
+Talmadge Rd	Big Bear Lake	92315
+Talmadge Rd	Moorpark	93021
+Talmadge Rd	Orcutt	93455
+Talmadge Rd	Santa Maria	93455
+Talmadge Street	Los Angeles	90027
+Talmage Ct	Sacramento	95827
+Talmage Ct	Talmage	 
+Talmage Ct	Ukiah	 
+Talmage Rd	Talmage	 
+Talmage Rd	Ukiah	 
+Talmage Rd	Ukiah	95482
+Talmage Rd A B C D	Talmage	 
+Talmage Wy	Roseville	95747
+Talmont	Newport Beach	92657
+Talmont Ci	Roseville	95678
+Talmont Cir	Tahoe City	96145
+Talofa Avenue	North Hollywood	91602
+Talofa Dr	Redding	96003
+Taloga Ln	Apple Valley	92307
+Taloga Rd	Apple Valley	92307
+Taloga Street	Hacienda Heights	91745
+Talon Dr	Chico	95973
+Talon Grove Dr	Bakersfield	93306
+Talon Rd	Rocklin	95765
+Talon Reach Ct	Roseville	95747
+Talon St	Lemoore	93245
+Talon St	Tahoma	96142
+Talon Way	San Diego	92123
+Taloncrest Way	San Diego	92126
+Talpa St	Victorville	92395
+Talshire Ln	Corona	92881
+Taltec Dr	La Mesa	91941
+Talud Ter	Camarillo	93012
+Talud Terrace	Camarillo	93012
+Talung Dr	Stockton	95219
+Talus Ct	San Ramon	94583
+Talus Ct	Truckee	96161
+Talus Ln	Palm Desert	92211
+Talus Place	Beverly Hills	90210
+Talus St	Chula Vista	91911
+Talus Way	Carmichael	95608
+Talus Way	Madera	93636
+Talvista Dr	Tahoe City	96145

@@ -1,0 +1,78 @@
+Daffodil	Davenport	95017
+Daffodil	Irvine	92618
+Daffodil	Rancho Santa Margarita	92688
+Daffodil	Soquel	95073
+Daffodil Av	Mckinleyville	95519
+Daffodil Ave	Fountain Valley	92708
+Daffodil Ave	Newport Beach	92625
+Daffodil Ave	Nipomo	93444
+Daffodil Ave	Ventura	93004
+Daffodil Avenue	Canyon Country	91387
+Daffodil Cir	Fontana	92336
+Daffodil Cir	Palm Desert	92211
+Daffodil Cir	Rocklin	95677
+Daffodil Cir	Seal Beach	90740
+Daffodil Cir	Winchester	92596
+Daffodil Circle	Vallejo	94591
+Daffodil Court	Penn Valley	95946
+Daffodil Court	Santa Clarita	91350
+Daffodil Court	Seaside	93955
+Daffodil Ct	Brawley	92227
+Daffodil Ct	Eastvale	92880
+Daffodil Ct	Indio	92201
+Daffodil Ct	Lake Elsinore	92532
+Daffodil Ct	Morgan Hill	95037
+Daffodil Ct	Oxnard	93030
+Daffodil Ct	Palm Desert	92211
+Daffodil Ct.	Rancho Mission Viejo	92694
+Daffodil Ct	Simi Valley	93065
+Daffodil Dr	Corona	92883
+Daffodil Dr	Hollister	95023
+Daffodil Dr	Lodi	95242
+Daffodil Dr	Mariposa	95338
+Daffodil Dr	Napa	94558
+Daffodil Dr	Oakley	94561
+Daffodil Dr	Palm Desert	92211
+Daffodil Dr	Pittsburg	94565
+Daffodil Dr	Riverside	92507
+Daffodil Drive	6	94513
+Daffodil Drive	Benicia	94510
+Daffodil Drive	Fairfield	94533
+Daffodil Drive	Merced	95341
+Daffodil Drive	Vacaville	95687
+Daffodil Hill	Boulder Creek	95006
+Daffodil Hill St	Lathrop	95330
+Daffodil Lane	San Jacinto	92583
+Daffodil Ln	Goleta	93117
+Daffodil Ln	Mill Valley	94941
+Daffodil Ln	Redding	96003
+Daffodil Ln	San Diego	92120
+Daffodil Ln	Squaw Valley	93675
+Daffodil Ln	Turlock	95380
+Daffodil Ln	Yucaipa	92399
+Daffodil Pl	Carlsbad	92011
+Daffodil Pl	Gilroy	95020
+Daffodil Pl	Mission Viejo	92692
+Daffodil Pl	Moreno Valley	92555
+Daffodil Rd	Bolinas	94924
+Daffodil St	Corona	92882
+Daffodil Street	Los Banos	93635
+Daffodil Walk	Oxnard	93030
+Daffodil Way	Bakersfield	93311
+Daffodil Way	Beaumont	92223
+Daffodil Way	Chino	91710
+Daffodil Way	Citrus Heights	95610
+Daffodil Way	Concord	94518
+Daffodil Way	Hemet	92545
+Daffodil Way	Manteca	95336
+Daffodil Way	Murrieta	92563
+Daffodil Way	Oxnard	93030
+Daffodil Way	San Jose	95117
+Daffodil Wy	Manteca	95336
+Daffodill Ln	San Carlos	94070
+Dafford Pl	Santa Rosa	95404
+Dafino Lane	Lockwood	93932
+Dafne Ln	San Diego	92124
+Dafni Cir	Salida	95368
+Dafter Dr	San Diego	92102
+Dafter Pl	San Diego	92102

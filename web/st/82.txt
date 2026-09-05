@@ -1,0 +1,10 @@
+825½ Main St	Roseville	95678
+82Nd Ave	Thermal	92274
+82Nd Place	Los Angeles	90001
+82Nd Place	Los Angeles	90003
+82Nd St	Sacramento	95826
+82Nd Street	Los Angeles	90001
+82Nd Street	Los Angeles	90003
+82Nd Street	Los Angeles	90045
+82Nd Street East	Littlerock	93543
+82Nd Street West	Lancaster	93536

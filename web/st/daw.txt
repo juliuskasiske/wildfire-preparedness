@@ -1,0 +1,220 @@
+Dawes Ave	Culver City	90230
+Dawes Ave	Nice	95464
+Dawes Ave	Salton City	92274
+Dawes Avenue	Culver City	90230
+Dawes Ct	Novato	94947
+Dawes Ct	San Jose	95148
+Dawes Ct	San Ramon	94582
+Dawes Point St	Bakersfield	93307
+Dawes St	Cathedral City	92234
+Dawes St	Lake Elsinore	92530
+Dawes St	Novato	94947
+Dawes St	Perris	92570
+Dawes St	Rancho Cordova	95670
+Dawes St	Riverside	92503
+Dawes St	San Diego	92109
+Dawkins Dr	Lafayette	94549
+Dawkins Drive	Castaic	91384
+Dawkins Drive	Tulare	93274
+Dawkins Lane	Grass Valley	95949
+Dawley Avenue	La Puente	91744
+Dawlish Pl	Montecito	93108
+Dawn	Soquel	95073
+Dawn Ave	Garden Grove	92840
+Dawn Ave	Madera	93636
+Dawn Avenue	La Verne	91750
+Dawn Avenue	Merced	95341
+Dawn Cir	Galt	95632
+Dawn Cir	La Palma	90623
+Dawn Cir	Simi Valley	93063
+Dawn Court	Lancaster	93536
+Dawn Court	Palmdale	93551
+Dawn Creek	Playa Vista	90094
+Dawn Ct	Brentwood	94513
+Dawn Ct	Chula Vista	91910
+Dawn Ct	Highland	92346
+Dawn Ct	Imperial	92251
+Dawn Ct	Mill Valley	94941
+Dawn Ct	Murrieta	92562
+Dawn Ct	Oroville	95965
+Dawn Ct	Ripon	95366
+Dawn Ct	Rohnert Park	94928
+Dawn Ct	San Marcos	92069
+Dawn Ct	San Ramon	94583
+Dawn Ct	Santee	92071
+Dawn Ct	Susanville	96130
+Dawn Ct	Thousand Oaks	91362
+Dawn Dr	Anderson	96007
+Dawn Dr	Big Bear City	92314
+Dawn Dr	Buellton	93427
+Dawn Dr	Loomis	95650
+Dawn Dr	Manteca	95336
+Dawn Dr	Modesto	95350
+Dawn Dr	Palm Springs	92262
+Dawn Dr	Pleasant Hill	94523
+Dawn Dr	Riverside	92505
+Dawn Dr	Rohnert Park	94928
+Dawn Dr	Sunnyvale	94087
+Dawn Drive	Cerritos	90703
+Dawn Drive	Loma Rica	95901
+Dawn Drive	Woodland	95695
+Dawn Drive	Yreka	96097
+Dawn Haven Road	Hacienda Heights	91745
+Dawn Hike	Irvine	92620
+Dawn Hill Rd	Glen Ellen	95442
+Dawn Lane	Cerritos	90703
+Dawn Lane	Grass Valley	95949
+Dawn Ln	Aliso Viejo	92656
+Dawn Ln	Banning	92220
+Dawn Ln	Hanford	93230
+Dawn Ln	Lincoln	95648
+Dawn Ln	Los Altos Hills	94022
+Dawn Ln	Oceanside	92056
+Dawn Ln	Redding	96003
+Dawn Ln	Santa Barbara Unincorporated	93111
+Dawn Ln	Winchester	92596
+Dawn Marie Dr	Alpine	91901
+Dawn Marie Wy	Stockton	95205
+Dawn Meadow Ct	Thousand Oaks	91362
+Dawn Meadow St	Thousand Oaks	91362
+Dawn Oak Ln	Fair Oaks	95628
+Dawn Oaks Ln	Lathrop	95330
+Dawn Pl	Escondido	92027
+Dawn Pl	Mill Valley	94941
+Dawn Pl	Petaluma	94952
+Dawn Rd	Corona	92883
+Dawn Rd	Mariposa	95338
+Dawn Rd	Nipomo	93444
+Dawn Rdg	Jackson	95642
+Dawn Ridge	Jackson	95642
+Dawn Ridge Dr	Corona	92882
+Dawn Ridge Dr	Weimar	95713
+Dawn Ridge Dr N	Weimar	95713
+Dawn Ridge Place	West Covina	91792
+Dawn Ridge Way	Covina	91724
+Dawn Ridge Way	Victorville	92392
+Dawn River Way	Folsom	95630
+Dawn Rose Court	Suisun City	94585
+Dawn Rose Way	Suisun City	94585
+Dawn St	Adelanto	92301
+Dawn St	Bakersfield	93304
+Dawn St	Palm Springs	92262
+Dawn Street	Lindsay	93247
+Dawn Street	Lomita	90717
+Dawn Terr	Concow	95965
+Dawn Terr	Oroville	95965
+Dawn View Avenue	Pomona	91767
+Dawn View Cir	Moreno Valley	92557
+Dawn View Ct	Citrus Heights	95621
+Dawn View Gln	Escondido	92026
+Dawn View Place	Los Angeles	90043
+Dawn View Way	El Cajon	92021
+Dawn Way	Banning	92220
+Dawn Way	Fairfield	94533
+Dawn Way	Fontana	92336
+Dawn Way	Gilroy	95020
+Dawn Way	Lancaster	93536
+Dawn Way	Rancho Mission Viejo	92675
+Dawn Way	Sacramento	95825
+Dawn Way	Turlock	95382
+Dawn Way	Tustin	92782
+Dawn Way	Windsor	95492
+Dawn Wood	Murrieta	92562
+Dawn Wood St	Murrieta	92562
+Dawnbrook Ct	San Jose	95111
+Dawncrest Cir	Temecula	92591
+Dawncrest Ct	Julian	92036
+Dawncrest Dr	Chico	95628
+Dawncrest Dr	Chico	95928
+Dawne St	San Diego	92117
+Dawnell Dr	San Diego	92154
+Dawnelle Way	Sacramento	95835
+Dawning Ct	Lake Elsinore	92530
+Dawning Dr	Huntington Beach	92646-7534
+Dawning Dr	Huntington Beach	92646-7542
+Dawning Rdg	Temecula	92591
+Dawning Ridge	Temecula	92591
+Dawnridge Ave	El Cajon	92021
+Dawnridge Court	Grass Valley	95949
+Dawnridge Court	Palmdale	93551
+Dawnridge Ct	Menifee	92584
+Dawnridge Ct	Paradise	95969
+Dawnridge Dr	Beaumont	92223
+Dawnridge Dr	Los Altos Hills	94024
+Dawnridge Dr	Madera	93638
+Dawnridge Dr	Rancho Cucamonga	91739
+Dawnridge Dr	Redding	96001
+Dawnridge Drive	Beverly Hills	90210
+Dawnridge Drive	Grass Valley	95949
+Dawnridge Place	West Covina	91792
+Dawnridge Rd	Roseville	95678
+Dawnridge Way	Carmichael	95608
+Dawns Pass Dr	Menifee	92585
+Dawns Way	Fullerton	92831
+Dawnview Ave	Ceres	95307
+Dawnview Ct	Brentwood	94513
+Dawnview Ct	Concord	94521
+Dawnview Ct	Corona	92883
+Dawnview Ct	Pittsburg	94565
+Dawnview Ct	San Jose	95136
+Dawnview Dr	Brentwood	94513
+Dawnview Place	Fairfield	94534
+Dawnview Way	Antioch	94531
+Dawnview Way	San Francisco	94131
+Dawnview Way	Vacaville	95687
+Dawnwood	Ladera Ranch	92694
+Dawnwood	Murrieta	92562
+Dawnwood Dr	Galt	95632
+Dawnwood St	Murrieta	92562
+Dawson	Watsonville	95076
+Dawson Av	Goleta	93117
+Dawson Ave	San Diego	92115
+Dawson Ave	San Jose	95125
+Dawson Ave	Ventura	93003
+Dawson Avenue	Glendora	91740
+Dawson Avenue	Long Beach	90804
+Dawson Avenue	Long Beach	90814
+Dawson Avenue	Orosi	93647
+Dawson Avenue	Signal Hill	90755
+Dawson Canyon Dr	Corona	92883
+Dawson Canyon Rd	Corona	92883
+Dawson Creek Drive	Fairfield	94534
+Dawson Creek Ln	Santa Rosa	95407
+Dawson Creek St	Manteca	95337
+Dawson Ct	Magalia	95954
+Dawson Ct	Oakley	94561
+Dawson Ct	Pittsburg	94565
+Dawson Ct	Redding	96003
+Dawson Ct	Roseville	95747
+Dawson Ct	Unincorporated Alameda County	94541
+Dawson Dr	Camarillo	93012
+Dawson Dr	Chula Vista	91911
+Dawson Dr	Los Altos	94024
+Dawson Dr	Los Altos Hills	94022
+Dawson Dr	Los Altos Hills	94024
+Dawson Dr	Oakley	94561
+Dawson Dr	Santa Clara	95051
+Dawson Dr	Vista	92081
+Dawson Drive	Dixon	95620
+Dawson Drive	Palmdale	93550
+Dawson Drive	Pomona	91766
+Dawson Falls Ave	Bakersfield	93312
+Dawson Ln	Huntington Beach	92647
+Dawson Ln	Huntington Beach	92647-2902
+Dawson Ln	Huntington Beach	92647-2903
+Dawson Ln	Huntington Beach	92647-2904
+Dawson Ln	Huntington Beach	92647-2964
+Dawson Ln	Victorville	92392
+Dawson Peak Ct	Rancho Cucamonga	91739
+Dawson Pl	San Francisco	94108
+Dawson Place	Vallejo	94591
+Dawson Ranch Road	Hammil Valley	93512
+Dawson Rd	Junction City	96048
+Dawson Rd	Menifee	92585
+Dawson Rd	Sun City	92585
+Dawson St	Garden Grove	92843
+Dawson St	Morro Bay	93442
+Dawson Street	Los Angeles	90026
+Dawson Way	Claremont	91711
+Dawson Way	Sacramento	95823
+Dawsonia St	Bonita	91902

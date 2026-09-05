@@ -1,0 +1,54 @@
+E Yale Ave	Fresno	93703
+E Yale Ave	Fresno	93704
+E Yale Ave	Fresno	93727
+E Yale Ave	Fresno	93737
+E Yale Loop	Irvine	92604
+E Yale Loop	Irvine	92614
+E Yale St	Ontario	91764
+E Yale St	Santa Paula	93060
+E Yanonali St	Santa Barbara	93101
+E Yanonali St	Santa Barbara	93103
+E Yarrow Pl	Mh	95391
+E Yates Ave	Porterville	93257
+E Yeargin Dr	Fresno	93720
+E Yellowstone Dr	Ontario	91762
+E Yellowstone St	Woodbridge	95258
+E Yerba Buena Rd	Malibu	90265
+E Yermo Rd	Yermo	92398
+E Yermo St	Whittier	90603
+E Yocum	Calipatria	92233
+E Yocum Rd	Calipatria	92233
+E Yokuts Av	Stockton	95207
+E Yorba Linda Blvd	Ful	 
+E Yorba Linda Blvd	Pla	92870
+E Yorba Linda Blvd	Placentia	92870
+E Yorba Linda Blvd	Ybl	 
+E York	Winterhaven	92283
+E York Ln	Santa Maria	93455
+E Yorkshire Dr	Stockton	95207
+E Yorktown Cir	Orange	92869
+E Yorktown Ct	Upland	91784
+E Yosemite	Madera	93638
+E Yosemite Av	Manteca	95336
+E Yosemite Ave	Madera	93637
+E Yosemite Ave	Madera	93638
+E Yosemite Ave	Manteca	95336
+E Yosemite Ave	Orange	92867
+E Yosemite Ave Shell Bldg	Manteca	95336
+E Yosemite Dr	Ontario	91762
+E Yosemite St	Avenal	93204
+E Young	Calipatria	92233
+E Young Ave	Parlier	93648
+E Young Cir	Orange	92866
+E Young Rd	Calipatria	92233
+E Young St	Santa Ana	92705
+E Younger Ave	San Jose	95112
+E Youngwood Dr	Whittier	90603
+E Youngwood Dr	Whittier	90605
+E Yountville Dr	Ontario	91761
+E Yuba River Dr	Ontario	91761
+E Yucca Dr	Camarillo	93012
+E Yucca Dr	San Bernardino	92404
+E Yucca St	Oxnard	93033
+E Yukon Rd (River Club)	Tracy	95304
+E Yuma Wy	Manteca	95336

@@ -1,0 +1,31 @@
+45Th	Capitola	95010
+45Th Ave	Clearlake	95422
+45Th Ave	Indio	92201
+45Th Ave	Sacramento	95822
+45Th Ave	Sacramento	95824
+45Th Ave	San Francisco	94116
+45Th Ave	San Francisco	94121
+45Th Ave	San Francisco	94122
+45Th St	Bakersfield	93301
+45Th St	Emeryville	94608
+45Th St	Jurupa Valley	92509
+45Th St	Newport Beach	92663
+45Th St	Richmond	94805
+45Th St	Sacramento	95817
+45Th St	Sacramento	95819
+45Th St	Sacramento	95820
+45Th St	Sacramento	95824
+45Th St	San Diego	92102
+45Th St	San Diego	92105
+45Th St	San Diego	92113
+45Th St	San Diego	92115
+45Th St N	San Diego	92115
+45Th Street	Long Beach	90807
+45Th Street	Los Angeles	90011
+45Th Street	Los Angeles	90058
+45Th Street	Los Angeles	90062
+45Th Street	Manhattan Beach	90266
+45Th Street East	Lancaster	93535
+45Th Street East	Palmdale	93552
+45Th Street West	Lancaster	93536
+45Th Street West	Palmdale	93551

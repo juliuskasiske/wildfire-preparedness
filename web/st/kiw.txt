@@ -1,0 +1,40 @@
+Kiwanis St	Hayward	94541
+Kiwi	Irvine	92618
+Kiwi Ave	Eastvale	92880
+Kiwi Ave	Fontana	92335
+Kiwi Cir	Corona	92879
+Kiwi Cir	Cypress	90630
+Kiwi Cir	Elk Grove	95624
+Kiwi Cir	Fountain Valley	92708
+Kiwi Cir	Hemet	92545
+Kiwi Court	Merced	95340
+Kiwi Ct	Banning	92220
+Kiwi Ct	La Quinta	92253
+Kiwi Ct	Lincoln	95648
+Kiwi Ct	Moreno Valley	92557
+Kiwi Ct	Petaluma	94954
+Kiwi Ct	Ripon	95366
+Kiwi Dr	Ceres	95307
+Kiwi Fruit Ln	Redding	96002
+Kiwi Glen	Escondido	92026
+Kiwi Gln	Escondido	92026
+Kiwi Grove	Riverside	92501
+Kiwi Lane	Gardena	90247
+Kiwi Ln	Chico	95973
+Kiwi Ln	Garden Grove	92844
+Kiwi Ln	Lincoln	95648
+Kiwi Ln	Mckinleyville	95519
+Kiwi Ln	Nipomo	93444
+Kiwi Ln	Redding	96003
+Kiwi Meadow Ct	Bakersfield	93313
+Kiwi Meadow Ln	Escondido	92026
+Kiwi Pl	Carlsbad	92011
+Kiwi Place	Palmdale	93551
+Kiwi Road	Grass Valley	95949
+Kiwi St	Madera	93638
+Kiwi St	San Diego	92123
+Kiwi Street	Los Banos	93635
+Kiwi Way	Lake Elsinore	92530
+Kiwi Way	Ventura	93003
+Kiwi Wkwy	San Jose	95133
+Kiwi Ww	San Jose	95133

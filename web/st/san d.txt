@@ -1,0 +1,121 @@
+San De Sac	Salinas	93907
+San De Sac Road	Salinas	93907
+San-Del Dr	Vista	92083
+San Diego	Desert Hot Springs	92240
+San Diego	El Centro	92243
+San Diego	Seeley	92273
+San Diego	Ventura	93004
+San Diego	West Covina	91790
+San Diego Ave	Daly City	94014
+San Diego Ave	Daly City	94112
+San Diego Ave	El Centro	92243
+San Diego Ave	Madera	93637
+San Diego Ave	Madera	93638
+San Diego Ave	Middletown	95461
+San Diego Ave	Palm Desert	92260
+San Diego Ave	Ramona	92065
+San Diego Ave	Rancho Cucamonga	91730
+San Diego Ave	Riverside	92506
+San Diego Ave	Salton City	92274
+San Diego Ave	San Bruno	94066
+San Diego Ave	San Diego	92110
+San Diego Ave	San Francisco	94112
+San Diego Ave	Seeley	92273
+San Diego Ave	Sunnyvale	94085
+San Diego Ave	Ventura	93004
+San Diego Avenue	Robbins	95676
+San Diego Avenue	West Covina	91790
+San Diego Ci	Roseville	95747
+San Diego Cir	Buena Park	90620
+San Diego Cir	Fountain Valley	92708
+San Diego Court	Claremont	91711
+San Diego Court	Merced	95348
+San Diego Creek Rd	Santa Margarita	93453
+San Diego Ct	Brisbane	94005
+San Diego Ditch Rd	Columbia	95310
+San Diego Dr	Buena Park	90620
+San Diego Dr	Cathedral City	92234
+San Diego Dr	Corona	92882
+San Diego Dr	Desert Hot Springs	92240
+San Diego Dr	Pacifica	94044
+San Diego Dr	Yucca Valley	92284
+San Diego Drive	Salinas	93901
+San Diego Ln	Pla	92870
+San Diego Ln	Placentia	92870
+San Diego Ln	Victorville	92394
+San Diego Loop	Grover Beach	93433
+San Diego Mission Rd	San Diego	92108
+San Diego Pl	San Ramon	94583
+San Diego Place	Soledad	93960
+San Diego Rd	Atascadero	93422
+San Diego Rd	Berkeley	94707
+San Diego Rd	Desert Hot Springs	92240
+San Diego Rd	Santa Barbara	93103
+San Diego St	Bakersfield	93241
+San Diego St	El Centro	92243
+San Diego St	El Cerrito	94530
+San Diego St	Oceanside	92054
+San Diego St	Oceanside	92058
+San Diego St	San Pablo	94806
+San Diego St	Spring Valley	91977
+San Diego St	Yountville	94599
+San Diego Street	Fairfield	94533
+San Diego Street	Los Banos	93635
+San Diego Street	Tulare	93274
+San Diego Street	West Covina	91790
+San Diego Way	Atascadero	93422
+San Diego Way	Sacramento	95820
+San Dieguito D Dr	Del Mar	92014
+San Dieguito Dr	Del Mar	92014
+San Dieguito Dr	Encinitas	92024
+San Dieguito Drive	La Mirada	90638
+San Dieguito Rd	Del Mar	92014
+San Dieguito Rd	Rancho Santa Fe	92067
+San Dieguito Rd	Rancho Santa Fe	92091
+San Dieguito Rd	San Diego	92127
+San Dieguito Rd	San Diego	92130
+San Dimas	La Quinta	92253
+San Dimas Av	Santa Barbara Unincorporated	93111
+San Dimas Ave	Camarillo	93012
+San Dimas Ave	Oceanside	92057
+San Dimas Ave	San Diego	92111
+San Dimas Avenue	San Dimas	91773
+San Dimas Canyon Road	La Verne	91750
+San Dimas Canyon Road	San Dimas	91773
+San Dimas Cir	Buena Park	90620
+San Dimas Cir	Victorville	92392
+San Dimas Ct	Chula Vista	91913
+San Dimas Ct	Citrus Heights	95621
+San Dimas Cyn Road	South El Monte	91733
+San Dimas Ln	Morgan Hill	95037
+San Dimas Ln	Rancho Cucamonga	91739
+San Dimas Rd	Atascadero	93422
+San Dimas St	Bakersfield	93301
+San Dimas St	Hemet	92545
+San Dimas St	Hesperia	92344
+San Dimas St	La Quinta	92253
+San Dimas St	Victorville	92392
+San Dimas Street	Fairfield	94533
+San Dionicio St	San Diego	92106
+San Domar Dr	Mountain View	94043
+San Domingo Ct	San Pablo	94806
+San Domingo Dr	Morgan Hill	95037
+San Domingo Dr	Palm Springs	92264
+San Domingo Dr	Santa Barbara Unincorporated	93111
+San Domingo Dr	Santa Rosa	95404
+San Domingo Pl	Bakersfield	93306
+San Domingo St	Yountville	94599
+San Domingo Way	Los Altos	94022
+San Domingo Way	Modesto	95355
+San Domingo Way	Novato	94945
+San Dominic Court	Aromas	95076
+San Dominico Ave	Los Osos	93402
+San Dona	Laguna Hills	92653
+San Donato Ct	Brentwood	94513
+San Doval	Thousand Oaks	91360
+San Doval Ln	Huntington Beach	92647
+San Doval Ln	Huntington Beach	92647-6637
+San Doval Ln	Huntington Beach	92647-6638
+San Doval Ln	Huntington Beach	92647-6679
+San Doval Ln	Mission Viejo	92691
+San Doval Pl	Thousand Oaks	91360

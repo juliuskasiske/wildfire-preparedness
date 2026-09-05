@@ -1,0 +1,173 @@
+9Th	Calexico	92231
+9Th	Carmel-By-The-Sea	93921
+9Th	Greenfield	93927
+9Th	Heber	92249
+9Th	Santa Cruz	95062
+9Th	Watsonville	95076
+9Th Av	Westhaven	95570
+9Th Ave	Clearlake	95422
+9Th Ave	Corcoran	93212
+9Th Ave	Escondido	92025
+9Th Ave	Hanford	93230
+9Th Ave	Kingsburg	93242
+9Th Ave	Kingsburg	93631
+9Th Ave	Laguna Beach	92651
+9Th Ave	Menlo Park	94025
+9Th Ave	Oakdale	95361
+9Th Ave	Redwood City	94063
+9Th Ave	Rio Linda	95673
+9Th Ave	Sacramento	95817
+9Th Ave	Sacramento	95818
+9Th Ave	Sacramento	95820
+9Th Ave	San Diego	0
+9Th Ave	San Diego	92101
+9Th Ave	San Diego	92103
+9Th Ave	San Mateo	94401
+9Th Ave	San Mateo	94402
+9Th Ave	Winchester	92596
+9Th Ave Dr	Kingsburg	93631
+9Th Ave W	Escondido	92025
+9Th Avenue	Arcadia	91006
+9Th Avenue	Hacienda Heights	91745
+9Th Avenue	La Puente	91746
+9Th Avenue	Los Angeles	90008
+9Th Avenue	Los Angeles	90018
+9Th Avenue	Los Angeles	90043
+9Th Avenue	Merced	95340
+9Th Avenue Dr	Kingsburg	93631
+9Th Court	Hermosa Beach	90254
+9Th Court	Santa Monica	90403
+9Th Ct	Hermosa Beach	90254
+9Th Dr	Kingsburg	93631
+9Th E St	Pittsburg	94565
+9Th Helena Drive	Los Angeles	90049
+9Th Ln	Big Bear City	92314
+9Th Ln	South San Francisco	94080
+9Th Pl	Beaumont	92223
+9Th Place	Los Angeles	90021
+9Th Place	Manhattan Beach	90266
+9Th St	Anaheim	92802
+9Th St	Arcata	95521
+9Th St	Bakersfield	93304
+9Th St	Baldwin Lake	92314
+9Th St	Beaumont	92223
+9Th St	Berkeley	94710
+9Th St	Big Bear City	92314
+9Th St	Biggs	95917
+9Th St	Bloomington	92316
+9Th St	Borrego Springs	92004
+9Th St	Brawley	92227
+9Th St	Buena Park	90621
+9Th St	Calexico	92231
+9Th St	Cayucos	93430
+9Th St	Ceres	95307
+9Th St	Chino	91710
+9Th St	Coachella	92236
+9Th St	Corona	92882
+9Th St	Coronado	92118
+9Th St	Del Mar	92014
+9Th St	Elverta	95626
+9Th St	Escondido	92025
+9Th St	Eureka	95501
+9Th St	Firebaugh	93622
+9Th St	Fortuna	95540
+9Th St	Garden Grove	92840
+9Th St	Heber	92249
+9Th St	Hermosa Beach	90254
+9Th St	Highland	92346
+9Th St	Holtville	92250
+9Th St	Huntington Beach	90742
+9Th St	Huntington Beach	92648
+9Th St	Huntington Beach	92648-4634
+9Th St	Huntington Beach	92648-4635
+9Th St	Huntington Beach	92648-4636
+9Th St	Huntington Beach	92648-4637
+9Th St	Huntington Beach	92648-4638
+9Th St	Huntington Beach	92648-4639
+9Th St	Huntington Beach	92648-4640
+9Th St	Huntington Beach	92648-4641
+9Th St	Huntington Beach	92648-4660
+9Th St	Huntington Beach	92648-4665 
+9Th St	Huntington Beach	92648-4692 
+9Th St	Huntington Beach	92648-5000 
+9Th St	Huntington Beach	92648-5021
+9Th St	Huntington Beach	92648-5022
+9Th St	Huntington Beach	92648-5023
+9Th St	Huntington Beach	92648-5024
+9Th St	Huntington Beach	92648-5042 
+9Th St	Huntington Beach	92648-5057 
+9Th St	Huron	93234
+9Th St	Imperial Bch	91932
+9Th St	Imperial Beach	91932
+9Th St	Keyes	95328
+9Th St	Lincoln	95648
+9Th St	Los Osos	93402
+9Th St	Mariposa	95338
+9Th St	Mendota	93640
+9Th St	Modesto	95350
+9Th St	Modesto	95354
+9Th St	Montara	94037
+9Th St	National City	91950
+9Th St	Newport Beach	92661
+9Th St	Nuevo	92567
+9Th St	Olivenhain	92024
+9Th St	Orange Cove	93646
+9Th St	Parlier	93648
+9Th St	Paso Robles	93446
+9Th St	Patterson	95363
+9Th St	Perris	92570
+9Th St	Petaluma	94952
+9Th St	Poway	92064
+9Th St	Ramona	92065
+9Th St	Rancho Cucamonga	91730
+9Th St	Redding	96001
+9Th St	Redlands	92373
+9Th St	Redlands	92374
+9Th St	Reedley	93654
+9Th St	Richmond	94801
+9Th St	Rio Linda	95673
+9Th St	Riverside	92501
+9Th St	Riverside	92507
+9Th St	Sacramento	95811
+9Th St	Sacramento	95814
+9Th St	Sacramento	95818
+9Th St	San Bernardino	92410
+9Th St	San Jacinto	92582
+9Th St	San Joaquin	93660
+9Th St	San Miguel	93451
+9Th St	Sanger	93657
+9Th St	Santa Rosa	95401
+9Th St	Sheridan	95681
+9Th St	Trona	93562
+9Th St	Turlock	95380
+9Th St	Union City	94587
+9Th St	Westwood	96137
+9Th St	Winchester	92596
+9Th St	Yucaipa	92399
+9Th St & Holt Rd	Holtville	92250
+9Th Street	Acton	93510
+9Th Street	Alhambra	91803
+9Th Street	City Of Marysville	95901
+9Th Street	Davis	95616
+9Th Street	Gonzales	93926
+9Th Street	Greenfield	93927
+9Th Street	Hermosa Beach	90254
+9Th Street	La Verne	91750
+9Th Street	Livingston	95334
+9Th Street	Los Angeles	90014
+9Th Street	Los Angeles	90015
+9Th Street	Los Angeles	90019
+9Th Street	Los Angeles	90021
+9Th Street	Manhattan Beach	90266
+9Th Street	Marina	93933
+9Th Street	Newhall	91321
+9Th Street	Pacific Grove	93950
+9Th Street	Pomona	91766
+9Th Street	San Pedro	90731
+9Th Street	Santa Monica	90401
+9Th Street	Santa Monica	90402
+9Th Street	Santa Monica	90403
+9Th Street	Santa Monica	90404
+9Th Street	Vallejo	94590
+9Th Street East	Palmdale	93550
+9Th W St	Pittsburg	94565

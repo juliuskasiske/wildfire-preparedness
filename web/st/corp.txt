@@ -1,0 +1,57 @@
+Corporal Dr	San Diego	92124
+Corporal Evans Road	Monterey	93944
+Corporal Ewing Road	Monterey	93944
+Corporal Way	San Diego	92124
+Corporate	Watsonville	95076
+Corporate Ave	Cypress	90630
+Corporate Ave	Hayward	94545
+Corporate Center Ave	Chino	91710
+Corporate Center Ct	Murrieta	92562
+Corporate Center Dr	La Quinta	92253
+Corporate Center Dr	Los Alamitos	90720
+Corporate Center Dr	Murrieta	92562
+Corporate Center Dr	San Diego	92154
+Corporate Center Dr	Thousand Oaks	91320
+Corporate Center Drive	Monterey Park	91754
+Corporate Center Drive	Pomona	91768
+Corporate Center Pky	Santa Rosa	95407
+Corporate Centre	Oceanside	92056
+Corporate Centre Dr	La Quinta	92253
+Corporate Centre Pl	Riverside	92507
+Corporate Cir	Petaluma	94954
+Corporate Ct	Bakersfield	93311
+Corporate Ct	San Diego	92123
+Corporate Ct	San Jose	95131
+Corporate Dr	Costa Mesa	92626
+Corporate Dr	Escondido	92029
+Corporate Dr	Garden Grove	92843
+Corporate Dr	Ladera Ranch	92694
+Corporate Dr	Redlands	92374
+Corporate Dr	South San Francisco	94080
+Corporate Park	Irvine	92606
+Corporate Pl	Hayward	94545
+Corporate Place	Monterey Park	91754
+Corporate Place	Vallejo	94590
+Corporate Plaza Dr	Newport Beach	92660
+Corporate Pointe	Culver City	90230
+Corporate Ter	Corona	92879
+Corporate Terrace Cir	Corona	92879
+Corporate View Dr	Vista	92081
+Corporate Vw	Vista	92081
+Corporate Way	Moreno Valley	92553
+Corporate Way	Palm Desert	92260
+Corporate Way	Sacramento	95831
+Corporate Way	Thousand Palms	92276
+Corporate Way	Upland	91786
+Corporation St	Santa Paula	93060
+Corporation Way	Palo Alto	94303
+Corporation Wy	Clearlake	95422
+Corporation Yard Rd	Rocklin	95677
+Corporation Yard Rd	Roseville	95678
+Corporation Yard Rd Bldg A	Roseville	95678
+Corps Street	Marina	93933
+Corpsman St	Manteca	95337
+Corpus Christi	Simi Valley	93063
+Corpus Christi Av	Simi Valley	93063
+Corpus Christi Ave	Simi Valley	93063
+Corpus Christie Ave	Simi Valley	93063

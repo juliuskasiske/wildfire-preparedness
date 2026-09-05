@@ -1,0 +1,86 @@
+I-10	Blythe	92225
+I-10	Desert Center	92239
+I-15	Corona	92883
+I-15	Jurupa Valley	91752
+I-15	Lake Elsinore	92532
+I - 15	Temecula	92592
+I 15	Yermo	92398
+I-15 (Sb)	Lake Elsinore	92530
+I 210 & E St	San Bernardino	92405
+I 5	Dunnigan	95937
+I 80 Eb	Citrus Heights	95621
+I 80 Wb	Citrus Heights	95621
+I Apts A-B St	Eureka	95501
+I Ave	Baldwin Lake	92315
+I Ave	Barstow	92311
+I Ave	Coronado	92118
+I Ave	Hesperia	92345
+I Ave	National City	91950
+I & Bear Valley SW	Hesperia	92345
+I Dr	Brawley	92227
+I Drive	Tulare	93274
+I Esplanade	Chula Vista	91910
+I Ln	Big Bear City	92314
+I Pkwy	Sacramento	95823
+I Romero Ct	Calexico	92231
+I St	Antioch	94509
+I St	Arcata	95521
+I St	Barstow	92311
+I St	Blue Lake	95525
+I St	Brawley	92227
+I St	Cayucos	93430
+I St	Chula Vista	91910
+I St	Crescent City	95531
+I St	Crows Landing	95313
+I St	Empire	95357
+I St	Encinitas	92024
+I St	Eureka	95501
+I St	Eureka	95503
+I St	Fortuna	95540
+I St	Galt	95632
+I St	Havasu Lake	92363
+I St	Hickman	95323
+I St	Lathrop	95330
+I St	Lincoln	95648
+I St	Lower Lake	95457
+I St	Mendota	93640
+I St	Modesto	95351
+I St	Modesto	95354
+I St	Napa	94559
+I St	National City	91950
+I St	Needles	92363
+I St	Newport Beach	92661
+I St	North Highlands	95660
+I St	Orange Cove	93646
+I St	Oxnard	93030
+I St	Parlier	93648
+I St	Patterson	95363
+I St	Petaluma	94952
+I St	Ramona	92065
+I St	Reedley	93654
+I St	Rio Linda	95673
+I St	Sacramento	95811
+I St	Sacramento	95814
+I St	Sacramento	95816
+I St	Sacramento	95819
+I St	Sanger	93657
+I St	Santa Margarita	93453
+I St	Turlock	95380
+I St	Union City	94587
+I St	Waterford	95386
+I St	Westmorland	92281
+I St	Williams	95987
+I St & 421 2Nd Ave	Brawley	92227
+I Street	City Of Marysville	95901
+I Street	Davis	95616
+I Street	La Verne	91750
+I Street	Livingston	95334
+I Street	Los Banos	93635
+I Street	Merced	95340
+I Street	Merced	95341
+I Street	Wilmington	90744
+I Street St	Brawley	92227
+I Way	Brawley	92227
+I Yturralde	Calexico	92231
+I Yturralde Ct	Calexico	92231
+I Yturralde St	Calexico	92231

@@ -1,0 +1,339 @@
+Yeadon Way	Bakersfield	93311
+Yeadon Way	San Jose	95119
+Yeager Ave	Chino	91708
+Yeager Ave	Fontana	92336
+Yeager Ave	Rialto	92376
+Yeager Avenue	La Verne	91750
+Yeager Dr	Madera	93637
+Yeager Dr	Madera	93638
+Yeager Dr	Santa Rosa	95407
+Yeager Place	Los Angeles	90068
+Yeager St	Chino	91708
+Yeager Way	Bakersfield	93313
+Yeager Way	Indio	92201
+Yeager Way	Sacramento	95828
+Yeargin Rd	Holtville	92250
+Yearling Ave	Irvine	92604
+Yearling Circle	Cerritos	90703
+Yearling Ct	Bonita	91902
+Yearling Ct	Camarillo	93010
+Yearling Ct	Moreno Valley	92555
+Yearling Ct	Riverbank	95367
+Yearling Ct	Wilton	95693
+Yearling Glen Rd	San Diego	92130
+Yearling Lane	Camptonville	95922
+Yearling Lane	Santa Clarita	91350
+Yearling Ln	Victorville	92394
+Yearling Pl	Oxnard	93036
+Yearling Place	Cerritos	90703
+Yearling Road	Nevada City	95959
+Yearling St	Riverside	92505
+Yearling Street	Cerritos	90703
+Yearling Street	Lakewood	90712
+Yearling Street	Lakewood	90713
+Yearling Way	Jurupa Valley	92509
+Yearling Way	Rancho Mission Viejo	92675
+Yearling Way	Roseville	95747
+Yeates Ct	Rancho Cordova	95742
+Yeats Ln	Ventura	93003
+Yeats Pl	San Jacinto	92583
+Yee St	Moreno Valley	92553
+Yefim Wy	Roseville	95661
+Yego St	Penryn	95663
+Yehuda Drive	Canoga Park	91304
+Yell Ln	Glen Ellen	95442
+Yelland Way	Brentwood	94513
+Yellen Dr	Palm Desert	92211
+Yellow Aster Ct	Gold River	95670
+Yellow Bell Ct	Perris	92570
+Yellow Birch Ln	San Jacinto	92582
+Yellow Birch St	Murrieta	92562
+Yellow Boot Lane	Carson	90745
+Yellow Boot Ln	Carson	90745
+Yellow Brick	Watsonville	95076
+Yellow Brick Rd	Ceres	95351
+Yellow Brick Rd	Perris	92570
+Yellow Brick Rd	Riverside	92503
+Yellow Brick Road	Rancho Palos Verdes	90275
+Yellow Brick Road	Walnut	91789
+Yellow Court	34	94583
+Yellow Cups Way	Sacramento	95829
+Yellow Daisy	Irvine	92618
+Yellow Dock Way	San Bernardino	92407
+Yellow Dog Trail	Hornbrook	96044
+Yellow Feather Cir	Paso Robles	93446
+Yellow Feather Dr	Canyon Lake	92587
+Yellow Fern Ln	Fontana	92336
+Yellow Ferry Dock	Sausalito	94965
+Yellow Finch Way	Anderson	96007
+Yellow Flower Pl	Fair Oaks	95628
+Yellow Gold	Canyon Lake	92587
+Yellow Gold Cir	Paso Robles	93446
+Yellow Gold Dr	Canyon Lake	92587
+Yellow Hammer Dr	Oroville	95966
+Yellow Hill Rd	Malibu	90265
+Yellow Hill Road	Malibu	90265
+Yellow Hills Dr	Bakersfield	93306
+Yellow Iris	Irvine	92618
+Yellow Iris Ct	Fontana	92336
+Yellow Iris Way	Moreno Valley	92557
+Yellow Jacket Road	Benton	93512
+Yellow Jacket Road	Hammil Valley	93512
+Yellow Jasmine Dr	Highland	92346
+Yellow Knife Rd	Landers	92285
+Yellow Knife Rd	Yucca Valley	92284
+Yellow Leaf Ave	Sacramento	95835
+Yellow Lupin Ln	Shaver Lake	93664
+Yellow Lupine Dr	Bakersfield	93314
+Yellow Meadow Ct	Bakersfield	93308
+Yellow Oak Dr	Modesto	95354
+Yellow Pine Dr	Modesto	95351
+Yellow Pine Hill Dr	Mariposa	95338
+Yellow Pine Lane	Nevada City	95959
+Yellow Pine Lane	Posey	93260
+Yellow Pine Pl	Chula Vista	91915
+Yellow Pine Rd	City Of Shasta Lake	96019
+Yellow Pine Rd	Mi-Wuk	95346
+Yellow Pine Rd	Murrieta	92563
+Yellow Pine Ridge	Corona	92882
+Yellow Pine Ridge Cir	Corona	92882
+Yellow Pine Way	Sacramento	95841
+Yellow Pne	Irvine	92618
+Yellow Poplar Cir	Menifee	92584
+Yellow Rail Ct	Rocklin	95677
+Yellow Root Ct	Winchester	92596
+Yellow Rose Cir	Oakley	94561
+Yellow Rose Circle	Fairfield	94534
+Yellow Rose Ct	Bakersfield	93307
+Yellow Rose Ct	Riverside	92508
+Yellow Rose Ct	Sacramento	95828
+Yellow Rose Ln	Cottonwood	96022
+Yellow Rose Ln	San Diego	92127
+Yellow Rose Ln	Santa Rosa	95407
+Yellow Rose Rd	Weaverville	96093
+Yellow Rose Way	Upland	91786
+Yellow Sage Ct	Murrieta	92563
+Yellow Sage Ct	Palm Desert	92211
+Yellow Sage Dr	Palm Desert	92211
+Yellow Sea Ave	Salton City	92274
+Yellow Sea Ave	Salton City	92275
+Yellow Star Rd	Laytonville	 
+Yellow Stone Court	Castaic	91384
+Yellow Stone Pl	Santee	92071
+Yellow Sunflower	Lake Elsinore	92530
+Yellow Tail Pl	Rancho Cucamonga	91730
+Yellow Wood Rd	Concow	95965
+Yellow Wood Rd	Rancho Cucamonga	91739
+Yellow Wood Way	Murrieta	92562
+Yellowbill Ter	Moreno Valley	92557
+Yellowbird Ct	San Jose	95120
+Yellowbluff Ct	Riverside	92503
+Yellowbluff Place	Rowland Heights	91748
+Yellowbrick	Watsonville	95076
+Yellowbrick Rd	Forestville	95436
+Yellowbrook Lane	La Mirada	90638
+Yellowfin Way	Elk Grove	95757
+Yellowhammer Ct	Antelope	95843
+Yellowhammer Dr	Patterson	95363
+Yellowhammer Ln	Modesto	95355
+Yellowheart Way	Winchester	92596
+Yellowknife Rd	Yucca Valley	92284
+Yellowleaf Ct	San Jose	95135
+Yellowood Dr	Hemet	92545
+Yellowood Ln	Pittsburg	94565
+Yellowood Pl	Pittsburg	94565
+Yellowpine Ln	Hidden Ranch	92679
+Yellowston Ln	Temecula	92592
+Yellowstone Av	Stockton	95205
+Yellowstone Av	Tracy	95377
+Yellowstone Ave	Chula Vista	91915
+Yellowstone Ave	Milpitas	95035
+Yellowstone Ave	Modesto	95358
+Yellowstone Ave	Pla	92870
+Yellowstone Ave	Placentia	92870
+Yellowstone Ave	Thousand Oaks	91320
+Yellowstone Ave	Victorville	92395
+Yellowstone Ave	Ybl	92886
+Yellowstone Ave	Yorba Linda	92886
+Yellowstone Avenue	Davis	95616
+Yellowstone Cir	Chino	91710
+Yellowstone Cir	Corona	92879
+Yellowstone Cir	Discovery Bay	94505
+Yellowstone Ct	Antioch	94509
+Yellowstone Ct	Fountain Valley	92708
+Yellowstone Ct	Perris	92570
+Yellowstone Ct	Petaluma	94954
+Yellowstone Ct	Rocklin	95765
+Yellowstone Ct	San Jacinto	92583
+Yellowstone Ct	San Rafael	94903
+Yellowstone Ct	Tracy	95377
+Yellowstone Ct	Walnut Creek	94598
+Yellowstone Dr	Antioch	94509
+Yellowstone Dr	Barstow	92311
+Yellowstone Dr	Chico	95973
+Yellowstone Dr	Costa Mesa	92626
+Yellowstone Dr	Huntington Beach	92646
+Yellowstone Dr	Huntington Beach	92646-4854
+Yellowstone Dr	Huntington Beach	92646-4855
+Yellowstone Dr	Huntington Beach	92646-4856
+Yellowstone Dr	Huntington Beach	92646-4857
+Yellowstone Dr	Indio	92203
+Yellowstone Dr	Lake Arrowhead	92352
+Yellowstone Dr	Martinez	94553
+Yellowstone Dr	Morgan Hill	95037
+Yellowstone Dr	North Tustin	92705
+Yellowstone Dr	Oxnard	93033
+Yellowstone Dr	Redding	96002
+Yellowstone Dr	Riverside	92506
+Yellowstone Dr	San Jose	95130
+Yellowstone Dr	South San Francisco	94080
+Yellowstone Dr	Wrightwood	92397
+Yellowstone Drive	Vacaville	95687
+Yellowstone Lane	Canyon Country	91387
+Yellowstone Ln	Fontana	92337
+Yellowstone Ln	Foresthill	95631
+Yellowstone Ln	Lake Forest	92630
+Yellowstone Ln	Lake Forest	92630-2325
+Yellowstone Ln	Lake Forest	92630-2326
+Yellowstone Ln	Sacramento	95821
+Yellowstone Ln	Temecula	92592
+Yellowstone Park	Beaumont	92223
+Yellowstone Park Ct	Newman	95360
+Yellowstone Rd	Hinkley	92347
+Yellowstone River Dr	Bakersfield	93311
+Yellowstone St	Lemon Grove	91945
+Yellowstone St	Napa	94558
+Yellowstone St	Winchester	92596
+Yellowstone Street	Los Angeles	90032
+Yellowstone Street	Palmdale	93551
+Yellowstone Street	Tulare	93274
+Yellowstone Ter	Sunnyvale	94087
+Yellowstone Way	Pacifica	94044
+Yellowstone Way	Rialto	92377
+Yellowtail Dr	Huntington Beach	92648
+Yellowtail Dr	Huntington Beach	92648-2439
+Yellowtail Dr	Huntington Beach	92648-2440
+Yellowtail Dr	Huntington Beach	92648-2446
+Yellowtail Dr	Huntington Beach	92648-2447
+Yellowtail Dr	Huntington Beach	92648-2448
+Yellowtail Dr	Huntington Beach	92648-2471
+Yellowtail Dr	Rossmoor	90720
+Yellowtail Way	Antelope	95843
+Yellowtail Way	San Diego	92139
+Yellowthroat Pl	Thousand Oaks	91320
+Yellowthroat Rd	Poway	92064
+Yellowtwig Road	Dixon	95620
+Yellowwood Ave	Sacramento	95834
+Yellowwood Drive	Westlake Village	91361
+Yellowwood St	Moreno Valley	92553
+Yellowwood Way	Carson	90746
+Yellowwood Way	Irvine	92612
+Yellowwood Way	Murrieta	92562
+Yeoman Court	Dixon	95620
+Yeoman Court	Vacaville	95687
+Yeoman Dr	Concord	94521
+Yeoman Pl	Menifee	92584
+Yeoman Way	Citrus Heights	95610
+Yerba	Irvine	92618
+Yerba Anita Dr	Julian	92036
+Yerba Anita Dr	San Diego	92115
+Yerba Anita Way	San Diego	92115
+Yerba Ave	Atascadero	93422
+Yerba Bank Ct	San Jose	95121
+Yerba Buena	Malibu	90265
+Yerba Buena Av	Stockton	95210
+Yerba Buena Ave	Atascadero	93422
+Yerba Buena Ave	Emeryville	94608
+Yerba Buena Ave	Los Altos	94022
+Yerba Buena Ave	San Francisco	94127
+Yerba Buena Ave	San Jose	95121
+Yerba Buena Ave	Santa Margarita	93453
+Yerba Buena Avenue	Gustine	95322
+Yerba Buena Court	Monterey	93940
+Yerba Buena Court	Nevada City	95959
+Yerba Buena Court	Seaside	93955
+Yerba Buena Ct	San Jose	95121
+Yerba Buena Dr	Fallbrook	92028
+Yerba Buena Dr	San Francisco	94130
+Yerba Buena Ln	San Francisco	94103
+Yerba Buena Pl	Los Altos	94022
+Yerba Buena Rd	Malibu	90265
+Yerba Buena Rd	San Francisco	94130
+Yerba Buena Rd	San Jose	95111
+Yerba Buena Rd	San Jose	95121
+Yerba Buena Rd	San Jose	95135
+Yerba Buena Rd	San Jose	95138
+Yerba Buena Rd	Santa Rosa	95409
+Yerba Buena Road	Malibu	90265
+Yerba Buena St	Morro Bay	93442
+Yerba Buena Way	San Mateo	94402
+Yerba Buena Way	Windsor	95492
+Yerba Cliff Ct	San Jose	95121
+Yerba Ct	Sacramento	95833
+Yerba Hills Ct	San Jose	95121
+Yerba Ln	Bonita	91902
+Yerba Ln	Menifee	92584
+Yerba Mansa Ct	Sacramento	95829
+Yerba Pl	Santa Rosa	95409
+Yerba Santa Ave	Los Altos	94022
+Yerba Santa Ct	Saratoga	95070
+Yerba Santa Dr	San Diego	92108
+Yerba Santa Dr	San Diego	92115
+Yerba Santa Dr	Sonora	95370
+Yerba Santa Rd	Cazadero	95421
+Yerba Santa Rd	Geyserville	95441
+Yerba Santa Rd	Potrero	91963
+Yerba Seca Avenue	Agoura Hills	91301
+Yerba St	Selma	93662
+Yerba Street	North Hollywood	91605
+Yerba Valle Rd	Lakeside	92040
+Yerba Valley Way	Lakeside	92040
+Yerba Verde Dr	El Cajon	92020
+Yerba Vista Ct	San Jose	95121
+Yerba Way	Lincoln	95648
+Yerington Ct	Lincoln	95648
+Yerington Ct	Modesto	95355
+Yerington Ln	Lincoln	95648
+Yerington Pl	Lincoln	95648
+Yermo Cir	Garden Grove	92844
+Yermo Ct	San Diego	92127
+Yermo Ct	San Jose	95111
+Yermo Cutoff Rd	Yermo	92398
+Yermo Pl	Fullerton	92833
+Yermo Rd	Newberry Springs	92365
+Yermo Rd	Yermo	92398
+Yermo Street	Whittier	90603
+Yermo Way	Sacramento	95828
+Yermo Way	Westminster	92683
+Yerra St	Rancho Mission Viejo	92694
+Yerxa Rd	Desert Hot Springs	92240
+Yesal Ave	Atascadero	93422
+Yeshua Way	Paradise	95969
+Yesler Ct	San Jose	95131
+Yesterdays Dr	Bakersfield	93312
+Yesteryear Ln	Fallbrook	92028
+Yetahey Way	Montgomery Creek	96065
+Yetta Dr	Walnut Creek	94596
+Yetters Ln	Landers	92284
+Yetters Ln	Landers	92285
+Yetters St	Landers	92285
+Yettford Rd	Vista	92083
+Yew Cir	Healdsburg	95448
+Yew Court	Merced	95341
+Yew Court	Porter Ranch	91326
+Yew Court	Vacaville	95687
+Yew Ct	Chula Vista	91915
+Yew Ct	Fontana	92335
+Yew Ct	Hayward	94545
+Yew Ct	Rancho Cucamonga	91730
+Yew Ct	San Rafael	94903
+Yew Dr	Thousand Oaks	91320
+Yew Ln	Chino Hills	91709
+Yew Ln	Escondido	92029
+Yew St	Gridley	95948
+Yew St	Rancho Cucamonga	91730
+Yew St	San Mateo	94402
+Yew Street	Lancaster	93536
+Yew Tree Ct	San Jose	95111
+Yew Tree Ln	Hemet	92545
+Yew Wood Ln	Shingletown	96088

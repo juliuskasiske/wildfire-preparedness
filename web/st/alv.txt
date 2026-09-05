@@ -1,0 +1,201 @@
+Alva Ave	El Cerrito	94530
+Alva Ave	Riverdale	93656
+Alva Ct	Cathedral City	92234
+Alva Ct	Sacramento	95821
+Alva Dr	Beaumont	92223
+Alva Drive	Pacific Palisades	90272
+Alva Lane	Pebble Beach	93953
+Alva Ln	Costa Mesa	92627
+Alva Ln	Fallbrook	92028
+Alva Ln	Nuevo	92567
+Alva Pl	Perris	92570
+Alva Rd	Nuevo	92567
+Alva Rd	San Diego	92127
+Alva Snow Ln	Auberry	93602
+Alva St	Carpinteria	93013
+Alvada Street	Lynwood	90262
+Alvar Loop	Antioch	94531
+Alvar Pl	Carson	90745
+Alvar Place	Carson	90745
+Alvarado	Borrego Springs	92004
+Alvarado	Salinas	93907
+Alvarado	Watsonville	95076
+Alvarado Av	Stockton	95204
+Alvarado Ave	Burlingame	94010
+Alvarado Ave	Los Altos	94022
+Alvarado Ave	Mill Valley	94941
+Alvarado Ave	Ojai	93023
+Alvarado Ave	Oxnard	93036
+Alvarado Ave	Pacifica	94044
+Alvarado Ave	Pittsburg	94565
+Alvarado Ave	San Mateo	94403
+Alvarado Ave	Santa Rosa	95404
+Alvarado Ave	Sunnyvale	94085
+Alvarado Ave	Sunnyvale	94086
+Alvarado Ave	Thermal	92274
+Alvarado Ave	Walnut Creek	94597
+Alvarado Avenue	Davis	95616
+Alvarado Avenue	Vallejo	94590
+Alvarado Blvd	Sacramento	95838
+Alvarado Blvd	Union City	94587
+Alvarado Canyon Rd	San Diego	92120
+Alvarado Cir	Corona	92882
+Alvarado Cir	Ful	92835
+Alvarado Cir	Fullerton	92835
+Alvarado Cir	Jurupa Valley	92509
+Alvarado Court	Fairfield	94534
+Alvarado Court	Salinas	93907
+Alvarado Ct	Fallbrook	92028
+Alvarado Ct	San Diego	92120
+Alvarado Ct	San Jose	95120
+Alvarado Ct	Saratoga	95070
+Alvarado Ct	Stanford	94305
+Alvarado Ct	Stockton	95204
+Alvarado Ct	Victorville	92392
+Alvarado Dr	Antioch	94509
+Alvarado Dr	Borrego Springs	92004
+Alvarado Dr	Huntington Beach	92646
+Alvarado Dr	Huntington Beach	92646-6106
+Alvarado Dr	Huntington Beach	92646-6107
+Alvarado Dr	Huntington Beach	92646-6108
+Alvarado Dr	Santa Clara	95051
+Alvarado Dr	Tustin	92782
+Alvarado Drive	Salinas	93907
+Alvarado Lane	Pebble Beach	93953
+Alvarado Niles Rd	Union City	94587
+Alvarado Pl	Chula Vista	91910
+Alvarado Pl	El Cerrito	94530
+Alvarado Pl	Newport Beach	92661
+Alvarado Pl	Rancho Cucamonga	91739
+Alvarado Pl	Santa Barbara	93103
+Alvarado Rd	Berkeley	94705
+Alvarado Rd	Carpinteria	93013
+Alvarado Rd	La Mesa	91942
+Alvarado Rd	Oakdale	95361
+Alvarado Rd	Palm Springs	92262
+Alvarado Rd	San Diego	92115
+Alvarado Rd	San Diego	92120
+Alvarado Road	San Ardo	93450
+Alvarado Row	Stanford	94305
+Alvarado Sq	San Pablo	94806
+Alvarado St	Borrego Springs	92004
+Alvarado St	Brisbane	94005
+Alvarado St	Chula Vista	91910
+Alvarado St	Fallbrook	92028
+Alvarado St	Hollister	95023
+Alvarado St	Lake Elsinore	92530
+Alvarado St	Oceanside	92054
+Alvarado St	Oxnard	93036
+Alvarado St	Petaluma	94952
+Alvarado St	Redlands	92373
+Alvarado St	Richmond	94801
+Alvarado St	San Francisco	94110
+Alvarado St	San Francisco	94114
+Alvarado St #A	Richmond	94801
+Alvarado St E	Fallbrook	92028
+Alvarado Street	Los Angeles	90006
+Alvarado Street	Los Angeles	90026
+Alvarado Street	Los Angeles	90039
+Alvarado Street	Macdoel	96058
+Alvarado Street	Monterey	93940
+Alvarado Sun Clan Way	Valley Center	92082
+Alvarado Ter	Vista	92084
+Alvarado Terrace	Los Angeles	90006
+Alvarado Trail	Los Banos	93635
+Alvarado Wy	Tracy	95376
+Alvares Ct	Sacramento	95833
+Alvares Dr	Perris	92570
+Alvarez	Landers	92285
+Alvarez	Mission Viejo	92691
+Alvarez Ave	Pinole	94564
+Alvarez Ave	Santa Rosa	95407
+Alvarez Cmn	Milpitas	95035
+Alvarez Drive	Rancho Palos Verdes	90275
+Alvarez Meadow Ct	San Diego	92126
+Alvarez Rd	Temecula	92592
+Alvaro Street	Los Angeles	90059
+Alvaston Ct	Folsom	95630
+Alvaston Way	Folsom	95630
+Alveda Ave	El Cajon	92019
+Alveda St	Victorville	92394
+Alveo Road	La Canada Flintridge	91011
+Alveo Way	San Diego	92127
+Alverda Dr	Oroville	95966
+Alverez Ct	Riverside	92507
+Alverez Rd	Landers	92285
+Alvern Circle	Los Angeles	90045
+Alvern Ct	Alamo	94507
+Alvern Street	Los Angeles	90045
+Alvern Street	Los Angeles	90056
+Alvern Way	Sacramento	95823
+Alvernaz Dr	San Jose	95121
+Alverno Ct	Redwood City	94061
+Alverson Rd	San Ysidro	92173
+Alverstone Ave	Ventura	93003
+Alverstone Avenue	Los Angeles	90045
+Alverstone Dr	Lathrop	95330
+Alverstone St	Hemet	92543
+Alverton Dr	Carlsbad	92009
+Alves Dr	Cupertino	95014
+Alves Lane	Greenfield	93927
+Alves Ln	Bay Point	94565
+Alves Ranch Rd	Pittsburg	94565
+Alves Road	Ballico	95303
+Alves Road	Weed	96094
+Alves St	Hayward	94544
+Alvesta Place	Rancho Palos Verdes	90275
+Alveswood Cir	San Jose	95131
+Alvey Street	Altadena	91001
+Alviena Dr	San Jose	95133
+Alvilde Ct	Rio Linda	95673
+Alvin Ave	San Jose	95121
+Alvin Circle	Salinas	93906
+Alvin Dr	Redding	96001
+Alvin St	Armona	93202
+Alvin St	Mountain View	94043
+Alvin St	San Diego	92114
+Alvin Street	West Sacramento	95605
+Alvina Ave	Sacramento	95822
+Alvina Ave	San Rafael	94901
+Alvina Ct	Granite Bay	95746
+Alvina Ct	Los Altos	94024
+Alvina Dr	Pleasant Hill	94523
+Alvina Street	Bell Gardens	90201
+Alvine Lane	Baldwin Park	91706
+Alvira Street	Los Angeles	90034
+Alvira Street	Los Angeles	90035
+Alviria Dr	Ojai	93023
+Alvis Ct	Rocklin	95677
+Alviso Adobe Ct	Milpitas	95035
+Alviso Ave	Jurupa Valley	92509
+Alviso Ave	Victorville	92394
+Alviso Avenue	Inglewood	90302
+Alviso Avenue	Los Angeles	90043
+Alviso Ct	Danville	94526
+Alviso Ct	Pacifica	94044
+Alviso Dr	Camarillo	93010
+Alviso Dr	Perris	92570
+Alviso Drive	Merced	95348
+Alviso-Milpitas Rd	Milpitas	95035
+Alviso-Milpitas Rd	San Jose	95134
+Alviso Rd	Perris	92570
+Alviso St	Lake Elsinore	92530
+Alviso St	Perris	92570
+Alviso St	San Francisco	94127
+Alviso St	Santa Clara	95020
+Alviso St	Santa Clara	95050
+Alviso St	Santa Clara	95053
+Alviso St	Simi Valley	93065
+Alviso Way	Danville	94526
+Alviso Way	Encinitas	92024
+Alvita Ave	Clearlake	95422
+Alvita Cir	Murrieta	92562
+Alvo Ave	Carson	90746
+Alvo Ct	San Ramon	94582
+Alvoca St	Chula Vista	91911
+Alvoca Way	Sacramento	95835
+Alvord Court	Redondo Beach	90278
+Alvord Dr	Fort Irwin	92310
+Alvord Lane	Redondo Beach	90278
+Alvord Mountain Rd	Newberry Springs	92365
+Alvord Oak Ln	Lathrop	95330

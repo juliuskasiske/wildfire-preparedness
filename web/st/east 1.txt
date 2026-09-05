@@ -1,0 +1,236 @@
+East 100Th Street	Los Angeles	90002
+East 101St Street	Los Angeles	90002
+East 101St Street	Los Angeles	90003
+East 102Nd Street	Los Angeles	90002
+East 102Nd Street	Los Angeles	90003
+East 103Rd Place	Los Angeles	90002
+East 103Rd Street	Los Angeles	90002
+East 103Rd Street	Los Angeles	90003
+East 104Th Place	Los Angeles	90002
+East 104Th Street	Los Angeles	90002
+East 104Th Street	Los Angeles	90003
+East 105Th Street	Los Angeles	90002
+East 105Th Street	Los Angeles	90003
+East 106Th Street	Los Angeles	90002
+East 106Th Street	Los Angeles	90003
+East 107Th Place	Los Angeles	90059
+East 107Th Street	Los Angeles	90002
+East 107Th Street	Los Angeles	90003
+East 108Th Street	Los Angeles	90002
+East 108Th Street	Los Angeles	90059
+East 108Th Street	Los Angeles	90061
+East 108Th Street	Lynwood	90262
+East 109Th Place	Los Angeles	90059
+East 109Th Place	Los Angeles	90061
+East 109Th Street	Los Angeles	90059
+East 109Th Street	Los Angeles	90061
+East 109Th Street	Lynwood	90262
+East 10Th Street	Azusa	91702
+East 10Th Street	City Of Marysville	95901
+East 10Th Street	Claremont	91711
+East 10Th Street	Long Beach	90804
+East 10Th Street	Long Beach	90813
+East 10Th Street	Long Beach	90815
+East 10Th Street	Los Angeles	90002
+East 10Th Street	Los Angeles	90021
+East 10Th Street	Merced	95341
+East 10Th Street	Pomona	91766
+East 110Th Street	Los Angeles	90059
+East 110Th Street	Los Angeles	90061
+East 110Th Street	Lynwood	90262
+East 111Th Drive	Los Angeles	90059
+East 111Th Place	Los Angeles	90059
+East 111Th Place	Los Angeles	90061
+East 111Th Street	Los Angeles	90047
+East 111Th Street	Los Angeles	90059
+East 111Th Street	Los Angeles	90061
+East 111Th Street	Lynwood	90262
+East 112Th Place	Los Angeles	90059
+East 112Th Street	Los Angeles	90059
+East 112Th Street	Los Angeles	90061
+East 112Th Street	Lynwood	90262
+East 113Th Street	Los Angeles	90059
+East 113Th Street	Los Angeles	90061
+East 114Th Street	Los Angeles	90059
+East 114Th Street East	Los Angeles	90059
+East 115Th Place	Los Angeles	90059
+East 115Th Street	Los Angeles	90059
+East 115Th Street	Los Angeles	90061
+East 116Th Place	Los Angeles	90059
+East 116Th Place	Los Angeles	90061
+East 116Th Street	Los Angeles	90059
+East 116Th Street	Los Angeles	90061
+East 117Th Place	Los Angeles	90059
+East 117Th Street	Hawthorne	90250
+East 117Th Street	Los Angeles	90059
+East 118Th Drive	Los Angeles	90059
+East 118Th Place	Los Angeles	90059
+East 118Th Place	Los Angeles	90061
+East 118Th Street	Los Angeles	90044
+East 118Th Street	Los Angeles	90059
+East 118Th Street	Los Angeles	90061
+East 119Th Street	Los Angeles	90059
+East 119Th Street	Los Angeles	90061
+East 11Th Street	Azusa	91702
+East 11Th Street	City Of Marysville	95901
+East 11Th Street	Claremont	91711
+East 11Th Street	Linda	95901
+East 11Th Street	Long Beach	90804
+East 11Th Street	Long Beach	90813
+East 11Th Street	Long Beach	90815
+East 11Th Street	Los Angeles	90015
+East 11Th Street	Los Angeles	90021
+East 11Th Street	Los Angeles	90023
+East 11Th Street	Merced	95341
+East 11Th Street	Pomona	91766
+East 120Th Street	Los Angeles	90059
+East 120Th Street	Los Angeles	90061
+East 121St Place	Los Angeles	90059
+East 121St Street	Compton	90222
+East 121St Street	Los Angeles	90059
+East 121St Street	Los Angeles	90061
+East 122Nd Place	Los Angeles	90059
+East 122Nd Street	Compton	90222
+East 122Nd Street	Los Angeles	90047
+East 122Nd Street	Los Angeles	90059
+East 122Nd Street	Los Angeles	90061
+East 123Rd Street	Compton	90222
+East 123Rd Street	Los Angeles	90059
+East 124Th Street	Compton	90222
+East 124Th Street	Los Angeles	90044
+East 124Th Street	Los Angeles	90059
+East 124Th Street	Los Angeles	90061
+East 125Th Street	Compton	90222
+East 125Th Street	Los Angeles	90059
+East 126Th Street	Compton	90222
+East 126Th Street	Los Angeles	90059
+East 126Th Street	Los Angeles	90061
+East 126Th Street East	Los Angeles	90061
+East 127Th Street	Compton	90222
+East 127Th Street	Los Angeles	90059
+East 127Th Street	Los Angeles	90061
+East 129Th Street	Compton	90222
+East 129Th Street	Los Angeles	90061
+East 12Th Street	City Of Marysville	95901
+East 12Th Street	Claremont	91711
+East 12Th Street	Linda	95901
+East 12Th Street	Long Beach	90813
+East 12Th Street	Los Angeles	90015
+East 12Th Street	Los Angeles	90021
+East 12Th Street	Los Angeles	90023
+East 12Th Street	Merced	95341
+East 12Th Street	Pomona	91766
+East 130Th Street	Compton	90222
+East 130Th Street	Los Angeles	90059
+East 130Th Street	Los Angeles	90061
+East 131St Street	Compton	90222
+East 131St Street	Los Angeles	90059
+East 131St Street	Los Angeles	90061
+East 131Th Street	Compton	90222
+East 132Nd Street	Compton	90222
+East 132Nd Street	Los Angeles	90061
+East 133Rd Street	Compton	90222
+East 133Rd Street	Hawthorne	90250
+East 134Th Street	Compton	90222
+East 135Th Street	Compton	90222
+East 135Th Street	Los Angeles	90059
+East 135Th Street	Los Angeles	90061
+East 136Th Street	Los Angeles	90059
+East 136Th Street	Los Angeles	90061
+East 137Th Street	Los Angeles	90059
+East 137Th Street	Los Angeles	90061
+East 138Th Street	Los Angeles	90059
+East 138Th Street	Los Angeles	90061
+East 139Th Street	Compton	90222
+East 139Th Street	Los Angeles	90059
+East 139Th Street	Los Angeles	90061
+East 13Th Street	Azusa	91702
+East 13Th Street	City Of Marysville	95901
+East 13Th Street	Merced	95341
+East 140Th Street	Compton	90222
+East 140Th Street	Los Angeles	90061
+East 141St Street	Compton	90222
+East 141St Street	Los Angeles	90061
+East 142Nd Street	Compton	90222
+East 142Nd Street	Los Angeles	90061
+East 144Th Street	Compton	90220
+East 145Th Street	Compton	90220
+East 146Th Street	Compton	90220
+East 148Th Street	Compton	90220
+East 149Th Street	Compton	90220
+East 149Th Street	Gardena	90248
+East 14Th Place	Los Angeles	90021
+East 14Th Street	City Of Marysville	95901
+East 14Th Street	Davis	95616
+East 14Th Street	Long Beach	90804
+East 14Th Street	Long Beach	90813
+East 14Th Street	Los Angeles	90015
+East 14Th Street	Los Angeles	90021
+East 14Th Street	Los Angeles	90023
+East 150Th Street	Compton	90220
+East 152Nd Street	Gardena	90248
+East 153Rd Street	Compton	90220
+East 154Th Street	Compton	90220
+East 154Th Street	Gardena	90248
+East 157Th Street	Compton	90220
+East 157Th Street	Gardena	90248
+East 157Th Street East	Llano	93544
+East 158Th Street	Gardena	90248
+East 159Th Street	Gardena	90248
+East 15Th Street	City Of Marysville	95901
+East 15Th Street	Long Beach	90804
+East 15Th Street	Long Beach	90813
+East 15Th Street	Los Angeles	90015
+East 15Th Street	Los Angeles	90021
+East 15Th Street	Los Angeles	90023
+East 15Th Street	Merced	95340
+East 15Th Street	Merced	95341
+East 162Nd Street	Gardena	90248
+East 163Rd Street	Carson	90746
+East 163Rd Street	Gardena	90248
+East 166Th Street	Cerritos	90703
+East 166Th Street	Norwalk	90650
+East 168Th Street	Compton	90220
+East 169Th Street	Carson	90746
+East 16Th Street	City Of Marysville	95901
+East 16Th Street	Long Beach	90804
+East 16Th Street	Long Beach	90807
+East 16Th Street	Long Beach	90813
+East 16Th Street	Los Angeles	90015
+East 16Th Street	Los Angeles	90021
+East 16Th Street	Los Angeles	90023
+East 16Th Street	Merced	95340
+East 16Th Street	Merced	95341
+East 17Th Avenue	Venice	90291
+East 17Th Street	City Of Marysville	95901
+East 17Th Street	Long Beach	90804
+East 17Th Street	Long Beach	90813
+East 17Th Street	Los Angeles	90015
+East 17Th Street	Los Angeles	90021
+East 181St Street	Carson	90746
+East 182Nd Street	Carson	90746
+East 184Th Street	Carson	90746
+East 185Th Street	Carson	90746
+East 186Th Street	Carson	90746
+East 189Th Street	Carson	90746
+East 18Th Street	City Of Marysville	95901
+East 18Th Street	Los Angeles	90015
+East 18Th Street	Los Angeles	90021
+East 18Th Street	Merced	95340
+East 192Nd Street	Carson	90746
+East 19Th Street	City Of Marysville	95901
+East 19Th Street	Long Beach	90806
+East 19Th Street	Merced	95340
+East 19Th Street	Signal Hill	90755
+East 1St Street	Azusa	91702
+East 1St Street	Claremont	91711
+East 1St Street	Dorris	96023
+East 1St Street	Irwindale	91706
+East 1St Street	Long Beach	90802
+East 1St Street	Long Beach	90803
+East 1St Street	Los Angeles	90012
+East 1St Street	Los Angeles	90022
+East 1St Street	Los Angeles	90033
+East 1St Street	Los Angeles	90063
+East 1St Street	Pomona	91766
+East 1St Street	San Dimas	91773

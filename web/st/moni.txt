@@ -1,0 +1,85 @@
+Monica Ave	Orangevale	95662
+Monica Ave	Salton City	92274
+Monica Avenue	Long Beach	90808
+Monica Cir	Corona	92880
+Monica Cir	Oceanside	92057
+Monica Cir	Thousand Oaks	91320
+Monica Circle	Cerritos	90703
+Monica Court	Rowland Heights	91748
+Monica Ct	Beaumont	92223
+Monica Ct	Ceres	95307
+Monica Ct	Fontana	92336
+Monica Ct	Hollister	95023
+Monica Ct	Santa Maria	93454
+Monica Dr	Hollister	95023
+Monica Ln	Campbell	95008
+Monica Ln	Ceres	95307
+Monica Place	Vallejo	94591
+Monica St	Bakersfield	93306
+Monica Way	Menifee	92586
+Monica Way	Walnut	91789
+Monica Way	Winton	95388
+Monica Wy	Ballard	93463
+Monicas Garden Pl	Roseville	95747
+Monico Dr	Moreno Valley	92557
+Monier Cir	Rancho Cordova	95742
+Monier Park Pl	Rancho Cordova	95742
+Monif Cir	Corona	92881
+Monifieth Way	Sacramento	95822
+Monika Ct	Beaumont	92223
+Monika Ct	Sebastopol	95472
+Monika Ct	Windsor	95492
+Monika Ln	Unincorporated Alameda County	94541
+Monique Ave	Bakersfield	93307
+Monique Avenue	Salinas	93907
+Monique Ci	Stockton	95204
+Monique Cir	Temecula	92591
+Monique Court	Merced	95341
+Monique Ct	Ceres	95351
+Monique Ct	Goleta	93117
+Monique Ct	Oakley	94561
+Monique Ct	Riverside	92508
+Monique Ct	Vista	92084
+Monique Ln	Redding	96003
+Monique Ln	Spring Valley	91977
+Monique Pl	Rohnert Park	94928
+Monique St	Galt	95632
+Monique St	Tracy	95304
+Monique Street	Merced	95341
+Monique Way	Cypress	90630
+Monique Way	Dixon	95620
+Monique Way	Escondido	92026
+Monisha	Lake Forest	92630
+Monisha	Lake Forest	92630-6422
+Monisha	Lake Forest	92630-6423
+Monisha	Lake Forest	92630-6424
+Monisha	Lake Forest	92630-6425
+Monita Cir	Laguna Niguel	92677
+Monita Dr	Ventura	93001
+Monita Rd	Atascadero	93422
+Moniteau Place	Diamond Bar	91765
+Monitor	Irvine	92620
+Monitor Ave	Carmichael	95608
+Monitor Avenue	Los Angeles	90059
+Monitor Avenue	Suisun City	94585
+Monitor Court	Smartsville	95977
+Monitor Ct	Modesto	95354
+Monitor Ct	Riverside	92503
+Monitor Ct	San Jose	95125
+Monitor Dr	Huntington Beach	92646
+Monitor Dr	Huntington Beach	92646-3733
+Monitor Dr	Huntington Beach	92646-3735
+Monitor Dr	Huntington Beach	92646-3736
+Monitor Dr	Huntington Beach	92646-3757
+Monitor Dr	Huntington Beach	92646-3758
+Monitor Island	Clearlake Park	95424
+Monitor Ln	Sutter Creek	95685
+Monitor N Ci	Stockton	95219
+Monitor Pass Court	Vallejo	94589
+Monitor Pass Way	Antioch	94531
+Monitor Pl	Stockton	95219
+Monitor Rd	San Diego	92110
+Monitor S Ci	Stockton	95219
+Monitor St	Bakersfield	93304
+Monitor St	Bakersfield	93307
+Monivea Pl	Pleasant Hill	94523

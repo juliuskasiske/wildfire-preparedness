@@ -1,0 +1,9 @@
+Cll De Tres Amigos	Murrieta	92563
+Cll Orduno	Coachella	92236
+Cll San Sebastian	San Jacinto	92583
+Cll San Sebastion	San Jacinto	92583
+Cll Santa Anita	Indio	92203
+Cll Santa Barbara	La Quinta	92253
+Cll Santa Claudia	Indio	92203
+Cll Santa Monica	Indio	92203
+Cll Torres Orduno	Coachella	92236

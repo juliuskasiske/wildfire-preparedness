@@ -1,0 +1,280 @@
+Sun Acer Way	Rio Linda	95673
+Sun And Shadows Dr	Borrego Springs	92004
+Sun And Shadows Ln	Borrego Springs	92004
+Sun Ave	Citrus Heights	95610
+Sun Ave	Hayward	94544
+Sun Ave	Loma Linda	92354
+Sun Ave	Salton City	92274
+Sun Avenue	Linda	95901
+Sun Beam	Joshua Tree	92252
+Sun Beam Ave	Joshua Tree	92252
+Sun Beam Wy	Roseville	95747
+Sun Berry Ct	Elk Grove	95624
+Sun Bloom Way	Nevada City	95959
+Sun Blossom Ct	Riverside	92508
+Sun Blossom Ct	Roseville	95678
+Sun Blossom Dr	San Jose	95123
+Sun Blossom Ln	Redwood City	94065
+Sun Bonnet Ct	Rocklin	95765
+Sun Bonnet St	Simi Valley	93065
+Sun Brae Ct	Rio Linda	95673
+Sun Brook Ct	Salida	95368
+Sun Brook Dr	Salida	95368
+Sun Cactus Ln	La Quinta	92253
+Sun Castle Ln	Sacramento	95823
+Sun Center Dr	Rancho Cordova	95670
+Sun Chaser Way	Sacramento	95835
+Sun Cir	Vista	92081
+Sun Circle Ct	Chico	95926
+Sun Circle Ct	Simi Valley	93065
+Sun City Bl	Roseville	95747
+Sun City Blvd	Indio	92203
+Sun City Blvd	Lincoln	95648
+Sun City Blvd	Menifee	92586
+Sun City Ln	Lincoln	95648
+Sun Cloud Cir	Oroville	95965
+Sun Cloud Ct	Concord	94521
+Sun Corral	Palm Desert	92260
+Sun Corral Trl	Palm Desert	92260
+Sun Country Ln	Menifee	92586
+Sun Country Ln	Sun City	92586
+Sun Court	Lancaster	93535
+Sun Court	Vacaville	95688
+Sun Cove Ln	Sacramento	95828
+Sun Crest St	Antioch	94509
+Sun Ct	El Cajon	92021
+Sun Ct	Healdsburg	95448
+Sun Ct	Martinez	94553
+Sun Ct	Milpitas	95035
+Sun Ct	Richmond	94803
+Sun Ct	Riverside	92507
+Sun Ct	Twentynine Palms	92277
+Sun Dale Way	Nipomo	93444
+Sun Dance	Milpitas	95035
+Sun Dance Ln	Menifee	92585
+Sun Dance Trl	Thousand Palms	92276
+Sun Delight Way	Hemet	92545
+Sun Devils Ave	Bakersfield	93313
+Sun Dew Ct	Sacramento	95838
+Sun Dial Ct	Salida	95368
+Sun Dial Dr	Tustin	92782
+Sun Dial Ter	El Cajon	92021
+Sun Dial Way	Sacramento	95823
+Sun Down Pl	Salida	95368
+Sun Down Way	Bakersfield	93314
+Sun Dr	Hanford	93230
+Sun Dr	Huntington Beach	92647
+Sun Dr	Huntington Beach	92647-5224
+Sun Dr	Huntington Beach	92647-5226
+Sun Dr	Huntington Beach	92647-5227
+Sun Dr	Huntington Beach	92647-5229
+Sun Dr	Huntington Beach	92647-5230
+Sun Dr	Huntington Beach	92647-5283
+Sun Dr	Huntington Beach	92647-5284
+Sun Dr	Huntington Beach	92647-5285
+Sun Dr	Lakeport	95453
+Sun Dream Ct	Roseville	95747
+Sun Drop Wy	Roseville	95747
+Sun Faire Ln	Sacramento	95828
+Sun Flare Ct	Lincoln	95648
+Sun Florin Dr	Sacramento	95828
+Sun Flower Ter	Vista	92083
+Sun Forest Court	Dobbins	95919
+Sun Forest Drive	Penn Valley	95946
+Sun Garden Ct	Turlock	95380
+Sun Gate Court	Vacaville	95688
+Sun Glen Ct	Salida	95368
+Sun Glen Dr	Salida	95368
+Sun Glory Ln	San Jose	95124
+Sun Glory Way	Fontana	92336
+Sun Gold Ave	Joshua Tree	92252
+Sun Gold Ct	Salida	95368
+Sun Gold Dr	Salida	95368
+Sun Gold St	Indio	92201
+Sun Harbor Cir	Sacramento	95835
+Sun Haven Pl	Manteca	95337
+Sun Haven St	Hughson	95326
+Sun Hill Dr	Citrus Heights	95610
+Sun Hill Dr	Ybl	92886
+Sun Hill Dr	Yorba Linda	92886
+Sun King Rd	San Diego	92126
+Sun King Rd	San Diego	92145
+Sun Kist Ct	Salida	95368
+Sun Knoll Cir	Ybl	92886
+Sun Knoll Cir	Yorba Linda	92886
+Sun Knoll Dr	Loomis	95650
+Sun Knoll Dr	Ybl	92886
+Sun Knoll Dr	Yorba Linda	92886
+Sun Kosi Way	Elk Grove	95757
+Sun Lake Ter	Riverside	92503
+Sun Lakes Blvd	Banning	92220
+Sun Lane	Bell Gardens	90201
+Sun Ln	Bella Vista	96008
+Sun Ln	Novato	94947
+Sun Ln	Palm Desert	92260
+Sun Ln	San Jose	95132
+Sun Loma Rd	Joshua Tree	92252
+Sun Maiden Ct	San Diego	92127
+Sun Maiden Way	Antelope	95843
+Sun Manor Ct	Paradise	95969
+Sun Meadow Ave	Bakersfield	93308
+Sun Meadow Ct	Rancho Cucamonga	91730
+Sun Meadow Dr	Ceres	95307
+Sun Meadow Dr	El Cajon	92020
+Sun Mesa Dr	Joshua Tree	92284
+Sun Mesa Dr	Yucca Mesa	92284
+Sun Mesa Dr	Yucca Valley	92284
+Sun Mesa Rd	Apple Valley	92308
+Sun Mesa Rd	Joshua Tree	92252
+Sun-Mor Ave	Mountain View	94040
+Sun Mountain	Felton	95018
+Sun Mun Way	Los Angeles	90012
+Sun Oak Ln	Fair Oaks	95628
+Sun Orchard Dr	Bakersfield	93306
+Sun Oro Dr	Yucca Valley	92284
+Sun Oro Rd	Joshua Tree	92252
+Sun Oro Rd	Yucca Valley	92284
+Sun Park Dr	Perris	92570
+Sun Park Ln	Lincoln	95648
+Sun Peak Dr	Folsom	95630
+Sun Peak Pl	Sacramento	95829
+Sun Pearl Ct	Fair Oaks	95628
+Sun Petal Ct	Fontana	92336
+Sun Pillar Ct	Roseville	95747
+Sun Point Ln	Sacramento	95828
+Sun Point Wy	Roseville	95747
+Sun Ranch Court	Chatsworth	91311
+Sun Ranch Dr	Sacramento	95823
+Sun Ranch Road	Grass Valley	95949
+Sun Ray Ct	Rio Linda	95673
+Sun Ray Ct	Riverside	92503
+Sun Ray Ct	San Diego	92131
+Sun Ray Dr	Morongo	92256
+Sun Ray Ln	Salida	95368
+Sun Ray Rd	Joshua Tree	92252
+Sun Rd	Mckinleyville	95519
+Sun Reign Ln	Sacramento	95823
+Sun Reign Pl	Sacramento	95823
+Sun Ridge Cir	Rancho Mirage	92270
+Sun Ridge Circle	Rancho Mirage	92270
+Sun Ridge Court	Nevada City	95959
+Sun Ridge Ct	Ceres	95351
+Sun Ridge Ct	Lafayette	94549
+Sun Ridge Dr	Chino Hills	91709
+Sun Ridge Dr	San Ramon	94582
+Sun Ridge Ln	San Jose	95123
+Sun Rise Dr	Salton City	92274
+Sun River Ct	Apple Valley	92308
+Sun River Ct	Paradise	95969
+Sun River Ct	Stockton	95219
+Sun River Dr	Chico	95973
+Sun River Dr	Sacramento	95824
+Sun River Dr	Sacramento	95828
+Sun River Rd	Crescent City	95531
+Sun River St	Oakdale	95361
+Sun Rocks Dr	Valley Center	92082
+Sun Rose Ave	Bakersfield	93308
+Sun Rose Cir	Menifee	92584
+Sun Rose Ct	Jurupa Valley	92509
+Sun Rose Street	La Verne	91750
+Sun Rose Way	Sacramento	95829
+Sun Run Ln	Fair Oaks	95628
+Sun Shadow Circle	Nevada City	95959
+Sun&Shadows Dr	Borrego Springs	92004
+Sun Shadows Ln	Sacramento	95821
+Sun Shower Cir	Sacramento	95823
+Sun Shower Pl	Sacramento	95823
+Sun Sierra Tr	Coarsegold	93614
+Sun Song	Milpitas	95035
+Sun Sprite Ct	Elk Grove	95624
+Sun Sprite Way	Elk Grove	95624
+Sun St	San Diego	92111
+Sun Star Ct	Roseville	95747
+Sun Stone Ct	Salida	95368
+Sun Storm Ln	Creston	93432
+Sun Stream Cir	Moreno Valley	92557
+Sun Stream Court	Los Banos	93635
+Sun Stream Ct	Danville	94506
+Sun Street	Salinas	93901
+Sun Summit Ct	Riverside	92503
+Sun Summit Dr	Riverside	92503
+Sun Summit Pt	San Diego	92127
+Sun Swept St	Thermal	92274
+Sun Ter	Laguna Niguel	92677
+Sun Ter	Mountain Center	92561
+Sun Terrace Court	Auburn	95602
+Sun Terrace Dr	Landers	92284
+Sun Terrace Dr	Landers	92285
+Sun Terrace Dr	Yucca Valley	92284
+Sun Terrace Ln	Mountain Center	92561
+Sun Terrace Way	Citrus Heights	95610
+Sun Trail Ln	Lincoln	95648
+Sun Trail Rd	Oroville	95966
+Sun Tree Ct	Danville	94506
+Sun Tree Ct	Roseville	95661
+Sun Tree Dr	Roseville	95661
+Sun Tree Ln	Fair Oaks	95628
+Sun Up Cir	San Jacinto	92582
+Sun Up Ct	Bonita	91902
+Sun Valley	Palm Desert	92260
+Sun Valley Ave	Walnut Creek	94597
+Sun Valley Avenue	Livingston	95334
+Sun Valley Cir	Victorville	92392
+Sun Valley Court	Merced	95348
+Sun Valley Court	Woodland	95776
+Sun Valley Ct	Bakersfield	93313
+Sun Valley Ct	Palm Desert	92211
+Sun Valley Ct	Ripon	95366
+Sun Valley Ct	Salida	95368
+Sun Valley Ct	Saratoga	95070
+Sun Valley Ct	Turlock	95380
+Sun Valley Ct	Turlock	95382
+Sun Valley Dr	Barstow	92311
+Sun Valley Dr	Laguna Beach	92651
+Sun Valley Dr	Lodi	95242
+Sun Valley Dr	Montclair	91763
+Sun Valley Dr	Palo Cedro	96073
+Sun Valley Dr	Rancho Cucamonga	91737
+Sun Valley Dr	Rancho Mirage	92270
+Sun Valley Dr	Salida	95368
+Sun Valley Dr	Twentynine Palms	92277
+Sun Valley Dr	Walnut Creek	94597
+Sun Valley Drive	King City	93930
+Sun Valley Drive	Woodland	95776
+Sun Valley Ln	Del Mar	92014
+Sun Valley Ln	Palm Desert	92260
+Sun Valley Loop	Lincoln	95648
+Sun Valley Rd	Butte Valley	95965
+Sun Valley Rd	Chula Vista	91915
+Sun Valley Rd	Del Mar	92014
+Sun Valley Rd	Moreno Valley	92553
+Sun Valley Rd	Oroville	95965
+Sun Valley Rd	San Marcos	92078
+Sun Valley Rd	Solana Beach	92075
+Sun Valley Rd	Weimar	95713
+Sun Valley Road	King City	93930
+Sun Valley Road	Truckee	96161
+Sun Valley St	Adelanto	92301
+Sun Valley Way	Cerritos	90703
+Sun Valley Way	Sacramento	95823
+Sun Valley Way	Vacaville	95688
+Sun Via Dr	Yucca Valley	92284
+Sun View Ave	Joshua Tree	92252
+Sun View Cir	Granite Bay	95746
+Sun View Court	Penn Valley	95946
+Sun View Ct	Concord	94520
+Sun View Dr	Big Bear City	92314
+Sun View Pl	Concord	94520
+Sun View Rd	Ybl	92886
+Sun View Rd	Yorba Linda	92886
+Sun View Ter	Concord	94520
+Sun View Way	Concord	94520
+Sun Villa Ct	Vista	92084
+Sun Vista Ct	Rio Linda	95673
+Sun Walk Ct	San Diego	92127
+Sun Way	Perris	92571
+Sun Way	Salinas	93901
+Sun West Dr	Salida	95368
+Sun West Pl	Manteca	95337
+Sun West Rd	Riverside	92508
+Sun Willow Ln	Sacramento	95823

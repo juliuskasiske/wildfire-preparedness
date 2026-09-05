@@ -1,0 +1,18 @@
+56Th Ave	Sacramento	95822
+56Th Ave	Sacramento	95831
+56Th Ave	Thermal	92274
+56Th Pl	San Diego	92114
+56Th Place	Long Beach	90803
+56Th St	Jurupa Valley	91752
+56Th St	Jurupa Valley	92509
+56Th St	Mira Loma	91752
+56Th St	Sacramento	95817
+56Th St	Sacramento	95819
+56Th St	Sacramento	95820
+56Th St	San Diego	92105
+56Th St	San Diego	92114
+56Th St	San Diego	92115
+56Th Street	Los Angeles	90011
+56Th Street	Los Angeles	90062
+56Th Street East	Palmdale	93552
+56Th Street West	Lancaster	93536

@@ -1,0 +1,31 @@
+600½ Grove St	Roseville	95678
+601½ Lawton Av	Roseville	95678
+604½ Church St	Roseville	95678
+605½ Grove St	Roseville	95678
+608½ Sierra Bl	Roseville	95678
+609½ Grove St	Roseville	95678
+60Th Ave	Jurupa Valley	92509
+60Th Ave	La Quinta	92253
+60Th Ave	Sacramento	95822
+60Th Ave	Thermal	92274
+60Th Place	Long Beach	90803
+60Th Place	Los Angeles	90044
+60Th St	Jurupa Valley	91752
+60Th St	Jurupa Valley	92509
+60Th St	Sacramento	95817
+60Th St	Sacramento	95819
+60Th St	Sacramento	95820
+60Th St	Sacramento	95824
+60Th St	San Diego	92105
+60Th St	San Diego	92114
+60Th St	San Diego	92115
+60Th Street	Lancaster	93536
+60Th Street	Long Beach	90805
+60Th Street	Los Angeles	90001
+60Th Street	Los Angeles	90003
+60Th Street	Los Angeles	90043
+60Th Street	Los Angeles	90044
+60Th Street East	Lancaster	93535
+60Th Street East	Palmdale	93552
+60Th Street West	Lancaster	93536
+60Th Street West	Palmdale	93551

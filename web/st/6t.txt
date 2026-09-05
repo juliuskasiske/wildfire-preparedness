@@ -1,0 +1,223 @@
+6Th	Calexico	92231
+6Th	Carmel-By-The-Sea	93921
+6Th	Desert Hot Springs	92240
+6Th	Gonzales	93926
+6Th	Greenfield	93927
+6Th	Santa Cruz	95062
+6Th	Temecula	92590
+6Th	Watsonville	95076
+6Th	Westmorland	92281
+6Th Army Avenue	Seaside	93955
+6Th Av	Westhaven	 
+6Th Av	Westhaven	95570
+6Th Ave	Blythe	92225
+6Th Ave	Calexico	92231
+6Th Ave	Clearlake	95422
+6Th Ave	Corcoran	93212
+6Th Ave	Crockett	94525
+6Th Ave	El Granada	94019
+6Th Ave	Escondido	92025
+6Th Ave	Half Moon Bay	94019
+6Th Ave	Hanford	93230
+6Th Ave	Hanford	93631
+6Th Ave	Kettleman City	93239
+6Th Ave	Kingsburg	93230
+6Th Ave	Kingsburg	93631
+6Th Ave	Lakeport	95453
+6Th Ave	Menlo Park	94025
+6Th Ave	Menlo Park	94063
+6Th Ave	Mentone	92374
+6Th Ave	Oakdale	95361
+6Th Ave	Oroville	95965
+6Th Ave	Pacifica	94044
+6Th Ave	Redlands	92374
+6Th Ave	Redwood City	94063
+6Th Ave	Rio Linda	95673
+6Th Ave	Sacramento	95817
+6Th Ave	Sacramento	95818
+6Th Ave	Sacramento	95820
+6Th Ave	San Bruno	94066
+6Th Ave	San Diego	92101
+6Th Ave	San Diego	92103
+6Th Ave	San Mateo	94401
+6Th Ave	Sonoma	95476
+6Th Ave	Victorville	92395
+6Th Avenue	Gustine	95322
+6Th Avenue	Hacienda Heights	91745
+6Th Avenue	La Puente	91746
+6Th Avenue	Los Angeles	90008
+6Th Avenue	Los Angeles	90018
+6Th Avenue	Los Angeles	90019
+6Th Avenue	Los Angeles	90043
+6Th Avenue	Merced	95340
+6Th Avenue	Salinas	93955
+6Th Avenue	Seaside	93955
+6Th Avenue	Venice	90291
+6Th Avenue Dr	Kingsburg	93631
+6Th Court	Hermosa Beach	90254
+6Th Ct	Hermosa Beach	90254
+6Th Division Circle	Seaside	93955
+6Th Dr	Calexico	92231
+6Th E St	Pittsburg	94565
+6Th & Green Tree SE	Victorville	92395
+6Th Helena Drive	Los Angeles	90049
+6Th Ln	Big Bear City	92314
+6Th Ln	South San Francisco	94080
+6Th Pkwy	Calexico	92231
+6Th Pkwy	Sacramento	95823
+6Th Pl	Escondido	92029
+6Th Pl	Hanford	93230
+6Th Pl	Yucaipa	92399
+6Th Place	Manhattan Beach	90266
+6Th Place West	Palmdale	93551
+6Th Rd	Calexico	92231
+6Th St	Arcata	95521
+6Th St	Armona	93230
+6Th St	Bakersfield	93304
+6Th St	Barstow	92311
+6Th St	Beaumont	92223
+6Th St	Berkeley	94710
+6Th St	Big Bear City	92314
+6Th St	Biggs	95917
+6Th St	Bloomington	92316
+6Th St	Borrego Springs	92004
+6Th St	Calexico	92231
+6Th St	Cayucos	93430
+6Th St	Ceres	95307
+6Th St	Coachella	92236
+6Th St	Concord	94519
+6Th St	Corona	92879
+6Th St	Corona	92882
+6Th St	Coronado	92118
+6Th St	Crows Landing	95313
+6Th St	Del Mar	92014
+6Th St	Desert Hot Springs	92240
+6Th St	El Centro	92243
+6Th St	Eureka	95501
+6Th St	Fortuna	95540
+6Th St	Galt	95632
+6Th St	Gilroy	95020
+6Th St	Havasu Lake	92363
+6Th St	Hayward	94541
+6Th St	Hemet	92544
+6Th St	Hermosa Beach	90254
+6Th St	Hickman	95323
+6Th St	Highland	92346
+6Th St	Hollister	95023
+6Th St	Hood	95639
+6Th St	Hughson	95326
+6Th St	Huntington Beach	90742
+6Th St	Huntington Beach	92648
+6Th St	Huntington Beach	92648-4601
+6Th St	Huntington Beach	92648-4602
+6Th St	Huntington Beach	92648-4603
+6Th St	Huntington Beach	92648-4642 
+6Th St	Huntington Beach	92648-4683
+6Th St	Huntington Beach	92648-4689 
+6Th St	Huntington Beach	92648-4690
+6Th St	Huntington Beach	92648-4691 
+6Th St	Huntington Beach	92648-4905
+6Th St	Huntington Beach	92648-4947 
+6Th St	Huntington Beach	92648-5001
+6Th St	Huntington Beach	92648-5002
+6Th St	Huntington Beach	92648-5003
+6Th St	Huntington Beach	92648-5003 
+6Th St	Huntington Beach	92648-5004
+6Th St	Huntington Beach	92648-5071
+6Th St	Huron	93234
+6Th St	Isleton	95641
+6Th St	Lincoln	95648
+6Th St	Los Osos	93402
+6Th St	March Air Reserve Base	92518
+6Th St	Mariposa	95338
+6Th St	Mecca	92254
+6Th St	Mendota	93640
+6Th St	Modesto	95354
+6Th St	Montara	94037
+6Th St	Moss Beach	94037
+6Th St	Napa	94559
+6Th St	National City	91950
+6Th St	Newport Beach	92661
+6Th St	Niland	92257
+6Th St	Norco	92860
+6Th St	Nuevo	92567
+6Th St	Orange Cove	93646
+6Th St	Oroville	95965
+6Th St	Other	94037
+6Th St	Palermo	95965
+6Th St	Parlier	93648
+6Th St	Paso Robles	93446
+6Th St	Petaluma	94952
+6Th St	Point Reyes Station	94956
+6Th St	Ramona	92065
+6Th St	Rancho Cucamonga	91730
+6Th St	Rancho Cucamonga	91739
+6Th St	Richmond	94801
+6Th St	Rio Linda	95673
+6Th St	Riverbank	95367
+6Th St	Riverside	92501
+6Th St	Riverside	92507
+6Th St	Rodeo	94572
+6Th St	Sacramento	95811
+6Th St	Sacramento	95814
+6Th St	Sacramento	95818
+6Th St	San Bernardino	92410
+6Th St	San Diego	92101
+6Th St	San Joaquin	93660
+6Th St	Sanger	93657
+6Th St	Santa Rosa	95401
+6Th St	Saratoga	95070
+6Th St	Scotia	95565
+6Th St	Seal Beach	90740
+6Th St	Stratford	93266
+6Th St	Temecula	92590
+6Th St	Templeton	93465
+6Th St	Trona	93562
+6Th St	Turlock	95380
+6Th St	Union City	94587
+6Th St	Victorville	92392
+6Th St	Victorville	92395
+6Th St	Westhaven	95570
+6Th St	Westwood	96137
+6Th St	Yucaipa	92399
+6Th St E	National City	91950
+6Th St E	Sonoma	95476
+6Th St & Elm	Greenfield	93927
+6Th St W	Sonoma	95476
+6Th Street	Alhambra	91801
+6Th Street	City Of Marysville	95901
+6Th Street	Davis	95616
+6Th Street	Downey	90241
+6Th Street	Dunsmuir	96025
+6Th Street	Gonzales	93926
+6Th Street	Greenfield	93927
+6Th Street	Gustine	95322
+6Th Street	Hermosa Beach	90254
+6Th Street	La Verne	91750
+6Th Street	Livingston	95334
+6Th Street	Long Beach	90802
+6Th Street	Los Angeles	90014
+6Th Street	Los Angeles	90017
+6Th Street	Los Angeles	90020
+6Th Street	Los Angeles	90021
+6Th Street	Los Angeles	90023
+6Th Street	Los Angeles	90036
+6Th Street	Los Angeles	90057
+6Th Street	Manhattan Beach	90266
+6Th Street	Marysville	95901
+6Th Street	Newhall	91321
+6Th Street	Pacific Grove	93950
+6Th Street	Palmdale	93550
+6Th Street	Paramount	90723
+6Th Street	Santa Monica	90401
+6Th Street	Santa Monica	90403
+6Th Street	Santa Monica	90405
+6Th Street	Soledad	93960
+6Th Street	Vallejo	94590
+6Th Street	West Sacramento	95605
+6Th Street East	Lancaster	93535
+6Th Street East	Palmdale	93550
+6Th Street West	Lancaster	93534
+6Th Street West	Palmdale	93551
+6Th Trail	Sylmar	91342
+6Th W St	Pittsburg	94565

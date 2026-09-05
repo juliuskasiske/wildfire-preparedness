@@ -1,0 +1,227 @@
+Rod Avenue	Woodland Hills	91367
+Rod Beaudry Dr	Rancho Cordova	95670
+Rod Beaudry Dr	Sacramento	95827
+Rod Laver Ave	Santa Rosa	95407
+Rod Laver Ln	Palm Desert	92260
+Rod Place	Woodland Hills	91367
+Rod St	Fallbrook	92028
+Rodado Pl	El Cajon	92020
+Rodaja	Rancho Santa Margarita	92688
+Rodante Way	Sacramento	95864
+Rodarte Pl	Placentia	92870
+Rodarte Way	Encino	91316
+Rodax Street	Canoga Park	91304
+Rodax Street	Winnetka	91306
+Rodbern Ct	Madera	93637
+Rodda Drive	Grass Valley	95949
+Roddan Lane	Wheatland	95692
+Rodden Rd	Oakdale	95361
+Roddick Dr	Highland	92346
+Roddy Dr	La Habra	90631
+Roddy Dr	Lah	90631
+Roddy Way	La Habra	90631
+Roddy Way	Lah	90631
+Rodeal Way	Lakeside	92040
+Rodear Rd	San Diego	92154
+Rodeffer Place	Santa Clarita	91350
+Rodelane	San Diego	92103
+Rodell Pl	Victorville	92395
+Rodello Rd	Lakeport	95453
+Roden Ln	Pioneer	95666
+Rodene St	Newbury Park	91320
+Rodene St	Thousand Oaks	91320
+Rodeo	Foothill Ranch	92610-1740
+Rodeo	Foothill Ranch	92610-1741
+Rodeo	Imperial	92251
+Rodeo	Irvine	92602
+Rodeo	Lake Forest	92610
+Rodeo	Oak View	93022
+Rodeo	Salinas	93906
+Rodeo Ave	Bakersfield	93312
+Rodeo Ave	Chico	95973
+Rodeo Ave	Lagunitas	94938
+Rodeo Ave	Rodeo	94572
+Rodeo Ave	Salton City	92274
+Rodeo Ave	Salton City	92275
+Rodeo Ave	Sausalito	94965
+Rodeo Avenue	Salinas	93906
+Rodeo Cir	Adelanto	92301
+Rodeo Cir	Antioch	94531
+Rodeo Cir	Laguna Hills	92653
+Rodeo Cir	Modesto	95356
+Rodeo Court	San Dimas	91773
+Rodeo Court	Vallejo	94589
+Rodeo Creek	Santa Cruz	95062
+Rodeo Creek Holw	Saratoga	95070
+Rodeo Ct	Antioch	94531
+Rodeo Ct	Arroyo Grande	93420
+Rodeo Ct	Cypress	90630
+Rodeo Ct	Folsom	95630
+Rodeo Ct	Lafayette	94549
+Rodeo Ct	San Jose	95111
+Rodeo Ct	Thousand Oaks	91362
+Rodeo Ct	Weimar	95713
+Rodeo Ct	Winchester	92596
+Rodeo Dr	2-An-8	92804
+Rodeo Dr	Anaheim	92804
+Rodeo Dr	Anderson	96007
+Rodeo Dr	Arroyo Grande	93420
+Rodeo Dr	Brawley	92227
+Rodeo Dr	Gilroy	95020
+Rodeo Dr	Hemet	92545
+Rodeo Dr	Hollister	95023
+Rodeo Dr	Imperial	92251
+Rodeo Dr	Jurupa Valley	92509
+Rodeo Dr	La Jolla	92037
+Rodeo Dr	Lakeside	92040
+Rodeo Dr	Madera	93638
+Rodeo Dr	Newberry Springs	92365
+Rodeo Dr	Oak View	93022
+Rodeo Dr	Rancho Cucamonga	91739
+Rodeo Dr	Ruth	95526
+Rodeo Dr	Sacramento	95823
+Rodeo Dr	San Jose	95111
+Rodeo Dr	Sanger	93657
+Rodeo Dr	Victorville	92395
+Rodeo Drive	Los Angeles	90035
+Rodeo Drive Dr	Brawley	92227
+Rodeo Drive Dr	Imperial	92251
+Rodeo Flat Road	Auburn	95602
+Rodeo Grounds Ct	Newman	95360
+Rodeo Grounds Ln	Coarsegold	93614
+Rodeo Grounds Rd	Cambria	93428
+Rodeo Grounds Way	Newman	95360
+Rodeo Gulch	Santa Cruz	95062
+Rodeo Gulch	Soquel	95073
+Rodeo Heights Circle	Walnut	91789
+Rodeo Lane	La Verne	91750
+Rodeo Lane	Los Angeles	90016
+Rodeo Ln	Santa Rosa	95407
+Rodeo Pl	Rocklin	95677
+Rodeo Pl	San Jose	95111
+Rodeo Queen Dr	Fallbrook	92028
+Rodeo Rd	Altu	96101
+Rodeo Rd	Big Bear City	92314
+Rodeo Rd	Cathedral City	92234
+Rodeo Rd	Fullerton	92835
+Rodeo Rd	Helendale	92342
+Rodeo Rd	Hesperia	92344
+Rodeo Rd	Lake Elsinore	92530
+Rodeo Rd	Lake Pillsbury	95469
+Rodeo Rd	Lucerne Valley	92356
+Rodeo Rd	Oak Hills	92344
+Rodeo Rd	Phelan	92371
+Rodeo Rd	Rancho Cucamonga	91737
+Rodeo Rd	Riverside	92504
+Rodeo Rd	Salton City	92274
+Rodeo Rd	Yucaipa	92399
+Rodeo Ridge	Soquel	95073
+Rodeo Road	Arcadia	91006
+Rodeo Road	Atwater	95301
+Rodeo Road	Glendora	91741
+Rodeo Road	Pebble Beach	93953
+Rodeo Road	Pomona	91766
+Rodeo St	Hesperia	92344
+Rodeo St	Hesperia	92345
+Rodeo St	Montclair	91763
+Rodeo St	Selma	93662
+Rodeo Street	Palmdale	93552
+Rodeo Way	Fontana	92336
+Rodeo Way	Grass Valley	95949
+Rodeo Way	Olivehurst	95961
+Rodeo Way	Paso Robles	93446
+Rodeo Way	Rancho Mirage	92270
+Rodeo Way	Ruth	95526
+Rodeo Way	Sacramento	95819
+Rodeo Way	Walnut	91789
+Rodeo Wy	Tracy	95376
+Roderick	Oxnard	93030
+Roderick Ave	Oxnard	93030
+Roderick Avenue	Pomona	91767
+Roderick Ct	Lafayette	94549
+Roderick Dr	Moreno Valley	92555
+Roderick Ln	Huntington Beach	92646
+Roderick Ln	Huntington Beach	92646-3428
+Roderick Ln	Huntington Beach	92646-3429
+Roderick Ln	Huntington Beach	92646-3430
+Roderick Ln	Huntington Beach	92646-3431
+Roderick Place	Los Angeles	90065
+Roderick Road	Los Angeles	90065
+Rodger	Bonny Doon	95060
+Rodgers Ave	Chico	95928
+Rodgers Ct	Fontana	92336
+Rodgers Ct	Napa	94558
+Rodgers Drive	Santa Clarita	91350
+Rodgers Ln	Anza	92539
+Rodgers Ln	Yucaipa	92399
+Rodgers Rd	Hanford	93230
+Rodgers Road	Salinas	93907
+Rodgers St	San Francisco	94103
+Rodgers St	Ventura	93003
+Rodgers Street	Vallejo	94590
+Rodgers Way	San Jacinto	92582
+Rodgerton Drive	Los Angeles	90068
+Rodilee Avenue	West Covina	91791
+Rodin	Menifee	92584
+Rodin Avenue	Lancaster	93535
+Rodin Court	Vallejo	94591
+Rodin Lane	Valencia	91355
+Rodin Ln	Folsom	95630
+Rodin Place	Davis	95618
+Rodin Place	Los Angeles	90065
+Rodin St	Bakersfield	93314
+Rodina Dr	La Grange	95329
+Rodine Ave	Indio	92203
+Rodling Dr	San Jose	95138
+Rodloy Avenue	Long Beach	90810
+Rodman Ave	San Diego	92120
+Rodman Avenue	Pomona	91767
+Rodman Circle	Monterey Park	91754
+Rodman Dr	Los Osos	93402
+Rodman Dr	Lucerne	95458
+Rodman St	Bakersfield	93307
+Rodmartin Ct	Folsom	95630
+Rodmor Ln	Oroville	95966
+Rodmor Ln	Palermo	95966
+Rodney Ave	Encinitas	92024
+Rodney Ave	Modesto	95354
+Rodney Ave	Riverside	92508
+Rodney Ct	Sacramento	95828
+Rodney Dr	San Jose	95118
+Rodney Drive	Los Angeles	90027
+Rodney Ln	Redding	96003
+Rodney Road	West Covina	91792
+Rodney St	Bakersfield	93307
+Rodney St	Thousand Oaks	91320
+Rodolfo Ct	Sacramento	95823
+Rodondo Avenue	Suisun City	94585
+Rodondo Court	Planada	95365
+Rodoni Ct	Saratoga	95070
+Rodonovan Ct	Santa Clara	95051
+Rodonovan Dr	Santa Clara	95051
+Rodr1Guez Ave	Banning	92220
+Rodrejo St	Coachella	92236
+Rodrigo Dr	San Diego	92115
+Rodrigues Ave	Cupertino	95014
+Rodrigues Ave	Martinez	94553
+Rodrigues Ave	Milpitas	95035
+Rodrigues Ln	Walnut Creek	94597
+Rodriguez	Santa Cruz	95060
+Rodriguez	Santa Cruz	95062
+Rodriguez	Watsonville	95076
+Rodriguez Ave	Banning	92220
+Rodriguez Cir	Sacramento	95829
+Rodriguez Court	Grass Valley	95945
+Rodriguez Ct	Hollister	95023
+Rodriguez Ct	San Ramon	94582
+Rodriguez Mountain	Valley Center	92082
+Rodriguez Rd	Bakersfield	93314
+Rodriguez Rd	Escondido	92026
+Rodriguez Spur Truck Trl	Julian	92036
+Rodriguez St	Orange Cove	93646
+Rodriguez St	San Francisco	94129
+Rodriquez Loop	Menifee	92584
+Rodriquez Place	Weed	96094
+Rods Court	Merced	95340
+Rods Way	San Fernando	91340
+Roduner Road	Merced	95341

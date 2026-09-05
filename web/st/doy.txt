@@ -1,0 +1,37 @@
+Doyle	Santa Cruz	95062
+Doyle Ave	Ceres	95307
+Doyle Ave	Redlands	92374
+Doyle Cir	Hemet	92545
+Doyle Cir	Santa Clara	95054
+Doyle Cl	Santa Clara	95054
+Doyle Court	Stevenson Ranch	91381
+Doyle Ct	City Of Shasta Lake	96019
+Doyle Ct	San Jose	95129
+Doyle Ct	Tracy	95377
+Doyle Dr	Huntington Beach	92647
+Doyle Dr	Huntington Beach	92647-4218
+Doyle Dr	Huntington Beach	92647-4219
+Doyle Drive	Vallejo	94591
+Doyle Lane	Dixon	95620
+Doyle Ln	Ventura	93003
+Doyle Park Dr	Santa Rosa	95405
+Doyle Pl	Mountain View	94040
+Doyle Place	Los Angeles	90012
+Doyle Rd	Cedarpines Park	92322
+Doyle Rd	Landers	92285
+Doyle Rd	Oakley	94561
+Doyle Rd	San Jose	95129
+Doyle Rd	Santa Rosa	95407
+Doyle Springs	Springville	93265
+Doyle St	Bakersfield	93308
+Doyle St	Emeryville	94608
+Doyle St	Indio	92203
+Doyle St	Menlo Park	94025
+Doyle St	Porterville	93257
+Doyle St	Riverside	92504
+Doyle St	Roseville	95678
+Doyle St Unit A	Roseville	95678
+Doyle Street	Porterville	93257
+Doyle Way	Rancho Cordova	95670
+Doyne Road	Pasadena	91107
+Doyon Place	La Mirada	90638

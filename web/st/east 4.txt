@@ -1,0 +1,47 @@
+East 40Th Place	Los Angeles	90011
+East 41St Place	Los Angeles	90011
+East 41St Place	Los Angeles	90058
+East 41St Street	Los Angeles	90011
+East 41St Street	Los Angeles	90058
+East 42Nd Place	Los Angeles	90011
+East 42Nd Street	Los Angeles	90011
+East 42Nd Street	Los Angeles	90058
+East 43Rd Place	Los Angeles	90011
+East 43Rd Street	Los Angeles	90011
+East 43Rd Street	Los Angeles	90058
+East 44Th Circle	Long Beach	90807
+East 44Th Street	Long Beach	90807
+East 44Th Street	Los Angeles	90058
+East 44Th Way	Long Beach	90807
+East 45Th Street	Long Beach	90807
+East 45Th Street	Los Angeles	90011
+East 45Th Street	Los Angeles	90058
+East 45Th Way	Long Beach	90807
+East 46Th Street	Long Beach	90807
+East 46Th Street	Los Angeles	90011
+East 46Th Street	Los Angeles	90058
+East 47Th Place	Los Angeles	90011
+East 47Th Street	Long Beach	90805
+East 47Th Street	Los Angeles	90011
+East 47Th Street	Los Angeles	90058
+East 48Th Place	Los Angeles	90011
+East 48Th Place	Los Angeles	90058
+East 48Th Street	Los Angeles	90011
+East 48Th Street	Los Angeles	90058
+East 49Th Place	Los Angeles	90011
+East 49Th Street	Long Beach	90805
+East 49Th Street	Los Angeles	90011
+East 49Th Street	Los Angeles	90058
+East 4Th Place	Los Angeles	90013
+East 4Th Street	Azusa	91702
+East 4Th Street	Benicia	94510
+East 4Th Street	Dorris	96023
+East 4Th Street	Long Beach	90802
+East 4Th Street	Long Beach	90814
+East 4Th Street	Los Angeles	90013
+East 4Th Street	Los Angeles	90022
+East 4Th Street	Los Angeles	90033
+East 4Th Street	Los Angeles	90063
+East 4Th Street	Pomona	91766
+East 4Th Street	San Dimas	91773
+East 4Th Street East	Los Angeles	90022

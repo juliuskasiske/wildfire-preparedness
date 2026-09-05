@@ -1,0 +1,93 @@
+H Anna Sparks Wy	Mckinleyville	95519
+H Ave	Bombay Beach	92257
+H Ave	Coronado	92118
+H Ave	Hesperia	92345
+H Ave	Winterhaven	92283
+H De La Vega	Calexico	92231
+H De La Vega Ct	Calexico	92231
+H De La Vega St	Calexico	92231
+H Dela Rosa Sr Street	Soledad	93960
+H Fritsch St	Calexico	92231
+H J Goff	Calexico	92231
+H J Goff Ct	Calexico	92231
+H Klose Way	Richmond	94806
+H Lewis Ln	Needles	92363
+H Ln	Big Bear City	92314
+H Ln	Novato	94945
+HÚLvul St	Hemet	92545
+H Najera Ave	Calexico	92231
+H Pine Creekwy	Concord	94520
+H Pkwy	Sacramento	95823
+H Ramos Ave	Calexico	92231
+H Ranch Rd	Novato	94947
+H St	Antioch	94509
+H St	Arcata	95521
+H St	Bakersfield	93301
+H St	Bakersfield	93304
+H St	Barstow	92311
+H St	Barstow Heights	92311
+H St	Biggs	95917
+H St	Biola	93606
+H St	Blue Lake	95521
+H St	Blue Lake	95525
+H St	Brawley	92227
+H St	Cathedral City	92234
+H St	Cayucos	93430
+H St	Chula Vista	91910
+H St	Chula Vista	91913
+H St	Concord	94518
+H St	Crescent City	95531
+H St	Crows Landing	95313
+H St	Empire	95357
+H St	Eureka	95501
+H St	Eureka	95503
+H St	Fortuna	95540
+H St	Fresno	93701
+H St	Fresno	93721
+H St	Galt	95632
+H St	Havasu Lake	92363
+H St	Imperial	92251
+H St	Isleton	95641
+H St	Lathrop	95330
+H St	Lincoln	95648
+H St	Lower Lake	95457
+H St	Martinez	94553
+H St	Mendota	93640
+H St	Modesto	95351
+H St	Modesto	95353
+H St	Modesto	95354
+H St	Napa	94559
+H St	Needles	92363
+H St	Niland	92257
+H St	Orange Cove	93646
+H St	Oxnard	93030
+H St	Oxnard	93036
+H St	Parlier	93648
+H St	Patterson	95363
+H St	Petaluma	94952
+H St	Ramona	92065
+H St	Sacramento	95811
+H St	Sacramento	95814
+H St	Sacramento	95816
+H St	Sacramento	95819
+H St	San Rafael	94901
+H St	Sanger	93657
+H St	Santa Margarita	93453
+H St	Sheridan	95681
+H St	Trona	93562
+H St	Turlock	95380
+H St	Union City	94587
+H St	Waterford	95386
+H St	Westmorland	92281
+H St	Williams	95987
+H St E	Chula Vista	91910
+H Street	City Of Marysville	95901
+H Street	Davis	95616
+H Street	Livingston	95334
+H Street	Los Banos	93635
+H Street	Marysville	95901
+H Street	Merced	95340
+H Street	Merced	95341
+H Street St	Brawley	92227
+H Way	Westmorland	92281
+H York Rd	Bards	92222

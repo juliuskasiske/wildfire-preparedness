@@ -1,0 +1,29 @@
+S 7Th	El Centro	92243
+S 7Th	Kerman	93630
+S 7Th Ave	Barstow	92311
+S 7Th Ave	El Centro	92243
+S 7Th Ave	Oroville	95965
+S 7Th Pl	Calimesa	92320
+S 7Th Rd	El Centro	92243
+S 7Th St	Blythe	92225
+S 7Th St	Burbank	91501
+S 7Th St	Calimesa	92320
+S 7Th St	Chowchilla	93610
+S 7Th St	Colton	92324
+S 7Th St	El Centro	92243
+S 7Th St	Fowler	93625
+S 7Th St	Grover Beach	93433
+S 7Th St	Kerman	93630
+S 7Th St	Modesto	95350
+S 7Th St	Modesto	95351
+S 7Th St	Patterson	95363
+S 7Th St	Perris	92570
+S 7Th St	Richmond	94804
+S 7Th St	San Jose	95110
+S 7Th St	San Jose	95112
+S 7Th St	Shandon	93461
+S 7Th St  690 W Brig	El Centro	92243
+S 7Th St  704 W Oliv Ave	El Centro	92243
+S 7Th St  704 W Stat St	El Centro	92243
+S 7Th St  707 713 719 725 St	El Centro	92243
+S 7Th Street	King City	93930

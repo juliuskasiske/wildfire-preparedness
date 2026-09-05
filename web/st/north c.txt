@@ -1,0 +1,531 @@
+North C Street	Exeter	93221
+North C Street	Mount Shasta	96067
+North C Street	Tulare	93274
+North Cabernet Drive	Covina	91723
+North Cabot Street	Los Angeles	90031
+North Cabrillo Avenue	San Pedro	90731
+North Cabrini Drive	Burbank	91504
+North Cachalote Street	Woodland Hills	91364
+North Cactus Avenue	Chatsworth	91311
+North Cadence Way	Los Angeles	90031
+North Cahuenga Boulevard	Los Angeles	90004
+North Cahuenga Boulevard	Los Angeles	90028
+North Cahuenga Boulevard	Los Angeles	90038
+North Cahuenga Boulevard	Los Angeles	90068
+North Cahuenga Boulevard	North Hollywood	91601
+North Cahuenga Boulevard	North Hollywood	91602
+North Cahuenga Boulevard	North Hollywood	91606
+North Cain Court	Visalia	93292
+North Cain Street	Visalia	93292
+North Calatrana Drive	Woodland Hills	91364
+North Calaveras Drive	Walnut	91789
+North Calderon Road	Woodland Hills	91364
+North Calera Avenue	Azusa	91702
+North Calera Avenue	Covina	91722
+North Calera Avenue	Glendora	91741
+North Calhoun Avenue	Van Nuys	91401
+North Calhoun Avenue	Van Nuys	91405
+North Caliburn Drive	Los Angeles	90002
+North California Avenue	La Puente	91744
+North California Court	Tulare	93274
+North California Street	Burbank	91504
+North California Street	Burbank	91505
+North California Street	Dorris	96023
+North California Street	San Gabriel	91775
+North California Street	Tulare	93274
+North Calle Cerrito	Canyon Country	91351
+North Calle Eva Miranda	Irwindale	91702
+North Callison Road	Tipton	93272
+North Calmgrove Avenue	Covina	91724
+North Calvados Avenue	Azusa	91702
+North Calvados Avenue	Covina	91722
+North Calvados Avenue	Covina	91723
+North Calvin Avenue	Tarzana	91356
+North Cambridge Avenue	Castaic	91384
+North Cambridge Avenue	Claremont	91711
+North Cambridge Avenue	Lindsay	93247
+North Cambridge Circle	Tulare	93274
+North Camden Drive	Beverly Hills	90210
+North Camelia Avenue	Farmersville	93223
+North Camelot Street	Porterville	93257
+North Camelot Way	Los Angeles	90002
+North Camelot Way	Porterville	93257
+North Camino Alto	Vallejo	94589
+North Camino Alto	Vallejo	94590
+North Camino De La Cumbre	Sherman Oaks	91423
+North Camino De Solana	Sherman Oaks	91423
+North Camino Palmero	Los Angeles	90046
+North Camino Real	Carmel-By-The-Sea	93921
+North Camino Real Avenue	Arcadia	91007
+North Campbell Avenue	Alhambra	91801
+North Campbell Street	Tulare	93274
+North Campo Drive	Long Beach	90803
+North Campo Road	Woodland Hills	91364
+North Campus Way	Davis	95616
+North Canal St	South San Francisco	94080
+North Canary Drive	Visalia	93291
+North Canary Way	Los Angeles	90065
+North Canby Avenue	Northridge	91325
+North Canby Avenue	Reseda	91335
+North Canby Street	Tulare	93274
+North Canoga Avenue	Canoga Park	91303
+North Canoga Avenue	Canoga Park	91304
+North Canoga Avenue	Chatsworth	91311
+North Canoga Avenue	Woodland Hills	91364
+North Canoga Avenue	Woodland Hills	91367
+North Canoga Drive	Woodland Hills	91364
+North Canon Avenue	Sierra Madre	91024
+North Canon Drive	Beverly Hills	90210
+North Canter Lane	Sun Valley	91352
+North Canterbury Avenue	Pacoima	91331
+North Canterbury Avenue	Sun Valley	91352
+North Canyada Avenue	Altadena	91001
+North Canyon Boulevard	Monrovia	91016
+North Canyon Dr	Ceres	95351
+North Canyon Drive	Los Angeles	90028
+North Canyon Drive	Los Angeles	90068
+North Canyon Heights Drive	Azusa	91702
+North Canyon Road	Nevada City	95959
+North Canyon View Drive	Los Angeles	90049
+North Cape Cod Lane	Reseda	91335
+North Capistrano Avenue	Canoga Park	91304
+North Capistrano Avenue	West Hills	91307
+North Capitola Court	Porterville	93257
+North Capitola Street	Porterville	93257
+North Capitola Way	Porterville	93257
+North Capri Drive	Pacific Palisades	90272
+North Capron Avenue	West Covina	91792
+North Carabela Court	Porter Ranch	91326
+North Caravana Road	Woodland Hills	91364
+North Cardamine Court	Tujunga	91042
+North Cardamine Drive	Tujunga	91042
+North Cardamine Place	Tujunga	91042
+North Cardinal Street	Los Angeles	90012
+North Carl Court	Visalia	93291
+North Carl Drive	Visalia	93291
+North Carl Place	Pacoima	91331
+North Carl Street	Pacoima	91331
+North Carlota Boulevard	Los Angeles	90031
+North Carlyle Street	Los Angeles	90065
+North Carman Crest Drive	Los Angeles	90068
+North Carmel Street	Los Angeles	90065
+North Carmelina Avenue	Los Angeles	90049
+North Carmelita Avenue	Los Angeles	90063
+North Carmelita Street	Porterville	93257
+North Carmelita Way	Porterville	93257
+North Carmelo Avenue	Pasadena	91107
+North Carmen Avenue	Los Angeles	90068
+North Carob Drive	Los Angeles	90046
+North Carol Street	La Habra	90631
+North Caroline Avenue	West Covina	91791
+North Carolwood Drive	Los Angeles	90077
+North Carondelet Street	Los Angeles	90026
+North Carpenter Street	La Habra	90631
+North Carriage Lane	Walnut	91789
+North Carrilo Drive	San Fernando	91345
+North Carrizal Road	Woodland Hills	91364
+North Carson Court	Visalia	93291
+North Carson Road	Beverly Hills	90211
+North Carson Street	Visalia	93291
+North Cartwright Avenue	North Hollywood	91601
+North Cartwright Drive	Chatsworth	91311
+North Carvol Avenue	West Covina	91790
+North Carvol Drive	Covina	91722
+North Cary Avenue	Wilmington	90744
+North Casablanca Street	Visalia	93292
+North Casale Road	Pacific Palisades	90272
+North Casalero Drive	La Habra	90631
+North Casanova	Carmel-By-The-Sea	93921
+North Cascada Way	Los Angeles	90049
+North Cascade Way	Los Angeles	90003
+North Cascade Way	Los Angeles	90031
+North Case Avenue	North Hollywood	91601
+North Casiano Road	Los Angeles	90049
+North Casiano Road	Los Angeles	90077
+North Casitas Avenue	Altadena	91001
+North Cason Lane	Porterville	93257
+North Caspar Avenue	Los Angeles	90041
+North Cassil Place	Los Angeles	90028
+North Castilian Drive	Los Angeles	90068
+North Castle Rock Street	Woodlake	93286
+North Castlegate Avenue	Compton	90221
+North Castleview Avenue	Covina	91724
+North Castlewoods Place	Sherman Oaks	91403
+North Caswell Avenue	Pomona	91766
+North Caswell Avenue	Pomona	91767
+North Catalina Avenue	Pasadena	91104
+North Catalina Avenue	Pasadena	91106
+North Catalina Avenue	Redondo Beach	90277
+North Catalina Street	Burbank	91504
+North Catalina Street	Burbank	91505
+North Catalina Street	Los Angeles	90004
+North Catalina Street	Los Angeles	90027
+North Catalonia Avenue	Pacific Palisades	90272
+North Cataract Avenue	San Dimas	91773
+North Cathwell Lane	Tujunga	91042
+North Cato Court	Visalia	93292
+North Cavanagh Circle	Los Angeles	90032
+North Cazador Drive	Los Angeles	90065
+North Cazador Street	Los Angeles	90065
+North Cecina Way	Los Angeles	90077
+North Cedar Avenue	Inglewood	90301
+North Cedar Avenue	Long Beach	90802
+North Cedar Avenue	Long Beach	90813
+North Cedar Court	Visalia	93292
+North Cedar Drive	Covina	91723
+North Cedar Lane	Dinuba	93618
+North Cedar Ln	Pine Grove	95665
+North Cedar Road	Van Nuys	91405
+North Cedar Street	Glendale	91206
+North Cedar Street	Glendale	91207
+North Cedar Street	Inglewood	90302
+North Cedar Street	Pixley	93256
+North Cedon Drive	La Puente	91744
+North Cedros Avenue	Panorama City	91402
+North Cedros Avenue	Sherman Oaks	91403
+North Cedros Avenue	Van Nuys	91405
+North Cedros Avenue	Van Nuys	91411
+North Center Street	Clarksburg	95612
+North Center Street	Los Angeles	90012
+North Central Ave	Campbell	95008
+North Central Avenue	Compton	90220
+North Central Avenue	Compton	90222
+North Central Avenue	Glendale	91202
+North Central Avenue	Glendale	91203
+North Central Avenue	Glendale	91204
+North Central Avenue	Glendale	91206
+North Central Avenue	Hilmar	95324
+North Central Avenue	Los Angeles	90012
+North Central Avenue	Los Angeles	90059
+North Central Court	Visalia	93291
+North Central Street	Visalia	93291
+North Centre City Pkwy	Escondido	92026
+North Centre Street	San Pedro	90731
+North Century Street	Visalia	93291
+North Cerrillos Drive	Woodland Hills	91364
+North Cerritos Avenue	Azusa	91702
+North Cervera Avenue	Wilmington	90744
+North Chablis Court	Visalia	93291
+North Chadwick Circle	Los Angeles	90032
+North Chadwick Drive	Los Angeles	90032
+North Chalburn Avenue	West Covina	91790
+North Chandler Avenue	Monterey Park	91754
+North Chantry Drive	La Habra	90631
+North Chapel Avenue	Alhambra	91801
+North Chapman Street	West Covina	91790
+North Charlemagne Avenue	Long Beach	90808
+North Charlemagne Avenue	Long Beach	90815
+North Charles Street	Dinuba	93618
+North Charlotte Avenue	San Gabriel	91775
+North Charlotte Avenue	San Gabriel	91776
+North Charter Drive	Covina	91724
+North Charter Oak Court	Visalia	93292
+North Chastain Parkway	Pacific Palisades	90272
+North Chatlake Drive	Canoga Park	91304
+North Chatwin Avenue	Long Beach	90808
+North Chatwin Avenue	Long Beach	90815
+North Chaucer Street	Los Angeles	90031
+North Chaumont Road	Woodland Hills	91364
+North Chautauqua Boulevard	Pacific Palisades	90272
+North Chautauqua Boulevard	Santa Monica	90402
+North Cheesbrough'S Lane	Los Angeles	90063
+North Chelan Drive	Los Angeles	90046
+North Chelsea Lane	Porterville	93257
+North Chelsea Way	Porterville	93257
+North Cheremoya Avenue	Los Angeles	90068
+North Cheri Drive	La Habra	90631
+North Cherokee Avenue	Los Angeles	90004
+North Cherokee Avenue	Los Angeles	90028
+North Cherokee Avenue	Los Angeles	90038
+North Cherry Court	Tulare	93274
+North Cherry Creek Road	Grass Valley	95949
+North Cherry Lane	Van Nuys	91405
+North Cherry Street	Tulare	93274
+North Cheseboro Road	Palmdale	93552
+North Chester Avenue	Compton	90221
+North Chester Avenue	Inglewood	90302
+North Chester Avenue	Pasadena	91104
+North Chester Avenue	Pasadena	91106
+North Chestnut Avenue	Long Beach	90806
+North Chestnut Avenue	Long Beach	90807
+North Chestnut Avenue	Los Angeles	90042
+North Chestnut Lane	Van Nuys	91405
+North Chestnut Street	La Habra	90631
+North Chevy Chase Drive	Glendale	91206
+North Chianni Court	Visalia	93291
+North Chicago Street	Los Angeles	90033
+North Chimineas Avenue	Porter Ranch	91326
+North Chinowth Street	Visalia	93291
+North Chiquito Canyon Road	Castaic	91384
+North Chislehurst Drive	Los Angeles	90027
+North Chris Court	Porterville	93257
+North Christopher Drive	Porterville	93257
+North Church Court	Grass Valley	95945
+North Church Court	Visalia	93291
+North Church Lane	Los Angeles	90049
+North Church Road	Earlimart	93219
+North Church Sq	San Diego	92128
+North Church Street	Grass Valley	95945
+North Church Street	Visalia	93291
+North Churchill Way	Porter Ranch	91326
+North Cindy Court	Visalia	93291
+North Cindy Street	Visalia	93291
+North Circle Drive	La Habra	90631
+North Circle Drive	San Gabriel	91776
+North Circle Drive	Whittier	90601
+North Citrus Avenue	Azusa	91702
+North Citrus Avenue	Covina	91722
+North Citrus Avenue	Covina	91723
+North Citrus Avenue	Los Angeles	90028
+North Citrus Avenue	Los Angeles	90036
+North Citrus Avenue	Los Angeles	90038
+North Citrus Court	Visalia	93292
+North Citrus Drive	La Habra	90631
+North Citrus Hill Lane	La Habra	90631
+North Citrus Road	Earlimart	93219
+North Citrus Street	Visalia	93292
+North Citrus Street	West Covina	91791
+North Citrus Street	Woodlake	93286
+North City Dr	San Marcos	92078
+North City Pkwy	San Diego	92128
+North Clairton Place	Encino	91436
+North Clancy Court	Visalia	93291
+North Clancy Street	Visalia	93291
+North Claremont Avenue	Los Angeles	90027
+North Claremont Boulevard	Claremont	91711
+North Clark Court	Visalia	93292
+North Clark Drive	Beverly Hills	90211
+North Clark Drive	Los Angeles	90048
+North Clark Street	Visalia	93292
+North Clark Street	West Hollywood	90069
+North Clay Court	Visalia	93291
+North Clay Street	Visalia	93291
+North Claybeck Avenue	Burbank	91505
+North Claybeck Avenue	Sun Valley	91352
+North Clear Sky Way	Canoga Park	91304
+North Clear View Drive	Beverly Hills	90210
+North Cleon Avenue	North Hollywood	91601
+North Cleon Avenue	North Hollywood	91606
+North Cleveland Street	Los Angeles	90012
+North Cleveland Street	Woodland	95695
+North Cliff Drive	Los Angeles	90065
+North Cliffwood Avenue	Los Angeles	90049
+North Cliveden Avenue	Compton	90220
+North Cloud Dr	Paradise	95969
+North Cloverleaf Place	Porterville	93257
+North Cloverleaf Street	Porterville	93257
+North Clybourn Avenue	Burbank	91505
+North Clybourn Avenue	North Hollywood	91601
+North Clybourn Avenue	North Hollywood	91606
+North Clybourn Avenue	Sun Valley	91352
+North Clybourn Avenue	Sunland	91040
+North Clydebank Avenue	Azusa	91702
+North Clydebank Avenue	Covina	91722
+North Coast Village	Oceanside	92054
+North Cobb Street	Porterville	93257
+North Cobb Way	Porterville	93257
+North Cody Avenue	Planada	95365
+North Cody Road	Sherman Oaks	91403
+North Coffee Street	Merced	95341
+North Coil Avenue	Wilmington	90744
+North Colby Place	Porterville	93257
+North Coldwater Canyon Avenue	North Hollywood	91605
+North Coldwater Canyon Avenue	Studio City	91604
+North Coldwater Canyon Avenue	Van Nuys	91401
+North Coldwater Canyon Drive	Beverly Hills	90210
+North Cole Avenue	Los Angeles	90028
+North Cole Avenue	Los Angeles	90038
+North Cole Place	Los Angeles	90028
+North Cole Way	La Habra	90631
+North Colfax Avenue	North Hollywood	91601
+North Colfax Avenue	North Hollywood	91606
+North Colfax Street	La Habra	90631
+North College Avenue	Claremont	91711
+North College Circle	Long Beach	90815
+North College Place	Long Beach	90815
+North College Street	La Habra	90631
+North College Street	Woodland	95695
+North College View Avenue	Los Angeles	90041
+North College Way	Claremont	91711
+North Collett Avenue	Encino	91436
+North Collier Court	Los Angeles	90042
+North Colony Road	Davis	95616
+North Colony Way	Citrus Heights	95610
+North Colorado Place	Long Beach	90814
+North Colpien Road	Tulare	93274
+North Columbia Avenue	Claremont	91711
+North Columbiana Drive	San Dimas	91773
+North Columbus Avenue	Glendale	91202
+North Columbus Avenue	Glendale	91203
+North Columbus Avenue	Glendale	91204
+North Columbus Avenue	North Hills	91343
+North Columbus Avenue	Van Nuys	91405
+North Comercio Lane	Woodland Hills	91364
+North Commerce Avenue	Tujunga	91042
+North Commerce Center Drive	Valencia	91355
+North Commodore Street	Los Angeles	90032
+North Commonwealth Avenue	Los Angeles	90004
+North Commonwealth Avenue	Los Angeles	90027
+North Commonwealth Avenue	Los Angeles	90029
+North Como Circle	Woodland Hills	91367
+North Compton Avenue	Compton	90222
+North Comstock Court	Visalia	93292
+North Comstock Street	Visalia	93292
+North Conchita Way	Tarzana	91356
+North Concord Street	Los Angeles	90063
+North Concourse Avenue	Montebello	90640
+North Concourse Street	La Habra	90631
+North Coney Avenue	Azusa	91702
+North Coney Avenue	Covina	91722
+North Conley Street	Porterville	93257
+North Conlon Avenue	Covina	91722
+North Conlon Avenue	West Covina	91790
+North Connell Place	Los Angeles	90063
+North Conner Street	Porterville	93257
+North Consuelo Road	Woodland Hills	91364
+North Contour Lane	North Hollywood	91606
+North Conwell Avenue	Covina	91722
+North Conyer Street	Visalia	93291
+North Coolidge Avenue	Los Angeles	90039
+North Cooper Avenue	Los Angeles	90042
+North Cooper Place	Winnetka	91306
+North Coral Street	Los Angeles	90031
+North Corbin Avenue	Porter Ranch	91326
+North Corbin Avenue	Tarzana	91356
+North Corbina Lane	Panorama City	91402
+North Cordero Avenue	Tujunga	91042
+North Cordon Drive	Los Angeles	90063
+North Cordova Street	Alhambra	91801
+North Cordova Street	Burbank	91505
+North Cordova Walk	Long Beach	90803
+North Corinthian Walk	Long Beach	90803
+North Corlett Avenue	Los Angeles	90059
+North Cornell Road	Agoura Hills	91301
+North Cornwell Street	Los Angeles	90033
+North Corona Drive	Los Angeles	90032
+North Corona Drive	Porterville	93257
+North Coronado Street	Los Angeles	90026
+North Coronel Court	Walnut	91789
+North Corralitas Drive	Los Angeles	90039
+North Correa Way	Los Angeles	90049
+North Corteen Place	Valley Village	91607
+North Corterra Lane	Panorama City	91402
+North Corto Way	La Habra	90631
+North Cortona Court	Visalia	93291
+North Cortona Street	Visalia	93291
+North Costello Avenue	Sherman Oaks	91423
+North Cotta Court	Visalia	93292
+North Cotta Street	Visalia	93292
+North Cottage Place	Porterville	93257
+North Cottage Street	Porterville	93257
+North Cottage Street	Winton	95388
+North Cottontail Trail	Santa Clarita	91390
+North Cottonwood Avenue	Sunland	91040
+North Cottonwood Court	Visalia	93291
+North Cottonwood Street	Visalia	93291
+North Cottonwood Street	Woodland	95695
+North Country Club Drive	Long Beach	90807
+North Country Club Lane	Long Beach	90807
+North Country Club Road	Glendora	91741
+North Country Hollow Drive	Walnut	91789
+North Country Ridge Road	Calabasas	91302
+North Country Road	Grass Valley	95949
+North County Center Street	Visalia	93291
+North County Oak Road	Woodland Hills	91367
+North County Road 98	Woodland	95695
+North County Trail Lane	Merced	95341
+North Courage Way	Van Nuys	91405
+North Court Rd	Ukiah	 
+North Court Street	Visalia	93291
+North Courtland Road	Clarksburg	95612
+North Courtney Avenue	Los Angeles	90046
+North Cove Dr	Indian Wells	92210
+North Cove Dr	Sacramento	95833
+North Covina Lane	La Puente	91746
+North Coy Drive	Sherman Oaks	91423
+North Craig Allen Drive	Azusa	91702
+North Craig Avenue	Altadena	91001
+North Craig Avenue	Pasadena	91104
+North Craig Avenue	Pasadena	91107
+North Craig Drive	Los Angeles	90068
+North Crane Avenue	Compton	90221
+North Crane Boulevard	Los Angeles	90065
+North Craner Avenue	North Hollywood	91601
+North Cranley Avenue	Covina	91722
+North Crape Myrtle Drive	Azusa	91702
+North Crater Lane	Los Angeles	90077
+North Crawford Avenue	Altadena	91001
+North Crawford Avenue	Dinuba	93618
+North Crawford Avenue	June Lake	93529
+North Crebs Avenue	Reseda	91335
+North Crebs Avenue	Tarzana	91356
+North Creek Dr	San Jose	95139
+North Creek Lane	La Habra	90631
+North Creek Road	Los Banos	93635
+North Creek Trail	Topanga	90290
+North Creekhaven Rd	Auburn	95602
+North Creekside Drive	Los Banos	93635
+North Creekside Street	Visalia	93291
+North Creekview Place	Porterville	93257
+North Creekview Street	Porterville	93257
+North Crenshaw Court	Visalia	93291
+North Crenshaw Street	Visalia	93291
+North Crescent Ct	San Diego	92103
+North Crescent Drive	Beverly Hills	90210
+North Crescent Heights Boulevard	Los Angeles	90046
+North Crescent Heights Boulevard	Los Angeles	90048
+North Crescent Heights Boulevard	West Hollywood	90069
+North Crescent Ridge Dr	Fallbrook	92028
+North Crespi Avenue	Exeter	93221
+North Cressey Way	Winton	95388
+North Crest Ct	Menifee	92584
+North Crest Dr	Lake Elsinore	92530
+North Crest Drive	Long Beach	90807
+North Crest Ln	Vista	92083
+North Crest Rd	El Cajon	92021
+North Crest View Drive	Los Angeles	90046
+North Cresta Avenue	San Gabriel	91775
+North Cresthaven Drive	Los Angeles	90042
+North Creston Drive	Los Angeles	90068
+North Crestview Circle	Porterville	93257
+North Crestview Drive	Glendora	91741
+North Crestview Street	Porterville	93257
+North Crisler Street	West Hollywood	90069
+North Cristobal Avenue	Wilmington	90744
+North Croft Avenue	Los Angeles	90048
+North Croft Avenue	West Hollywood	90069
+North Crosby Lane	Los Angeles	90026
+North Cross Avenue	Los Angeles	90065
+North Crowe Court	Visalia	93291
+North Crowe Street	Visalia	93291
+North Crumal Court	Visalia	93292
+North Crumal Street	Visalia	93292
+North Crystal Court	Long Beach	90802
+North Crystal Lake Road	Valyermo	93563
+North Crystal Springs Drive	Los Angeles	90027
+North Ct	Belmont	94002
+North Ct	Corcoran	93212
+North Ct	Encinitas	92024
+North Ct	San Diego	92116
+North Ct	Sonora	95370
+North Cullen Avenue	Glendora	91741
+North Culver Avenue	Compton	90220
+North Culver Avenue	Compton	90222
+North Cummings Lane	Los Angeles	90027
+North Cummings Street	Los Angeles	90033
+North Current Way	Los Angeles	90031
+North Currier Street	Pomona	91768
+North Curson Avenue	Los Angeles	90036
+North Curson Avenue	Los Angeles	90046
+North Curtis Avenue	Alhambra	91801
+North Curtis Avenue	Covina	91723
+North Curtis Avenue	Long Beach	90805
+North Cushing Avenue	Wilmington	90744
+North Custer Avenue	Los Angeles	90012
+North Cv	Irvine	92604
+North Cynthia Avenue	Los Angeles	90065
+North Cyprean Drive	Los Angeles	90046
+North Cypress Avenue	Los Angeles	90065
+North Cypress Street	La Habra	90631
+North Cypress Street	Pomona	91768
+North Cypress Street	Woodlake	93286

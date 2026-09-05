@@ -1,0 +1,274 @@
+3Rd	Calexico	92231
+3Rd	Calipatria	92233
+3Rd	Carmel-By-The-Sea	93921
+3Rd	Davenport	95017
+3Rd	Desert Hot Springs	92240
+3Rd	Greenfield	93927
+3Rd	Holtville	92250
+3Rd	Palo Verde	92266
+3Rd	Santa Cruz	95060
+3Rd	Santa Cruz	95062
+3Rd	Winterhaven	92283
+3Rd Anita Drive	Los Angeles	90049
+3Rd Artillery Avenue	Seaside	93955
+3Rd Av	Blue Lake	95525
+3Rd Av	Westhaven	95570
+3Rd Ave	Blythe	92225
+3Rd Ave	Calexico	92231
+3Rd Ave	Chula Vista	91910
+3Rd Ave	Chula Vista	91911
+3Rd Ave	Clearlake	95422
+3Rd Ave	Colma	94014
+3Rd Ave	Crockett	94525
+3Rd Ave	Daly City	94014
+3Rd Ave	Elk Grove	95624
+3Rd Ave	Encinitas	92024
+3Rd Ave	Escondido	92025
+3Rd Ave	Imperial Beach	91932
+3Rd Ave	Isleton	95641
+3Rd Ave	Laguna Beach	92651
+3Rd Ave	Lake Elsinore	92532
+3Rd Ave	Lakeport	95453
+3Rd Ave	Mentone	92359
+3Rd Ave	Miramar	94019
+3Rd Ave	Murrieta	92562
+3Rd Ave	Napa	94558
+3Rd Ave	Newport Beach	92625
+3Rd Ave	Ocotillo	92259
+3Rd Ave	Oroville	95965
+3Rd Ave	Other	94063
+3Rd Ave	Pacheco	94553
+3Rd Ave	Pacifica	94044
+3Rd Ave	Pinole	94564
+3Rd Ave	Pleasant Hill	94523
+3Rd Ave	Redlands	92359
+3Rd Ave	Redlands	92374
+3Rd Ave	Redwood City	94063
+3Rd Ave	Sacramento	95817
+3Rd Ave	Sacramento	95818
+3Rd Ave	San Bruno	94066
+3Rd Ave	San Diego	92101
+3Rd Ave	San Diego	92103
+3Rd Ave	San Mateo	94402
+3Rd Ave	Sonoma	95476
+3Rd Ave	Victorville	92395
+3Rd Ave	Walnut Creek	94597
+3Rd Ave	Walnut Grove	95690
+3Rd Ave	Winterhaven	92283
+3Rd Avenue	Arcadia	91006
+3Rd Avenue	Carmel	93923
+3Rd Avenue	Gustine	95322
+3Rd Avenue	La Crescenta	91214
+3Rd Avenue	La Puente	91746
+3Rd Avenue	Los Angeles	90005
+3Rd Avenue	Los Angeles	90008
+3Rd Avenue	Los Angeles	90018
+3Rd Avenue	Los Angeles	90019
+3Rd Avenue	Los Angeles	90043
+3Rd Avenue	Lynwood	90262
+3Rd Avenue	Marina	93933
+3Rd Avenue	Merced	95340
+3Rd Avenue	Salinas	93955
+3Rd Avenue	Seaside	93955
+3Rd Avenue	Sutter	95982
+3Rd Avenue	Venice	90291
+3Rd Avenue	Weed	96094
+3Rd Court	Hermosa Beach	90254
+3Rd Ct	Hermosa Beach	90254
+3Rd Dr	Calexico	92231
+3Rd E St	Pittsburg	94565
+3Rd Helena Drive	Los Angeles	90049
+3Rd Ln	Big Bear City	92314
+3Rd Ln	South San Francisco	94080
+3Rd Pkwy	Sacramento	95823
+3Rd Pl	Escondido	92029
+3Rd Pl	Hanford	93230
+3Rd Place	Manhattan Beach	90266
+3Rd St	Arcata	95521
+3Rd St	Auburn	95603
+3Rd St	Bakersfield	93304
+3Rd St	Barstow	92311
+3Rd St	Beaumont	92223
+3Rd St	Berkeley	94710
+3Rd St	Big Bear City	92314
+3Rd St	Biggs	95917
+3Rd St	Bloomington	92316
+3Rd St	Bombay Beach	92257
+3Rd St	Borrego Springs	92004
+3Rd St	Brawley	92227
+3Rd St	Brentwood	94513
+3Rd St	Calexico	92231
+3Rd St	Calimesa	92320
+3Rd St	Calistoga	94515
+3Rd St	Camp Meeker	95419
+3Rd St	Campbell	95008-2003
+3Rd St	Cathedral City	92234
+3Rd St	Cayucos	93430
+3Rd St	Ceres	95307
+3Rd St	Coachella	92236
+3Rd St	Coalinga	93210
+3Rd St	Concord	94519
+3Rd St	Corona	92879
+3Rd St	Corona	92882
+3Rd St	Coronado	92118
+3Rd St	Creston	93432
+3Rd St	Daggett	92327
+3Rd St	Desert Hot Springs	92240
+3Rd St	El Centro	92243
+3Rd St	Empire	95319
+3Rd St	Empire	95357
+3Rd St	Encinitas	92024
+3Rd St	Eureka	95501
+3Rd St	Ferndale	95536
+3Rd St	Fields Landing	95503
+3Rd St	Fillmore	93015
+3Rd St	Fortuna	95540
+3Rd St	Fountain Valley	92708
+3Rd St	Galt	95632
+3Rd St	Gilroy	95020
+3Rd St	Guerneville	95446
+3Rd St	Havasu Lake	92363
+3Rd St	Hayward	94541
+3Rd St	Hermosa Beach	90254
+3Rd St	Highland	92346
+3Rd St	Highland	92410
+3Rd St	Hollister	95023
+3Rd St	Holtville	92250
+3Rd St	Hood	95639
+3Rd St	Hughson	95326
+3Rd St	Huntington Beach	92648
+3Rd St	Huntington Beach	92648-5110
+3Rd St	Huntington Beach	92648-5111
+3Rd St	Huntington Beach	92648-5112
+3Rd St	Huntington Beach	92648-5172 
+3Rd St	Huntington Beach	92648-5173 
+3Rd St	Huntington Beach	92648-5176 
+3Rd St	Huntington Beach	92648-5181 
+3Rd St	Huntington Beach	92648-5182 
+3Rd St	Huntington Beach	92648-8150
+3Rd St	Huntington Beach	92648-8180 
+3Rd St	Huron	93234
+3Rd St	Imperial Beach	91932
+3Rd St	Isleton	95641
+3Rd St	Julian	92036
+3Rd St	La Mesa	91941
+3Rd St	Ladera Ranch	92694
+3Rd St	Lafayette	94549
+3Rd St	Laguna Beach	92651
+3Rd St	Lake Elsinore	92530
+3Rd St	Lake Elsinore	92532
+3Rd St	Lincoln	95648
+3Rd St	Los Altos	94022
+3Rd St	Los Osos	93402
+3Rd St	Mariposa	95338
+3Rd St	Mcarthur	96056
+3Rd St	Mecca	92254
+3Rd St	Mendota	93640
+3Rd St	Menifee	92585
+3Rd St	Modesto	95351
+3Rd St	Montara	94037
+3Rd St	Montclair	91763
+3Rd St	Murrieta	92562
+3Rd St	Napa	94559
+3Rd St	Needles	92363
+3Rd St	Niland	92257
+3Rd St	Norco	92860
+3Rd St	Oakley	94561
+3Rd St	Occidental	95465
+3Rd St	Oceanside	92054
+3Rd St	Orange Cove	93646
+3Rd St	Oro Grande	92368
+3Rd St	Oroville	95965
+3Rd St	Parlier	93648
+3Rd St	Paso Robles	93446
+3Rd St	Perris	92570
+3Rd St	Ramona	92065
+3Rd St	Redlands	92374
+3Rd St	Represa	95630
+3Rd St	Represa	95671
+3Rd St	Richmond	94801
+3Rd St	Riverbank	95367
+3Rd St	Riverside	92501
+3Rd St	Riverside	92507
+3Rd St	Rodeo	94572
+3Rd St	Sacramento	95811
+3Rd St	Sacramento	95814
+3Rd St	Sacramento	95818
+3Rd St	San Bernardino	92410
+3Rd St	San Joaquin	93660
+3Rd St	San Jose	95112
+3Rd St	San Rafael	94901
+3Rd St	Sanger	93657
+3Rd St	Santa Rosa	95401
+3Rd St	Santa Rosa	95404
+3Rd St	Saratoga	95070
+3Rd St	Seal Beach	90740
+3Rd St	Selma	93662
+3Rd St	Shandon	93461
+3Rd St	Stratford	93266
+3Rd St	Susanville	96130
+3Rd St	Temecula	92590
+3Rd St	Templeton	93465
+3Rd St	Trona	93562
+3Rd St	Turlock	95380
+3Rd St	Union City	94587
+3Rd St	Victorville	92392
+3Rd St	Victorville	92395
+3Rd St	Westley	95387
+3Rd St	Windsor	95492
+3Rd St	Yucaipa	92399
+3Rd St & 9587 Ave C St	Bombay Beach	92257
+3Rd St E	National City	91950
+3Rd St E	Sonoma	95476
+3Rd St & Orange	El Centro	92243
+3Rd St S	Joshua Tree	92252
+3Rd St W	Sonoma	95476
+3Rd Street	Acton	93510
+3Rd Street	Alhambra	91801
+3Rd Street	Avalon	90704
+3Rd Street	Azusa	91702
+3Rd Street	City Of Marysville	95901
+3Rd Street	Davis	95616
+3Rd Street	Downey	90241
+3Rd Street	Duarte	91010
+3Rd Street	Exeter	93221
+3Rd Street	Fairfield	94533
+3Rd Street	Gonzales	93926
+3Rd Street	Greenfield	93927
+3Rd Street	Gustine	95322
+3Rd Street	Hermosa Beach	90254
+3Rd Street	Irwindale	91706
+3Rd Street	Knights Landing	95645
+3Rd Street	La Verne	91750
+3Rd Street	Lindsay	93247
+3Rd Street	Long Beach	90814
+3Rd Street	Los Angeles	90008
+3Rd Street	Los Angeles	90017
+3Rd Street	Los Angeles	90022
+3Rd Street	Los Angeles	90033
+3Rd Street	Los Angeles	90048
+3Rd Street	Los Angeles	90063
+3Rd Street	Manhattan Beach	90266
+3Rd Street	Meridian	95957
+3Rd Street	Newhall	91321
+3Rd Street	Pacific Grove	93950
+3Rd Street	Paramount	90723
+3Rd Street	Pomona	91766
+3Rd Street	San Dimas	91773
+3Rd Street	San Fernando	91340
+3Rd Street	Santa Monica	90401
+3Rd Street	Santa Monica	90403
+3Rd Street	Santa Monica	90405
+3Rd Street	Soledad	93960
+3Rd Street	Spreckels	93908
+3Rd Street	Vallejo	94590
+3Rd Street	West Sacramento	95605
+3Rd Street	West Sacramento	95691
+3Rd Street	Winters	95694
+3Rd Street East	Lancaster	93535
+3Rd Street East	Palmdale	93550
+3Rd Street Promenade	Santa Monica	90401
+3Rd Street Promenade	Santa Monica	90404
+3Rd Street West	Palmdale	93551
+3Rd Trail	Sylmar	91342
+3Rd Way	Calexico	92231

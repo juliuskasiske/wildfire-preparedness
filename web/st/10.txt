@@ -1,0 +1,256 @@
+10 1/2 Ave	Hanford	93230
+10 1/2 Ave	Kingsburg	93242
+10 1/4 Ave	Hanford	93230
+10 St	Redlands	92374
+10 W 29 Tr	Upper Lake	95485
+10 W 32 Tr	Lake Pillsbury	95469
+10 W 37 Tr E	Lake Pillsbury	95469
+10 W 37 Tr W	Lake Pillsbury	95469
+10 W 38 Tr	Upper Lake	95485
+10 W 43 Tr	Lake Pillsbury	95469
+10 W 50 Tr	Lake Pillsbury	95469
+100 Berkeley St	Rio Dell	95562
+1005½ Oakland Av	Roseville	95678
+100Th Street	Los Angeles	90002
+100Th Street East	Lancaster	93535
+100Th Street East	Littlerock	93543
+100Th Street East	Palmdale	93591
+100Th Street West	Lancaster	93536
+101 Hwy	Aromas	95004
+101 Hwy	San Juan Bautista	95004
+101St Street	Los Angeles	90003
+101St Street	Los Angeles	90044
+101St Street East	Littlerock	93543
+101Th Street East	Littlerock	93543
+-102 Green St	Martinez	94553
+102 Tamarack	Herlong	96113
+1020½ Church St	Roseville	95678
+102Nd Street	Los Angeles	90003
+102Nd Street East	Littlerock	93543
+102Nd Street East	Palmdale	93591
+103½ Lincoln St	Roseville	95678
+103Rd Street East	Littlerock	93543
+103Rd Street West	Lancaster	93536
+104½ Columbia Av	Roseville	95678
+104Th Street	Los Angeles	90002
+104Th Street	Los Angeles	90003
+104Th Street	Los Angeles	90044
+104Th Street	Los Angeles	90045
+104Th Street	Los Angeles	90047
+104Th Street East	Littlerock	93543
+105½ D St	Roseville	95678
+105Th Street	Los Angeles	90002
+105Th Street	Los Angeles	90003
+105Th Street	Los Angeles	90044
+105Th Street	Los Angeles	90059
+105Th Street East	Lancaster	93535
+105Th Street East	Littlerock	93543
+105Th Street West	Lancaster	93536
+106½ B St	Roseville	95678
+106½ Vernon St	Roseville	95678
+106Th Street	Los Angeles	90002
+106Th Street	Los Angeles	90003
+106Th Street East	Littlerock	93543
+106Th Street East	Palmdale	93591
+106Th Street West	Lancaster	93536
+107Th Street	Los Angeles	90002
+107Th Street	Los Angeles	90003
+107Th Street East	Littlerock	93543
+107Th Street East	Palmdale	93591
+107Th Street West	Palmdale	93551
+-108 Green St	Martinez	94553
+108½ San Juan Av	Roseville	95678
+108Th Street	Inglewood	90303
+108Th Street	Lynwood	90262
+109½ B St	Roseville	95678
+109Th Place	Los Angeles	90059
+109Th Street	Los Angeles	90044
+109Th Street	Los Angeles	90059
+10Th	Calexico	92231
+10Th	Carmel-By-The-Sea	93921
+10Th	Greenfield	93927
+10Th	Mariposa	95338
+10Th	Santa Cruz	95062
+10Th Ave	Blythe	92225
+10Th Ave	Calexico	92231
+10Th Ave	Clearlake	95422
+10Th Ave	Escondido	92025
+10Th Ave	Hanford	93230
+10Th Ave	Kettleman City	93239
+10Th Ave	Kingsburg	93230
+10Th Ave	Kingsburg	93242
+10Th Ave	Kingsburg	93631
+10Th Ave	Laguna Beach	92651
+10Th Ave	Laton	93242
+10Th Ave	Menlo Park	94025
+10Th Ave	Oakdale	95361
+10Th Ave	Redwood City	94063
+10Th Ave	Sacramento	95817
+10Th Ave	Sacramento	95818
+10Th Ave	Sacramento	95820
+10Th Ave	San Diego	92101
+10Th Ave	San Diego	92103
+10Th Ave	San Francisco	94116
+10Th Ave	San Francisco	94118
+10Th Ave	San Francisco	94122
+10Th Ave	San Mateo	94401
+10Th Ave	San Mateo	94402
+10Th Ave	Stratford	93212
+10Th Avenue	Los Angeles	90008
+10Th Avenue	Los Angeles	90018
+10Th Avenue	Los Angeles	90043
+10Th Avenue	Merced	95340
+10Th Avenue	Monrovia	91016
+10Th Boulevard West	Lancaster	93534
+10Th Court	Hermosa Beach	90254
+10Th Court	Santa Monica	90403
+10Th Court	Santa Monica	90405
+10Th Ct	Hermosa Beach	90254
+10Th E St	Pittsburg	94565
+10Th Helena Drive	Los Angeles	90049
+10Th Hole Dr	Windsor	95492
+10Th Ln	Big Bear City	92314
+10Th Pl	Beaumont	92223
+10Th Place	Los Angeles	90015
+10Th Place	Manhattan Beach	90266
+10Th Place East	Palmdale	93550
+10Th Rd	Holtville	92250
+10Th St	Arcata	95521
+10Th St	Bakersfield	93304
+10Th St	Beaumont	92223
+10Th St	Berkeley	94710
+10Th St	Big Bear City	92314
+10Th St	Biggs	95917
+10Th St	Bloomington	92316
+10Th St	Blythe	92225
+10Th St	Borrego Springs	92004
+10Th St	Buena Park	90621
+10Th St	Calexico	92231
+10Th St	Cayucos	93430
+10Th St	Ceres	95307
+10Th St	Chino	91710
+10Th St	Corona	92879
+10Th St	Corona	92882
+10Th St	Coronado	92118
+10Th St	Del Mar	92014
+10Th St	Desert Hot Springs	92240
+10Th St	Elverta	95626
+10Th St	Eureka	95501
+10Th St	Fieldbrook	95519
+10Th St	Firebaugh	93622
+10Th St	Fortuna	95540
+10Th St	Hermosa Beach	90254
+10Th St	Highland	92346
+10Th St	Holtville	92250
+10Th St	Huntington Beach	90742
+10Th St	Huntington Beach	92646-4504
+10Th St	Huntington Beach	92648
+10Th St	Huntington Beach	92648-3400
+10Th St	Huntington Beach	92648-3403
+10Th St	Huntington Beach	92648-3405
+10Th St	Huntington Beach	92648-3406
+10Th St	Huntington Beach	92648-3459 
+10Th St	Huntington Beach	92648-4001
+10Th St	Huntington Beach	92648-4002
+10Th St	Huntington Beach	92648-4003
+10Th St	Huntington Beach	92648-4004
+10Th St	Huntington Beach	92648-4082 
+10Th St	Huntington Beach	92648-4096 
+10Th St	Huntington Beach	92648-4097 
+10Th St	Huntington Beach	92648-4501
+10Th St	Huntington Beach	92648-4502
+10Th St	Huntington Beach	92648-4503
+10Th St	Huntington Beach	92648-4504
+10Th St	Huntington Beach	92648-4534 
+10Th St	Huntington Beach	92648-4535 
+10Th St	Huntington Beach	92648-4536 
+10Th St	Huntington Beach	92648-4561 
+10Th St	Huntington Beach	92648-4570 
+10Th St	Huntington Beach	92648-4571 
+10Th St	Huntington Beach	92648-4800
+10Th St	Huntington Beach	92648-4801
+10Th St	Huntington Beach	92648-4802
+10Th St	Huntington Beach	92648-4803
+10Th St	Huntington Beach	92648-4804
+10Th St	Huntington Beach	92648-4831
+10Th St	Huntington Beach	92648-4835 
+10Th St	Huntington Beach	92648-4853
+10Th St	Huntington Beach	92648-4854
+10Th St	Huntington Beach	92648-4855
+10Th St	Huntington Beach	92648-4856
+10Th St	Huron	93234
+10Th St	Imperial	92251
+10Th St	Imperial Beach	91932
+10Th St	Keyes	95328
+10Th St	Lake Elsinore	92532
+10Th St	Los Osos	93402
+10Th St	Mariposa	95338
+10Th St	Mendota	93640
+10Th St	Modesto	95354
+10Th St	Montara	94037
+10Th St	National City	91950
+10Th St	Newport Beach	92661
+10Th St	Nuevo	92567
+10Th St	Orange Cove	93646
+10Th St	Oroville	95965
+10Th St	Other	94037
+10Th St	Paso Robles	93446
+10Th St	Perris	92570
+10Th St	Petaluma	94952
+10Th St	Ramona	92065
+10Th St	Redding	96001
+10Th St	Redlands	92374
+10Th St	Reedley	93654
+10Th St	Richmond	94801
+10Th St	Rio Linda	95673
+10Th St	Riverside	92501
+10Th St	Riverside	92507
+10Th St	Sacramento	95811
+10Th St	Sacramento	95814
+10Th St	Sacramento	95818
+10Th St	San Francisco	94103
+10Th St	San Miguel	93451
+10Th St	San Pablo	94806
+10Th St	Sanger	93657
+10Th St	Santa Rosa	95401
+10Th St	Seal Beach	90740
+10Th St	Sheridan	95681
+10Th St	Trona	93562
+10Th St	Twentynine Palms	92278
+10Th St	Union City	94587
+10Th St	Victorville	92395
+10Th St	Westminster	92683
+10Th St	Yucaipa	92399
+10Th St #A	Sheridan	95681
+10Th St St	Hermosa Beach	90254
+10Th Street	Azusa	91702
+10Th Street	City Of Marysville	95901
+10Th Street	Davis	95616
+10Th Street	Downey	90241
+10Th Street	Gonzales	93926
+10Th Street	Greenfield	93927
+10Th Street	Hermosa Beach	90254
+10Th Street	La Verne	91750
+10Th Street	Lancaster	93534
+10Th Street	Lancaster	93535
+10Th Street	Los Angeles	90019
+10Th Street	Los Angeles	90021
+10Th Street	Manhattan Beach	90266
+10Th Street	Marina	93933
+10Th Street	Pacific Grove	93950
+10Th Street	Palmdale	93551
+10Th Street	Pomona	91766
+10Th Street	Santa Monica	90401
+10Th Street	Santa Monica	90402
+10Th Street	Santa Monica	90403
+10Th Street	Santa Monica	90404
+10Th Street	Santa Monica	90405
+10Th Street	Vallejo	94592
+10Th Street	West Sacramento	95691
+10Th Street East	Lancaster	93535
+10Th Street East	Palmdale	93550
+10Th Street West	Lancaster	93534
+10Th Street West	Lancaster	93535
+10Th Street West	Littlerock	93543
+10Th Street West	Palmdale	93551
+10Th W St	Pittsburg	94565

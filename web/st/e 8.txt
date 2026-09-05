@@ -1,0 +1,21 @@
+E 80 Hwy	Holtville	92250
+E 8Th	Holtville	92250
+E 8Th Ave	Blythe	92225
+E 8Th Ave	Chico	95926
+E 8Th Ave	Holtville	92250
+E 8Th St	Antioch	94509
+E 8Th St	Bakersfield	93307
+E 8Th St	Beaumont	92223
+E 8Th St	Blythe	92225
+E 8Th St	Chico	95928
+E 8Th St	Corona	92879
+E 8Th St	Desert Hot Springs	92240
+E 8Th St	Gilroy	95020
+E 8Th St	Holtville	92250
+E 8Th St	Lincoln	95648
+E 8Th St	National City	91950
+E 8Th St	Perris	92570
+E 8Th St	Pittsburg	94565
+E 8Th St	Santa Ana	92701
+E 8Th St	Upland	91786
+E 8Th St  778 Orange Ave	Holtville	92250

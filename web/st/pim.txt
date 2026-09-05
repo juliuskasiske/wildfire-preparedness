@@ -1,0 +1,61 @@
+Pima	Watsonville	95076
+Pima Cir	Menifee	92584
+Pima Circle	Salinas	93906
+Pima Court	Vacaville	95688
+Pima Ct	Aguanga	92536
+Pima Ct	Apple Valley	92308
+Pima Ct	Big River	92242
+Pima Ct	Rancho Santa Margarita	92688
+Pima Ct	Riverside	92503
+Pima Dr	San Jose	95123
+Pima Ln	Ventura	93001
+Pima Rd	Apple Valley	92308
+Pima Rd	Indian Wells	92210
+Pima Trl	Julian	92036
+Pima Trl	Yucca Valley	92284
+Pima Way	Antelope	95843
+Pimenta Avenue	Bellflower	90706
+Pimenta Avenue	Lakewood	90712
+Pimenta Avenue	Paramount	90723
+Pimentel	Milpitas	95035
+Pimentel Cir	Milpitas	95035
+Pimentel Ct	Moraga	94556
+Pimentel Ct	Novato	94949
+Pimentel Dr	Denair	95316
+Pimentel Way	Sacramento	95831
+Pimento Ave	Sunnyvale	94087
+Pimento Dr	Brentwood	94513
+Pimienta Dr	Citrus Heights	95621
+Pimiento Ln	Montecito	93108
+Pimiento St	Jurupa Valley	92509
+Pimley Dr	Oakdale	95361
+Pimlico Ave	Sacramento	95841
+Pimlico Cir	Huntington Beach	92648
+Pimlico Cir	Huntington Beach	92648-1539
+Pimlico Corte	Rancho Santa Fe	92067
+Pimlico Court	Walnut Creek	94597
+Pimlico Ct	Bakersfield	93314
+Pimlico Ct	Lincoln	95648
+Pimlico Ct	Walnut Creek	94596
+Pimlico Ct	Walnut Creek	94597
+Pimlico Dr	Cypress	90630
+Pimlico Dr	Modesto	95350
+Pimlico Dr	Moorpark	93021
+Pimlico Dr	Mountain Center	92561
+Pimlico Dr	Walnut Creek	94597
+Pimlico Pl	Alpine	91901
+Pimlico Pl	Eastvale	92880
+Pimlico Rd	Apple Valley	92308
+Pimlico Rd	Mountain Center	92561
+Pimlico Rd	Westminster	92683
+Pimlico St	Yucca Valley	92284
+Pimlico Ter	Yorba Linda	92886
+Pimlico Way	Moreno Valley	92557
+Pimlico Way	Santa Rosa	95401
+Pimlott Ln	Mill Valley	94941
+Pimo St	Armona	93202
+Pimo St	Armona	93230
+Pimpernel Court	Vacaville	95687
+Pimpernel Ct	Roseville	95747
+Pimpernel Dr	San Diego	92129
+Pimpernel Way	San Diego	92129

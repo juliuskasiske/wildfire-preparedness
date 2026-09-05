@@ -1,0 +1,47 @@
+W 40Th Ave	San Mateo	94403
+W 40Th St	San Bernardino	92407
+W 41St St	San Bernardino	92407
+W 42Nd St	San Bernardino	92407
+W 43Rd St	San Bernardino	92407
+W 44Th Ave	San Mateo	94403
+W 44Th St	San Bernardino	92407
+W 45Th St	San Bernardino	92407
+W 46Th St	San Bernardino	92407
+W 47Th St	San Bernardino	92407
+W 48Th Ct	San Bernardino	92407
+W 48Th St	San Bernardino	92407
+W 49Th St	San Bernardino	92407
+W 4Th	Calexico	92231
+W 4Th	Holtville	92250
+W 4Th	Imperial	92251
+W 4Th Ave	Blythe	92225
+W 4Th Ave	Chico	95926
+W 4Th Ave	Escondido	92025
+W 4Th Ave	La Habra	90631
+W 4Th Ave	Niland	92257
+W 4Th Ave	San Mateo	94402
+W 4Th & N Mountain NE	Ontario	91762
+W 4Th St	Antioch	94509
+W 4Th St	Beaumont	92223
+W 4Th St	Chico	95928
+W 4Th St	Cloverdale	95425
+W 4Th St	Corona	92882
+W 4Th St	Desert Hot Springs	92240
+W 4Th St	Eureka	95501
+W 4Th St	Imperial	92251
+W 4Th St	Madera	93637
+W 4Th St	Madera	93638
+W 4Th St	Morgan Hill	95037
+W 4Th St	Niland	92257
+W 4Th St	Ontario	91762
+W 4Th St	Paso Robles	93446
+W 4Th St	Perris	92570
+W 4Th St	Pittsburg	94565
+W 4Th St	Rio Linda	95673
+W 4Th St	San Bernardino	92401
+W 4Th St	San Bernardino	92410
+W 4Th St	San Bernardino	92411
+W 4Th St	San Bernardino	92415
+W 4Th St	Santa Ana	92701
+W 4Th St	Santa Ana	92703
+W 4Th St 1/2	Madera	93637

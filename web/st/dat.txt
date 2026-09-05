@@ -1,0 +1,121 @@
+Dat-Naa-Svt Ssr1	Smith River	95567
+Data Dr	Rancho Cordova	95670
+Data Way	Oroville	95966
+Datcho Dr	San Diego	92117
+Date	Calipatria	92233
+Date	Murrieta	92562
+Date Av	Ventura	93004
+Date Ave	Barstow	92311
+Date Ave	Beaumont	92223
+Date Ave	Cabazon	92230
+Date Ave	Carlsbad	92008
+Date Ave	Chula Vista	91910
+Date Ave	Chula Vista	91911
+Date Ave	Coachella	92236
+Date Ave	Fontana	92336
+Date Ave	Imperial Bch	91932
+Date Ave	Imperial Beach	91932
+Date Ave	Indio	92201
+Date Ave	La Mesa	91941
+Date Ave	La Mesa	91942
+Date Ave	Rancho Cucamonga	91737
+Date Ave	Rialto	92377
+Date Ave	Sacramento	95841
+Date Ave	Sacramento	95842
+Date Ave	Ventura	93004
+Date Ave	Yucaipa	92399
+Date Avenue	Alhambra	91803
+Date Avenue	Lancaster	93534
+Date Avenue	Torrance	90503
+Date Avenue	Torrance	90505
+Date Blossom Ct	San Jose	95123
+Date Circle	Torrance	90505
+Date Court	Monrovia	91016
+Date Ct	Chula Vista	91911
+Date Ct	Fontana	92336
+Date Ct	Lake Elsinore	92530
+Date Ct	San Bernardino	92404
+Date Drive	Los Banos	93635
+Date Garden Dr	Thousand Palms	92276
+Date Ln	Escondido	92029
+Date Palm	Cathedral City	92234
+Date Palm	Indio	92201
+Date Palm	Lake Elsinore	92530
+Date Palm Ave	Indio	92201
+Date Palm Cir	Riverside	92503
+Date Palm Ct	Bakersfield	93308
+Date Palm Ct	Palm Desert	92260
+Date Palm Ct	San Jose	95133
+Date Palm Ct	Vista	92084
+Date Palm Dr	Carson	90746
+Date Palm Dr	Cathedral City	92234
+Date Palm Dr	La Quinta	92253
+Date Palm Drive	Carson	90746
+Date Palm Drive	Palmdale	93551
+Date Palm St	Mecca	92254
+Date Palm St	Winchester	92596
+Date Palm Trl	Palm Springs	92262
+Date Palm Way	Carmichael	95608
+Date Pl	San Bernardino	92404
+Date Pl	San Diego	92102
+Date Rd	Blythe	92225
+Date St	Bakersfield	93308
+Date St	Beaumont	92223
+Date St	Cabazon	92230
+Date St	Calipatria	92233
+Date St	Chula Vista	91911
+Date St	Coachella	92236
+Date St	Concord	94519
+Date St	Escondido	92025
+Date St	Fontana	92335
+Date St	Fontana	92336
+Date St	Fountain Valley	92708
+Date St	Garey	93454
+Date St	Hemet	92543
+Date St	Highland	92346
+Date St	Indio	92201
+Date St	Lake Elsinore	92530
+Date St	Martinez	94553
+Date St	Montara	94037
+Date St	Murrieta	92562
+Date St	Murrieta	92563
+Date St	Nuevo	92567
+Date St	Riverside	92507
+Date St	San Bernardino	92404
+Date St	San Diego	92101
+Date St	San Diego	92102
+Date St	Santa Maria	93454
+Date St	Spring Valley	91977
+Date St	Stanton	90680
+Date St	Temecula	92591
+Date St	Thermal	92274
+Date St	Vista	92083
+Date St	Yucaipa	92399
+Date St E	San Diego	92101
+Date Street	Live Oak	95953
+Date Street	Montebello	90640
+Date Tree Rd	Colton	92324
+Date Tree Street	Lake Hughes	93532
+Datenut St	Brentwood	94513
+Datepalm	Irvine	92618
+Datetree Drive	Lake Hughes	93532
+Datewood Court	Los Banos	93635
+Datewood Ln	Victorville	92395
+Dathe St	Spring Valley	91977
+Datil Ave	Menifee	92587
+Datil Dr	Menifee	92587
+Datil Rd	Thousand Palms	92276
+Datoro Ct	Sacramento	95833
+Datoro Dr	San Jose	95130
+Datsun St	San Diego	92154
+Dattier Ct	Rancho Cordova	95670
+Datura Ave	Hesperia	92345
+Datura Ave	Johnson Valley	92285
+Datura Ave	Landers	92285
+Datura Ave	Lucerne Valley	92356
+Datura Ave	Twentynine Palms	92277
+Datura Ct	Bakersfield	93306
+Datura Dr	Roseville	95747
+Datura Drive	Vacaville	95687
+Datura Ln	Apple Valley	92308
+Datura St	American Canyon	94503

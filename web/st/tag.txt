@@ -1,0 +1,21 @@
+Tag Ct	Nipomo	93444
+Tag Ln	Ramona	92065
+Tagart Dr	San Jose	95148
+Taggart Ct	Galt	95632
+Taggart Pl	Rancho Cucamonga	91739
+Taggart St	Oakdale	95361
+Taggert	Irvine	92603
+Taggert Ct	Ceres	95351
+Taggert Ct	Roseville	95678
+Taglio Ct	San Jose	95120
+Taglio Road	Gustine	95322
+Tagota Ct	Lakeside	92040
+Tagua Ct	Sacramento	95834
+Tagura Dr	Modesto	95355
+Tagus Ct	Portola Valley	94028
+Tagus Dr	Bakersfield	93311
+Tagus Road	Tulare	93274
+Tagus Road	Visalia	93277
+Tagus Street	Pico Rivera	90660
+Tagus Street	Whittier	90601
+Tagus Way	Elk Grove	95757

@@ -1,0 +1,9 @@
+85Th Ave	Thermal	92274
+85Th Place	Los Angeles	90045
+85Th Street	Los Angeles	90001
+85Th Street	Los Angeles	90044
+85Th Street	Los Angeles	90045
+85Th Street	Playa Del Rey	90293
+85Th Street East	Lancaster	93535
+85Th Street East	Littlerock	93543
+85Th Street West	Lancaster	93536

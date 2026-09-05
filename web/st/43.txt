@@ -1,0 +1,42 @@
+43Rd	Capitola	95010
+43Rd Ave	Clearlake	95422
+43Rd Ave	Indio	92201
+43Rd Ave	Sacramento	95822
+43Rd Ave	Sacramento	95824
+43Rd Ave	Sacramento	95828
+43Rd Ave	Sacramento	95829
+43Rd Ave	Sacramento	95831
+43Rd Ave	San Francisco	94116
+43Rd Ave	San Francisco	94121
+43Rd Ave	San Francisco	94122
+43Rd Ave	San Mateo	94403
+43Rd Place	Los Angeles	90008
+43Rd Place	Los Angeles	90011
+43Rd St	Bakersfield	93301
+43Rd St	Emeryville	94608
+43Rd St	Emeryville	94610
+43Rd St	Emeryville	94611
+43Rd St	Emeryville	94612
+43Rd St	Emeryville	94613
+43Rd St	Jurupa Valley	92509
+43Rd St	Mcclellan	95652
+43Rd St	Newport Beach	92663
+43Rd St	Richmond	94805
+43Rd St	Sacramento	95817
+43Rd St	Sacramento	95819
+43Rd St	Sacramento	95820
+43Rd St	Sacramento	95824
+43Rd St	San Diego	92102
+43Rd St	San Diego	92105
+43Rd St	San Diego	92113
+43Rd St	San Diego	92116
+43Rd St N	San Diego	92105
+43Rd Street	Los Angeles	90008
+43Rd Street	Los Angeles	90011
+43Rd Street	Los Angeles	90037
+43Rd Street	Los Angeles	90058
+43Rd Street	Manhattan Beach	90266
+43Rd Street East	Lancaster	93535
+43Rd Street East	Palmdale	93552
+43Rd Street West	Lancaster	93536
+43Rd Street West	Palmdale	93551

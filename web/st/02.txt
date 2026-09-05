@@ -1,0 +1,20 @@
+02107 Union Rd	Hollister	95023
+02Nd Ave	Chula Vista	91910
+02Nd Ave	Chula Vista	91911
+02Nd Ave	San Diego	92101
+02Nd Ave	San Diego	92103
+02Nd Ave	San Francisco	94118
+02Nd Ave	San Francisco	94122
+02Nd Oaks	Pauma Valley	92061
+02Nd Pl	Escondido	92029
+02Nd St	Coronado	92118
+02Nd St	El Cajon	92021
+02Nd St	Encinitas	92024
+02Nd St	Fallbrook	92028
+02Nd St	Imperial Beach	91932
+02Nd St	Julian	92036
+02Nd St	Lakeside	92040
+02Nd St	San Diego	92101
+02Nd St	San Francisco	94105
+02Nd St	San Francisco	94107
+02Nd St	Santee	92071

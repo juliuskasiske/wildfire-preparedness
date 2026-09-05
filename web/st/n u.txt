@@ -1,0 +1,22 @@
+N U Ave	National City	91950
+N U St	Fresno	93701
+N U St	Lompoc	93436
+N Ukiah Way	Upland	91784
+N Ukiah Way	Upland	91786
+N Umbria Pl	Mh	95391
+N Union Rd	Manteca	95336
+N Union Rd	Manteca	95337
+N Union Rd	Manteca	95366
+N Union Ridge Rd	Weaverville	96093
+N Union St	Hanford	93230
+N Union St	Stockton	95205
+N University Ave	Hanford	93230
+N University Ct	Visalia	93291
+N University Dr	Riverside	92507
+N University Pkwy	San Bernardino	92407
+N University Pkwy	San Bernardino	92411
+N University St	Redlands	92374
+N University St	Redlands	92674
+N University St	Visalia	93291
+N Upas St	Escondido	92025
+N Utah Av	Stockton	95204

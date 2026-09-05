@@ -111,6 +111,22 @@ input[type=text]:focus,input[type=email]:focus{
          padding:20px 18px;margin-bottom:14px;
          box-shadow:0 1px 2px rgba(22,19,15,.05),0 10px 30px rgba(22,19,15,.06)}
 .contact .hint{margin-bottom:9px}
+/* ---------- address suggestions ---------- */
+.ac{position:relative}
+.ac-list{
+  position:absolute;z-index:30;left:0;right:0;top:calc(100% + 5px);
+  margin:0;padding:5px;list-style:none;max-height:274px;overflow-y:auto;
+  background:var(--card);border:1.5px solid var(--rule);border-radius:11px;
+  box-shadow:0 6px 26px rgba(22,19,15,.16);
+}
+.ac-list[hidden]{display:none}
+.ac-list li{
+  padding:11px 12px;border-radius:8px;cursor:pointer;font-size:15.5px;line-height:1.3;
+}
+.ac-list li b{font-weight:700}
+.ac-list li span{display:block;color:var(--ink-faint);font-size:13.5px;margin-top:1px}
+.ac-list li[aria-selected="true"],.ac-list li:hover{background:#FCF3EF}
+.ac-note{padding:9px 12px;color:var(--ink-faint);font-size:13.5px}
 .fielderr{color:var(--ember-dark);font-size:14px;font-weight:600;margin:7px 0 0;display:none}
 .fielderr.on{display:block}
 .field-bad input{border-color:var(--ember);background:#FCF3EF}
@@ -318,9 +334,14 @@ dialog::backdrop{background:rgba(22,19,15,.55)}
         <div class="contact">
           <div class="field-group">
             <label class="field" for="address">Your property address</label>
-            <p class="hint">Street number, street, city and ZIP. California only for now.</p>
-            <input type="text" id="address" name="address" autocomplete="street-address"
-                   placeholder="815 El Medio Ave, Pacific Palisades, CA 90272">
+            <p class="hint">Type your house number and street, then pick it from the list. California only for now.</p>
+            <div class="ac">
+              <input type="text" id="address" name="address" autocomplete="off"
+                     role="combobox" aria-expanded="false" aria-autocomplete="list"
+                     aria-controls="acList"
+                     placeholder="Start typing, e.g. 815 El Medio">
+              <ul class="ac-list" id="acList" role="listbox" aria-label="Address suggestions" hidden></ul>
+            </div>
             <p class="fielderr" id="addressErr"></p>
           </div>
           <div class="field-group" style="margin-bottom:0">
@@ -903,8 +924,153 @@ document.querySelectorAll('.scale label').forEach(l=>{
   });
 });
 
+/* ---------------------------------------------------------------------------
+   Address suggestions.
+
+   Served from web/st/, built by tools/build_street_index.py out of the county
+   address points we already hold. 513,952 California streets, split into 2,676
+   static shards so a phone only ever downloads the one it needs, around 20 KB.
+
+   Static files rather than a lookup service, so nothing anyone types leaves
+   this site. That keeps the privacy notice true: Cloudflare and Gmail remain
+   the only recipients.
+
+   The user supplies their own house number, which is why the index only holds
+   streets. 513,952 rows is 15 MB; all 18.9M individual addresses would be 670.
+--------------------------------------------------------------------------- */
+const AC = {
+  manifest: null,
+  shards: new Map(),          // key -> array of [street, city, zip]
+  items: [],
+  active: -1,
+  seq: 0,
+};
+
+const addressEl = document.getElementById('address');
+const acList    = document.getElementById('acList');
+
+const acNorm = (t) => t.toLowerCase().replace(/[^a-z0-9 ]/g,' ').replace(/\s+/g,' ').trim();
+
+/** Split "815 el medio" into its house number and the street part. */
+function acSplit(raw){
+  const t = raw.replace(/\s+/g,' ').trimStart();
+  const m = t.match(/^(\d{1,6}[A-Za-z]?)\s+(.*)$/);
+  return m ? { num:m[1], q:acNorm(m[2]) } : { num:null, q:acNorm(t) };
+}
+
+/** The longest shard key that prefixes the query. */
+function acShardKey(q){
+  if(!AC.manifest) return null;
+  for(let len=Math.min(q.length,10); len>=2; len--){
+    const k=q.slice(0,len);
+    if(AC.manifest.has(k)) return k;
+  }
+  return null;
+}
+
+async function acLoad(key){
+  if(AC.shards.has(key)) return AC.shards.get(key);
+  const res = await fetch(`st/${encodeURIComponent(key)}.txt`);
+  if(!res.ok) throw new Error('shard '+key);
+  const rows = (await res.text()).split('\n').filter(Boolean).map(l=>l.split('\t'));
+  AC.shards.set(key, rows);
+  return rows;
+}
+
+function acRender(items, num){
+  AC.items = items; AC.active = -1;
+  if(!items.length){ acClose(); return; }
+  acList.innerHTML = items.map((r,i)=>{
+    const line = (num ? num+' ' : '') + r[0];
+    return `<li role="option" id="ac${i}" aria-selected="false" data-i="${i}">` +
+           `<b>${line.replace(/[<&]/g,c=>({'<':'&lt;','&':'&amp;'}[c]))}</b>` +
+           `<span>${r[1]}, CA ${r[2]}</span></li>`;
+  }).join('');
+  if(!num){
+    acList.insertAdjacentHTML('beforeend',
+      '<li class="ac-note" role="presentation">Pick one, then add your house number at the front.</li>');
+  }
+  acList.hidden = false;
+  addressEl.setAttribute('aria-expanded','true');
+}
+
+function acClose(){
+  acList.hidden = true; acList.innerHTML=''; AC.items=[]; AC.active=-1;
+  addressEl.setAttribute('aria-expanded','false');
+  addressEl.removeAttribute('aria-activedescendant');
+}
+
+function acHighlight(i){
+  [...acList.querySelectorAll('li[data-i]')].forEach(li=>li.setAttribute('aria-selected','false'));
+  AC.active = i;
+  if(i<0){ addressEl.removeAttribute('aria-activedescendant'); return; }
+  const li = acList.querySelector(`li[data-i="${i}"]`);
+  if(li){ li.setAttribute('aria-selected','true'); li.scrollIntoView({block:'nearest'});
+          addressEl.setAttribute('aria-activedescendant','ac'+i); }
+}
+
+function acChoose(i){
+  const r = AC.items[i]; if(!r) return;
+  const { num } = acSplit(addressEl.value);
+  addressEl.value = (num ? num+' ' : '') + `${r[0]}, ${r[1]}, CA ${r[2]}`;
+  acClose();
+  const parsed = parseAddress(addressEl.value);
+  if(parsed.ok) fieldClear('address','addressErr');
+  else { fieldFail('address','addressErr',parsed.why);
+         // No house number yet, so put the caret where it goes.
+         addressEl.focus(); addressEl.setSelectionRange(0,0); return; }
+  addressEl.focus();
+}
+
+let acTimer=null;
+async function acSearch(){
+  const { num, q } = acSplit(addressEl.value);
+  if(q.length < 2){ acClose(); return; }
+  const mine = ++AC.seq;
+  try{
+    if(!AC.manifest){
+      const res = await fetch('st/manifest.json');
+      if(!res.ok) return;                      // no index deployed, stay silent
+      AC.manifest = new Set(await res.json());
+    }
+    const key = acShardKey(q);
+    if(!key){ acClose(); return; }
+    const rows = await acLoad(key);
+    if(mine !== AC.seq) return;                // a later keystroke already won
+
+    // Prefix matches first, then anything containing the query. Same street in
+    // several cities is a real answer, so only exact triples are deduped.
+    const starts=[], has=[], seen=new Set();
+    for(const r of rows){
+      const n = acNorm(r[0]);
+      const where = n.startsWith(q) ? starts : (n.includes(q) ? has : null);
+      if(!where) continue;
+      const id = n+'|'+r[1]+'|'+r[2];
+      if(seen.has(id)) continue;
+      seen.add(id);
+      where.push(r);
+      if(starts.length >= 7) break;
+    }
+    acRender([...starts, ...has].slice(0,7), num);
+  }catch(e){ acClose(); }                      // suggestions are a convenience
+}
+
+addressEl.addEventListener('input',()=>{ clearTimeout(acTimer); acTimer=setTimeout(acSearch,130); });
+addressEl.addEventListener('focus',()=>{ if(addressEl.value.trim()) acSearch(); });
+acList.addEventListener('mousedown',e=>{           // before blur, or the list is gone
+  const li=e.target.closest('li[data-i]'); if(!li) return;
+  e.preventDefault(); acChoose(+li.dataset.i);
+});
+addressEl.addEventListener('keydown',e=>{
+  if(acList.hidden) return;
+  if(e.key==='ArrowDown'){ e.preventDefault(); acHighlight(Math.min(AC.active+1, AC.items.length-1)); }
+  else if(e.key==='ArrowUp'){ e.preventDefault(); acHighlight(Math.max(AC.active-1,-1)); }
+  else if(e.key==='Enter' && AC.active>=0){ e.preventDefault(); e.stopPropagation(); acChoose(AC.active); }
+  else if(e.key==='Escape'){ acClose(); }
+});
+document.addEventListener('click',e=>{ if(!e.target.closest('.ac')) acClose(); });
+
 /* Check the address as they leave the field, not only when they submit. */
-const addressEl=document.getElementById('address');
 addressEl.addEventListener('blur',()=>{
   if(!addressEl.value.trim()) return;
   const r=parseAddress(addressEl.value);

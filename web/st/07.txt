@@ -1,0 +1,13 @@
+07Th Ave	San Diego	92101
+07Th Ave	San Diego	92103
+07Th Ave	San Francisco	94118
+07Th Ave	San Francisco	94122
+07Th Pl	Escondido	92029
+07Th St	Chula Vista	91911
+07Th St	Coronado	92118
+07Th St	Del Mar	92014
+07Th St	Encinitas	92024
+07Th St	Imperial Beach	91932
+07Th St	Ramona	92065
+07Th St	San Francisco	94103
+07Th St	San Francisco	94107

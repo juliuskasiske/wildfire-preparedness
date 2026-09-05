@@ -1,0 +1,12 @@
+06Th Ave	San Diego	92101
+06Th Ave	San Diego	92103
+06Th Ave	San Francisco	94118
+06Th Ave	San Francisco	94122
+06Th Ext St	San Diego	92103
+06Th Pl	Escondido	92029
+06Th St	Coronado	92118
+06Th St	Del Mar	92014
+06Th St	Ramona	92065
+06Th St	San Francisco	94103
+06Th St	San Francisco	94107
+06Th Ti St	San Francisco	94130

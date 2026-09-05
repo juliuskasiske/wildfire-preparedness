@@ -1,0 +1,147 @@
+Aqua	Cathedral City	92234
+Aqua	Mission Viejo	92691
+Aqua Court	34	94583
+Aqua Cove	San Diego	92154
+Aqua Ct	Fontana	92337
+Aqua Ct	North Highlands	95660
+Aqua Ct	Oroville	95966
+Aqua Ct	Simi Valley	93063
+Aqua Del Caballete	San Clemente	92673
+Aqua Dr	Tahoe City	96145
+Aqua Dulce	Castroville	95012
+Aqua Hill Rd	Fallbrook	92028
+Aqua Ln	Oceanside	92056
+Aqua Ln	Ramona	92065
+Aqua Mansa	Aguanga	92536
+Aqua Mansa Rd	San Diego	92126
+Aqua Marine Ct	Elk Grove	95758
+Aqua Park Ct	San Diego	92154
+Aqua Park St	San Diego	92154
+Aqua Verde Circle	Los Angeles	90077
+Aqua Verde Ct	Camarillo	93012
+Aqua Verde Drive	Los Angeles	90077
+Aqua View	La Selva Bch	95076
+Aqua View	La Selva Beach	95076
+Aqua View Ct	Spring Valley	91977
+Aqua Vis	Orinda	94563
+Aqua Vista	Temecula	92590
+Aqua Vista Ct	Hayward	94542
+Aqua Vista Ct	Richmond	94805
+Aqua Vista Dr	San Rafael	94901
+Aqua Vista Drive	Rancho Palos Verdes	90275
+Aqua Vista Rd	Friant	93626
+Aqua Vista Rd	Richmond	94805
+Aqua Vista Road	Dos Palos	93620
+Aqua Vista Street	North Hollywood	91602
+Aqua Vista Street	Studio City	91604
+Aqua Vista Way	Temecula	92590
+Aqua Vista Wy	Kelseyville	95451
+Aqua Way	Bre	92821
+Aquacate Rd	Corona	92883
+Aquado Way	Anderson	96007
+Aquaduct Rd	Bonsall	92003
+Aquaduct Rd	Needles	92363
+Aquaduct Rd	Phelan	92371
+Aquadulce Canyon Road	Santa Clarita	91390
+Aquafina Ct	Elk Grove	95624
+Aquajito Road	Carmel	93923
+Aquamarine	Indian Wells	92210
+Aquamarine	Mission Viejo	92691
+Aquamarine	Oceanside	92057
+Aquamarine Ave	Rancho Cucamonga	91701
+Aquamarine Ave	Ventura	93004
+Aquamarine Cir	Fountain Valley	92708
+Aquamarine Cir	Menifee	92584
+Aquamarine Ct	Chino Hills	91709
+Aquamarine Ct	Chula Vista	91913
+Aquamarine Ct	Hercules	94547
+Aquamarine Dr	Bakersfield	93306
+Aquamarine Drive	Vallejo	94591
+Aquamarine Ln	Corona	92882
+Aquamarine Peak Dr	Bakersfield	93313
+Aquamarine Rd	San Diego	92114
+Aquamarine St	Placentia	92870
+Aquamarine Way	Cypress	90630
+Aquamarine Way	Oceanside	92057
+Aquamarine Way	Redding	96003
+Aquanetta Cir	Palm Springs	92264
+Aquanetta Dr	Palm Springs	92264
+Aquapher Way	Sacramento	95831
+Aquarium Way	Long Beach	90802
+Aquarius	Irvine	92618
+Aquarius Ave	Elk Grove	95624
+Aquarius Avenue	Agoura Hills	91301
+Aquarius Cir	Riverside	92503
+Aquarius Circle	Palmdale	93552
+Aquarius Ct	Bakersfield	93309
+Aquarius Ct	Menifee	92584
+Aquarius Dr	Huntington Beach	92649
+Aquarius Dr	Huntington Beach	92649-2500
+Aquarius Dr	Huntington Beach	92649-2501
+Aquarius Dr	Huntington Beach	92649-2502
+Aquarius Dr	Huntington Beach	92649-2503
+Aquarius Dr	Huntington Beach	92649-2504
+Aquarius Dr	Huntington Beach	92649-2505
+Aquarius Dr	Huntington Beach	92649-2548
+Aquarius Dr	San Diego	92126
+Aquarius Ln	Foster City	94404
+Aquarius Rd	Hinkley	92347
+Aquarius Rd	Vandenberg Village	93436
+Aquarius St	Chula Vista	91915
+Aquarius St	Indio	92201
+Aquarius Street	Long Beach	90810
+Aquasanta	Tustin	92782
+Aquastone Ct	Bakersfield	93313
+Aquata St	Sacramento	95832
+Aquatic Ln	Huntington Beach	92646
+Aquatic Ln	Huntington Beach	92646-6601
+Aquatic Ln	Huntington Beach	92646-6602
+Aquatic Ln	Huntington Beach	92646-6603
+Aquatic Way	Hemet	92544
+Aquavista Way	San Francisco	94131
+Aqueduct Avenue	Encino	91436
+Aqueduct Avenue	Granada Hills	91344
+Aqueduct Avenue	North Hills	91343
+Aqueduct Avenue	Van Nuys	91406
+Aqueduct Cir	Pine Grove	95665
+Aqueduct Ct	Pla	92870
+Aqueduct Ct	Placentia	92870
+Aqueduct Ct	San Diego	92119
+Aqueduct Ct	Simi Valley	93065
+Aqueduct Dr	Cypress	90630
+Aqueduct Dr	Pla	92870
+Aqueduct Dr	Placentia	92870
+Aqueduct Grove Rd	Pine Grove	95665
+Aqueduct Ln	Chino Hills	91709
+Aqueduct Rd	Bonsall	92003
+Aqueduct Rd	Desert Center	92239
+Aqueduct Rd	Desert Hot Springs	92241
+Aqueduct Rd	Earp	92242
+Aqueduct Rd	Fallbrook	92028
+Aqueduct Rd	Pine Grove	95665
+Aqueduct Road	June Lake	93529
+Aqueduct Volcano Rd	Pine Grove	95665
+Aqueduct Way	Moreno Valley	92553
+Aqueduct Wy	Solvang	93463
+Aquifer Ln	Menifee	92585
+Aquila	Boulder Creek	95006
+Aquila	Irvine	92618
+Aquila Ave	Fullerton	92831
+Aquila Ct	Menifee	92586
+Aquila Ln	Alta	95701
+Aquila St	Indio	92203
+Aquila St	Moreno Valley	92551
+Aquila Way	Coto De Caza	92679
+Aquila Way	Eastvale	91752
+Aquila Way	Mira Loma	91752
+Aquilla Dr	Dana Point	92629
+Aquilla Dr	Lakeside	92040
+Aquilla Pl	Lakeside	92040
+Aquinas Avenue	Claremont	91711
+Aquinas Dr	San Rafael	94901
+Aquinnah Ln	Orcutt	93455
+Aquinnah Ln	Santa Maria	93455
+Aquino Cir	Corona	92879
+Aquino Dr	Sacramento	95833
+Aquino Way	Saratoga	95070
+Aquitaine Ct	San Diego	92130

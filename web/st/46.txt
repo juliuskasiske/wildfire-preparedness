@@ -1,0 +1,24 @@
+46Th	Capitola	95010
+46Th Ave	Indio	92201
+46Th Ave	Sacramento	95824
+46Th Ave	San Francisco	94116
+46Th Ave	San Francisco	94121
+46Th Ave	San Francisco	94122
+46Th St	Bakersfield	93301
+46Th St	Emeryville	94608
+46Th St	Jurupa Valley	92509
+46Th St	Mcclellan	95652
+46Th St	Newport Beach	92663
+46Th St	Richmond	94805
+46Th St	Sacramento	95819
+46Th St	Sacramento	95820
+46Th St	Sacramento	95823
+46Th St	San Diego	0
+46Th St	San Diego	92102
+46Th St	San Diego	92105
+46Th St	San Diego	92115
+46Th St N	San Diego	92115
+46Th Street	Los Angeles	90011
+46Th Street	Los Angeles	90043
+46Th Street East	Lancaster	93535
+46Th Street West	Lancaster	93536

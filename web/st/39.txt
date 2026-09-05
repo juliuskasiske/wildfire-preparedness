@@ -1,0 +1,25 @@
+39Th Ave	Clearlake	95422
+39Th Ave	Indio	92203
+39Th Ave	Rancho Mirage	92270
+39Th Ave	Sacramento	95822
+39Th Ave	Sacramento	95824
+39Th Ave	San Francisco	94116
+39Th Ave	San Francisco	94121
+39Th Ave	San Francisco	94122
+39Th Place	Long Beach	90803
+39Th St	Newport Beach	92663
+39Th St	Richmond	94805
+39Th St	Sacramento	95816
+39Th St	Sacramento	95817
+39Th St	Sacramento	95819
+39Th St	Sacramento	95820
+39Th St	Sacramento	95824
+39Th St	San Diego	92102
+39Th St	San Diego	92105
+39Th St	San Diego	92116
+39Th Street	Los Angeles	90008
+39Th Street	Los Angeles	90037
+39Th Street	Los Angeles	90062
+39Th Street	Manhattan Beach	90266
+39Th Street	San Pedro	90731
+39Th Street West	Lancaster	93536

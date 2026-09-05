@@ -1,0 +1,35 @@
+37Th	Santa Cruz	95062
+37Th Ave	Clearlake	95422
+37Th Ave	Indio	92203
+37Th Ave	Rancho Mirage	92270
+37Th Ave	Sacramento	95822
+37Th Ave	Sacramento	95824
+37Th Ave	San Francisco	94116
+37Th Ave	San Francisco	94121
+37Th Ave	San Francisco	94122
+37Th Ave	San Mateo	94403
+37Th Drive	Los Angeles	90007
+37Th Place	Los Angeles	90007
+37Th Place	Los Angeles	90018
+37Th Place	Los Angeles	90089
+37Th Place	Manhattan Beach	90266
+37Th St	Emeryville	94608
+37Th St	Jurupa Valley	92509
+37Th St	Newport Beach	92663
+37Th St	Richmond	94805
+37Th St	Sacramento	95816
+37Th St	Sacramento	95817
+37Th St	Sacramento	95820
+37Th St	Sacramento	95824
+37Th St	San Diego	92105
+37Th St	San Diego	92113
+37Th St	San Diego	92116
+37Th Street	Los Angeles	90007
+37Th Street	Los Angeles	90011
+37Th Street	Los Angeles	90018
+37Th Street	Los Angeles	90058
+37Th Street	Los Angeles	90089
+37Th Street	San Pedro	90731
+37Th Street East	Lancaster	93535
+37Th Street East	Palmdale	93550
+37Th Street West	Lancaster	93536

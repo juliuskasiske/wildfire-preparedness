@@ -1,0 +1,452 @@
+South S Street	Merced	95341
+South S Street	Tulare	93274
+South Sacramento Street	Tulare	93274
+South Sadler Avenue	Los Angeles	90022
+South Sage Place	Glendora	91741
+South Sagebrush Lane	Macdoel	96058
+South Saint Andrews Place	Gardena	90249
+South Saint Andrews Place	Los Angeles	90047
+South Saint John Avenue	Pasadena	91105
+South Saint Malo Street	West Covina	91790
+South Salamanca Court	La Habra	90631
+South Saldee Drive	Carson	90746
+South Salida Place	Tulare	93274
+South Sallee Court	Visalia	93277
+South Sallee Street	Visalia	93277
+South Sally Lee Avenue	Azusa	91702
+South Salmon Avenue	Long Beach	90810
+South Salome Street	Tulare	93274
+South Saltair Avenue	Los Angeles	90025
+South Saltair Avenue	Los Angeles	90049
+South Sampson Way	San Pedro	90731
+South San Angelo Avenue	La Puente	91746
+South San Antonio Avenue	Pomona	91766
+South San Antonio Avenue	Pomona	91767
+South San Antonio Drive	Covina	91723
+South San Antonio Street	Pomona	91766
+South San Carlos Court	San Dimas	91773
+South San Dimas Avenue	San Dimas	91773
+South San Dimas Canyon Road	La Verne	91750
+South San Dimas Canyon Road	San Dimas	91773
+South San Fernando Boulevard	Burbank	91502
+South San Fidel Avenue	La Puente	91746
+South San Gabriel Avenue	Azusa	91702
+South San Gabriel Boulevard	Pasadena	91107
+South San Gabriel Boulevard	San Gabriel	91775
+South San Gabriel Boulevard	San Gabriel	91776
+South San Gabriel Boulevard	San Marino	91108
+South San Gabriel Boulevard South	Pasadena	91107
+South San Joaquin Court	Visalia	93277
+South San Joaquin Drive	Visalia	93277
+South San Joaquin Street	Visalia	93277
+South San Jose Avenue	Covina	91723
+South San Jose Avenue	Paramount	90723
+South San Jose Drive	Glendora	91741
+South San Julian Street	Los Angeles	90013
+South San Julian Street	Los Angeles	90014
+South San Julian Street	Los Angeles	90015
+South San Marino Avenue	Pasadena	91107
+South San Marino Avenue	San Gabriel	91776
+South San Oaks Drive	San Dimas	91773
+South San Pedro Place	Los Angeles	90011
+South San Pedro Street	Carson	90746
+South San Pedro Street	Gardena	90248
+South San Pedro Street	Los Angeles	90003
+South San Pedro Street	Los Angeles	90011
+South San Pedro Street	Los Angeles	90012
+South San Pedro Street	Los Angeles	90013
+South San Pedro Street	Los Angeles	90014
+South San Pedro Street	Los Angeles	90015
+South San Pedro Street	Los Angeles	90061
+South San Rafael Avenue	Pasadena	91105
+South San Vicente Boulevard	Beverly Hills	90211
+South San Vicente Boulevard	Los Angeles	90048
+South Sandalwood Avenue	La Puente	91744
+South Sanders Court	La Habra	90631
+South Sandia Avenue	West Covina	91790
+South Sandlake Avenue	Carson	90746
+South Sandown Street	La Habra	90631
+South Sandsprings Drive	West Covina	91790
+South Sandy Hill Drive	West Covina	91791
+South Santa Anita Avenue	Arcadia	91006
+South Santa Anita Avenue	Arcadia	91007
+South Santa Anita Avenue	Pasadena	91107
+South Santa Anita Avenue	San Gabriel	91775
+South Santa Anita Avenue	San Marino	91108
+South Santa Anita Street	San Gabriel	91776
+South Santa Clara Street	Los Angeles	90021
+South Santa Clara Street	Tulare	93274
+South Santa Fe Avenue	Compton	90221
+South Santa Fe Avenue	Glendora	91740
+South Santa Fe Avenue	Huntington Park	90255
+South Santa Fe Avenue	Le Grand	95333
+South Santa Fe Avenue	Long Beach	90810
+South Santa Fe Avenue	Los Angeles	90012
+South Santa Fe Avenue	Los Angeles	90013
+South Santa Fe Avenue	Los Angeles	90021
+South Santa Fe Avenue	Los Angeles	90058
+South Santa Fe Avenue	Lynwood	90262
+South Santa Fe Street	Visalia	93277
+South Santa Fe Street	Visalia	93291
+South Santa Fe Street	Visalia	93292
+South Santa Monica Boulevard	Beverly Hills	90210
+South Santa Monica Boulevard	Beverly Hills	90212
+South Santana Avenue	Cerritos	90703
+South Santee Street	Los Angeles	90014
+South Santee Street	Los Angeles	90015
+South Saran Drive	Playa Del Rey	90293
+South Saratoga Street	Los Angeles	90033
+South Sarazen Court	La Habra	90631
+South Sargent Court	Los Angeles	90026
+South Savannah Court	Visalia	93277
+South Savannah Street	Los Angeles	90033
+South Savannah Street	Visalia	93277
+South Savarona Way	Carson	90746
+South Sawgrass Court	La Habra	90631
+South Sawtelle Boulevard	Culver City	90230
+South Sawtelle Boulevard	Los Angeles	90025
+South Sawtelle Boulevard	Los Angeles	90064
+South Sawtelle Boulevard	Los Angeles	90066
+South Sazarac Lane	Rough And Ready	95975
+South Scarff Street	Los Angeles	90007
+South School St	Ukiah	 
+South School St	Ukiah	95482
+South School Street	Bridgeport	93517
+South School Street	Clarksburg	95612
+South School Street	Grass Valley	95945
+South School Street	Pixley	93256
+South Schoolwood Drive	La Habra	90631
+South Schultz Terrace	Porterville	93257
+South Schumacher Drive	Los Angeles	90048
+South Scobee Circle	San Pedro	90732
+South Scobey Avenue	Carson	90746
+South Scudder Court	Carson	90746
+South Seabluff Drive	Playa Vista	90094
+South Seaglass Circle	Playa Vista	90094
+South Seagrove Avenue	Carson	90745
+South Seaside Avenue	San Pedro	90731
+South Seaton Street	Los Angeles	90013
+South Seawalk Drive	Playa Vista	90094
+South Sebastian Court	Visalia	93277
+South Second Avenue	Arcadia	91006
+South Second Street	Alhambra	91801
+South Second Street	Dixon	95620
+South Second Street	Porterville	93257
+South Second Street	Rio Vista	94571
+South Sefton Avenue	Monterey Park	91755
+South Selwyn Avenue	Carson	90745
+South Senator Avenue	Harbor City	90710
+South Senford Avenue	Los Angeles	90056
+South Sentous Avenue	West Covina	91792
+South Sepulveda Boulevard	Culver City	90230
+South Sepulveda Boulevard	El Segundo	90245
+South Sepulveda Boulevard	Los Angeles	90025
+South Sepulveda Boulevard	Los Angeles	90034
+South Sepulveda Boulevard	Los Angeles	90045
+South Sepulveda Boulevard	Los Angeles	90049
+South Sepulveda Boulevard	Los Angeles	90064
+South Sepulveda Boulevard	Los Angeles	90066
+South Sepulveda Boulevard	Manhattan Beach	90266
+South Sepulveda Eastway	Los Angeles	90045
+South Sepulveda Westway	Los Angeles	90045
+South Sequoia Drive	Compton	90220
+South Serena Drive	West Covina	91791
+South Serenade Avenue	West Covina	91790
+South Serrano Avenue	Los Angeles	90004
+South Serrano Avenue	Los Angeles	90005
+South Serrano Avenue	Los Angeles	90006
+South Serrano Avenue	Los Angeles	90020
+South Serrano Avenue	Los Angeles	90027
+South Service Road	Brooks	95606
+South Seventh Street	Los Banos	93635
+South Severance Street	Los Angeles	90007
+South Seville Court	La Habra	90631
+South Shady Court	Visalia	93277
+South Shady Street	Visalia	93277
+South Shadydale Avenue	West Covina	91790
+South Shadyglen Drive	Covina	91724
+South Shamrock Avenue	Monrovia	91016
+South Sharonlee Drive	West Covina	91790
+South Shasta Avenue	Farmersville	93223
+South Shasta Ranch Road	Mount Shasta	96067
+South Shasta Street	West Covina	91791
+South Shatto Place	Los Angeles	90005
+South Shatto Place	Los Angeles	90020
+South Shearer Avenue	Carson	90745
+South Sheldon Street	Sun Valley	91352
+South Shell Avenue	Venice	90291
+South Shell Drive	Carson	90745
+South Shell Gulch Road	Etna	96027
+South Shell Gulch Spur	Etna	96027
+South Shellman Avenue	San Dimas	91773
+South Shelton Street	Burbank	91506
+South Shenandoah Street	Los Angeles	90034
+South Shenandoah Street	Los Angeles	90035
+South Shenandoah Street	Visalia	93277
+South Sherbourne Drive	Culver City	90232
+South Sherbourne Drive	Los Angeles	90034
+South Sherbourne Drive	Los Angeles	90035
+South Sherbourne Drive	Los Angeles	90048
+South Sherbourne Drive	Los Angeles	90056
+South Sherer Place	Compton	90220
+South Sheridan Court	Visalia	93292
+South Shipman Avenue	La Puente	91744
+South Shirk Road	Visalia	93277
+South Shirk Road	Visalia	93291
+South Shirk Street	Visalia	93277
+South Shore Dr	Fallbrook	92028
+South Shore Dr	French Gulch	96033
+South Shore Dr	Paso Robles	93446
+South Shore Dr	Solana Beach	92075
+South Shore Dr	Truckee	96161
+South Shore Drive	Truckee	96161
+South Shore Way	Plumas Lake	95961
+South Short Avenue	Dinuba	93618
+South Shoup Avenue	Hawthorne	90250
+South Siena Drive	San Pedro	90732
+South Sierra Bonita Avenue	Los Angeles	90019
+South Sierra Bonita Avenue	Los Angeles	90036
+South Sierra Bonita Avenue	Pasadena	91106
+South Sierra Drive	Compton	90220
+South Sierra Madre Boulevard	Pasadena	91107
+South Sierra Madre Boulevard	San Marino	91108
+South Sierra Street	Porterville	93257
+South Sierra Vista Avenue	Alhambra	91801
+South Sierra Vista Street	Monterey Park	91755
+South Sierra Vista Street	Porterville	93257
+South Siesta Avenue	La Puente	91746
+South Siesta Avenue	West Covina	91790
+South Signal Drive	Pomona	91766
+South Signal Street	San Pedro	90731
+South Silva Street	Tulare	93274
+South Silver Birch Place	West Covina	91790
+South Silver Maple Place	Porterville	93257
+South Silverspur Way	La Habra	90631
+South Silvervale Street	Visalia	93277
+South Simmons Avenue	Los Angeles	90022
+South Simms Avenue	Inglewood	90303
+South Simon Court	Visalia	93292
+South Simon Street	Visalia	93292
+South Sinclair Street	Bridgeport	93517
+South Sixth Street	Los Banos	93635
+South Sixth Street	Rio Vista	94571
+South Skylily Way	San Pedro	90732
+South Slater Avenue	Compton	90222
+South Slater Avenue	Los Angeles	90059
+South Slauson Avenue	Culver City	90230
+South Slauson Avenue	Los Angeles	90043
+South Sloan Avenue	Compton	90221
+South Slope Dr	Twentynine Palms	92277
+South Smith Court	La Habra	90631
+South Smith Road	Tipton	93272
+South Smithwood Drive	Los Angeles	90035
+South Smoke Tree Court	La Habra	90631
+South Smoke Tree Drive	La Habra	90631
+South Snyder Avenue	Dinuba	93618
+South Snyder Place	West Covina	91791
+South Soderberg Avenue	Glendora	91740
+South Sol Court	Visalia	93292
+South Sol Street	Visalia	93292
+South Somerset Drive	Los Angeles	90016
+South Somerset Ranch Road	Paramount	90723
+South Soto Street	Huntington Park	90255
+South Soto Street	Los Angeles	90023
+South Soto Street	Los Angeles	90033
+South Soto Street	Los Angeles	90058
+South Southwest Boulevard	Los Angeles	90044
+South Sowell Court	Visalia	93277
+South Sowell Street	Visalia	93277
+South Spalding Drive	Beverly Hills	90212
+South Spanish Oak Lane	La Puente	91746
+South Sparks Street	Burbank	91506
+South Sparrow Court	Playa Vista	90094
+South Spaulding Avenue	Los Angeles	90016
+South Spaulding Avenue	Los Angeles	90019
+South Spaulding Avenue	Los Angeles	90036
+South Spence Street	Los Angeles	90023
+South Spinning Avenue	Inglewood	90303
+South Sportsman Drive	Compton	90221
+South Spring Meadow Drive	West Covina	91791
+South Spring Meadow Lane	La Habra	90631
+South Spring Road	Earlimart	93219
+South Spring Street	Compton	90221
+South Spring Street	Gardena	90248
+South Spring Street	Los Angeles	90003
+South Spring Street	Los Angeles	90012
+South Spring Street	Los Angeles	90013
+South Spring Street	Los Angeles	90014
+South Spring Street	Los Angeles	90061
+South Springmeadow Drive	West Covina	91791
+South Springpark Avenue	Los Angeles	90056
+South Spruce Avenue	Lindsay	93247
+South Spruce Court	Visalia	93292
+South Spruce Road	Exeter	93221
+South Spruce Street	Montebello	90640
+South Spruce Street	Tulare	93274
+South Spruce Street	Visalia	93292
+South Spruce Way	La Habra	90631
+South Spyglass Hill Court	La Habra	90631
+South St	Anderson	96007
+South St	Bay Point	94565
+South St	Boulder Creek	95006
+South St	Cloverdale	95425
+South St	Daggett	92327
+South St	Fort Bragg	 
+South St	Hanford	93230
+South St	Healdsburg	95448
+South St	Hollister	95023
+South St	Homewood	96141
+South St	La Mesa	91942
+South St	Manteca	95337
+South St	Monte Rio	95462
+South St	Morro Bay	93442
+South St	Oakdale	95361
+South St	Perris	92571
+South St	Phelan	92371
+South St	Pinon Hills	92371
+South St	Pinon Hills	92372
+South St	Pittsburg	94565
+South St	Port Costa	94569
+South St	Raymond	93653
+South St	Redding	96001
+South St	Richmond	94804
+South St	San Luis Obispo	93401
+South St	San Martin	95046
+South St	Sausalito	94965
+South St	Susanville	96130
+South St	Twentynine Palms	92277
+South St	Ukiah	 
+South St	Willits	 
+South St Andrews Place	Los Angeles	90004
+South St Andrews Place	Los Angeles	90005
+South St Andrews Place	Los Angeles	90018
+South St Andrews Place	Los Angeles	90019
+South St Andrews Place	Los Angeles	90020
+South St Andrews Place	Los Angeles	90047
+South St Andrews Place	Los Angeles	90062
+South St James Park	Los Angeles	90007
+South St James Place	Los Angeles	90007
+South St John Avenue	Pasadena	91105
+South St Louis Street	Los Angeles	90023
+South St Louis Street	Los Angeles	90033
+South St Paul Avenue	Los Angeles	90017
+South St Vincent Court	Los Angeles	90014
+South Stadium Way	Los Angeles	90012
+South Stafford Court	Tulare	93274
+South Stanford Avenue	Compton	90220
+South Stanford Avenue	Lindsay	93247
+South Stanford Avenue	Los Angeles	90001
+South Stanford Avenue	Los Angeles	90002
+South Stanford Avenue	Los Angeles	90011
+South Stanford Avenue	Los Angeles	90013
+South Stanford Avenue	Los Angeles	90021
+South Stanford Avenue	Los Angeles	90059
+South Stanford Street	La Habra	90631
+South Stanley Avenue	Los Angeles	90019
+South Stanley Avenue	Los Angeles	90036
+South Stanley Drive	Beverly Hills	90211
+South Stanton Avenue	La Mirada	90638
+South Star Of India Lane	Carson	90746
+South Starcross Dr	Desert Hot Springs	92240
+South Starfall Drive	West Covina	91790
+South Stargaze Drive	West Covina	91790
+South Starglen Drive	Covina	91724
+South Starks Street	Porterville	93257
+South State Highway 113	Dixon	95620
+South State Highway 113	Vacaville	95687
+South State Highway 3	Callahan	96014
+South State Highway 3	Callahan	96027
+South State Highway 3	Etna	96014
+South State Highway 3	Etna	96027
+South State Highway 3	Etna	96032
+South State St	Ukiah	 
+South State Street	Earlimart	93219
+South State Street	Los Angeles	90033
+South Staunton Avenue	Los Angeles	90021
+South Staunton Avenue	Los Angeles	90058
+South Stearns Drive	Los Angeles	90035
+South Stefani Avenue	Cerritos	90703
+South Stephora Avenue	Glendora	91740
+South Sterling Ranch Road	Canoga Park	91304
+South Stevenson Court	Visalia	93277
+South Stevenson Street	Visalia	93277
+South Stevenson Street	Visalia	93291
+South Stewart Drive	Covina	91723
+South Stimson Avenue	Hacienda Heights	91745
+South Stimson Avenue	La Puente	91744
+South Stockbridge Avenue	Alhambra	91801
+South Stoneacre Avenue	Compton	90221
+South Stoneacre Street	Compton	90221
+South Stonehedge Lane	La Habra	90631
+South Stonehurst Lane	San Pedro	90732
+South Stoneman Avenue	Alhambra	91801
+South Stoner Avenue	Los Angeles	90025
+South Stoner Avenue	Los Angeles	90064
+South Stover Court	Visalia	93292
+South Stover Street	Visalia	93292
+South Strathmore Avenue	Lindsay	93247
+South Street	Artesia	90701
+South Street	Cerritos	90703
+South Street	Chualar	93925
+South Street	Dunsmuir	96025
+South Street	Glendale	91202
+South Street	Lakewood	90712
+South Street	Lakewood	90713
+South Street	Long Beach	90805
+South Street	Yreka	96097
+South Strong'S Drive	Venice	90291
+South Stulman Street	Gardena	90248
+South Sturbridge Drive	La Habra	90631
+South Success Avenue	Los Angeles	90002
+South Success Avenue	Los Angeles	90059
+South Sudbury Court	Carson	90746
+South Summerplace Drive	West Covina	91792
+South Summit Ridge Circle	Chatsworth	91311
+South Summit Street	Visalia	93292
+South Summit View Drive	Dunsmuir	96025
+South Sumter Court	Visalia	93292
+South Sun Street	Gustine	95322
+South Sunbury Street	Los Angeles	90015
+South Suncatcher Place	Playa Vista	90094
+South Suncrest Road	San Pedro	90732
+South Sundale Avenue	Hawthorne	90250
+South Sundance Street	Tulare	93274
+South Sunflower Avenue	Glendora	91740
+South Sunkist Avenue	West Covina	91790
+South Sunnybrook Lane	Whittier	90604
+South Sunnyside Avenue	Sierra Madre	91024
+South Sunnyslope Avenue	Pasadena	91107
+South Sunol Drive	Los Angeles	90023
+South Sunol Drive	Los Angeles	90063
+South Sunrise Drive	Monterey Park	91754
+South Sunset Avenue	Azusa	91702
+South Sunset Avenue	West Covina	91790
+South Sunset Boulevard	Arcadia	91007
+South Sunset Canyon Drive	Burbank	91501
+South Sunset Place	Monrovia	91016
+South Sunset Street	La Habra	90631
+South Sunset Street	Porterville	93257
+South Sunset Street	Tulare	93274
+South Sunset Street	Visalia	93291
+South Surf Ct	San Jose	95138
+South Susana Road	Compton	90221
+South Susana Road	Long Beach	90810
+South Susanna Avenue	West Covina	91790
+South Sutro Avenue	Los Angeles	90008
+South Swall Drive	Beverly Hills	90211
+South Swall Drive	Los Angeles	90035
+South Swall Drive	Los Angeles	90048
+South Sweet Brier Avenue	Lindsay	93247
+South Sweetwater Mesa Road	Malibu	90265
+South Sweetzer Avenue	Los Angeles	90048
+South Swift Avenue	Dos Palos	93620
+South Swigert Circle	San Pedro	90732
+South Sycamore Avenue	Claremont	91711
+South Sycamore Avenue	Los Angeles	90008
+South Sycamore Avenue	Los Angeles	90016
+South Sycamore Avenue	Los Angeles	90019
+South Sycamore Avenue	Los Angeles	90036
+South Sycamore Place	Inglewood	90301
+South Sydney Drive	Los Angeles	90022
+South Sydney Drive	Los Angeles	90040
+South Sylvester Road	Los Banos	93635

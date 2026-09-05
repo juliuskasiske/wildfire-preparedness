@@ -1,0 +1,185 @@
+Calle Pablo Neruda	Mecca	92254
+Calle Pacific	Carpinteria	93013
+Calle Pacifica	San Clemente	92673
+Calle Pacifico	Arroyo Grande	93420
+Calle Paisano	San Clemente	92673
+Calle Pajaros	San Dimas	91773
+Calle Palma	Tustin	92782
+Calle Palma Loma	Whittier	90604
+Calle Palmaloma	Whittier	90604
+Calle Palmas	Temecula	92591
+Calle Palmas St	Temecula	92591
+Calle Palmeto	La Quinta	92253
+Calle Palmito	Carlsbad	92009
+Calle Palo	Menifee	92586
+Calle Palo Colorado	Santa Barbara	93105
+Calle Palo Fiero	Palm Springs	92264
+Calle Palo Fierro	Palm Springs	92264
+Calle Paloma	Dana Point	92624
+Calle Paloma	La Quinta	92253
+Calle Paloma Ct	Granite Bay	95746
+Calle Paloma Loma	Whittier	90604
+Calle Palomino	Valencia	91354
+Calle Pamaro	Camarillo	93012
+Calle Pampas	Indio	92203
+Calle Pantano	Temecula	92591
+Calle Papagayo	Palm Springs	92262
+Calle Paracho	San Diego	92128
+Calle Parado	Santa Clarita	91390
+Calle Parador	Camarillo	93012
+Calle Paramo	Murrieta	92562
+Calle Parral	San Diego	92128
+Calle Parral	West Covina	91792
+Calle Pasado	Mission Hills	93436
+Calle Paseo	Novato	94949
+Calle Pasito	Hemet	92545
+Calle Passiflora	Rancho Santa Margarita	92688
+Calle Pastadero	San Clemente	92672
+Calle Patito	Templeton	93465
+Calle Patricia	Pacific Palisades	90272
+Calle Patricia	San Clemente	92672
+Calle Paul	Palm Springs	92264
+Calle Paula	Solana Beach	92075
+Calle Pavana	San Diego	92139
+Calle Pecos	Thousand Oaks	91360
+Calle Pedro Infante	Los Angeles	90063
+Calle Pelicano	San Clemente	92673
+Calle Pena Huerta	Temecula	92590
+Calle Pensamiento	Thousand Oaks	91360
+Calle Pensamientos	Encinitas	92024
+Calle Pepita Dr	Corona	92883
+Calle Pepita Rd	Corona	92883
+Calle Pequena	Rancho Santa Fe	92067
+Calle Pequeno	Lake Forest	92630
+Calle Pequeno	Lake Forest	92630-2031
+Calle Pequeno	Lake Forest	92630-2032
+Calle Pequeno	Lake Forest	92630-2033
+Calle Pequeno	Lake Forest	92630-2034
+Calle Pequeno	Lake Forest	92630-2630
+Calle Pequeno	Santa Maria	93454
+Calle Pera	Carlsbad	92009
+Calle Pera	Coachella	92236
+Calle Pera	Thousand Oaks	91360
+Calle Pera	Ybl	92886
+Calle Pera	Yorba Linda	92886
+Calle Perfecto	San Juan Capistrano	92675
+Calle Perico	San Diego	92129
+Calle Perla	Murrieta	92562
+Calle Perlino	San Clemente	92673
+Calle Pescador	San Clemente	92672
+Calle Pescar	Murrieta	92562
+Calle Petaluma	Thousand Oaks	91360
+Calle Petite Sarah	Sonoma	95476
+Calle Petula	San Dimas	91773
+Calle Petunia	Palm Springs	92262
+Calle Pico	Laguna Woods	92637
+Calle Pico Ct	Santa Ynez	93460
+Calle Piedras	Hemet	92544
+Calle Pilares	Chula Vista	91913
+Calle Pimento	Thousand Oaks	91360
+Calle Pimienta	Murrieta	92562
+Calle Pimiento	Thousand Oaks	91360
+Calle Pina Colada	Temecula	92591
+Calle Pinabete	Carlsbad	92009
+Calle Pinata	Moreno Valley	92551
+Calle Pinata	San Juan Capistrano	92675
+Calle Pinata	Thousand Oaks	91360
+Calle Pinata St	Moreno Valley	92551
+Calle Pino	Coachella	92236
+Calle Pino	Murrieta	92562
+Calle Pino	San Diego	92126
+Calle Pino	Thousand Oaks	91360
+Calle Pinon	Carlsbad	92009
+Calle Pinon	San Juan Capistrano	92675
+Calle Pinon	Santa Barbara	93105
+Calle Pinta St	Moreno Valley	92551
+Calle Pintada	San Jose	95111
+Calle Pintoresca	Temecula	92590
+Calle Pintoresco	San Clemente	92672
+Calle Pizano	Coachella	92236
+Calle Pizarro	Placentia	92870
+Calle Pl	Escondido	92027
+Calle Placido	Chula Vista	91913
+Calle Placido	La Quinta	92253
+Calle Plana	Santa Clarita	91390
+Calle Pland	Camarillo	93012
+Calle Plano	Camarillo	93012
+Calle Plantador	Thousand Oaks	91360
+Calle Plata	Carlsbad	92009
+Calle Plata	Valencia	91354
+Calle Platico	Oceanside	92056
+Calle Platino	Oceanside	92056
+Calle Playa	Laguna Niguel	92677
+Calle Pluma	San Clemente	92673
+Calle Plumerias	Encinitas	92024
+Calle Poco	El Cajon	92019
+Calle Poco	Temecula	92592
+Calle Poco Rd	Temecula	92592
+Calle Poderosa	Bakersfield	93309
+Calle Pollensa	Temecula	92592
+Calle Polvorosa	San Clemente	92673
+Calle Pomelo	Chula Vista	91913
+Calle Pompeii	Menifee	92584
+Calle Pompeii Dr	Menifee	92584
+Calle Pomperii	Menifee	92584
+Calle Ponca	Yucca Valley	92284
+Calle Poniente	Santa Barbara	93101
+Calle Ponte Bella	Rancho Santa Fe	92091
+Calle Popoca	Indio	92203
+Calle Portada	Camarillo	93010
+Calle Portilla	Camarillo	93010
+Calle Portillo	Temecula	92592
+Calle Porto	Murrieta	92563
+Calle Portofino	San Clemente	92673
+Calle Portola	Dana Point	92624
+Calle Portone	Rancho Santa Fe	92091
+Calle Portos	Mission Hills	93436
+Calle Portrero	La Quinta	92253
+Calle Posada	Carlsbad	92009
+Calle Posada	San Juan Capistrano	92675
+Calle Posadas	Thousand Oaks	91320
+Calle Positas	Jurupa Valley	91752
+Calle Post Avenue	San Dimas	91773
+Calle Potranca	San Clemente	92672
+Calle Potrero	La Quinta	92253
+Calle Potro	Murrieta	92563
+Calle Potro	San Clemente	92672
+Calle Potro Rd	Murrieta	92563
+Calle Pozo Verde	Santa Clarita	91390
+Calle Pradera	Lake Forest	92630
+Calle Pradera	Lake Forest	92630-2100
+Calle Pradera	Lake Forest	92630-2128
+Calle Prado	Cathedral City	92234
+Calle Presa	Murrieta	92562
+Calle Prima	Dana Point	92624
+Calle Prima	Moreno Valley	92557
+Calle Prima St	Moreno Valley	92557
+Calle Primavera	Chino Hills	91709
+Calle Primavera	San Clemente	92672
+Calle Primavera	San Dimas	91773
+Calle Primavera	Santa Clarita	91390
+Calle Primavera	Valencia	91354
+Calle Primera	Mission Hills	93436
+Calle Primera	San Ysidro	92173
+Calle Primera W	San Diego	92173
+Calle Primera W	San Ysidro	92173
+Calle Primero	San Ysidro	92173
+Calle Principal	Chico	95973
+Calle Principal	Monterey	93940
+Calle Privada	Bakersfield	93309
+Calle Privada	Rancho Santa Fe	92067
+Calle Promenade	Redondo Beach	90277
+Calle Propano	Paso Robles	93446
+Calle Prospero	La Quinta	92253
+Calle Prospero	San Clemente	92673
+Calle Prospero	San Marcos	92069
+Calle Puebla	West Covina	91792
+Calle Pueblito	San Diego	92128
+Calle Pueblo	Indio	92203
+Calle Pueblo	San Clemente	92672
+Calle Puente	San Clemente	92672
+Calle Puerta Bonit	Temecula	92592
+Calle Puerto Bonita	Temecula	92592
+Calle Puerto Vallarta	Santa Barbara	93103
+Calle Pulido	San Diego	92128
+Calle Punta	Thousand Oaks	91360

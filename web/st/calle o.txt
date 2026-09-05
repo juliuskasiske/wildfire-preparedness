@@ -1,0 +1,43 @@
+Calle Oaxaca	La Quinta	92253
+Calle Obispo	La Quinta	92253
+Calle Obsidiana	Chula Vista	91913
+Calle Ocaso	Coachella	92236
+Calle Ocaso	Lake Forest	92630
+Calle Ocaso	Lake Forest	92630-2239
+Calle Ocaso	Lake Forest	92630-2240
+Calle Ocho	Carpinteria	93013
+Calle Ocotillo	Redlands	92373
+Calle Odessa	Carlsbad	92009
+Calle Oeste	Cathedral City	92234
+Calle Oeste	Sonora	95370
+Calle Ola Verde	San Clemente	92673
+Calle Oliva	Carlsbad	92009
+Calle Olivera	Santa Clarita	91390
+Calle Olivia	Lake Forest	92630
+Calle Olivia	Lake Forest	92630-2151
+Calle Olivia	Lake Forest	92630-2154
+Calle Olivo	Coachella	92236
+Calle Olivo	Thousand Oaks	91360
+Calle Olmo	Thousand Oaks	91360
+Calle Onice	San Clemente	92673
+Calle Opalo	San Clemente	92673
+Calle Orense	La Quinta	92253
+Calle Orfila	Indio	92203
+Calle Oriente	Milpitas	95035
+Calle Orilla	Hemet	92544
+Calle Orinda	Camarillo	93010
+Calle Orinda	Murrieta	92562
+Calle Orizaba	La Quinta	92253
+Calle Oro Verde	Valley Center	92082
+Calle Oroblanco	Chula Vista	91913
+Calle Orovista	Camarillo	93012
+Calle Orquideas	Encinitas	92024
+Calle Ortega	Murrieta	92562
+Calle Ortega	San Dimas	91773
+Calle Osuna	Oceanside	92056
+Calle Otono	Chino Hills	91709
+Calle Otono	Lake Forest	92630
+Calle Otono	Lake Forest	92630-2605
+Calle Otono	Lake Forest	92630-2606
+Calle Ovieda	Ramona	92065
+Calle Oxton	Chula Vista	91913

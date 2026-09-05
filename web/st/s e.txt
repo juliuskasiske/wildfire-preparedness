@@ -1,0 +1,289 @@
+S E	Imperial	92251
+S E Dr	Imperial	92251
+S E Ln	Big Bear City	92314
+S E Rd	Imperial	92251
+S E St	Imperial	92251
+S E St	Lompoc	93436
+S E St	Madera	93638
+S E St	Oxnard	93030
+S E St	Oxnard	93033
+S E St	Porterville	93257
+S E St	San Bernardino	92401
+S E St	San Bernardino	92408
+S E St	San Bernardino	92415
+S E St	Santa Maria	93458
+S E St	Santa Rosa	95404
+S E St	Stockton	95205
+S E St	Waterford	95386
+S Eadington Ave	Fullerton	92833
+S Eagle Creek Pl	Ontario	91761
+S Eagle Dr	Big Bear Lake	92315
+S Eagle Nest Ln	Danville	94506
+S Eagles Point	Orange	92869
+S Eagles Pt	Orange	92869
+S Earlham St	Orange	92869
+S East Av	Santa Maria	93454
+S East Ave	Calipatria	92233
+S East Ave	Caruthers	93609
+S East Ave	Fresno	93702
+S East Ave	Fresno	93706
+S East Ave	Fresno	93721
+S East Ave	Fresno	93725
+S East Ave	Reedley	93654
+S East Ave	Santa Maria	93454
+S East Gates St	Anaheim	92804
+S East Ln	Big Bear City	92314
+S East St	Anaheim	92805
+S East St	Cloverdale	95425
+S Eastbury Way	Santa Maria	93455
+S Eastbury Wy	Santa Maria	93455
+S Eastern	Brawley	92227
+S Eastern Ave	Brawley	92227
+S Eastern Ct	Brawley	92227
+S Eastern Rd	Brawley	92227
+S Eastwind	Thousand Oaks	91361
+S Eastwind Cir	Thousand Oaks	91361
+S Eastwood Ave	Santa Ana	92705
+S Easy Way	Anaheim	92804
+S Echo Pl	Anaheim	92804
+S Echo Ridge Way	Chula Vista	91915
+S Echo St	Anaheim	92804
+S Edda Ln	Anaheim	92802
+S Eddy Ave	Fresno	93727
+S Eden Ave	Sunnyvale	94085
+S Edenglen Ave	Ontario	91761
+S Edenglen Paseo	Ontario	91761
+S Edgar Ave	Fullerton	92831
+S Edgar Ct	Thousand Oaks	91320
+S Edgeview Cir	Ana	92808
+S Edgeview Cir	Anaheim	92808
+S Edgeworth Ave	Colma	94015
+S Edison Blvd	Burbank	91506
+S Edison Rd	Bakersfield	93307
+S Edison St	Visalia	93292
+S Edmaru Ave	Whittier	90602
+S Edmaru Ave	Whittier	90605
+S Eduardo	Whittier	90606
+S Edward Ave	Fullerton	92833
+S Edward Rd	Thousand Oaks	91320
+S Edward St	Thousand Oaks	91320
+S Edwards Ct	Visalia	93277
+S Eggers Wy	Mh	95391
+S Egret Ct	Gilroy	95020
+S Eichler Pso	Ontario	91761
+S Eighth St	Arbuckle	95912
+S Eighth St	Banning	92220
+S Eighth St	Fresno	93702
+S Eighth St	Santa Paula	93060
+S Eileen Dr	Anaheim	92802
+S El Arco Dr	Whittier	90603
+S El Arco Dr	Whittier	90604
+S El Braso Dr	Whittier	90603
+S El Cajon Ct	Visalia	93277
+S El Camino Real	Belmont	94403
+S El Camino Real	Encinitas	92024
+S El Camino Real	Greenfield	93927
+S El Camino Real	Millbrae	94030
+S El Camino Real	Oceanside	92054
+S El Camino Real	Oceanside	92056
+S El Camino Real	Oceanside	92057
+S El Camino Real	Palm Springs	92264
+S El Camino Real	Salinas	93908
+S El Camino Real	San Clemente	92672
+S El Camino Real	San Mateo	94010
+S El Camino Real	San Mateo	94401
+S El Camino Real	San Mateo	94402
+S El Camino Real	San Mateo	94403
+S El Camino Real Ave	San Mateo	94401
+S El Camino Real Ave	San Mateo	94402
+S El Camino Real Ave	San Mateo	94403
+S El Camino Real Dr	San Mateo	94401
+S El Camino Real Real	San Mateo	94403
+S El Capitan Ave	Manteca	95336
+S El Cerrito	Brawley	92227
+S El Cerrito Ave	Brawley	92227
+S El Cerrito Dr	Brawley	92227
+S El Cielo	Palm Springs	92262
+S El Cielo Rd	Palm Springs	92262
+S El Cielo Rd	Palm Springs	92264
+S El Circulo	Patterson	95363
+S El Corazon	Oceanside	92056
+S El Dorado	San Mateo	94402
+S El Dorado Ave	Coalinga	93210
+S El Dorado Ave	Helm	93627
+S El Dorado Ave	Huron	93234
+S El Dorado Ave	Kerman	93630
+S El Dorado Ave	San Joaquin	93660
+S El Dorado Ave	Tranquillity	93668
+S El Dorado Ln	Anaheim	92807
+S El Dorado Rd (River Club	Tracy	95304
+S El Dorado St	French Camp	95231
+S El Dorado St	Stockton	95202
+S El Dorado St	Stockton	95203
+S El Dorado St	Stockton	95206
+S El Mirlo	Santa Maria	93455
+S El Monte Ave	Los Altos	94022
+S El Monte Ave	Los Altos	94022-4057
+S El Monte Ave	Los Altos Hills	94022
+S El Monte Rd	Los Altos Hills	94022
+S El Nido St	La Habra	90631
+S El Pomar Rd	Templeton	93465
+S El Portal	Palm Springs	92264
+S El Portal St	Encinitas	92024
+S El Rancho Rd	Tracy	95304
+S El Venado Dr	Whittier	90603
+S Elden Ave	Whittier	90602
+S Elden Ave	Whittier	90605
+S Elder Ct	Sacramento	95823
+S Elder Ln	Lake Elsinore	92530
+S Elder St	Anaheim	92805
+S Elderberry Ave	Ontario	91762
+S Elderberry Ct	Ontario	91762
+S Eldorado St	San Mateo	94401
+S Eldorado St	San Mateo	94402
+S Eleanora Ln	Rancho Mirage	92270
+S Eleventh St	Fresno	93702
+S Eleventh St	Fresno	93725
+S Eleventh St	Santa Paula	93060
+S Elfstone Ct	Thousand Oaks	91361
+S Eliseo Dr	Greenbrae	94904
+S Elizabeth St	Santa Maria	93454
+S Elk Ln	Santa Ana	92705
+S Elk Rd	Anaheim	92804
+S Elk St	Hemet	92543
+S Ellen Ln	Santa Maria	93454
+S Elliot St	Santa Maria	93454
+S Elliott Pl	Santa Ana	92704
+S Ellis Av	Tracy	95377
+S Ellis Pl	Thousand Oaks	91320
+S Ellis Rd	Escalon	95320
+S Ellsworth Ave	San Mateo	94401
+S Elm Av	Ripon	95366
+S Elm Ave	Caruthers	93609
+S Elm Ave	Fresno	93706
+S Elm Ave	Laton	93242
+S Elm Ave	Loma Linda	92354
+S Elm Ave	Riverdale	93656
+S Elm Dr (River Club)	Tracy	95304
+S Elm Drive	Salinas	93905
+S Elm Rd	Thousand Oaks	91320
+S Elm St	Arroyo Grande	93420
+S Elm St	Escondido	92025
+S Elm St	French Camp	95231
+S Elm St	Laton	93242
+S Elm St	Oceano	93445
+S Elm St	Visalia	93291
+S Elmer Ave	Whittier	90602
+S Elmquist Ave	Whittier	90601
+S Elmsford Pl	Thousand Oaks	91361
+S Elmwood St	Colton	92324
+S Elverta St	Visalia	93292
+S Ely Rd	Petaluma	94954
+S Emanuele Cir	Anaheim	92808
+S Emanuelle Cir	Ana	92808
+S Emerado Dr	Whittier	90603
+S Emerald Ave	Modesto	95351
+S Emerald Ct	Visalia	93277
+S Emerald Dr	Vista	92081
+S Emerald Oak Dr	Galt	95632
+S Emerald Pl	Anaheim	92804
+S Emerald St	Anaheim	92804
+S Emily St	Anaheim	92805
+S Emma Av	Ventura	93003
+S Emma Ave	Ventura	93003
+S Empire St	Anaheim	92804
+S Encina Ave	Rialto	92376
+S Encina St	Visalia	93277
+S Encinal Ave	Ojai	93023
+S Encinal Way	Ojai	93023
+S Encinitas Ave	Ontario	91761
+S Encino	Laguna Beach	92651
+S Endicott Ct	Ana	92808
+S Endicott Ct	Anaheim	92808
+S Endow Rd	French Camp	95231
+S Englehart Ave	Reedley	93654
+S Enns Ave	Reedley	93654
+S Enos Ln	Bakersfield	93276
+S Enos Ln	Bakersfield	93314
+S Enos St	Visalia	93292
+S Enramada Ave	Whittier	90605
+S Enterprise Cir	Temecula	92590
+S Enterprise Rd	Escalon	95320
+S Enterprise Way	Upland	91786
+S Erb Ct	Tracy	95304
+S Erin Way	San Bernardino	92408
+S Erminia Way	Santa Maria	93458
+S Erminia Wy	Santa Maria	93458
+S Ernest St	Visalia	93277
+S Escalon Bellota Rd	Escalon	95320
+S Escalon Bellota Rd	Farmington	95230
+S Escalon Bellota Rd	Linden	95236
+S Escalon Bellota Rd	Stockton	95215
+S Escondido Blvd	Escondido	92025
+S Escuela Dr	Mh	95391
+S Espanita St	3-Or-14	92869
+S Espanita St	Orange	92869
+S Esperanza Ave	Whittier	90606
+S Esplanade St	4-Or-16	92869
+S Esplanade St	Orange	92869
+S Estados Ct	Mh	95391
+S Estados St	Mh	95391
+S Estate Dr	Orange	92869
+S Estates Dr	Brentwood	94513
+S Estep St	Lakeport	95453
+S Estes St	Altu	96101
+S Esther St	Porterville	93257
+S Estrella Privado	Ontario	91761
+S Estriga Ct	Santa Maria	93458
+S Estudillo Ave	San Jacinto	92583
+S Etcheverry Ct	Tracy	95304
+S Ethyl Pl	Anaheim	92804
+S Etiwanda Ave	Fontana	92337
+S Etiwanda Ave	Ontario	91761
+S Etna Cir	Bre	92823
+S Eucalyptus Ave	Rialto	92376
+S Eucalyptus Ave	Waterford	95386
+S Eucalyptus Dr	Ana	92808
+S Eucalyptus Dr	Anaheim	92808
+S Euclid Ave	National City	91950
+S Euclid Ave	Ontario	91762
+S Euclid Ave	San Diego	92114
+S Euclid Ave	Upland	91786
+S Euclid Ave	Whittier	90602
+S Euclid Ave	Whittier	90605
+S Euclid St	Anaheim	92802
+S Euclid St	Anaheim	92804
+S Euclid St	Fountain Valley	92708
+S Euclid St	Fullerton	92832
+S Euclid St	Fullerton	92833
+S Euclid St	La Habra	90631
+S Euclid St	Santa Ana	92704
+S Eugene St	Anaheim	92802
+S Eugenia St	Stockton	95205
+S Eunice Ave	Fresno	93706
+S Eureka Ave	San Bernardino	92410
+S Eureka Dr	Big Bear Lake	92315
+S Eureka St	Redlands	92373
+S Evans St	San Diego	92113
+S Evelyn Ave	Fresno	93727
+S Evening Creek Dr	San Diego	92128
+S Evening Star Dr	Anaheim	92806
+S Eveningsong Ct	Ana	92808
+S Eveningsong Ct	Anaheim	92808
+S Eveningsong Ln	Ana	92808
+S Eveningsong Ln	Anaheim	92808
+S Evenstar Ave	Thousand Oaks	91361
+S Everglade St	Santa Ana	92704
+S Everglade Wy	Stockton	95215
+S Evergreen	Ventura	93003
+S Evergreen Dr	Ventura	93003
+S Evergreen Dr (River Club	Tracy	95304
+S Evergreen Ln	Orange	92866
+S Evergreen Loop	San Jose	95122
+S Evergreen St	Santa Ana	92707
+S Excelsior Way	Upland	91786
+S Exeter Ct	Visalia	93292
+S Exeter Pl	Orange	92869
+S Exline Rd	Paso Robles	93446
+S Explorer Way	Anaheim	92808
+S Ezie Ave	Fresno	93727

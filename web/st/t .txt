@@ -1,0 +1,30 @@
+T #3 St	Eureka	95503
+T Anchor	Twentynine Palms	92277
+T Anchor Dr	Borrego Springs	92004
+T Ave	National City	91950
+T-Bar Court	Soda Springs	95728
+T-Bar Drive	Soda Springs	95728
+T Boman St	Calexico	92231
+T-Bone Ln	Eureka	95503
+TÙChill Ct	Aguanga	92536
+T Circle Dr	Morongo Valley	92256
+T Crestview Dr	Eureka	95503
+T H Bar Ranch Trl	Alpine	91901
+T. J. Way	Paradise	95969
+T. N. T. Rd	Berry Creek	95916
+T Padilla Ct	Calexico	92231
+T St	Bakersfield	93304
+T St	Eureka	95501
+T St	Eureka	95503
+T St	Firebaugh	93622
+T St	Fresno	93721
+T St	Newman	95360
+T St	Sacramento	95811
+T St	Sacramento	95816
+T St	Sacramento	95817
+T St	Sacramento	95819
+T St	San Diego	92113
+T St	Ventura	93004
+T Street	Merced	95340
+T Street	Merced	95341
+T T Track	Foresthill	95631

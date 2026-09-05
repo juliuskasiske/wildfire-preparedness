@@ -1,0 +1,257 @@
+Coach Ct	Richmond	94803
+Coach Ct	San Jose	95120
+Coach Dr	Oroville	95966
+Coach Dr	Richmond	94803
+Coach Dr	Spring Valley	91978
+Coach Horse Ct	San Diego	92130
+Coach House Ct	Ful	92831
+Coach House Ct	Fullerton	92831
+Coach Lamp Ln	Roseville	95747
+Coach Lane	Vallejo	94589
+Coach Light Ln	Lincoln	95648
+Coach Lite Dr	Chico	95973
+Coach Ln	Huntington Beach	92649
+Coach Ln	Huntington Beach	92649-4015
+Coach Ln	San Diego	92130
+Coach Place	Hacienda Heights	91745
+Coach Rd	Arroyo Grande	93420
+Coach Rd	Escondido	92025
+Coach Rd	Mill Valley	94941
+Coach Rd	Miramonte	93641
+Coach Road	Rancho Palos Verdes	90275
+Coach St	Stockton	95209
+Coach Whip Wy	Roseville	95747
+Coach Wy	Mckinleyville	95519
+Coachella Ave	Hesperia	92344
+Coachella Ave	Salton Sea	92274
+Coachella Ave	Salton Sea Beach	92274
+Coachella Ave	Sunnyvale	94085
+Coachella Avenue	Long Beach	90805
+Coachella Canal	Calipatria	92233
+Coachella Canal Ave	Niland	92257
+Coachella Canal Hwy	Niland	92257
+Coachella Canal Rd	Bombay Beach	92257
+Coachella Canal Rd	Calipatria	92233
+Coachella Canal Rd	Niland	92257
+Coachella Dr	La Quinta	92253
+Coachella Rd	Apple Valley	92307
+Coachella Rd	Apple Valley	92308
+Coachella Trl	Santa Margarita	93453
+Coachford Way	2	94531
+Coachillin Way	Desert Hot Springs	92258
+Coachilllin Way	Desert Hot Springs	92258
+Coachlight Ct	Bakersfield	93312
+Coachlight Dr	San Jose	95111
+Coachlight Pl	Santa Rosa	95403
+Coachlite Way	Sacramento	95831
+Coachman	Rancho Santa Margarita	92679
+Coachman	Thousand Oaks	91362
+Coachman Avenue	Whittier	90605
+Coachman Cir	Corona	92881
+Coachman Cir	Thousand Oaks	91362
+Coachman Cr	Thousand Oaks	91362
+Coachman Ct	Aguanga	92536
+Coachman Ct	Oceanside	92056
+Coachman Ct	Poway	92064
+Coachman Dr	Camarillo	93012
+Coachman Ln	Corona	92881
+Coachman Ln	Highland	92346
+Coachman Ln	Lincoln	95648
+Coachman Ln	Moreno Valley	92557
+Coachman Ln	Santa Rosa	95404
+Coachman Pl	Clayton	94517
+Coachman Rd	Mariposa	95338
+Coachman Rd	Victorville	92394
+Coachman Way	Bakersfield	93312
+Coachman Way	Citrus Heights	95621
+Coachman Way	Lake Forest	92630
+Coachman Way	Lake Forest	92630-5822
+Coachman Way	Lake Forest	92630-5833
+Coachman Way	Lake Forest	92630-5834
+Coachman Way	Santa Maria	93455
+Coachman Wy	Orcutt	93455
+Coachsprings Ln	Laguna Hills	92653
+Coachwood	El Cajon	92019
+Coachwood Avenue	La Mirada	90638
+Coachwood Court	Hacienda Heights	91745
+Coachwood St	La Habra	90631
+Coachwood Ter	Orinda	94563
+Coad Ct	Pittsburg	94565
+Coad Ln	Riverbank	95367
+Coad Rd	Victorville	92395
+Coady Ct	Petaluma	94952
+Coahuilla	Mecca	92254
+Coahuilla Dr	Mecca	92254
+Coahuilla St	Mecca	92254
+Coakley Cir	Mariposa	95338
+Coakley Dr	San Jose	95117
+Coal Canyon Rd	Oroville	95965
+Coal Canyon Rd	Yorba Linda	92887
+Coal Canyon Road	Malibu	90265
+Coal Canyon Road	Sunland	91040
+Coal Court	Los Banos	93635
+Coal Creek Rd	Lakehead	96051
+Coal Creek Way	Rancho Cordova	95742
+Coal Mine	Irvine	92602
+Coal Mine Ct	Clayton	94517
+Coal Mine Rd	Ione	95640
+Coal Mine View	Portola Valley	94028
+Coal Mountain Court	Valencia	91354
+Coal Pit Rd	Igo	96047
+Coal Rock Ct	Bakersfield	93313
+Coaldale Ct	Elk Grove	95758
+Coalfax Ct	Thousand Oaks	91362
+Coalinga	Santa Cruz	95060
+Coalinga Ave	Montclair	91763
+Coalinga Ave	Richmond	94801
+Coalinga Court	Claremont	91711
+Coalinga Ct	Menifee	92586
+Coalinga-Mendota Rd	Coalinga	93210
+Coalinga Mineral Springs Rd	Coalinga	93210
+Coalinga Pl	Chula Vista	91913
+Coalinga Plaza	Coalinga	93210
+Coalinga Plz	Coalinga	93210
+Coalinga Rd	Bitterwater	95043
+Coalinga Rd	Paicines	95043
+Coalinga Rd	Victorville	92392
+Coalport St	San Pablo	94806
+Coan Ln	Orangevale	95662
+Coarse Gold Ln	Columbia	95310
+Coarse Gold Motorway	Santa Clarita	91390
+Coarse Gold Pl	Gold River	95670
+Coarse Gold Rd	Oroville	95965
+Coast	Davenport	95017
+Coast	Santa Cruz	95060
+Coast Ave	Carlsbad	92009
+Coast Ave	Hanford	93230
+Coast Ave	Hanford	93230-4811
+Coast Ave	Mountain View	94043
+Coast Ave	Salton City	92274
+Coast Ave	San Marcos	92078
+Coast Blvd	Del Mar	92014
+Coast Blvd	La Jolla	92037
+Coast Blvd	Newport Beach	92663
+Coast Blvd	Solana Beach	92075
+Coast Blvd S	La Jolla	92037
+Coast Cir	Huntington Beach	92649
+Coast Cir	Huntington Beach	92649-1814
+Coast Cir	Huntington Beach	92649-1816
+Coast Cir	Huntington Beach	92649-1858
+Coast Cir	Huntington Beach	92649-1859
+Coast Cir	Huntington Beach	92649-1860
+Coast Drive	Whittier	90601
+Coast Guard Rd	Millbrae	94128
+Coast Guard Road	Los Angeles	90045
+Coast Highway 101	Encinitas	92024
+Coast Highway 101 N	Encinitas	92024
+Coast Hwy	Dana Point	92624
+Coast Hwy	Encinitas	92024
+Coast Hwy	Laguna Beach	92651
+Coast Hwy	Oceanside	92054
+Coast Hwy	Pacifica	94038
+Coast Hwy	Pacifica	94044
+Coast Hwy	Ventura	93001
+Coast Hwy 101	Encinitas	92024
+Coast Hwy 101 N	Encinitas	92024
+Coast Hwy 101 S	Encinitas	92024
+Coast Hwy N	Encinitas	92024
+Coast Hwy N	Oceanside	92054
+Coast Hwy S	Encinitas	92024
+Coast Live Oak Ln	Murrieta	92562
+Coast Oak Cir	Chino Hills	91709
+Coast Oak Court	Fairfield	94534
+Coast Oak Ct	Santa Rosa	95404
+Coast Oak Dr	Solvang	93463
+Coast Oak Ln	Petaluma	94954
+Coast Oak Trl	Campo	91906
+Coast Oak Way	Citrus Heights	95610
+Coast Oak Way	San Rafael	94903
+Coast Range	Scotts Valley	95066
+Coast Range Ln	Paradise	95969
+Coast Rd	Vandenberg Afb	93437
+Coast Redwood Lane	Canyon Country	91387
+Coast Redwood Way	San Mateo	94402
+Coast Ridge Road	Big Sur	93920
+Coast Ridge Road	Carmel	93923
+Coast Road	Big Sur	93920
+Coast Rt	Carmel	93923
+Coast St	Garden Grove	92844
+Coast St	Willits	 
+Coast View Dr	Arroyo Grande	93420
+Coast View Dr	Laguna Beach	92651
+Coast View Drive	Malibu	90265
+Coast Village Cir	Santa Barbara	93108
+Coast Village Rd	Montecito	93108
+Coast Village Rd	Santa Barbara	93108
+Coast Walk	La Jolla	92037
+Coastal Ave	Bodega Bay	94923
+Coastal Breeze Tr	San Diego	92127
+Coastal Breeze Trl	San Diego	92127
+Coastal Canyon Dr	Newport Beach	92657
+Coastal Court	Los Banos	93635
+Coastal Cove Ct	Stockton	95219
+Coastal Cove Ln	Stockton	95219
+Coastal Ct	Bakersfield	93314
+Coastal Ct	Daly City	94014
+Coastal Ct	Discovery Bay	94505
+Coastal Ct	Sacramento	95831
+Coastal Ct	Waterford	95386
+Coastal Gdn	Irvine	92618
+Coastal Hills Dr	Chula Vista	91914
+Coastal Ln	Bakersfield	93313
+Coastal Ln	Waterford	95386
+Coastal Oak	Aliso Viejo	92656
+Coastal Oak	Newport Beach	92657
+Coastal Oak	Scotts Valley	95066
+Coastal Oak Dr	Simi Valley	93065
+Coastal Oak Ln	Coto De Caza	92679
+Coastal Ridge Ln	Daly City	94014
+Coastal Sage Place	Walnut	91789
+Coastal Sage St	Murrieta	92563
+Coastal Sage Trl	San Diego	92130
+Coastal St	Riverside	92501
+Coastal View Dr	Smith River	95567
+Coastal View Drive	Los Angeles	90045
+Coastal Wind St	Bakersfield	93312
+Coastland Ave	San Jose	95125
+Coastland Ct	San Jose	95125
+Coastland Dr	Huntington Beach	92646
+Coastland Dr	Huntington Beach	92646-4738
+Coastland Dr	Palo Alto	94303
+Coastline	Newport Beach	92657
+Coastline Ave	Carlsbad	92008
+Coastline Ave	Menifee	92585
+Coastline Court	Plumas Lake	95961
+Coastline Ct	San Jacinto	92583
+Coastline Dr	Seal Beach	90740
+Coastline Drive	Malibu	90265
+Coastline Ln	Huntington Beach	92648
+Coastline Ln	Huntington Beach	92648-3001
+Coastline Ln	Huntington Beach	92648-3002
+Coastline Pl	San Diego	92110
+Coastreet Road	Big Sur	93920
+Coastsite Drive	Rancho Palos Verdes	90275
+Coastview	Santa Cruz	95062
+Coastview Ct	Bay Point	94565
+Coastview Ct	Carlsbad	92010
+Coastview Ln	Huntington Beach	92648
+Coastview Ln	Huntington Beach	92648-5250
+Coastview Ln	Huntington Beach	92648-5266
+Coastview Ln	Huntington Beach	92648-5267
+Coastview Ln	Huntington Beach	92648-5270
+Coastview Ln	Huntington Beach	92648-5271
+Coastwood Rd	San Diego	92127
+Coatbridge Ct	Indio	92203
+Coatbridge Dr	Riverside	92508
+Coate Court	Altadena	91001
+Coates	Aptos	95003
+Coates Avenue	Calpine	96124
+Coates Avenue	Los Angeles	90063
+Coates Cir	Pleasant Hill	94523
+Coates Rd	Escondido	92027
+Coathanger Cattle Co Road	Nevada City	95959
+Coathanger Cross Road	Nevada City	95959
+Coati Pl	Ventura	93003
+Coati Rd	Apple Valley	92307
+Coats Drive	Yuba City	95993
+Coats Rd	Twentynine Palms	92277

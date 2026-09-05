@@ -1,0 +1,45 @@
+S 50Th St	Richmond	94804
+S 50Th St	San Diego	92113
+S 51St St	Richmond	94804
+S 52Nd St	Richmond	94804
+S 53Rd St	El Cerrito	94530
+S 54Th St	Richmond	94804
+S 54Th St	San Diego	92114
+S 55Th St	El Cerrito	94530
+S 55Th St	Richmond	94804
+S 56Th St	El Cerrito	94530
+S 56Th St	Richmond	94804
+S 57Th St	Richmond	94804
+S 58Th St	Richmond	94804
+S 58Th St	San Diego	92114
+S 59Th St	Richmond	94804
+S 59Th St	San Diego	92114
+S 5Th	Brawley	92227
+S 5Th	El Centro	92243
+S 5Th	San Mateo	94402
+S 5Th Ave	El Centro	92243
+S 5Th Ave	Kingsburg	93631
+S 5Th Ave	Oakdale	95361
+S 5Th Ave	Oroville	95965
+S 5Th Dr	Brawley	92227
+S 5Th Pl	El Centro	92243
+S 5Th Rd	Brawley	92227
+S 5Th Rd	El Centro	92243
+S 5Th St	Blythe	92225
+S 5Th St	Brawley	92227
+S 5Th St	Burbank	91501
+S 5Th St	Calimesa	92320
+S 5Th St	Chowchilla	93610
+S 5Th St	Coalinga	93210
+S 5Th St	Colton	92324
+S 5Th St	El Centro	92243
+S 5Th St	Fowler	93625
+S 5Th St	Grover Beach	93433
+S 5Th St	Patterson	95363
+S 5Th St	Redlands	92373
+S 5Th St	Richmond	94804
+S 5Th St	San Jose	95112
+S 5Th St  489 W Holt Rd	El Centro	92243
+S 5Th St  497 W Hami St	El Centro	92243
+S 5Th St  505 W Hami Ave	El Centro	92243
+S 5Th St  505 W Oliv Ave	El Centro	92243

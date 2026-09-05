@@ -1,0 +1,212 @@
+15 1/2 Ave	Hanford	93230
+15 Freeway	Jurupa Valley	91752
+15 N 05 Rd	Clearlake Oaks	95423
+15 N 05 Rd	Lucerne	95458
+15 N 06 Rd	Clearlake Oaks	95423
+15 N 06 Rd	Lucerne	95458
+15 N 07 Rd	Clearlake Oaks	95423
+15 N 07 Rd	Lucerne	95458
+15 N 10 Rd	Upper Lake	95485
+15 N 11 Rd	Lucerne	95458
+15 N 11 Rd	Upper Lake	95485
+15 N 12 Rd	Lucerne	95458
+15 N 12 Rd	Upper Lake	95485
+15 N 13 Rd	Clearlake Oaks	95423
+15 N 19 Rd	Lucerne	95458
+15 Off Ram El Cerrito Rd	Corona	92881
+150Th Street	Gardena	90249
+150Th Street East	Lancaster	93535
+151St Street	Compton	90220
+151St Street East	Lancaster	93535
+151St Street East	Palmdale	93591
+152Nd Street	Compton	90220
+152Nd Street East	Lancaster	93535
+152Nd Street East	Palmdale	93591
+#153  Alcosta Blvd	San Ramon	94583
+153½ S Lincoln St	Roseville	95678
+153Rd Place	Lawndale	90260
+153Rd Street	Lawndale	90260
+#154  Alcosta Blvd	San Ramon	94583
+154Th Street	Lawndale	90260
+154Th Street East	Lancaster	93535
+154Th Street East	Palmdale	93591
+#155  Alcosta Blvd	San Ramon	94583
+155Hanson Ct	Martinez	94553
+155Th Court	Gardena	90249
+155Th Street	Gardena	90247
+155Th Street	Gardena	90249
+155Th Street East	Llano	93544
+155Th Street East	Palmdale	93591
+#156  Alcosta Blvd	San Ramon	94583
+156 Hwy	Hollister	95045
+156 Hwy	San Juan Bautista	95045
+156½ Nevada Av	Roseville	95678
+1568 Teesdale Court	Yuba City	95991
+156Th Court	Gardena	90249
+156Th Street	Lawndale	90260
+156Th Street East	Lancaster	93535
+156Th Street East	Palmdale	93591
+#157  Alcosta Blvd	San Ramon	94583
+157Th Street East	Llano	93544
+157Th Street East	Valyermo	93563
+#158  Alcosta Blvd	San Ramon	94583
+158Th Street	Gardena	90247
+158Th Street East	Lancaster	93535
+158Th Street East	Palmdale	93591
+159½ Donner Av	Roseville	95678
+159Th Street	Lawndale	90260
+159Th Street	Redondo Beach	90278
+159Th Street East	Lancaster	93535
+159Th Street East	Palmdale	93591
+15Th	Santa Cruz	95062
+15Th Apts A & B St	Eureka	95501
+15Th Ave	Blythe	92225
+15Th Ave	Clearlake	95422
+15Th Ave	Desert Hot Springs	92241
+15Th Ave	Escondido	92025
+15Th Ave	Hanford	93230
+15Th Ave	Hanford	93245
+15Th Ave	Kingsburg	93631
+15Th Ave	Lemoore	93230
+15Th Ave	Lemoore	93245
+15Th Ave	Menlo Park	94025
+15Th Ave	Parlier	93648
+15Th Ave	Redwood City	94063
+15Th Ave	Sacramento	95820
+15Th Ave	Sacramento	95822
+15Th Ave	San Diego	92101
+15Th Ave	San Francisco	94116
+15Th Ave	San Francisco	94118
+15Th Ave	San Francisco	94122
+15Th Ave	San Francisco	94127
+15Th Ave	San Francisco	94132
+15Th Ave	San Mateo	94402
+15Th Ave W	Escondido	92025
+15Th Avenue	Carmel	93923
+15Th Court	Hermosa Beach	90254
+15Th Ct	Hermosa Beach	90254
+15Th Ct	Kingsburg	93631
+15Th E St	Pittsburg	94565
+15Th Helena Drive	Los Angeles	90049
+15Th Hole Dr	Windsor	95492
+15Th Infantry Avenue	Seaside	93955
+15Th Pl	Hermosa Beach	90254
+15Th Place	Hermosa Beach	90254
+15Th Place	Long Beach	90802
+15Th Place	Manhattan Beach	90266
+15Th Place East	Palmdale	93550
+15Th (Sb) St	Imperial Beach	91932
+15Th (Sb) St	San Diego	92154
+15Th St	Arcata	95521
+15Th St	Bakersfield	93301
+15Th St	Blythe	92225
+15Th St	Cayucos	93430
+15Th St	Del Mar	92014
+15Th St	Escondido	92025
+15Th St	Eureka	95501
+15Th St	Firebaugh	93622
+15Th St	Fortuna	95540
+15Th St	Garden Grove	92843
+15Th St	Hermosa Beach	90254
+15Th St	Highland	92346
+15Th St	Huntington Beach	90742
+15Th St	Huntington Beach	92648
+15Th St	Huntington Beach	92648-4045
+15Th St	Huntington Beach	92648-4046
+15Th St	Huntington Beach	92648-4047
+15Th St	Huntington Beach	92648-4048
+15Th St	Huntington Beach	92648-4058
+15Th St	Huntington Beach	92648-4058 
+15Th St	Huntington Beach	92648-4089
+15Th St	Huntington Beach	92648-4090 
+15Th St	Huntington Beach	92648-4091 
+15Th St	Huntington Beach	92648-4093 
+15Th St	Huntington Beach	92648-4201
+15Th St	Huntington Beach	92648-4202
+15Th St	Huntington Beach	92648-4203
+15Th St	Huntington Beach	92648-4204
+15Th St	Huntington Beach	92648-4211 
+15Th St	Huntington Beach	92648-4216
+15Th St	Huntington Beach	92648-4223 
+15Th St	Huntington Beach	92648-4233 
+15Th St	Huntington Beach	92648-4234 
+15Th St	Huntington Beach	92648-4235
+15Th St	Huntington Beach	92648-4236 
+15Th St	Huntington Beach	92648-4241 
+15Th St	Huntington Beach	92648-4255 
+15Th St	Huntington Beach	92648-4256 
+15Th St	Huntington Beach	92648-4257 
+15Th St	Huntington Beach	92648-4258 
+15Th St	Huntington Beach	92648-4259 
+15Th St	Huntington Beach	92648-4260 
+15Th St	Huntington Beach	92648-4262 
+15Th St	Huntington Beach	92648-4263 
+15Th St	Huntington Beach	92648-4265 
+15Th St	Huntington Beach	92648-4266 
+15Th St	Huntington Beach	92648-4272 
+15Th St	Huntington Beach	92648-4285 
+15Th St	Huntington Beach	92648-4408
+15Th St	Huntington Beach	92648-4409
+15Th St	Huntington Beach	92648-4410
+15Th St	Huntington Beach	92648-4411
+15Th St	Huntington Beach	92648-4446 
+15Th St	Huntington Beach	92648-4459 
+15Th St	Huntington Beach	92648-4466 
+15Th St	Huntington Beach	92648-4467
+15Th St	Huntington Beach	92648-4468
+15Th St	Huntington Beach	92648-4478 
+15Th St	Huntington Beach	92648-4479
+15Th St	Huntington Beach	92648-4484
+15Th St	Huntington Beach	92648-4490 
+15Th St	Huntington Beach	92648-4491 
+15Th St	Huntington Beach	92648-8411 
+15Th St	Imperial Beach	91932
+15Th St	Los Osos	93402
+15Th St	Modesto	95354
+15Th St	National City	91950
+15Th St	Oceano	93445
+15Th St	Paso Robles	93446
+15Th St	Reedley	93654
+15Th St	Richmond	94801
+15Th St	Riverside	92501
+15Th St	Riverside	92507
+15Th St	Sacramento	95811
+15Th St	Sacramento	95814
+15Th St	Sacramento	95818
+15Th St	Sacramento	95822
+15Th St	San Diego	92101
+15Th St	San Diego	92102
+15Th St	San Diego	92113
+15Th St	San Diego	92154
+15Th St	San Francisco	94103
+15Th St	San Francisco	94107
+15Th St	San Francisco	94114
+15Th St	San Miguel	93451
+15Th St	San Pablo	94806
+15Th St	Santa Rosa	95404
+15Th St	Seal Beach	90740
+15Th St	Union City	94587
+15Th St	Westminster	92683
+15Th St	Yucaipa	92399
+15Th St W	National City	91950
+15Th Street	City Of Marysville	95901
+15Th Street	Hermosa Beach	90254
+15Th Street	Lancaster	93535
+15Th Street	Los Angeles	90006
+15Th Street	Los Angeles	90015
+15Th Street	Los Angeles	90019
+15Th Street	Los Angeles	90021
+15Th Street	Los Angeles	90023
+15Th Street	Manhattan Beach	90266
+15Th Street	Newhall	91321
+15Th Street	Pacific Grove	93950
+15Th Street	San Pedro	90731
+15Th Street	Santa Monica	90402
+15Th Street	Santa Monica	90403
+15Th Street	Santa Monica	90404
+15Th Street	Vallejo	94592
+15Th Street	West Sacramento	95691
+15Th Street East	Lancaster	93535
+15Th Street East	Palmdale	93550
+15Th Street West	Lancaster	93534
+15Th Street West	Palmdale	93551

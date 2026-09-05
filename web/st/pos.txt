@@ -1,0 +1,168 @@
+Posada	Calexico	92231
+Posada	Irvine	92614
+Posada	Newport Beach	92660
+Posada Ave	Bakersfield	93309
+Posada Cir	Murrieta	92563
+Posada Court	Palmdale	93552
+Posada Ct	Calexico	92231
+Posada Ct	Corona	92879
+Posada Ct	Oceanside	92058
+Posada Ct	Palm Desert	92260
+Posada Ct	San Ramon	94583
+Posada Del Sol	Novato	94949
+Posada Dr	Oxnard	93030
+Posada Drive	Valencia	91354
+Posada Ln	Mission Viejo	92691
+Posada Ln	Templeton	93465
+Posada Way	Chico	95973
+Posada Way	Sacramento	95826
+Posadera Ave	Orangevale	95662
+Posado Del Sol	Carmel Valley	93924
+Poseidon	Laguna Niguel	92677
+Poseidon	West Covina	91790
+Poseidon Avenue	Cerritos	90703
+Poseidon Ct	Citrus Heights	95621
+Poseidon Ct	Indio	92201
+Poseidon Drive	Palmdale	93552
+Poseidon Lane	Canyon Country	91351
+Poseidon Ln	Redwood City	94065
+Poseidon Ln	Roseville	95661
+Poseidon Ln	Sacramento	95841
+Poseidon St	Bakersfield	93306
+Poseidon Way	Oceanside	92056
+Posen Ave	Berkeley	94706
+Posen Ave	Berkeley	94707
+Posetano Road	Pacific Palisades	90272
+Posey Ave	Madera	93637
+Posey Ave	Madera	93638
+Posey Dr	Hemet	92544
+Posey Lane	Canoga Park	91304
+Posey Ln	Paradise	95969
+Posey Ln	Redding	96003
+Posey Pl	Concord	94519
+Posey Pl	Fontana	92336
+Posey Pl	San Diego	92105
+Posey Rd	Roseville	95747
+Posey St	Galt	95632
+Posey St	Lathrop	95330
+Posey Way	Rancho Palos Verdes	90275
+Posh Ln	Chula Vista	91915
+Poshard St	Pleasant Hill	94523
+Posho Ave	Ceres	95307
+Posilipo Ln	Montecito	93108
+Posita Rd	Somis	93066
+Positano Ave	Brentwood	94513
+Positano Cir	Redwood City	94065
+Positano Ln	San Jose	95138
+Positano Pl	Bakersfield	93314
+Positano Pl	Brentwood	94513
+Positas Rd	Chula Vista	91910
+Positas Road	Winters	95694
+Positive Place	Vallejo	94589
+Posito Rd	Somis	93066
+Posner Av	Tracy	95377
+Poso Canal Rd	Firebaugh	93622
+Poso Ct	Bakersfield	93309
+Poso Park Drive	Posey	93260
+Poso Ridge Ct	Bakersfield	93313
+Possum Aly	Sacramento	95815
+Possum Court	Weed	96094
+Possum Creek Ln	El Cajon	92021
+Possum Ct	San Jacinto	92582
+Possum Lane	Woodland	95695
+Possum Ln	Auburn	95602
+Possum Ln	Berry Creek	95916
+Possum Ln	Portola Valley	94028
+Possum Pass	Valley Center	92082
+Possum Ridge Road	Palos Verdes Peninsula	90274
+Possum Run	Irvine	92614
+Possum Way	Weed	96094
+Possumwood Ridge	Aptos	95003
+Post	Irvine	92618
+Post	Santa Cruz	95060
+Post Av	Carpinteria	93013
+Post Ave	Fort Bragg	 
+Post Ave	Oakdale	95361
+Post Ave	San Pablo	94806
+Post Ave	Sanger	93657
+Post Avenue	Norwalk	90650
+Post Avenue	Paramount	90723
+Post Avenue	Torrance	90501
+Post Canyon Dr	Templeton	93465
+Post Chaise Circle	Grass Valley	95949
+Post Ct	Santa Rosa	95405
+Post Drive	Salinas	93907
+Post Hill Rd	Lakeside	92040
+Post Ln	Fontana	92336
+Post Ln	Oroville	95966
+Post Mountain Rd	Post Mountain	96041
+Post Oak Av	Manteca	95337
+Post Oak Ave	Manteca	95337
+Post Oak Cir	San Jose	95120
+Post Oak Court	Tulare	93274
+Post Oak Dr	Modesto	95354
+Post Oak Dr	Turlock	95382
+Post Oak Ln	El Cajon	92021
+Post Oak Ln	Fontana	92337
+Post Oak Ln	Sacramento	95825
+Post Oak Pl	Murrieta	92562
+Post Oak Rd	Tollhouse	93667
+Post Office	Aptos	95003
+Post Office Rd	Lucerne Valley	92356
+Post Office Spur	Goodyears Bar	95944
+Post Pl	Rancho Cucamonga	91737
+Post Place	Woodland	95776
+Post Ranch Rd	Santa Rosa	95405
+Post Rd	Alamo	94507
+Post Rd	Copper Mountain	92252
+Post Rd	Costa Mesa	92626
+Post Rd	Fair Oaks	95628
+Post Rd	Fullerton	92833
+Post Rd	Joshua Tree	92252
+Post Rd	Oakdale	95361
+Post Rd	Palo Cedro	96073
+Post Rd	Perris	92570
+Post Rd	San Diego	92117
+Post St	Bakersfield	93307
+Post St	Camarillo	93010
+Post St	Eastvale	92880
+Post St	Ladera Ranch	92694
+Post St	Larkspur	94939
+Post St	Lathrop	95330
+Post St	Mountain View	94040
+Post St	Napa	94559
+Post St	Nice	95464
+Post St	Petaluma	94952
+Post St	Redlands	92374
+Post St	Riverside	92501
+Post St	San Francisco	94102
+Post St	San Francisco	94104
+Post St	San Francisco	94108
+Post St	San Francisco	94109
+Post St	San Francisco	94115
+Post St	San Jose	95113
+Post St	Sanger	93657
+Post St	Upper Lake	95485
+Post Street	South Gate	90280
+Post Trl	El Cajon	92019
+Post Way	Los Angeles	90045
+Postal Av	Stockton	95204
+Postal Ave	Moreno Valley	92553
+Postal Way	Vista	92083
+Postbridge Cir	Palm Desert	92211
+Posten Way	Citrus Heights	95621
+Postgate Ct	San Jose	95121
+Posthill Pl	Lakeside	92040
+Posthill Rd	Lakeside	92040
+Postma St	Manteca	95337
+Postmaster Avenue	Harbor City	90710
+Poston Dr	San Jose	95136
+Poston Ln	Huntington Beach	92646
+Poston Ln	Huntington Beach	92646-7105
+Poston Ln	Huntington Beach	92646-7106
+Poston Ln	Huntington Beach	92646-7107
+Poston Ln	Huntington Beach	92646-7108
+Poston Ln	Huntington Beach	92646-7115
+Postwood Dr	San Jose	95132
+Postwood Ln	Santa Rosa	95404
+Posy Path	Corona	92879

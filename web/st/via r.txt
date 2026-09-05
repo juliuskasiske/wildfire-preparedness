@@ -1,0 +1,258 @@
+Via Rafael	Palos Verdes Peninsula	90274
+Via Rafael	San Marcos	92078
+Via Rafael	Thousand Oaks	91320
+Via Rafael Cir	Corona	92881
+Via Ramada	San Jose	95139
+Via Rami	Temecula	92592
+Via Ramon	Escondido	92029
+Via Ramon	Palos Verdes Peninsula	90274
+Via Ramon	Valencia	91355
+Via Ramon	Ybl	92887
+Via Ramon	Yorba Linda	92887
+Via Ramon Rd	Ybl	92887
+Via Ramon Rd	Yorba Linda	92887
+Via Ramona	Paso Robles	93446
+Via Ramona	San Juan Capistrano	92675
+Via Rana	Valencia	91355
+Via Ranchero	Murrieta	92562
+Via Ranchero	Yorba Linda	92886
+Via Ranchero Ct	Saratoga	95070
+Via Ranchero Dr	Saratoga	95070
+Via Rancheros	Fallbrook	92028
+Via Rancheros Rd	Santa Barbara Unincorporated	93460
+Via Rancheros Way	Fallbrook	92028
+Via Ranchitos	Atascadero	93422
+Via Ranchitos	Fallbrook	92028
+Via Ranchitos Rd	Fallbrook	92028
+Via Rancho	North Tustin	92705
+Via Rancho	Riverside	92506
+Via Rancho	San Clemente	92672
+Via Rancho Avenue	Baldwin Park	91706
+Via Rancho Cielo	Rancho Santa Fe	92067
+Via Rancho Del Lago	Bonsall	92003
+Via Rancho Dos Ninas	Ramona	92065
+Via Rancho Drive	Diamond Bar	91765
+Via Rancho Michelle	Encinitas	92024
+Via Rancho Pkwy	Escondido	92025
+Via Rancho Pkwy	Escondido	92029
+Via Rancho Pky	Escondido	92029
+Via Rancho Rd	Oceanside	92057
+Via Rancho San Diego	El Cajon	92019
+Via Rancho San Diego	Jamul	91935
+Via Rancho Way	Folsom	95630
+Via Raquel	Temecula	92590
+Via Raton	Boulder Creek	95006
+Via Ravello	Rancho Santa Fe	92091
+Via Ravenna	Bakersfield	93312
+Via Ravenna	Goleta	93117
+Via Ravenna	La Quinta	92253
+Via Ravenna	Morgan Hill	95037
+Via Ravenna	Newport Beach	92663
+Via Ravenna	Redlands	92374
+Via Raza	Lake Forest	92630
+Via Raza	Lake Forest	92630-2039
+Via Raza	Lake Forest	92630-2040
+Via Raza	Lake Forest	92630-2041
+Via Raza	Lake Forest	92630-2042
+Via Raza	Lake Forest	92630-2043
+Via Raza	Valencia	91355
+Via Razmin	Corona	92881
+Via Real	Carpinteria	93013
+Via Real	Carpinteria	93103
+Via Real	Desert Hot Springs	92240
+Via Real	Menifee	92585
+Via Real	Santa Barbara Unincorporated	93013
+Via Real	Summerland	93013
+Via Real	Summerland	93067
+Via Real	Toro Canyon	93013
+Via Real Dr	Saratoga	95070
+Via Real Ln	Desert Hot Springs	92240
+Via Real Ln	Yucca Valley	92284
+Via Real Rd	Desert Hot Springs	92240
+Via Realzar	San Diego	92122
+Via Reata	Fontana	92337
+Via Reata	Laguna Niguel	92677
+Via Reata	Murrieta	92562
+Via Reata	Vista	92081
+Via Rebeca	Lancaster	93536
+Via Rebecca	Thousand Oaks	91320
+Via Recanto	Rancho Santa Fe	92067
+Via Recodo	Mill Valley	94941
+Via Redonda	Sonora	95370
+Via Redondo	San Juan Capistrano	92675
+Via Redwood	Anaheim	92801
+Via Refrescar	San Juan Capistrano	92675
+Via Refresco	Rancho Santa Margarita	92688
+Via Refugio	Perris	92570
+Via Regallo Dr	Rancho Cucamonga	91739
+Via Regalo	San Clemente	92673
+Via Reggio	Laguna Niguel	92677
+Via Reggio Ct	San Jose	95132
+Via Regina	Santa Barbara Unincorporated	93111
+Via Regina	Santa Barbara Unincorporated	93117
+Via Regina	Saratoga	95070
+Via Regla	San Diego	92122
+Via Regressos	Rancho Santa Margarita	92688
+Via Reina	Mission Viejo	92691
+Via Remolino	Mission Viejo	92691
+Via Renaissance	Temecula	92590
+Via Renaissnce	Temecula	92590
+Via Renate	Temecula	92591
+Via Rene	Ybl	92886
+Via Rene	Yorba Linda	92886
+Via Reneca	Palm Desert	92260
+Via Rengo	Palm Desert	92260
+Via Reposa	Solvang	93463
+Via Reposo	Rancho Santa Fe	92091
+Via Reposo	Santa Barbara Unincorporated	93111
+Via Reseda	San Clemente	92673
+Via Reserva	Temecula	92591
+Via Respiro	Rancho Santa Margarita	92688
+Via Rialto	La Jolla	92037
+Via Riata	Roseville	95747
+Via Riata	Temecula	92592
+Via Ribera	Escondido	92029
+Via Ricardo	Burbank	91504
+Via Ricardo	Carlsbad	92010
+Via Ricardo	Jurupa Valley	92509
+Via Ricardo	Thousand Oaks	91320
+Via Ricardo	Ybl	92886
+Via Ricardo	Yorba Linda	92886
+Via Ricasol	Irvine	92612
+Via Rico	Carlsbad	92009
+Via Rico	Santa Maria	93454
+Via Rimini	Burbank	91504
+Via Rimini	San Diego	92129
+Via Rincon	Palos Verdes Peninsula	90274
+Via Rincon	Thousand Oaks	91320
+Via Rincon	Yorba Linda	92887
+Via Rio	Loma Linda	92354
+Via Rio	Moreno Valley	92555
+Via Rio	Newbury Park	91320
+Via Rio	Oceanside	92057
+Via Rio	Thousand Oaks	91320
+Via Rio Nido	Downey	90241
+Via Rio Rd	Temecula	92592
+Via Rio St	Temecula	92592
+Via Rio Temecula Rd	Temecula	92592
+Via Rioja	Mission Viejo	92691
+Via Rioja	Temecula	92591
+Via Risa	San Marcos	92078
+Via Risso	Palm Springs	92264
+Via Rita	Santee	92071
+Via Rivas	Hemet	92545
+Via Rivas	Mission Viejo	92692
+Via Rivera	Palos Verdes Peninsula	90274
+Via Rivera	Rancho Palos Verdes	90275
+Via Rivera	San Diego	92129
+Via Rivera	Thousand Oaks	91320
+Via Rivera	Ybl	92886
+Via Rivera	Yorba Linda	92886
+Via Riviera	Carmel	93923
+Via Riviera	Montclair	91763
+Via Riviera	Orcutt	93455
+Via Riviera	Redondo Beach	90277
+Via Riviera	Santa Maria	93455
+Via Riviera Way	Buena Park	90620
+Via Robbia	Rancho Murieta	95683
+Via Roberta	Palm Springs	92264
+Via Roberto	Carlsbad	92010
+Via Roberto	Olivehurst	95961
+Via Roberto Miguel	Palm Springs	92262
+Via Robina	San Clemente	92672
+Via Roblada	Bakersfield	93314
+Via Roblada	Hope Ranch	93110
+Via Roblada	La Quinta	92253
+Via Roblado	La Quinta	92253
+Via Roblar Ct	El Cajon	92019
+Via Roble	Coto De Caza	92679
+Via Roble	Kenwood	95452
+Via Roble	Lafayette	94549
+Via Roble	Mission Viejo	92691
+Via Roble	Temecula	92591
+Via Roble Blanca Pl	Paso Robles	93446
+Via Robles	Alamo	94507
+Via Robles	Monterey	93940
+Via Robles	Oceanside	92054
+Via Robles	Paso Robles	93446
+Via Robles	San Luis Obispo	93401
+Via Robles	Winters	95694
+Via Robles Cir	Victorville	92392
+Via Robles Ct	Petaluma	94952
+Via Robles Dr	Coalinga	93210
+Via Roca	Victorville	92392
+Via Rocas	Westlake Village	91362
+Via Rocosa	Joshua Tree	92252
+Via Rodeo	Fillmore	93015
+Via Rodeo	Thousand Oaks	91320
+Via Rodeo Drive	Beverly Hills	90210
+Via Rodrigo	Mission Viejo	92692
+Via Rodrigues	San Juan Bautista	95045
+Via Rogelio	Bonsall	92003
+Via Roja	Murrieta	92562
+Via Roja	Murrieta	92563
+Via Roja	Ybl	92886
+Via Roja	Yorba Linda	92886
+Via Rojas	Hemet	92545
+Via Rojas	Templeton	93465
+Via Rojo	Carlsbad	92010
+Via Rojo	Santa Barbara	93110
+Via Roma	Burbank	91504
+Via Roma	Chico	95928
+Via Roma	Chula Vista	91913
+Via Roma	Indio	92201
+Via Roma	Mission Viejo	92692
+Via Roma	Montebello	90640
+Via Roma	San Jose	95008
+Via Roma	San Jose	95130
+Via Roma	Santa Barbara Unincorporated	93110
+Via Roma	Yorba Linda	92886
+Via Roma Cir	Corona	92881
+Via Roma Dr	Fair Oaks	95628
+Via Roma Pl	Santa Clara	95051
+Via Roma Way	Yuba City	95993
+Via Romales	San Dimas	91773
+Via Romales	South El Monte	91733
+Via Romana	Lancaster	93535
+Via Romaya	National City	91950
+Via Romaza	Carlsbad	92009
+Via Romera	San Jose	95139
+Via Romero	Alamo	94507
+Via Romero	Palos Verdes Peninsula	90274
+Via Romero	Yorba Linda	92887
+Via Ronaldo	Burbank	91504
+Via Roncole	Saratoga	95070
+Via Ronda	Mission Viejo	92691
+Via Ronda	San Marcos	92069
+Via Rosa	Bakersfield	93311
+Via Rosa	Baldwin Park	91706
+Via Rosa	La Quinta	92253
+Via Rosa	Los Banos	93635
+Via Rosa	Palos Verdes Peninsula	90274
+Via Rosa	Paso Robles	93446
+Via Rosa	Riverside	92503
+Via Rosa	San Marcos	92078
+Via Rosa	Santa Barbara	93110
+Via Rosa	Ybl	92887
+Via Rosa	Yorba Linda	92887
+Via Rosa Linda	Valencia	91355
+Via Rosa Maria	Burbank	91504
+Via Rosado	Rancho Santa Margarita	92688
+Via Rosal	Camarillo	93012
+Via Rosal Rd	Camarillo	93012
+Via Rosario	Bakersfield	93314
+Via Rose Marie Ln	Fallbrook	92028
+Via Rosita	Hope Ranch	93110
+Via Rossi	San Diego	92129
+Via Roswitha	Rancho Santa Fe	92067
+Via Rota	Camarillo	93012
+Via Rota	San Diego	92128
+Via Rovello Ct	San Diego	92129
+Via Royal	Walnut Creek	94597
+Via Royale	Indian Wells	92210
+Via Rubi	Santa Barbara Unincorporated	93111
+Via Rubino	Newport Beach	92657
+Via Rueda	San Juan Capistrano	92675
+Via Rueda	Santa Barbara Unincorporated	93110
+Via Rueda	Temecula	92591
+Via Ruscello	Lakeside	92040

@@ -1,0 +1,67 @@
+Calle Familia	Moreno Valley	92551
+Calle Familia	Rancho Santa Fe	92067
+Calle Familia	San Clemente	92672
+Calle Fanillia	Oak Park	91377
+Calle Fanita	Santee	92071
+Calle Fantasia	San Marcos	92069
+Calle Felicia	Palm Springs	92262
+Calle Felicidad	San Clemente	92672
+Calle Felicidad	San Diego	92139
+Calle Felicidad	Temecula	92591
+Calle Felipe	La Quinta	92253
+Calle Feliz	Coachella	92236
+Calle Feliz	Rancho Cucamonga	91730
+Calle Feliz	Rancho Santa Fe	92067
+Calle Feliz	Ybl	92886
+Calle Feliz	Yorba Linda	92886
+Calle Fernando	Chula Vista	91914
+Calle Fidelidad	Thousand Oaks	91360
+Calle Fierros	San Clemente	92673
+Calle Fiesta	Indio	92201
+Calle Fiesta	San Clemente	92672
+Calle Fiesta	Temecula	92591
+Calle Fiesta Ave	Temecula	92591
+Calle Fiesta Rd	Temecula	92591
+Calle Fino Clarete	San Clemente	92673
+Calle Flor	Montebello	90640
+Calle Flora	La Quinta	92253
+Calle Florecita	Chula Vista	91910
+Calle Florecita	Escondido	92029
+Calle Florena	Coachella	92236
+Calle Florencia	Morgan Hill	95037
+Calle Florencia	Thousand Oaks	91360
+Calle Florera	Lake Forest	92630
+Calle Florera	Lake Forest	92630-2142
+Calle Flores	Pacheco	94553
+Calle Flores	Rancho Santa Fe	92067
+Calle Floristas	La Quinta	92253
+Calle Floristas St	La Quinta	92253
+Calle Fortuna	Dana Point	92624
+Calle Fortuna	Glendale	91208
+Calle Fortuna	Hemet	92545
+Calle Fortuna	La Quinta	92253
+Calle Fortuna	Rancho Santa Margarita	92688
+Calle Fortuna	Walnut	91789
+Calle Fortunada	San Diego	92123
+Calle Francesca	Rancho Santa Margarita	92688
+Calle Francesca	San Clemente	92672
+Calle Francesca	San Dimas	91773
+Calle Francisca	Vacaville	95687
+Calle Fresa	Nipomo	93444
+Calle Fresa Pl	Nipomo	93444
+Calle Fresca	Temecula	92592
+Calle Fresca Way	Temecula	92592
+Calle Fresco	Rancho Santa Fe	92091
+Calle Frescota	La Jolla	92037
+Calle Fresno	San Clemente	92672
+Calle Fresno	Santa Barbara	93105
+Calle Fresno	Thousand Oaks	91360
+Calle Frondosa	San Dimas	91773
+Calle Fronte	Camarillo	93012
+Calle Frontera	Coachella	92236
+Calle Frontera	San Clemente	92673
+Calle Frutas	San Clemente	92673
+Calle Fuego	Carlsbad	92009
+Calle Fuego	Moreno Valley	92551
+Calle Fuente	Temecula	92591
+Calle Fundador	Desert Hot Springs	92240

@@ -1,0 +1,42 @@
+36 St	San Diego	92113
+36 Th	Santa Cruz	95062
+36Th	Santa Cruz	95062
+36Th Ave	Avenal	93204
+36Th Ave	Blythe	92225
+36Th Ave	Clearlake	95422
+36Th Ave	Sacramento	95822
+36Th Ave	Sacramento	95824
+36Th Ave	San Francisco	94116
+36Th Ave	San Francisco	94121
+36Th Ave	San Francisco	94122
+36Th Ave	San Mateo	94403
+36Th Place	Los Angeles	90011
+36Th Place	Los Angeles	90018
+36Th Place	Manhattan Beach	90266
+36Th St	Bakersfield	93301
+36Th St	Emeryville	94608
+36Th St	Jurupa Valley	92509
+36Th St	Newport Beach	92663
+36Th St	Paso Robles	93446
+36Th St	Richmond	94804
+36Th St	Richmond	94805
+36Th St	Sacramento	95816
+36Th St	Sacramento	95817
+36Th St	Sacramento	95820
+36Th St	San Diego	92102
+36Th St	San Diego	92104
+36Th St	San Diego	92113
+36Th St	San Diego	92116
+36Th St S	San Diego	92113
+36Th St St	Bakersfield	93301
+36Th Street	Los Angeles	90011
+36Th Street	Los Angeles	90016
+36Th Street	Los Angeles	90018
+36Th Street	Manhattan Beach	90266
+36Th Street East	Lancaster	93535
+36Th Street East	Palmdale	93550
+36Th Street West	Lancaster	93536
+36Th Street West	Palmdale	93551
+36Th & Waterman NE	San Bernardino	92404
+36Th Way	Sacramento	95816
+36Th Way	Sacramento	95819

@@ -1,0 +1,668 @@
+Char Ave	Orangevale	95662
+Char Ln	Cottonwood	96022
+Char Marie Cir	La Mesa	91942
+Chara Ave	Moreno Valley	92553
+Chara Ct	San Jose	95124
+Chara Dr	Rancho Cucamonga	91730
+Chara St	Moreno Valley	92553
+Character	Irvine	92618
+Character Ct	Nipomo	93444
+Charade Way	Redding	96003
+Charae St	San Diego	92122
+Charan Way	Arroyo Grande	93420
+Charbono Ct	San Jose	95135
+Charbono Pt	San Diego	92131
+Charbono St	San Diego	92131
+Charbono Ter	San Diego	92131
+Charbono Way	Rancho Cordova	95670
+Charbray Ct	Patterson	95363
+Charbray St	Danville	94506
+Charca	Rancho Santa Margarita	92688
+Charco	San Clemente	92673
+Charcoal	Irvine	92620
+Charcoal Rd	Paso Robles	93446
+Charcot Av	San Jose	95131
+Charcot Ave	San Jose	95131
+Charcrest Ct	Fair Oaks	95628
+Charden Road	Nevada City	95959
+Chardon Circle	Encino	91316
+Chardon Ct	Sacramento	95828
+Chardon Ln	El Cajon	92019
+Chardonay Ct	San Jose	95135
+Chardonay Dr	Rancho Cordova	95670
+Chardoney Way	Jurupa Valley	91752
+Chardonna Dr	Perris	92571
+Chardonnay	Aptos	95003
+Chardonnay	Gonzales	93926
+Chardonnay	Greenfield	93927
+Chardonnay	Irvine	92614
+Chardonnay	Rancho Mirage	92270
+Chardonnay	Soquel	95073
+Chardonnay Avenue	Palmdale	93551
+Chardonnay Cir	Clayton	94517
+Chardonnay Cir	Coachella	92236
+Chardonnay Cir	Petaluma	94954
+Chardonnay Cir	Rancho Cucamonga	91730
+Chardonnay Circle	Salinas	93906
+Chardonnay Court	Sun Valley	91352
+Chardonnay Court	Tulare	93274
+Chardonnay Court	Vacaville	95688
+Chardonnay Ct	Brentwood	94513
+Chardonnay Ct	Ceres	95351
+Chardonnay Ct	Cloverdale	95425
+Chardonnay Ct	Danville	94506
+Chardonnay Ct	Escalon	95320
+Chardonnay Ct	Napa	94558
+Chardonnay Ct	Oakley	94561
+Chardonnay Ct	San Marcos	92069
+Chardonnay Ct	Saratoga	95070
+Chardonnay Ct	Ukiah	 
+Chardonnay Dr	Apple Valley	92308
+Chardonnay Dr	Bakersfield	93306
+Chardonnay Dr	Ladera Ranch	92694
+Chardonnay Dr	Oakley	94561
+Chardonnay Dr	Perris	92571
+Chardonnay Drive	Covina	91723
+Chardonnay Drive	Diamond Bar	91765
+Chardonnay Drive	Gonzales	93926
+Chardonnay Drive	Grass Valley	95949
+Chardonnay Drive	Greenfield	93927
+Chardonnay Drive	Salinas	93906
+Chardonnay Ln	Brentwood	94513
+Chardonnay Ln	Lodi	95242
+Chardonnay Ln	Los Altos	94024
+Chardonnay Ln	Novato	94947
+Chardonnay Ln	Paso Robles	93446
+Chardonnay Ln	Philo	 
+Chardonnay Ln	Santa Barbara Unincorporated	93454
+Chardonnay Pl	Hanford	93230
+Chardonnay Pl	Hemet	92544
+Chardonnay Pl	Murrieta	92562
+Chardonnay Pl	Paso Robles	93446
+Chardonnay Pl	San Diego	92131
+Chardonnay Pl	San Jacinto	92582
+Chardonnay Pl	Windsor	95492
+Chardonnay Road	Covina	91723
+Chardonnay St	San Diego	92131
+Chardonnay Street	Los Banos	93635
+Chardonnay Ter	Chula Vista	91913
+Chardonnay Walk	Redding	96001
+Chardonnay Way	Antioch	94509
+Chardonnay Way	Atwater	95301
+Chardonnay Way	Ceres	95351
+Chardonnay Way	Coffee Creek	96091
+Chardonnay Way	Gonzales	93926
+Chardonnay Way	Hollister	95023
+Chardonnay Way	Livingston	95334
+Chardonnay Way	Manteca	95336
+Chardonnay Way	Oroville	95965
+Chardonnay Way	Palm Desert	92211
+Chardonnay Way	Rio Vista	94571
+Chardonnay Way	Sacramento	95828
+Chardonnay Way	St Helena	94574
+Chardonnay Wy	Manteca	95336
+Chardonney Way	Escondido	92029
+Charente Ct	Fair Oaks	95628
+Charente Way	Elk Grove	95758
+Charentes Ct	Winchester	92596
+Charford Dr	Huntington Beach	92646
+Charford Dr	Huntington Beach	92646-5125
+Charford Dr	Huntington Beach	92646-5126
+Charford Dr	Huntington Beach	92646-5146
+Charford Dr	Huntington Beach	92646-5147
+Charford Dr	Huntington Beach	92646-5148
+Charford Dr	Huntington Beach	92646-5149
+Charford Street	Glendora	91740
+Charford Way	Lake Forest	92630
+Charford Way	Lake Forest	92630-6520
+Charford Way	Lake Forest	92630-6521
+Chargene Way	Sacramento	95822
+Charger Ave	Bakersfield	93306
+Charger Blvd	San Diego	92117
+Charger Ct	Hemet	92543
+Charger Dr	San Jose	95131
+Charger Way	Winchester	92596
+Chargers Way	El Segundo	90245
+Chargin Dr	Morgan Hill	95037
+Chargin Way	Morgan Hill	95037
+Chari Ln	Somis	93066
+Chariette Avenue	Rosemead	91770
+Charina Ln	Homeland	92548
+Charina Rd	Homeland	92548
+Charing	Simi Valley	93063
+Charing Court	Pomona	91766
+Charing Cross Dr	Huntington Beach	92646
+Charing Cross Dr	Huntington Beach	92646-4202
+Charing Cross Dr	Huntington Beach	92646-4233
+Charing Cross Dr	Huntington Beach	92646-4267
+Charing Cross Ln	San Jose	95132
+Charing Cross Place	Glendale	91206
+Charing Cross Rd	Pacifica	94044
+Charing Cross Rd	San Mateo	94402
+Charing Cross Rd	Spring Valley	91978
+Charing Cross Rd	Westminster	92683
+Charing Cross Road	Glendale	91206
+Charing Cross Road	Los Angeles	90024
+Charing Cross Road	Valencia	91355
+Charing Cross Way	Pacifica	94044
+Charing Ct	Simi Valley	93063
+Charing Ln	Cambria	93428
+Charing Pl	San Diego	92117
+Charing St	Hayward	94541
+Charing St	San Diego	92117
+Charing St	Simi Valley	93063
+Chariot Ci	Stockton	95219
+Chariot Ct	Bonsall	92003
+Chariot Ct	Richmond	94803
+Chariot Ct	Stockton	95219
+Chariot Place	Hacienda Heights	91745
+Chariot Rd	Eastvale	92880
+Chariot Rd	Hollister	95023
+Charise Ct	San Jose	95120
+Charise Ct	Spring Valley	91977
+Charise St	Escondido	92025
+Charisma Ct	Anderson	96007
+Charisma Ct	Camarillo	93012
+Charisma Ct	Redding	96002
+Charisma Way	Brentwood	94513
+Charismatic Cir	Menifee	92584
+Charismatic Ct	Moreno Valley	92555
+Charismatic Way	La Quinta	92253
+Chariton Avenue	Los Angeles	90056
+Chariton St	4-An-7	92804
+Chariton St	Anaheim	92804
+Chariton Street	Los Angeles	90034
+Charity	Irvine	92612
+Charity Ave	Bakersfield	93308
+Charity Ct	Moreno Valley	92553
+Charity Ct	San Jose	95116
+Charity Drive	Sylmar	91342
+Charity Lane	Dixon	95620
+Charity Way	Bella Vista	96008
+Charity Way	Escondido	92027
+Charity Way	Modesto	95356
+Charity Way	Redding	96003
+Charl Lane	Los Angeles	90046
+Charl Place	Los Angeles	90046
+Charla Ct	Thousand Oaks	91320
+Charlan Rd	Valley Center	92082
+Charlana Dr	Bakersfield	93308
+Charlanne Dr	Redding	96002
+Charlaura Ct	Sacramento	95828
+Charlbury St	Indio	92201
+Charle Dr	Costa Mesa	92627
+Charle St	Costa Mesa	92627
+Charlebois Road	Coleville	96133
+Charlee Ann Ln	Anza	92539
+Charlee Ct	Moreno Valley	92551
+Charleen Cir	Carlsbad	92008
+Charlemagne Avenue	Bellflower	90706
+Charlemagne Avenue	Long Beach	90808
+Charlemagne Avenue	Long Beach	90815
+Charlemagne Ct	Tracy	95376
+Charlemagne Ln	Tracy	95376
+Charlemagne Rd	Laguna Hills	92653
+Charlemagne Way	Modesto	95350
+Charlemont Avenue	Hacienda Heights	91745
+Charlemont Avenue	Woodland Hills	91364
+Charlemont Dr	Aliso Viejo	92656
+Charlemont Pl	Folsom	95630
+Charlemont Place	Woodland Hills	91364
+Charlene	Santa Cruz	95062
+Charlene Ave	Kramer Junction	92311
+Charlene Ave	Oroville	95965
+Charlene Ave	Oroville	95966
+Charlene Ave	San Diego	92114
+Charlene Cir	Garden Grove	92841
+Charlene Cir	Huntington Beach	92649
+Charlene Cir	Huntington Beach	92649-3541
+Charlene Cir	Huntington Beach	92649-3542
+Charlene Cir	Huntington Beach	92649-3543
+Charlene Cir	Huntington Beach	92649-3544
+Charlene Cir	Huntington Beach	92649-3545
+Charlene Cir	Huntington Beach	92649-3546
+Charlene Ct	San Jose	95129
+Charlene Dr	Chowchilla	93610
+Charlene Drive	Los Angeles	90043
+Charlene Lane	Grass Valley	95945
+Charlene Ln	Fort Bragg	 
+Charlene Pl	Santa Rosa	95401
+Charlene Way	Citrus Heights	95610
+Charlene Way	Hemet	92544
+Charlene Way	Lincoln	95648
+Charlene Way	Redding	96002
+Charlene Way	Unincorporated Alameda County	94546
+Charles	Bonny Doon	95060
+Charles	Mariposa	95338
+Charles	Moorpark	93021
+Charles Av	Arcata	95521
+Charles Av	Manteca	95336
+Charles Ave	Culver City	90232
+Charles Ave	El Cerrito	94530
+Charles Ave	El Sobrante	94803
+Charles Ave	Elverta	95626
+Charles Ave	Ful	92835
+Charles Ave	Fullerton	92835
+Charles Ave	Hayward	94544
+Charles Ave	Jurupa Valley	91752
+Charles Ave	Manteca	95336
+Charles Ave	Modesto	95350
+Charles Ave	Pinole	94564
+Charles Ave	Pleasant Hill	94523
+Charles Ave	San Diego	92154
+Charles Avenue	Culver City	90232
+Charles Avenue	Seaside	93955
+Charles Avenue	Winton	95388
+Charles Bradley Way	Sacramento	95838
+Charles Cali Dr	San Jose	95117
+Charles Cir	Cypress	90630
+Charles Court	Benicia	94510
+Charles Court	Vallejo	94591
+Charles Court	Weed	96094
+Charles Court	Winton	95388
+Charles Ct	Arcata	95521
+Charles Ct	Concord	94520
+Charles Ct	Hemet	92544
+Charles Ct	Lafayette	94549
+Charles Dean Rd	Mill Valley	94941
+Charles Dewitt Way	Alpine	91901
+Charles Dr	Oceanside	92057
+Charles Dr	Redding	96003
+Charles Dr	San Luis Obispo	93401
+Charles Drive	Grass Valley	95945
+Charles Drive	Santa Clarita	91350
+Charles Elmore Dr	El Centro	92243
+Charles Fraker Ter	Sunnyvale	94085
+Charles Fraker Tr	Sunnyvale	94085
+Charles Hill	Santa Cruz	95065
+Charles Hill Cir	Orinda	94563
+Charles Hill Ln	Orinda	94563
+Charles Hill Pl	Orinda	94563
+Charles Hill Rd	Orinda	94563
+Charles Krug Avenue	Tulare	93274
+Charles Lewis Way	San Diego	92102
+Charles Ln	Danville	94526
+Charles Ln	Huntington Beach	92647
+Charles Ln	Huntington Beach	92647-4603
+Charles Ln	Huntington Beach	92647-4604
+Charles Ln	Lagunitas	94938
+Charles Ln	Mill Valley	94941
+Charles Ln	Ramona	92065
+Charles Morris Ter	Sunnyvale	94085
+Charles Morris Way	Elk Grove	95757
+Charles Otter Dr	Sonora	95370
+Charles Pl	Bakersfield	93309
+Charles Pl	Eureka	95503
+Charles Pl	Fortuna	95540
+Charles Pl	Turlock	95380
+Charles Rd	Johnson Valley	92285
+Charles Rd	Laguna Niguel	92677
+Charles Rd	Landers	92285
+Charles Road	Malibu	90265
+Charles Schell	Royal Oaks	95076
+Charles Schell Lane	Royal Oaks	95076
+Charles Smith Ave	Rancho Cucamonga	91730
+Charles Smith Ave	Rancho Cucamonga	91739
+Charles St	Banning	92220
+Charles St	Cloverdale	95425
+Charles St	Corcoran	93212
+Charles St	Cotati	94931
+Charles St	Cottonwood	96022
+Charles St	Fontana	92335
+Charles St	Grayson	95387
+Charles St	Grover Beach	93433
+Charles St	Hughson	95326
+Charles St	La Mesa	91941
+Charles St	Lodi	95240
+Charles St	Los Gatos	95032
+Charles St	Mariposa	95338
+Charles St	Moorpark	93021
+Charles St	Oakdale	95361
+Charles St	Oxnard	93033
+Charles St	Pinole	94564
+Charles St	San Diego	92106
+Charles St	San Francisco	94131
+Charles St	San Jose	95112
+Charles St	Santa Rosa	95404
+Charles St	Sunnyvale	94086
+Charles St	Tracy	95376
+Charles St	Wildomar	92595
+Charles Street	Etna	96027
+Charles Street	Pasadena	91103
+Charles Street	Tarzana	91356
+Charles Street	West Sacramento	95605
+Charles Swisher Ct	Fallbrook	92028
+Charles Timmons Ln	Eureka	95501
+Charles Van Damme Dock	Sausalito	94965
+Charles Van Damme Way	Sonoma	95476
+Charles Way	El Cajon	92020
+Charles Way	Grass Valley	95949
+Charles Way	Palermo	95966
+Charles Way	Suisun City	94585
+Charles Willard	Carson	90746
+Charles Willard St	Carson	90746
+Charles Willard Street	Carson	90746
+Charlesburg Dr	Temecula	92591
+Charleston	Irvine	92620
+Charleston Ave	Modesto	95350
+Charleston Ave	San Bruno	94066
+Charleston Bay Ct	Lakeside	92040
+Charleston Ci	Roseville	95661
+Charleston Ct	Chino	91710
+Charleston Ct	Murrieta	92562
+Charleston Ct	Palo Alto	94303
+Charleston Ct	Stockton	95209
+Charleston Ct	Volcano	95689
+Charleston Ct	Walnut Creek	94597
+Charleston Dr	Bakersfield	93308
+Charleston Dr	Carmichael	95608
+Charleston Dr	Cottonwood	96022
+Charleston Dr	Riverside	92503
+Charleston Dr	San Jose	95130
+Charleston Drive	Claremont	91711
+Charleston Ln	Coto De Caza	92679
+Charleston Ln	Encinitas	92024
+Charleston Ln	Redlands	92373
+Charleston Ln	Temecula	92591
+Charleston Pl	Chula Vista	91914
+Charleston Pl	Ventura	93004
+Charleston Rd	Crescent City	95531
+Charleston Rd	Mountain View	94043
+Charleston Rd	Palo Alto	94303
+Charleston Rd	Volcano	95689
+Charleston Road	Los Banos	93635
+Charleston St	Adelanto	92301
+Charleston St	Costa Mesa	92626
+Charleston St	Pittsburg	94565
+Charleston St	Rancho Cucamonga	91701
+Charleston St	Temecula	92591
+Charleston St	Tustin	92782
+Charleston Street	Suisun City	94585
+Charleston Way	Brea	92821
+Charleston Way	Los Angeles	90068
+Charleston Way	Montebello	90640
+Charleston Wy	Lodi	95242
+Charlestown Ave	Indio	92201
+Charlestown Dr	Menifee	92586
+Charlestown Drive	Calabasas	91302
+Charlestown Way	Salinas	93906
+Charlesworth	Cathedral City	92234
+Charlesworth Avenue	North Hollywood	91606
+Charlesworth Dr	Cathedral City	92234
+Charlesworth Road	Pico Rivera	90660
+Charlesworth Road	Santa Fe Springs	90670
+Charlesworth Way	Cathedral City	92234
+Charlette Ln	Sun City	92585
+Charleville Boulevard	Beverly Hills	90211
+Charleville Boulevard	Beverly Hills	90212
+Charleville Cir	Irvine	92604
+Charleville Dr	Westminster	92683
+Charleville Ln	Bakersfield	93312
+Charley Ct	Moreno Valley	92555
+Charley Day Drive	Twin Lakes	93517
+Charley Lynds Way	Forbestown	95941
+Charley O Cir	North Fork	93643
+Charleys Wy	Garberville	95542
+Charleyville Cir	Huntington Beach	92649
+Charleyville Cir	Huntington Beach	92649-3701
+Charlie Aly	Sacramento	95816
+Charlie Ave	Bakersfield	93307
+Charlie Bone Rd	Cassel	96016
+Charlie Canyon Road	Castaic	91384
+Charlie Chambers Dr	Hanford	93230
+Charlie Court	Santa Clarita	91350
+Charlie Deacon Road	Nevada City	95959
+Charlie Dr	Hollister	95023
+Charlie Horse Way	Oceanside	92057
+Charlie Jolin Wy	Lakeport	95453
+Charlie Ln	Redding	96003
+Charlie Road	Rowland Heights	91748
+Charlie'S Lane	Dobbins	95935
+Charlie'S Wy	Clearlake Oaks	95423
+Charlie Sifford Drive	Los Angeles	90047
+Charlinda Dr	Mission Viejo	92691
+Charline Ct	Modesto	95350
+Charline Place	Rowland Heights	91748
+Charlois Dr	Winchester	92596
+Charloma Dr	North Tustin	92780
+Charloma Dr	Tustin	92780
+Charloma Drive	Downey	90240
+Charloma St	Rancho Cucamonga	91701
+Charlott Ln	Redwood City	94063
+Charlotta Dr	Huntington Beach	92649
+Charlotta Dr	Huntington Beach	92649-6008
+Charlotta Dr	Huntington Beach	92649-6009
+Charlotta Way	Escondido	92026
+Charlotte	Irvine	92603
+Charlotte	Thousand Oaks	91320
+Charlotte Ave	Ceres	95307
+Charlotte Ave	Citrus Heights	95610
+Charlotte Ave	Concord	94518
+Charlotte Ave	San Jose	95124
+Charlotte Avenue	Rosemead	91770
+Charlotte Avenue	San Gabriel	91775
+Charlotte Avenue	San Gabriel	91776
+Charlotte Avenue	Yuba City	95991
+Charlotte Avenue North	San Gabriel	91775
+Charlotte Court	Canoga Park	91304
+Charlotte Court	Olivehurst	95961
+Charlotte Ct	Chico	95973
+Charlotte Ct	El Sobrante	94803
+Charlotte Ct	Soulsbyville	95372
+Charlotte Ct	Stockton	95207
+Charlotte Dr	Hemet	92544
+Charlotte Dr	San Jose	95123
+Charlotte Dr	San Jose	95126
+Charlotte Dr	San Marcos	92069
+Charlotte Dr	San Rafael	94901
+Charlotte Dr	Santa Maria	93454
+Charlotte Drive	Torrance	90505
+Charlotte Lane	Vacaville	95688
+Charlotte Ln	Jurupa Valley	92509
+Charlotte Ln	Mission Canyon	93105
+Charlotte Ln	Sacramento	95821
+Charlotte Pl	Apple Valley	92308
+Charlotte Place	Palmdale	93552
+Charlotte Rd	Twentynine Palms	92277
+Charlotte St	Adelanto	92301
+Charlotte St	Bakersfield	93313
+Charlotte St	Hemet	92544
+Charlotte St	La Jolla	92037
+Charlotte St	Lodi	95242
+Charlotte St	Thousand Oaks	91320
+Charlotte Street	Los Angeles	90033
+Charlotte Way	Riverside	92504
+Charlotte Way	San Diego	92129
+Charlottes Way	Muir Beach	94965
+Charlottes Way	Sausalito	94965
+Charlottesville Ln	Ceres	95307
+Charlson	Aptos	95003
+Charlson Way	Napa	94558
+Charlton Ave	Hemet	92544
+Charlton Cir	Pleasant Hill	94523
+Charlton Ct	San Francisco	94123
+Charlton Dr	Laguna Hills	92653
+Charlton Dr	Pleasant Hill	94523
+Charlton Lane	Porter Ranch	91326
+Charlton Peak St	Coachella	92236
+Charlton Rd	Madera	93636
+Charlton Road	San Marino	91108
+Charlton St	Perris	92570
+Charlton St	San Carlos	94070
+Charltonn Peak St	Coachella	92236
+Charlwood Circle	Cerritos	90703
+Charlwood Street	Artesia	90701
+Charlwood Street	Cerritos	90703
+Charlwood Street	Lakewood	90713
+Charlyn Ln	Fallbrook	92028
+Charm Acres Place	Pacific Palisades	90272
+Charm Ln	Adelanto	92301
+Charm Ln	Crescent City	95531
+Charm Way	Sacramento	95835
+Charmack Court	Woodland	95776
+Charmain Cir	Mountain View	94041
+Charmain Ct	Antelope	95843
+Charmain Dr	Campbell	95008
+Charmain St	Bakersfield	93313
+Charmaine Ct	Lathrop	95330
+Charmaine Ct	Novato	94949
+Charmaine Ln	Anderson	96007
+Charmaine Ln	North Tustin	92705
+Charmaine Ln.	Santa Ana	92705
+Charmaine Ln	Ybl	92886
+Charmaine Ln	Yorba Linda	92886
+Charmaine Pl	Menifee	92584
+Charmaine Way	San Diego	92131
+Charman Hill	Aptos	95003
+Charmant Dr	San Diego	92122
+Charmat Ct	San Jose	95135
+Charmel Court	Pacific Palisades	90272
+Charmel Lane	Pacific Palisades	90272
+Charmel Place	Pacific Palisades	90272
+Charmeran Ave	San Jose	95124
+Charmes Ct	San Jose	95135
+Charmes Ct	Temecula	92592
+Charmette Way	Sacramento	95823
+Charmglow Ct	San Jose	95121
+Charmian Court	Benicia	94510
+Charmian Dr	Santa Rosa	95409
+Charmin Cir	Hemet	92544
+Charming Glen	Escondido	92026
+Charming Way	Manteca	95337
+Charming Wy	Manteca	95337
+Charmingdale Road	Diamond Bar	91765
+Charmion Lane	Encino	91316
+Charmont Road	La Verne	91750
+Charmony	Laguna Niguel	92677
+Charmstone Ct	Brentwood	94513
+Charmstone Ct	Walnut Creek	94595
+Charmstone Way	Ione	95640
+Charmwood Ct	Sunnyvale	94089
+Charmwood Sq	San Jose	95117
+Charmy Ct	Moorpark	93021
+Charnal Cir	Oakhurst	93644
+Charner Street	Bell Gardens	90201
+Charning Cross Ln	Santa Rosa	95401
+Charnock Avenue	Los Angeles	90034
+Charnock Dr	Irvine	92604
+Charnock Road	Los Angeles	90034
+Charnock Road	Los Angeles	90066
+Charnwood Avenue	Alhambra	91803
+Charnwood Ct	Lincoln	95648
+Charnwood Ct	San Jose	95132
+Charolais Court	13	94526
+Charolais Ct	Eastvale	92880
+Charolais Drive	Gonzales	93926
+Charolais Pl	Perris	92571
+Charolais Rd	Paso Robles	93446
+Charolais Way	Citrus Heights	95610
+Charolais Way	Elk Grove	95624
+Charolais Way	Palo Cedro	96073
+Charoliase Dr	Navarro	 
+Charon Ave	Vista Del Mar	92274
+Charonne Court	Valencia	91355
+Charonoak Place	San Gabriel	91775
+Charqui Ct	Concow	95965
+Charreadas	Laguna Niguel	92677
+Charred Oak Way	Manteca	95337
+Charred Oak Wy	Manteca	95337
+Charrick Drive	Tujunga	91042
+Charrick Place	Tujunga	91042
+Charring Ln	Carmichael	95608
+Charrington Way	Sacramento	95829
+Charro Ave	Thousand Oaks	91320
+Charro Court	San Dimas	91773
+Charro Ct	Bonita	91902
+Charro Ct	Santa Rosa	95401
+Charro Dr	Indio	92203
+Charro Dr	San Juan Capistrano	92675
+Charro Dr	Santa Rosa	95401
+Charro Pl	Santa Rosa	95401
+Charro Rd	Barstow	92311
+Charro Rd	Lake Elsinore	92530
+Charro St	Encinitas	92024
+Charro Way	Fairfax	94930
+Charro Way	Nipomo	93444
+Charro Way	Salinas	93905
+Charron Ln	Bella Vista	96008
+Charron Ln	Redding	96003
+Charsan Ln	Cupertino	95014
+Chart Ct	Sacramento	95831
+Chart House St	San Diego	92126
+Chart Ln	Redwood City	94065
+Chart Trail	Topanga	90290
+Charter Ave	San Diego	92120
+Charter Court	Palmdale	93552
+Charter Ct	Orcutt	93455
+Charter Ct	Rocklin	95765
+Charter Ct	Roseville	95661
+Charter Ct	Santa Maria	93455
+Charter Drive	Covina	91724
+Charter Hall Ct	San Jose	95136
+Charter Lane	Fairfield	94533
+Charter Oak	Salinas	93907
+Charter Oak Ave	San Francisco	94124
+Charter Oak Ave	St Helena	94574
+Charter Oak Boulevard	Salinas	93907
+Charter Oak Cir	Walnut Creek	94597
+Charter Oak Dr	Carlsbad	92008
+Charter Oak Drive	Visalia	93292
+Charter Oak Ln	Riverside	92503
+Charter Oak Pl	San Jose	95120
+Charter Oak Street	South Pasadena	91030
+Charter Oak Ter	Ybl	92886
+Charter Oak Ter	Yorba Linda	92886
+Charter Oaks Ave	Bakersfield	93309
+Charter Oaks Cir	Los Gatos	95032
+Charter Oaks Ct	Bakersfield	93309
+Charter Park Ct	San Jose	95136
+Charter Park Dr	San Jose	95136
+Charter Rd	Rocklin	95765
+Charter Rd	Villa Park	92861
+Charter St	Redwood City	94063
+Charter Street	Irwindale	91706
+Charter Street	Los Angeles	90058
+Charter Way	Irwindale	91706
+Charter Way	Vacaville	95687
+Charters Ave	Saratoga	95070
+Charters Avenue	Los Angeles	90042
+Charters Ct	Rancho Cordova	95670
+Charters Ct	Saratoga	95070
+Charters Ln	Redding	96003
+Charterten Ave	Bakersfield	93307
+Charterwood Ct	Thousand Oaks	91362
+Chartham Court	Hacienda Heights	91745
+Chartham Place	Hacienda Heights	91745
+Charthouse Circle	Westlake Village	91361
+Charthouse Cv	Buena Park	90621
+Charthouse Ln	Foster City	94404
+Chartin	Blue Lake	95525
+Chartin Rd	Blue Lake	95521
+Chartin Rd	Blue Lake	95525
+Chartin Wy	Blue Lake	95525
+Chartmaster Place	Vallejo	94591
+Chartres Drive	Rancho Palos Verdes	90275
+Chartres Ln	Bakersfield	93311
+Chartreuse Ave	Winchester	92596
+Charts Ct	Smith River	95567
+Chartwell Dr	Riverside	92506
+Chartwell Ln	Tracy	95377
+Chartwell Pl	Modesto	95355
+Chartwell St	San Ramon	94583
+Chartwell Way	Coarsegold	93614
+Charvers Avenue	Glendora	91740
+Charwood Cir	Lake Forest	92630
+Charwood Cir	Lake Forest	92630-3101
+Charwood Cir	Lake Forest	92630-3102
+Charwood Ct	Brea	92821
+Charwood Ct	Rancho Cucamonga	91737
+Charwood Ct	Spring Valley	91978
+Charwood Ln	Citrus Heights	95621
+Charwood Ln	Huntington Beach	92646
+Charwood Ln	Huntington Beach	92646-5904
+Charwood Ln	Huntington Beach	92646-5919
+Charwood Ln	Huntington Beach	92646-5920
+Charwood Ln	North Tustin	92705
+Charwood Pl	Bakersfield	93306
+Charwood Place	Diamond Bar	91765
+Charwood Rd	Victorville	92392

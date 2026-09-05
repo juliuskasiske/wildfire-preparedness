@@ -1,0 +1,296 @@
+Poinciana Dr	El Cajon	92021
+Poinciana Dr	Santa Clara	95051
+Poinciana Dr	Sunnyvale	94086
+Poinciana Pl	Palm Desert	92260
+Poinciana Rd	Adelanto	92301
+Poinciana St	Hayward	94545
+Poinciana Street	Pico Rivera	90660
+Poinciana Street	Whittier	90606
+Poincianna Street	Whittier	90606
+Poindexter Ave	Garden Grove	92840
+Poindexter Ave	Moorpark	93021
+Poindexter Pl	Loomis	95650
+Poindexter Rd	Moorpark	93021
+Poindexter Street	Los Angeles	90044
+Poinsett Ave	El Cerrito	94530
+Poinsett Ave	Richmond	94805
+Poinsett Rd	San Diego	92131
+Poinsetta Ave	Clovis	93619
+Poinsetta Ave	Redding	96003
+Poinsetta Ave	Thousand Oaks	91362
+Poinsetta Dr	Lake Elsinore	92532
+Poinsetta Dr	Riverside	92503
+Poinsetta Ln	Santa Rosa	95404
+Poinsetta Pl	Jurupa Valley	92509
+Poinsetta Pl	Ventura	93001
+Poinsetta St	Bakersfield	93307
+Poinsetta St	Corona	92882
+Poinsettia	Irvine	92604
+Poinsettia Av	Bay Point	94565
+Poinsettia Ave	Bay Point	94565
+Poinsettia Ave	Fountain Valley	92708
+Poinsettia Ave	Newport Beach	92625
+Poinsettia Ave	San Diego	92107
+Poinsettia Ave	San Marcos	92078
+Poinsettia Ave	San Mateo	94403
+Poinsettia Ave	Thousand Oaks	91362
+Poinsettia Ave	Vista	92081
+Poinsettia Ave	Vista	92083
+Poinsettia Avenue	El Monte	91732
+Poinsettia Avenue	Manhattan Beach	90266
+Poinsettia Avenue	Monrovia	91016
+Poinsettia Cir	Calimesa	92320
+Poinsettia Cir	Fontana	92336
+Poinsettia Ct	Chino	91710
+Poinsettia Ct	Culver City	90232
+Poinsettia Ct	Laguna Hills	92653
+Poinsettia Ct	Sacramento	95838
+Poinsettia Ct	San Jose	95136
+Poinsettia Ct	Vista	92083
+Poinsettia Ct	Winchester	92596
+Poinsettia Dr	Buena Park	90620
+Poinsettia Dr	Lake Elsinore	92532
+Poinsettia Dr	Modesto	95356
+Poinsettia Dr	Poway	92064
+Poinsettia Dr	Sacramento	95829
+Poinsettia Dr	San Diego	0
+Poinsettia Dr	San Diego	92106
+Poinsettia Dr	San Diego	92107
+Poinsettia Dr	Ventura	93004
+Poinsettia Gardens	Ventura	93004
+Poinsettia Gardens Dr	Ventura	93004
+Poinsettia Lane	Santa Fe Springs	90670
+Poinsettia Ln	Carlsbad	92009
+Poinsettia Ln	Carlsbad	92011
+Poinsettia Ln	Garden Grove	92841
+Poinsettia Ln	Wildomar	92595
+Poinsettia Ln	Winchester	92596
+Poinsettia Park	Encinitas	92024
+Poinsettia Park Ct	Encinitas	92024
+Poinsettia Park N	Encinitas	92024
+Poinsettia Park S	Encinitas	92024
+Poinsettia Pl	La Quinta	92253
+Poinsettia Pl	Perris	92571
+Poinsettia Pl	Ventura	93001
+Poinsettia Place	Los Angeles	90036
+Poinsettia Place	Los Angeles	90046
+Poinsettia St	Bakersfield	93307
+Poinsettia St	Chula Vista	91911
+Poinsettia St	Corona	92882
+Poinsettia St	Moreno Valley	92555
+Poinsettia St	Roseville	95747
+Poinsettia St	San Luis Obispo	93401
+Poinsettia St	San Ramon	94583
+Poinsettia Street	El Monte	91732
+Poinsettia Way	Westminster	92683
+Poinsettia Wy	Santa Barbara Unincorporated	93111
+Poinstettia Dr	Lake Elsinore	92532
+Point	Bass Lake	93604
+Point Alto	La Mesa	91941
+Point Andrus Ct	Antioch	94531
+Point Arena Court	Newhall	91321
+Point Arena Ct	Antioch	94531
+Point Arena Ct	Chula Vista	91911
+Point Arena Ct	Sacramento	95828
+Point Arena Place	Cerritos	90703
+Point Arguello	Oceanside	92058
+Point Arguello Place	Cerritos	90703
+Point Bella Dr	Riverside	92508
+Point Buchon	Oceanside	92058
+Point Buchon Ct	Chula Vista	91911
+Point Cabrillio Dr	Mendocino	 
+Point Cabrillo	Oceanside	92058
+Point Cabrillo Ct	Chula Vista	91911
+Point Cabrillo Dr	Caspar	 
+Point Cabrillo Dr	Mendocino	 
+Point Cabrillo Dr	Mendocino	95460
+Point Cabrillo Drive	Mendocino	 
+Point Cabrillo Rd	Caspar	 
+Point Caiman Ct	Chula Vista	91911
+Point Carlo	Lake Elsinore	92532
+Point Catalina	Laguna Niguel	92677
+Point Conception Ct	Chula Vista	91911
+Point Conception Place	Cerritos	90703
+Point Creek Ct	San Jose	95133
+Point Creek Dr	San Jose	95133
+Point Defiance Court	Plumas Lake	95961
+Point Defiance Ct	Chula Vista	91911
+Point Degada	Oceanside	92054
+Point Degada	Oceanside	92058
+Point Del Mar	Newport Beach	92625
+Point Delgada Ct	Chula Vista	91911
+Point Dr	Kelseyville	95451
+Point Dr	Sonoma	95476
+Point Drive	Truckee	96161
+Point Dume Ct	Antioch	94531
+Point Dume Ct	Chula Vista	91911
+Point Dume Way	Manteca	95337
+Point Dume Wy	Manteca	95337
+Point Dunes Ct	San Jose	95139
+Point East Dr	Rancho Cordova	95742
+Point Eden Way	Hayward	94545
+Point Fermine Ct	Chula Vista	91911
+Point Grey Rd	Ceres	95307
+Point Hamiltair Ln	Lake Arrowhead	92352
+Point Happy Way	La Quinta	92253
+Point Hueneme Ct	Chula Vista	91911
+Point Judith St	Fontana	92336
+Point Lakeview Rd	Kelseyville	95451
+Point Lakeview Rd	Lower Lake	95457
+Point Land Farms Dr	Nice	95464
+Point Lechuza Drive	Malibu	90265
+Point Lobo Ct	Elk Grove	95758
+Point Lobos Ave	San Francisco	94121
+Point Lobos Ct	Antioch	94531
+Point Lobos Ln	Santa Maria	93454
+Point Loma	Laguna Niguel	92677
+Point Loma Ave	San Diego	92106
+Point Loma Ave	San Diego	92107
+Point Loma Ct	Chula Vista	91911
+Point Loma Ct	Hemet	92544
+Point Loma Dr	Huntington Beach	92647
+Point Loma Dr	Huntington Beach	92647-6100
+Point Loma Dr	Huntington Beach	92647-6115
+Point Loma Dr	Huntington Beach	92647-6116
+Point Loma Dr	Huntington Beach	92647-6117
+Point Loma Dr	Huntington Beach	92647-6118
+Point Loma Dr	Newport Beach	92625
+Point Loma Pl	Oceanside	92057
+Point Loma Place	Walnut	91789
+Point Loma St	Fontana	92336
+Point Loma St	Fountain Valley	92708
+Point Loma Way	Sacramento	95828
+Point Loma Way	San Diego	92106
+Point Malaga Pl	Oceanside	92057
+Point Marina	Canyon Lake	92587
+Point Marina Dr	Canyon Lake	92587
+Point Marina Dr	Sun City	92587
+Point Martin Way	Daly City	94014
+Point Medanas Ct	Chula Vista	91911
+Point Mugu Ct	Chula Vista	91911
+Point Of Rocks	Trona	93562
+Point Of Rocks Dr	Idyllwild	92549
+Point Of Timber Rd	Brentwood	94513
+Point Of Timber Rd	Discovery Bay	94505
+Point Pacific Ct	Chula Vista	91911
+Point Park	Beaumont	92223
+Point Pinole Ct	Richmond	94806
+Point Pl	Laguna Beach	92651
+Point Pleasant Rd	Elk Grove	95757
+Point Prim Ct	Carmichael	95608
+Point Rd	Big Bear Lake	92315
+Point Rd	Big Creek	93605
+Point Rd	Lake Arrowhead	92352
+Point Rd	Susanville	96130
+Point Reyes	Oceanside	92058
+Point Reyes Ci	Stockton	95209
+Point Reyes Court	Vallejo	94591
+Point Reyes Ct	Antioch	94531
+Point Reyes Ct	Carlsbad	92010
+Point Reyes Ct	Chula Vista	91911
+Point Reyes Place	Cerritos	90703
+Point Reyes Place	Davis	95616
+Point Reyes St	Fontana	92336
+Point Reyes St	Fountain Valley	92708
+Point Reyes Way	Sacramento	95826
+Point Reyes Way	San Mateo	94403
+Point Rock Way	Gold River	95670
+Point Sal Ct	Antioch	94531
+Point Sal Ct	Chula Vista	91911
+Point Sal Dunes Cir	Guadalupe	93434
+Point Sal Dunes Way	Guadalupe	93434
+Point Sal Dunes Wy	Guadalupe	93434
+Point Sal Lp	Lompoc	93436
+Point Sal Rd	Casmalia	93429
+Point Sal Rd	Casmalia	93455
+Point San Bruno Blvd	South San Francisco	94080
+Point San Luis Ct	Chula Vista	91911
+Point San Pedro Rd	San Rafael	94901
+Point Shore Dr	Lake Elsinore	92530
+Point St	San Diego	92106
+Point Sur	Oceanside	92058
+Point Sur Ct	Antioch	94531
+Point Sur Ct	Chula Vista	91911
+Point Sur Dr	Madera	93637
+Point Sur Dr	Newport Beach	92625
+Point Sur St	Fountain Valley	92708
+Point Vicente	Oceanside	92058
+Point Vicente Ct	Chula Vista	91911
+Point View Ct	La Mesa	91941
+Point View Dr	Groveland	95321
+Point Vista Ln	Chino Hills	91709
+Point Way	Carlsbad	92008
+Point West Dr	Paradise	95969
+Point West Way	Sacramento	95815
+Point Windemere Pl	Oceanside	92057
+Point Woods Ct	Temecula	92591
+Pointdexter Ct	San Jose	95133
+Pointe	Aptos	95003
+Pointe	Madera	93637
+Pointe Bella Dr	Riverside	92508
+Pointe Breeze Dr	Menifee	92585
+Pointe Cir	Ladera Ranch	92694
+Pointe Cir	Wildomar	92595
+Pointe Claire Ct	Sunnyvale	94087
+Pointe Claire Dr	Sunnyvale	94087
+Pointe Coupee	Chino Hills	91709
+Pointe Ct	Fontana	92336
+Pointe Ct	Pioneer	95666
+Pointe Del Mar Way	Del Mar	92014
+Pointe Dr	Brea	92821
+Pointe Hope Lndg	San Jose	95131
+Pointe Lourose Avenue	Gustine	95322
+Pointe Monarch Dr	Dana Point	92629
+Pointe Oeste Avenue	Gustine	95322
+Pointe Pacific	Daly City	94014
+Pointe Pacific Dr	Daly City	94014
+Pointe Pkwy	Spring Valley	91977
+Pointe Pkwy	Spring Valley	91978
+Pointe Pky	Spring Valley	91977
+Pointe Py	Spring Valley	91977
+Pointe Reyes	Laguna Niguel	92677
+Pointe Royal Dr	Bakersfield	93311
+Pointe Royale	Laguna Niguel	92677
+Pointe San Pablo	Laguna Niguel	92677
+Pointe Stirling	Dana Point	92629
+Pointe Sur	Laguna Niguel	92677
+Pointe Sutton	Dana Point	92629
+Pointe Trinity	Dana Point	92629
+Pointe Vale Avenue	Gustine	95322
+Pointe View Pl	South San Francisco	94080
+Pointe Vincente	Laguna Niguel	92677
+Pointe Vista Cir	Corona	92881
+Pointe Vista Ct	Corona	92881
+Pointe Vista Ln	Corona	92881
+Pointe West	Madera	93637
+Pointed Oak Ln	San Diego	92131
+Pointed Oak Place	Agoura Hills	91301
+Pointed Rock Rd	Ramona	92065
+Pointer Court	Merced	95340
+Pointer Ct	Bakersfield	93309
+Pointer Ct	Riverside	92503
+Pointer Ct	Sacramento	95823
+Pointer Drive	Walnut	91789
+Pointer Glen	Escondido	92029
+Pointer Gln	Escondido	92029
+Pointer Lane	Los Angeles	90064
+Pointer Lane	Los Angeles	90077
+Pointer Ln	Vista	92084
+Pointer Loop	Eastvale	92880
+Pointer Loop St	Eastvale	92880
+Pointer Way	Newman	95360
+Pointillist Ct	Oceanside	92057
+Pointing Rock	Borrego Springs	92004
+Pointing Rock Dr	Borrego Springs	92004
+Pointing Rock Rd	Borrego Springs	92004
+Pointsettia Ave	Vista	92081
+Pointsettia Cir	Calimesa	92320
+Pointsettia Dr	Lake Elsinore	92532
+Pointsettia St	Murrieta	92563
+Pointsettia St	San Ramon	94583
+Pointview Ln	Richmond	94806
+Poipu Ln	Huntington Beach	92649-6221
+Poipu Way	San Diego	92154
+Poirier Way	Sacramento	95822
+Poison Oak Ln	Redding	96003
+Poison Oak Pl	North Fork	93643

@@ -1,0 +1,214 @@
+Arla Avenue	Dinuba	93618
+Arla Ct	Moreno Valley	92555
+Arla St	Moreno Valley	92555
+Arlana St	Bakersfield	93304
+Arland Avenue	Rosemead	91770
+Arland Rd	Carlsbad	92008
+Arlberg Rd	Hickman	95323
+Arleda Ln	Concord	94521
+Arlee Avenue	Norwalk	90650
+Arlee Avenue	Santa Fe Springs	90670
+Arlee Dr	Monte Sereno	95030
+Arlee Place	Sylmar	91342
+Arleen Ave	Paso Robles	93446
+Arleen Ave	Sunnyvale	94087
+Arleen Way	Pacifica	94044
+Arleen Way	San Jose	95130
+Arlen Ct	San Jose	95132
+Arlen Dr	Rohnert Park	94928
+Arlen Drive	Newhall	91321
+Arlene	Watsonville	95076
+Arlene Av	Oxnard	93036
+Arlene Ave	Garden Grove	92841
+Arlene Ave	Orangevale	95662
+Arlene Ave	Oxnard	93036
+Arlene Ave	Salton City	92274
+Arlene Court	Vacaville	95688
+Arlene Court	Yreka	96097
+Arlene Ct	City Of Shasta Lake	96019
+Arlene Ct	Escalon	95320
+Arlene Ct	Galt	95632
+Arlene Ct	Indio	92201
+Arlene Ct	Petaluma	94952
+Arlene Ct	San Diego	92117
+Arlene Ct	Simi Valley	93065
+Arlene Ct	Walnut Creek	94595
+Arlene Dr	Indio	92201
+Arlene Dr	Palm Springs	92264
+Arlene Dr	Roseville	95678
+Arlene Dr	Santa Clara	95050
+Arlene Dr	Walnut Creek	94595
+Arlene Drive	Vacaville	95688
+Arlene Drive	Winton	95388
+Arlene Ln	Walnut Creek	94595
+Arlene Pl	San Diego	92117
+Arlene St	Redlands	92374
+Arlene St	San Diego	92117
+Arlene Ter	San Rafael	94903
+Arlene Terrace	Los Angeles	90046
+Arlene Way	Novato	94947
+Arlene Way	Paradise	95969
+Arlene Way	Perris	92570
+Arlene Way	Ramona	92065
+Arleta Ave	Bakersfield	93308
+Arleta Ave	San Francisco	94134
+Arleta Ave	San Jose	95128
+Arleta Avenue	Pacoima	91331
+Arleta Avenue	San Fernando	91345
+Arleta Avenue	Sun Valley	91352
+Arleta Ct	Sacramento	95823
+Arletta Cir	Garden Grove	92840
+Arlette Ave	Hayward	94541
+Arlette Ct	Adelanto	92301
+Arlette Dr	Victorville	92394
+Arlette St	Santee	92071
+Arlewood Ct	San Ramon	94582
+Arley Ct	Daly City	94015
+Arlia Dr	San Martin	95046
+Arlie Ct	Modesto	95350
+Arlin Ln	Redding	96002
+Arlin Rhine Dr	Oroville	95965
+Arlinda Ct	Turlock	95382
+Arline Avenue	Artesia	90701
+Arline Avenue	Hawaiian Gardens	90716
+Arline Avenue	Lakewood	90715
+Arline Ln	Morgan Hill	95037
+Arline Street	Canyon Country	91351
+Arline Street	West Covina	91792
+Arlingdale Cir	Rio Linda	95673
+Arlingdale Way	Spring Valley	91977
+Arlington	Aptos	95003
+Arlington	Irvine	92620
+Arlington	Monterey	93940
+Arlington	Riverside	92504
+Arlington Av	Ferndale	95536
+Arlington Av	Santa Barbara	93101
+Arlington Ave	Berkeley	94707
+Arlington Ave	El Cerrito	94530
+Arlington Ave	Ful	92835
+Arlington Ave	Fullerton	92835
+Arlington Ave	Kensington	94707
+Arlington Ave	Lemoore	93245
+Arlington Ave	Riverside	92503
+Arlington Ave	Riverside	92504
+Arlington Ave	Riverside	92505
+Arlington Ave	Riverside	92506
+Arlington Ave	Sacramento	95820
+Arlington Ave	Santa Rosa	95407
+Arlington Ave	Simi Valley	93063
+Arlington Ave	Yucaipa	92399
+Arlington Avenue	Glendale	91208
+Arlington Avenue	Los Angeles	90008
+Arlington Avenue	Los Angeles	90018
+Arlington Avenue	Los Angeles	90019
+Arlington Avenue	Los Angeles	90043
+Arlington Avenue	Lynwood	90262
+Arlington Avenue	Paramount	90723
+Arlington Avenue	Torrance	90501
+Arlington Blvd	El Cerrito	94530
+Arlington Blvd	Richmond	94805
+Arlington Boulevard	Davis	95616
+Arlington Cir	Bonsall	92003
+Arlington Cir	Novato	94947
+Arlington Cir	Pittsburg	94565
+Arlington Circle	Fairfield	94533
+Arlington Circle	Woodland	95695
+Arlington Court	Dixon	95620
+Arlington Court	Palmdale	93552
+Arlington Court	Suisun City	94585
+Arlington Court	Tulare	93274
+Arlington Ct	Anderson	96007
+Arlington Ct	Berkeley	94707
+Arlington Ct	Brentwood	94513
+Arlington Ct	Danville	94526
+Arlington Ct	Fontana	92336
+Arlington Ct	Kensington	94707
+Arlington Ct	Manteca	95337
+Arlington Ct	Novato	94947
+Arlington Ct	Perris	92571
+Arlington Ct	Pittsburg	94565
+Arlington Ct	Redding	96007
+Arlington Ct	Roseville	95747
+Arlington Ct	San Martin	95046
+Arlington Ct	Sunnyvale	94087
+Arlington Ct	Turlock	95382
+Arlington Dr	Chico	95926
+Arlington Dr	Chino Hills	91709
+Arlington Dr	Costa Mesa	92626
+Arlington Dr	Crescent City	95531
+Arlington Dr	Hollister	95023
+Arlington Dr	Laguna Niguel	92677
+Arlington Dr	Lodi	95242
+Arlington Dr	Modesto	95350
+Arlington Dr	Oceanside	92057
+Arlington Dr	Petaluma	94952
+Arlington Dr	Pittsburg	94565
+Arlington Dr	Roseville	95747
+Arlington Dr	South San Francisco	94080
+Arlington Dr	Ukiah	 
+Arlington Drive	Claremont	91711
+Arlington Drive	Pasadena	91105
+Arlington Drive	Pico Rivera	90660
+Arlington Drive	Rio Vista	94571
+Arlington Ln	Chino	91710
+Arlington Ln	Daly City	94014
+Arlington Ln	Ferndale	95536
+Arlington Ln	Huntington Beach	92649
+Arlington Ln	Huntington Beach	92649-2604
+Arlington Ln	Huntington Beach	92649-2605
+Arlington Ln	Huntington Beach	92649-2606
+Arlington Ln	Huntington Beach	92649-2607
+Arlington Ln	Huntington Beach	92649-2608
+Arlington Ln	Huntington Beach	92649-2609
+Arlington Ln	Kensington	94707
+Arlington Ln	San Jose	95129
+Arlington Ln	San Mateo	94402
+Arlington Pl	Chino	91710
+Arlington Pl	El Cajon	92021
+Arlington Pl	Lemoore	93245
+Arlington Pl	Rancho Cucamonga	91701
+Arlington Rd	Concord	94520
+Arlington Rd	Madera	93638
+Arlington Rd	Redwood City	94062
+Arlington Road	West Sacramento	95691
+Arlington St	Adelanto	92301
+Arlington St	Bakersfield	93305
+Arlington St	Cambria	93428
+Arlington St	Fontana	92336
+Arlington St	Ladera Ranch	92694
+Arlington St	San Diego	92117
+Arlington St	San Francisco	94110
+Arlington St	San Francisco	94131
+Arlington St	Tustin	92782
+Arlington Street	Castaic	91384
+Arlington Way	Brentwood	94513
+Arlington Way	Fontana	92336
+Arlington Way	Hemet	92543
+Arlington Way	Martinez	94553
+Arlington Way	Menlo Park	94025
+Arlington Way	Oakdale	95361
+Arlington Way	Plumas Lake	95961
+Arlington Way	San Ramon	94582
+Arlington Way	Santee	92071
+Arlington Way	Vacaville	95687
+Arliss Ct	Grand Terrace	92313
+Arliss Ct	San Diego	92154
+Arliss Dell	Grand Terrace	92313
+Arliss Dr	Cambria	93428
+Arliss Dr	Grand Terrace	92313
+Arliss Ln	Grand Terrace	92313
+Arliss St	Riverside	92507
+Arliss Way	Grand Terrace	92313
+Arliss Way	Sacramento	95822
+Arlisson Dr	Sacramento	95827
+Arlista Street	La Puente	91746
+Arlitos St	Bakersfield	93307
+Arlmont Dr	Berkeley	94707
+Arlmont Dr	Kensington	94707
+Arlon Place	Aromas	95004
+Arlon Street	Hilmar	95324
+Arlotte Avenue	Long Beach	90808
+Arloura Way	Tustin	92780
+Arlow Way	Oceanside	92057
+Arly Ct	Santee	92071
+Arlyn Way	Fair Oaks	95628

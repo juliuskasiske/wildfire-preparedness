@@ -1,0 +1,28 @@
+44Th	Capitola	95010
+44Th Ave	Clearlake	95422
+44Th Ave	Coachella	92236
+44Th Ave	Indio	92201
+44Th Ave	Indio	92203
+44Th Ave	Sacramento	95824
+44Th Ave	San Francisco	94116
+44Th Ave	San Francisco	94121
+44Th Ave	San Francisco	94122
+44Th Ave	San Mateo	94403
+44Th St	Bakersfield	93301
+44Th St	Emeryville	94608
+44Th St	Jurupa Valley	92509
+44Th St	Newport Beach	92663
+44Th St	Richmond	94805
+44Th St	Sacramento	95817
+44Th St	Sacramento	95819
+44Th St	Sacramento	95820
+44Th St	Sacramento	95823
+44Th St	Sacramento	95824
+44Th St	San Diego	0
+44Th St	San Diego	92102
+44Th St	San Diego	92105
+44Th St	San Diego	92115
+44Th St N	San Diego	92105
+44Th Street	Lancaster	93536
+44Th Street	Manhattan Beach	90266
+44Th Street West	Lancaster	93536

@@ -1,0 +1,71 @@
+Rex	Jackson	95642
+Rex	Lucerne Valley	92356
+Rex Ave	Bakersfield	93304
+Rex Ave	Jackson	95642
+Rex Ave	San Diego	92105
+Rex Avenue	Winton	95388
+Rex Cir	Campbell	95008
+Rex Circle	Salinas	93906
+Rex Clift Lane	Fairfield	94533
+Rex Cole Rd	San Bernardino	92407
+Rex Court	Canyon Country	91387
+Rex Court	Pomona	91767
+Rex Ct	Aliso Viejo	92656
+Rex Ct	Palm Springs	92262
+Rex Ct	Sacramento	95822
+Rex Ct	Stockton	95210
+Rex Floyd Lane	Fairfield	94533
+Rex Hall St	El Cajon	92021
+Rex Ln	El Cajon	92021
+Rex Ln	Oroville	95966
+Rex Ln	Redding	96003
+Rex Pl	Goleta	93117
+Rex Rd	Hayward	94541
+Rex Rd	Nuevo	92567
+Rex Reservoir Road	Grass Valley	95949
+Rex Reservoir Road	Penn Valley	95946
+Rex Reservoir Road	Rough And Ready	95975
+Rex Road	Pico Rivera	90660
+Rex St	San Mateo	94403
+Rex Street	Sylmar	91342
+Rexall Avenue	Whittier	90606
+Rexbon Ct	Fountain Valley	92708
+Rexbon Road	Granada Hills	91344
+Rexdale Ln	Paradise	95969
+Rexford	Irvine	92620
+Rexford Ave	Cypress	90630
+Rexford Avenue	Pasadena	91107
+Rexford Court	Diamond Bar	91765
+Rexford Ct	Cypress	90630
+Rexford Ct	Granite Bay	95746
+Rexford Ct	Modesto	95356
+Rexford Dr	Cypress	90630
+Rexford Dr	Hemet	92545
+Rexford Dr	Madera	93638
+Rexford Dr	Modesto	95356
+Rexford Dr	Riverside	92504
+Rexford Dr	San Diego	92105
+Rexford Drive	Hilmar	95324
+Rexford Drive	Los Angeles	90035
+Rexford Pl	Thousand Oaks	91360
+Rexford Place	Valencia	91354
+Rexford Rd	Garden Grove	92840
+Rexford St	Ventura	93003
+Rexford Way	Bakersfield	93309
+Rexford Way	Carmichael	95608
+Rexford Way	Corona	92882
+Rexford Way	San Jose	95128
+Rexford Way	Santa Rosa	95403
+Rexhall St	El Cajon	92021
+Rexham Court	Hilmar	95324
+Rexham Ct	Turlock	95382
+Rexland Dr	Bakersfield	93307
+Rexleigh Ct	Sacramento	95823
+Rexleigh Dr	Sacramento	95823
+Rexroth Ave	Bakersfield	93306
+Rexton Street	Norwalk	90650
+Rexton Way	Santa Clarita	91350
+Rexview Dr	San Diego	92114
+Rexwood Avenue	Baldwin Park	91706
+Rexwood Ct	San Jose	95121
+Rexwood Street	West Covina	91790

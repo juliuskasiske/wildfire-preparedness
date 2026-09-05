@@ -1,0 +1,13 @@
+87Th Place	Los Angeles	90002
+87Th Place	Los Angeles	90003
+87Th Place	Los Angeles	90045
+87Th St	Colma	94015
+87Th St	Daly City	94015
+87Th Street	Los Angeles	90002
+87Th Street	Los Angeles	90003
+87Th Street	Los Angeles	90044
+87Th Street East	Lancaster	93535
+87Th Street East	Littlerock	93543
+87Th Street East	Palmdale	93552
+87Th Street West	Lancaster	93536
+87Th Street West	Palmdale	93551

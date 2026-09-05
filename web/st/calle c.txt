@@ -1,0 +1,382 @@
+Calle Caballeria	Morgan Hill	95037
+Calle Caballeria Ct	Morgan Hill	95037
+Calle Caballero	San Dimas	91773
+Calle Caballero	San Juan Capistrano	92675
+Calle Caballeros	San Diego	92129
+Calle Caballeros	Walnut	91789
+Calle Caballo	Atascadero	93422
+Calle Caballo Pl	Atascadero	93422
+Calle Caballos	Temecula	92592
+Calle Cabanas	Santa Clarita	91390
+Calle Cabazon	Temecula	92590
+Calle Cabernet	Temecula	92591
+Calle Cabezal	Morgan Hill	95037
+Calle Cabra	Cathedral City	92234
+Calle Cabrillo	Foothill Ranch	92610
+Calle Cabrillo	Foothill Ranch	92610-0000
+Calle Cabrillo	Foothill Ranch	92610-1722
+Calle Cabrillo	Foothill Ranch	92610-1723
+Calle Cabrillo	Foothill Ranch	92610-1746
+Calle Cabrillo	Foothill Ranch	92610-1747
+Calle Cabrillo	Foothill Ranch	92610-1750
+Calle Cabrillo	Lake Forest	92610
+Calle Cabrillo	Redondo Beach	90277
+Calle Cabrillo	Temecula	92592
+Calle Cadiz	La Quinta	92253
+Calle Cadiz	Laguna Woods	92637
+Calle Cadiz	Walnut	91789
+Calle Cadriz	Lake Elsinore	92530
+Calle Caleta	Temecula	92591
+Calle Caleta Viejas	Alpine	91901
+Calle Californios	Lancaster	93536
+Calle Calle Entrada	Yorba Linda	92887
+Calle Calmoso	Desert Hot Springs	92240
+Calle Calor	Cathedral City	92234
+Calle Calurosa	San Clemente	92673
+Calle Calzada	San Diego	92126
+Calle Calzon	Murrieta	92562
+Calle Camacho	Coachella	92236
+Calle Camarada	Santa Barbara Unincorporated	93110
+Calle Camaron	San Clemente	92673
+Calle Cambio	Dana Point	92624
+Calle Camelia	Moreno Valley	92555
+Calle Camelia	Thousand Oaks	91360
+Calle Camelia Way	Redding	96001
+Calle Camellia	Camarillo	93010
+Calle Camellia	Temecula	92592
+Calle Camille	La Jolla	92037
+Calle Caminata	Lake Forest	92630
+Calle Caminata	Lake Forest	92630-2229
+Calle Caminata	Lake Forest	92630-2230
+Calle Camisa	San Clemente	92673
+Calle Campana	Roseville	95747
+Calle Campana	San Clemente	92673
+Calle Campana	Walnut	91789
+Calle Campana Ct	Roseville	95747
+Calle Campanero	San Clemente	92673
+Calle Campesino	San Clemente	92672
+Calle Campina Nuevo	Murrieta	92562
+Calle Campo	San Clemente	92672
+Calle Campo	Temecula	92592
+Calle Campo	Thousand Oaks	91360
+Calle Camposeco	Rancho Santa Fe	92067
+Calle Canasta	San Clemente	92673
+Calle Cancion	Temecula	92592
+Calle Cancun	Camarillo	93012
+Calle Cancun	Indio	92203
+Calle Cancuna	Carlsbad	92009
+Calle Candela	Fullerton	92833
+Calle Candela	La Jolla	92037
+Calle Candelero	Chula Vista	91910
+Calle Candida	San Dimas	91773
+Calle Canela	San Clemente	92673
+Calle Canela	San Dimas	91773
+Calle Cangrejo	San Clemente	92673
+Calle Canon	Calabasas	91302
+Calle Canon	Camarillo	93012
+Calle Canon	Santa Barbara	93101
+Calle Canon Rd	Corona	92883
+Calle Canonero	Fallbrook	92028
+Calle Canta	Glendale	91208
+Calle Cantara	Coachella	92236
+Calle Cantera	Menifee	92585
+Calle Canto	San Juan Capistrano	92675
+Calle Canto	Temecula	92592
+Calle Cantora	El Cajon	92019
+Calle Cantu	Temecula	92592
+Calle Caparica	Winchester	92596
+Calle Capistrano	Moreno Valley	92551
+Calle Capistrano	Oxnard	93030
+Calle Capistrano	San Marcos	92069
+Calle Capistrano	Santa Barbara	93105
+Calle Capistrano	Temecula	92590
+Calle Capistrano Rd	Temecula	92590
+Calle Capri	Hemet	92544
+Calle Capri	San Clemente	92672
+Calle Carabana	Temecula	92592
+Calle Carabe	Rancho Cucamonga	91730
+Calle Carabe Ave	Rancho Cucamonga	91730
+Calle Carabe Ct	Rancho Cucamonga	91730
+Calle Carabe Pl	Rancho Cucamonga	91730
+Calle Carabe St	Rancho Cucamonga	91730
+Calle Caralene	Fallbrook	92028
+Calle Cardenas	San Diego	92130
+Calle Cardo	Thousand Oaks	91360
+Calle Careyes	San Clemente	92673
+Calle Carga	Camarillo	93012
+Calle Carla	Rancho Santa Fe	92067
+Calle Carman	Arroyo Grande	93420
+Calle Carmel	Laguna Hills	92653
+Calle Carmelita	Dana Point	92624
+Calle Carmelita	San Clemente	92673
+Calle Carmelita	Shandon	93461
+Calle Carmello	Coachella	92236
+Calle Carmenita	Laguna Woods	92637
+Calle Carona	Santa Clarita	91390
+Calle Carranza	Temecula	92592
+Calle Carrasco	Coachella	92236
+Calle Carrillo	Cathedral City	92234
+Calle Carrillo	San Dimas	91773
+Calle Carrisa St	Highland	92346
+Calle Carrizo	Temecula	92590
+Calle Casablanca	Murrieta	92563
+Calle Casal	Mission Viejo	92692
+Calle Casalero	Laguna Niguel	92677
+Calle Casas Bonitas	San Diego	92139
+Calle Cascada	Santa Clarita	91390
+Calle Cascaron	Santa Clarita	91390
+Calle Cascarron	Santa Clarita	91390
+Calle Casera	Menifee	92585
+Calle Casera	Temecula	92592
+Calle Casino	Rancho Cucamonga	91730
+Calle Casino	San Clemente	92673
+Calle Casino Ln	Rancho Cucamonga	91730
+Calle Casita	Desert Hot Springs	92241
+Calle Casita	San Clemente	92673
+Calle Casita Ave	Desert Hot Springs	92241
+Calle Castana	Bakersfield	93309
+Calle Castano	Moreno Valley	92555
+Calle Castano	Thousand Oaks	91360
+Calle Castillo	Menifee	92585
+Calle Castillo	San Clemente	92673
+Calle Castillo Ln	Thousand Palms	92276
+Calle Castor Cir	Huntington Beach	92649
+Calle Castor Cir	Huntington Beach	92649-5214
+Calle Castor Cir	Huntington Beach	92649-5215
+Calle Castor Cir	Huntington Beach	92649-5216
+Calle Castor Cir	Huntington Beach	92649-5217
+Calle Castor Cir	Huntington Beach	92649-5218
+Calle Castor Cir	Huntington Beach	92649-5219
+Calle Cataldo	Temecula	92592
+Calle Catalina	Escondido	92029
+Calle Catalina	San Dimas	91773
+Calle Catalonia	Carlsbad	92009
+Calle Catalpa	Thousand Oaks	91360
+Calle Cataluna	Camarillo	93012
+Calle Catarina	Chula Vista	91914
+Calle Cathron	Coachella	92236
+Calle Catrina	Temecula	92590
+Calle Cayuga	Cathedral City	92234
+Calle Cazadero	Hemet	92545
+Calle Cebolla	Indio	92203
+Calle Cebrino	Coachella	92236
+Calle Cebu	Salinas	93901
+Calle Cecilia	San Dimas	91773
+Calle Cedral	Temecula	92592
+Calle Cedral Rd	Temecula	92592
+Calle Cedro	Calabasas	91302
+Calle Cedro	Santa Barbara	93105
+Calle Cedro	Thousand Oaks	91360
+Calle Celemente	Coachella	92236
+Calle Celeste	Lake Forest	92630
+Calle Celeste	Lake Forest	92630-2231
+Calle Celeste	Lake Forest	92630-2232
+Calle Celeste	Lake Forest	92630-2233
+Calle Celeste	Lake Forest	92630-2234
+Calle Celeste	Lake Forest	92630-2235
+Calle Celeste	Lake Forest	92630-2236
+Calle Celestial	San Clemente	92673
+Calle Celestina	Gilroy	95020
+Calle Celestino	Indio	92203
+Calle Celia	Menifee	92585
+Calle Celluzz	Murrieta	92562
+Calle Centello	San Clemente	92673
+Calle Central	Morgan Hill	95037
+Calle Cerca	Bakersfield	93309
+Calle Cercal	Winchester	92596
+Calle Cerezo	Indio	92203
+Calle Cerezo	Temecula	92592
+Calle Cerrito	Desert Hot Springs	92240
+Calle Cerrito	Santa Barbara	93101
+Calle Cerrito Alto	Santa Barbara	93101
+Calle Cerritos	Canyon Country	91351
+Calle Cerritos	Desert Hot Springs	92240
+Calle Cerro	Morgan Hill	95037
+Calle Cerro	Santa Barbara	93101
+Calle Cerro	Temecula	92592
+Calle Cervantes	Coachella	92236
+Calle Cervato	Murrieta	92563
+Calle Cervato Rd	Murrieta	92563
+Calle Cesar Chavez	Guadalupe	93434
+Calle Cesar E Chavez	Guadalupe	93434
+Calle Cesar E. Chavez Ct	Guadalupe	93434
+Calle Cetro	San Clemente	92673
+Calle Chanate	San Diego	92139
+Calle Chapala	Palm Springs	92264
+Calle Chapala	Vacaville	95687
+Calle Chaparro	Rancho Santa Fe	92067
+Calle Chapos	Temecula	92591
+Calle Chapucear	Murrieta	92563
+Calle Chapultepec	Vista	92083
+Calle Chapultepic	Vacaville	95687
+Calle Charmona	San Diego	92128
+Calle Chavez	Coachella	92236
+Calle Chayote	San Clemente	92673
+Calle Cheval	Santa Clarita	91390
+Calle Chia	Palm Springs	92264
+Calle Chico	Temecula	92592
+Calle Chihuahua	La Quinta	92253
+Calle Chillon	La Quinta	92253
+Calle Chiquita	La Jolla	92037
+Calle Chiquito	Santa Clarita	91390
+Calle Chopos	Indio	92203
+Calle Chorro	Paso Robles	93446
+Calle Christina	San Dimas	91773
+Calle Christopher	Encinitas	92024
+Calle Chueca	San Clemente	92673
+Calle Chueca	San Juan Capistrano	92675
+Calle Cidra	San Clemente	92673
+Calle Ciela Vista	Chula Vista	91911
+Calle Cielito	Oxnard	93030
+Calle Cielo	Gilroy	95020
+Calle Cielo	Montebello	90640
+Calle Cielo	Nipomo	93444
+Calle Ciervos	San Dimas	91773
+Calle Cima	Rancho Santa Fe	92067
+Calle Cima Bella	Chula Vista	91911
+Calle Cinco	Mission Hills	93436
+Calle Cinco	Montebello	90640
+Calle Cinco De Mayo	Oak View	93022
+Calle Cipres	Murrieta	92562
+Calle Circuelo	Thousand Oaks	91360
+Calle  Cirros	Temecula	92562
+Calle Cirros	Temecula	92592
+Calle Ciruelo	Thousand Oaks	91360
+Calle Cisne	Murrieta	92563
+Calle Cita	Camarillo	93010
+Calle Cita	Santa Barbara	93105
+Calle Cita	Santa Barbara	93110
+Calle Cita	Santa Barbara Unincorporated	93110
+Calle Ciuita	Temecula	92592
+Calle Clair	Palm Desert	92260
+Calle Claire	Palm Desert	92260
+Calle Clara	La Jolla	92037
+Calle Clara Vista	Thousand Oaks	91320
+Calle Clarin	Rancho Cucamonga	91730
+Calle Clarita	Lancaster	93536
+Calle Claro	Indio	92203
+Calle Clasico	San Clemente	92673
+Calle Clavel	Murrieta	92563
+Calle Clavel	Thousand Oaks	91360
+Calle Clemente	La Verne	91750
+Calle Cobblestone	San Juan Capistrano	92675
+Calle Cobre	Carlsbad	92009
+Calle Coche	Indio	92203
+Calle Codorniz	Lake Elsinore	92530
+Calle Codorniz	Valley Center	92082
+Calle Colima	Coachella	92236
+Calle Colima	La Quinta	92253
+Calle Colima	West Covina	91792
+Calle Colina	Cathedral City	92234
+Calle Colina	Poway	92064
+Calle Colina	San Clemente	92672
+Calle Colina	Temecula	92590
+Calle Colina	Thousand Oaks	91360
+Calle Colina Roca	Alpine	91901
+Calle Coliseo	Aguanga	92536
+Calle Collado	Murrieta	92562
+Calle Collado	Thousand Oaks	91360
+Calle Colnett	San Marcos	92069
+Calle Colorado	San Dimas	91773
+Calle Colorado	Vista	92084
+Calle Compo	Thousand Oaks	91360
+Calle Conchita	La Quinta	92253
+Calle Conchita	San Clemente	92672
+Calle Concordia	San Dimas	91773
+Calle Conejera	Palm Springs	92262
+Calle Conejo	Calabasas	91302
+Calle Conejo	Indio	92201
+Calle Conejo	San Juan Capistrano	92675
+Calle Conejo	Temecula	92592
+Calle Conejo Rd	Temecula	92592
+Calle Confite	Murrieta	92563
+Calle Conifera	Carlsbad	92009
+Calle Constancia	Redlands	92373
+Calle Contenta	San Clemente	92673
+Calle Contento	Glendale	91208
+Calle Contento	Temecula	92591
+Calle Contento	Temecula	92592
+Calle Contento	Thousand Oaks	91360
+Calle Contento	Valley Center	92082
+Calle Contento Rd	Temecula	92592
+Calle Contesa	Victorville	92392
+Calle Converse	Camarillo	93010
+Calle Copa	Temecula	92592
+Calle Corazon	Oceanside	92057
+Calle Corazon	Rancho Cucamonga	91730
+Calle Cordillera	San Clemente	92673
+Calle Cordiz St	Lake Elsinore	92530
+Calle Cordoba	Cathedral City	92234
+Calle Cordoba	Tustin	92782
+Calle Cordoniz	Los Osos	93402
+Calle Cordova	Hemet	92544
+Calle Cordova	Pismo Beach	93449
+Calle Cordova	Temecula	92592
+Calle Cordova Pl	Pismo Beach	93449
+Calle Cordova Rd	Temecula	92592
+Calle Cordura	Temecula	92592
+Calle Corea	Pismo Beach	93449
+Calle Corea Rd	Pismo Beach	93449
+Calle Corona	Temecula	92592
+Calle Corona Rd	Temecula	92590
+Calle Coronado	Duarte	91010
+Calle Corral	San Clemente	92673
+Calle Corredor	Fallbrook	92028
+Calle Corriente	Murrieta	92562
+Calle Corta	Bakersfield	93309
+Calle Corta	Hacienda Heights	91745
+Calle Corta	La Jolla	92037
+Calle Corta	Los Gatos	95030
+Calle Corta	Los Gatos	95032
+Calle Corta	Poway	92064
+Calle Corta	Thousand Oaks	91360
+Calle Cortada	Rancho Palos Verdes	90275
+Calle Corte	Rancho Santa Fe	92067
+Calle Corte	Santa Barbara	93101
+Calle Cortejo	Rancho Santa Fe	92091
+Calle Cortez	San Clemente	92672
+Calle Cortez	Temecula	92590
+Calle Cortez	Ybl	92886
+Calle Cortez	Yorba Linda	92886
+Calle Cortita	Santa Barbara	93109
+Calle Corto	Temecula	92590
+Calle Corva	Camarillo	93010
+Calle Corveta	Temecula	92590
+Calle Coturno	Rancho Santa Margarita	92688
+Calle Court	Valencia	91355
+Calle Covina	Camarillo	93012
+Calle Cozumel	Carlsbad	92009
+Calle Cressa	San Diego	92127
+Calle Cresta	Mission Viejo	92692
+Calle Cresta	Temecula	92590
+Calle Crisantemo	Thousand Oaks	91360
+Calle Cristal	Temecula	92592
+Calle Cristina	Rancho Santa Margarita	92688
+Calle Cristina	San Dimas	91773
+Calle Cristobal	San Diego	92126
+Calle Cristobal	Santa Barbara Unincorporated	93111
+Calle Crotalo	San Luis Obispo	93401
+Calle Crucero	San Marcos	92069
+Calle Cruz	San Juan Bautista	95045
+Calle Cuadra	San Clemente	92673
+Calle Cuernavaca	Murrieta	92562
+Calle Cuero	Temecula	92590
+Calle Cuero Rd	Temecula	92590
+Calle Cuervo	Arroyo Grande	93420
+Calle Cuervo	San Clemente	92672
+Calle Cuervo	San Jose	95111
+Calle Cuervo	Ybl	92887
+Calle Cuervo	Yorba Linda	92887
+Calle Cuervo Pl	Arroyo Grande	93420
+Calle Cuesta	Camarillo	93012
+Calle Cuesta	Hollister	95023
+Calle Cuesta	Temecula	92590
+Calle Cuesta	Thousand Oaks	91360
+Calle Cuesta	Watsonville	95076
+Calle Cuesta Rd	Temecula	92590
+Calle Culebra	Summerland	93067
+Calle Culima	La Quinta	92253
+Calle Cumbre	San Clemente	92673
+Calle Cumbre	San Diego	92139
+Calle Curacso	Riverside	92503
+Calle Cynthia	Atascadero	93422

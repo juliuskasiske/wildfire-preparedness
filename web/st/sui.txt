@@ -1,0 +1,19 @@
+Suisse Dr	San Jose	95123
+Suisun Av	Manteca	95337
+Suisun Ave	Manteca	95337
+Suisun Ave	Rodeo	94572
+Suisun Ave	San Jose	95121
+Suisun Bay Road	West Sacramento	95691
+Suisun Court	Vacaville	95688
+Suisun Ct	Clayton	94517
+Suisun Dr	Cupertino	95014
+Suisun Parkway	Fairfield	94534
+Suisun Pl	Manteca	95337
+Suisun Street	Suisun City	94585
+Suisun Valley Road	Fairfield	94534
+Suite Dr	Huntington Beach	92649
+Suite Dr	Huntington Beach	92649-2225
+Suite Dr	Huntington Beach	92649-2226
+Suite Dr	Huntington Beach	92649-6211
+Suite Dr	Huntington Beach	92649-6212
+Suiter St	Hollister	95023

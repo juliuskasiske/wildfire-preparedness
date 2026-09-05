@@ -1,0 +1,21 @@
+04Th Ave	Chula Vista	91910
+04Th Ave	Chula Vista	91911
+04Th Ave	San Diego	92101
+04Th Ave	San Diego	92103
+04Th Ave	San Francisco	94118
+04Th Ave	San Francisco	94122
+04Th Pl	Escondido	92029
+04Th St	Coronado	92118
+04Th St	Del Mar	92014
+04Th St	El Cajon	92019
+04Th St	Encinitas	92024
+04Th St	Imperial Beach	91932
+04Th St	Julian	92036
+04Th St	La Mesa	91941
+04Th St	Ramona	92065
+04Th St	San Francisco	94103
+04Th St	San Francisco	94107
+04Th St	San Francisco	94118
+04Th St	San Francisco	94158
+04Th St	Santee	92071
+04Th Ti St	San Francisco	94130

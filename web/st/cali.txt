@@ -1,0 +1,531 @@
+Cali Avenue	Winton	95388
+Cali Ct	Empire	95357
+Cali Ct	Hayward	94545
+Cali Dr	Empire	95357
+Cali Lin Ct	Turlock	95380
+Cali Ln	Healdsburg	95448
+Caliban Ct	Encinitas	92024
+Caliban Dr	Encinitas	92024
+Calibra Ln	Sacramento	95827
+Calicia Ct	Murrieta	92562
+Calico	Irvine	92614
+Calico Ave	Garden Grove	92841
+Calico Ave	Indio	92201
+Calico Ave	Salton City	92274
+Calico Ave	San Jose	95124
+Calico Ave	White Water	92282
+Calico Avenue	Pico Rivera	90660
+Calico Blvd	Yermo	92398
+Calico Cactus	Palm Desert	92260
+Calico Cactus Ln	Palm Desert	92260
+Calico Cir	Baker	92309
+Calico Cir	Corona	92881
+Calico Cir	La Quinta	92253
+Calico Cir	San Diego	92126
+Calico Court	San Dimas	91773
+Calico Cove Ct	Bakersfield	93306
+Calico Ct	Brea	92821
+Calico Ct	Fort Irwin	92310
+Calico Ct	Helendale	92342
+Calico Ct	Hesperia	92344
+Calico Ct	Montclair	91763
+Calico Ct	Morgan Hill	95037
+Calico Ct	Nipomo	93444
+Calico Ct	Norco	92860
+Calico Ct	Novato	94947
+Calico Ct	Rancho Cucamonga	91737
+Calico Ct	Rocklin	95765
+Calico Ct	Sacramento	95826
+Calico Ct	San Ramon	94582
+Calico Ct	Sunnyvale	94086
+Calico Ct	Wagon Wheel	92679
+Calico Ct	Wildomar	92595
+Calico Ct	Winchester	92596
+Calico Dr	Barstow	92311
+Calico Dr	Rocklin	95765
+Calico Dr	Victorville	92395
+Calico Glen Dr	Indio	92203
+Calico Lane	Northridge	91325
+Calico Ln	Cottonwood	96022
+Calico Ln	Escondido	92029
+Calico Ln	Hemet	92544
+Calico Ln	Moreno Valley	92555
+Calico Ln	Orcutt	93455
+Calico Ln	Palm Springs	92262
+Calico Ln	Paradise	95969
+Calico Ln	Santa Maria	93455
+Calico Ln	Santa Rosa	95404
+Calico Peak Pl	Rancho Cucamonga	91737
+Calico Pl	Chino	91710
+Calico Ranch Gate	Julian	92036
+Calico Ranch Rd	Julian	92036
+Calico Rd	Apple Valley	92308
+Calico Rd	Rancho Mirage	92270
+Calico Rd	Yermo	92327
+Calico Rd	Yermo	92398
+Calico Rock Ct	Bakersfield	93313
+Calico St	Bakersfield	93313
+Calico St	Newberry Springs	92365
+Calico St	San Diego	92126
+Calico St	Santee	92071
+Calico Street	Lancaster	93535
+Calico Trail	Vacaville	95687
+Calico Trl	Corona	92882
+Calico Trl	Riverside	92508
+Calico Trl	Santa Margarita	93453
+Calico Village Dr	Bakersfield	93306
+Calico Way	Oakley	94561
+Calico Way	Palmdale	93550
+Calicowood Pl	San Jose	95111
+Calicut Road	Malibu	90265
+Calida Dr	San Jose	95136
+Calido Ct	Sonoma	95476
+Calidris Ln	Carlsbad	92011
+Caliente	Desert Hot Springs	92240
+Caliente	Scotts Valley	95066
+Caliente Av	New Cuyama	93254
+Caliente Ave	San Diego	92154
+Caliente Avenue	Cerritos	90703
+Caliente Circle	Cerritos	90703
+Caliente Court	Atwater	95301
+Caliente Creek Ct	Bakersfield	93311
+Caliente Ct	Aguanga	92536
+Caliente Ct	Alpine	91901
+Caliente Ct	Fair Oaks	95628
+Caliente Ct	Sun City	92587
+Caliente Dr	Barstow	92311
+Caliente Dr	Desert Hot Springs	92240
+Caliente Dr	Huntington Beach	92649
+Caliente Dr	Huntington Beach	92649-2616
+Caliente Dr	Huntington Beach	92649-2617
+Caliente Dr	Huntington Beach	92649-2618
+Caliente Dr	Huntington Beach	92649-2619
+Caliente Dr	Norco	92860
+Caliente Dr	Palm Springs	92264
+Caliente Dr	Sunnyvale	94085
+Caliente Dr	Sunnyvale	94085-3215
+Caliente Gln	Escondido	92029
+Caliente Ln	Ventura	93001
+Caliente Loop	Chula Vista	91910
+Caliente Pl	Canyon Lake	92587
+Caliente Place	Cerritos	90703
+Caliente Rd	Hesperia	92344
+Caliente Rd	Hesperia	92345
+Caliente Rd	Landers	92285
+Caliente Rd	Oak Hills	92344
+Caliente Rd	Palm Springs	92264
+Caliente Real	Novato	94949
+Caliente Springs Ave	Murrieta	92562
+Caliente St	Aguanga	92536
+Caliente St	Bakersfield	93306
+Caliente St	Yucca Valley	92284
+Caliente Way	Gilroy	95020
+Caliente Way	Oxnard	93036
+Caliente Way	San Jose	95132
+Calif Oaks	Murrieta	92562
+Califa Ct	San Diego	92119
+Califa Dr	Chowchilla	93610
+Califa Place	Woodland Hills	91367
+Califa Street	Encino	91316
+Califa Street	North Hollywood	91601
+Califa Street	Tarzana	91356
+Califa Street	Valley Village	91607
+Califa Street	Van Nuys	91401
+Califa Street	Van Nuys	91411
+Califa Street	Woodland Hills	91367
+Califia Ct	Santa Barbara Unincorporated	93111
+Califia Dr	Laguna Hills	92653
+Califim Ct	American Canyon	94503
+Califontana Way	Redding	96003
+California	Beaumont	92223
+California	Ben Lomond	95005
+California	Capitola	95010
+California	Joshua Tree	92252
+California	Salinas	93901
+California	Santa Cruz	95060
+California	Watsonville	95067
+California	Watsonville	95076
+California 1-2 St	Eureka	95501
+California Av	Arcata	95521
+California Av	Manteca	95336
+California Ave	Arbuckle	95912
+California Ave	Bakersfield	93301
+California Ave	Bakersfield	93304
+California Ave	Bakersfield	93309
+California Ave	Beaumont	92223
+California Ave	Blythe	92225
+California Ave	Calimesa	92320
+California Ave	Carmichael	95608
+California Ave	Corona	92881
+California Ave	El Granada	94019
+California Ave	Fair Oaks	95628
+California Ave	Half Moon Bay	94019
+California Ave	Hemet	92545
+California Ave	Irvine	92612
+California Ave	Irvine	92617
+California Ave	Joshua Tree	92252
+California Ave	Lake Elsinore	92530
+California Ave	Madera	93636
+California Ave	Madera	93637
+California Ave	Madera	93638
+California Ave	Manteca	95336
+California Ave	Mill Valley	94941
+California Ave	Modesto	95351
+California Ave	Modesto	95358
+California Ave	Moss Beach	94038
+California Ave	Mountain View	94040
+California Ave	Mountain View	94041
+California Ave	Needles	92363
+California Ave	Norco	92860
+California Ave	Oakdale	95361
+California Ave	Orinda	94563
+California Ave	Palm Desert	92211
+California Ave	Palm Springs	92264
+California Ave	Palo Alto	94304
+California Ave	Palo Alto	94306
+California Ave	Pittsburg	94565
+California Ave	Riverbank	95357
+California Ave	Riverbank	95367
+California Ave	Riverside	92503
+California Ave	Riverside	92504
+California Ave	Riverside	92505
+California Ave	Riverside	92507
+California Ave	Salton City	92274
+California Ave	San Francisco	94130
+California Ave	San Joaquin	93660
+California Ave	San Jose	95125
+California Ave	San Martin	95046
+California Ave	San Pablo	94806
+California Ave	San Rafael	94901
+California Ave	Santa Rosa	95405
+California Ave	Simi Valley	93065
+California Ave	South San Francisco	94080
+California Ave	Tahoe City	96145
+California Ave	Turlock	95380
+California Ave	Victorville	92392
+California Ave	Vista	92083
+California Ave	Vista	92084
+California Ave	Westminster	92683
+California Ave	Winchester	92596
+California Avenue	Arcadia	91006
+California Avenue	Baldwin Park	91706
+California Avenue	Bell Gardens	90201
+California Avenue	Bellflower	90706
+California Avenue	Davis	95616
+California Avenue	Dos Palos	93620
+California Avenue	Duarte	91010
+California Avenue	El Monte	91731
+California Avenue	Glendale	91203
+California Avenue	Glendale	91206
+California Avenue	Huntington Park	90255
+California Avenue	Long Beach	90805
+California Avenue	Long Beach	90807
+California Avenue	Lynwood	90262
+California Avenue	Marina	93933
+California Avenue	Mccloud	96057
+California Avenue	Monrovia	91016
+California Avenue	Montebello	90640
+California Avenue	Paramount	90723
+California Avenue	Santa Monica	90403
+California Avenue	Santa Monica	90404
+California Avenue	Seaside	93955
+California Avenue	Signal Hill	90755
+California Avenue	South El Monte	91733
+California Avenue	South Gate	90280
+California Avenue	Venice	90291
+California Avenue	West Covina	91790
+California Avenue	Whittier	90602
+California Avenue	Whittier	90605
+California Bl	Orcutt	93455
+California Bl	Santa Maria	93455
+California Blvd	Napa	94558
+California Blvd	Napa	94559
+California Blvd	Riverside	92503
+California Blvd	San Luis Obispo	93401
+California Blvd	San Luis Obispo	93405
+California Blvd	Santa Maria	93455
+California Boulevard	Pasadena	91106
+California Cir	Banning	92220
+California Cir	Milpitas	95035
+California Cir	Rancho Cordova	95742
+California Condor Way	Novato	94949
+California Court	Benicia	94510
+California Court	Stevenson Ranch	91381
+California Ct	Calexico	92231
+California Ct	Mission Viejo	92692
+California Ct	Sonoma	95476
+California Dr	Burlingame	94010
+California Dr	Millbrae	94030
+California Dr	Nice	95464
+California Dr	Palm Desert	92211
+California Dr	Petaluma	94952
+California Dr	Salton City	92274
+California Dr	Sutter Creek	95685
+California Dr	Yountville	94599
+California Drive	Claremont	91711
+California Drive	Vacaville	95687
+California Drive	Weed	96064
+California Gold Way	Roseville	95747
+California Lane	Linda	95901
+California Ln	Lincoln	95648
+California Loop	Sacramento	95823
+California Mine Rd	Drytown	95699
+California Oak Cir	Patterson	95363
+California Oak Dr	Vista	92081
+California Oak St	Simi Valley	93063
+California Oak Way	Cupertino	95014
+California Oaks Ave	Murrieta	92562
+California Oaks Dr	Vista	92081
+California Oaks Rd	Murrieta	92562
+California Oaks Rd	Murrieta	92563
+California Pacific Road	Elmira	95625
+California Pacific Road	Vacaville	95687
+California Packing Rd	Kelseyville	95451
+California Park Dr	Chico	95928
+California Pl	Salton City	92274
+California Pl	Yucaipa	92399
+California Place	Long Beach	90807
+California Place	Pomona	91768
+California Place	Whittier	90602
+California Place North	Santa Monica	90403
+California Poppy Dr	Bakersfield	93311
+California Poppy Ln	San Miguel	93451
+California Poppy St	Escondido	92029
+California Privado	Ontario	91762
+California Road	Marina	93933
+California Road	Seaside	93955
+California S Blvd	Walnut Creek	94596
+California Shakespeare Theater Way	Orinda	94563
+California Spring Dr	Bakersfield	93313
+California Springs Ct	Spring Valley	91977
+California St	Arroyo Grande	93420
+California St	Auburn	95603
+California St	Bakersfield	93308
+California St	Beaumont	92223
+California St	Berkeley	94703
+California St	Berkeley	94704
+California St	Buena Park	90621
+California St	Calimesa	92320
+California St	Calipatria	92233
+California St	Camp Meeker	95419
+California St	Campbell	95008
+California St	Carnelian Bay	96140
+California St	Chico	95928
+California St	Chico	95973
+California St	Coalinga	93210
+California St	Concord	94520
+California St	Costa Mesa	92626
+California St	Crescent City	95531
+California St	Daggett	92327
+California St	Encinitas	92024
+California St	Escalon	95320
+California St	Eureka	95501
+California St	Eureka	95503
+California St	Ferndale	95536
+California St	Fillmore	93015
+California St	Gridley	95948
+California St	Hemet	92545
+California St	Hollister	95023
+California St	Huntington Beach	92648
+California St	Huntington Beach	92648-2839 
+California St	Huntington Beach	92648-2840 
+California St	Huntington Beach	92648-2841 
+California St	Huntington Beach	92648-3109
+California St	Huntington Beach	92648-3118
+California St	Huntington Beach	92648-3144 
+California St	Huntington Beach	92648-3145 
+California St	Huntington Beach	92648-3146 
+California St	Huntington Beach	92648-3147 
+California St	Huntington Beach	92648-3148 
+California St	Huntington Beach	92648-3162 
+California St	Huntington Beach	92648-3163 
+California St	Huntington Beach	92648-3165
+California St	Huntington Beach	92648-3167
+California St	Huntington Beach	92648-3168
+California St	Huntington Beach	92648-3169 
+California St	Huntington Beach	92648-3171 
+California St	Huntington Beach	92648-3172 
+California St	Huntington Beach	92648-3640 
+California St	Huntington Beach	92648-3641 
+California St	Huntington Beach	92648-3642 
+California St	Huntington Beach	92648-3643 
+California St	Huntington Beach	92648-3644 
+California St	Huntington Beach	92648-3645
+California St	Huntington Beach	92648-3646 
+California St	Huntington Beach	92648-3647 
+California St	Huntington Beach	92648-3648 
+California St	Huntington Beach	92648-3649 
+California St	Huntington Beach	92648-4101
+California St	Huntington Beach	92648-4102
+California St	Huntington Beach	92648-4103
+California St	Huntington Beach	92648-4104
+California St	Huntington Beach	92648-4179 
+California St	Huntington Beach	92648-4180 
+California St	Huntington Beach	92648-4181
+California St	Huntington Beach	92648-4182 
+California St	Huntington Beach	92648-4183 
+California St	Huntington Beach	92648-4184 
+California St	Huntington Beach	92648-4301
+California St	Huntington Beach	92648-4302
+California St	Huntington Beach	92648-4303
+California St	Huntington Beach	92648-4304
+California St	Huntington Beach	92648-4713
+California St	Huntington Beach	92648-4714
+California St	Huntington Beach	92648-4715
+California St	Huntington Beach	92648-4716
+California St	Huntington Beach	92648-4717
+California St	Huntington Beach	92648-4718
+California St	Huntington Beach	92648-4778 
+California St	Huntington Beach	92648-4780 
+California St	Huntington Beach	92648-4900
+California St	Huntington Beach	92648-4907
+California St	Huntington Beach	92648-4914
+California St	Huntington Beach	92648-4915
+California St	Huntington Beach	92648-4916
+California St	Huntington Beach	92648-4917
+California St	Huntington Beach	92648-4944 
+California St	Huntington Beach	92648-4946 
+California St	Huntington Beach	92648-4951 
+California St	Huntington Beach	92648-4953 
+California St	Huntington Beach	92648-4986
+California St	Huntington Beach	92648-4987 
+California St	Huntington Beach	92648-4995 
+California St	Huntington Beach	92648-4996 
+California St	Huntington Beach	92648-5215
+California St	Huntington Beach	92648-5216
+California St	Huntington Beach	92648-8205
+California St	Huntington Beach	92648-8206
+California St	Huntington Beach	92648-8207
+California St	Huntington Beach	92648-8208 
+California St	Huntington Beach	92648-8209
+California St	Imperial Beach	91932
+California St	Kingsburg	93631
+California St	Lake Elsinore	92530
+California St	Loma Linda	92354
+California St	Maxwell	95955
+California St	Mountain View	94040
+California St	Mountain View	94041
+California St	Nord	95973
+California St	Oceanside	92054
+California St	Oxnard	93033
+California St	Palm Desert	92211
+California St	Parker Dam	92267
+California St	Perris	92571
+California St	Pla	92870
+California St	Placentia	92870
+California St	Redding	96001
+California St	Redlands	92373
+California St	Redlands	92374
+California St	Redwood City	94063
+California St	Ripon	95366
+California St	Rodeo	94572
+California St	San Diego	92101
+California St	San Diego	92103
+California St	San Diego	92110
+California St	San Francisco	94104
+California St	San Francisco	94108
+California St	San Francisco	94109
+California St	San Francisco	94111
+California St	San Francisco	94115
+California St	San Francisco	94118
+California St	San Francisco	94121
+California St	San Jose	94041
+California St	Santa Barbara	93103
+California St	Santa Clara	95050
+California St	Santa Paula	93060
+California St	Sbco	92374
+California St	Simi Valley	93065
+California St	Tustin	92780
+California St	Vista	92084
+California St	Willits	 
+California St	Winchester	92596
+California St	Yucaipa	92399
+California St S	Maxwell	95955
+California Steel Way	Fontana	92335
+California Street	Arcadia	91006
+California Street	Atwater	95301
+California Street	Castroville	95012
+California Street	El Segundo	90245
+California Street	Huntington Park	90255
+California Street	June Lake	93529
+California Street	Live Oak	95953
+California Street	Los Banos	93635
+California Street	North San Juan	95960
+California Street	Paramount	90723
+California Street	Rio Vista	94571
+California Street	Salinas	93901
+California Street	San Gabriel	91775
+California Street	San Gabriel	91776
+California Street	Suisun City	94585
+California Street	Sutter	95982
+California Street	Torrance	90503
+California Street	Vallejo	94590
+California Street	Weed	96094
+California Street	West Sacramento	95605
+California Street	Winton	95388
+California Street	Woodland	95695
+California Terrace	Pasadena	91105
+California Trail	Brentwood	94513
+California Trail	Topanga	90290
+California Trl	Brentwood	94513
+California Waters Dr	Spring Valley	91977
+California Way	Fort Bragg	 
+California Way	Other	94062
+California Way	Paradise	95969
+California Way	Redwood City	94062
+California Way	Riverside	92505
+California Way	Woodside	94062
+Caligiuri Canyon Road	Vacaville	95688
+Calimali Road	Woodland Hills	91364
+Calimesa	Calimesa	92320
+Calimesa Blvd	Calimesa	92320
+Calimesa Blvd	Yucaipa	92399
+Calimex Pl	Nipomo	93444
+Calimyrna Ave	Madera	93638
+Calimyrna Avenue	Merced	95340
+Calin Ln	Anderson	96007
+Calina Ln	Eastvale	92880
+Calina Way	Carlsbad	92009
+Calinda	Mission Viejo	92692
+Calinda Dr	Vista	92083
+Calino Avenue	Baldwin Park	91706
+Calinoma Dr	San Jose	95118
+Calipatria Drive	Calabasas	91302
+Caliper Way	San Marcos	92078
+Caliri Ct	Gilroy	95020
+Calisa Ct	Carmichael	95608
+Calisesi Ct	Oakley	94561
+Calisia Way	Fontana	92336
+Calista St	Orangevale	95662
+Calistoga	Irvine	92602
+Calistoga	Lake Forest	92630
+Calistoga	Lake Forest	92630-7059
+Calistoga Ave	Bakersfield	93314
+Calistoga Ave	Chula Vista	91913
+Calistoga Ave	Napa	94559
+Calistoga Court	Vallejo	94591
+Calistoga Ct	Danville	94526
+Calistoga Ct	Lincoln	95648
+Calistoga Ct	Modesto	95356
+Calistoga Dr	Chico	95973
+Calistoga Dr	Hollister	95023
+Calistoga Dr	Murrieta	92563
+Calistoga Dr	Pittsburg	94565
+Calistoga Dr	Ramona	92065
+Calistoga Dr	San Jose	95124
+Calistoga Ln	Lincoln	95648
+Calistoga Pl	Ramona	92065
+Calistoga Pl	Rancho Cucamonga	91739
+Calistoga Rd	Camarillo	93010
+Calistoga Rd	Santa Rosa	95404
+Calistoga Rd	Santa Rosa	95409
+Calistoga St	Middletown	95461
+Calistoga Street	Palmdale	93551
+Calistoga Way	Clayton	94517
+Calistoga Way	Olivehurst	95961
+Calistoga Way	Palo Cedro	96073
+Calistoga Way	Sacramento	95841
+Calistoga Way	San Jacinto	92582
+Calistoga Way	San Marcos	92078
+Caliterra Ct	Eastvale	92880
+Caliterra Park Drive	City Of Wheatland	95692

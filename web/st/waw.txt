@@ -1,0 +1,34 @@
+Wawasee Ave	Tahoe Vista	96148
+Wawona	Wawona	95389
+Wawona	Yosemite	95389
+Wawona Ave	Corcoran	93212
+Wawona Ave	Pismo Beach	93449
+Wawona Cir	Fair Oaks	95628
+Wawona Cir	Martinez	94553
+Wawona Court	Merced	95340
+Wawona Court	Plumas Lake	95961
+Wawona Ct	Antioch	94531
+Wawona Ct	Madera	93637
+Wawona Ct	Santa Rosa	95405
+Wawona Ct	Truckee	96161
+Wawona Dr	Groveland	95321
+Wawona Dr	San Diego	92106
+Wawona Dr	San Diego	92107
+Wawona Dr	San Jose	95125
+Wawona Dr	Santa Rosa	95405
+Wawona Ln	Clayton	94517
+Wawona Ln	Modesto	95355
+Wawona Pl	Chico	95928
+Wawona Place	Los Angeles	90065
+Wawona Rd	Apple Valley	92307
+Wawona Rd	Palm Springs	92262
+Wawona Road	Carmel Valley	93924
+Wawona St	Corcoran	93212
+Wawona St	Manteca	95337
+Wawona St	San Francisco	94116
+Wawona St	San Francisco	94127
+Wawona St	San Francisco	94132
+Wawona Street	Los Angeles	90041
+Wawona Street	Los Angeles	90065
+Wawona Way	Wawona	95389
+Wawona Way	Yosemite	95389

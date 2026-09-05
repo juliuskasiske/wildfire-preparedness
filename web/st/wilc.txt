@@ -1,0 +1,38 @@
+Wilcombe Rd	Cambria	93428
+Wilcox Av	Santa Clara	95054
+Wilcox Ave	Oroville	95966
+Wilcox Ave	San Jose	95118
+Wilcox Ave	San Pablo	94806
+Wilcox Ave	Santa Clara	95054
+Wilcox Avenue	Bell Gardens	90201
+Wilcox Avenue	Etna	96027
+Wilcox Avenue	Los Angeles	90004
+Wilcox Avenue	Los Angeles	90028
+Wilcox Avenue	Los Angeles	90038
+Wilcox Avenue	Los Angeles	90068
+Wilcox Avenue	Maywood	90270
+Wilcox Avenue	Montebello	90640
+Wilcox Avenue	Monterey Park	91755
+Wilcox Cir	Pla	92870
+Wilcox Cir	Placentia	92870
+Wilcox Dr	North Fork	93643
+Wilcox Dr	Tustin	92782
+Wilcox Drive	Newhall	91321
+Wilcox Ln	Murrieta	92562
+Wilcox Ln	Unincorporated Alameda County	94541
+Wilcox Ln	Yucca Valley	92284
+Wilcox Pl	Granite Bay	95746
+Wilcox Place	Los Angeles	90038
+Wilcox Ranch Rd	Sonora	95370
+Wilcox Ranch Road	Plumas Lake	95961
+Wilcox Rd	Hat Creek	96040
+Wilcox Rd	Windsor	95492
+Wilcox St	Camarillo	93010
+Wilcox St	Oceanside	92054
+Wilcox St	San Diego	92106
+Wilcox Street	East Garrison	93933
+Wilcox Way	Buena Park	90621
+Wilcox Way	Laguna Beach	92651
+Wilcox Way	Pla	92870
+Wilcox Way	Placentia	92870
+Wilcox Way	San Jose	95125

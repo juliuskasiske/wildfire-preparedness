@@ -1,0 +1,192 @@
+N J	Imperial	92251
+N J	Westmorland	92281
+N J Ave	Imperial	92251
+N J Ave	Westmorland	92281
+N J St	Imperial	92251
+N J St	Lompoc	93436
+N J St	Madera	93637
+N J St	Oxnard	93030
+N J St	San Bernardino	92410
+N J St	San Bernardino	92411
+N J St	Westmorland	92281
+N Jacaranda Pl	Bre	92821
+N Jacaranda Rd	Colton	92324
+N Jacaranda St	Santa Ana	92705
+N Jack Tone Bypass Rd	Lockeford	95237
+N Jack Tone Rd	Acampo	95220
+N Jack Tone Rd	Galt	95632
+N Jack Tone Rd	Linden	95236
+N Jack Tone Rd	Lockeford	95207
+N Jack Tone Rd	Lockeford	95237
+N Jack Tone Rd	Lodi	95240
+N Jack Tone Rd	Ripon	95366
+N Jack Tone Rd	Stockton	95212
+N Jack Tone Rd	Stockton	95215
+N Jack Tone Rd	Stockton	95216
+N Jackie St	Visalia	93291
+N Jackson Ave	Fresno	93702
+N Jackson Ave	Fresno	93703
+N Jackson Ave	Fresno	93710
+N Jackson Ave	Fresno	93720
+N Jackson Ave	Fresno	93726
+N Jackson Ave	Fresno	93730
+N Jackson Ave	Fresno	93740
+N Jackson Ave	San Jose	95112
+N Jackson Ave	San Jose	95116
+N Jackson Ave	San Jose	95133
+N Jackson St	Colton	92324
+N Jackson St	Indio	92201
+N Jackson St	Indio	92203
+N Jackson St	Santa Ana	92703
+N Jackson Way	Alamo	94507
+N Jacob Brack Rd	Lodi	95242
+N Jacob Ct	Visalia	93291
+N Jacob St	Visalia	93291
+N Jade Ave	Fresno	93720
+N Jade St	Richmond	94801
+N Jahant Ct	Acampo	95220
+N James Cir	Villa Park	92867
+N James Pl	Anaheim	92801
+N James St	Orange	92869
+N Jameson Ave	Fresno	93706
+N Jameson Ave	Fresno	93723
+N Jameson Ln	Montecito	93108
+N Jamestown Way	Orange	92869
+N Janet Pl	Fullerton	92831
+N Janice Ave	Fresno	93737
+N Janice Cir	Villa Park	92867
+N Janss St	Anaheim	92805
+N Janss Way	Anaheim	92805
+N Jantzen Ave	Colton	92324
+N Janzer Ave	Fresno	93722
+N Jasmine Ave	Ontario	91762
+N Jasmine Ave	Reedley	93654
+N Jasmine Ave	Upland	91784
+N Jasmine Ct	Ontario	91762
+N Jasmine Ct	San Bernardino	92407
+N Jasmine Dr	Porterville	93257
+N Jasmine Pl	Anaheim	92801
+N Jasmine St	Anaheim	92801
+N Jasmine St	Lompoc	93436
+N Jasmine St	San Bernardino	92407
+N Jason Ave	Fresno	93737
+N Jay Ave	Camarillo	93010
+N Jaye St	Porterville	93257
+N Jaywood Ct	Bre	92821
+N Jeanine Dr	Anaheim	92806
+N Jeanne Ave	Fresno	93704
+N Jeanne Ave	Fresno	93722
+N Jeffers Ln	San Bernardino	92404
+N Jefferson Ave	Fullerton	92832
+N Jefferson Pl	Santa Ana	92706
+N Jefferson St	Ana	92807
+N Jefferson St	Anaheim	92807
+N Jefferson St	Cloverdale	95425
+N Jefferson St	Modesto	95351
+N Jefferson St	Modesto	95354
+N Jefferson St	Pla	92870
+N Jefferson St	Placentia	92870
+N Jemez Trl	Landers	92285
+N Jenifer Dr	Ana	92807
+N Jenifer Dr	Anaheim	92807
+N Jeniffer Ct	Colton	92324
+N Jenkins St	Santa Ana	92703
+N Jenks Cir	Corona	92880
+N Jenks Dr	Corona	92880
+N Jennie Lake	Hanford	93230
+N Jennie Lake Tl	Hanford	93230
+N Jennifer Way	Banning	92220
+N Jennifer Way	Porterville	93257
+N Jerome Ave	Thousand Oaks	91320
+N Jerome St	Villa Park	92867
+N Jerrilee Ln	Ana	92807
+N Jerrilee Ln	Anaheim	92807
+N Jerrold Ave	Firebaugh	93622
+N Jerrold Ave	Mendota	93640
+N Jeryl Ave	Colton	92324
+N Jesse Dr	San Bernardino	92407
+N Jessee Dr	Santa Ana	92705
+N Jesselle Ct	Santa Maria	93454
+N Jetty Cir	Santa Ana	92706
+N Jetty Dr	Orange	92868
+N Jetty Dr	Santa Ana	92706
+N Jetty St	Santa Ana	92706
+N Jewel Ave	Fresno	93737
+N Jewell Pl	Orange	92868
+N Jib St	Orange	92865
+N Jill Ct	Simi Valley	93063
+N Jill Way	Upland	91784
+N Jimmy Ave	Fresno	93722
+N Joan St	La Habra	90631
+N Joanne Ave	Ventura	93003
+N Joanne St	Ventura	93003
+N Joanne Way	Oxnard	93030
+N Joaquin St	Coalinga	93210
+N Jodi St	Orange	92867
+N Jody Ave	Santa Ana	92706
+N John Albert Ave	Fresno	93720
+N John Albert Ave	Fresno	93726
+N John Albert Ave	Fresno	93730
+N John Muir Rd	Lake Arrowhead	92352
+N Johnson	Santa Maria	93458
+N Johnson Ave	El Cajon	92020
+N Johnson Ct	Tustin	92782
+N Johnson Dr	Santa Maria	93458
+N Johnson Drive	Santa Maria	93458
+N Johnson Ln	Bre	92821
+N Johnson Pl	Porterville	93257
+N Johnson Rd	Clements	95227
+N Johnson Rd	Lodi	95240
+N Johnson Rd	Turlock	95380
+N Johnson Rd	Turlock	95382
+N Johnson St	San Bernardino	92407
+N Johnson St	Visalia	93291
+N Johnston Knls	Fullerton	92835
+N Joliet Pl	Oxnard	93030
+N Jonathon Ct	Stockton	95212
+N Jones Way	Simi Valley	93065
+N Jonna Ave	Fowler	93625
+N Jonquil Dr	Upland	91784
+N Jons Way	Orange	92869
+N Jordan Ave	San Jacinto	92583
+N Jordan Ln	San Bernardino	92407
+N Jordan Ln	Woodbridge	95258
+N Jordan St	San Jacinto	92583
+N Jory Rd	Lodi	95240
+N Jose Ave	Camarillo	93010
+N Joseph St	Santa Maria	93454
+N Joshua Ct	San Bernardino	92404
+N Joshua Ln	San Bernardino	92407
+N Joshua Tree St	Colton	92324
+N Joy	Corona	92879
+N Joy St	Corona	92879
+N Joyce Ave	Rialto	92376
+N Joyce Dr	Palm Springs	92262
+N Juanita Ave	Hemet	92543
+N Juanita Ave	Oxnard	93030
+N Juanita St	Hemet	92543
+N Juanita St	La Habra	90631
+N Juanita St	Mendota	93640
+N Judy Ave	Fresno	93727
+N Juleston Dr	Santa Maria	93458
+N Julia Ct	Camarillo	93010
+N Julian St	Oxnard	93030
+N Julian St	Ventura	93001
+N Julie Ave	Fresno	93730
+N Julieann Ct	Visalia	93291
+N Julieann St	Visalia	93291
+N Juliet Ct	Bre	92821
+N Juneberry St	Orange	92865
+N Juniper Ave	Upland	91786
+N Juniper Ave	Yucaipa	92399
+N Juniper Dr	San Bernardino	92404
+N Juniper Pl	Anaheim	92805
+N Juniper St	Escondido	92025
+N Juniper Trl	Frazier Park	93225
+N Junipero Ave	Palm Springs	92262
+N Justin Ave	Fresno	93720
+N Justin Ave	Simi Valley	93065
+N Justin Ct	Porterville	93257
+N Justin Ct	San Bernardino	92407
+N Justin Pl	Anaheim	92801
+N Justin St	Simi Valley	93065

@@ -1,0 +1,41 @@
+E 6 Th St	Westmorland	92281
+E 6Th	Calexico	92231
+E 6Th	Heber	92249
+E 6Th	Holtville	92250
+E 6Th	Niland	92257
+E 6Th	Westmorland	92281
+E 6Th & 605 Walnut Ave	Holtville	92250
+E 6Th Ave	Calexico	92231
+E 6Th Ave	Chico	95926
+E 6Th Ave	Escondido	92025
+E 6Th Ave	Imperial	92251
+E 6Th Dr	Heber	92249
+E 6Th Rd	Heber	92249
+E 6Th Rd	Westmorland	92281
+E 6Th St	Antioch	94509
+E 6Th St	Bakersfield	93307
+E 6Th St	Beaumont	92223
+E 6Th St	Calexico	92231
+E 6Th St	Chico	95928
+E 6Th St	Corona	92879
+E 6Th St	Gilroy	95020
+E 6Th St	Heber	92249
+E 6Th St	Holtville	92250
+E 6Th St	Imperial	92251
+E 6Th St	Lincoln	95648
+E 6Th St	Madera	93637
+E 6Th St	Madera	93638
+E 6Th St	National City	91950
+E 6Th St	Niland	92257
+E 6Th St	Ontario	91764
+E 6Th St	Perris	92570
+E 6Th St	Perris	92571
+E 6Th St	Pittsburg	94565
+E 6Th St	San Bernardino	92410
+E 6Th St	San Jacinto	92583
+E 6Th St	Santa Ana	92701
+E 6Th St	Tustin	92780
+E 6Th St	Westmorland	92281
+E 6Th St 1	Bakersfield	93307
+E 6Th St 1/2	Madera	93637
+E 6Th Street St	Imperial	92251

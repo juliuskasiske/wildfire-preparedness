@@ -1,0 +1,925 @@
+Rida Street	Pasadena	91107
+Ridaken	Soquel	95073
+Ridden St	Camarillo	93010
+Ridder Park Dr	San Jose	95110
+Ridder Park Dr	San Jose	95131
+Ridderkerk Cir	Modesto	95356
+Riddio St	Citrus Heights	95610
+Riddle Ct	Modesto	95356
+Riddle Ct	Stockton	95203
+Riddle Pl	Tracy	95377
+Riddle Rd	City Of Shasta Lake	96019
+Riddle Rd	Glen Ellen	95442
+Riddle Rd	San Jose	95117
+Riddle Way	Grass Valley	95949
+Riddling Ct	Brentwood	94513
+Riddling St	American Canyon	94503
+Ride Out Way	Ful	92835
+Ride Out Way	Fullerton	92835
+Ride St	Bakersfield	93313
+Ride St E	Irvine	92617
+Rideabout Ct	San Diego	92129
+Rideabout Ln	San Diego	92129
+Rideau St	Temecula	92592
+Rideau Street	Whittier	90601
+Rideline Rd	Yorba Linda	92887
+Rideout Ct	Fontana	92336
+Rideout Place	Whittier	90601
+Rideout St	Samoa	95564
+Rideout Way	City Of Marysville	95901
+Rideout Way	Whittier	90601
+Rider	Perris	92570
+Rider	Salinas	93905
+Rider	Watsonville	95076
+Rider Ave	Perris	92571
+Rider Avenue	Salinas	93905
+Rider Avenue Avenue	Salinas	93905
+Rider Court	Claremont	91711
+Rider Ct	Hayward	94544
+Rider Ct	Roseville	95678
+Rider Ct	Walnut Creek	94595
+Rider Ln	Mill Valley	94941
+Rider Pl	San Diego	92130
+Rider Ridge	Santa Cruz	95062
+Rider Ridge	Santa Cruz	95065
+Rider St	Perris	92570
+Rider St	Perris	92571
+Rider Way	Temecula	92590
+Riderwood Avenue	Hacienda Heights	91745
+Riderwood Drive	Sunland	91040
+Riderwood Ter	Santee	92071
+Riderwood View	Sunland	91040
+Ridge	Ben Lomond	95005
+Ridge	Boulder Creek	95006
+Ridge	Mt Hermon	95041
+Ridge	Santa Cruz	95060
+Ridge Av	Ripon	95366
+Ridge Ave	Clearlake	95422
+Ridge Ave	Mill Valley	94941
+Ridge Ave	San Rafael	94901
+Ridge Avenue	Inyokern	93527
+Ridge Avenue	Santa Clarita	91390
+Ridge Avenue	Vallejo	94591
+Ridge Berry Dr	Winchester	92596
+Ridge Canyon Ave	Riverside	92506
+Ridge Canyon Dr	Palm Springs	92264
+Ridge Canyon Dr	Riverside	92506
+Ridge Canyon Rd	Rancho Cucamonga	91737
+Ridge Canyon Rd	Riverside	92506
+Ridge Canyon Rd	Valley Center	92082
+Ridge Cir	Palm Desert	92260
+Ridge Cir	Willits	 
+Ridge Circle	Benicia	94510
+Ridge Circle	Los Angeles	90049
+Ridge Cliff Dr	Riverside	92503
+Ridge Court	La Canada Flintridge	91011
+Ridge Creek	Valley Center	92082
+Ridge Creek Ct	Cupertino	95014
+Ridge Creek Ct	Elk Grove	95758
+Ridge Creek Ct	Roseville	95661
+Ridge Creek Dr	Bonita	91902
+Ridge Creek Dr	Fallbrook	92028
+Ridge Creek Estates Way	Reedley	93654
+Ridge Creek Ln	Patterson	95363
+Ridge Creek Rd	Valley Center	92082
+Ridge Creek Wy	Roseville	95661
+Ridge Crest Circle	Pomona	91766
+Ridge Crest Ct	Oakley	94561
+Ridge Crest Ct	Unincorporated Alameda County	94541
+Ridge Crest Dr	Big Bear Lake	92315
+Ridge Crest Dr	Idyllwild	92549
+Ridge Crest Dr	Lake Elsinore	92532
+Ridge Crest Dr	Pioneer	95666
+Ridge Crest Dr	Santa Paula	93060
+Ridge Crest Dr	Yucaipa	92399
+Ridge Crest Lane	Grass Valley	95949
+Ridge Crest Ln	Palm Desert	92260
+Ridge Crest St	Murrieta	92563
+Ridge Crest Way	Desert Hot Springs	92240
+Ridge Ct	Carlsbad	92010
+Ridge Ct	Corte Madera	94925
+Ridge Ct	Mariposa	95338
+Ridge Ct	Olympic Valley	96146
+Ridge Ct	Perris	92571
+Ridge Ct	San Diego	92108
+Ridge Ct	San Francisco	94134
+Ridge Ct	Santa Clara	95051
+Ridge Ct	South San Francisco	94080
+Ridge Ct	Sutter Creek	95685
+Ridge Ct	Woodside	94062
+Ridge Ct #12	Olympic Valley	96146
+Ridge Ct #13	Olympic Valley	96146
+Ridge Ct #14	Olympic Valley	96146
+Ridge Ct #15	Olympic Valley	96146
+Ridge Ct #16	Olympic Valley	96146
+Ridge Cut Road	Knights Landing	95645
+Ridge Dr	Arrowbear	92382
+Ridge Dr	Arrowbear Lake	92382
+Ridge Dr	Camarillo	93012
+Ridge Dr	Cedarpines Park	92322
+Ridge Dr	Concord	94518
+Ridge Dr	Fallbrook	92028
+Ridge Dr	Guerneville	95446
+Ridge Dr	Highland	92346
+Ridge Dr	Laguna Beach	92651
+Ridge Dr	Lodi	95240
+Ridge Dr	Loomis	95650
+Ridge Dr	Napa	94558
+Ridge Dr	Pioneer	95666
+Ridge Dr	Pittsburg	94565
+Ridge Dr	Redding	96001
+Ridge Dr	Running Springs	92382
+Ridge Dr	Susanville	96130
+Ridge Drive	Beale Afb	95903
+Ridge Drive	Glendale	91206
+Ridge Drive	Los Angeles	90049
+Ridge Drive	Mccloud	96057
+Ridge Drive	Merced	95340
+Ridge Drive	Springville	93265
+Ridge Drive	Yreka	96097
+Ridge Estate Court	Walnut	91789
+Ridge Estates Court	Walnut	91789
+Ridge Estates Road	Nevada City	95959
+Ridge Field Dr	Riverside	92503
+Ridge Forest Dr	Bakersfield	93313
+Ridge Gate	Irvine	92602
+Ridge Gate Ct	Rocklin	95765
+Ridge Gate Rd	Orinda	94563
+Ridge Glen Dr	Huntington Beach	92648
+Ridge Glen Dr	Huntington Beach	92648-7415
+Ridge Glen Dr	Huntington Beach	92648-7416 
+Ridge Glen Dr	Huntington Beach	92648-7417
+Ridge Glen Dr	Huntington Beach	92648-7418 
+Ridge Glen Dr	Huntington Beach	92648-7419 
+Ridge Glen Dr	Huntington Beach	92648-7420 
+Ridge Glen Dr	Huntington Beach	92648-7421 
+Ridge Glen Dr	Huntington Beach	92648-7422 
+Ridge Haven Way	Oceanside	92057
+Ridge Heights Dr	Fallbrook	92028
+Ridge Hill	El Cajon	92021
+Ridge Hill Ct	Orangevale	95662
+Ridge Hill Rd	El Cajon	92021
+Ridge Lake Ct	Bakersfield	93313
+Ridge Lane	Crowley Lake	93546
+Ridge Lane	Hornbrook	96044
+Ridge Lane	Macdoel	96058
+Ridge Lane	Redondo Beach	90278
+Ridge Line Cir	Murrieta	92562
+Ridge Line Ct	Oroville	95966
+Ridge Line Dr	Chino Hills	91709
+Ridge Line Dr	Oak View	93022
+Ridge Line Road	Diamond Bar	91765
+Ridge Ln	El Cajon	92019
+Ridge Ln	Fontana	92336
+Ridge Ln	Mill Valley	94941
+Ridge Ln	Orinda	94563
+Ridge Ln	Pioneer	 
+Ridge Ln	San Francisco	94112
+Ridge Ln	Santa Barbara	93103
+Ridge Manor Ave	San Diego	92120
+Ridge Manor Way	Yorba Linda	92886
+Ridge Mountain Dr	Palm Springs	92264
+Ridge Oak Ct	San Jose	95120
+Ridge Oak Dr	Bakersfield	93311
+Ridge Oak Drive	Los Angeles	90068
+Ridge Oak Pl	Escondido	92027
+Ridge Oak Pl	Valley Center	92082
+Ridge Oak Rd	Wildomar	92595
+Ridge Oaks Rd	Geyserville	95441
+Ridge Park	Brawley	92227
+Ridge Park	Long Beach	90804
+Ridge Park Court	Long Beach	90804
+Ridge Park Dr	Brawley	92227
+Ridge Park Dr	Concord	94518
+Ridge Park Dr	Loomis	95650
+Ridge Park Dr	Temecula	92590
+Ridge Park Dr	Ybl	92886
+Ridge Park Dr	Yorba Linda	92886
+Ridge Park Drive	Hacienda Heights	91745
+Ridge Park Ln	Concord	94518
+Ridge Park Rd	Newport Beach	92657
+Ridge Pl	Crestline	92325
+Ridge Pl	Fallbrook	92028
+Ridge Pl	Pleasant Hill	94523
+Ridge Pl	Willits	 
+Ridge Point Ct	Chula Vista	91913
+Ridge Point Ct	Moreno Valley	92557
+Ridge Point Drive	Diamond Bar	91765
+Ridge Point Drive	Los Angeles	90049
+Ridge Point Way	Jurupa Valley	92509
+Ridge Pointe Rd	Chino Hills	91709
+Ridge Ranch Ct	Valley Center	92082
+Ridge Ranch Rd	Escondido	92027
+Ridge Ranch Rd	Valley Center	92082
+Ridge Ranch Rd	Willits	 
+Ridge Ranch Road	Grass Valley	95945
+Ridge Rd	 	95589
+Ridge Rd	Alamo	94507
+Ridge Rd	Alta	95701
+Ridge Rd	Arcata	95521
+Ridge Rd	Bakersfield	93305
+Ridge Rd	Belmont	94002
+Ridge Rd	Berkeley	94709
+Ridge Rd	Cassel	96016
+Ridge Rd	Clearlake	95422
+Ridge Rd	Dutch Flat	95714
+Ridge Rd	Dutch Flat	95717
+Ridge Rd	Fairfax	94930
+Ridge Rd	Fawnskin	92333
+Ridge Rd	Healdsburg	95448
+Ridge Rd	Hemet	92544
+Ridge Rd	Jackson	 
+Ridge Rd	Jackson	95642
+Ridge Rd	Lafayette	94549
+Ridge Rd	Lake Arrowhead	92352
+Ridge Rd	Lake Elsinore	92530
+Ridge Rd	Lakeport	95453
+Ridge Rd	Loch Lomond	95461
+Ridge Rd	Modesto	95358
+Ridge Rd	Newcastle	95658
+Ridge Rd	Nipomo	93444
+Ridge Rd	Novato	94947
+Ridge Rd	Oceanside	92056
+Ridge Rd	Palm Springs	92264
+Ridge Rd	Pine Grove	95665
+Ridge Rd	Pismo Beach	93449
+Ridge Rd	Redding	96003
+Ridge Rd	Redwood City	94062
+Ridge Rd	Riverside	92501
+Ridge Rd	San Anselmo	94960
+Ridge Rd	San Carlos	94070
+Ridge Rd	San Juan Capistrano	92675
+Ridge Rd	San Pablo	94806
+Ridge Rd	Santa Barbara Unincorporated	93460
+Ridge Rd	Santa Clara	95051
+Ridge Rd	Shaver Lake	93664
+Ridge Rd	Shelter Cove	95589
+Ridge Rd	Skyforest	92385
+Ridge Rd	Smith River	95567
+Ridge Rd	Sonoma	95476
+Ridge Rd	Sonora	95370
+Ridge Rd	Sutter Creek	 
+Ridge Rd	Sutter Creek	95685
+Ridge Rd	Templeton	93465
+Ridge Rd	Tiburon	94920
+Ridge Rd	Twain Harte	95383
+Ridge Rd	Ukiah	 
+Ridge Rd	Vista	92081
+Ridge Rd	Weaverville	96093
+Ridge Rd	Whitethorn	95542
+Ridge Rd	Willits	 
+Ridge Rd	Woodside	94062
+Ridge Rd	Yucca Valley	92284
+Ridge Retreat	Forestville	95436
+Ridge Rider Rd	Bradley	93426
+Ridge Rim Ct	Antelope	95843
+Ridge River Av	Stockton	95206
+Ridge Road	Camptonville	95960
+Ridge Road	Grass Valley	95945
+Ridge Road	Los Angeles	90049
+Ridge Road	Nevada City	95959
+Ridge Road	Pacific Grove	93950
+Ridge Road	Pike	95960
+Ridge Road	Posey	93260
+Ridge Road	Truckee	96161
+Ridge Road	Whittier	90601
+Ridge Rock Ct	Chula Vista	91913
+Ridge Rock Drive	North San Juan	95960
+Ridge Route Dr	Laguna Hills	92653
+Ridge Route Dr	Laguna Woods	92637
+Ridge Route Dr	Lake Forest	92630
+Ridge Route Dr	Lake Forest	92630-3629
+Ridge Route Dr	Lake Forest	92630-3675
+Ridge Route Dr	Lake Forest	92630-3690
+Ridge Route Ln	Lake Forest	92630
+Ridge Route Rd	Riverside	92503
+Ridge Route Rd	San Diego	92120
+Ridge Route Road	Castaic	91384
+Ridge Route Road	Lake Hughes	93532
+Ridge Route Road	Lancaster	93536
+Ridge Run Way	San Diego	92131
+Ridge Spur	Arrowbear	92382
+Ridge Spur	Nevada City	95959
+Ridge St	Clearlake	95422
+Ridge St	Fair Oaks	95628
+Ridge St	Redlands	92373
+Ridge Street	Winton	95388
+Ridge Ter	Encinitas	92024
+Ridge Terrace Lane	Montebello	90640
+Ridge Top	Los Gatos	95033
+Ridge Top Court	Auburn	95602
+Ridge Top Dr	North Fork	93643
+Ridge Top Dr	Weaverville	96093
+Ridge Top Lane	Castaic	91384
+Ridge Top Rd	Mariposa	95338
+Ridge Trail Ct	Mi-Wuk	95346
+Ridge Trl	El Cajon	92019
+Ridge Trl	Julian	92036
+Ridge Vale Drive	Newhall	91321
+Ridge Valley Rd	Sonoma	95476
+Ridge View	Aptos	95003
+Ridge View Ct	Apple Valley	92307
+Ridge View Ct	Fortuna	95540
+Ridge View Ct	Redlands	92373
+Ridge View Ct	Simi Valley	93065
+Ridge View Dr	Apple Valley	92307
+Ridge View Dr	Healdsburg	95448
+Ridge View Dr	Lake Elsinore	92532
+Ridge View Dr	Mill Valley	94941
+Ridge View Dr	Orcutt	93455
+Ridge View Dr	San Diego	92105
+Ridge View Dr	Santa Maria	93455
+Ridge View Dr	Sutter Creek	95685
+Ridge View Drive	Azusa	91702
+Ridge View Drive	Canyon Country	91387
+Ridge View Drive	Lancaster	93536
+Ridge View Ln	Point Reyes Station	94956
+Ridge View Ln	Sebastopol	95472
+Ridge View Rd	Foresthill	95631
+Ridge View Rd	Pioneertown	92268
+Ridge View Rd	Redding	96003
+Ridge View Rd	Truckee	96161
+Ridge View Rd	Yucca Valley	92284
+Ridge View St	Camarillo	93012
+Ridge View Ter	Fullerton	92831
+Ridge View Way	Oceanside	92057
+Ridge View Way	Palm Desert	92260
+Ridge Vista Ave	San Jose	95127
+Ridge Vista Ct	Fair Oaks	95628
+Ridge Vly	Irvine	92618
+Ridge Way	Auburn	95603
+Ridge Way	Carmel Valley	93924
+Ridge Way	Fallbrook	92028
+Ridge Way	Granite Bay	95746
+Ridge Way	Green Valley Lake	92341
+Ridge Way	Los Angeles	90026
+Ridge Way	Madera	93638
+Ridge Way	Magalia	95954
+Ridge Way	Mammoth Lakes	93546
+Ridge Way	Oroville	95966
+Ridge Way	Pasadena	91106
+Ridge Way	Running Springs	92382
+Ridge Way	Watsonville	95076
+Ridge Way	Ybl	92886
+Ridge Way	Yorba Linda	92886
+Ridge Way	Yuba City	95991
+Ridge Way Gln	Escondido	92029
+Ridge Willow Ct	Sacramento	95828
+Ridgeback Ct	Indio	92202
+Ridgeback Lane	Grass Valley	95949
+Ridgeback Ln	Weimar	95713
+Ridgeback Rd	Chula Vista	91910
+Ridgeback Road	Carmel Valley	93924
+Ridgebank Ave	Madera	93636
+Ridgebbrook Pl	Thousand Oaks	91362
+Ridgebloom Ct	Temecula	92590
+Ridgebluff Court	Rancho Palos Verdes	90275
+Ridgeboro Pl	Tustin	92780
+Ridgebriar Ln	Victorville	92394
+Ridgebrook	Mission Viejo	92692
+Ridgebrook Court	Rancho Palos Verdes	90275
+Ridgebrook Ct	Thousand Oaks	91362
+Ridgebrook Drive	Agoura Hills	91301
+Ridgebrook Pl	Thousand Oaks	91362
+Ridgebrook Way	Chico	95928
+Ridgebrook Way	San Jose	95111
+Ridgebury Dr	Huntington Beach	92649
+Ridgebury Dr	Huntington Beach	92649-4825
+Ridgebury Dr	Huntington Beach	92649-4826
+Ridgebury Dr	Huntington Beach	92649-4827
+Ridgebury Dr	Huntington Beach	92649-4828
+Ridgebury Way	Fairfield	94533
+Ridgecliff Ct	San Jose	95131
+Ridgecliff Lane	La Canada Flintridge	91011
+Ridgecliff Ln	Spring Valley	91977
+Ridgecove Court	Rancho Palos Verdes	90275
+Ridgecove Court North	Rancho Palos Verdes	90275
+Ridgecove Court South	Rancho Palos Verdes	90275
+Ridgecreek Ln	Unincorporated Alameda County	94541
+Ridgecrest	Aguanga	92536
+Ridgecrest	Aliso Viejo	92656
+Ridgecrest	Jackson	95642
+Ridgecrest	Lake Elsinore	92532
+Ridgecrest	Scotts Valley	95066
+Ridgecrest Ave	Monte Sereno	95030
+Ridgecrest Ave	Norco	92860
+Ridgecrest Blvd	Mill Valley	94930
+Ridgecrest Cir	Chino Hills	91709
+Ridgecrest Cir	Costa Mesa	92627
+Ridgecrest Cir	Tustin	92780
+Ridgecrest Circle	Suisun City	94585
+Ridgecrest Circle East	Walnut	91789
+Ridgecrest Court	Diamond Bar	91765
+Ridgecrest Court	Fairfield	94534
+Ridgecrest Court	Monterey Park	91754
+Ridgecrest Court	Valencia	91354
+Ridgecrest Ct	Bakersfield	93313
+Ridgecrest Ct	Carmichael	95608
+Ridgecrest Ct	Hanford	93230
+Ridgecrest Ct	Hidden Valley Lake	95467
+Ridgecrest Ct	Lafayette	94549
+Ridgecrest Ct	Lincoln	95648
+Ridgecrest Ct	Napa	94558
+Ridgecrest Ct	Pittsburg	94565
+Ridgecrest Ct	Santa Rosa	95403
+Ridgecrest Ct	Sutter Creek	95685
+Ridgecrest Ct	Ventura	93003
+Ridgecrest Ct	Wishon	93669
+Ridgecrest Dr	Carlsbad	92008
+Ridgecrest Dr	Corona	92881
+Ridgecrest Dr	Eureka	95503
+Ridgecrest Dr	Fontana	92337
+Ridgecrest Dr	Guerneville	95446
+Ridgecrest Dr	Jackson	95642
+Ridgecrest Dr	La Mesa	91941
+Ridgecrest Dr	Lake Elsinore	92532
+Ridgecrest Dr	Lincoln	95648
+Ridgecrest Dr	Manteca	95336
+Ridgecrest Dr	Modesto	95351
+Ridgecrest Dr	Napa	94558
+Ridgecrest Dr	Paradise	95969
+Ridgecrest Dr	Rancho Cucamonga	91739
+Ridgecrest Dr	Riverside	92505
+Ridgecrest Dr	San Diego	92114
+Ridgecrest Dr	Santa Paula	93060
+Ridgecrest Dr	Summerland	93108
+Ridgecrest Dr	Weimar	95713
+Ridgecrest Dr	Ybl	92886
+Ridgecrest Dr	Yorba Linda	92886
+Ridgecrest Dr	Yucaipa	92399
+Ridgecrest Drive	Beverly Hills	90210
+Ridgecrest Drive	Mammoth Lakes	93546
+Ridgecrest Lane	Cerritos	90703
+Ridgecrest Ln	Chino Hills	91709
+Ridgecrest Ln	Lake Arrowhead	92352
+Ridgecrest Ln	Moreno Valley	92557
+Ridgecrest Ln	Palm Desert	92260
+Ridgecrest Ln	Somis	93066
+Ridgecrest Pkwy	Oroville	95966
+Ridgecrest Pl	Escondido	92029
+Ridgecrest Pl	Nipomo	93444
+Ridgecrest Pl	Thousand Oaks	91362
+Ridgecrest Place	Mammoth Lakes	93546
+Ridgecrest Place	Penn Valley	95946
+Ridgecrest Rd	Canyon	94516
+Ridgecrest Rd	Kentfield	94904
+Ridgecrest Rd	Pinole	94564
+Ridgecrest Rd	Poway	92064
+Ridgecrest Rd	Santa Paula	93060
+Ridgecrest Rd	Victorville	92395
+Ridgecrest Rd	Winchester	92596
+Ridgecrest Road	Royal Oaks	95076
+Ridgecrest St	Orcutt	93455
+Ridgecrest St	Santa Maria	93455
+Ridgecrest Street	Monterey Park	91754
+Ridgecrest Ter	El Cajon	92021
+Ridgecrest Ter	San Mateo	94402
+Ridgecrest Trl	Aguanga	92536
+Ridgecrest Trl	Redding	96003
+Ridgecrest Way	Groveland	95321
+Ridgecrest Way	Monterey Park	91754
+Ridgecrest Way	Pittsburg	94565
+Ridgecrest Wy	Roseville	95661
+Ridgedale Ct	Antioch	94531
+Ridgedale Ct	El Sobrante	94803
+Ridgedale Ct	Roseville	95661
+Ridgedale Dr	Madera	93638
+Ridgedale Dr	Murrieta	92563
+Ridgedale Dr	Perris	92570
+Ridgedale Dr	Poway	92064
+Ridgedale Drive	Beverly Hills	90210
+Ridgedale Ln	Ybl	92886
+Ridgedale Ln	Yorba Linda	92886
+Ridgedale St	Bakersfield	93306
+Ridgefarm Dr	San Jose	95123
+Ridgefield Ave	Carlsbad	92010
+Ridgefield Ave	Carmichael	95608
+Ridgefield Ave	Daly City	94015
+Ridgefield Circle	Fairfield	94534
+Ridgefield Court	Santa Clarita	91350
+Ridgefield Ct	Brentwood	94513
+Ridgefield Ct	Sonora	95370
+Ridgefield Dr	Chino Hills	91709
+Ridgefield Dr	Huntington Beach	92646
+Ridgefield Dr	Huntington Beach	92646-6741
+Ridgefield Dr	Huntington Beach	92646-6742
+Ridgefield Dr	Huntington Beach	92646-6744
+Ridgefield Dr	Huntington Beach	92646-6763
+Ridgefield Drive	Claremont	91711
+Ridgefield Pl	San Diego	92129
+Ridgefield Ter	Moreno Valley	92557
+Ridgefield Vista St	Winchester	92596
+Ridgeford Drive	Westlake Village	91361
+Ridgeforest Court	Rancho Palos Verdes	90275
+Ridgegate	Temecula	92590
+Ridgegate Ct	Antioch	94531
+Ridgegate Ct	Bakersfield	93313
+Ridgegate Dr	Chino Hills	91709
+Ridgegate Dr	San Jose	95133
+Ridgegate Dr	Temecula	92590
+Ridgegate Drive	Rancho Palos Verdes	90275
+Ridgegate Drive	Whittier	90601
+Ridgegate Lane	Palmdale	93551
+Ridgegate Ln	Simi Valley	93065
+Ridgegate Row	La Jolla	92037
+Ridgegate Way	Fair Oaks	95628
+Ridgeglade Court	Rancho Palos Verdes	90275
+Ridgeglen Way	Fair Oaks	95628
+Ridgeglen Way	San Jose	95133
+Ridgegreen Dr	Santa Rosa	95409
+Ridgegrove Drive	Santa Clarita	91350
+Ridgegrove Ln	Escondido	92029
+Ridgegrove Way	Fair Oaks	95628
+Ridgehaven Ct	San Diego	92123
+Ridgehaven Dr	La Habra	90631
+Ridgelake Dr	Placentia	92870
+Ridgeland Cir	Danville	94526
+Ridgeland Ct	San Marcos	92078
+Ridgeland Road	Torrance	90505
+Ridgeland Terraces Dr	Redding	96001
+Ridgeley Dr	Campbell	95008
+Ridgeley Drive	Los Angeles	90019
+Ridgeley Drive	Los Angeles	90036
+Ridgeline Ave	San Bernardino	92407
+Ridgeline Ave	Vista	92081
+Ridgeline Court	Santa Clarita	91350
+Ridgeline Ct	Bickford Ranch	95648
+Ridgeline Ct	San Diego	92154
+Ridgeline Ct	San Jose	95127
+Ridgeline Ct	Temecula	92590
+Ridgeline Dr	Antioch	94531
+Ridgeline Dr	Bickford Ranch	95648
+Ridgeline Dr	Corona	92882
+Ridgeline Dr	Jurupa Valley	92509
+Ridgeline Dr	Newport Beach	92660
+Ridgeline Dr	Riverside	92506
+Ridgeline Drive	Smartsville	95977
+Ridgeline Ln	Fair Oaks	95628
+Ridgeline Pl	Escondido	92027
+Ridgeline Pl	Rancho Cucamonga	91739
+Ridgeline Pl	Solana Beach	92075
+Ridgeline Place	Stevenson Ranch	91381
+Ridgeline Rd	Lake Forest	92679
+Ridgeline Rd	Madera	93636
+Ridgeline Rd	Trabuco Canyon	92679
+Ridgeline Rd	Victorville	92392
+Ridgeline Road	Diamond Bar	91765
+Ridgeline Trl	Wildomar	92595
+Ridgeline Way	Rancho Mirage	92270
+Ridgeline Way	Santa Clarita	91350
+Ridgely Ct	Fair Oaks	95628
+Ridgely Way	Menifee	92584
+Ridgemar Court	Rancho Palos Verdes	90275
+Ridgemark Ct	Sacramento	95831
+Ridgemark Dr	Hollister	95023
+Ridgemark Dr	Moorpark	93021
+Ridgemark Dr	Santa Maria	93455
+Ridgemark Ln	Stockton	95206
+Ridgemark Pl	Fontana	92336
+Ridgemark Rd	Apple Valley	92308
+Ridgemere Ci	Roseville	95747
+Ridgemist Street	Palmdale	93591
+Ridgemont Cir	Escondido	92027
+Ridgemont Circle	La Verne	91750
+Ridgemont Ct	Fullerton	92831
+Ridgemont Ct	Modesto	95355
+Ridgemont Ct	Oceanside	92056
+Ridgemont Ct	Thousand Oaks	91320
+Ridgemont Dr	Columbia	95310
+Ridgemont Dr	Fair Oaks	95628
+Ridgemont Dr	Milpitas	95035
+Ridgemont Dr	Moreno Valley	92557
+Ridgemont Dr	Mountain View	94040
+Ridgemont Dr	San Jose	95127
+Ridgemont Dr	San Jose	95148
+Ridgemont Drive	Los Angeles	90046
+Ridgemont Drive	Malibu	90265
+Ridgemont Lane	Walnut	91789
+Ridgemont Pl	Concord	94521
+Ridgemont Rd	Jamestown	95327
+Ridgemont St	Bakersfield	93313
+Ridgemont Way	Arroyo Grande	93420
+Ridgemont Way	Corona	92882
+Ridgemont Way	Modesto	95355
+Ridgemont Wy	Tracy	95377
+Ridgemoor Ave	Bakersfield	93306
+Ridgemoor Dr	Menifee	92584
+Ridgemoor Dr	San Diego	92120
+Ridgemoor Drive	Studio City	91604
+Ridgemoor Rd	Menifee	92584
+Ridgemoor Rd	Menifee	92586
+Ridgemoor St	Menifee	92586
+Ridgemore Ct	Orangevale	95662
+Ridgemore Dr	Meadow Vista	95722
+Ridgemore Dr	Palm Springs	92264
+Ridgemore Rd	Menifee	92586
+Ridgepark Ct	Fair Oaks	95628
+Ridgepath Court	Rancho Palos Verdes	90275
+Ridgepine Drive	La Crescenta	91214
+Ridgeplume Dr	Murrieta	92563
+Ridgepoint Court	Rancho Palos Verdes	90275
+Ridgepoint Ct	Hercules	94547
+Ridgepoint Dr	Antelope	95843
+Ridgepoint Way	2	94531
+Ridgepoint Way	Antioch	94531
+Ridgepointe Ct	San Ramon	94582
+Ridgepointe Ct	Walnut Creek	94596
+Ridgerider Ct	Jurupa Valley	92509
+Ridgerim Rd	Chico	95928
+Ridgerock	Laguna Niguel	92677
+Ridgerock Court	Santa Clarita	91350
+Ridgerock Dr	Antioch	94509
+Ridgerock Dr	Elk Grove	95624
+Ridgerun Dr	Roseville	95747
+Ridgerunner Rd	Arroyo Grande	93420
+Ridgeside Ct	Magalia	95954
+Ridgeside Ct	Roseville	95661
+Ridgeside Dr	Big Bear City	92314
+Ridgeside Dr	Riverside	92506
+Ridgeside Drive	Monrovia	91016
+Ridgeside Drive	Monterey Park	91754
+Ridgeside Ln	Orangevale	95662
+Ridgeside Pl	Spring Valley	91977
+Ridgestone Ct	Hemet	92545
+Ridgestone Ct	Walnut Creek	94598
+Ridgestone Dr	Menifee	92584
+Ridgethorne Court	Rancho Palos Verdes	90275
+Ridgeton Ct	Lakeside	92040
+Ridgeton Dr	Lakeside	92040
+Ridgeton Ln	Lakeside	92040
+Ridgeton Ln	Simi Valley	93065
+Ridgetop Ct	Fair Oaks	95628
+Ridgetop Dr	Redding	96003
+Ridgetop Dr	Riverside	92506
+Ridgetop Dr	San Jose	95127
+Ridgetop Ln	Fullerton	92831
+Ridgetop Ln	Whitmore	96096
+Ridgetop Ln	Willow Creek	95573
+Ridgetop Ranch Road	Palmdale	93551
+Ridgetop Rd	Anderson	96007
+Ridgetop Rd	Unincorporated	92676
+Ridgetop Ter	Bakersfield	93306
+Ridgetop Way	Napa	94558
+Ridgetree Way	San Jose	95131
+Ridgevale Ln	Pleasant Hill	94523
+Ridgevale Way	Fair Oaks	95628
+Ridgeview	Ben Lomond	95005
+Ridgeview	Irvine	92603
+Ridgeview	Santa Cruz	95060
+Ridgeview	Swall Meadows	93512
+Ridgeview	Watsonville	95076
+Ridgeview Ave	Jurupa Valley	91752
+Ridgeview Ave	Mira Loma	91752
+Ridgeview Ave	Rancho Cucamonga	91737
+Ridgeview Ave	San Jose	95127
+Ridgeview Avenue	Los Angeles	90041
+Ridgeview Avenue	Marina	93933
+Ridgeview Avenue	Rowland Heights	91748
+Ridgeview Ci	Shelter Cove	95589
+Ridgeview Ci	Stockton	95219
+Ridgeview Cir	Auburn	95603
+Ridgeview Cir	El Sobrante	94803
+Ridgeview Cir	Huntington Beach	92647
+Ridgeview Cir	Huntington Beach	92647-2322
+Ridgeview Cir	Sutter Creek	 
+Ridgeview Cir	Sutter Creek	95685
+Ridgeview Cir	Villa Park	92861
+Ridgeview Court	Diamond Bar	91765
+Ridgeview Court	Soledad	93960
+Ridgeview Ct	Bonita	91902
+Ridgeview Ct	Chino Hills	91709
+Ridgeview Ct	Citrus Heights	95621
+Ridgeview Ct	Colfax	95713
+Ridgeview Ct	Morgan Hill	95037
+Ridgeview Ct	Novato	94947
+Ridgeview Ct	Oakdale	95361
+Ridgeview Ct	Paso Robles	93446
+Ridgeview Ct	Pleasant Hill	94523
+Ridgeview Ct	Rancho Cucamonga	91737
+Ridgeview Ct	Redlands	92373
+Ridgeview Ct	San Jose	95127
+Ridgeview Ct	San Ramon	94582
+Ridgeview Ct	Sausalito	94965
+Ridgeview Ct	Sonora	95370
+Ridgeview Ct	South San Francisco	94080
+Ridgeview Ct	Tracy	95377
+Ridgeview Dr	Antioch	94531
+Ridgeview Dr	Atherton	94027
+Ridgeview Dr	Chino Hills	91709
+Ridgeview Dr	Clearlake	95422
+Ridgeview Dr	Idyllwild	92549
+Ridgeview Dr	Laguna Niguel	92677
+Ridgeview Dr	Madera	93636
+Ridgeview Dr	Palm Desert	92260
+Ridgeview Dr	Paso Robles	93446
+Ridgeview Dr	Petaluma	94952
+Ridgeview Dr	Pleasant Hill	94523
+Ridgeview Dr	Redwood Valley	 
+Ridgeview Dr	Richmond	94803
+Ridgeview Dr	Roseville	95661
+Ridgeview Dr	Ross	94957
+Ridgeview Dr	Santa Rosa	95404
+Ridgeview Dr	Sonora	95370
+Ridgeview Dr	Tracy	95377
+Ridgeview Dr	Ukiah	 
+Ridgeview Drive	Altadena	91001
+Ridgeview Drive	Glendale	91207
+Ridgeview Drive	Grass Valley	95945
+Ridgeview Drive	La Verne	91750
+Ridgeview Drive	Lancaster	93536
+Ridgeview Drive	Montague	96064
+Ridgeview Drive	Woodland	95695
+Ridgeview Hts	Novato	94947
+Ridgeview Lane	La Mirada	90638
+Ridgeview Lane	Vacaville	95688
+Ridgeview Lane	Whittier	90606
+Ridgeview Ln	Mill Valley	94941
+Ridgeview Ln	Murrieta	92562
+Ridgeview Ln	Oroville	95966
+Ridgeview Ln	Penryn	95663
+Ridgeview Ln	Ramona	92065
+Ridgeview Ln	St Helena	94574
+Ridgeview Ln	Walnut Creek	94598
+Ridgeview Ln	Wrightwood	92397
+Ridgeview Pl	Escondido	92026
+Ridgeview Pl	Lincoln	95648
+Ridgeview Pl	Pleasant Hill	94523
+Ridgeview Pl	Poway	92064
+Ridgeview Pl	Unincorporated Alameda County	94541
+Ridgeview Pl	Yucaipa	92399
+Ridgeview Place	Woodland	95695
+Ridgeview Rd	Montecito	93108
+Ridgeview Rd	Ramona	92065
+Ridgeview Rd	Villa Park	92861
+Ridgeview Rd	Willits	 
+Ridgeview Rd	Yucca Valley	92284
+Ridgeview Road	Swall Meadows	93512
+Ridgeview St	Bakersfield	93306
+Ridgeview St	Camarillo	93012
+Ridgeview Street	La Verne	91750
+Ridgeview Street	Tulelake	96134
+Ridgeview Ter	Corona	92882
+Ridgeview Ter	Fullerton	92831
+Ridgeview Ter	Hercules	94547
+Ridgeview Ter	San Jose	95127
+Ridgeview Terr Drive	Signal Hill	90755
+Ridgeview Terrace	Signal Hill	90755
+Ridgeview Terrace Dr.	Signal Hill	90755
+Ridgeview Terrace Drive	Signal Hill	90755
+Ridgeview Way	Arroyo Grande	93420
+Ridgeview Way	Bonita	91902
+Ridgeview Way	San Jose	95127
+Ridgeville Rd	Minersville	96091
+Ridgevine Way	Fair Oaks	95628
+Ridgewalk St	Murrieta	92562
+Ridgewater Dr	Chula Vista	91913
+Ridgewater Ln	San Diego	92131
+Ridgewater Way	Moreno Valley	92557
+Ridgeway	Irvine	92620
+Ridgeway	Magalia	95954
+Ridgeway	Mission Viejo	92692
+Ridgeway	San Diego	92116
+Ridgeway	Thousand Oaks	91362
+Ridgeway Av	Stockton	95207
+Ridgeway Ave	Cathedral City	92234
+Ridgeway Ave	Fairfax	94930
+Ridgeway Ave	Laguna Niguel	92677
+Ridgeway Ave	Riverside	92508
+Ridgeway Ave	San Bruno	94066
+Ridgeway Court	Castaic	91384
+Ridgeway Ct	Atascadero	93422
+Ridgeway Ct	Bakersfield	93306
+Ridgeway Ct	Ceres	95307
+Ridgeway Ct	Spring Valley	91977
+Ridgeway Ct	Thousand Oaks	91362
+Ridgeway Dr	Buena Park	90620
+Ridgeway Dr	Ceres	95307
+Ridgeway Dr	Cupertino	95014
+Ridgeway Dr	Gilroy	95020
+Ridgeway Dr	National City	91950
+Ridgeway Dr	North Tustin	92705
+Ridgeway Dr	Pacifica	94044
+Ridgeway Dr	Sacramento	95822
+Ridgeway Drive	Agoura Hills	91301
+Ridgeway Drive	Carmel Valley	93924
+Ridgeway Drive	Glendale	91202
+Ridgeway Highway Rd	Potter Valley	 
+Ridgeway Hwy	Potter Valley	 
+Ridgeway Hwy	Willits	 
+Ridgeway Ln	Corte Madera	94925
+Ridgeway Ln	El Cerrito	94530
+Ridgeway Ln	Eureka	95501
+Ridgeway Ln	La Habra	90631
+Ridgeway Ln	Larkspur	94939
+Ridgeway Ln	Menifee	92584
+Ridgeway Meadows Dr	Bakersfield	93314
+Ridgeway Pl	Ventura	93004
+Ridgeway Rd	Forestville	95436
+Ridgeway Rd	Hillsborough	94010
+Ridgeway Rd	Rancho Cucamonga	91701
+Ridgeway Rd	Woodside	94062
+Ridgeway Road	Granada Hills	91344
+Ridgeway Road	San Marino	91108
+Ridgeway St	Eureka	95501
+Ridgeway St	Morro Bay	93442
+Ridgeway St	Oceanside	92054
+Ridgeway Street	Pomona	91768
+Ridgewell Ct	Oroville	95966
+Ridgewood	Boulder Creek	95006
+Ridgewood Ave	Mill Valley	94941
+Ridgewood Ave	San Francisco	94112
+Ridgewood Ave	San Francisco	94127
+Ridgewood Cir	Lake Forest	92630
+Ridgewood Cir	Lake Forest	92630-3115
+Ridgewood Cir	Lake Forest	92630-3116
+Ridgewood Cir	Lake Forest	92630-3117
+Ridgewood Circle	Fairfield	94534
+Ridgewood Court	Fairfield	94534
+Ridgewood Court	Palmdale	93552
+Ridgewood Court	Pomona	91766
+Ridgewood Court	Vacaville	95688
+Ridgewood Court	Vallejo	94591
+Ridgewood Ct	Antioch	94509
+Ridgewood Ct	Belmont	94002
+Ridgewood Ct	Brentwood	94513
+Ridgewood Ct	Concord	94518
+Ridgewood Ct	Fontana	92337
+Ridgewood Ct	Martinez	94553
+Ridgewood Ct	Modesto	95350
+Ridgewood Ct	Rocklin	95677
+Ridgewood Ct	Santa Rosa	95403
+Ridgewood Ct	Sonora	95370
+Ridgewood Dr	Bakersfield	93306
+Ridgewood Dr	Camarillo	93012
+Ridgewood Dr	Carnelian Bay	96140
+Ridgewood Dr	Chico	95973
+Ridgewood Dr	Concord	94518
+Ridgewood Dr	Corona	92881
+Ridgewood Dr	Eureka	95503
+Ridgewood Dr	Fontana	92337
+Ridgewood Dr	Julian	92036
+Ridgewood Dr	Jurupa Valley	92509
+Ridgewood Dr	Lake Pillsbury	95469
+Ridgewood Dr	Loomis	95650
+Ridgewood Dr	Martinez	94553
+Ridgewood Dr	Millbrae	94030
+Ridgewood Dr	North Fork	93643
+Ridgewood Dr	Pescadero	94060
+Ridgewood Dr	San Diego	92139
+Ridgewood Dr	San Jose	95118
+Ridgewood Dr	San Rafael	94901
+Ridgewood Dr	Sonora	95370
+Ridgewood Dr	Yucaipa	92399
+Ridgewood Drive	Vacaville	95688
+Ridgewood Drive	West Covina	91792
+Ridgewood Fire Rd	San Rafael	94903
+Ridgewood Lane	Pasadena	91103
+Ridgewood Ln	Los Altos Hills	94022
+Ridgewood Ln	Villa Park	92861
+Ridgewood Pl	Ybl	92886
+Ridgewood Pl	Yorba Linda	92886
+Ridgewood Ranch Rd	Willits	 
+Ridgewood Rd	Alamo	94507
+Ridgewood Rd	Coffee Creek	96091
+Ridgewood Rd	Eureka	95503
+Ridgewood Rd	Hemet	92544
+Ridgewood Rd	Murrieta	92562
+Ridgewood Rd	Redding	96003
+Ridgewood Rd	Willits	 
+Ridgewood Road	Carmel By The Sea	93921
+Ridgewood Road	Nevada City	95959
+Ridgewood Street	Long Beach	90805
+Ridgewood Street	Long Beach	90807
+Ridgewood Way	Carlsbad	92010
+Ridgewood Way	Chowchilla	93610
+Ridgewood Way	Meadow Vista	95722
+Ridgewood Way	Richmond	94806
+Ridgewood Way	Sacramento	95821
+Ridggebrook Pl	Thousand Oaks	91362
+Ridglea Ave	Buena Park	90621
+Ridgley Ave	Guerneville	95446
+Ridgley Ct	Guerneville	95446
+Ridgley Dr	Garden Grove	92843
+Ridgview Ave	Jurupa Valley	91752
+Ridgway Ave	Santa Rosa	95401
+Riding Club Ct	Hayward	94542
+Riding Club Ln	Sacramento	95864
+Riding Ct	San Jose	95124
+Riding High Way	San Diego	92127
+Riding Lane	Topanga	90290
+Riding Path Dr	Roseville	95747
+Riding Ridge Rd	San Diego	92130
+Riding Ring Rd	Norco	92860
+Riding Trail Dr	Escondido	92029
+Riding Trail Dr	Wilton	95693
+Ridley Ave	Santa Rosa	95401
+Ridley Ave	Santa Rosa	95403
+Ridley Avenue	Hacienda Heights	91745
+Ridley Cir	Simi Valley	93065
+Ridley Ct	Phelan	92371
+Ridley Rd	San Diego	92129
+Ridley Way	North Highlands	95660
+Ridley Way	San Jose	95125
+Ridlon Ct	Ceres	95307
+Ridlon Ln	Ceres	95307
+Ridpath Drive	Los Angeles	90046

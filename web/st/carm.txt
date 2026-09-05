@@ -1,0 +1,396 @@
+Carm Ave	San Jose	95124
+Carma Ct	Riverside	92503
+Carma Way	Modesto	95356
+Carmack Court	Acton	93510
+Carmack Dr	Chico	95973
+Carmague Ln	Menifee	92584
+Carmalita Ct	Alamo	94507
+Carman Court	Grass Valley	95945
+Carman Crest Drive	Los Angeles	90068
+Carman Ln	Moreno Valley	92551
+Carmania Ln	Huntington Beach	92646
+Carmania Ln	Huntington Beach	92646-4315
+Carmania Ln	Huntington Beach	92646-4316
+Carmania Ln	Huntington Beach	92646-4317
+Carmania Ln	Huntington Beach	92646-4319
+Carmania Ln	Huntington Beach	92646-4320
+Carmania Ln	Huntington Beach	92646-4348
+Carmanita Avenue	Pomona	91767
+Carmanita Road	Whittier	90605
+Carmar Drive	Los Angeles	90046
+Carmar Place	Los Angeles	90046
+Carmar St	Hayward	94544
+Carmar Way	San Diego	92139
+Carmaux Ct	Sacramento	95842
+Carmel	Carmel-By-The-Sea	93921
+Carmel	Santa Cruz	95062
+Carmel	Watsonville	95076
+Carmel Av	Manteca	95336
+Carmel Av	Roseville	95678
+Carmel Av	Stockton	95204
+Carmel Ave	Chula Vista	91913
+Carmel Ave	Clearlake Park	95424
+Carmel Ave	Daly City	94015
+Carmel Ave	Desert Shores	92274
+Carmel Ave	El Cerrito	94530
+Carmel Ave	El Granada	94018
+Carmel Ave	Glen Ellen	95442
+Carmel Ave	Irvine	92606
+Carmel Ave	Los Altos	94022
+Carmel Ave	Manteca	95336
+Carmel Ave	Oroville	95966
+Carmel Ave	Pacifica	94044
+Carmel Ave	Salton City	92274
+Carmel Ave	Seal Beach	90740
+Carmel Ave	Simi Valley	93065
+Carmel Ave	Sunnyvale	94085
+Carmel Avenue	Marina	93933
+Carmel Avenue	Pacific Grove	93950
+Carmel Avenue	Salinas	93901
+Carmel Bay Dr	Newport Beach	92625
+Carmel Bay Road	West Sacramento	95691
+Carmel Beach Cir	Goleta	93117
+Carmel Brooks Way	San Diego	92130
+Carmel Canyon Rd	San Diego	92130
+Carmel Cape	San Diego	92130
+Carmel Center Rd	San Diego	92130
+Carmel Ci	Lodi	95242
+Carmel Cir	Corona	92882
+Carmel Cir	Fullerton	92833
+Carmel Cir	La Quinta	92253
+Carmel Cir	Palm Desert	92260
+Carmel Cir	San Mateo	94402
+Carmel Cir	Vista	92084
+Carmel Cir	Westminster	92683
+Carmel Cir E	Upland	91784
+Carmel Cir W	Upland	91784
+Carmel Circle	Marina	93933
+Carmel Country Rd	San Diego	92130
+Carmel Court	Atwater	95301
+Carmel Court	Duarte	91010
+Carmel Court	Montebello	90640
+Carmel Court	Pomona	91767
+Carmel Court	Santa Clarita	91350
+Carmel Court	Vacaville	95688
+Carmel Court	West Sacramento	95691
+Carmel Creek Rd	San Diego	0
+Carmel Creek Rd	San Diego	92130
+Carmel Creeper Pl	Encinitas	92024
+Carmel Crest Drive	Tarzana	91356
+Carmel Ct	Adelanto	92301
+Carmel Ct	Barstow	92311
+Carmel Ct	Beaumont	92223
+Carmel Ct	Fontana	92336
+Carmel Ct	Grover Beach	93433
+Carmel Ct	Hanford	93230
+Carmel Ct	Laguna Beach	92651
+Carmel Ct	Los Altos	94022
+Carmel Ct	Novato	94945
+Carmel Ct	Oakdale	95361
+Carmel Ct	Oxnard	93033
+Carmel Ct	Paradise	95969
+Carmel Ct	Pittsburg	94565
+Carmel Ct	Redlands	92374
+Carmel Ct	San Rafael	94903
+Carmel Ct	Unincorporated Alameda County	94541
+Carmel Ct	Walnut Creek	94596
+Carmel Dr	American Canyon	94503
+Carmel Dr	Carlsbad	92010
+Carmel Dr	Carson	90745
+Carmel Dr	Concord	94520
+Carmel Dr	Costa Mesa	92626
+Carmel Dr	Fontana	92335
+Carmel Dr	Kerman	93630
+Carmel Dr	Lake Forest	92630
+Carmel Dr	Lake Forest	92630-2806
+Carmel Dr	Lake Forest	92630-2807
+Carmel Dr	Lake Forest	92630-2808
+Carmel Dr	Lake Forest	92630-2809
+Carmel Dr	Lemoore	93245
+Carmel Dr	Modesto	95354
+Carmel Dr	Napa	94558
+Carmel Dr	Novato	94945
+Carmel Dr	Palo Alto	94303
+Carmel Dr	Redding	96003
+Carmel Dr	San Bruno	94066
+Carmel Dr	San Jose	95125
+Carmel Dr	Simi Valley	93065
+Carmel Dr	Stanton	90680
+Carmel Dr	Villa Park	92861
+Carmel Dr	Walnut Creek	94596
+Carmel Glen Trl	San Diego	92130
+Carmel Gln	San Diego	92130
+Carmel Grove Rd	San Diego	92130
+Carmel Hill Ct	Murrieta	92563
+Carmel Hills Drive	Carmel	93923
+Carmel Knolls Dr	Carmel	93923
+Carmel Knolls Dr	Rancho Cucamonga	91739
+Carmel Knolls Dr	San Diego	92130
+Carmel Knolls Drive	Carmel	93923
+Carmel Knolls Rd	San Diego	92130
+Carmel Ln	Apple Valley	92307
+Carmel Ln	Redwood City	94062
+Carmel Ln	San Carlos	94062
+Carmel Ln	Santa Maria	93454
+Carmel Mission Rd	San Diego	92130
+Carmel Mountain Dr	Indio	92203
+Carmel Mountain Dr	San Diego	92128
+Carmel Mountain Rd	San Diego	0
+Carmel Mountain Rd	San Diego	92121
+Carmel Mountain Rd	San Diego	92126
+Carmel Mountain Rd	San Diego	92128
+Carmel Mountain Rd	San Diego	92129
+Carmel Mountain Rd	San Diego	92130
+Carmel Park Dr	San Diego	92130
+Carmel Pl	Chico	95973
+Carmel Plaza Way	Elk Grove	95758
+Carmel Pointe	San Diego	92130
+Carmel Ranch Cir	Oakdale	95361
+Carmel Rancho Boulevard	Carmel	93923
+Carmel Rancho Lane	Carmel	93923
+Carmel Rd	Atascadero	93422
+Carmel Rd	Menifee	92586
+Carmel Rd	San Marcos	92078
+Carmel Ridge Rd	San Diego	92128
+Carmel River Ct	Stockton	95206
+Carmel Riviera Drive	Carmel	93923
+Carmel Road	La Canada Flintridge	91011
+Carmel Road	Merced	95341
+Carmel Road	Palmdale	93551
+Carmel Springs Way	San Diego	92130
+Carmel St	Bakersfield	93306
+Carmel St	Fontana	92335
+Carmel St	Gilroy	95020
+Carmel St	Joshua Tree	92252
+Carmel St	Laguna Hills	92656
+Carmel St	Madera	93638
+Carmel St	Morro Bay	93442
+Carmel St	Perris	92571
+Carmel St	Sacramento	95838
+Carmel St	San Francisco	94117
+Carmel St	San Luis Obispo	93401
+Carmel St	San Marcos	92078
+Carmel St	San Pablo	94806
+Carmel Street	Los Angeles	90065
+Carmel Ter	Los Altos	94024
+Carmel Valley	Carmel	93923
+Carmel Valley Ave	Indio	92201
+Carmel Valley Drive	Woodland	95776
+Carmel Valley Rd	Carmel	93923
+Carmel Valley Rd	Del Mar	0
+Carmel Valley Rd	Del Mar	92014
+Carmel Valley Rd	Greenfield	93927
+Carmel Valley Rd	San Diego	0
+Carmel Valley Rd	San Diego	92111
+Carmel Valley Rd	San Diego	92127
+Carmel Valley Rd	San Diego	92129
+Carmel Valley Rd	San Diego	92130
+Carmel Valley Road	Carmel	93923
+Carmel Valley Road	Carmel Valley	93924
+Carmel Valley Road	Greenfield	93927
+Carmel Valley Way	Elk Grove	95624
+Carmel Verde Ln	Moreno Valley	92551
+Carmel View Rd	San Diego	92130
+Carmel View South	San Diego	92130
+Carmel Vista Rd	San Diego	92130
+Carmel Vly	Coto De Caza	92679
+Carmel Vw	San Diego	92130
+Carmel Vw N	San Diego	92130
+Carmel Vw S	San Diego	92130
+Carmel Way	Carmel By The Sea	93921
+Carmel Way	Fairfield	94534
+Carmel Way	Hemet	92545
+Carmel Way	Los Angeles	90048
+Carmel Way	North Tustin	92705
+Carmel Way	Pebble Beach	93953
+Carmel Way	Portola Valley	94028
+Carmel Way	Riverside	92506
+Carmel Way	San Anselmo	94960
+Carmel Way	Santa Clara	95050
+Carmel Woods	Laguna Niguel	92677
+Carmel Wy	Santa Clara	95050
+Carmel Wy	Tracy	95376
+Carmela Court	Merced	95340
+Carmela Ct	Hollister	95023
+Carmela Ct	Lake Elsinore	92532
+Carmela Dr	Cathedral City	92234
+Carmela Ln	La Habra	90631
+Carmela Ln	Lah	90631
+Carmela Way	Fontana	92336
+Carmela Way	Sacramento	95822
+Carmelde Ln	Grover Beach	93433
+Carmele Ct	Coalinga	93210
+Carmelia Dr	Victorville	92394
+Carmelina Avenue	Los Angeles	90025
+Carmelina Avenue	Los Angeles	90049
+Carmelina Avenue	Los Angeles	90064
+Carmelina Ct	Hollister	95023
+Carmelina Dr	San Diego	92116
+Carmelita	Temecula	92591
+Carmelita Av	Santa Barbara	93101
+Carmelita Ave	Atascadero	93422
+Carmelita Ave	Belmont	94002
+Carmelita Ave	Burlingame	94010
+Carmelita Ave	Chino Hills	91709
+Carmelita Ave	Corona	92881
+Carmelita Ave	Hillsborough	94010
+Carmelita Ave	Mill Valley	94941
+Carmelita Ave	Sacramento	95838
+Carmelita Ave	Yucca Valley	92284
+Carmelita Avenue	Bell Gardens	90201
+Carmelita Avenue	Beverly Hills	90210
+Carmelita Avenue	Huntington Park	90255
+Carmelita Avenue	Maywood	90270
+Carmelita Avenue	Montebello	90640
+Carmelita Avenue	Redondo Beach	90278
+Carmelita Cir	Temecula	92591
+Carmelita Cir	Yucca Valley	92284
+Carmelita Circle	Monrovia	91016
+Carmelita Ct	Concord	94520
+Carmelita Ct	Crescent City	95531
+Carmelita Ct	Oxnard	93030
+Carmelita Ct	Santa Rosa	95404
+Carmelita Ct	Temecula	92591
+Carmelita Ct	Yucca Valley	92284
+Carmelita Dr	Hayward	94541
+Carmelita Dr	Mountain View	94040
+Carmelita Dr	San Carlos	94070
+Carmelita Drive	Salinas	93901
+Carmelita Drive	Valencia	91355
+Carmelita Drive	Yuba City	95993
+Carmelita Ln	La Grange	95329
+Carmelita Pl	Solana Beach	92075
+Carmelita Pl	Temecula	92591
+Carmelita Pl	Yucca Valley	92284
+Carmelita Place	Arcadia	91006
+Carmelita Place	Montebello	90640
+Carmelita St	Laguna Beach	92651
+Carmelita St	San Francisco	94117
+Carmelita Way	Pinole	94564
+Carmelita Way	Simi Valley	93063
+Carmelita Way	Smartsville	95977
+Carmelita Way	Vacaville	95688
+Carmelita Way	Yucca Valley	92284
+Carmelito Avenue	Monterey	93940
+Carmella Cir	Rancho Murieta	95683
+Carmella Ct	San Jose	95135
+Carmella Dr	Arroyo Grande	93420
+Carmella Way	Modesto	95355
+Carmellia Ave	Dos Palos	93620
+Carmellia Avenue	Dos Palos	93620
+Carmellia Court	Seaside	93955
+Carmello Ct	Rancho Cucamonga	91739
+Carmello Rd	Walnut Creek	94597
+Carmelo	Carmel-By-The-Sea	93921
+Carmelo Circle	Marina	93933
+Carmelo Ct	Lodi	95242
+Carmelo Ct	Morgan Hill	95037
+Carmelo Dr	Carmichael	95608
+Carmelo Dr	Oceanside	92054
+Carmelo Lane	Davis	95618
+Carmelo Ln	South San Francisco	94080
+Carmelo Oaks Ct	Sacramento	95841
+Carmelo St	San Diego	92107
+Carmelo Street	Carmel	93923
+Carmelo Street	Carmel By The Sea	93921
+Carmelo Street	Monterey	93940
+Carmelo Street	Soledad	93960
+Carmelo Way	Winters	95694
+Carmelo Way	Yuba City	95991
+Carmelwood Dr	Citrus Heights	95621
+Carmelynn Street	Torrance	90503
+Carmen Ave	Cabazon	92230
+Carmen Ave	Madera	93638
+Carmen Avenue	Los Angeles	90068
+Carmen Court	La Verne	91750
+Carmen Court	Plumas Lake	95961
+Carmen Ct	Danville	94506
+Carmen Ct	Hollister	95023
+Carmen Ct	Novato	94945
+Carmen Ct	Orinda	94563
+Carmen Ct	Pinole	94564
+Carmen Ct	Riverside	92501
+Carmen Ct	San Jose	95121
+Carmen Ct	San Marcos	92069
+Carmen Ct	Stockton	95206
+Carmen Ct	Thousand Oaks	91320
+Carmen Dr	Barstow	92311
+Carmen Dr	Camarillo	93010
+Carmen Dr	La Mesa	91941
+Carmen Dr	San Jacinto	92583
+Carmen Dr	Simi Valley	93065
+Carmen Dr	Somis	93066
+Carmen Drive	Glendale	91207
+Carmen Drive	Mount Shasta	96067
+Carmen Drive	Santa Clarita	91390
+Carmen Figueroa Ln	Blythe	92225
+Carmen Ln	Chico	95973
+Carmen Ln	Chino Hills	91709
+Carmen Ln	El Sobrante	94803
+Carmen Ln	Paso Robles	93446
+Carmen Pl	La Quinta	92253
+Carmen Pl	Riverside	92503
+Carmen Place	Los Angeles	90068
+Carmen Ranch Rd	North Fork	93643
+Carmen Rd	Cabazon	92230
+Carmen Rd	Cupertino	95014
+Carmen St	Adelanto	92301
+Carmen St	Cabazon	92230
+Carmen St	Chino	91710
+Carmen St	San Diego	92105
+Carmen Street	Torrance	90503
+Carmen Street	West Covina	91792
+Carmen Way	Danville	94506
+Carmen Way	Oxnard	93036
+Carmen Way	Patterson	95363
+Carmen Way	Sacramento	95822
+Carmen Wy	Oxnard	93036
+Carmena Rd	Ramona	92065
+Carmencita Ave	Point Reyes Station	94956
+Carmencita Ave	Sacramento	95829
+Carmenere	Rancho Mirage	92270
+Carmenere St	Danville	94506
+Carmenet Cir	Murrieta	92563
+Carmenet Way	Rancho Cordova	95670
+Carmenia Drive	Whittier	90603
+Carmenita Avenue	Huntington Park	90255
+Carmenita Lane	Canoga Park	91304
+Carmenita Ln	Mission Viejo	92691
+Carmenita Rd	La Mesa	91941
+Carmenita Road	Cerritos	90703
+Carmenita Road	Norwalk	90650
+Carmenita Road	Santa Fe Springs	90670
+Carmenita Road	Whittier	90605
+Carmento Dr	Oak Park	91377
+Carmer Rd	Lucerne Valley	92356
+Carmesi	Rancho Santa Margarita	92688
+Carmet Dr	Bodega Bay	94923
+Carmi St	Sacramento	95828
+Carmichael	Irvine	92602
+Carmichael Dr	Chico	95928
+Carmichael Dr	La Mesa	91941
+Carmichael Way	Carmichael	95608
+Carmichael Way	Turlock	95382
+Carmilita Cir	Temecula	92591
+Carmillita Way	Modesto	95354
+Carmine	Irvine	92618
+Carmine Cir	Menifee	92584
+Carmine Court	34	94583
+Carmine St	Fontana	92336
+Carmine St	Riverside	92505
+Carmine Way	San Jose	95131
+Carmir Dr	Santee	92071
+Carmody Cir	Folsom	95630
+Carmody Ct	Redlands	92373
+Carmody Rd	Petaluma	94952
+Carmody St	Redlands	92373
+Carmona	La Quinta	92253
+Carmona	Lake Forest	92630
+Carmona Avenue	Los Angeles	90008
+Carmona Avenue	Los Angeles	90016
+Carmona Avenue	Los Angeles	90019
+Carmona Ct	Chula Vista	91910
+Carmona Ct	Cupertino	95014
+Carmona Way	Antioch	94509
+Carmonita	Ybl	92886
+Carmonita Ln	Yorba Linda	92886

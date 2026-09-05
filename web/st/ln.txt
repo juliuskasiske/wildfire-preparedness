@@ -1,0 +1,27 @@
+Ln	Cupertino	95014
+Ln	Cupertino	95014-3206
+Ln	Cupertino	95014-3209
+Ln	Cupertino	95014-3211
+Ln	Cupertino	95014-3212
+Ln	Cupertino	95014-3214
+Ln	Cupertino	95014-3215
+Ln	Cupertino	95014-3219
+Ln	Cupertino	95014-3221
+Ln	Cupertino	95014-3223
+Ln	Cupertino	95014-3224
+Ln	Cupertino	95014-3225
+Ln	Cupertino	95014-3226
+Ln	Cupertino	95014-3230
+Ln	Cupertino	95014-3292
+Ln	Cupertino	95014-3294
+Ln	Cupertino	95014-3299
+Ln	Cupertino	95014-5075
+Ln	Cupertino	95014-5844
+Ln	Cupertino	95014-5845
+Ln	Cupertino	95014-5847
+Ln	Lake Arrowhead	92407
+Ln	Morgan Hill	95037
+Ln	Needles	92363
+Ln	San Bernardino	92408
+Ln #102	Antioch	94509
+Ln Ct	Lake Elsinore	92530

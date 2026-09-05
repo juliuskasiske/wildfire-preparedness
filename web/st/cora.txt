@@ -1,0 +1,329 @@
+Cora Ct	Campbell	95008
+Cora Ct	Sacramento	95824
+Cora Ct	Walnut Creek	94597
+Cora Dr	Lucerne	95458
+Cora Lane	Merced	95341
+Cora Lee Rd	Hemet	92543
+Cora Ln	Auburn	95603
+Cora Ln	Bakersfield	93306
+Cora Mae Pl	Santee	92071
+Cora Pl	Moreno Valley	92553
+Cora St	San Francisco	94134
+Cora Street	Sunland	91040
+Cora Way	Keyes	95328
+Corabel Ln	Sacramento	95821
+Corak Street	Baldwin Park	91706
+Coral	Ceres	95351
+Coral	Samta Cruz	95060
+Coral	Santa Cruz	95060
+Coral Aloe Ave	Fountain Valley	92708
+Coral Ave	Costa Mesa	92626
+Coral Ave	Hayfork	96041
+Coral Ave	Hemet	92543
+Coral Ave	Morro Bay	93442
+Coral Ave	Newport Beach	92662
+Coral Ave	Paradise	95969
+Coral Ave	Salton City	92274
+Coral Bay	Dana Point	92629
+Coral Bell Circle	Palmdale	93550
+Coral Bell Ct	Gilroy	95020
+Coral Bell Ct	Oakley	94561
+Coral Bell Ct	San Ramon	94582
+Coral Bell Dr	Napa	94558
+Coral Bell Way	Buena Park	90620
+Coral Bell Way	Oakley	94561
+Coral Bell Way	Sacramento	95829
+Coral Bells	Palm Desert	92260
+Coral Bells Cir	Palm Desert	92260
+Coral Bells Ct	Rocklin	95765
+Coral Bells Pl	Upland	91784
+Coral Bells Way	Murrieta	92562
+Coral Berry Dr	Menifee	92584
+Coral Berry Ln	Encinitas	92024
+Coral Berry Way	Elk Grove	95624
+Coral Blue	Ladera Ranch	92694
+Coral Blue St	Ladera Ranch	92694
+Coral Canyon Rd	Chula Vista	91913
+Coral Canyon Rd	Corona	92883
+Coral Canyon Road	Malibu	90265
+Coral Cay	Newport Beach	92657
+Coral Cay Ln	Huntington Beach	92649
+Coral Cay Ln	Huntington Beach	92649-2905
+Coral Cay Ln	Huntington Beach	92649-2906
+Coral Cay Ln	Huntington Beach	92649-2907
+Coral Cay Ln	Huntington Beach	92649-2908
+Coral Cay Ln	Huntington Beach	92649-2909
+Coral Cay Ln	Huntington Beach	92649-2910
+Coral Cay Ln	Huntington Beach	92649-2911
+Coral Cir	Bre	92821
+Coral Cir	Chico	95973
+Coral Cir	Corona	92882
+Coral Cir	Huntington Beach	92646
+Coral Cir	Huntington Beach	92646-3314
+Coral Cir	Paradise	95969
+Coral Cir	Pismo Beach	93449
+Coral Circle	El Segundo	90245
+Coral Circle	Hilmar	95324
+Coral Circle	Monterey Park	91755
+Coral Court	Palmdale	93550
+Coral Court	Vacaville	95687
+Coral Cove Cir	Huntington Beach	92646
+Coral Cove Cir	Huntington Beach	92646-7503
+Coral Cove Way	Dana Point	92629
+Coral Cove Way	Encinitas	92024
+Coral Creek Way	Elk Grove	95758
+Coral Crest Ct	Elk Grove	95624
+Coral Crest Way	San Ysidro	92173
+Coral Ct	Concord	94521
+Coral Ct	Fontana	92337
+Coral Ct	Gualala	 
+Coral Ct	Lake Elsinore	92530
+Coral Ct	Lodi	95242
+Coral Ct	Los Altos	94024
+Coral Ct	Manteca	95336
+Coral Ct	Pismo Beach	93449
+Coral Ct	Rancho Cucamonga	91701
+Coral Ct	Redlands	92374
+Coral Ct	Rohnert Park	94928
+Coral Ct	San Francisco	94124
+Coral Ct	San Jose	95121
+Coral Cv	Laguna Niguel	92677
+Coral Dr	Jurupa Valley	91752
+Coral Dr	Laguna Beach	92651
+Coral Dr	Mira Loma	91752
+Coral Dr	Oceanside	92056
+Coral Dr	Orinda	94563
+Coral Dr	Pittsburg	94565
+Coral Dr	Rodeo	94572
+Coral Dr	Roseville	95661
+Coral Dr	Santa Maria	93454
+Coral Dr	Winchester	92596
+Coral Drive	Hawthorne	90250
+Coral Drive	Lancaster	93536
+Coral Drive	Woodland	95695
+Coral Dune Dr	Menifee	92584
+Coral Gables Cir	Corona	92881
+Coral Gables Cir	San Jose	95139
+Coral Gables Ct	Palm Desert	92260
+Coral Gables Ct	Sacramento	95822
+Coral Gables Rd	Perris	92571
+Coral Gate Ln	San Ysidro	92173
+Coral Gum Ave	Murrieta	92562
+Coral Gum Ct	Garden Grove	92845
+Coral Gum Ct	San Diego	92139
+Coral Gum Ln	Simi Valley	93065
+Coral Haven Ct	Elk Grove	95757
+Coral Haven Ct	Perris	92571
+Coral Hills Rd	Perris	92570
+Coral Island Ct	Menifee	92585
+Coral Lake Ave	San Diego	92119
+Coral Lane	Beale Afb	95903
+Coral Lane	Paramount	90723
+Coral Lane	Pico Rivera	90660
+Coral Lane	Suisun City	94585
+Coral Lane	Valencia	91355
+Coral Leaf Ln	Riverside	92506
+Coral Lk	Irvine	92614
+Coral Ln	Fontana	92337
+Coral Ln	Foster City	94404
+Coral Ln	La Quinta	92253
+Coral Ln	Moreno Valley	92557
+Coral Ln	Pittsburg	94565
+Coral Ln	Sacramento	95815
+Coral Ln	Stockton	95207
+Coral Ln	Stockton	95209
+Coral Mountain Ct	La Quinta	92253
+Coral Mountain Dr	Indio	92201
+Coral Oak Ct	Modesto	95355
+Coral Oak Dr	Modesto	95355
+Coral Oak Way	Citrus Heights	95610
+Coral Pink Circle	Woodland Hills	91367
+Coral Pl	Daly City	94014
+Coral Pl	Lake Forest	92630
+Coral Pl	Lake Forest	92630-3014
+Coral Pl	Lake Forest	92630-3015
+Coral Pl	Newport Beach	92663
+Coral Pl	Salton City	92274
+Coral Pl	Seal Beach	90740
+Coral Pl	Victorville	92394
+Coral Place	Calabasas	91302
+Coral Place	Playa Vista	90094
+Coral Point	Shelter Cove	95589
+Coral Point Ct	Bakersfield	93313
+Coral Pt	Shelter Cove	95589
+Coral Rd	Mecca	92254
+Coral Rdg	Laguna Niguel	92677
+Coral Rdg	Newport Beach	92657
+Coral Reach St	Dana Point	92629
+Coral Reef	Mecca	92254
+Coral Reef	Newport Beach	92657
+Coral Reef Ave	Carlsbad	92011
+Coral Reef Ave	El Granada	94018
+Coral Reef Ave	El Granada	94019
+Coral Reef Ave	Half Moon Bay	94018
+Coral Reef Ave	La Jolla	92037
+Coral Reef Circle	Cerritos	90703
+Coral Reef Ct	Bakersfield	93313
+Coral Reef Ct	Citrus Heights	95621
+Coral Reef Dr	Huntington Beach	92648
+Coral Reef Dr	Huntington Beach	92648-3600
+Coral Reef Dr	Huntington Beach	92648-3601
+Coral Reef Dr	Huntington Beach	92648-3670
+Coral Reef Dr	Huntington Beach	92648-3674
+Coral Reef Dr	Huntington Beach	92648-3675
+Coral Reef Dr	Huntington Beach	92648-3677
+Coral Reef Dr	Huntington Beach	92648-3678
+Coral Reef Dr	Huntington Beach	92648-3681
+Coral Reef Lane	Elverta	95626
+Coral Reef Ln	Malibu	90265
+Coral Reef Ln	Stockton	95219
+Coral Reef Rd	Mecca	92254
+Coral Reef Rd	Tustin	92780
+Coral Ridge Cir	Buena Park	90621
+Coral Ridge Cir	Rodeo	94572
+Coral Ridge Ct	Hesperia	92344
+Coral Ridge Ct	Thousand Oaks	91361
+Coral Ridge Dr	Pacifica	94044
+Coral Ridge Dr	Riverside	92505
+Coral Ridge Road	Rancho Palos Verdes	90275
+Coral Rock Ln	Wildomar	92595
+Coral Rose	Irvine	92603
+Coral Sand Ter	San Diego	92117
+Coral Sea	Laguna Niguel	92677
+Coral Sea Ave	Salton City	92274
+Coral Sea Circle	Vallejo	94592
+Coral Sea Rd	San Diego	92139
+Coral Shores Ct	San Ysidro	92173
+Coral Sky Ct	Murrieta	92563
+Coral Springs Ct	Huntington Beach	92646
+Coral Springs Ct	Huntington Beach	92646-6203
+Coral Springs Ct	Huntington Beach	92646-6215
+Coral Springs Ct	Huntington Beach	92646-6215 
+Coral Springs Ct	Huntington Beach	92646-6217
+Coral Springs Ct	Huntington Beach	92646-6218
+Coral Springs Ct	Huntington Beach	92646-6219
+Coral Springs Ct	Huntington Beach	92646-6220
+Coral Springs Ct	Huntington Beach	92646-6221
+Coral Springs Ct	Huntington Beach	92646-6221 
+Coral Springs Ct	Huntington Beach	92646-6222
+Coral Springs Ct	Huntington Beach	92646-6224
+Coral Springs Ct	Huntington Beach	92646-6225
+Coral Springs Ct	Huntington Beach	92646-6227
+Coral Springs Ct	Huntington Beach	92646-6229
+Coral Springs Ct	Huntington Beach	92646-6230
+Coral Springs Ct	Huntington Beach	92646-6232
+Coral Springs Ct	Huntington Beach	92646-6232 
+Coral St	Corona	92882
+Coral St	El Cajon	92021
+Coral St	Lake Elsinore	92530
+Coral St	Lincoln	95648
+Coral St	Lodi	95242
+Coral St	Menifee	92585
+Coral St	Moss Beach	94038
+Coral St	Palm Springs	92262
+Coral St	San Luis Obispo	93405
+Coral St	Santa Barbara	93105
+Coral St	Sun City	92585
+Coral St	Vista	92081
+Coral Street	Los Angeles	90031
+Coral Street	Pacific Grove	93950
+Coral Street	Tulare	93274
+Coral Sun Ct	Rio Linda	95673
+Coral Tree Cir	Villa Park	92861
+Coral Tree Ct	Menifee	92584
+Coral Tree Ct	Murrieta	92563
+Coral Tree Lane	Palos Verdes Peninsula	90274
+Coral Tree Ln	Fallbrook	92028
+Coral Tree Ln	Irvine	92612
+Coral Tree Ln	Lathrop	95330
+Coral Tree Ln	Riverside	92503
+Coral Tree Place	Los Angeles	90066
+Coral Tree Rd	Rancho Cucamonga	91739
+Coral View Street	Monterey Park	91755
+Coral View Way	La Quinta	92253
+Coral Way	Browns Valley	95918
+Coral Way	Carlsbad	92011
+Coral Way	Half Moon Bay	94019
+Coral Way	La Canada Flintridge	91011
+Coral Way	La Verne	91750
+Coral Way	Marina	93933
+Coral Way	Oxnard	93035
+Coral Way	Pomona	91767
+Coral Way	San Marcos	92078
+Coral Way	Santa Clarita	91390
+Coral Way	Vacaville	95687
+Coral Wood Ct	Wildomar	92595
+Coral Wood St	Lake Forest	92630
+Coral Wood St	Lake Forest	92630-5322
+Coral Wood St	Lake Forest	92630-5323
+Coral Wood St	Lake Forest	92630-5324
+Coral Wy	Isla Vista	93117
+Coralbell Lane	Woodland Hills	91367
+Coralbell Way	Roseville	95747
+Coralberry Ct	Moorpark	93021
+Coralberry Dr	Riverside	92504
+Coralberry St	Moreno Valley	92553
+Coralcrest Ct	Moorpark	93021
+Coralee Avenue	Arcadia	91007
+Coralee Dr	San Jose	95124
+Coralee Ln	Hemet	92543
+Coralee Ln	Lafayette	94549
+Corales Place	Canyon Country	91387
+Coralflower Ln	San Ramon	94582
+Coralie Dr	Walnut Creek	94597
+Coralie Way	Folsom	95630
+Coraline Circle	Chatsworth	91311
+Coraline Place	Chatsworth	91311
+Coralino	Rancho Santa Margarita	92688
+Coralino Dr	Murrieta	92563
+Coralino Rd	Goleta	93111
+Coralita	Lake Forest	92630
+Coralita	Lake Forest	92630-8200
+Coralita	Lake Forest	92630-8201
+Coralita	Lake Forest	92630-8202
+Coralium Way	Menifee	92584
+Coralreef Circle	Cerritos	90703
+Coralridge Place	La Puente	91746
+Coralstone Ln	Ripon	95366
+Coraltree Ct	Murrieta	92563
+Coraltree Lane	Palos Verdes Peninsula	90274
+Coraltree Pl	San Jose	95131
+Coralwind	Aliso Viejo	92656
+Coralwood	Irvine	92618
+Coralwood Cir	Carlsbad	92008
+Coralwood Cir	Ybl	92886
+Coralwood Cir	Yorba Linda	92886
+Coralwood Ct	Chula Vista	91910
+Coralwood Ct	Eastvale	92880
+Coralwood Ct	Rancho Cucamonga	91737
+Coralwood Dr	Chino Hills	91709
+Coralwood Dr	North Tustin	92705
+Coralwood Dr	San Diego	92114
+Coralwood Ln	Huntington Beach	92646
+Coralwood Ln	Huntington Beach	92646-2600
+Coralwood Ln	Huntington Beach	92646-2623
+Coralwood Ln	Huntington Beach	92646-2624
+Coralwood Ln	Huntington Beach	92646-2659
+Coralwood Ln	Huntington Beach	92646-2660
+Coralwood Ln	Yucaipa	92399
+Coralwood Pl	Fontana	92336
+Coralwood Rd	Modesto	95356
+Coralwood Way	Sacramento	95826
+Coralwood Way	San Jose	95123
+Coram Dr	Bakersfield	93311
+Coram Rd	Redding	96003
+Coramdeo Ct	Hemet	92543
+Coranado Street	West Sacramento	95691
+Coratina Lane	Los Angeles	90047
+Coratina Way	Rancho Cordova	95742
+Coraview Lane	Rowland Heights	91748
+Coray Way	Calabasas	91302
+Corazon Ave	Phelan	92371
+Corazon Circle	Tarzana	91356
+Corazon Ct	Bakersfield	93306
+Corazon Ct	Sacramento	95835
+Corazon Del Oro	Rancho Santa Margarita	92688
+Corazon Pl	San Diego	92127
+Corazon St	Rancho Mission Viejo	92694
+Corazon Way	Sacramento	95835
+Corazza Ln	Wildomar	92595

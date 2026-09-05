@@ -1,0 +1,34 @@
+Miwoc Ave	Coarsegold	93614
+Miwok Ave	Brentwood	94513
+Miwok Court	Dixon	95620
+Miwok Court	Pike	95960
+Miwok Ct	Bakersfield	93309
+Miwok Ct	Brentwood	94513
+Miwok Ct	Cotati	94931
+Miwok Ct	Magalia	95954
+Miwok Ct	Morgan Hill	95037
+Miwok Ct	Napa	94558
+Miwok Ct	Redding	96001
+Miwok Ct	Redding	96002
+Miwok Ct	Santa Rosa	95403
+Miwok Ct	Wilton	95693
+Miwok Dr	Jackson	95642
+Miwok Dr	Lodi	95240
+Miwok Dr	Novato	94947
+Miwok Dr	San Anselmo	94960
+Miwok Dr	San Jose	95123
+Miwok Ln	Manteca	95337
+Miwok Path	Nevada City	95959
+Miwok Pl	Morgan Hill	95037
+Miwok Place	Davis	95618
+Miwok Rd	Bodega Bay	94923
+Miwok Rd	Joshua Tree	92252
+Miwok Rd	Twentynine Palms	92277
+Miwok Tr	Clearlake Oaks	95423
+Miwok Trl	Sausalito	94965
+Miwok Way	Clayton	94517
+Miwok Way	Inverness	94937
+Miwok Way	Mill Valley	94941
+Miwok Way	Riverbank	95367
+Miwok Wy	Kelseyville	95451
+Miwuk Rd	Mariposa	95338

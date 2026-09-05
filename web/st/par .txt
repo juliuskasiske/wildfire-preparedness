@@ -1,0 +1,40 @@
+Par Av	Redway	95542
+Par Av	Redway	95560
+Par Ave	Lemoore	93245
+Par Ave	Los Altos	94024
+Par Ave	Paso Robles	93446
+Par Cir	Huntington Beach	92649
+Par Cir	Huntington Beach	92649-2735
+Par Circle	El Macero	95618
+Par Court	Linda	95901
+Par Court	Mammoth Lakes	93546
+Par Ct	Groveland	95321
+Par Ct	Ione	95640
+Par Ct	Richmond	94806
+Par Dr	La Mesa	91941
+Par Dr	Menifee	92586
+Par Dr	Oceanside	92056
+Par Dr	Palm Springs	92264
+Par Dr	Yorba Linda	92886
+Par Five Ct	Thousand Oaks	91362
+Par Five Dr	Thousand Oaks	91362
+Par Four Dr	Corona	92883
+Par Four Dr	El Cajon	92019
+Par Four Way	Oroville	95965
+Par Ln	Bakersfield	93308
+Par Ln	Beaumont	92223
+Par Ln	Garden Grove	92840
+Par Ln	Novato	94949
+Par Ln	Victorville	92395
+Par Pkwy	Sacramento	95828
+Par Pl	Rocklin	95677
+Par Place	Llano	93544
+Par Place	Pico Rivera	90660
+Par Rd	Cobb	95426
+Par St	Bakersfield	93311
+Par Three Dr	Cupertino	95014
+Par Valley Dr	San Marcos	92069
+Par Valley Dr	Vista	92084
+Par View Ct	Escondido	92026
+Par View Ln	Arroyo Grande	93420
+Par Way	Temecula	92591

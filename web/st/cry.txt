@@ -1,0 +1,348 @@
+Cryer Dr	Banning	92220
+Cryer Pl	Hayward	94545
+Cryer St	Hayward	94545
+Cryosphere St	Bakersfield	93311
+Crypt	Paradise Park	95060
+Crystal	Capitola	95010
+Crystal	Santa Cruz	95062
+Crystal Aire Ct	Murrieta	92562
+Crystal Aire Dr	Mariposa	95338
+Crystal Aire Rd	Oro Grande	92368
+Crystal Aire Rd	Pinon Hills	92372
+Crystal Ann Ct	Perris	92570
+Crystal Ave	Chino	91710
+Crystal Ave	Concord	94520
+Crystal Ave	Helendale	92342
+Crystal Ave	Modesto	95351
+Crystal Ave	Newport Beach	92662
+Crystal Ave	Riverside	92504
+Crystal Ave	Salton City	92274
+Crystal Bay Ct	Rancho Mirage	92270
+Crystal Bay Ct	Ukiah	 
+Crystal Bay Dr	Stockton	95219
+Crystal Bay Ln	Elk Grove	95758
+Crystal Bluff Ct	San Diego	92154
+Crystal Brook Ct	Sacramento	95838
+Crystal Canyon Ct	Paso Robles	93446
+Crystal Canyon Drive	Azusa	91702
+Crystal Canyon Road	Azusa	91702
+Crystal Cascade Ln	Bakersfield	93313
+Crystal Cave Cir	Coarsegold	93614
+Crystal Cave Ct	Coarsegold	93614
+Crystal Cir	Cypress	90630
+Crystal Cir	Hercules	94547
+Crystal Cir	Irvine	92604
+Crystal Cir	Jurupa Valley	92509
+Crystal Cir	Lake Forest	92630
+Crystal Cir	Lake Forest	92630-2507
+Crystal Cir	Lake Forest	92630-2508
+Crystal Cir	Lake Forest	92630-2509
+Crystal Cir	Lake Forest	92630-2510
+Crystal Cir	Lompoc	93436
+Crystal Cir	Simi Valley	93063
+Crystal Clear Dr	Spring Valley	91977
+Crystal Clear Dr	Spring Valley	91978
+Crystal Coast Pl	Sacramento	95835
+Crystal Court	Long Beach	90802
+Crystal Court	Long Beach	90813
+Crystal Court	Los Banos	93635
+Crystal Court	Olivehurst	95961
+Crystal Court	Palmdale	93550
+Crystal Court	Vallejo	94589
+Crystal Court	West Sacramento	95691
+Crystal Court	Woodland	95776
+Crystal Court Dr	Costa Mesa	92626
+Crystal Cove	Kelseyville	95451
+Crystal Cove	Newport Beach	92657
+Crystal Cove	San Diego	92154
+Crystal Cove Ave	Bakersfield	93311
+Crystal Cove Cir	Grover Beach	93433
+Crystal Cove Ct	Redlands	92374
+Crystal Cove Ct	Richmond	94804
+Crystal Cove Ct	Winchester	92596
+Crystal Cove Dr	Rancho Cordova	95742
+Crystal Cove Ln	Mariposa	95338
+Crystal Cove Way	San Marcos	92078
+Crystal Cove Way	Seal Beach	90740
+Crystal Creek	Santa Cruz	95065
+Crystal Creek Ct	Chula Vista	91910
+Crystal Creek Ct	Larkspur	94939
+Crystal Creek Ct	Tracy	95377
+Crystal Creek Dr	Sacramento	95829
+Crystal Creek Dr	San Jose	95133
+Crystal Creek Lane	Cerritos	90703
+Crystal Creek Lane	Yuba City	95991
+Crystal Creek Ln	Shaver Lake	93664
+Crystal Creek Rd	French Gulch	96047
+Crystal Creek Rd	Lucerne Valley	92356
+Crystal Creek Rd	Perris	92571
+Crystal Crest Pl	Antioch	94509
+Crystal Ct	Antioch	94531
+Crystal Ct	Beaumont	92223
+Crystal Ct	Big Bear Lake	92315
+Crystal Ct	Chino	91710
+Crystal Ct	Escondido	92025
+Crystal Ct	Foster City	94404
+Crystal Ct	Mill Valley	94941
+Crystal Ct	Milpitas	95035
+Crystal Ct	Napa	94558
+Crystal Ct	Novato	94949
+Crystal Ct	Palm Springs	92264
+Crystal Ct	Redlands	92374
+Crystal Ct	Rocklin	95765
+Crystal Ct	San Bruno	94066
+Crystal Ct	San Jose	95126
+Crystal Ct	San Marcos	92078
+Crystal Ct	Santa Rosa	95404
+Crystal Ct	Turlock	95382
+Crystal Ct	Twentynine Palms	92277
+Crystal Ct	Unincorporated Alameda County	94546
+Crystal Ct	Victorville	92392
+Crystal Ct	Walnut Creek	94598
+Crystal Cv	San Diego	92154
+Crystal Dawn Ln	San Diego	92122
+Crystal Downs Avenue	Tulare	93274
+Crystal Downs Ct	Bakersfield	93312
+Crystal Downs Ct	Oxnard	93036
+Crystal Downs Ct	Roseville	95747
+Crystal Downs Dr	Chula Vista	91915
+Crystal Downs Dr	Corona	92883
+Crystal Downs Drive	Rio Vista	94571
+Crystal Downs Gln	Escondido	92026
+Crystal Downs St	Banning	92220
+Crystal Dr	Big Bear City	92314
+Crystal Dr	Cotati	94931
+Crystal Dr	Hillsborough	94010
+Crystal Dr	Huntington Beach	92648-2213
+Crystal Dr	Kelseyville	95451
+Crystal Dr	La Jolla	92037
+Crystal Dr	Lathrop	95330
+Crystal Dr	Los Gatos	95030
+Crystal Dr	Madera	93638
+Crystal Dr	Morgan Hill	95037
+Crystal Dr	Orcutt	93455
+Crystal Dr	Rancho Cucamonga	91701
+Crystal Dr	San Diego	92109
+Crystal Dr	San Jacinto	92583
+Crystal Dr	Santa Clara	95051
+Crystal Dr	Santa Maria	93455
+Crystal Dr	Santa Rosa	95404
+Crystal Dr	Tracy	95377
+Crystal Drive	Atwater	95301
+Crystal Drive	Hilmar	95324
+Crystal Drive	Three Rivers	93271
+Crystal Fall Ln	Bakersfield	93313
+Crystal Falls Ct	Ceres	95307
+Crystal Falls Ct	Sonora	95370
+Crystal Falls Dr	Riverbank	95367
+Crystal Falls Dr	Sonora	95370
+Crystal Falls Dr W	Sonora	95370
+Crystal Falls Ln	Shafter	93314
+Crystal Falls Rd	Palm Desert	92211
+Crystal Falls Way	Elk Grove	95624
+Crystal Garden Ct	Brentwood	94513
+Crystal Gate Cmns	Hayward	94544
+Crystal Gate Ct	Hayward	94544
+Crystal Glen Ct	Temecula	92590
+Crystal Glen Pl	Folsom	95630
+Crystal Glen Way	Porter Ranch	91326
+Crystal Grove Ct	San Diego	92130
+Crystal Grove Lane	Davis	95616
+Crystal Heights	Soquel	95073
+Crystal Heights Court	Canyon Country	91387
+Crystal Heights Dr	Newport Beach	92657
+Crystal Hill Ct	Roseville	95678
+Crystal Hill Dr	Santa Rosa	95404
+Crystal Hill St	Riverside	92504
+Crystal Hill Way	Sacramento	95823
+Crystal Hills Ct	San Jose	95138
+Crystal Hills Drive	Porter Ranch	91326
+Crystal Hills Lane	Porter Ranch	91326
+Crystal Hills Way	Porter Ranch	91326
+Crystal Hollow Ct	Lincoln	95648
+Crystal Hollow Pl	San Jose	95121
+Crystal Knoll Ct	Ahwahnee	93601
+Crystal Lake Ave	Salton City	92274
+Crystal Lake Ave	San Diego	92119
+Crystal Lake Ct	Gold River	95670
+Crystal Lake Ct	Murrieta	92562
+Crystal Lake Ct	Palm Desert	92211
+Crystal Lake Ct	Rocklin	95765
+Crystal Lake Dr	Bakersfield	93313
+Crystal Lake Dr	Murrieta	92562
+Crystal Lake Dr	Sonora	95370
+Crystal Lake Rd	Big Bear Lake	92315
+Crystal Lake Road	Soda Springs	95728
+Crystal Lake Road	Valyermo	93563
+Crystal Lake Wy	Lakeport	95453
+Crystal Lane	Mammoth Lakes	93546
+Crystal Lane	Pasadena	91103
+Crystal Lane	Pasadena	91107
+Crystal Lantern Drive	Hacienda Heights	91745
+Crystal Lantern St	Dana Point	92629
+Crystal Ln	Brentwood	94513
+Crystal Ln	El Cajon	92020
+Crystal Ln	Homewood	96141
+Crystal Ln	Jurupa Valley	92509
+Crystal Ln	Lucerne Valley	92356
+Crystal Ln	Meadow Vista	95722
+Crystal Ln	Paradise	95969
+Crystal Loop	Indian Wells	92210
+Crystal Loop Dr	Indian Wells	92210
+Crystal Mine Rd	Newcastle	95658
+Crystal Mountain Cir	Riverside	92506
+Crystal Mountain Rd	Magalia	95954
+Crystal Oak Pl	Newcastle	95658
+Crystal Oaks Way	San Diego	92131
+Crystal Peak Circle	Walnut	91789
+Crystal Peak Ct	Jurupa Valley	92509
+Crystal Peak Drive	Walnut	91789
+Crystal Pines Rd	Oroville	95965
+Crystal Pl	Fullerton	92833
+Crystal Pl	Seal Beach	90740
+Crystal Pl	Ventura	93004
+Crystal Place	Pomona	91767
+Crystal Pointe	Chino Hills	91709
+Crystal Pond	Mission Viejo	92692
+Crystal Pond Ct	Roseville	95661
+Crystal Pool	Irvine	92603
+Crystal Pool Ct	Eastvale	92880
+Crystal Ranch Rd	Feather Falls	95966
+Crystal Ranch Rd	Moorpark	93021
+Crystal Rd	Long Barn	95335
+Crystal Ridge Cir	Corona	92882
+Crystal Ridge Court	Canyon Country	91351
+Crystal Ridge Ct	Escondido	92026
+Crystal Ridge Ct	Lake Elsinore	92530
+Crystal Ridge Ct	Pioneer	95666
+Crystal Ridge Ct	Riverside	92506
+Crystal Ridge Ct	Vista	92081
+Crystal Ridge Dr	Escondido	92026
+Crystal Ridge Gln	Escondido	92026
+Crystal Ridge Lane	Porter Ranch	91326
+Crystal Ridge Ln	Colton	92324
+Crystal Ridge Rd	Encinitas	92024
+Crystal Ridge Rd	Olivenhain	92024
+Crystal Ridge Road	Diamond Bar	91765
+Crystal Ridge Way	Antelope	95843
+Crystal Ridge Way	Porter Ranch	91326
+Crystal Ridge Way	Vista	92081
+Crystal River Way	Sacramento	95828
+Crystal Road	Palmdale	93550
+Crystal Rock Rd	Sonora	95370
+Crystal Rose Court	Fairfield	94534
+Crystal Sands Dr	Laguna Niguel	92677
+Crystal Shore Ln	Elk Grove	95758
+Crystal Spring Dr	Menifee	92584
+Crystal Spring Ln	Galt	95632
+Crystal Springs	Felton	95018
+Crystal Springs Avenue	Merced	95348
+Crystal Springs Cir	Discovery Bay	94505
+Crystal Springs Circle	Porter Ranch	91326
+Crystal Springs Court	Newhall	91321
+Crystal Springs Court	Tulare	93274
+Crystal Springs Court	Vacaville	95688
+Crystal Springs Ct	Coarsegold	93614
+Crystal Springs Ct	Danville	94506
+Crystal Springs Ct	San Jose	95120
+Crystal Springs Ct	Santa Rosa	95404
+Crystal Springs Dr	Bakersfield	93313
+Crystal Springs Dr	Chula Vista	91915
+Crystal Springs Dr	Corona	92883
+Crystal Springs Dr	Indio	92201
+Crystal Springs Dr	Menifee	92584
+Crystal Springs Dr	Palm Springs	92262
+Crystal Springs Dr	San Jose	95120
+Crystal Springs Dr	San Jose	95125
+Crystal Springs Drive	Los Angeles	90027
+Crystal Springs Drive	Vacaville	95688
+Crystal Springs Drive	Woodland	95776
+Crystal Springs Lane	Oregon House	95962
+Crystal Springs Ln	Apple Valley	92308
+Crystal Springs Ln	Redlands	92374
+Crystal Springs Pl	Escondido	92026
+Crystal Springs Rd	Angwin	94508
+Crystal Springs Rd	Auburn	95603
+Crystal Springs Rd	Deer Park	94576
+Crystal Springs Rd	Hillsborough	94010
+Crystal Springs Rd	Hillsborough	94402
+Crystal Springs Rd	San Bruno	94030
+Crystal Springs Rd	San Bruno	94066
+Crystal Springs Rd	San Mateo	94010
+Crystal Springs Rd	San Mateo	94402
+Crystal Springs Rd	Santa Maria	93454
+Crystal Springs Rd	Santee	92071
+Crystal Springs Rd	St Helena	94508
+Crystal Springs Rd	St Helena	94574
+Crystal Springs Road	Canyon Country	91387
+Crystal Springs Road	Grass Valley	95945
+Crystal Springs Road	San Dimas	91773
+Crystal Springs Ter	Hillsborough	94010
+Crystal Springs Way	Coarsegold	93614
+Crystal Springs Way	Loomis	95650
+Crystal St	Bakersfield	93308
+Crystal St	City Of Shasta Lake	96019
+Crystal St	Hesperia	92344
+Crystal St	Oceanside	92056
+Crystal St	Porterville	93257
+Crystal St	San Francisco	94112
+Crystal St	Yucaipa	92399
+Crystal Street	Grass Valley	95949
+Crystal Street	Los Angeles	90031
+Crystal Street	Los Angeles	90039
+Crystal Street	Porterville	93257
+Crystal Street	Suisun City	94585
+Crystal Street	Tulare	93274
+Crystal Ter	Burlingame	94010
+Crystal Tree Ct	Stockton	95219
+Crystal Tree Dr	Redding	96001
+Crystal View	Chino Hills	91709
+Crystal View Cir	Thousand Oaks	91320
+Crystal View Dr	Twentynine Palms	92277
+Crystal View Drive	Tujunga	91042
+Crystal View Heights	Nevada City	95959
+Crystal View Ln	Foresthill	95631
+Crystal View Ln	Poway	92064
+Crystal View Ln	Rancho Cordova	95670
+Crystal View Rd	El Cajon	92021
+Crystal View Rd	Twentynine Palms	92277
+Crystal View Rdg	Laguna Niguel	92677
+Crystal View Ter	Riverside	92506
+Crystal View Ter	Riverside	92508
+Crystal Walk Cir	Elk Grove	95758
+Crystal Water Lane	Walnut	91789
+Crystal Water Way	Elk Grove	95624
+Crystal Way	Antioch	94531
+Crystal Way	Berkeley	94708
+Crystal Way	Desert Center	92239
+Crystal Way	Galt	95632
+Crystal Way	Madera	93637
+Crystal Way	Nipomo	93444
+Crystal Way	Salton City	92274
+Crystal Way	Tahoma	96142
+Crystal Way	Wildomar	92595
+Crystal Wells Road	Nevada City	95959
+Crystal Wood Dr	Oceanside	92058
+Crystal Wy	Mckinleyville	95519
+Crystal Wy	Stockton	95204
+Crystalaire	Las Flores	92688
+Crystalaire Dr	San Diego	92120
+Crystalaire Dr	Temecula	92591
+Crystalaire Drive	Llano	93544
+Crystalaire Place	Granada Hills	91344
+Crystalaire Rd	Oro Grande	92368
+Crystalberry Ter	San Jose	95129
+Crystalglen	Aliso Viejo	92656
+Crystaline Creek Ct	Bakersfield	93313
+Crystaline Rd	Jamestown	95327
+Crystalline Dr	Carlsbad	92011
+Crystalline Mine Rd	Jamestown	95327
+Crystallite Ln	Valley Center	92082
+Crystalridge Ln	Oakley	94561
+Crystalridge Way	Oakley	94561
+Crystalwood Cir	Lincoln	95648
+Crystalwood Ln	Lodi	95242
+Crystalwood Way	Lincoln	95648
+Crystlaire Dr	Temecula	92591
+Crystyl Ranch Dr	Concord	94521
+Crystyl Ranch Drive	Concord	94521

@@ -1,0 +1,634 @@
+Dora	Santa Cruz	95062
+Dora Ave	Ukiah	 
+Dora Ave	Walnut Creek	94596
+Dora Ct	Pinole	94564
+Dora Ct	Riverside	92506
+Dora Dr	Cardiff By The Sea	92007
+Dora Guzman Avenue	La Puente	91744
+Dora Huntzing Ave	Sacramento	95838
+Dora Lee Ln	Paradise	95969
+Dora Ln	Anza	92539
+Dora Ln	Blythe	92225
+Dora St	Modesto	95354
+Dora Street	Dos Palos	93620
+Dora Street	Sun Valley	91352
+Dora Verdugo Drive	Glendale	91208
+Dora Vista Ln	Jamul	91935
+Dora Way	Burney	96013
+Dora Way	Oceanside	92057
+Dorabella Rd	Shaver Lake	93664
+Dorada Ave	Garden Grove	92840
+Dorada Ct	Hercules	94547
+Doradell Ct	Galt	95632
+Doradell Way	Galt	95632
+Dorado	Cupertino	95014
+Dorado	Irvine	92618
+Dorado	Rancho Santa Margarita	92688
+Dorado	Vista	92084
+Dorado Bay Ct	Sacramento	95828
+Dorado Cerro	Chico	95928
+Dorado Circle	Long Beach	90808
+Dorado Ct	Big River	92242
+Dorado Ct	Chula Vista	91910
+Dorado Ct	Jurupa Valley	92509
+Dorado Ct	La Jolla	92037
+Dorado Ct	Modesto	95356
+Dorado Ct	Oak Park	91377
+Dorado Ct	Santa Rosa	95403
+Dorado Ct	Thousand Oaks	91362
+Dorado Dr	Huntington Beach	92649
+Dorado Dr	Huntington Beach	92649-5105
+Dorado Dr	Huntington Beach	92649-5106
+Dorado Dr	Huntington Beach	92649-5107
+Dorado Dr	Huntington Beach	92649-5108
+Dorado Dr	Huntington Beach	92649-5109
+Dorado Dr	Huntington Beach	92649-5110
+Dorado Dr	Huntington Beach	92649-5111
+Dorado Dr	Huntington Beach	92649-5112
+Dorado Dr	Huntington Beach	92649-5510
+Dorado Dr	Lake Forest	92679
+Dorado Dr	Menifee	92586
+Dorado Dr	Santa Barbara Unincorporated	93111
+Dorado Dr	Trabuco Canyon	92679
+Dorado Dr	Trabuco Canyon	92679-0000
+Dorado Dr	Trabuco Canyon	92679-1610
+Dorado Dr	Trabuco Canyon	92679-1611
+Dorado Dr	Trabuco Canyon	92679-1612
+Dorado Dr	Trabuco Canyon	92679-1613
+Dorado Dr	Trabuco Canyon	92679-1618
+Dorado Dr	Trabuco Canyon	92679-1619
+Dorado Dr	Trabuco Canyon	92679-1636
+Dorado Dr	Trabuco Canyon	92679-1637
+Dorado Dr	Trabuco Canyon	92679-1642
+Dorado Dr	Trabuco Canyon	92679-2679
+Dorado Dr	Union City	94587
+Dorado Drive	Encino	91436
+Dorado Drive	Rancho Palos Verdes	90275
+Dorado Drive	Valencia	91355
+Dorado Espuela	Alpine	91901
+Dorado Ln	El Cajon	92019
+Dorado Ln	Modesto	95356
+Dorado Ln	Monte Sereno	95030
+Dorado Ln	Murrieta	92563
+Dorado Ln	Roseville	95747
+Dorado Pass Ave	Bakersfield	93307
+Dorado Pl	Carlsbad	92009
+Dorado Place	Palos Verdes Peninsula	90274
+Dorado St	Corona	92879
+Dorado St	Rio Linda	95673
+Dorado Ter	San Francisco	94112
+Dorado Way	Chula Vista	91910
+Dorado Way	South San Francisco	94080
+Doral	Desert Hot Springs	92240
+Doral	El Monte	91732
+Doral	Tustin	92782
+Doral Avenue	Porter Ranch	91326
+Doral Cir	Thousand Oaks	91362
+Doral Court	Fairfield	94533
+Doral Court	Tulare	93274
+Doral Court	Vallejo	94591
+Doral Ct	Antioch	94509
+Doral Ct	Banning	92220
+Doral Ct	Brentwood	94513
+Doral Ct	Citrus Heights	95610
+Doral Ct	Desert Hot Springs	92240
+Doral Ct	Gilroy	95020
+Doral Ct	La Quinta	92253
+Doral Ct	Oceanside	92057
+Doral Ct	Ontario	91761
+Doral Ct	Oxnard	93036
+Doral Ct	Pla	92870
+Doral Ct	Placentia	92870
+Doral Ct	San Luis Obispo	93401
+Doral Ct	Temecula	92592
+Doral Ct	Walnut Creek	94598
+Doral Ct	Ybl	92886
+Doral Ct	Yorba Linda	92886
+Doral Ct	Yucaipa	92399
+Doral Dr	Chino Hills	91709
+Doral Dr	Danville	94526
+Doral Dr	Desert Hot Springs	92240
+Doral Dr	Huntington Beach	92648
+Doral Dr	Huntington Beach	92648-6110
+Doral Dr	Huntington Beach	92648-6112
+Doral Dr	Huntington Beach	92648-6113
+Doral Dr	Huntington Beach	92648-6114
+Doral Dr	Huntington Beach	92648-6115
+Doral Dr	Huntington Beach	92648-6116
+Doral Dr	Huntington Beach	92648-6117
+Doral Dr	Huntington Beach	92648-6128
+Doral Dr	Huntington Beach	92648-6129
+Doral Dr	Indian Wells	92210
+Doral Dr	Moraga	94556
+Doral Dr	Upland	91784
+Doral Dr	Vandenberg Village	93436
+Doral Drive	Fairfield	94533
+Doral Glen	Escondido	92026
+Doral Lane	Palmdale	93551
+Doral Ln	Hemet	92545
+Doral Pl	Laguna Niguel	92677
+Doral St	Apple Valley	92308
+Doral St	Chowchilla	93610
+Doral St	La Quinta	92253
+Doral St	Ontario	91761
+Doral Street	La Verne	91750
+Doral Trl	Redding	96003
+Doral Way	Antioch	94509
+Doral Way	Bonita	91902
+Doral Way	Cathedral City	92234
+Doral Way	Chico	95973
+Doral Way	Moreno Valley	92555
+Doral Way	Tarzana	91356
+Doral Way	Turlock	95382
+Doralee Way	San Jose	95125
+Doralee Way	San Jose	95125-3623
+Doralee Wy	San Jose	95125
+Dorama Avenue	Acton	93510
+Doran Ave	Corcoran	93212
+Doran Avenue	West Sacramento	95691
+Doran Beach Rd	Bodega Bay	94923
+Doran Ct	Chula Vista	91910
+Doran Ct	Crescent City	95531
+Doran Drive	Porterville	93257
+Doran Ln	Fontana	92336
+Doran Park Rd	Bodega Bay	94923
+Doran Place	North Hollywood	91605
+Doran St	San Diego	92154
+Doran Street	Glendale	91206
+Doran Street	Los Angeles	90039
+Doran Street	South Pasadena	91030
+Dorantes Ave	San Francisco	94116
+Dorathea Ter	Poway	92064
+Dorax Ct	Oroville	95966
+Dorax Dr	Oroville	95966
+Doray Circle	Monrovia	91016
+Doray Ct	Stockton	95203
+Doray Dr	Pleasant Hill	94523
+Dorcas Court	Yuba City	95991
+Dorcas Ln	Nuevo	92567
+Dorcas Place	Los Angeles	90068
+Dorcas St	San Diego	92110
+Dorcas Way	San Francisco	94127
+Dorcelline Court	Nevada City	95959
+Dorcey Dr	Elk Grove	95757
+Dorcey Ln	San Jose	95120
+Dorchester	Irvine	92620
+Dorchester Ave	Modesto	95355
+Dorchester Ave	Tustin	92780
+Dorchester Avenue	Los Angeles	90032
+Dorchester Avenue	Santa Monica	90404
+Dorchester Ci	Lodi	95240
+Dorchester Cir	Corona	92879
+Dorchester Cir	Villa Park	92861
+Dorchester Ct	Carmichael	95608
+Dorchester Ct	Discovery Bay	94505
+Dorchester Ct	Stockton	95207
+Dorchester Ct N	Santa Rosa	95403
+Dorchester Dr	Daly City	94015
+Dorchester Dr	Mountain View	94043
+Dorchester Dr	Riverside	92506
+Dorchester Dr	Roseville	95678
+Dorchester Dr	San Diego	92123
+Dorchester Dr	Santa Rosa	95403
+Dorchester Dr	Saratoga	95070
+Dorchester Dr	Temecula	92592
+Dorchester Drive	Truckee	96161
+Dorchester E	Irvine	92620
+Dorchester Grn	Laguna Niguel	92677
+Dorchester Lane	La Habra	90631
+Dorchester Ln	Alamo	94507
+Dorchester Ln	Granite Bay	95746
+Dorchester Ln	La Habra	90631
+Dorchester Ln	Lah	90631
+Dorchester Ln	Perris	92570
+Dorchester Ln	San Jose	95118
+Dorchester Pl	American Canyon	94503
+Dorchester Pl	Carlsbad	92010
+Dorchester Pl	Concord	94519
+Dorchester Pl	Rancho Cucamonga	91739
+Dorchester Rd	Newport Beach	92625
+Dorchester Rd	San Mateo	94402
+Dorchester St	Bakersfield	93311
+Dorchester St	Spring Valley	91977
+Dorchester St	Thousand Oaks	91360
+Dorchester W	Irvine	92620
+Dorchester Way	San Francisco	94127
+Dorchester Wy	Stockton	95207
+Dorcich Ct	Saratoga	95070
+Dorcich St	Santa Clara	95050
+Dorcich St	Santa Clara	95117
+Dore Ave	San Mateo	94401
+Dore Dr	Bakersfield	93304
+Dore St	Indio	92203
+Dore St	San Francisco	94103
+Dore Street	West Covina	91792
+Doreen Avenue	El Monte	91731
+Doreen Avenue	South El Monte	91733
+Doreen Avenue	Temple City	91780
+Doreen Court	Vallejo	94589
+Doreen Ct	Salida	95368
+Doreen Dr	Cypress	90630
+Doreen Dr	Honeydew	95542
+Doreen Dr	Menifee	92586
+Doreen Dr	Murrieta	92563
+Doreen Ln	San Marcos	92069
+Doreen Place	Santa Clarita	91350
+Doreen Place	Venice	90291
+Doreen Rd	Pala	92059
+Doreen Valley St	Roseville	95747
+Doreen Way	Lafayette	94549
+Doreen Way	Sacramento	95823
+Doreen Way	Ventura	93003
+Doreene Ct	Oroville	95965
+Doreet Way	Carlsbad	92008
+Dorel Dr	San Jose	95132
+Doremere Dr	Huntington Beach	92646
+Doremere Dr	Huntington Beach	92646-3913
+Doremere Dr	Huntington Beach	92646-3914
+Doremere Dr	Huntington Beach	92646-3915
+Doremere Dr	Huntington Beach	92646-3916
+Doremere Dr	Huntington Beach	92646-3917
+Doremere Dr	Huntington Beach	92646-3918
+Doremere Dr	Huntington Beach	92646-3919
+Doremus Ave	Richmond	94805
+Doremus Road	Pasadena	91105
+Dorena Ct	San Diego	92122
+Dorena Dr	Thousand Oaks	91320
+Dorena Place	West Sacramento	95691
+Dorenda Ln	Redding	96001
+Dorene Ct	Saratoga	95070
+Dorene Pl	San Jose	95120
+Dorene Way	Sonoma	95476
+Dorenfeld Ct	Petaluma	94952
+Dorer Dr	Auburn	95603
+Doresta Dr	Bakersfield	93304
+Doresta Road	San Marino	91108
+Doretha St	Mill Valley	94941
+Dorey Way	Monterey	93940
+Dorffi Rd	Fort Bragg	 
+Dorfman Dr	Cotati	94931
+Dorfsmith Dr	Westminster	92683
+Dorgan Dr	Redding	96002
+Dorham Ct	Simi Valley	93065
+Dori Court	Loma Rica	95901
+Dori Ln	Los Altos Hills	94022
+Doria Ave	Mission Viejo	92691
+Doria Avenue	Lomita	90717
+Doria Cir	Victorville	92394
+Doria Ct	Riverside	92503
+Doria Place	Fairfield	94534
+Doria St	Anaheim	92801
+Doria Way	Manteca	95336
+Doria Way	San Diego	92139
+Doria Wy	Manteca	95336
+Dorian	Newport Beach	92657
+Dorian Ct	San Jose	95127
+Dorian Dr	Bakersfield	93304
+Dorian Dr	Rohnert Park	94928
+Dorian Street	Sylmar	91342
+Dorian Way	Fair Oaks	95628
+Dorian Way	San Rafael	94901
+Doriana St	San Diego	92139
+Doriane Cir	Huntington Beach	92647
+Doriane Cir	Huntington Beach	92647-3416
+Doric Aly	San Francisco	94133
+Doric Ct	Elk Grove	95624
+Doric Street	Granada Hills	91344
+Doric Way	Rancho Cordova	95742
+Dorie Drive	West Hills	91307
+Dorielle Ct	Laguna Niguel	92677
+Dorilee Lane	Encino	91436
+Dorina Ct	Chino	91710
+Dorina Place	Granada Hills	91344
+Dorinda Ct	Lincoln	95648
+Dorinda Ct	San Diego	92154
+Dorinda Dr	Oceanside	92057
+Dorinda Dr	Riverside	92503
+Dorinda Pl	Auburn	95602
+Dorinda Rd	Ybl	92887
+Dorinda Rd	Yorba Linda	92887
+Dorinda Way	Carmichael	95608
+Dorine Ave	Rohnert Park	94928
+Dorine Way	Sacramento	95833
+Dorington Ct	Elk Grove	95624
+Dorion Street	Downey	90242
+Doris	Aptos	95003
+Doris Ann Ct	Sonora	95370
+Doris Ave	Garden Grove	92840
+Doris Ave	Los Osos	93402
+Doris Ave	Novato	94947
+Doris Ave	Oxnard	93030
+Doris Ave	San Jose	95127
+Doris Ave	St Helena	94574
+Doris Ave	Walnut Creek	94596
+Doris Avenue	San Gabriel	91775
+Doris Avenue	Winton	95388
+Doris Cir	Cypress	90630
+Doris Cir	Hollister	95023
+Doris Cir	Lucerne	95458
+Doris Court	Vacaville	95688
+Doris Ct	Carmichael	95608
+Doris Ct	Gilroy	95020
+Doris Ct	Modesto	95354
+Doris Ct	Moorpark	93021
+Doris Ct	Redwood City	94061
+Doris Ct	San Jose	95127
+Doris Ct	St Helena	94574
+Doris Dr	Anderson	96007
+Doris Dr	Encinitas	92024
+Doris Dr	Jurupa Valley	92509
+Doris Dr	Menlo Park	94025
+Doris Dr	Pleasant Hill	94523
+Doris Drive	Grass Valley	95945
+Doris Jean Pl	Vista	92083
+Doris Ln	Arroyo Grande	93420
+Doris Ln	Bakersfield	93304
+Doris Ln	Corona	92882
+Doris Ln	Sonora	95370
+Doris Murphy Ct	Occidental	95465
+Doris Rd	Santa Margarita	93453
+Doris St	Hanford	93230
+Doris Way	Chico	95926
+Doris Way	North Tustin	92705
+Doris Way	Petaluma	94952
+Doris Way	Torrance	90505
+Dorita Way	Modesto	95354
+Dork Ln	Palo Cedro	96073
+Dork Ln	Redding	96002
+Dork Street	Pico Rivera	90660
+Dorking Ave	Cambria	93428
+Dorking Ct	Sacramento	95864
+Dorking Pl	Mission Canyon	93105
+Dorlaine Ct	Sacramento	95821
+Dorland Court	Fairfield	94534
+Dorland Dr	Barstow	92311
+Dorland Drive	Fairfield	94534
+Dorland St	Chino	91710
+Dorland St	San Francisco	94110
+Dorland St	San Francisco	94114
+Dorland Street	Whittier	90601
+Dorland Street	Whittier	90606
+Dorlen St	Riverside	92504
+Dorleska Ct	Coffee Creek	96091
+Dorlon Drive	Tarzana	91356
+Dorlyn Way	Poway	92064
+Dorm Way	Spring Valley	91977
+Dormae Ln	El Cajon	92021
+Dorman Ave	San Francisco	94124
+Dorman Avenue	Torrance	90504
+Dorman Avenue	Yuba City	95991
+Dorman Dr	San Diego	92115
+Dorman St	Camarillo	93010
+Dormar Ct	San Jose	95127
+Dormarin Pl	Roseville	95747
+Dormea Ct	Ceres	95307
+Dormer Ave	Concord	94519
+Dormer Ct	Concord	94519
+Dormer Road	Santa Clarita	91390
+Dormer Way	Elk Grove	95757
+Dormie Place	Encino	91436
+Dormody Court	Monterey	93940
+Dormody Road	Carmel	93923
+Dormouse Ct	San Diego	92129
+Dormouse Rd	San Diego	92129
+Dorn Crossing	Kelseyville	95451
+Dorn Ct	Laguna Beach	92651
+Dorn Ct	San Jose	95123
+Dorn Dr	Crestline	92325
+Dorn Rd	Cathedral City	92234
+Dornajo Way	Sacramento	95825
+Dornan Dr	Richmond	94801
+Dorner Dr	Moreno Valley	92553
+Dorner Drive	Monterey Park	91754
+Dornes Rd	Lincoln	95648
+Dornes Street	Artesia	90701
+Dornie Cir	Folsom	95630
+Dornoch Ave	San Jose	95122
+Dornoch Ct	Banning	92220
+Dornoch Ct	Folsom	95630
+Dornoch Ct	Gilroy	95020
+Dornoch Ct	San Diego	0
+Dornoch Ct	San Diego	92154
+Dornoch Way	Coto De Caza	92679
+Dorof Ct	Wildomar	92595
+Dorona Ln	Manteca	95336
+Dororo	Salinas	93906
+Dororo Drive	Salinas	93906
+Doroteo Way	Sacramento	95833
+Dorothea	Mission Viejo	92691
+Dorothea Ave	Fallbrook	92028
+Dorothea Ave	Salton City	92274
+Dorothea Ave	San Marcos	92069
+Dorothea Ct	Windsor	95492
+Dorothea Drive	Montague	96064
+Dorothea Ln	Big Bear Lake	92315
+Dorothea Road	La Habra	90631
+Dorothea Ter	Poway	92064
+Dorothy	Santa Clarita	91350
+Dorothy Adamo Lane	West Sacramento	95605
+Dorothy Anna Dr	Banning	92220
+Dorothy Anne Way	Cupertino	95014
+Dorothy Av	Ventura	93003
+Dorothy Ave	Boulevard	91905
+Dorothy Ave	Garden Grove	92841
+Dorothy Ave	Garden Grove	92843
+Dorothy Ave	Moorpark	93021
+Dorothy Ave	San Jose	95125
+Dorothy Ave	Santa Margarita	93453
+Dorothy Ave	Simi Valley	93063
+Dorothy Ave	Ventura	93003
+Dorothy Avenue	Rosemead	91770
+Dorothy Avenue	South Gate	90280
+Dorothy Cir	Villa Park	92861
+Dorothy Court	Vallejo	94590
+Dorothy Ct	Arcata	95521
+Dorothy Ct	Escondido	92027
+Dorothy Ct	Mckinleyville	95519
+Dorothy Ct	Paso Robles	93446
+Dorothy Ct	Temecula	92592
+Dorothy Dr	Cobb	95426
+Dorothy Dr	Fullerton	92831
+Dorothy Dr	Pleasant Hill	94523
+Dorothy Dr	Riverside	92507
+Dorothy Dr	San Diego	92115
+Dorothy Drive	Agoura Hills	91301
+Dorothy Drive	Atwater	95301
+Dorothy Drive	Calabasas	91302
+Dorothy Drive	Glendale	91202
+Dorothy Hill St	Sacramento	95838
+Dorothy June Way	Sacramento	95838
+Dorothy Lane	Santa Clarita	91350
+Dorothy Lane	Yuba City	95993
+Dorothy Ln	Arroyo Grande	93420
+Dorothy Ln	Coarsegold	93614
+Dorothy Ln	Fullerton	92831
+Dorothy Ln	Galt	95632
+Dorothy Ln	Indio	92201
+Dorothy Ln	Joshua Tree	92252
+Dorothy Ln	Martinez	94553
+Dorothy Ln	Newport Beach	92660
+Dorothy Ln	Nuevo	92567
+Dorothy Ln	Redding	96003
+Dorothy Ln	Tracy	95376
+Dorothy Ln	Valley Center	92082
+Dorothy Ln	Victorville	92394
+Dorothy Ln	Wildomar	92595
+Dorothy Road	Topanga	90290
+Dorothy St	Bakersfield	93306
+Dorothy St	Bakersfield	93307
+Dorothy St	Chula Vista	91911
+Dorothy St	Coalinga	93210
+Dorothy St	El Cajon	92019
+Dorothy St	Moorpark	93021
+Dorothy St	Paso Robles	93446
+Dorothy St	Ventura	93003
+Dorothy Street	Canyon Country	91351
+Dorothy Street	La Crescenta	91214
+Dorothy Street	Los Angeles	90049
+Dorothy Street	Rosemead	91770
+Dorothy Street	Santa Clarita	91350
+Dorothy Street	West Covina	91792
+Dorothy Way	Auburn	95603
+Dorothy Way	Chowchilla	93610
+Dorothy Way	Los Gatos	95033
+Dorothy Way	Modesto	95350
+Dorothy Way	Novato	94945
+Dorothy Way	San Diego	92115
+Dorr Ln	Oroville	95966
+Dorrance	Boulder Creek	95006
+Dorrance Ct	San Jose	95125
+Dorrance Dr	San Jose	95125
+Dorrance Drive	Mammoth Lakes	93546
+Dorrance St	Bakersfield	93307
+Dorrance Wy	Carpinteria	93013
+Dorrett Dr	Forest Ranch	95942
+Dorrie Ave	San Jose	95116
+Dorrigo Ct	Fair Oaks	95628
+Dorrington Avenue	Los Angeles	90048
+Dorrington Avenue	Pacoima	91331
+Dorrington Avenue	Panorama City	91402
+Dorrington Ct	Modesto	95350
+Dorrington Ct	Roseville	95661
+Dorrington Dr	Roseville	95661
+Dorrington Ln	Manteca	95337
+Dorrington Place	Pacoima	91331
+Dorris Brownell Road	Dorris	96023
+Dorris Brownell Road	Macdoel	96023
+Dorris Court	Dixon	95620
+Dorris Drive	Carmel	93923
+Dorris Pl	Alamo	94507
+Dorris Pl	Stockton	95204
+Dorris Place	Los Angeles	90031
+Dorris Rd	Santa Margarita	93453
+Dorrit Ave	Santa Rosa	95401
+Dorrit Ct	Thousand Oaks	91320
+Dorrit St	Thousand Oaks	91320
+Dorsal Dr	Lakeside	92040
+Dorsch Rd	Walnut Creek	94598
+Dorset Ave	Pomona	91766
+Dorset Ave	Thousand Oaks	91360
+Dorset Avenue	Pomona	91766
+Dorset Court	Dixon	95620
+Dorset Court	Rowland Heights	91748
+Dorset Court	Tulare	93274
+Dorset Court	Winters	95694
+Dorset Ct	Bakersfield	93306
+Dorset Ct	Chico	95973
+Dorset Ct	Concord	94521
+Dorset Ct	Goleta	93117
+Dorset Ct	Rancho Cucamonga	91730
+Dorset Ct	San Ramon	94583
+Dorset Ct	Temecula	92592
+Dorset Dr	Bakersfield	93306
+Dorset Dr	Big Bear City	92314
+Dorset Dr	Cypress	90630
+Dorset Dr	Palm Desert	92211
+Dorset Dr	Patterson	95356
+Dorset Dr	Patterson	95363
+Dorset Dr	Petaluma	94954
+Dorset Dr	Riverside	92503
+Dorset Drive	Dixon	95620
+Dorset Drive	Torrance	90503
+Dorset Lane	Fairfield	94533
+Dorset Ln	Costa Mesa	92626
+Dorset Ln	Mill Valley	94941
+Dorset Ln	Modesto	95355
+Dorset Ln	Tracy	95377
+Dorset Place	Harbor City	90710
+Dorset Place	La Canada Flintridge	91011
+Dorset St	Cambria	93428
+Dorset St	Jurupa Valley	92509
+Dorset St	Napa	94558
+Dorset St	Rancho Cucamonga	91730
+Dorset St	Rancho Cucamonga	91739
+Dorset St	Stockton	95207
+Dorset Street	Tulare	93274
+Dorset Way	Benicia	94510
+Dorset Way	Poway	92064
+Dorset Way	Sacramento	95822
+Dorset Way	Salinas	93906
+Dorset Way	Sunnyvale	94087
+Dorseta Dr	Bakersfield	93304
+Dorsetshire Ln	North Tustin	92705
+Dorsett Ave	Upland	91786
+Dorsett Ct	Lincoln	95648
+Dorsett Dr	Huntington Beach	92646
+Dorsett Dr	Huntington Beach	92646-7134
+Dorsett Dr	Huntington Beach	92646-7148
+Dorsett Dr	Huntington Beach	92646-7149
+Dorsett Dr	Huntington Beach	92646-7150
+Dorsett Golden St	Eastvale	92880
+Dorsetwood Way	Sacramento	95829
+Dorsey	Aptos	95003
+Dorsey Ave	Fontana	92335
+Dorsey Cir	Westminster	92683
+Dorsey Ct	Bakersfield	93312
+Dorsey Ct	Fontana	92335
+Dorsey Ct	Paso Robles	93446
+Dorsey Ct	Victorville	92392
+Dorsey Drive	Exeter	93221
+Dorsey Drive	Grass Valley	95945
+Dorsey Lane	Walker	96107
+Dorsey Rd	Oakdale	95361
+Dorsey St	Fontana	92335
+Dorsey St	Menifee	92586
+Dorsey St	Ventura	93003
+Dorsey St	Waterford	95386
+Dorsey Street	Los Angeles	90011
+Dorsey Way	Fontana	92335
+Dorsey Way	Sacramento	95828
+Dorsey Way	Saratoga	95070
+Dorsey Way	Vista	92083
+Dorsie Ln	La Mesa	91941
+Dorstan Dr	Oakhurst	93644
+Dorstan Ln	Oakhurst	93644
+Dorstone Way	Sacramento	95829
+Dorth Pl	Twentynine Palms	92277
+Dortha Ct	Santee	92071
+Dorthea St	Ybl	92886
+Dorthea St	Yorba Linda	92886
+Dorthel St	Sebastopol	95472
+Dortmund Ct	Lake Elsinore	92532
+Dortmund Pl	Alpine	91901
+Doruff Ln	Hemet	92544
+Dorva Ave	Bakersfield	93306
+Dorval Ct	Menifee	92584
+Dorval Dr	San Jose	95130
+Dorvel Ln	Anderson	96007
+Dorwin Ln	Santa Barbara Unincorporated	93111
+Dorwood Ave	La Habra	90631
+Dory Circle	Cerritos	90703
+Dory Ct	Menifee	92585
+Dory Dr	Bonita	91902
+Dory Dr	Huntington Beach	92646
+Dory Dr	Huntington Beach	92646-6901
+Dory Dr	Huntington Beach	92646-6914
+Dory Dr	Huntington Beach	92646-6958
+Dory Dr	Laguna Niguel	92677
+Dory Ln	Carlsbad	92011
+Dory Ln	Foster City	94404
+Dory Ln	Modesto	95356
+Dory Ln	Oxnard	93033
+Dory Ln	Redwood City	94065
+Dory Way	Fair Oaks	95628
+Dory Way	Highland	92346

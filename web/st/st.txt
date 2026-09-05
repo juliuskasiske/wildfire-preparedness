@@ -1,0 +1,27 @@
+St	Bakersfield	93312
+St	Berkeley	94703
+St	Brawley	92227
+St	Cupertino	95014
+St	Cupertino	95014-2736
+St	Cupertino	95014-6009
+St	Cupertino	95014-6012
+St	Cupertino	95014-6016
+St	Cupertino	95014-6025
+St	Cupertino	95014-6026
+St	Cupertino	95014-6027
+St	Firebaugh	93622
+St	Hesperia	92345
+St	Muscoy	92407
+St	Oceanside	92054
+St	Rancho Cucamonga	91701
+St	Redlands	92373
+St	Redwood City	94063
+St	San Bernardino	92404
+St	San Bernardino	92405
+St	San Bernardino	92407
+St	San Bernardino	92408
+St	San Bernardino	92410
+St	San Bernardino	92411
+St	San Miguel	93451
+St	Templeton	93465
+St	Yucaipa	92399

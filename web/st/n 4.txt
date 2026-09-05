@@ -1,0 +1,32 @@
+N 40Th St	Banning	92220
+N 41St St	Banning	92220
+N 41St St	San Diego	92105
+N 42Nd St	San Diego	92105
+N 44Th St	San Diego	92102
+N 46Th St	San Diego	92105
+N 47Th St	San Diego	92102
+N 4Th	El Centro	92243
+N 4Th Ave	El Centro	92243
+N 4Th Ave	Hanford	93230
+N 4Th Ave	Oakdale	95361
+N 4Th Ave	San Bernardino	92407
+N 4Th Ave	Upland	91784
+N 4Th Ave	Upland	91786
+N 4Th Pl	Banning	92220
+N 4Th St	Banning	92220
+N 4Th St	Biola	93606
+N 4Th St	Blythe	92225
+N 4Th St	Chowchilla	93610
+N 4Th St	Coalinga	93210
+N 4Th St	Colton	92324
+N 4Th St	El Centro	92243
+N 4Th St	Fowler	93625
+N 4Th St	Grover Beach	93433
+N 4Th St	Orange Cove	93646
+N 4Th St	Patterson	95363
+N 4Th St	Pismo Beach	93449
+N 4Th St	San Jose	95112
+N 4Th St	Santa Paula	93060
+N 4Th St	Shandon	93461
+N 4Th St	Unincorporated Alameda County	94546
+N 4Th Street	Salinas	93906

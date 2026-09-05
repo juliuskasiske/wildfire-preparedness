@@ -1,0 +1,55 @@
+Vac/152Nd Ste/Vic Lanfair Avenue	Lancaster	93535
+Vac/Ave L(Pav)/Vic 51St Street West	Lancaster	93536
+Vac/Ave Q(Drt)/Vic 175 Street East	Palmdale	93591
+Vac/Ave Q/Vic 152Nd Street East	Palmdale	93591
+Vac/Cor 154Th Ste/Ave Q4	Palmdale	93591
+Vac/Cor 2Nd St/Gillespie Avenue	Acton	93510
+Vac/Cor 40Th Stw/Ave K4	Lancaster	93536
+Vac/Cor Ave K4/42Nd Street West	Lancaster	93536
+Vac/Cor Ave N8/36Th Street West	Palmdale	93551
+Vac/Cor Crown Vly Rd/Banson Street	Acton	93510
+Vac/Cor Smithg Ave/Crown Vly Road	Acton	93510
+Vac/Crown Vly Rd/Vic Banson Street	Acton	93510
+Vac/Crown Vly Rd/Vic Roca Trail	Acton	93510
+Vac/Greenrock Ave/Vic 158Th Street East	Lancaster	93535
+Vac/Lang Station Road	Canyon Country	91387
+Vac/Mtn Shadow/Vic Hubbard Road	Acton	93510
+Vac/Palmdale Blvd/Vic 152Nd Street East	Palmdale	93591
+Vac/Palmdale Blvd/Vic 155Th Street East	Palmdale	93591
+Vac/Soledad Cyn/Vic Briggs Road	Santa Clarita	91390
+Vac/Vic R12/Felicitas Avenue	Palmdale	93551
+Vaca Circle	Atwater	95301
+Vaca Court	Woodland	95776
+Vaca Creek Rd	Martinez	94553
+Vaca Creek Way	Martinez	94553
+Vaca Del Sol	Watsonville	95076
+Vaca Pl	San Diego	92124
+Vaca Station Road	Elmira	95625
+Vaca Station Road	Vacaville	95687
+Vaca Street	Castaic	91384
+Vaca Valley Parkway	Vacaville	95688
+Vaca Valley Road	Vacaville	95688
+Vaca Way	Merced	95340
+Vacanza Ct	Indio	92203
+Vacas Cir	Fountain Valley	92708
+Vacation	Canyon Lake	92587
+Vacation Dr	Canyon Lake	92587
+Vacation Dr	Lafayette	94549
+Vacation Dr	Sun City	92587
+Vacation Ln	Huntington Beach	92646
+Vacation Ln	Huntington Beach	92646-8239
+Vacation Ln	Huntington Beach	92646-8240
+Vacation Ln	Huntington Beach	92646-8241
+Vacation Ln	Huntington Beach	92646-8242
+Vacation Place	Mammoth Lakes	93546
+Vacaville	Irvine	92602
+Vacaville Ave	Chula Vista	91913
+Vaccaro Avenue	Torrance	90503
+Vaccaro St	Victorville	92392
+Vacco Street	South El Monte	91733
+Vache Cir	Redlands	92374
+Vachell Ln	El Cajon	92021
+Vachell Ln	San Luis Obispo	93401
+Vacherie Way	Healdsburg	95448
+Vachon Drive	Rosemead	91770
+Vacilla Ct	Rancho Cucamonga	91701

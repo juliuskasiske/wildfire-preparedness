@@ -1,0 +1,240 @@
+Ard Aven Pl	Carmichael	95608
+Ard Eevin Avenue	Glendale	91202
+Ardagh Ct	Eureka	95503
+Ardana Dr	Paso Robles	93446
+Ardara Place	La Canada Flintridge	91011
+Ardara Way	Antioch	94531
+Ardath Ave	Escondido	92027
+Ardath Ave	Madera	93636
+Ardath Avenue	Gardena	90249
+Ardath Avenue	Hawthorne	90250
+Ardath Avenue	Inglewood	90303
+Ardath Avenue	Torrance	90504
+Ardath Ct	La Jolla	92037
+Ardath Ct	San Francisco	94124
+Ardath Dr	Cambria	93428
+Ardath Ln	La Jolla	92037
+Ardath Rd	La Jolla	92037
+Ardea Ct	Granite Bay	95746
+Ardea Pl	Sacramento	95835
+Ardee Cir	Bakersfield	93304
+Ardee Ct	Oroville	95965
+Ardee Ln	South San Francisco	94080
+Ardell Ct	Corona	92883
+Ardell Drive	Merced	95348
+Ardell Ln	Moreno Valley	92555
+Ardell Road	Pico Rivera	90660
+Ardella Place	Santa Clarita	91350
+Ardelle Way	Elk Grove	95624
+Ardemore Dr	Fullerton	92833
+Arden	Aptos	95003
+Arden	Ben Lomond	95005
+Arden	Irvine	92620
+Arden Av	Buellton	93427
+Arden Ave	Highland	92346
+Arden Ave	San Bernardino	92404
+Arden Ave	South San Francisco	94080
+Arden Avenue	Glendale	91202
+Arden Avenue	Glendale	91203
+Arden Avenue	Temple City	91780
+Arden Avenue	Yuba City	95993
+Arden Bluffs Ln	Carmichael	95608
+Arden Boulevard	Los Angeles	90005
+Arden Cir	Corona	92882
+Arden Court	Grass Valley	95945
+Arden Creek Rd	Sacramento	95825
+Arden Creek Rd	Sacramento	95864
+Arden Ct	American Canyon	94503
+Arden Ct	Daly City	94014
+Arden Ct	Denair	95316
+Arden Ct	Pine Grove	95665
+Arden Ct	Redwood City	94061
+Arden Ct	San Ramon	94582
+Arden Ct	Saratoga	95070
+Arden Dr	Cathedral City	92234
+Arden Dr	Encinitas	92024
+Arden Dr	Lucerne	95458
+Arden Dr N	Fresno	93703
+Arden Dr S	Fresno	93703
+Arden Dr W	Fresno	93703
+Arden Drive	El Monte	91731
+Arden Drive	Temple City	91780
+Arden Farms Pl	San Jose	95111
+Arden Forest Ave	Chino	91708
+Arden Forest Dr	Bakersfield	93314
+Arden Hills Ln	Carmichael	95864
+Arden Hills Ln	Sacramento	95864
+Arden Lane	Merced	95340
+Arden Ln	Belmont	94002
+Arden Ln	Riverside	92504
+Arden Ln	Stockton	95210
+Arden Oaks Ln	Sacramento	95864
+Arden Place	Santa Clarita	91350
+Arden Rd	Berkeley	94704
+Arden Rd	Hayward	94545
+Arden Rd	Hillsborough	94010
+Arden Rd	Menlo Park	94025
+Arden Rd	Santa Barbara	93105
+Arden Road	Pasadena	91106
+Arden St	Hemet	92543
+Arden St	Lake Forest	92630
+Arden St	Lake Forest	92630-2902
+Arden St	Lake Forest	92630-2904
+Arden St	Menifee	92585
+Arden Villa Ct	Roseville	95747
+Arden Villa Dr	Bakersfield	93311
+Arden Villa Dr	Villa Park	92861
+Arden Villa Pl	Roseville	95747
+Arden Way	Anderson	96007
+Arden Way	Arroyo Grande	93420
+Arden Way	Carmichael	95608
+Arden Way	Chino Hills	91709
+Arden Way	El Monte	91731
+Arden Way	Fallbrook	92028
+Arden Way	Napa	94558
+Arden Way	Paradise	95969
+Arden Way	Petaluma	94952
+Arden Way	Sacramento	95815
+Arden Way	Sacramento	95825
+Arden Way	Sacramento	95864
+Arden Way	San Diego	92103
+Arden Way	San Jose	95122
+Arden Way	Santa Rosa	95403
+Arden Wy	Buellton	93427
+Ardendale Avenue	Arcadia	91007
+Ardendale Avenue	San Gabriel	91775
+Ardendale Ct	Alamo	94507
+Ardendale Dr	Daly City	94014
+Ardendale Ln	Sacramento	95825
+Ardenel Avenue	Temple City	91780
+Ardenglen Ct	Sacramento	95834
+Ardennais Dr	La Quinta	92253
+Ardennes Circle	Seaside	93955
+Ardennes Dr	Ladera Ranch	92694
+Ardennes St	Fort Irwin	92310
+Ardennes St	Jurupa Valley	92509
+Ardennes Way	Elk Grove	95758
+Ardenness Dr	Sacramento	95829
+Ardenridge Dr	Sacramento	95864
+Ardent Court	Santa Clarita	91350
+Ardent Dr	Lincoln	95648
+Ardenwood	Simi Valley	93063
+Ardenwood Ave	Simi Valley	93063
+Ardenwood Cir	Simi Valley	93063
+Ardenwood Ct	Concord	94521
+Ardenwood Ct	Hayward	94545
+Ardenwood Ct	Modesto	95358
+Ardenwood Dr	San Jose	95129
+Ardenwood Ln	Riverside	92508
+Ardenwood Way	San Francisco	94132
+Arder Ct	Lake Forest	92630
+Arder Ct	Lake Forest	92630-4204
+Arder Ct	Lake Forest	92630-4205
+Ardere Ct	San Diego	0
+Ardere Ct	San Diego	92127
+Arderly Ct	Sacramento	95826
+Ardesch Ct	Ukiah	 
+Ardeth Ct	Oroville	95966
+Ardeth Ct	Palermo	95966
+Ardfern Way	Folsom	95630
+Ardha Ln	San Diego	92126
+Ardha Way	San Diego	92126
+Ardha Wy	San Diego	92126
+Ardia Ave	Modesto	95357
+Ardia Dr	Hemet	92544
+Ardia Rd	Hemet	92544
+Ardienne St	Murrieta	92563
+Ardilla Avenue	Baldwin Park	91706
+Ardilla Avenue	La Puente	91746
+Ardilla Avenue	West Covina	91790
+Ardilla Canyon	Watsonville	95076
+Ardilla Ct	San Jose	95128
+Ardilla Dr	Madera	93638
+Ardilla Dr	Santa Barbara	93105
+Ardilla Ln	San Clemente	92672
+Ardilla Pl	Chula Vista	91910
+Ardilla Rd	Atascadero	93422
+Ardilla Rd	Orinda	94563
+Ardilla Rd	Pala	92059
+Ardine Street	Bell Gardens	90201
+Ardine Street	Downey	90241
+Ardine Street	South Gate	90280
+Ardis Ave	San Jose	95117
+Ardis Avenue	Bellflower	90706
+Ardis Avenue	Downey	90242
+Ardis Dr	Garden Grove	92841
+Ardis Dr	San Jose	95125
+Ardisa	Mission Viejo	92692
+Ardisia Ct	San Diego	92127
+Ardisia St	Riverside	92503
+Ardita Drive	Whittier	90603
+Ardith Ct	Beaumont	92223
+Ardith Ct	Orinda	94563
+Ardith Dr	Orinda	94563
+Ardith Dr	Pleasant Hill	94523
+Ardith Dr	Sacramento	95828
+Ardith Ln	Alamo	94507
+Arditto Ranch Rd	Plymouth	95669
+Ardleigh Ct	San Ramon	94583
+Ardley Dr	Roseville	95747
+Ardmoor Ct	Rancho Cucamonga	91739
+Ardmor Ave	Modesto	95350
+Ardmore	Irvine	92602
+Ardmore	Oxnard	93036
+Ardmore Av	Roseville	95678
+Ardmore Ave	Bakersfield	93309
+Ardmore Ave	Hermosa Beach	90254
+Ardmore Ave	Redlands	92374
+Ardmore Avenue	Bellflower	90706
+Ardmore Avenue	Glendale	91202
+Ardmore Avenue	Hermosa Beach	90254
+Ardmore Avenue	Los Angeles	90004
+Ardmore Avenue	Los Angeles	90005
+Ardmore Avenue	Los Angeles	90006
+Ardmore Avenue	Los Angeles	90010
+Ardmore Avenue	Los Angeles	90029
+Ardmore Avenue	Olivehurst	95961
+Ardmore Avenue	South Gate	90280
+Ardmore Cir	Redlands	92374
+Ardmore Circle	Vacaville	95688
+Ardmore Court	Benicia	94510
+Ardmore Court	Palmdale	93552
+Ardmore Court	San Dimas	91773
+Ardmore Ct	Pleasant Hill	94523
+Ardmore Ct	San Diego	92111
+Ardmore Ct	Saratoga	95070
+Ardmore Dr	Goleta	93117
+Ardmore Dr	Hemet	92544
+Ardmore Dr	San Diego	92111
+Ardmore Dr	San Pablo	94806
+Ardmore Drive	San Gabriel	91775
+Ardmore Ln	Oxnard	93036
+Ardmore Path	Kensington	94707
+Ardmore Pl	Chino	91710
+Ardmore Rd	Kensington	94707
+Ardmore Rd	Larkspur	94939
+Ardmore Rd	Paso Robles	93446
+Ardmore Rd	Sacramento	95821
+Ardmore Road	San Marino	91108
+Ardmore St	Riverside	92507
+Ardmore Way	Benicia	94510
+Ardmore Way	San Jose	95118
+Ardor Dr	Orinda	94563
+Ardos St	Moreno Valley	92553
+Ardra Ln	Concord	94519
+Ardsheal Drive	La Habra	90631
+Ardsheal Drive	Whittier	90603
+Ardsley Cir	Huntington Beach	92649
+Ardsley Cir	Huntington Beach	92649-2113
+Ardsley Cir	Sacramento	95823
+Ardsley Ct	Riverside	92505
+Ardsley Ct	San Jose	95120
+Ardsley Drive	Arcadia	91007
+Ardsley Drive	Temple City	91780
+Ardsley Place	Encino	91436
+Ardview Ln	Eureka	95501
+Ardwell Dr	Anza	92539
+Ardwell Way	Sacramento	95823
+Ardwick Street	Woodland Hills	91364
+Ardyce Cir	Santa Rosa	95405
+Ardys Pl	Vista	92084

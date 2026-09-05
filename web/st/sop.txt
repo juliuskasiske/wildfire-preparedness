@@ -1,0 +1,54 @@
+Soper Ave	Chino	91710
+Soper Drive	Los Angeles	90046
+Soper Ln	La Mesa	91942
+Soper Rd	Garberville	95542
+Soper Rd	Whitethorn	95542
+Sophia Avenue	Encino	91436
+Sophia Avenue	Granada Hills	91344
+Sophia Avenue	North Hills	91343
+Sophia Avenue	Van Nuys	91406
+Sophia Cir	Indio	92203
+Sophia Cir	Petaluma	94954
+Sophia Ct	Keyes	95328
+Sophia Ct	Napa	94558
+Sophia Ct	Novato	94945
+Sophia Ct	Oxnard	93030
+Sophia Ct	Redlands	92374
+Sophia Ct	Riverside	92501
+Sophia Ct	Sacramento	95831
+Sophia Dr	Oxnard	93030
+Sophia Dr	Poway	92064
+Sophia Dr	Santa Rosa	95403
+Sophia Lane	Canyon Country	91387
+Sophia Lane	Tarzana	91356
+Sophia Ln	City Of Shasta Lake	96019
+Sophia Ln	Kingsburg	93631
+Sophia St	Bakersfield	93307
+Sophia Street	Arboga	95961
+Sophia Way	Oceanside	92057
+Sophia Way	Paso Robles	93446
+Sophia Way	Sacramento	95820
+Sophia Way	San Jose	95134
+Sophie Court	Merced	95348
+Sophie Court	Northridge	91325
+Sophie Ct	Lake Elsinore	92530
+Sophie Ct	Nipomo	93444
+Sophie Ct	Westminster	92683
+Sophie Dr	Madera	93636
+Sophie Drive	Merced	95348
+Sophie Ln	Escalon	95320
+Sophie Ln	Mckinleyville	95519
+Sophie Rd	Perris	92570
+Sophie St	Perris	92570
+Sophist Dr	San Jose	95132
+Sophistry Dr	Rancho Cordova	95742
+Sophmore Ct	Moorpark	93021
+Sophocles Dr	Rancho Cordova	95742
+Sophomore Ct	Moorpark	93021
+Sophy Pl	Redding	96003
+Sophys Ct	Roseville	95747
+Soprano Circle	Fairfield	94534
+Soprano Ln	San Diego	92127
+Soprano St	Menifee	92585
+Soprano Way	Elk Grove	95757
+Soprano Way	Santa Rosa	95404

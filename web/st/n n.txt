@@ -1,0 +1,158 @@
+N N	Imperial	92251
+N N Blvd	Imperial	92251
+N N Devils Slide Rd Rd	Pacifica	94038
+N N Devils Slide Rd Rd	Pacifica	94044
+N N Pl	Lompoc	93436
+N N St	Imperial	92251
+N N St	Lompoc	93436
+N N St	Madera	93637
+N N St	Oxnard	93030
+N Nada St	La Habra	90631
+N Namuria St	Orange	92865
+N Nana Ave	Big Bear City	92314
+N Nanci Ln	San Jacinto	92583
+N Nancita St	Anaheim	92801
+N Nancy Ln	Santa Ana	92706
+N Nantucket Ave	Fresno	93704
+N Nantucket Pl	Santa Ana	92703
+N Nantucket St	La Habra	90631
+N Naomi St	Burbank	91504
+N Naomi St	Burbank	91505
+N Napa Ave	Kerman	93630
+N Napa Ave	Ontario	91764
+N Napa Ct	Hanford	93230
+N Napa Dr	Hanford	93230
+N Napa Dr	Petaluma	94954
+N Napa Ln	Mh	95391
+N Naples Ave	Upland	91784
+N Naples Ct	Orange	92867
+N Naples Ct	Yorba Linda	92886
+N Napoli Dr	Bre	92821
+N Naranjal Dr	Bre	92821
+N Naranjal Dr	Brea	92821
+N Nassano Dr	Stockton	95212
+N Natalie Ave	Fresno	93722
+N National St	Anaheim	92801
+N Natoma Dr	Cathedral City	92234
+N  Navarra	Scotts Valley	95066
+N Navarra (Rec Bldg) Way	Santa Maria	93454
+N Navarra Way	Santa Maria	93454
+N Navarra Wy	Santa Maria	93454
+N Navarro Pl	Orange	92869
+N Navone Rd	Stockton	95215
+N Nebbiolo Dr	Lockeford	95237
+N Nebraska St	Lake Elsinore	92530
+N Necken Rd	Linden	95236
+N Nectarine Way	Fresno	93722
+N Neeley Rd	Lodi	95242
+N Neeley St	Visalia	93291
+N Neighbours Blvd	Blythe	92225
+N Nelson Ave	Sanger	93657
+N Neptune Ave	Bre	92821
+N Nevada St	Coalinga	93210
+N Nevada St	Oceanside	92054
+N Nevada St	Redlands	92374
+N Nevada St	Visalia	93291
+N Neville St	Orange	92865
+N New Ave	Anaheim	92806
+N New Britain Ln	Huntington Beach	92646
+N New Britain Ln	Huntington Beach	92646-4422
+N New Britain Ln	Huntington Beach	92646-4423
+N New Britain Ln	Huntington Beach	92646-8532
+N New Britain Ln	Huntington Beach	92646-8533
+N New Hope Rd	Galt	95632
+N New Hope Rd	Thornton	95632
+N New Life Way	Anaheim	92801
+N New Pine Ave	San Bernardino	92407
+N Newby Rd	Stockton	95215
+N Newcomb Ave	Dos Palos	93620
+N Newcomb St	Porterville	93257
+N Newcomb St	San Bernardino	92404
+N Newell Pl	Fullerton	92832
+N Newhall Ter	Bre	92821
+N Newhall Ter	Brea	92821
+N Newhope St	Santa Ana	92703
+N Newmark Ave	Clovis	93619
+N Newmark Ave	San Bernardino	92405
+N Newmark Ave	San Bernardino	92407
+N Newmark Ave	Sanger	93657
+N Newport Av	Stockton	95205
+N Newport Ave	San Bernardino	92404
+N Newport Bay	Clovis	93619
+N Newport Bay	Sanger	93657
+N Newport Bl	Orange	92869
+N Newport Blvd	Orange	92869
+N Newport Ct	San Bernardino	92404
+N Newport Dr	Napa	94559
+N Newport St	Visalia	93291
+N Newquist Ct	Camarillo	93010
+N Newton Dr	Visalia	93291
+N Newton Rd	Stockton	95205
+N Niagara St	Burbank	91504
+N Niagara St	Burbank	91505
+N Nichols Rd	Galt	95632
+N Nicky Way	Orange	92869
+N Nicolas Ave	Villa Park	92867
+N Niguel Canyon Way	Bre	92821
+N Nina Av	Stockton	95204
+N Nina Dr	Oxnard	93030
+N Ninth St	Fresno	93702
+N Ninth St	Fresno	93703
+N Ninth St	Fresno	93710
+N Ninth St	Fresno	93720
+N Ninth St	Fresno	93726
+N Ninth St	Lompoc	93436
+N Ninth St	San Jose	95112
+N Ninth St	San Jose	95122
+N Ninth St	Santa Paula	93060
+N Nita St	Santa Maria	93454
+N Noah Ln	Fresno	93737
+N Noble St	Orange	92869
+N Nogales Way	Palm Springs	92262
+N Nohl Canyon Rd	Orange	92867
+N Nolan Rd	Acampo	95220
+N Nopal St	Santa Barbara	93103
+N Nord Av	Stockton	95215
+N Nordic Dr	Orange	92867
+N Nordic Pl	Orange	92865
+N Nordic Pl	Orange	92867
+N Nordic St	Orange	92865
+N Norfolk St	San Mateo	94401
+N Norma Ln	San Bernardino	92407
+N Norman Ct	Visalia	93292
+N Norman Dr	Visalia	93292
+N Norman Pl	Fullerton	92831
+N Norman Rd	Colton	92324
+N Normandy Dr	Anaheim	92806
+N Normandy Pl	Anaheim	92806
+N Normandy Ter	Corona	92880
+N North Creek Ln	Fullerton	92831
+N North Gonzalez Dr	Hollister	95023
+N North Hills Dr	Upland	91784
+N North Hoover	Wawona	95389
+N North Hoover Way	Wawona	95389
+N North Miller Rd	Hollister	95023
+N North Park Blvd	Santa Ana	92706
+N North Port Ln	Menifee	92584
+N North Redwood Dr	Anaheim	92806
+N North Redwood Pl	Anaheim	92806
+N Northam Ave	Thousand Oaks	91320
+N Northeast Ave	Reedley	93654
+N Northstar Ave	Colfax	95713
+N Northstar Ave	Colton	92324
+N Northstar Dr	Fresno	93730
+N Northumberland Rd	Orange	92865
+N Northwestern Cir E	Colton	92324
+N Northwestern Cir W	Colton	92324
+N Norwood St	Anaheim	92805
+N Notnil Ct	San Bernardino	92407
+N Notre Dame Ave	Chatsworth	91311
+N Nottingham Ct	Fresno	93711
+N Nowak Ave	Thousand Oaks	91360
+N Nowell Rd	Thornton	95686
+N Noyes Ct	Visalia	93291
+N Noyes St	Visalia	93291
+N Nueve Ct	Camarillo	93012
+N Nuevo Rd	Perris	92571
+N Nutmeg St	Escondido	92026
+N Nye Ave	Ventura	93001

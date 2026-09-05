@@ -1,0 +1,37 @@
+Viki	Scotts Valley	95066
+Viking	Soquel	95073
+Viking Ave	Brea	92821
+Viking Avenue	Northridge	91324
+Viking Avenue	Porter Ranch	91326
+Viking Cir	Garden Grove	92843
+Viking Cir	Huntington Beach	92647
+Viking Cir	Huntington Beach	92647-2330
+Viking Ct	Bakersfield	93308
+Viking Ct	Riverside	92506
+Viking Ct	Windsor	95492
+Viking Dr	Camarillo	93010
+Viking Dr	Pleasant Hill	94523
+Viking Dr	Sacramento	95827
+Viking Grove Ln	Valley Center	92082
+Viking Lane	Marina	93933
+Viking Ln	Modesto	95350
+Viking Ln	Running Springs	92382
+Viking Ln	San Marcos	92069
+Viking Pl	Alamo	94507
+Viking Pl	Escondido	92027
+Viking Pl	Roseville	95747
+Viking Rd	Laguna Beach	92651
+Viking Rd	Santa Rosa	95401
+Viking St	Escalon	95320
+Viking St	Hayward	94545
+Viking St	Lemoore	93245
+Viking Strand	Bodega Bay	94923
+Viking Street	Marina	93933
+Viking View Ln	Valley Center	92082
+Viking Way	La Jolla	92037
+Viking Way	Palmdale	93552
+Viking Way	Pittsburg	94565
+Viking Way	Redding	96003
+Viking Way	Truckee	96161
+Viking Wy	Solvang	93463
+Vikings Way	Cerritos	90703

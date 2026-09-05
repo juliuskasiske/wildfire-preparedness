@@ -1,0 +1,649 @@
+Elm	Benicia	94510
+Elm	El Centro	92243
+Elm	Felton	95018
+Elm	Indio	92201
+Elm	Santa Cruz	95060
+Elm	Thousand Oaks	91320
+Elm	Watsonville	95076
+Elm Av	Carpinteria	93013
+Elm Av	Manteca	95336
+Elm Av	Mckinleyville	95519
+Elm Av	Solvang	93463
+Elm Ave	Auburn	95603
+Elm Ave	Beaumont	92223
+Elm Ave	Bloomington	92316
+Elm Ave	Burlingame	94010
+Elm Ave	Caruthers	93609
+Elm Ave	Chowchilla	93610
+Elm Ave	Chula Vista	91910
+Elm Ave	Chula Vista	91911
+Elm Ave	Coalinga	93210
+Elm Ave	Costa Mesa	92626
+Elm Ave	Cypress	90630
+Elm Ave	El Centro	92243
+Elm Ave	Fontana	92335
+Elm Ave	Fontana	92337
+Elm Ave	Galt	95632
+Elm Ave	Hillsborough	94010
+Elm Ave	Holtville	92250
+Elm Ave	Imperial Beach	91932
+Elm Ave	Irvine	92606
+Elm Ave	Kentfield	94904
+Elm Ave	Larkspur	94939
+Elm Ave	Loma Linda	92354
+Elm Ave	Madera	93638
+Elm Ave	Manteca	95336
+Elm Ave	Marshall	94941
+Elm Ave	Mendota	93640
+Elm Ave	Mill Valley	94941
+Elm Ave	Milpitas	95035
+Elm Ave	Modesto	95351
+Elm Ave	Modesto	95358
+Elm Ave	Monte Rio	95462
+Elm Ave	Morro Bay	93442
+Elm Ave	Orangevale	95662
+Elm Ave	Patterson	95363
+Elm Ave	Rancho Cucamonga	91730
+Elm Ave	Reedley	93654
+Elm Ave	Richmond	94801
+Elm Ave	Richmond	94805
+Elm Ave	Salton City	92274
+Elm Ave	San Anselmo	94960
+Elm Ave	San Bernardino	92404
+Elm Ave	San Bruno	94066
+Elm Ave	San Diego	92154
+Elm Ave	San Joaquin	93660
+Elm Ave	Sonoma	95476
+Elm Ave	Tuolumne	95379
+Elm Ave	Twentynine Palms	92277
+Elm Ave	Woodacre	94973
+Elm Ave 1/2	Madera	93638
+Elm Ave #100	Auburn	95603
+Elm Ave #110	Auburn	95603
+Elm Ave #200	Auburn	95603
+Elm Ave #210	Auburn	95603
+Elm Ave #300	Auburn	95603
+Elm Ave #310	Auburn	95603
+Elm Avenue	Atwater	95301
+Elm Avenue	Glendale	91201
+Elm Avenue	Greenfield	93927
+Elm Avenue	Gustine	95322
+Elm Avenue	Lancaster	93534
+Elm Avenue	Long Beach	90802
+Elm Avenue	Long Beach	90805
+Elm Avenue	Long Beach	90806
+Elm Avenue	Long Beach	90807
+Elm Avenue	Long Beach	90813
+Elm Avenue	Lynwood	90262
+Elm Avenue	Manhattan Beach	90266
+Elm Avenue	Marina	93933
+Elm Avenue	Merced	95348
+Elm Avenue	San Gabriel	91775
+Elm Avenue	Seaside	93955
+Elm Avenue	Sierra Madre	91024
+Elm Avenue	Temple City	91780
+Elm Avenue	Torrance	90503
+Elm Avenue	Torrance	90505
+Elm Avenue	Visalia	93291
+Elm Bank Dr	Laguna Hills	92653
+Elm Brush Trl	Anza	92539
+Elm Cir	Brea	92823
+Elm Cir	Buena Park	90620
+Elm Cir	Corona	92879
+Elm Cir	El Centro	92243
+Elm Cir	Fountain Valley	92708
+Elm Cir	Needles	92363
+Elm Cir	Petaluma	94952
+Elm Cir	Stanton	90680
+Elm Circle	Greenfield	93927
+Elm Cottage Ct	Camarillo	93012
+Elm Court	Auburn	95602
+Elm Court	Burbank	91502
+Elm Court	Carson	90746
+Elm Court	Santa Clarita	91390
+Elm Court	Vacaville	95688
+Elm Creek Cir	Moreno Valley	92557
+Elm Crest Ct	Yucaipa	92399
+Elm Ct	Barstow	92311
+Elm Ct	Brawley	92227
+Elm Ct	Carson	90746
+Elm Ct	Chino	91710
+Elm Ct	Cupertino	95014
+Elm Ct	El Cerrito	94530
+Elm Ct	Fontana	92336
+Elm Ct	Hanford	93230
+Elm Ct	Kingsburg	93631
+Elm Ct	Loomis	95650
+Elm Ct	Manteca	95336
+Elm Ct	Milpitas	95035
+Elm Ct	Mission Viejo	92691
+Elm Ct	Moreno Valley	92551
+Elm Ct	Oxnard	93033
+Elm Ct	Pacifica	94044
+Elm Ct	Paso Robles	93446
+Elm Ct	San Anselmo	94960
+Elm Ct	San Bernardino	92404
+Elm Ct	San Luis Obispo	93405
+Elm Ct	Simi Valley	93063
+Elm Ct	Sonoma	95476
+Elm Ct	South San Francisco	94080
+Elm Ct	Twentynine Palms	92277
+Elm Ct	Ukiah	 
+Elm Ct	Woodacre	94973
+Elm Dr	Apple Valley	92308
+Elm Dr	Barstow	92311
+Elm Dr	Camarillo	93010
+Elm Dr	Crestline	92325
+Elm Dr	Descanso	91916
+Elm Dr	El Centro	92243
+Elm Dr	Hollister	95023
+Elm Dr	Lemoore	93245
+Elm Dr	Norco	92860
+Elm Dr	Novato	94945
+Elm Dr	Petaluma	94952
+Elm Dr	Rodeo	94572
+Elm Dr	San Jacinto	92583
+Elm Dr	Santa Rosa	95405
+Elm Dr	Twentynine Palms	92277
+Elm Dr	Vista	92084
+Elm Drive	Calabasas	91302
+Elm Drive	Dixon	95620
+Elm Drive	Salinas	93905
+Elm Field Rd	Moreno Valley	92557
+Elm Glen Circle	Valencia	91354
+Elm Glen Pl	Elk Grove	95757
+Elm Grove Av	Manteca	95336
+Elm Grove Ave	Eastvale	92880
+Elm Grove Ave	Manteca	95336
+Elm Haven Drive	Hacienda Heights	91745
+Elm Hill Drive	Whittier	90604
+Elm Hill Ln	Chino Hills	91709
+Elm Hill Ln	Yorba Linda	92886
+Elm Lake Ct	San Jose	95131
+Elm Lane	Davis	95616
+Elm Lane	Pasadena	91103
+Elm Leaf Ct	Santa Clara	95050
+Elm Ln	Carpinteria	93013
+Elm Ln	Cedar Glen	92321
+Elm Ln	Chino Hills	91709
+Elm Ln	Escondido	92029
+Elm Ln	Huntington Beach	92647-5900
+Elm Ln	Huntington Beach	92647-5912
+Elm Ln	Huntington Beach	92647-5915
+Elm Ln	Huntington Beach	92647-5918
+Elm Ln	Huntington Beach	92647-5939
+Elm Ln	Huntington Beach	92647-5940
+Elm Ln	Huntington Beach	92647-5956
+Elm Ln	Huntington Beach	92647-5957
+Elm Ln	Huntington Beach	92647-5963
+Elm Ln	Huntington Beach	92647-5972
+Elm Ln	Huntington Beach	92647-7454
+Elm Ln	Huntington Beach	92647-7458
+Elm Ln	Huntington Beach	92647-7459
+Elm Ln	Huntington Beach	92647-7460
+Elm Ln	Huntington Beach	92647-7461
+Elm Ln	Huntington Beach	92647-7494
+Elm Ln	Lompoc	93436
+Elm Ln	Oakley	94561
+Elm Ln	Redding	96001
+Elm Ln	Willits	 
+Elm Ln	Yucaipa	92399
+Elm Ln	Yucca Valley	92284
+Elm Park	Monte Sereno	95030
+Elm Park Ct	Monte Sereno	95030
+Elm Park Ln	Poway	92064
+Elm Pl	Atherton	94027
+Elm Pl	Las Flores	92688
+Elm Pl	Temecula	92592
+Elm Place	Porter Ranch	91326
+Elm Rd	Blythe	92225
+Elm Rd	Bolinas	94924
+Elm Rd	Concord	94519
+Elm Rd	Morgan Hill	95037
+Elm Rd	Norco	92860
+Elm Rd	Pine Valley	91962
+Elm Rd	Thousand Oaks	91320
+Elm Ridge Dr	Vista	92081
+Elm Ridge Ln	Huntington Beach	92648
+Elm Ridge St	Manteca	95336
+Elm St	Arroyo Grande	93420
+Elm St	Bakersfield	93301
+Elm St	Bakersfield	93304
+Elm St	Beaumont	92223
+Elm St	Big Bear Lake	92315
+Elm St	Bloomington	92316
+Elm St	Bre	92821
+Elm St	Brentwood	94513
+Elm St	Burney	96013
+Elm St	Cabazon	92230
+Elm St	Calistoga	94515
+Elm St	Chico	95928
+Elm St	Chino	91710
+Elm St	Chowchilla	93610
+Elm St	Cloverdale	95425
+Elm St	College City	95912
+Elm St	College City	95931
+Elm St	Concord	94519
+Elm St	Corona	92879
+Elm St	Denair	95316
+Elm St	El Centro	92243
+Elm St	El Cerrito	94530
+Elm St	Escalon	95320
+Elm St	Escondido	92026
+Elm St	Firebaugh	93622
+Elm St	Fountain Valley	92708
+Elm St	Garberville	95542
+Elm St	Guadalupe	93434
+Elm St	Hanford	93230
+Elm St	Hesperia	92344
+Elm St	Hesperia	92345
+Elm St	Holtville	92250
+Elm St	Hughson	95326
+Elm St	Huntington Beach	92647
+Elm St	Indio	92201
+Elm St	Lake Elsinore	92530
+Elm St	Los Gatos	95030
+Elm St	Lucerne	95458
+Elm St	Madera	93638
+Elm St	Martinez	94553
+Elm St	Maxwell	95955
+Elm St	Menifee	92585
+Elm St	Menlo Park	94025
+Elm St	Modesto	95354
+Elm St	Montara	94037
+Elm St	Morongo Valley	92256
+Elm St	Murrieta	92562
+Elm St	Murrieta	92563
+Elm St	Napa	94558
+Elm St	Napa	94559
+Elm St	Oak Hills	92344
+Elm St	Oxnard	93033
+Elm St	Parlier	93648
+Elm St	Perris	92570
+Elm St	Phelan	92371
+Elm St	Pinole	94564
+Elm St	Pittsburg	94565
+Elm St	Porterville	93257
+Elm St	Ramona	92065
+Elm St	Redlands	92373
+Elm St	Redlands	92374
+Elm St	Redwood City	94063
+Elm St	Rio Dell	95562
+Elm St	Riverside	92505
+Elm St	Roseville	95678
+Elm St	Sacramento	95838
+Elm St	Salida	95368
+Elm St	San Bernardino	92410
+Elm St	San Carlos	94070
+Elm St	San Diego	92101
+Elm St	San Diego	92102
+Elm St	San Diego	92105
+Elm St	San Francisco	94102
+Elm St	San Francisco	94115
+Elm St	San Jose	95126
+Elm St	San Jose	95126-2401
+Elm St	San Mateo	94401
+Elm St	San Rafael	94901
+Elm St	Santa Paula	93060
+Elm St	Sonora	95370
+Elm St	Susanville	96130
+Elm St	Sutter Creek	95685
+Elm St	Tahoma	96142
+Elm St	Trona	93562
+Elm St	Tuolumne	95379
+Elm St	Ukiah	 
+Elm St	Westminster	92683
+Elm St	Westwood	96137
+Elm St	Wildomar	92595
+Elm St	Windsor	95492
+Elm St	Wrightwood	92397
+Elm St N	Escondido	92025
+Elm St N	Sonora	95370
+Elm St S	Arroyo Grande	93420
+Elm St Unit A	Roseville	95678
+Elm St Unit B	Roseville	95678
+Elm St Unit C	Roseville	95678
+Elm St Unit D	Roseville	95678
+Elm Street	Alhambra	91801
+Elm Street	Alhambra	91803
+Elm Street	Benicia	94510
+Elm Street	City Of Marysville	95901
+Elm Street	El Cerrito	94530
+Elm Street	Fairfield	94533
+Elm Street	Greenfield	93927
+Elm Street	Live Oak	95953
+Elm Street	Livingston	95334
+Elm Street	Los Angeles	90001
+Elm Street	Los Angeles	90002
+Elm Street	Los Angeles	90040
+Elm Street	Los Angeles	90065
+Elm Street	Lynwood	90262
+Elm Street	Mccloud	96057
+Elm Street	Montebello	90640
+Elm Street	Porterville	93257
+Elm Street	Sutter	95982
+Elm Street	Vacaville	95688
+Elm Street	Venice	90291
+Elm Street	West Sacramento	95605
+Elm Street	Woodland	95695
+Elm Street	Yreka	96097
+Elm Street	Yuba City	95991
+Elm Terrace Way	City Of Wheatland	95692
+Elm Trail	Calabasas	91302
+Elm Trail Ct	Folsom	95630
+Elm Trail Dr	Folsom	95630
+Elm Tree Ct	Spring Valley	91978
+Elm Tree Dr	Oceanside	92056
+Elm Tree Ln	Chino Hills	91709
+Elm Tree Ln	Fallbrook	92028
+Elm Tree Ln	Irvine	92612
+Elm Tree Ln	Orangevale	95662
+Elm Tree Ln	San Marcos	92069
+Elm Via	Anaheim	92801
+Elm View Drive	Encino	91316
+Elm Vista Drive	Downey	90242
+Elm Way	Modesto	95351
+Elm Way	Rio Vista	94571
+Elm Way	Weed	96094
+Elm Wood Ct	Los Gatos	95032
+Elm Wood Ln	Chino Hills	91709
+Elm Wy	Clearlake Oaks	95423
+Elma Drive	Delhi	95315
+Elma Ln	La Mesa	91942
+Elma Road	Pasadena	91107
+Elma St	Camarillo	93010
+Elma St	Hickman	95323
+Elma St	Mill Valley	94941
+Elma St	Oroville	95965
+Elmar Rd	Palo Cedro	96073
+Elmar Rd	Redding	96002
+Elmar Way	San Jose	95129
+Elmbank Road	Rancho Palos Verdes	90275
+Elmbranch Dr	Encinitas	92024
+Elmbridge Dr	Hemet	92545
+Elmbridge Dr	San Jose	95129
+Elmbridge Drive	Rancho Palos Verdes	90275
+Elmbridge Ln	Hemet	92545
+Elmbridge Way	Bakersfield	93311
+Elmbrook	Aliso Viejo	92656
+Elmbrook Drive	La Mirada	90638
+Elmbrook Lane	Pomona	91767
+Elmbrook Way	Manteca	95336
+Elmbrook Way	San Jose	95111
+Elmbrook Wy	Manteca	95336
+Elmco Ave	Bakersfield	93241
+Elmcreek Cir	Moreno Valley	92557
+Elmcreek Ct	Riverside	92504
+Elmcrest Ct	Turlock	95380
+Elmcrest Dr	San Diego	92119
+Elmcrest Ln	Huntington Beach	92646
+Elmcrest Ln	Huntington Beach	92646-3100
+Elmcrest Ln	Huntington Beach	92646-3119
+Elmcrest Ln	Huntington Beach	92646-3120
+Elmcrest Ln	Huntington Beach	92646-3121
+Elmcrest Ln	Huntington Beach	92646-3122
+Elmcrest Ln	Huntington Beach	92646-3123
+Elmcrest Ln	Huntington Beach	92646-3124
+Elmcrest Ln	Rancho Cordova	95670
+Elmcrest Street	El Monte	91731
+Elmcrest Street	El Monte	91732
+Elmcrest Street	La Verne	91750
+Elmcrest Way	Lake Forest	92630
+Elmcrest Way	Lake Forest	92630-6562
+Elmcrest Way	Lake Forest	92630-6563
+Elmcrest Way	Lake Forest	92630-7516
+Elmcrest Way	Lake Forest	92630-7521
+Elmcroft Avenue	Cerritos	90703
+Elmcroft Avenue	Downey	90241
+Elmcroft Avenue	Norwalk	90650
+Elmcroft Avenue	Pomona	91767
+Elmcroft Cir	La Habra	90631
+Elmcroft Ln	Victorville	92395
+Elmdale	Irvine	92620
+Elmdale Dr	Spring Valley	91977
+Elmdale Drive	Palos Verdes Peninsula	90274
+Elmdale Pl	Palo Alto	94303
+Elmdale Place	Granada Hills	91344
+Elmdale Way	Stanton	90680
+Elmendorf Dr	Moreno Valley	92551
+Elmendorf Pl	Santa Rosa	95401
+Elmer Avenue	North Hollywood	91601
+Elmer Avenue	North Hollywood	91602
+Elmer Avenue	North Hollywood	91606
+Elmer Avenue	Sun Valley	91352
+Elmer Avenue	Whittier	90602
+Elmer Avenue	Yuba City	95993
+Elmer Belcher	Calexico	92231
+Elmer Dr	Arbuckle	95912
+Elmer Ln	Bakersfield	93308
+Elmer Ln	Garden Grove	92841
+Elmer St	Belmont	94002
+Elmer St	Chico	95928
+Elmer Way	Sacramento	95822
+Elmers Way	Shingletown	96088
+Elmfield Avenue	Long Beach	90815
+Elmfield Ln	Poway	92064
+Elmgate Ct	San Jose	95148
+Elmgate Dr	Roseville	95747
+Elmgate Street	Monterey Park	91754
+Elmgrove Ct	Sacramento	95826
+Elmgrove Ct	San Jose	95130
+Elmgrove Drive	Glendora	91741
+Elmgrove Ln	San Jose	95130
+Elmgrove Street	Los Angeles	90031
+Elmhurst	Irvine	92618
+Elmhurst Av	Santa Clara	95051
+Elmhurst Ave	Chino	91710
+Elmhurst Ave	Rancho Cucamonga	91701
+Elmhurst Ave	Rancho Cucamonga	91730
+Elmhurst Ave	Rancho Cucamonga	91737
+Elmhurst Ave	Santa Clara	95051
+Elmhurst Ave	St Helena	94574
+Elmhurst Avenue	Duarte	91010
+Elmhurst Cir	Huntington Beach	92647
+Elmhurst Cir	Huntington Beach	92647-2212
+Elmhurst Cir	Huntington Beach	92647-2229
+Elmhurst Cir	Huntington Beach	92647-2236
+Elmhurst Cir	Huntington Beach	92647-2237
+Elmhurst Cir	Sacramento	95825
+Elmhurst Cir	Ybl	92886
+Elmhurst Cir	Yorba Linda	92886
+Elmhurst Circle	Claremont	91711
+Elmhurst Circle	Fairfield	94533
+Elmhurst Ct	3-Yl-2	92886
+Elmhurst Ct	Cathedral City	92234
+Elmhurst Ct	Santa Clara	95051
+Elmhurst Ct	Yorba Linda	92886
+Elmhurst Dr	Granite Bay	95746
+Elmhurst Dr	Los Altos	94024
+Elmhurst Dr	Modesto	95350
+Elmhurst Dr	Moreno Valley	92555
+Elmhurst Dr	San Diego	92120
+Elmhurst Dr	San Francisco	94132
+Elmhurst Dr	San Jose	95129
+Elmhurst Drive	Norwalk	90650
+Elmhurst Drive	Tujunga	91042
+Elmhurst Ln	Concord	94521
+Elmhurst Ln	Costa Mesa	92626
+Elmhurst Ln	Fillmore	93015
+Elmhurst Ln	Winchester	92596
+Elmhurst Pl	Fullerton	92835
+Elmhurst Pl	Goleta	93117
+Elmhurst St	Bakersfield	93304
+Elmhurst St	Chula Vista	91913
+Elmhurst St	Corona	92880
+Elmhurst St	Hayward	94544
+Elmhurst St	Ladera Ranch	92694
+Elmhurst St	Ventura	93003
+Elmhurst St	Victorville	92395
+Elmhurst Street	Rowland Heights	91748
+Elminya Dr	Pacheco	94553
+Elminya Drive	Pacheco	94553
+Elmira Ave	Huntington Beach	92648
+Elmira Ave	Huntington Beach	92648-4920
+Elmira Ave	Huntington Beach	92648-4920 
+Elmira Ave	Huntington Beach	92648-4921
+Elmira Ave	Huntington Beach	92648-4922
+Elmira Ave	Huntington Beach	92648-4923
+Elmira Ave	Huntington Beach	92648-4923 
+Elmira Ave	Huntington Beach	92648-4924
+Elmira Ave	Huntington Beach	92648-4925
+Elmira Ave	Huntington Beach	92648-4943 
+Elmira Ave	Huntington Beach	92648-4952 
+Elmira Ave	Huntington Beach	92648-4997 
+Elmira Avenue	Claremont	91711
+Elmira Bay	Costa Mesa	92626
+Elmira Cir	Magalia	95954
+Elmira Cir	Sacramento	95827
+Elmira Court	Cerritos	90703
+Elmira Ct	Riverside	92508
+Elmira Dr	Redding	96001
+Elmira Dr	Sunnyvale	94087
+Elmira Road	Elmira	95625
+Elmira Road	Vacaville	95687
+Elmira St	El Cajon	92019
+Elmira St	San Francisco	94124
+Elmira St	Thousand Oaks	91320
+Elmira Street	Palmdale	93552
+Elmira Street	Pasadena	91104
+Elmo Avenue	Torrance	90503
+Elmo Ct	Manteca	95336
+Elmo Ct	Napa	94558
+Elmo Dr	North Highlands	95660
+Elmo Dr	San Bernardino	92404
+Elmo Loop	Modesto	95356
+Elmo Rd	Antioch	94509
+Elmo Street	Tujunga	91042
+Elmond Dr	Escondido	92026
+Elmont Ave	Elverta	95626
+Elmont Avenue	Cerritos	90703
+Elmont Avenue	Downey	90240
+Elmont Avenue	Pico Rivera	90660
+Elmoran Street	Los Angeles	90039
+Elmore Aly	Hollister	95023
+Elmore Ave	Salida	95368
+Elmore Avenue	Whittier	90604
+Elmore Ct	Pioneer	95666
+Elmore Rd	Groveland	95321
+Elmore St	San Diego	92111
+Elmore Way	1-Ws-2	92655
+Elmpark Ln	Poway	92064
+Elmpark Street	South Pasadena	91030
+Elmport Ln	Poway	92064
+Elmquest Court	Fairfield	94533
+Elmquist Avenue	Whittier	90601
+Elmquist Ct	Martinez	94553
+Elmridge Ct	Riverside	92506
+Elmridge Ln	Huntington Beach	92648-5576
+Elmridge Ln	Huntington Beach	92648-5577
+Elmridge Way	Sacramento	95834
+Elmrock Ave	Moorpark	93021
+Elmrock Avenue	La Mirada	90638
+Elmrock Avenue	Whittier	90604
+Elmsbury Lane	West Hills	91307
+Elmsbury Rd	Thousand Oaks	91361
+Elmsdale Dr	San Jose	95120
+Elmsford Ave	La Habra	90631
+Elmsford Circle	Salinas	93906
+Elmsford Ct	Cupertino	95014
+Elmsford Dr	Cupertino	95014
+Elmsford Ln	Huntington Beach	92646
+Elmsford Ln	Huntington Beach	92646-3611
+Elmsford Pl	Thousand Oaks	91361
+Elmsford Way	Salinas	93906
+Elmshaven Rd	St Helena	94574
+Elmsmere Ct	Elk Grove	95758
+Elmstone Ct	San Diego	92131
+Elmswood Cir	Menifee	92584
+Elmtree Ct	San Jose	95131
+Elmtree Dr	Perris	92571
+Elmtree Drive	Lake Hughes	93532
+Elmview Dr	Encinitas	92024
+Elmview Dr	Riverside	92503
+Elmview Way	Novato	94949
+Elmwood	Boulder Creek	95006
+Elmwood	Greenfield	93927
+Elmwood	Irvine	92604
+Elmwood	Mission Viejo	92692
+Elmwood	Perris	92570
+Elmwood Av	Stockton	95204
+Elmwood Ave	Bakersfield	93305
+Elmwood Ave	Berkeley	94705
+Elmwood Ave	Elverta	95626
+Elmwood Ave	Hemet	92543
+Elmwood Ave	Modesto	95354
+Elmwood Ave	Vista Del Mar	92274
+Elmwood Avenue	Burbank	91501
+Elmwood Avenue	Burbank	91502
+Elmwood Avenue	Los Angeles	90004
+Elmwood Avenue	Lynwood	90262
+Elmwood Avenue	Vallejo	94591
+Elmwood Avenue	Van Nuys	91401
+Elmwood Court	Linda	95901
+Elmwood Court	Livingston	95334
+Elmwood Ct	Berkeley	94705
+Elmwood Ct	Chula Vista	91915
+Elmwood Ct	Hillsborough	94010
+Elmwood Ct	Lodi	95242
+Elmwood Ct	Modesto	95354
+Elmwood Ct	Moreno Valley	92553
+Elmwood Ct	Novato	94945
+Elmwood Ct	Redlands	92374
+Elmwood Ct	Riverside	92506
+Elmwood Ct	Rocklin	95677
+Elmwood Ct	Roseville	95678
+Elmwood Ct	San Bernardino	92410
+Elmwood Ct	San Bruno	94066
+Elmwood Ct	San Rafael	94901
+Elmwood Ct	Turlock	95380
+Elmwood Ct	Walnut Creek	94597
+Elmwood Dr	Chula Vista	91915
+Elmwood Dr	Daly City	94015
+Elmwood Dr	Escondido	92025
+Elmwood Dr	Lake Arrowhead	92352
+Elmwood Dr	Magalia	95954
+Elmwood Dr	Millbrae	94030
+Elmwood Dr	Petaluma	94954
+Elmwood Dr	Rancho Cucamonga	91730
+Elmwood Dr	Rancho Mirage	92270
+Elmwood Dr	Riverside	92506
+Elmwood Dr	Roseville	95678
+Elmwood Dr	San Jose	95130
+Elmwood Dr	San Ramon	94583
+Elmwood Dr	Santa Barbara Unincorporated	93455
+Elmwood Dr	Santa Maria	93455
+Elmwood Dr	Santee	92071
+Elmwood Dr	Victorville	92395
+Elmwood Dr	Walnut Creek	94597
+Elmwood Drive	Davis	95616
+Elmwood Drive	Greenfield	93927
+Elmwood Drive	Los Banos	93635
+Elmwood Drive	Pasadena	91105
+Elmwood Lane	Stevenson Ranch	91381
+Elmwood Ln	Hayward	94541
+Elmwood Ln	Huntington Beach	92646
+Elmwood Ln	Huntington Beach	92646-1811
+Elmwood Ln	Huntington Beach	92646-1812
+Elmwood Ln	Manteca	95336
+Elmwood Ln	Yucaipa	92399
+Elmwood Pl	Big Bear City	92314
+Elmwood Pl	Mckinleyville	95519
+Elmwood Pl	Menlo Park	94025
+Elmwood Rd	El Sobrante	94803
+Elmwood Rd	Madera	93638
+Elmwood Rd	San Bernardino	92404
+Elmwood Rd	San Bernardino	92410
+Elmwood St	Carlsbad	92008
+Elmwood St	Corona	92883
+Elmwood St	Fillmore	93015
+Elmwood St	Garden Grove	92840
+Elmwood St	Garden Grove	92843
+Elmwood St	Mountain View	94043
+Elmwood St	Perris	92570
+Elmwood St	Redding	96001
+Elmwood St	San Marcos	92078
+Elmwood St	Thousand Oaks	91320
+Elmwood Ter	Santa Rosa	95401
+Elmwood Way	Livingston	95334
+Elmwood Way	San Marcos	92078
+Elmyra Ave	Bakersfield	93305

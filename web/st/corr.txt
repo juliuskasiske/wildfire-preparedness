@@ -1,0 +1,152 @@
+Corradi Terrace	Acton	93510
+Corral	Pacific Grove	93950
+Corral Ave	Sunnyvale	94086
+Corral Bottom Rd	Big Bar	96010
+Corral Bottom Rd	Hyampom	96046
+Corral Canyon Rd	Bonita	91902
+Corral Canyon Rd	Chula Vista	91913
+Corral Canyon Road	Malibu	90265
+Corral Canyon Trl	Campo	91906
+Corral Canyon Trl	Pine Valley	91962
+Corral Cir	Banning	92220
+Corral Cir	Huntington Beach	92648
+Corral Cir	Huntington Beach	92648-1532
+Corral Cir	Huntington Beach	92648-1533
+Corral Cir	Huntington Beach	92648-1534
+Corral Cir	San Ramon	94583
+Corral Court	Walnut	91789
+Corral Creek Ave	Paso Robles	93446
+Corral Ct	Bonita	91902
+Corral Ct	Brawley	92227
+Corral Ct	Folsom	95630
+Corral Ct	Helendale	92342
+Corral Ct	Imperial	92251
+Corral Ct	Menifee	92585
+Corral Ct	Rancho Cucamonga	91737
+Corral Ct	Rancho Mission Viejo	92675
+Corral Ct	Redding	96002
+Corral Ct	Rocklin	95765
+Corral Ct	Valley Center	92082
+Corral De Cielo	Salinas	93908
+Corral De Piedra Rd	San Luis Obispo	93401
+Corral De Quati Rd	Los Olivos	93441
+Corral De Tierra	Salinas	93908
+Corral De Tierra Road	Carmel Valley	93924
+Corral De Tierra Road	Salinas	93908
+Corral De Tierra Terrace	Salinas	93908
+Corral Del Cielo	Salinas	93908
+Corral Del Cielo Road	Salinas	93908
+Corral Del Tierra Road	Salinas	93908
+Corral Dr	Auburn	95603
+Corral Dr	Coarsegold	93614
+Corral Drive	Pebble Beach	93953
+Corral Drive	Three Rivers	93271
+Corral Gln	Escondido	92026
+Corral Pl	Arroyo Grande	93420
+Corral Pl	Galt	95632
+Corral Place	Santa Fe Springs	90670
+Corral Rd	Bell Canyon	91307
+Corral Rd	Cathedral City	92234
+Corral Rd	Forest Falls	92339
+Corral Rd	Helendale	92342
+Corral Rd	Herlong	96113
+Corral River Ct	Fountain Valley	92708
+Corral Road	Los Banos	93635
+Corral Run	Carmel	93923
+Corral St	Corcoran	93212
+Corral St	Corcoran	93291
+Corral St	Jurupa Valley	92509
+Corral St	Norco	92860
+Corral St	Simi Valley	93063
+Corral St	Victorville	92394
+Corral St	Yermo	92398
+Corral Way	Hemet	92545
+Corral Way	La Jolla	92037
+Corral Way	Riverbank	95367
+Corrala Vista	Watsonville	95076
+Corralejo	Mission Viejo	92692
+Corrales	Calexico	92231
+Corrales Ave	Calexico	92231
+Corrales Dr	San Jose	95136
+Corrales Ln	Chula Vista	91910
+Corrales St	Calexico	92231
+Corralitas Drive	Los Angeles	90039
+Corralitos	Watsonville	95076
+Corralitos Ave	San Luis Obispo	93401
+Corralitos Ln	San Jose	95127
+Corralitos Rd	Arroyo Grande	93420
+Corralitos Ridge	Watsonville	95076
+Corralitos View	Watsonville	95076
+Corraza Ln	Wildomar	92595
+Corre Camino	Vista	92084
+Corre Camino Way	Vista	92084
+Correa Ln	Spring Valley	91977
+Correa Way	Los Angeles	90049
+Correas St	Half Moon Bay	94019
+Corregidor Ave	Firebaugh	93622
+Corregidor Ave	Indio	92201
+Corregidor Dr	Cathedral City	92234
+Corregidor Road	Seaside	93955
+Corregidor St	Fort Irwin	92310
+Corregidora Ave	Bakersfield	93307
+Correia Pl	Manteca	95337
+Correl De Tierra Road	Salinas	93908
+Correll Rd	Heber	92249
+Correll Road	Meridian	95957
+Correll St	Riverside	92504
+Correll Way	Rancho Cordova	95670
+Correnti Street	Pacoima	91331
+Correspondence Dr	Rancho Cucamonga	91730
+Correspondence Pl	Rancho Cucamonga	91730
+Corriander Ct	Bakersfield	93309
+Corrib Ct	Hollister	95023
+Corrick Rd	Santa Rosa	95409
+Corrida Cir	San Jose	95129
+Corrida Dr	San Luis Obispo	93401
+Corrido Way	South San Francisco	94080
+Corridor Dr	Eastvale	91752
+Corridor Park	Banning	92220
+Corridor St	San Diego	92131
+Corrie Ct	Brentwood	94513
+Corrie Ct	Truckee	96161
+Corrie Ln	Walnut Creek	94597
+Corrie Pl	Alamo	94507
+Corrie Pl	Pleasant Hill	94523
+Corriedale  Ct Danville Ca 94506	Danville	94506
+Corriente	Irvine	92614
+Corriente Ct	Camarillo	93010
+Corriente Ct	Temecula	92592
+Corriente Ln	Mission Viejo	92691
+Corriente Pointe Dr	Redwood City	94065
+Corriente Rd	Atascadero	93422
+Corriente Way	Lincoln	95648
+Corrientes St	Bakersfield	93306
+Corrietta Ct	Templeton	93465
+Corrigan Avenue	Downey	90241
+Corrigan Avenue	Downey	90242
+Corrigan Court	Benicia	94510
+Corrigan Court	La Verne	91750
+Corrigan Ct	Folsom	95630
+Corrigan Ct	Roseville	95747
+Corrigan Pl	Temecula	92591
+Corrigan St	San Diego	92129
+Corrigan St	Santa Rosa	95407
+Corrillo Dr	San Rafael	94903
+Corrin Way	Elk Grove	95757
+Corrine Cir	Huntington Beach	92647
+Corrine Cir	Huntington Beach	92647-4309
+Corrine Hill Ct	Thousand Oaks	91320
+Corrine Lake Rd	North Fork	93643
+Corrine Ln	Modesto	95356
+Corrine St	Bakersfield	93304
+Corrine St	Hayward	94544
+Corrington Avenue	Cerritos	90703
+Corrinne Ct	San Ramon	94583
+Corrinne Lane	Rowland Heights	91748
+Corrinne Pl	San Ramon	94583
+Corrinne St	San Ramon	94583
+Corrinne Way	Riverside	92504
+Corritone Ct	Pleasant Hill	94523
+Corry Place	Santa Clarita	91350
+Corryne Pl	Culver City	90230
+Corryne Place	Culver City	90230

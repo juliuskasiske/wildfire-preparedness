@@ -1,0 +1,606 @@
+N P	Imperial	92251
+N P St	Lompoc	93436
+N P St	Madera	93637
+N Pacheta Sq	Thousand Palms	92276
+N Pacific	Maxwell	95955
+N Pacific Av	Lodi	95242
+N Pacific Av	Rio Dell	95562
+N Pacific Av	Stockton	95207
+N Pacific Ave	Fresno	93705
+N Pacific Ave	Fresno	93706
+N Pacific Ave	Fresno	93711
+N Pacific Ave	Fresno	93728
+N Pacific Ave	Huntington Beach	90742
+N Pacific Ave	Santa Ana	92703
+N Pacific Ave	Santa Ana	92706
+N Pacific Ave	Solana Beach	92075
+N Pacific Ave	Ventura	93001
+N Pacific Coast Hwy	Ventura	93001
+N Pacific St	Maxwell	95955
+N Pacific St	Maxwell	95993
+N Pacific St	Oceanside	92054
+N Pacific St	Orange	92865
+N Pacific St	Orcutt	93455
+N Pacific St	San Marcos	92069
+N Pacificenter Dr	Ana	92806
+N Pacificenter Dr	Anaheim	92806
+N Pacificenter Dr	Anaheim	92807
+N Padano Ln	Mh	95391
+N Paddy Creek Ln	Lodi	95240
+N Padre Juan	Ojai	93023
+N Padre Juan Av	Ojai	93023
+N Padre Juan Ave	Ojai	93023
+N Padua Dr	Anaheim	92801
+N Page Ave	Fresno	93730
+N Page Ct	Woodbridge	95258
+N Pageant Dr	Orange	92869
+N Pageant St	Anaheim	92807
+N Paintbrush Dr	Orange	92869
+N Pala Pl	Orange	92867
+N Palermo Ave	Upland	91784
+N Palermo Ct	Orange	92867
+N Palermo Dr	Palm Springs	92262
+N Palisade Dr	Santa Maria	93454
+N Palladian St	Mh	95391
+N Palm	Brawley	92227
+N Palm Av	Stockton	95205
+N Palm Ave	Beaumont	92223
+N Palm Ave	Blythe	92225
+N Palm Ave	Brawley	92227
+N Palm Ave	Colton	92324
+N Palm Ave	Fresno	93650
+N Palm Ave	Fresno	93701
+N Palm Ave	Fresno	93704
+N Palm Ave	Fresno	93711
+N Palm Ave	Fresno	93728
+N Palm Ave	Grand Terrace	92313
+N Palm Ave	Hemet	92543
+N Palm Ave	Highland	92346
+N Palm Ave	National City	91950
+N Palm Ave	Ontario	91762
+N Palm Ave	Orange	92865
+N Palm Ave	Rialto	92376
+N Palm Ave	Rialto	92377
+N Palm Ave	San Bernardino	92407
+N Palm Ave	San Jacinto	92582
+N Palm Ave	Santa Paula	93060
+N Palm Ave	Turlock	95380
+N Palm Ave	Upland	91784
+N Palm Ave	Upland	91786
+N Palm Bluffs Ave	Fresno	93650
+N Palm Bluffs Ave	Fresno	93711
+N Palm Canyon Dr	Palm Springs	92262
+N Palm Desertgreens Dr	Palm Desert	92260
+N Palm Dr	Blythe	92225
+N Palm Dr	Brawley	92227
+N Palm Dr	Orange	92868
+N Palm Dr	San Bernardino	92405
+N Palm Dr	Vista	92084
+N Palm Pl	Porterville	93257
+N Palm Springs Wy	Mh	95391
+N Palm St	Blythe	92225
+N Palm St	Brawley	92227
+N Palm St	Bre	92821
+N Palm St	Brea	92821
+N Palm St	Ful	92835
+N Palm St	Fullerton	92835
+N Palm St	Hemet	92543
+N Palm St	La Habra	90631
+N Palm St	Lah	90631
+N Palm St	Porterville	93257
+N Palm St	Santa Paula	93060
+N Palm St	Turlock	95380
+N Palm St	Ventura	93001
+N Palm St	Visalia	93292
+N Palm Way	Upland	91784
+N Palmetto Ave	Ontario	91762
+N Palmetto Ave	Rialto	92376
+N Palmetto Ave	Rialto	92377
+N Palo Alto Ct	Mh	95391
+N Palo Alto Pl	Orange	92869
+N Palo Alto Rd	Altu	96101
+N Palo Alto St	Mh	95391
+N Palo Loma Pl	Orange	92869
+N Palo Verde	Indio	92201
+N Palo Verde Cir	Camarillo	93012
+N Palo Verde Dr	Indio	92201
+N Paloma Ct	Bre	92823
+N Paloma Curv	Upland	91784
+N Palomar Ave	San Jacinto	92582
+N Palomar St	San Jacinto	92582
+N Palomino Ave	Upland	91784
+N Palomino Ave	Upland	91786
+N Palomino Cir	Paso Robles	93446
+N Palomino Dr	Somis	93066
+N Palos Verde Cir	Camarillo	93012
+N Pami Cir	Orange	92867
+N Pampas Ave	Rialto	92376
+N Pampas St	Orange	92865
+N Pan Springs Ln	Big Bear City	92314
+N Pansy Ave	Upland	91784
+N Paradise Creek Ln	Valley Center	92082
+N Paradise Ct	Anaheim	92806
+N Paradise Palm Ln	Anaheim	92801
+N Paradise Pl	Anaheim	92806
+N Paradise Ridge Way	Chula Vista	91915
+N Paradise St	Anaheim	92806
+N Paradise Valley	Carson	90745
+N Paradise Way	Big Bear City	92314
+N Parc West Dr	Fresno	93723
+N Paris Cir	Upland	91784
+N Parish Pl	Burbank	91504
+N Parish Pl	Burbank	91506
+N Park	Calipatria	92233
+N Park Ave	Avenal	93204
+N Park Ave	Banning	92220
+N Park Ave	Calipatria	92233
+N Park Ave	Chino	91710
+N Park Ave	Fresno	93701
+N Park Ave	Fresno	93721
+N Park Ave	Fresno	93728
+N Park Ave	Hanford	93230
+N Park Ave	Hemet	92544
+N Park Ave	Rialto	92376
+N Park Ave	Rialto	92377
+N Park Ave	San Bernardino	92404
+N Park Blvd	Pittsburg	94565
+N Park Blvd E	Upland	91784
+N Park Blvd W	Upland	91784
+N Park Center Dr	Santa Ana	92705
+N Park Ct	Visalia	93291
+N Park Dr	El Cajon	92021
+N Park Dr	Ione	95640
+N Park Dr	Madera	93637
+N Park Dr	Porterville	93257
+N Park Dr	Sacramento	95821
+N Park Dr	Sacramento	95835
+N Park Dr	San Bernardino	92407
+N Park Glen Cir	Santa Ana	92706
+N Park Lk	Santa Ana	92705
+N Park Ln	Orange	92865
+N Park Ln	Orange	92867
+N Park Ln	San Bernardino	92404
+N Park Ln	San Bernardino	92410
+N Park Pl	Porterville	93257
+N Park Place Dr	Fresno	93720
+N Park Ridge Ct	Riverbank	95367
+N Park Springs Ct	Oak Park	91377
+N Park St	Banning	92220
+N Park St	Piru	93040
+N Park St	Porterville	93257
+N Park St	Simi Valley	93063
+N Park St	Thousand Oaks	91362
+N Park St	Visalia	93291
+N Park Victoria Dr	Milpitas	95035
+N Park View Cir	Oak Park	91377
+N Park View Dr	Oak Park	91377
+N Park View St	Porterville	93257
+N Park Villa Cir	Villa Park	92867
+N Park Villa Ln	Villa Park	92867
+N Park Vista St	Anaheim	92806
+N Park Way	San Diego	92104
+N Parkdale	Simi Valley	93063
+N Parkdale Ave	Simi Valley	93063
+N Parker Ave	Friant	93626
+N Parker Ct	Simi Valley	93065
+N Parker St	Orange	 
+N Parker St	Orange	92867
+N Parker St	Orange	92868
+N Parkhaven Dr	Anaheim	92801
+N Parkhurst Dr	Orange	92867
+N Parks Rd	Fullerton	92833
+N Parkside Ave	Ontario	91764
+N Parkside Ct	Ontario	91764
+N Parkside Dr	Ontario	91764
+N Parkside Dr	Pittsburg	94565
+N Parkside Dr	San Bernardino	92404
+N Parkside Pl	San Bernardino	92404
+N Parkside St	Visalia	93291
+N Parkview Ave	Daly City	94014
+N Parkview Dr	Fresno	93722
+N Parkview Dr	Fresno	93728
+N Parkway Dr	Fresno	93705
+N Parkway Dr	Fresno	93706
+N Parkway Dr	Fresno	93722
+N Parkway Dr	Fresno	93728
+N Parkway Esplanade	La Quinta	92253
+N Parkwest Dr	Porterville	93257
+N Parkwood Ct	Visalia	93291
+N Parkwood St	Anaheim	92801
+N Parrish Way	Fresno	93711
+N Parsons Pl	Santa Ana	92703
+N Parsons St	La Habra	90631
+N Parton St	Santa Ana	92701
+N Parton St	Santa Ana	92706
+N Partridge Ln	Acampo	95220
+N Partridge St	Anaheim	92806
+N Pasadena Ave	Fallbrook	92028
+N Pasadena Ave	Waterford	95386
+N Pasadena St	Santa Ana	92705
+N Paseo Campo	Ana	92807
+N Paseo Campo	Anaheim	92807
+N Paseo De Anza	Palm Springs	92262
+N Paseo De Juan	Ana	92807
+N Paseo De Juan	Anaheim	92807
+N Paseo De La Palma	Palm Springs	92264
+N Paseo Dr	Bre	92823
+N Paseo Madero	Ana	92807
+N Paseo Madero	Anaheim	92807
+N Paseo Mercado	Oxnard	93036
+N Paseo Picaro	Ana	92807
+N Paseo Picaro	Anaheim	92807
+N Paseo Rio Blanco	Ana	92807
+N Paseo Rio Blanco	Anaheim	92807
+N Paseo Rio Moreno	Ana	92807
+N Paseo Rio Moreno	Anaheim	92807
+N Paseo Robles	Ana	92807
+N Paseo Robles	Anaheim	92807
+N Paso Robles Dr	Mh	95391
+N Pass Av	Burbank	91505
+N Pass Ave	Burbank	91505
+N Pass Ave Av	Burbank	91505
+N Pastoria Av	Sunnyvale	94085
+N Pastoria Ave	Sunnyvale	94085
+N Pastoria Ave	Sunnyvale	94085-2915
+N Pastoria Ave	Sunnyvale	94086
+N Pastoria Ave	Sunnyvale	95085
+N Patassi Way	Upland	91784
+N Patencio Rd	Palm Springs	92262
+N Patricia Ave	Colton	92324
+N Patricia Ct	San Bernardino	92407
+N Patricia Ln	Santa Ana	92701
+N Patrician Dr	Villa Park	92867
+N Patrick Dr	Villa Park	92867
+N Patrick Rd	Stockton	95215
+N Patriot Ave	Fresno	93722
+N Patriot St	Visalia	93291
+N Patsy Dr	Porterville	93257
+N Patsy Ln	Porterville	93257
+N Patsy St	Porterville	93257
+N Patt St	Anaheim	92801
+N Patterson Av	Goleta	93117
+N Patterson Av	Santa Barbara Unincorporated	93111
+N Patterson Av	Santa Barbara Unincorporated	93117
+N Patterson Av	Stockton	95215
+N Patterson Rd	Oxnard	93036
+N Patterson Way	San Bernardino	92405
+N Patti Ln	Santa Ana	92706
+N Patton Av	Stockton	95215
+N Paula Ave	Clovis	93611
+N Paula Ave	Fresno	93720
+N Pauline St	Anaheim	92801
+N Pauline St	Anaheim	92805
+N Peach Ave	Clovis	93619
+N Peach Ave	Fresno	93727
+N Peach Ct	Lockeford	95237
+N Peach Knl	Anaheim	92805
+N Peach Knoll	Anaheim	92805
+N Peacock Ave	Highland	92346
+N Peak Dr	Rancho Santa Margarita	92679
+N Peak Pl	Martinez	94553
+N Peak Rd	Julian	92036
+N Peak Vista Dr	Lakeside	92040
+N Peak Way	Julian	92036
+N Pear Knl	Anaheim	92805
+N Pear Knoll	Anaheim	92805
+N Peardale Dr	Lafayette	94549
+N Pearl	Salinas	93905
+N Pearl Rd	Acampo	95220
+N Pearl Rd	Galt	95632
+N Pearl St	Anaheim	92801
+N Pearl Street	Salinas	93905
+N Pearl Street Street	Salinas	93905
+N Pearson Dr	Porterville	93257
+N Pearson Rd	Lodi	95240
+N Pearwood Ave	Fresno	93727
+N Pebble Beach Trl	Oxnard	93036
+N Pebble Ct	Woodbridge	95258
+N Pebble Ru	Woodbridge	95258
+N Pecan Ave	Reedley	93654
+N Pecan St	Cabazon	92230
+N Peck Rd	Santa Paula	93060
+N Pecorino Pl	Mh	95391
+N Peking St	Ventura	93001
+N Pelago Ct	Visalia	93291
+N Pellisier Rd	Colton	92324
+N Peltier Ct	Acampo	95220
+N Penlan Ave	Simi Valley	93063
+N Penn Ct	Colton	92324
+N Penn Way	Santa Ana	92701
+N Pennant Dr	Lodi	95242
+N Pennsfield Pl	Thousand Oaks	91360
+N Pennsylvania Ave	Colton	92324
+N Pennsylvania Ave	San Bernardino	92407
+N Pennsylvania Ave	San Bernardino	92411
+N Pennsylvania Ct	San Bernardino	92411
+N Pennsylvania Rd	Modesto	95357
+N Pennsylvania St	Lake Elsinore	92530
+N Peoria Ave	Simi Valley	93063
+N Pepper Ave	Colton	92324
+N Pepper Ave	Rialto	92376
+N Pepper Ct	Highland	92346
+N Pepper Dr	Highland	92346
+N Pepper St	Burbank	91505
+N Pepper St	Highland	92346
+N Pepper Tree Dr	Bre	92821
+N Pepper Tree Ln	San Bernardino	92404
+N Pepper Wood Cir	Orange	92869
+N Pepperdine Cir	Moorpark	93021
+N Pepperdine Dr	San Bernardino	92407
+N Peppertree Ct	Visalia	93291
+N Peppertree St	Visalia	93291
+N Peregrine Cir	Oak Park	91377
+N Peregrine Ct	Sanger	93657
+N Pergola Ct	Mh	95391
+N Perimeter Rd	Menlo Park	94025
+N Perris	San Bernardino	92411
+N Perris Blvd	Perris	92570
+N Perris Blvd	Perris	92571
+N Perris Hill Park Rd	San Bernardino	92404
+N Perris St	San Bernardino	92411
+N Perry Way	Fresno	93727
+N Perryman Rd	Lodi	95242
+N Pershing Av	Stockton	95203
+N Pershing Av	Stockton	95204
+N Pershing Av	Stockton	95207
+N Pershing Av	Stockton	95209
+N Pershing Av	Stockton	95211
+N Pershing Ave	San Bernardino	92401
+N Pershing Ave	San Bernardino	92405
+N Pershing Ave	San Bernardino	92407
+N Pershing Ave	San Bernardino	92410
+N Pescaria Wy	Mh	95391
+N Pestana Pl	Acampo	95220
+N Peter Ave	Big Bear City	92314
+N Peter Dr	Campbell	95008
+N Peterkin Pl	Bre	92821
+N Pettis Way	Porterville	93257
+N Pezzi Rd	Stockton	95212
+N Pezzi Rd	Stockton	95215
+N Pheasant Run Dr	Fresno	93730
+N Pheasant St	Anaheim	92806
+N Phelan Dr	Villa Park	92867
+N Phil Ochs Ave	Rialto	92377
+N Philadelphia St	Anaheim	92805
+N Phillip Ave	Fresno	93727
+N Phillips Ave	Banning	92220
+N Phillips Rd	Palm Springs	92262
+N Phillips St	Banning	92220
+N Phillips St	Hanford	93230
+N Phoenix Ave	Fresno	93723
+N Phyllis St	Simi Valley	93065
+N Piano Ct	Mh	95391
+N Picadilly Way	Fullerton	92833
+N Picasso Ave	Hanford	93230
+N Piccadilly Ln	Porterville	93257
+N Piccoli Rd	Stockton	95215
+N Pico Ave	Fallbrook	92028
+N Pico Ave	San Bernardino	92405
+N Pico Ave	San Bernardino	92410
+N Pico Ave	San Bernardino	92411
+N Pico Canyon Ln	Bre	92821
+N Pico Canyon Ln	Brea	92821
+N Piedmont Ave	San Bernardino	92346
+N Piedmont Ct	Highland	92346
+N Piedmont Dr	Ana	92807
+N Piedmont Dr	Anaheim	92807
+N Piedra Rd	Sanger	93657
+N Pienza St	Visalia	93291
+N Pierce Ave	Fresno	93727
+N Pierce St	Coalinga	93210
+N Pierce St	El Cajon	92020
+N Pierce St	El Cajon	92021
+N Pierce St	Escondido	92026
+N Pierpont Cir	Fresno	93730
+N Pilgrim St	Stockton	95205
+N Pima Ave	Fresno	93722
+N Pinasco Rd	Stockton	95215
+N Pine Ave	Rialto	92376
+N Pine Ave	San Bernardino	92407
+N Pine Mountain Dr	Big Bear City	92314
+N Pine Pl	Anaheim	92805
+N Pine St	Anaheim	92805
+N Pine St	Coalinga	93210
+N Pine St	Escondido	92025
+N Pine St	Hanford	93230
+N Pine St	Madera	93637
+N Pine St	Orange	92865
+N Pine St	Orange	92866
+N Pine St	Orange	92867
+N Pine St	Santa Maria	93458
+N Pine St	Ukiah	 
+N Pine Way	Anaheim	92805
+N Pinebrook Ave	Upland	91786
+N Pinebury Way	Clovis	93619
+N Pinecove Cir	Ana	92807
+N Pinecove Cir	Anaheim	92807
+N Pinegrove Rd	Santa Paula	93060
+N Pineview Ave	Upland	91784
+N Pinewood Ave	Oak Park	91377
+N Pinewood Ave	Rialto	92376
+N Pinewood Ln	Upland	91786
+N Pinewood St	Orange	92865
+N Pinkham St	Visalia	93292
+N Pinnacle Ln	San Bernardino	92407
+N Pinney Dr	Anaheim	92807
+N Pinon Ct	Highland	92346
+N Pinot Cir	Upland	91784
+N Pintura Cir	Palm Springs	92264
+N Pioneer Ave	Thousand Oaks	91360
+N Pioneer Cir	Jackson	95642
+N Pioneer Dr	Anaheim	92805
+N Pippin	Santa Cruz	95065
+N Pisa St	Visalia	93291
+N Pixley St	Orange	92868
+N Placentia Ave	Anaheim	92806
+N Placentia Ave	Ful	92835
+N Placentia Ave	Fullerton	92831
+N Placentia Ave	Fullerton	92870
+N Placentia Ave	Pla	92870
+N Placentia Ave	Placentia	92870
+N Placer Ave	Ontario	91764
+N Placer Pl	Ontario	91764
+N Placer Privado	Ontario	91764
+N Planetree Av	Simi Valley	93065
+N Planetree Ave	Simi Valley	93065
+N Plano St	Porterville	93257
+N Plantation Pl	Anaheim	92806
+N Platanal Dr	Villa Park	92867
+N Platte Way	Sacramento	95835
+N Plaza	Brawley	92227
+N Plaza Amigo	Palm Springs	92262
+N Plaza Dr	Visalia	93291
+N Plaza St	Brawley	92227
+N Pleasant Av	Lodi	95240
+N Pleasant Ave	Fresno	93705
+N Pleasant Ave	Fresno	93711
+N Pleasant Ave	Fresno	93728
+N Pleasant Ave	Ontario	91764
+N Pleasant Cir	Hanford	93230
+N Pleman Pl	Santa Maria	93458
+N Plum Av	Stockton	95212
+N Plum Ave	Ontario	91764
+N Plum Ln	Fresno	93711
+N Plum Ln	Hanford	93230
+N Plum Tree Ave	Rialto	92377
+N Plum Way	Porterville	93257
+N Plum Way	Upland	91786
+N Plumas Ave	Kerman	93630
+N Plumas Dr	Mh	95391
+N Plumeria Ave	Upland	91784
+N Plymouth Rd	Stockton	95204
+N Plymouth Rd	Stockton	95207
+N Plymouth Way	San Bernardino	92408
+N Poconos Cir	Upland	91786
+N Podesta Ln	Linden	95236
+N Poe St	Lake Elsinore	92530
+N Poinsettia Ave	Bre	92821
+N Poinsettia Ave	Brea	92821
+N Poinsettia Ave	Sanger	93657
+N Poinsettia Park	Encinitas	92024
+N Poinsettia St	Santa Ana	92701
+N Poinsettia St	Santa Ana	92706
+N Point Ct	Pine Grove	95665
+N Point Dr	Paradise	95969
+N Point Way	Sacramento	95831
+N Pointe Dr	Bre	 
+N Pointe Dr	Bre	92821
+N Pointe Dr	Lake Forest	92630
+N Poli Ave	Ojai	93023
+N Poli St	Ojai	93023
+N Poli St	Ventura	93001
+N Polk Ave	Fresno	93722
+N Polk Ave	Fresno	93723
+N Polk St	Lakeport	95453
+N Polk St	Placentia	92870
+N Pomelo Ave	Bre	92821
+N Pomona Ave	Fullerton	92832
+N Pond Ct	Lafayette	94549
+N Ponderosa Ave	Bre	92821
+N Ponderosa Ave	Ontario	91761
+N Ponderosa Ave	Rialto	92377
+N Ponderosa Dr	Camarillo	93010
+N Ponderosa Dr	Fresno	93720
+N Ponderosa Dr	Fresno	93730
+N Ponderosa St	Santa Ana	92705
+N Ponoma St	Port Hueneme	93041
+N Pony Ln	Lodi	95240
+N Ponziano Pl	Mh	95391
+N Pope Ave	Fresno	93723
+N Poplar Ave	Bre	92821
+N Poplar Ave	Fresno	93701
+N Poplar Ave	Fresno	93704
+N Poplar Ave	Fresno	93711
+N Poplar Ave	Fresno	93728
+N Poplar Pl	Anaheim	92805
+N Poplar St	Anaheim	92805
+N Poplar St	Orange	92868
+N Poplar St	Santa Ana	92706
+N Poppy Dr	Rialto	92377
+N Poppy St	Lompoc	93436
+N Poppyridge St	Mh	95391
+N Porsche Way	Ontario	91764
+N Port Cir	Mecca	92254
+N Portal Ave	Cupertino	95014
+N Portales Dr	Cathedral City	92234
+N Porter Ave	Sanger	93657
+N Porter Rd	Porterville	93257
+N Porter St	Fallbrook	92028
+N Porter St	Santa Ana	92701
+N Portofino Dr	Fresno	93730
+N Portola	Laguna Beach	92651
+N Portsmouth Cir	Orange	92869
+N Post Ave	Sanger	93657
+N Post Ln	Ana	92807
+N Post Ln	Anaheim	92807
+N Potomac Cir	Ana	92807
+N Potomac Cir	Anaheim	92807
+N Potrero St	San Jacinto	92582
+N Potter Ave	Simi Valley	93065
+N Potter Ave	Thousand Oaks	91360
+N Potter Cir	Villa Park	92867
+N Powder Horn Dr	Anaheim	92807
+N Powell Ave	Lemoore	93245
+N Powell Ct	Visalia	93291
+N Powerhouse Rd	Sanger	93657
+N Powers Av	Manteca	95336
+N Powers Ave	Manteca	95336
+N Pradera Rd	Camarillo	93012
+N Prado Woods Dr	Villa Park	92867
+N Prairie Flower Rd	Turlock	95380
+N Prairie Willow Ct	Concord	94521
+N Prather St	Simi Valley	93065
+N Pratos Ct	Visalia	93291
+N Pratos St	Visalia	93291
+N Preakness Ct	Aguanga	92536
+N Preisker Ln	Santa Maria	93454
+N Preisker Ln	Santa Maria	93458
+N Prelude Dr	Ana	92807
+N Prelude Dr	Anaheim	92807
+N Premiere Dr	Fresno	93730
+N Preston Dr	Calexico	92231
+N Preston St	Orange	92867
+N Preston St	San Bernardino	92410
+N Preston St	Visalia	93291
+N Price Ave	Fresno	93703
+N Price Ave	Fresno	93710
+N Price Ave	Fresno	93720
+N Price Ave	Fresno	93726
+N Price Ave	Fresno	93730
+N Pride Ct	Visalia	93291
+N Primitivo Way	Fresno	93710
+N Primrose Ave	Rialto	92376
+N Primrose Ln	Upland	91784
+N Prince Ave	Firebaugh	93622
+N Princeland Ct	Corona	92879
+N Princess Ave	Fresno	93722
+N Princeton Ave	Coalinga	93210
+N Princeton Ave	Fullerton	92831
+N Priscilla Ln	Burbank	91505
+N Pritchard Ave	Fullerton	92833
+N Promontory Way	Orange	92867
+N Prospect Ave	Fresno	93711
+N Prospect Ave	Fresno	93722
+N Prospect Ave	Tustin	92780
+N Prospect Dr	Upland	91784
+N Prospect St	Orange	92869
+N Prospect St	Porterville	93257
+N Providence Dr	Villa Park	92867
+N Prundedale Road	Salinas	93907
+N Prunedale	Salinas	93907
+N Prunedale Road	Salinas	93907
+N Puccini Wy	Mh	95391
+N Pueblo Av	Ojai	93023
+N Pueblo Ave	Ojai	93023
+N Pueblo St	Ojai	93023
+N Puente Dr	Mh	95391
+N Puente St	Bre	92821
+N Puente St	Brea	92821
+N Pullman Ave	Santa Maria	93458
+N Pullman St	Anaheim	92807
+N Pullman St	Ybl	92887
+N Pump House Ln	Santa Paula	93060
+N Punjab Ave	Clovis	93619
+N Purdue Ave	Clovis	93619
+N Purdue Ave	Fresno	93727
+N Purviance St	Linden	95236

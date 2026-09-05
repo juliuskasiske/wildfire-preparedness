@@ -1,0 +1,96 @@
+F Anna Sparks Wy	Mckinleyville	95519
+F Austin Ln	El Centro	92243
+F Ave	Auburn	95603
+F Ave	Big Bear City	92314
+F Ave	Bombay Beach	92257
+F Ave	Coronado	92118
+F Ave	National City	91950
+F. D. R. Trl	Oroville	95966
+F E Villa Ave	El Centro	92243
+F Evan Hewes Hwy	Ocotillo	92259
+F Herrera St	Calexico	92231
+F Klose Way	Richmond	94806
+F Main St	Ventura	93003
+F Pedroza	Calexico	92231
+F Pedroza Ct	Calexico	92231
+F Pedroza Rd	Calexico	92231
+F Pine Creek Wy	Concord	94520
+F Pkwy	Sacramento	95823
+F St	Antioch	94509
+F St	Arcata	95521
+F St	Bakersfield	93301
+F St	Bakersfield	93304
+F St	Barstow	92311
+F St	Belmont	94002
+F St	Biggs	95917
+F St	Blue Lake	95521
+F St	Blue Lake	95525
+F St	Borrego Springs	92004
+F St	Cathedral City	92234
+F St	Cayucos	93430
+F St	Chino	91710
+F St	Chula Vista	91910
+F St	Colma	94014
+F St	Concord	94518
+F St	Crescent City	95531
+F St	Crows Landing	95313
+F St	Eureka	95501
+F St	Eureka	95503
+F St	Fresno	93706
+F St	Galt	95632
+F St	Havasu Lake	92363
+F St	Hemet	92544
+F St	Isleton	95641
+F St	Kerman	93630
+F St	Lemoore	93245
+F St	Lincoln	95648
+F St	Lower Lake	95457
+F St	Martinez	94553
+F St	Menifee	92587
+F St	Modesto	95351
+F St	Modesto	95354
+F St	Monte Rio	95462
+F St	Napa	94559
+F St	National City	91950
+F St	Needles	92363
+F St	Oxnard	93030
+F St	Patterson	95363
+F St	Perris	92570
+F St	Petaluma	94952
+F St	Ramona	92065
+F St	Redwood City	94063
+F St	Reedley	93654
+F St	Sacramento	95811
+F St	Sacramento	95814
+F St	Sacramento	95816
+F St	Sacramento	95819
+F St	San Diego	92101
+F St	San Diego	92102
+F St	San Rafael	94901
+F St	Santa Barbara Unincorporated	93455
+F St	Santa Margarita	93453
+F St	Selma	93662
+F St	Sheridan	95681
+F St	Tracy	95376
+F St	Tres Pinos	95023
+F St	Trona	93562
+F St	Union City	94587
+F St	Upland	91786
+F St	Waterford	95386
+F St	West Sacramento	95605
+F St	Williams	95987
+F St	Winterhaven	92283
+F St	Yermo	92398
+F St & Euclid Ave SW	Ontario	91762
+F Street	City Of Marysville	95901
+F Street	City Of Wheatland	95692
+F Street	Davis	95616
+F Street	La Verne	91750
+F Street	Livingston	95334
+F Street	Los Banos	93635
+F Street	Los Banos	95334
+F Street	Merced	95340
+F Street	Tulelake	96134
+F Street	West Sacramento	95605
+F Street	Wilmington	90744
+F Torres St	Calexico	92231

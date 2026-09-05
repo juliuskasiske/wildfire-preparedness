@@ -1,0 +1,42 @@
+Vaquerito Pl	Santa Barbara Unincorporated	93111
+Vaquero	West Covina	91791
+Vaquero Ave	Bakersfield	93308
+Vaquero Ave	La Habra	90631
+Vaquero Ave	Lah	90631
+Vaquero Avenue	Los Angeles	90032
+Vaquero Cir	Oxnard	93030
+Vaquero Circle	Vacaville	95688
+Vaquero Court	Valencia	91355
+Vaquero Ct	Chula Vista	91910
+Vaquero Ct	Rancho Cucamonga	91739
+Vaquero Ct	Riverside	92504
+Vaquero Ct	Saratoga	95070
+Vaquero Dr	Fontana	92337
+Vaquero Dr	Ladera Ranch	92694
+Vaquero Dr	Mountain View	94043
+Vaquero Dr	Oroville	95965
+Vaquero Dr	Oxnard	93030
+Vaquero Dr	Simi Valley	93065
+Vaquero Glen	Escondido	92026
+Vaquero Lane	Carson	90745
+Vaquero Ln	Atascadero	93422
+Vaquero Ln	Carson	90745
+Vaquero Ln	Santa Barbara Unincorporated	93111
+Vaquero Rd	Cathedral City	92234
+Vaquero Rd	Palm Springs	92262
+Vaquero Rd	Templeton	93465
+Vaquero Road	Arcadia	91007
+Vaquero Road	Monrovia	91016
+Vaquero Road	Pebble Beach	93953
+Vaquero Street	West Covina	91791
+Vaquero Tr	Imperial	92251
+Vaquero Trail Dr	Imperial	92251
+Vaquero Trail Rd	Imperial	92251
+Vaquero Trl	Imperial	92251
+Vaquero Vista Dr	Auburn	95603
+Vaquero Way	Antioch	94509
+Vaquero Way	Nipomo	93444
+Vaquero Way	Redwood City	94062
+Vaqueros Ave	Rodeo	94572
+Vaqueros Ave	Sunnyvale	94085
+Vaqueros Ave	Sunnyvale	94085-3525

@@ -1,0 +1,183 @@
+Susan	Santa Cruz	95062
+Susan Ave	El Cerrito	94530
+Susan Ave	Hesperia	92345
+Susan Ave	Kerman	93630
+Susan Ave	Moorpark	93021
+Susan Ave	Redlands	92374
+Susan Ave	Salton City	92274
+Susan Ave	Sanger	93657
+Susan Avenue	Bellflower	90706
+Susan Avenue	Downey	90240
+Susan Avenue	Downey	90241
+Susan Avenue	Downey	90242
+Susan Avenue	Marina	93933
+Susan Beth Way	Santa Clarita	91350
+Susan Brook Place	Duarte	91010
+Susan Carole Drive	Santa Clarita	91350
+Susan Ci	Roseville	95661
+Susan Cir	Garden Grove	92841
+Susan Cir	La Palma	90623
+Susan Cir	Oceanside	92056
+Susan Cir	Palm Desert	92260
+Susan Court	Benicia	94510
+Susan Court	La Verne	91750
+Susan Court	Palmdale	93551
+Susan Court	West Sacramento	95691
+Susan Ct	Alamo	94507
+Susan Ct	Escondido	92026
+Susan Ct	Gilroy	95020
+Susan Ct	Lincoln	95648
+Susan Ct	Morgan Hill	95037
+Susan Ct	Napa	94558
+Susan Ct	Nipomo	93444
+Susan Ct	Oroville	95965
+Susan Ct	Pioneer	95666
+Susan Ct	San Jose	95123
+Susan Ct	San Mateo	94403
+Susan Dr	Cathedral City	92234
+Susan Dr	Desert Hot Springs	92240
+Susan Dr	San Bruno	94066
+Susan Dr	Santa Clara	95050
+Susan Dr	Santa Rosa	95409
+Susan Dr	Thousand Oaks	91320
+Susan Dr	Wildomar	92595
+Susan Drive	Granada Hills	91344
+Susan Eileen Ave	Bakersfield	93314
+Susan Gale Ct	Menlo Park	94025
+Susan Grace Ct	Temecula	92592
+Susan Hollow Ct	Fair Oaks	95628
+Susan Lane	Greenfield	93927
+Susan Lee Ct	Calimesa	92320
+Susan Lee Ln	Modesto	95350
+Susan Ln	Crescent City	95531
+Susan Ln	Garden Grove	92841
+Susan Ln	Hemet	92543
+Susan Ln	Huntington Beach	92646
+Susan Ln	Huntington Beach	92646-8305
+Susan Ln	Huntington Beach	92646-8307
+Susan Ln	La Habra	90631
+Susan Ln	Lah	90631
+Susan Ln	Madera	93638
+Susan Ln	Penngrove	94951
+Susan Ln	Perris	92571
+Susan Ln	Pioneer	95666
+Susan Ln	Pleasant Hill	94523
+Susan Ln	Ramona	92065
+Susan Oak Dr	Fair Oaks	95628
+Susan Pl	Hayward	94544
+Susan Pl	San Diego	92105
+Susan Place	Cerritos	90703
+Susan Rd	Mckinleyville	95519
+Susan Ruth Street	Santa Clarita	91350
+Susan St	Arcata	95521
+Susan St	Bakersfield	93308
+Susan St	Beaumont	92223
+Susan St	Brentwood	94513
+Susan St	Costa Mesa	92626
+Susan St	Patterson	95363
+Susan St	Riverside	92504
+Susan St	Wildomar	92595
+Susan St	Yucaipa	92399
+Susan Street	Pajaro	95076
+Susan Street	Vallejo	94589
+Susan Way	Carmichael	95608
+Susan Way	Desert Hot Springs	92240
+Susan Way	Hanford	93230
+Susan Way	Monterey Park	91755
+Susan Way	Novato	94947
+Susan Way	Pebble Beach	93953
+Susan Way	Sonora	95370
+Susan Way	Sunnyvale	94087
+Susan Wy	Stockton	95205
+Susana Avenue	Redondo Beach	90277
+Susana Avenue	Torrance	90505
+Susana Ct	Moreno Valley	92553
+Susana Ct	San Marcos	92078
+Susana Rd	Carson	90810
+Susana St	Chino	91710
+Susana St	Frazier Park	93225
+Susana St	Martinez	94553
+Susana Way	Murrieta	92562
+Susanah Pl	Costa Mesa	92627
+Susanna Bryant Dr	Ybl	92887
+Susanna Bryant Dr	Yorba Linda	92887
+Susanna Ct	Citrus Heights	95621
+Susanna Ct	Fallbrook	92028
+Susannah Ln	Paso Robles	93446
+Susanne St	Corona	92882
+Susanville Ave	Chula Vista	91913
+Susanville St	Hesperia	92344
+Susanwood Dr	Concord	94519
+Susanwood Dr	Concord	94521
+Susie Ct	Fort Bragg	 
+Susie Ct	Oakley	94561
+Susie Ln	Gilroy	95020
+Susie Ln	Paradise	95969
+Susie Ln	San Carlos	94070
+Susie Ln	Santee	92071
+Susie Pl	Santee	92071
+Susie St	Oakley	94561
+Susie Way	Ramona	92065
+Susie Way	South San Francisco	94080
+Susita Ct	San Diego	92129
+Susita St	San Diego	92129
+Susita Ter	San Diego	92129
+Susquehanna Ave	Placentia	92870
+Susquehanna Avenue	Baldwin Park	91706
+Susquehanna Circle	Baldwin Park	91706
+Susquehanna Ct	Sunnyvale	94087
+Susquehanna Pl	San Diego	92117
+Sussex Ave	Gridley	95948
+Sussex Ave	Lucerne Valley	92356
+Sussex Ave	Modesto	95358
+Sussex Cir	Bakersfield	93311
+Sussex Cir	Cypress	90630
+Sussex Cir	Garden Grove	92840
+Sussex Cir	Huntington Beach	92647
+Sussex Cir	Huntington Beach	92647-2724
+Sussex Cir	Thousand Oaks	91360
+Sussex Circle	King City	93930
+Sussex Circle	Vacaville	95687
+Sussex Court	Atwater	95301
+Sussex Court	Glendale	91206
+Sussex Court	Gustine	95322
+Sussex Court	King City	93930
+Sussex Court	Palmdale	93550
+Sussex Ct	Belmont	94002
+Sussex Ct	Concord	94521
+Sussex Ct	Discovery Bay	94505
+Sussex Ct	Goleta	93117
+Sussex Ct	Rancho Mirage	92270
+Sussex Ct	Roseville	95661
+Sussex Ct	Sacramento	95815
+Sussex Ct	San Luis Obispo	93401
+Sussex Ct	San Rafael	94903
+Sussex Ct	San Ramon	94582
+Sussex Ct	Stockton	95209
+Sussex Dr	San Diego	92116
+Sussex Dr	San Jacinto	92583
+Sussex Dr	San Jose	95127
+Sussex Dr	Santa Rosa	95403
+Sussex Drive	Atwater	95301
+Sussex Ln	Newport Beach	92660
+Sussex Park Ct	San Jose	95136
+Sussex Pl	Gilroy	95020
+Sussex Pl	Menlo Park	94025
+Sussex Pl	Milpitas	95035
+Sussex Pl	North Tustin	92705
+Sussex Rd	Lucerne Valley	92356
+Sussex Rd	Riverside	92504
+Sussex Rd	San Jacinto	92583
+Sussex Road	San Marino	91108
+Sussex Sq	Mountain View	94040
+Sussex St	Concord	94520
+Sussex St	Palm Desert	92211
+Sussex St	San Francisco	94131
+Sussex Stakes St	Menifee	92584
+Sussex Way	Concord	94521
+Sussex Way	Hayward	94544
+Sussex Way	King City	93930
+Sussex Way	Pacifica	94044
+Sussex Way	Redwood City	94061
+Sussex Wy	Stockton	95209
+Susu Ct	Mi-Wuk	95346

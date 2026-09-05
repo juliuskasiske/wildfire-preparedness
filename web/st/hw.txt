@@ -1,0 +1,368 @@
+Hwy	Joshua Tree	92252
+Hwy 001	Santa Maria	93454
+Hwy 1	Annapolis	95412
+Hwy 1	Big Sur	93920
+Hwy 1	Bodega	94922
+Hwy 1	Bodega Bay	94923
+Hwy 1	Carmel	93923
+Hwy 1	Cazadero	95421
+Hwy 1	Davenport	95017
+Hwy 1	Fort Bragg	 
+Hwy 1	Guadalupe	93434
+Hwy 1	Guadalupe	93440
+Hwy 1	Gualala	95445
+Hwy 1	Jenner	95450
+Hwy 1	Marina	93933
+Hwy 1	Moss Landing	95039
+Hwy 1	Moss Landing	95076
+Hwy 1	Moss Landing	95093
+Hwy 1	Occidental	95465
+Hwy 1	Petaluma	94952
+Hwy 1	Point Arena	 
+Hwy 1	Royal Oaks	95076
+Hwy 1	Santa Barbara Unincorporated	93427
+Hwy 1	Santa Barbara Unincorporated	93434
+Hwy 1	Santa Barbara Unincorporated	93436
+Hwy 1	Santa Barbara Unincorporated	93454
+Hwy 1	Santa Barbara Unincorporated	93455
+Hwy 1	Santa Cruz	95060
+Hwy 1	Santa Maria	93454
+Hwy 1	Santa Maria	93455
+Hwy 1	The Sea Ranch	95497
+Hwy 1	Valley Ford	94972
+Hwy 1	Vandenberg Village	93436
+Hwy 1 Hwy	Big Sur	93920
+Hwy 1 Hwy	Carmel	93923
+Hwy 1 Road	Carmel	93923
+Hwy 101	Aromas	95004
+Hwy 101	Aromas	95076
+Hwy 101	Bradley	93426
+Hwy 101	Buellton	93427
+Hwy 101	Chualar	93925
+Hwy 101	Cloverdale	95425
+Hwy 101	Crescent City	95531
+Hwy 101	Geyserville	95441
+Hwy 101	Gonzales	93926
+Hwy 101	Greenfield	93927
+Hwy 101	Jonata Ranch Bobcat Springs	93427
+Hwy 101	Jonata Ranch Bobcat Springs	93463
+Hwy 101	King City	93930
+Hwy 101	Klamath	95548
+Hwy 101	Los Alamos	93427
+Hwy 101	Los Alamos	93436
+Hwy 101	Los Alamos	93440
+Hwy 101	Los Alamos	93455
+Hwy 101	Salinas	93907
+Hwy 101	Salinas	93908
+Hwy 101	Salinas	95076
+Hwy 101	Santa Barbara Unincorporated	93117
+Hwy 101	Santa Barbara Unincorporated	93427
+Hwy 101	Santa Barbara Unincorporated	93436
+Hwy 101	Santa Barbara Unincorporated	93440
+Hwy 101	Santa Barbara Unincorporated	93454
+Hwy 101	Santa Barbara Unincorporated	93455
+Hwy 101	Santa Barbara Unincorporated	93463
+Hwy 101	Santa Barbara Unincorporated	93630
+Hwy 101	Santa Maria	93454
+Hwy 101	Santa Maria	93455
+Hwy 101	Smith River	95567
+Hwy 101	Soledad	93960
+Hwy 101 Ave	Los Alamos	93440
+Hwy 101 N	Crescent City	95531
+Hwy 101 N	Petaluma	94952
+Hwy 101 N	San Luis Obispo	93401
+Hwy 101 N	Smith River	95567
+Hwy 101 Road	Soledad	93960
+Hwy 101 S	Cloverdale	95425
+Hwy 101 S	Crescent City	95531
+Hwy 101 S	Geyserville	95441
+Hwy 101 S	Klamath	95548
+Hwy 101 S	Petaluma	94952
+Hwy 101 S	Smith River	95567
+Hwy 108	Oakdale	95361
+Hwy 108	Riverbank	95367
+Hwy 108 120	Knights Ferry	95361
+Hwy 108 120	Oakdale	95361
+Hwy 111	Bombay Beach	92257
+Hwy 111	Brawley	92227
+Hwy 111	Calexico	92231
+Hwy 111	Calipatria	92233
+Hwy 111	El Centro	92243
+Hwy 111	Imperial	92251
+Hwy 111	Indian Wells	92210
+Hwy 111	Indio	92201
+Hwy 111	La Quinta	92253
+Hwy 111	Niland	92257
+Hwy 111	Palm Desert	92260
+Hwy 111	Rancho Mirage	92270
+Hwy 111 & 1698 I	Brawley	92227
+Hwy 111 & 324 Mansfield Rd	El Centro	92243
+Hwy 111 Ave	Calexico	92231
+Hwy 111 Hwy	Niland	92257
+Hwy 111 Rd	Brawley	92227
+Hwy 111 Rd	Calexico	92231
+Hwy 111 Rd	Calipatria	92233
+Hwy 111 St	Brawley	92227
+Hwy 111 St	Calexico	92231
+Hwy 111 St	Calipatria	92233
+Hwy 115	Brawley	92227
+Hwy 115	Calipatria	92233
+Hwy 115	El Centro	92243
+Hwy 115	Holtville	92250
+Hwy 115  955 E Titsworth	El Centro	92243
+Hwy 115 Ave	Holtville	92250
+Hwy 115 Dr	Holtville	92250
+Hwy 115 Hwy	Holtville	92250
+Hwy 115 Rd	El Centro	92243
+Hwy 115 Rd	Holtville	92250
+Hwy 115 St	El Centro	92243
+Hwy 116 N	Cazadero	95421
+Hwy 116 N	Forestville	95436
+Hwy 116 N	Guerneville	95446
+Hwy 116 N	Jenner	95450
+Hwy 116 N	Monte Rio	95462
+Hwy 116 N	Sebastopol	95472
+Hwy 116 S	Cotati	94931
+Hwy 116 S	Sebastopol	95472
+Hwy 12	Glen Ellen	95442
+Hwy 12	Kenwood	95452
+Hwy 12	Santa Rosa	95404
+Hwy 12	Santa Rosa	95405
+Hwy 12	Santa Rosa	95409
+Hwy 12	Sonoma	95476
+Hwy 120	Benton	93512
+Hwy 120	Knights Ferry	95361
+Hwy 120	Oakdale	95361
+Hwy 120 Hwy	Knights Ferry	95361
+Hwy 128	Albion	 
+Hwy 128	Boonville	 
+Hwy 128	Calistoga	94515
+Hwy 128	Cloverdale	95425
+Hwy 128	Geyserville	95441
+Hwy 128	Healdsburg	95448
+Hwy 128	Navarro	 
+Hwy 128	Philo	 
+Hwy 128	Yorkville	 
+Hwy 135	Los Alamos	93440
+Hwy 135	Orcutt	93455
+Hwy 135	Santa Barbara Unincorporated	93440
+Hwy 135	Santa Barbara Unincorporated	93454
+Hwy 135	Santa Barbara Unincorporated	93455
+Hwy 135	Santa Barbara Unincorporated	93465
+Hwy 135	Santa Barbara Unincorporated	94558
+Hwy 135 Rd	Los Alamos	93440
+Hwy 146	Soledad	93960
+Hwy 154	Ballard	93460
+Hwy 154	Los Olivos	93441
+Hwy 154	Los Olivos	93460
+Hwy 154	Los Padres National Forest	93101
+Hwy 154	Los Padres National Forest	93105
+Hwy 154	Los Padres National Forest	93117
+Hwy 154	Los Padres National Forest	93460
+Hwy 154	Paradise Canyon	93105
+Hwy 154	Santa Barbara Unincorporated	93105
+Hwy 154	Santa Barbara Unincorporated	93108
+Hwy 154	Santa Barbara Unincorporated	93441
+Hwy 154	Santa Barbara Unincorporated	93460
+Hwy 154	Santa Ynez	93460
+Hwy 156	Castroville	95012
+Hwy 156	Salinas	93907
+Hwy 162	Biggs	95917
+Hwy 162	Covelo	 
+Hwy 162	Dos Rios	 
+Hwy 162	Oroville	95965
+Hwy 162	Richvale	95965
+Hwy 162	Willits	 
+Hwy 166	Cuyama	93214
+Hwy 166	Cuyama	93254
+Hwy 166	Los Padres National Forest	93454
+Hwy 166	Maricopa	93252
+Hwy 166	New Cuyama	93214
+Hwy 166	New Cuyama	93254
+Hwy 166	Santa Barbara Unincorporated	93214
+Hwy 166	Santa Barbara Unincorporated	93254
+Hwy 166	Santa Barbara Unincorporated	93306
+Hwy 166	Santa Barbara Unincorporated	93454
+Hwy 166	Santa Maria	93454
+Hwy 166/W Main	Santa Maria	93458
+Hwy 168	Coalinga	93210
+Hwy 168	Lakeshore	93634
+Hwy 168	Shaver Lake	93664
+Hwy 169	Klamath	95548
+Hwy 17	Los Gatos	95033
+Hwy 17	Santa Cruz	95060
+Hwy 17	Santa Cruz	95066
+Hwy 17	Scotts Valley	95066
+Hwy 174	Colfax	95713
+Hwy 175	Hopland	 
+Hwy 18	San Bernardino	92404
+Hwy 183	Castroville	95012
+Hwy 183	Salinas	93907
+Hwy 183	Salinas	93908
+Hwy 183 Road	Salinas	93908
+Hwy 190	Porterville	93257
+Hwy 198	San Lucas	93954
+Hwy 198 Hwy	San Lucas	93954
+Hwy 199	Crescent City	95531
+Hwy 199	Gasquet	95543
+Hwy 20	Emigrant Gap	95715
+Hwy 20	Fort Bragg	 
+Hwy 20	Potter Valley	 
+Hwy 20	Ukiah	 
+Hwy 20	Willits	 
+Hwy 217	Stb	93117
+Hwy 236	Boulder Creek	95006
+Hwy 243	Banning	92220
+Hwy 243	Idyllwild	92549
+Hwy 243	Mountain Center	92561
+Hwy 245 Rd	Miramonte	93641
+Hwy 25	King City	93930
+Hwy 253	Boonville	 
+Hwy 253	Ukiah	 
+Hwy 271	Leggett	 
+Hwy 271	Piercy	 
+Hwy 273	Redding	96003
+Hwy 29	Calistoga	94515
+Hwy 299	Altu	96101
+Hwy 299	Blue Lake	95525
+Hwy 299E	Canb	96015
+Hwy 32	Chico	95926
+Hwy 32	Chico	95928
+Hwy 32	Chico	95973
+Hwy 32	Forest Ranch	95942
+Hwy 33	Crows Landing	95313
+Hwy 33	Crows Landing	95913
+Hwy 33	Mendota	93640
+Hwy 33	Newman	95313
+Hwy 33	Newman	95360
+Hwy 33	Patterson	95363
+Hwy 33	Santa Barbara Unincorporated	90640
+Hwy 33	Santa Barbara Unincorporated	93252
+Hwy 33	Santa Barbara Unincorporated	93254
+Hwy 33	Ventucopa	93252
+Hwy 33	Ventucopa	93254
+Hwy 33	Ventucopa	93454
+Hwy 33	Ventura County	93254
+Hwy 33	Vernalis	95385
+Hwy 33	Westley	95387
+Hwy 36	Bridgeville	95526
+Hwy 37	Petaluma	94954
+Hwy 37	Sonoma	95476
+Hwy 371	Anza	92539
+Hwy 395	Altu	96101
+Hwy 395	Davi	96108
+Hwy 395	Moreno Valley	92553
+Hwy 4	Brentwood	94513
+Hwy 4	Byron	94514
+Hwy 4	Hercules	94547
+Hwy 4	Oakley	94561
+Hwy 4 Faria Rnch	Brentwood	94513
+Hwy 40	Needles	92363
+Hwy 41 E	Paso Robles	93446
+Hwy 41E	Shandon	93461
+Hwy 46E Hwy	Paso Robles	93446
+Hwy 58	Needles	92363
+Hwy 65	Porterville	93257
+Hwy 67	Lakeside	92040
+Hwy 67	Ramona	92065
+Hwy 67	Santee	92071
+Hwy 68	Carmel	93923
+Hwy 68	Monterey	93940
+Hwy 68	Pacific Grove	93950
+Hwy 68	Salinas	93901
+Hwy 68	Salinas	93908
+Hwy 68 Lane	Salinas	93908
+Hwy 69	Miramonte	93641
+Hwy 70	Berry Creek	95916
+Hwy 70	Berry Creek	95965
+Hwy 70	Biggs	95965
+Hwy 70	Concow	95965
+Hwy 70	Gridley	95965
+Hwy 70	Oroville	95965
+Hwy 70	Palermo	95965
+Hwy 74	Hemet	92544
+Hwy 74	Homeland	92548
+Hwy 74	Idyllwild	92549
+Hwy 74	Lake Elsinore	92532
+Hwy 74	Menifee	92585
+Hwy 74	Mountain Center	92561
+Hwy 74	Palm Desert	92260
+Hwy 74	Perris	92570
+Hwy 76	Escondido	92027
+Hwy 76	Fallbrook	92028
+Hwy 76	Oceanside	92057
+Hwy-76	Pauma Valley	92061
+Hwy 76	Santa Ysabel	92070
+Hwy 76	Valley Center	92082
+Hwy 78	Borrego Springs	92004
+Hwy 78	Brawley	92227
+Hwy 78	Julian	92036
+Hwy 78	Ocotillo Wells	92004
+Hwy 78	Ramona	92065
+Hwy 78	Santa Ysabel	92070
+Hwy 78	Westmorland	92281
+Hwy 79	Aguanga	92536
+Hwy 79	Descanso	91916
+Hwy 79	Julian	92036
+Hwy 79	Temecula	92592
+Hwy 79	Warner Springs	92086
+Hwy 79 South	Temecula	92592
+Hwy 8 Bus	Lakeside	92040
+Hwy 80	Descanso	91916
+Hwy 80	Imperial	92251
+Hwy 80	Seeley	92273
+Hwy 80	Winterhaven	92283
+Hwy 80 Ave	Seeley	92273
+Hwy 80 Hwy	El Centro	92243
+Hwy 80 Hwy	Imperial	92251
+Hwy 86	Brawley	92227
+Hwy 86	El Centro	92243
+Hwy 86	Heber	92249
+Hwy 86	Imperial	92251
+Hwy 86	Salton City	92275
+Hwy 86	Westmorland	92281
+Hwy 86 Ave	Brawley	92227
+Hwy 86 Ave	El Centro	92243
+Hwy 86 Dr	Brawley	92227
+Hwy 86 Dr	El Centro	92243
+Hwy 86 Rd	El Centro	92243
+Hwy 86 St	Brawley	92227
+Hwy 86 St	El Centro	92243
+Hwy 9	Ben Lomond	95005
+Hwy 9	Ben Lomond	95018
+Hwy 9	Boulder Creek	95006
+Hwy 9	Brookdale	95005
+Hwy 9	Brookdale	95007
+Hwy 9	Felton	95018
+Hwy 9	La Honda	94020
+Hwy 9	Los Gatos	95030
+Hwy 9	Los Gatos	95033
+Hwy 9	Pescadero	94020
+Hwy 9	Woodside	94020
+Hwy 905	San Diego	92154
+Hwy 94	Boulevard	91905
+Hwy 94	Campo	91906
+Hwy 94	Dulzura	91917
+Hwy 94	Potrero	91963
+Hwy 94	Tecate	91980
+Hwy 95	Blythe	92225
+Hwy 96	Hoopa	95546
+Hwy 98	Calexico	92231
+Hwy 98	Holtville	92250
+Hwy 98 Ave	Calexico	92231
+Hwy 98 Rd	Calexico	92231
+Hwy 98 St	Calexico	92231
+Hwy 98 St	Imperial	92251
+Hwy 99	Biggs	95917
+Hwy 99	Biggs	95948
+Hwy 99	Chico	95973
+Hwy 99	Durham	95938
+Hwy 99	Gridley	95948
+Hwy 99	Oroville	95965
+Hwy 99	Richvale	95965
+Hwy 99	Visalia	93277
+Hwy 99 E	Biggs	95917
+Hwy 99 E	Gridley	95948
+Hwy 99 E	Richvale	95965
+Hwy299	Willow Creek	95563
+Hwy39	La Mirada	90638

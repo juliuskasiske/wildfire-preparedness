@@ -1,0 +1,18 @@
+Oak	Anza	92539
+Oak	Bass Lake	93604
+Oak	Ben Lomond	95005
+Oak	Benicia	94510
+Oak	Boulder Creek	95006
+Oak	Brookdale	95007
+Oak	Capitola	95010
+Oak	Coulterville	95311
+Oak	El Centro	92243
+Oak	Felton	95018
+Oak	Greenfield	93927
+Oak	Holtville	92250
+Oak	Jackson	95642
+Oak	Salinas	93901
+Oak	Santa Cruz	95060
+Oak	Santa Cruz	95065
+Oak	Scotts Valley	95066
+Oak	Yosemite	95389

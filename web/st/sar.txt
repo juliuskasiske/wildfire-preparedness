@@ -1,0 +1,476 @@
+Sara Ave	Sunnyvale	94086
+Sara Bear Lane	Truckee	96161
+Sara Court	Auburn	95602
+Sara Court	Vacaville	95687
+Sara Ct	Bay Point	94565
+Sara Ct	Jurupa Valley	92509
+Sara Ct	Orcutt	93455
+Sara Ct	Riverside	92503
+Sara Ct	Santa Maria	93455
+Sara Ct	Sunnyvale	94086
+Sara Dr	Bella Vista	96008
+Sara Dr	Lemoore	93245
+Sara Dr	Oxnard	93030
+Sara Dr	Redding	96003
+Sara Drive	Torrance	90503
+Sara Jane Ct	Morgan Hill	95037
+Sara Jane Ln	Anderson	96007
+Sara Jane Ln	Morgan Hill	95037
+Sara Jane Ln	Placentia	92870
+Sara Jane St	Bakersfield	93313
+Sara Ln	Alamo	94507
+Sara Ln	Chino Hills	91709
+Sara Ln	Laguna Hills	92653
+Sara Ln	Mountain View	94041
+Sara Ln	San Carlos	94070
+Sara Lynn Ln	Chatsworth	91311
+Sara Lynn Rd	Chatsworth	91311
+Sara Lynn Way	Citrus Heights	95621
+Sara Mar Lane	Temple City	91780
+Sara Marie Pl	Ramona	92065
+Sara Park Cir	Saratoga	95070
+Sara River Cir	Fountain Valley	92708
+Sara St	Elk Grove	95624
+Sara Street	Canyon Country	91387
+Sara Way	Bakersfield	93304
+Sara Way	Carlsbad	92008
+Saraband Way	San Jose	95122
+Sarabande	Irvine	92620
+Sarabande Ave	Bakersfield	93308
+Sarabande Dr	Sacramento	95826
+Sarabande Lane	Canyon Country	91387
+Sarabec Ct	Roseville	95747
+Sarabeth Ln	Laguna Niguel	92677
+Sarabeth Street	Downey	90242
+Sarabia St	Lake Elsinore	92530
+Saracen Rd	Santa Rosa	95401
+Saraceno	Newport Beach	92657
+Saradale Ln	Galt	95632
+Saradella Ct	Murrieta	92562
+Sarafina Way	Gilroy	95020
+Saraglen Ct	Saratoga	95070
+Saraglen Dr	Saratoga	95070
+Saragosa Avenue	Planada	95365
+Saragosa Street	Whittier	90606
+Saragossa Dr	Nipton	92366
+Saragossa Dr	Palm Springs	92264
+Saragossa Rd	Nipton	92364
+Saragossa Street	Pomona	91768
+Sarah	Jackson	95642
+Sarah Ann Ct	Durham	95938
+Sarah Ann Dr	Fallbrook	92028
+Sarah Ave	Chico	95926
+Sarah Ave	La Mesa	91942
+Sarah Ave	Modesto	95350
+Sarah Ave	Moorpark	93021
+Sarah Ave	Pla	92870
+Sarah Ave	Placentia	92870
+Sarah Ave	Sanger	93657
+Sarah Avenue	Pixley	93256
+Sarah Bell Street	Mount Shasta	96067
+Sarah Burns Walk	Sacramento	95819
+Sarah Cir	Long Barn	95335
+Sarah Cir	Mi-Wuk	95346
+Sarah Cir	Selma	93662
+Sarah Court	El Monte	91732
+Sarah Court	Signal Hill	90755
+Sarah Court	West Covina	91792
+Sarah Court	Yuba City	95993
+Sarah Ct	Carmichael	95608
+Sarah Ct	Corona	92879
+Sarah Ct	Danville	94526
+Sarah Ct	El Cajon	92019
+Sarah Ct	Fontana	92337
+Sarah Ct	Jackson	95642
+Sarah Ct	Pinole	94564
+Sarah Ct	San Jose	95136
+Sarah Ct	Thousand Oaks	91320
+Sarah Ct	Windsor	95492
+Sarah Dr	El Cajon	92021
+Sarah Dr	Mill Valley	94941
+Sarah Dr	Pinole	94564
+Sarah Dr	Temecula	92591
+Sarah Jane Ct	Modesto	95356
+Sarah Lane	Dinuba	93618
+Sarah Lane	Lancaster	93535
+Sarah Ln	Berry Creek	95916
+Sarah Ln	Lake Forest	92630
+Sarah Ln	Lake Forest	92630-3244
+Sarah Ln	Lake Forest	92630-3245
+Sarah Ln	Lake Forest	92630-3246
+Sarah Ln	Moraga	94556
+Sarah Pl	Ful	92835
+Sarah Pl	Fullerton	92835
+Sarah Pl	Hayward	94544
+Sarah Pl	Ontario	91761
+Sarah Rd	Cathedral City	92234
+Sarah Ridge Ct	San Diego	92127
+Sarah Ridge Rd	San Diego	92127
+Sarah Royce Ct	Gold River	95670
+Sarah St	Brentwood	94513
+Sarah St	Cathedral City	92234
+Sarah St	Madera	93638
+Sarah St	Moorpark	93021
+Sarah St	Selma	93662
+Sarah St	Yucaipa	92399
+Sarah Street	North Hollywood	91602
+Sarah Street	Rosemead	91770
+Sarah Street	Sherman Oaks	91423
+Sarah Street	Studio City	91604
+Sarah Street	Valley Village	91607
+Sarah Therese Way	Ceres	95351
+Sarah Way	Dana Point	92624
+Sarah Way	Fairfield	94533
+Sarah Way	Petaluma	94954
+Sarah Way	Suisun City	94585
+Sarah Way	Temecula	92590
+Sarahfaye Ct	Escondido	92026
+Sarahills Ct	Saratoga	95070
+Sarahills Dr	Saratoga	95070
+Sarahs Way	St Helena	94574
+Sarajayne Ln	Lemon Grove	91945
+Saraliev	Soquel	95073
+Saralyn Drive	Chatsworth	91311
+Saralynn Dr	San Jose	95121
+Sarament Ct	Sacramento	95827
+Saran Ct	Oceanside	92056
+Saran Drive	Playa Del Rey	90293
+Saranac Ave	La Mesa	91942
+Saranac Ct	Ventura	93004
+Saranac Dr	Sunnyvale	94087
+Saranac Drive	La Mirada	90638
+Saranac Drive	Whittier	90604
+Saranac Drive	Whittier	90605
+Saranac Lane	Sylmar	91342
+Saranac Pl	La Mesa	91942
+Saranac Pl	Riverside	92508
+Saranac Place	Whittier	90604
+Saranac St	La Mesa	91942
+Saranac St	San Diego	92115
+Saranac St	Ventura	93004
+Saranap Ave	32	94595
+Saranap Ave	Lafayette	94549
+Saranap Ave	Walnut Creek	94595
+Sarandi Grande Drive	Hacienda Heights	91745
+Saranne Street	La Canada Flintridge	91011
+Sarape Court	Valencia	91355
+Sarape Dr	San Diego	92128
+Sarapiqui Way	Rancho Cordova	95742
+Sarasona Way	Bonita	91902
+Sarasota	Lucerne Valley	92356
+Sarasota Avenue	Merced	95348
+Sarasota Court	Marina	93933
+Sarasota Ct	Sacramento	95828
+Sarasota Dr	Borrego Springs	92004
+Sarasota Ln	Hayward	94545
+Sarasota Ln	Temecula	92591
+Sarasota Pl	Thousand Palms	92276
+Sarasota Springs Pl	Murrieta	92562
+Sarasota Way	San Jose	95122
+Sarasota Way	Victorville	92395
+Sarasoto Dr	Borrego Springs	92004
+Sarasta Bay Dr	Pittsburg	94565
+Saratoga	Irvine	92620
+Saratoga	Newport Beach	92660
+Saratoga	Rancho Santa Margarita	92679
+Saratoga Av	San Jose	95129
+Saratoga Av	Santa Clara	95050
+Saratoga Av	Santa Clara	95051
+Saratoga Ave	Concord	94519
+Saratoga Ave	Cypress	90630
+Saratoga Ave	East Palo Alto	94303
+Saratoga Ave	Grover Beach	93433
+Saratoga Ave	Guerneville	95446
+Saratoga Ave	Laguna Hills	92653
+Saratoga Ave	Lemoore	93245
+Saratoga Ave	Los Alamitos	90720
+Saratoga Ave	Los Gatos	95030
+Saratoga Ave	Los Gatos	95032
+Saratoga Ave	Montclair	91763
+Saratoga Ave	Pla	92870
+Saratoga Ave	Placentia	92870
+Saratoga Ave	San Diego	92107
+Saratoga Ave	San Jose	95070
+Saratoga Ave	San Jose	95117
+Saratoga Ave	San Jose	95129
+Saratoga Ave	Santa Clara	95050
+Saratoga Ave	Santa Clara	95051
+Saratoga Ave	Saratoga	95070
+Saratoga Ave	Ventura	93003
+Saratoga Avenue	Merced	95340
+Saratoga Avenue	Tulare	93274
+Saratoga Cir	Norco	92860
+Saratoga Cir	Rocklin	95765
+Saratoga Cir	Sacramento	95864
+Saratoga Circle	Salinas	93906
+Saratoga Corte	Rancho Santa Fe	92067
+Saratoga Court	Merced	95340
+Saratoga Court	Palmdale	93551
+Saratoga Court	Vacaville	95687
+Saratoga Court	Yuba City	95993
+Saratoga Creek Dr	Saratoga	95070
+Saratoga Ct	Alamo	94507
+Saratoga Ct	Chula Vista	91913
+Saratoga Ct	Goleta	93117
+Saratoga Ct	Petaluma	94954
+Saratoga Ct	Stockton	95209
+Saratoga Ct	Tracy	95376
+Saratoga Ct	Ukiah	 
+Saratoga Ct	Vista	92083
+Saratoga Dr	Chico	95973
+Saratoga Dr	Ful	92835
+Saratoga Dr	Fullerton	92835
+Saratoga Dr	Los Alamitos	90720
+Saratoga Dr	Menifee	92585
+Saratoga Dr	Milpitas	95035
+Saratoga Dr	Modesto	95350
+Saratoga Dr	Napa	94559
+Saratoga Dr	Redding	96002
+Saratoga Dr	San Mateo	94403
+Saratoga Dr	Tustin	92782
+Saratoga Dr	Wildomar	92595
+Saratoga Drive	Salinas	93906
+Saratoga Drive	Woodland	95695
+Saratoga Glen	Escondido	92025
+Saratoga Glen Ct	Saratoga	95070
+Saratoga Glen Pl	Saratoga	95070
+Saratoga Gln	Escondido	92025
+Saratoga Heights Ct	Saratoga	95070
+Saratoga Heights Dr	Saratoga	95070
+Saratoga Hills Dr	Oakdale	95361
+Saratoga Hills Rd	Saratoga	95070
+Saratoga Lane	Glendora	91741
+Saratoga Ln	Chino Hills	91709
+Saratoga Ln	Huntington Beach	92649
+Saratoga Ln	Huntington Beach	92649-2648
+Saratoga Ln	Huntington Beach	92649-2649
+Saratoga Ln	Huntington Beach	92649-2650
+Saratoga Ln	Huntington Beach	92649-2651
+Saratoga Ln	Huntington Beach	92649-2652
+Saratoga Ln	Huntington Beach	92649-2653
+Saratoga Los Gatos Rd	Los Gatos	95030
+Saratoga-Los Gatos Rd	Los Gatos	95070
+Saratoga-Los Gatos Rd	Monte Sereno	95030
+Saratoga-Los Gatos Rd	Saratoga	95070
+Saratoga Pl	Brentwood	94513
+Saratoga Pl	Chino	91710
+Saratoga Pl	Chino Hills	91709
+Saratoga Pl	Gilroy	95020
+Saratoga Pl	Hanford	93230
+Saratoga Place	Davis	95616
+Saratoga Rd	Apple Valley	92308
+Saratoga Rd	Phelan	92371
+Saratoga Rd	Pinon Hills	92372
+Saratoga Rd	Pioneertown	92268
+Saratoga Rd	Sonora	95370
+Saratoga Rd	Yucca Valley	92268
+Saratoga Rd	Yucca Valley	92284
+Saratoga Spring Pl	Murrieta	92562
+Saratoga Springs Pl	Murrieta	92562
+Saratoga Springs Rd	Upper Lake	95485
+Saratoga Springs Rd	Witter Springs	95493
+Saratoga St	Bakersfield	93306
+Saratoga St	Cypress	90630
+Saratoga St	Fillmore	93015
+Saratoga St	Fort Irwin	92310
+Saratoga St	Hesperia	92344
+Saratoga St	Manteca	95336
+Saratoga St	Oceanside	92054
+Saratoga St	Oxnard	93035
+Saratoga St	Pioneertown	92268
+Saratoga St	Rancho Cucamonga	91739
+Saratoga St	Riverside	92503
+Saratoga St	San Mateo	94403
+Saratoga St	Ventura	93003
+Saratoga St	Ybl	92886
+Saratoga St	Yorba Linda	92886
+Saratoga St	Yucca Valley	92284
+Saratoga Street	Los Angeles	90033
+Saratoga Street	Los Banos	93635
+Saratoga Street	Pico Rivera	90660
+Saratoga Street	Pomona	91766
+Saratoga Street	Whittier	90606
+Saratoga-Sunnyvale Rd	San Jose	95129
+Saratoga Sunnyvale Rd	Saratoga	95070
+Saratoga-Sunnyvale Rd	Sunnyvale	94087
+Saratoga Toll	Boulder Creek	95006
+Saratoga Villa Pl	Saratoga	95070
+Saratoga Vista Av	Saratoga	95070
+Saratoga Vista Ave	Saratoga	95070
+Saratoga Vista Ct	Saratoga	95070
+Saratoga Way	Canyon Country	91387
+Saratoga Way	Costa Mesa	92626
+Saratoga Woods Cir	Saratoga	95070
+Saratoga Wy	Lodi	95240
+Saratoga Wy	Stockton	95209
+Saraview Ct	Saratoga	95070
+Saraview Dr	Saratoga	95070
+Saraview Way	Sebastopol	95472
+Sarawak Dr	Lemon Grove	91945
+Sarayah Ln	Herald	95638
+Sarazan Way	Palm Desert	92211
+Sarazen Ave	Bakersfield	93309
+Sarazen Ave	Sacramento	95822
+Sarazen Ct	Nipomo	93444
+Sarazen Ct	Patterson	95363
+Sarazen Ct	Ybl	92886
+Sarazen Ct	Yorba Linda	92886
+Sarazen Dr	Moorpark	93021
+Sarazen Drive	Alhambra	91803
+Sarazen Ln	Coto De Caza	92679
+Sarazen Ln	Patterson	95363
+Sarazen Pl	Patterson	95363
+Sarazen Place	Granada Hills	91344
+Sarazen St	Beaumont	92223
+Sarazen St	Hemet	92543
+Sarazen Way	Palm Desert	92211
+Sarba Court	Los Banos	93635
+Sarbo Road	Los Banos	93635
+Sarbonne Dr	Oceanside	92054
+Sarbonne Lane	Los Angeles	90077
+Sarbonne Road	Los Angeles	90077
+Sarcedo Way	American Canyon	94503
+Sarco Drive	La Mirada	90638
+Sard St	Rancho Cucamonga	91701
+Sarda Ct	Ramona	92065
+Sarda Road	Valencia	91355
+Sarda Way	Rancho Cordova	95670
+Sardania Ct	Sacramento	95831
+Sardella Place	Jamestown	95327
+Sardina Cv	San Diego	92130
+Sardina Rd	Indio	92203
+Sardine Street	San Pedro	90731
+Sardinia	Indio	92203
+Sardinia Court	Valencia	91355
+Sardinia Ct	Elk Grove	95758
+Sardinia Ct	Stockton	95206
+Sardinia Dr	Bakersfield	93308
+Sardinia Dr	Lake Elsinore	92530
+Sardinia Drive	Salinas	93905
+Sardinia Island Way	Sacramento	95834
+Sardinia Ln	Huntington Beach	92646
+Sardinia Ln	Huntington Beach	92646-3139
+Sardinia Ln	Huntington Beach	92646-3143
+Sardinia Ln	Huntington Beach	92646-3146
+Sardinia Rd	Indio	92203
+Sardinia Ter	Sunnyvale	94089
+Sardinia Way	Porter Ranch	91326
+Sardis Avenue	Los Angeles	90064
+Sardis Ln	Nuevo	92567
+Sardis Pl	San Diego	92131
+Sardonia Way	Beaumont	92223
+Sardonyx Ct	Rancho Cordova	95742
+Sardonyx Drive	Nevada City	95959
+Sardonyx St	Carlsbad	92009
+Sardonyx Street	Los Angeles	90032
+Sardonyx Way	Rancho Cordova	95742
+Sardonyx Way	Vacaville	95687
+Sareco Ct	Carmichael	95608
+Saren Ct	Elk Grove	95624
+Sarena	Irvine	92612
+Sarentina Court	Bellflower	90706
+Sarentina Ct.	Bellflower	90706
+Sargasso Court	Stevenson Ranch	91381
+Sargeant Rd	Ramona	92065
+Sargeants Cyn Road	San Ardo	93450
+Sargent	Jackson	95642
+Sargent And Jacobs Drive	Nevada City	95959
+Sargent Ave	Galt	95632
+Sargent Ave	Jackson	95642
+Sargent Ave	San Pablo	94806
+Sargent Ave	Simi Valley	93063
+Sargent Avenue	Whittier	90602
+Sargent Avenue	Whittier	90605
+Sargent Court	Benicia	94510
+Sargent Court	Davis	95618
+Sargent Court	Los Angeles	90026
+Sargent Court	Monterey	93940
+Sargent Dr	Sunnyvale	94087
+Sargent Kelly Dr	Menifee	92584
+Sargent Ln	Atherton	94027
+Sargent Ln	Ventura	93003
+Sargent Ln	Woodside	94027
+Sargent Place	Los Angeles	90026
+Sargent Rd	Concord	94518
+Sargent Road	San Ardo	93450
+Sargent Sky Way	Grass Valley	95949
+Sargent St	Gilroy	95020
+Sargent St	San Francisco	94132
+Sargent Street	La Verne	91750
+Sargent Way	Bakersfield	93311
+Sargenti Ct	San Jose	95122
+Sargents Canyon Road	San Ardo	93450
+Sargents Road	Bradley	93426
+Sargents Road	Gonzales	93926
+Sargents Road	San Ardo	93450
+Sargo Ave	Salton City	92274
+Sargo Ave	Vista Del Mar	92274
+Sargon Pl	Turlock	95382
+Sari Avenue	North Hills	91343
+Sari Ct	Palm Desert	92211
+Sari Place	North Hills	91343
+Saria Ct	Murrieta	92562
+Saria St	Murrieta	92562
+Sarilee Avenue	Rosemead	91770
+Sarina Ct	Sacramento	95826
+Sarina Ln	San Marcos	92069
+Sarina Rd	Smith River	95567
+Sario Dr	Bakersfield	93313
+Sarita Avenue	Canyon Country	91387
+Sarita Ct	Pinole	94564
+Sarita Dr	Desert Hot Springs	92240
+Sarita Dr	Laguna Hills	92653
+Sarita Dr	Oxnard	93030
+Sarita Place	Tarzana	91356
+Sarita St	La Mesa	91942
+Sarita St	Unincorporated Alameda County	94542
+Sarita Way	Desert Hot Springs	92240
+Sarita Way	Santa Clara	95051
+Sarita Wy	Santa Clara	95051
+Saritta Dr	Redlands	92373
+Sariya Way	Ceres	95307
+Sark	Santa Clarita	91350
+Sark Ct	Milpitas	95035
+Sark Place	Santa Clarita	91350
+Sark Way	San Jose	95111
+Sarkesian Dr	Petaluma	94954
+Sarkis Court	Santa Clarita	91350
+Sarkkinen St	Elk Grove	95624
+Sarnen St	San Diego	92154
+Sarnia Avenue	Long Beach	90805
+Sarno Ct	Moorpark	93021
+Sarno Pl	Escondido	92026
+Sarolou Dr	Turlock	95382
+Saron Ave	San Jose	95116
+Sarona Cir	Palm Desert	92211
+Sarona Ct	San Jacinto	92583
+Sarona St	Bakersfield	93308
+Saroni Pkwy	Clearlake	95422
+Saronna	Irvine	92614
+Saros	Irvine	92603
+Saroyan Pl	San Francisco	94133
+Sarracenia	Rancho Santa Margarita	92688
+Sarracino Way	Victorville	92392
+Sarringhaus St	Elk Grove	95624
+Sarsaparilla Dr	Corona	92881
+Sarsaparilla St	Roseville	95747
+Sarsaparilla St	San Diego	92129
+Sarsi Ct	Apple Valley	92308
+Sarsi Pl	Apple Valley	92308
+Sarte Ct	Sacramento	95826
+Sarteano Dr	Newport Beach	92657
+Sartell Drive	Walnut	91789
+Sartori Avenue	Linda	95901
+Sartori Avenue	Torrance	90501
+Sartori Dr	Petaluma	94954
+Sartori Dr	Santa Rosa	95405
+Sartori Way	Vista	92083
+Saru Cir	Huntington Beach	92647
+Saru Cir	Huntington Beach	92647-4900
+Saru Cir	Huntington Beach	92647-4948
+Saru Cir	Huntington Beach	92647-4964
+Saru Cir	Huntington Beach	92647-4966
+Sarum Ct	Riverbank	95367
+Sarver Ln	San Marcos	92069
+Sarvistree Court	Canyon Country	91387
+Sarzana Pl	Rancho Cucamonga	91730

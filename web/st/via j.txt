@@ -1,0 +1,57 @@
+Via Jaca	Temecula	92592
+Via Jacara	Stanton	90680
+Via Jacara	Valencia	91355
+Via Jacara Ct	Moreno Valley	92551
+Via Jacinto	Aliso Viejo	92656
+Via Jacinto	Rancho Santa Margarita	92688
+Via Jacinto	Santa Barbara Unincorporated	93111
+Via Jacinto	Thousand Oaks	91320
+Via Jacinto	Yuba City	95993
+Via Jacobea	San Clemente	92673
+Via Jacquelina	El Cajon	92019
+Via Jalapa	Murrieta	92562
+Via Janeiro	Laguna Niguel	92677
+Via Jaquima	Rancho Santa Margarita	92688
+Via Jarabe	San Clemente	92673
+Via Jardin	La Quinta	92253
+Via Jardin	Stanton	90680
+Via Jardin	Valencia	91355
+Via Jardin	Ybl	92886
+Via Jardin	Yorba Linda	92886
+Via Jazmin	San Clemente	92672
+Via Jenifer	San Clemente	92673
+Via Jimeno	La Quinta	92253
+Via Joaquin	Monterey	93940
+Via Joaquin	Moraga	94556
+Via Joaquin	Rancho Santa Margarita	92688
+Via Jodi Drive	Gustine	95322
+Via Jolitas	Rancho Santa Margarita	92688
+Via Jose	Palos Verdes Peninsula	90274
+Via Jose	San Jose	95120
+Via Jose	Unincorporated Alameda County	94580
+Via Josefa	Corona	92882
+Via Josefina	Rancho Mirage	92270
+Via Josephina	Rancho Mirage	92270
+Via Joyce Drive	Santa Clarita	91350
+Via Juan Pablo	San Juan Bautista	95045
+Via Juana	Valencia	91355
+Via Juana	Ybl	92886
+Via Juana	Yorba Linda	92886
+Via Juana Rd	Santa Barbara Unincorporated	93460
+Via Juanita	Aptos	95003
+Via Juanita	Carlsbad	92010
+Via Juanita	Mission Viejo	92691
+Via Juanita	San Marcos	92078
+Via Juanita	Thousand Oaks	91320
+Via Juanita Drive	Walnut	91789
+Via Juarez	San Clemente	92673
+Via Juarez	Thousand Oaks	91320
+Via Jubilar	San Clemente	92673
+Via Jucar	Newport Beach	92663
+Via Julia	Unincorporated Alameda County	94580
+Via Julita	Encinitas	92024
+Via Jumara	Temecula	92591
+Via Jumilla	Temecula	92592
+Via Junipero Serra	Riverside	92506
+Via Justina Real	Escondido	92025
+Via Justino	San Dimas	91773

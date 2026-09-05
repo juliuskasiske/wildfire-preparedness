@@ -1,0 +1,6 @@
+Buoy Ave	Carlsbad	92011
+Buoy Ct	Stockton	95206
+Buoy Ln	Chico	95928
+Buoy Ln	Redwood City	94065
+Buoy St	Costa Mesa	92627
+Buoy Way	Sacramento	95831

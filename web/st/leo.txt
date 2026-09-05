@@ -1,0 +1,231 @@
+Leo Ave	Ceres	95351
+Leo Ave	San Jose	95112
+Leo Avenue	Los Angeles	90040
+Leo Cir	Riverside	92503
+Leo Cir	South San Francisco	94080
+Leo Circle	Palmdale	93552
+Leo Ct	Escondido	92026
+Leo Ct	Riverbank	95367
+Leo David St	Manteca	95337
+Leo Dr	Foster City	94404
+Leo Dr	San Jose	95129
+Leo Dr	Santa Rosa	95407
+Leo Lane	Hornbrook	96044
+Leo Lane	Hornbrook	96050
+Leo Lane	Vacaville	95687
+Leo Ln	Antioch	94509
+Leo Ln	Concord	94521
+Leo Ln	Lake Forest	92630
+Leo Ln	Mill Valley	94941
+Leo Ln	Roseville	95747
+Leo Ln	Wilton	95693
+Leo-Mario Way	Oceano	93445
+Leo Pl	Westminster	92683
+Leo Place	Aromas	95004
+Leo Rd	Aguanga	92536
+Leo St	Bakersfield	93307
+Leo St	Jurupa Valley	92509
+Leo St	Manteca	95336
+Leo St	Richmond	94801
+Leo St	San Diego	92115
+Leo St	San Francisco	94112
+Leo Virgo Ct	Elk Grove	95624
+Leo Way	Sunland	91040
+Leo Way	Woodland	95776
+Leofs Ln	Fort Bragg	 
+Leola Ct	Cupertino	95014
+Leola Street	Lomita	90717
+Leola Way	Sacramento	95824
+Leolang Avenue	Sunland	91040
+Leoleta Way	Carmichael	95608
+Leoma Ln	Chula Vista	91911
+Leominster Ct	San Jose	95139
+Leon	Aliso Viejo	92656
+Leon	Homeland	92548
+Leon	La Verne	91750
+Leon	Santa Cruz	95065
+Leon Ave	Homeland	92548
+Leon Ave	Modesto	95351
+Leon Ave	San Diego	92154
+Leon Avenue	Linda	95901
+Leon Circle	Cerritos	90703
+Leon Court	Planada	95365
+Leon Ct	Clayton	94517
+Leon Ct	Riverside	92505
+Leon Dr	Clayton	94517
+Leon Dr	San Jose	95128
+Leon Drive	La Mirada	90638
+Leon Drive	Salinas	93907
+Leon Ln	Arcata	95521
+Leon Ln	Julian	92036
+Leon Ln	Lincoln	95648
+Leon Ln	Redding	96003
+Leon Pl	North Tustin	92780
+Leon Place	Davis	95616
+Leon Rd	Hemet	92545
+Leon Rd	Homeland	92548
+Leon Rd	Menifee	92584
+Leon Rd	Menifee	92596
+Leon Rd	Murrieta	92563
+Leon Rd	Winchester	92563
+Leon Rd	Winchester	92596
+Leon St	Homeland	92548
+Leon St	Lake Elsinore	92530
+Leon St	Oceanside	92057
+Leon St	San Diego	92107
+Leon St	Stockton	95205
+Leon St	Winchester	92596
+Leon Street	Salinas	93907
+Leon Way	Atherton	94027
+Leon Way	Clayton	94517
+Leon Way	Fallbrook	92028
+Leon Way	North Tustin	92780
+Leon Way	Rancho Mirage	92270
+Leona Ave	City Of Shasta Lake	96003
+Leona Ave	City Of Shasta Lake	96019
+Leona Ave	Richmond	94804
+Leona Ave	San Luis Obispo	93401
+Leona Avenue	Palmdale	93551
+Leona Avenue	Tujunga	91042
+Leona Cir	Sacramento	95834
+Leona Ct	Alamo	94507
+Leona Ct	Modesto	95356
+Leona Ct	San Jose	95125
+Leona Ct	Temecula	92592
+Leona Ct	Windsor	95492
+Leona Dr	Cambria	93428
+Leona Dr	Hayward	94542
+Leona Dr	Lake Elsinore	92532
+Leona Dr	Mckinleyville	95519
+Leona Dr	San Rafael	94903
+Leona Drive	Beverly Hills	90210
+Leona Joan Avenue	Pico Rivera	90660
+Leona Ln	Mountain View	94040
+Leona Ln	Pine Grove	95665
+Leona Ln	Poway	92064
+Leona Rd	Lake Elsinore	92532
+Leona Rd	Newberry Springs	92365
+Leona Rd	Yermo	92398
+Leona St	Barstow	92311
+Leona St	Lake Elsinore	92532
+Leona St	San Mateo	94403
+Leona St	Santa Maria	93454
+Leona Ter	San Francisco	94115
+Leona Way	Granite Bay	95746
+Leonado	Rancho Santa Margarita	92688
+Leonard	Brawley	92227
+Leonard	Palm Springs	92262
+Leonard	Santa Cruz	95060
+Leonard	Yosemite	95389
+Leonard Ave	Citrus Heights	95610
+Leonard Ave	Modesto	95350
+Leonard Ave	Oceanside	92054
+Leonard Ave	Santa Rosa	95405
+Leonard Avenue	Dos Palos	93620
+Leonard Avenue	June Lake	93529
+Leonard Avenue	Los Angeles	90022
+Leonard Avenue	Pasadena	91107
+Leonard Court	Yuba City	95993
+Leonard Ct	Danville	94526
+Leonard Ct	Desert Hot Springs	92240
+Leonard Ct	Folsom	95630
+Leonard Ct	Riverside	92501
+Leonard Ct	Santa Clara	95054
+Leonard Dr	Concord	94518
+Leonard Dr	Eureka	95503
+Leonard Dr	Palo Cedro	96073
+Leonard Dr	Rancho Mission Viejo	92675
+Leonard Dr.	Rancho Mission Viejo	92694
+Leonard Dr	Redding	96001
+Leonard L. Alvarado Rd	Bakersfield	93314
+Leonard Ln	Ahwahnee	93601
+Leonard Ln	Applegate	95703
+Leonard Ln	San Jacinto	92582
+Leonard Ln	Sugarloaf	92386
+Leonard Noell Drive	Tulare	93274
+Leonard Pl	Cambria	93428
+Leonard Rd	Mariposa	95338
+Leonard Rd	Palm Springs	92262
+Leonard Rd	Saratoga	95070
+Leonard Road	Los Angeles	90049
+Leonard Road	Palm Springs	92262
+Leonard St	Bakersfield	93304
+Leonard St	Brawley	92227
+Leonard St	Camarillo	93010
+Leonard St	National City	91950
+Leonard St	Redding	96002
+Leonard Stocking Dr	Santa Clara	95054
+Leonard Street	Vallejo	94589
+Leonard Tree Lane	Newhall	91321
+Leonard Way	Corona	92883
+Leonard Way	Hemet	92545
+Leonard Way	Oroville	95966
+Leonard Way	Yosemite	95389
+Leonardo Court	Davis	95618
+Leonardo Court	Fairfield	94534
+Leonardo Ct	Elk Grove	95757
+Leonardo Street	Davis	95618
+Leonardo Way	Elk Grove	95757
+Leonardo Way	Fairfield	94534
+Leonardo Way	Hayward	94541
+Leonardo Wy	Lodi	95242
+Leonards Addition Rd	Sonora	95370
+Leonatus Ave	Modesto	95355
+Leone Ave	Boulevard	91905
+Leone Ct	Lincoln	95648
+Leone Way	Cypress	90630
+Leone Way	Paradise	95969
+Leonello Ave	Los Altos	94024
+Leoney Ct	Jamul	91935
+Leoney Ln	Jamul	91935
+Leong Court	Santa Clarita	91350
+Leong Ct	Cupertino	95014
+Leong Dr	Mountain View	94043
+Leonhardt Cir	Garden Grove	92841
+Leonhardt Loop	Lincoln	95648
+Leoni Dr	Grover Beach	93433
+Leoni Dr	Hanford	93230
+Leonis Boulevard	Los Angeles	90058
+Leonis Pl	Vista	92083
+Leonis Pl	Vista	92084
+Leonis Street	Los Angeles	90040
+Leonor Court	Atwater	95301
+Leonor Dr	Sacramento	95833
+Leonor St	Menifee	92586
+Leonora Drive	Woodland Hills	91367
+Leonore Ave	Clearlake	95422
+Leonzio Ln	Winchester	92596
+Leopard Court	Grass Valley	95949
+Leopard Court	Palmdale	93551
+Leopard Ct	Sacramento	95829
+Leopard Dr	Anderson	96007
+Leopard Lane	Montague	96064
+Leopard Lilly Ln	Shaver Lake	93664
+Leopard Lily Ct	Sacramento	95829
+Leopard Ln	Perris	92571
+Leopard Springs Rd	Morongo Valley	92256
+Leopard St	Palm Desert	92211
+Leopard Way	Antioch	94531
+Leopardwood Way	Winchester	92596
+Leopold Avenue	Hacienda Heights	91745
+Leopoldville Ct	Palm Desert	92211
+Leora Ct	Chico	95973
+Leora Ln	Encinitas	92024
+Leora Ln	San Marcos	92069
+Leora Pl	Petaluma	94954
+Leora St	Simi Valley	93063
+Leorita Street	Baldwin Park	91706
+Leos Ln	Carmichael	95608
+Leos Trl	Menifee	92586
+Leota Ave	Sunnyvale	94086
+Leota Ct	Moreno Valley	92553
+Leota Lane	Canoga Park	91304
+Leota Ln	Box Canyon	91304
+Leota Ln	Garden Grove	92840
+Leota Ln	Riverside	92503
+Leota St	Loma Linda	92354
+Leota Street	Gustine	95322
+Leota Street	Huntington Park	90255
+Leota Way	Homewood	96141
+Leotar	Santa Cruz	95062
+Leotar Ct	Los Gatos	95032

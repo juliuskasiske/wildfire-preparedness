@@ -1,0 +1,359 @@
+North B Street	Exeter	93221
+North B Street	Mount Shasta	96067
+North B Street	Tulare	93274
+North Babcock Avenue	Studio City	91604
+North Backton Avenue	La Puente	91744
+North Baden Avenue	Chatsworth	91311
+North Bahama Avenue	Los Angeles	90059
+North Bailey Street	Los Angeles	90033
+North Baird Avenue	Northridge	91324
+North Baird Avenue	Reseda	91335
+North Baker Street	Los Angeles	90012
+North Baker Street	Porterville	93257
+North Bakman Avenue	North Hollywood	91601
+North Bakman Avenue	North Hollywood	91606
+North Balboa Boulevard	Encino	91316
+North Balboa Boulevard	Granada Hills	91344
+North Balboa Boulevard	Northridge	91325
+North Balboa Boulevard	Van Nuys	91406
+North Balboa Road	Granada Hills	91344
+North Baldwin Avenue	Arcadia	91006
+North Baldwin Avenue	Arcadia	91007
+North Baldwin Avenue	Sierra Madre	91024
+North Baldwin Park Boulevard	Baldwin Park	91706
+North Baldwin Park Boulevard	La Puente	91746
+North Baldwin Street	La Habra	90631
+North Baldy Vista Avenue	Glendora	91741
+North Ballista Avenue	La Puente	91744
+North Balmayne Drive	Porterville	93257
+North Balmayne Place	Porterville	93257
+North Balmayne Street	Porterville	93257
+North Balmayne Way	Porterville	93257
+North Balmer Drive	Los Angeles	90039
+North Balmoral Drive	Porterville	93257
+North Balmoral Street	Porterville	93257
+North Baltimore Avenue	Monterey Park	91754
+North Balton Avenue	San Dimas	91773
+North Bancroft Street	Los Angeles	90026
+North Bandera Avenue	Compton	90222
+North Bandini Street	San Pedro	90731
+North Banewell Avenue	Azusa	91702
+North Banewell Avenue	Covina	91722
+North Bank Dr	Ventura	93003
+North Bank Dr	Ventura	93004
+North Bank Rd	Arcata	95519
+North Bank Rd	Crescent City	95531
+North Bank Rd	Mckinleyville	95519
+North Bank Rd	Mckinleyville	95521
+North Bankside Way	Los Angeles	90031
+North Banna Avenue	Covina	91724
+North Banna Avenue	Glendora	91741
+North Banner Drive	Long Beach	90807
+North Banning Boulevard	Wilmington	90744
+North Barbara Avenue	Azusa	91702
+North Barham Boulevard	Los Angeles	90068
+North Barnett Road	Los Angeles	90032
+North Barnett Way	Los Angeles	90032
+North Barranca Avenue	Azusa	91702
+North Barranca Avenue	Covina	91722
+North Barranca Avenue	Covina	91723
+North Barranca Avenue	Glendora	91740
+North Barranca Avenue	Glendora	91741
+North Barranca Court	Tulare	93274
+North Barranca Street	Los Angeles	90031
+North Barranca Street	West Covina	91791
+North Barrett Road	Los Angeles	90032
+North Barrett Road	Yuba City	95991
+North Barrington Avenue	Los Angeles	90049
+North Barryknoll Drive	Los Angeles	90065
+North Barrywood Avenue	San Pedro	90731
+North Barston Avenue	Covina	91724
+North Bartlett Avenue	San Gabriel	91775
+North Bartlett Avenue	San Gabriel	91776
+North Basilio Avenue	San Dimas	91773
+North Bass Island Road	West Sacramento	95691
+North Bates Avenue	Dinuba	93618
+North Bates Avenue	Los Angeles	90027
+North Bates Court	Los Angeles	90027
+North Battelle Street	Sierraville	96126
+North Baughman Drive	Claremont	91711
+North Bay Dr	Big Bear Lake	92315
+North Bay Dr	Napa	94559
+North Bay Ln	Menifee	92585
+North Bay Rd	Blue Jay	92317
+North Bay Rd	Lake Arrowhead	92352
+North Bay View Avenue	Wilmington	90744
+North Baylor Street	Pacific Palisades	90272
+North Baymar Avenue	West Covina	91791
+North Baypoint Avenue	Wilmington	90744
+North Baza Avenue	Woodland Hills	91364
+North Beach Avenue	West Sacramento	95691
+North Beach Boulevard	La Habra	90631
+North Beachwood Drive	Burbank	91506
+North Beachwood Drive	Los Angeles	90004
+North Beachwood Drive	Los Angeles	90028
+North Beachwood Drive	Los Angeles	90038
+North Beachwood Drive	Los Angeles	90068
+North Beachwood Terrace	Los Angeles	90068
+North Beachy Avenue	Pacoima	91331
+North Beachy Avenue	Sun Valley	91352
+North Beacon Street	San Pedro	90731
+North Beale Road	Beale Afb	95903
+North Beale Road	Linda	95901
+North Bear Creek Court	Merced	95348
+North Bear Creek Drive	Merced	95340
+North Bear Creek Drive	Merced	95348
+North Beatrice Drive	Tulare	93274
+North Beaudry Avenue	Los Angeles	90012
+North Beck Avenue	North Hollywood	91605
+North Beck Avenue	North Hollywood	91606
+North Beck Avenue	Studio City	91604
+North Beckford Avenue	Tarzana	91356
+North Beckman Road	Los Angeles	90068
+North Becky Way	Porterville	93257
+North Bedel Street	Woodland Hills	91364
+North Bedford Drive	Beverly Hills	90210
+North Bedford Drive	Beverly Hills	90212
+North Bedford Street	La Habra	90631
+North Bee Canyon	Chatsworth	91311
+North Bee Canyon Road	Chatsworth	91311
+North Beech Knoll Road	Los Angeles	90046
+North Bel-Air Road	Los Angeles	90077
+North Bel Aire Drive	Burbank	91501
+North Bel Aire Drive	Burbank	91504
+North Belden Drive	Los Angeles	90068
+North Belfast Drive	West Hollywood	90069
+North Belhaven Avenue	Los Angeles	90059
+North Bella Drive	Beverly Hills	90210
+North Bellah Avenue	Lindsay	93247
+North Bellaire Avenue	North Hollywood	91605
+North Bellaire Avenue	Valley Village	91607
+North Belleglade Avenue	Los Angeles	90032
+North Belleview Avenue	San Dimas	91773
+North Bellevue Avenue	Los Angeles	90026
+North Bellflower Boulevard	Lakewood	90713
+North Bellflower Boulevard	Long Beach	90808
+North Bellflower Boulevard	Long Beach	90814
+North Bellflower Boulevard	Long Beach	90815
+North Bellingham Avenue	Studio City	91604
+North Belmont Avenue	Los Angeles	90026
+North Belmont Place	Porterville	93257
+North Belmont Road	Exeter	93221
+North Belmont Street	Glendale	91206
+North Belmont Street	Porterville	93257
+North Ben Avenue	North Hollywood	91605
+North Ben Avenue	North Hollywood	91606
+North Ben Avenue	Valley Village	91607
+North Ben Lomond Avenue	Glendora	91741
+North Ben Maddox Way	Visalia	93292
+North Bend Ct	Rancho Cucamonga	91739
+North Benda Street	Los Angeles	90068
+North Bender Avenue	Covina	91724
+North Bender Avenue	Glendora	91741
+North Benedict Canyon Drive	Beverly Hills	90210
+North Benedict Canyon Drive	Sherman Oaks	91423
+North Benedict Canyon Lane	Sherman Oaks	91423
+North Bennett Circle	Visalia	93292
+North Bentley Avenue	Los Angeles	90049
+North Benton Way	Los Angeles	90026
+North Bentree Avenue	Long Beach	90807
+North Bentree Circle	Long Beach	90807
+North Berendo Street	Los Angeles	90004
+North Berendo Street	Los Angeles	90027
+North Berendo Street	Los Angeles	90029
+North Berenice Avenue	Los Angeles	90031
+North Berenice Place	Los Angeles	90031
+North Berkeley Avenue	Claremont	91711
+North Berkeley Avenue	Pasadena	91107
+North Bernal Avenue	Los Angeles	90063
+North Berry Drive	Studio City	91604
+North Berry Road	Tipton	93272
+North Bert Crane Road	Atwater	95301
+North Bert Crane Road	Merced	95301
+North Bert Crane Road North	Atwater	95301
+North Beryl Street	Los Angeles	90032
+North Betty Drive	Los Angeles	90032
+North Beverly Drive	Beverly Hills	90210
+North Beverly Drive	Beverly Hills	90212
+North Beverly Glen Boulevard	Los Angeles	90077
+North Beverly Glen Boulevard	Sherman Oaks	91423
+North Beverly Glen Circle	Los Angeles	90077
+North Beverly Glen Place	Los Angeles	90077
+North Beverly Park	Beverly Hills	90210
+North Beverly Park Circle	Beverly Hills	90210
+North Beverly Plaza	Long Beach	90815
+North Beverly Street	Porterville	93257
+North Bienveneda Avenue	Pacific Palisades	90272
+North Big Creek Lane	Walnut	91789
+North Big Dalton Avenue	La Puente	91746
+North Big Tujunga Canyon Road	Sunland	91040
+North Big Tujunga Canyon Road	Tujunga	91042
+North Biggy Street	Los Angeles	90033
+North Billow Drive	San Dimas	91773
+North Birch Drive	Porterville	93257
+North Birch Street	Porterville	93257
+North Birchnell Avenue	San Dimas	91773
+North Bixby Avenue	West Covina	91790
+North Bixel Street	Los Angeles	90026
+North Blackstone Street	Tulare	93274
+North Blackthorne Avenue	Long Beach	90808
+North Blair Crescent	Los Angeles	90068
+North Blair Drive	Los Angeles	90068
+North Blinn Avenue	Wilmington	90744
+North Bloom Drive	Compton	90222
+North Bloomfield-Graniteville Road	Nevada City	95959
+North Blossom Drive	Compton	90222
+North Blucher Avenue	Granada Hills	91344
+North Blue Heights Drive	West Hollywood	90069
+North Blue Jay Way	West Hollywood	90069
+North Blue Sage Drive	Sylmar	91342
+North Bluebell Avenue	Valley Village	91607
+North Blvd	City Of Shasta Lake	96019
+North Blvd	Perris	92570
+North Boca Avenue	Los Angeles	90063
+North Bodie Hills Drive	Bridgeport	93517
+North Bodie Hills Drive	Bridgeport	93541
+North Boise Court	Visalia	93291
+North Boise Street	Visalia	93291
+North Bolero Lane	Los Angeles	90012
+North Bollinger Court	Visalia	93291
+North Bollinger Street	Visalia	93291
+North Bonhill Road	Los Angeles	90049
+North Bonita Drive	Tulare	93274
+North Bonner Avenue	North Hollywood	91601
+North Bonnie Ann Court	La Habra	90631
+North Bonnie Avenue	Pasadena	91106
+North Bonnie Beach Place	Los Angeles	90023
+North Bonnie Beach Place	Los Angeles	90063
+North Bonnie Brae Avenue	Claremont	91711
+North Bonnie Brae Street	Los Angeles	90026
+North Bonnie Cove Avenue	Covina	91724
+North Bonnie Hill Drive	Los Angeles	90068
+North Bonnie Lane	La Habra	90631
+North Borden Avenue	Pacoima	91331
+North Borden Avenue	Sun Valley	91352
+North Borden Avenue	Sylmar	91342
+North Bothwell Road	Tarzana	91356
+North Bottlebrush Drive	Los Angeles	90077
+North Boulder Crest Drive	Stevenson Ranch	91381
+North Boundary Avenue	Los Angeles	90032
+North Bouquet Canyon Road	Santa Clarita	91390
+North Bouquet Court	Azusa	91702
+North Bowen Avenue	Compton	90221
+North Bowling Green Way	Los Angeles	90049
+North Bowmont Drive	Beverly Hills	90210
+North Boyle Avenue	Los Angeles	90033
+North Boyles Street	Porterville	93257
+North Boylston Street	Los Angeles	90012
+North Bradfield Avenue	Compton	90221
+North Bradford Place	Granada Hills	91344
+North Bradley Avenue	Pacoima	91331
+North Bradley Avenue	San Fernando	91340
+North Bradley Avenue	Sun Valley	91352
+North Bradley Avenue	Sylmar	91342
+North Bradley Court	Visalia	93292
+North Bradley Street	Visalia	93292
+North Bradoaks Avenue	Monrovia	91016
+North Bradshawe Street	Montebello	90640
+North Braeridge Drive	Beverly Hills	90210
+North Branch Rd	Gualala	 
+North Brand Boulevard	Glendale	91202
+North Brand Boulevard	Glendale	91203
+North Brand Boulevard	Glendale	91204
+North Brand Boulevard	Glendale	91207
+North Brand Boulevard	San Fernando	91340
+North Brandy Way	Porterville	93257
+North Brannick Avenue	Los Angeles	90063
+North Branson Court	Visalia	93291
+North Braziliana Drive	San Dimas	91773
+North Breed Street	Los Angeles	90033
+North Breidt Avenue	Tujunga	91042
+North Brewster Drive	Tarzana	91356
+North Briarcrest Road	Beverly Hills	90210
+North Briargate Lane	Glendora	91740
+North Briarpath Avenue	Covina	91724
+North Briarwood Court	Castaic	91384
+North Bridewell Street	Los Angeles	90042
+North Bridge Street	Visalia	93291
+North Bridgeport Drive	Los Angeles	90065
+North Bridle Path Lane	Walnut	91789
+North Brighton Street	Burbank	91504
+North Brighton Street	Burbank	91506
+North Brighton Street	La Habra	90631
+North Brightview Drive	Covina	91722
+North Brightview Drive	Covina	91723
+North Brigita Avenue	La Puente	91744
+North Brilliant Drive	Los Angeles	90065
+North Brilliant Place	Los Angeles	90065
+North Bristol Avenue	Los Angeles	90049
+North Brittania Street	Los Angeles	90033
+North Britton Drive	Long Beach	90815
+North Broad Avenue	Wilmington	90744
+North Broadacre Drive	Sun Valley	91352
+North Broadacres Avenue	Compton	90220
+North Broadmoor Avenue	Covina	91722
+North Broadmoor Avenue	West Covina	91790
+North Broadview Terrace	Los Angeles	90068
+North Broadway	Los Angeles	90012
+North Broadway	Los Angeles	90031
+North Broadway	Redondo Beach	90277
+North Broadway Avenue	Redondo Beach	90277
+North Broadway Street	Yreka	96097
+North Broken Spur Road	La Verne	91750
+North Bromley Avenue	West Covina	91790
+North Bromont Avenue	San Fernando	91340
+North Bronholly Drive	Los Angeles	90068
+North Bronson Avenue	Los Angeles	90004
+North Bronson Avenue	Los Angeles	90028
+North Bronson Avenue	Los Angeles	90038
+North Bronson Avenue	Los Angeles	90068
+North Bronson Hill Drive	Los Angeles	90068
+North Brookdale Road	Studio City	91604
+North Brooks Avenue	Los Angeles	90012
+North Brookwood Drive	La Habra	90631
+North Brown Sage Drive	Glendora	91741
+North Bruce Court	Los Angeles	90026
+North Bruges Avenue	Woodland Hills	91364
+North Brundage Avenue	Farmersville	93223
+North Brunello Way	Porter Ranch	91326
+North Bryant Road	Long Beach	90815
+North Buckboard Lane	Glendora	91741
+North Buckeye Drive	Bridgeport	93517
+North Buckler Avenue	Inglewood	90302
+North Buena Park Drive	Studio City	91604
+North Buena Vista Street	Burbank	91504
+North Buena Vista Street	Burbank	91505
+North Buffalo Avenue	Van Nuys	91401
+North Buhach Road	Atwater	95301
+North Buhach Road	Merced	95301
+North Bullis Road	Compton	90221
+North Bullis Road	Lynwood	90262
+North Bundy Drive	Los Angeles	90049
+North Bunker Hill Avenue	Los Angeles	90012
+North Burch Way	La Habra	90631
+North Burgundy Road	Woodland Hills	91364
+North Burke Street	Visalia	93292
+North Burlington Avenue	Los Angeles	90026
+North Burnaby Avenue	Glendora	91741
+North Burnaby Drive	Covina	91724
+North Burnaby Drive	Glendora	91741
+North Burnell Drive	Los Angeles	90065
+North Burnet Avenue	North Hills	91343
+North Burnett Road	Tipton	93272
+North Burris Avenue	Compton	90221
+North Burton Avenue	San Gabriel	91775
+North Burton Avenue	San Gabriel	91776
+North Burwood Avenue	West Covina	91790
+North Burwood Terrace	Los Angeles	90042
+North Bush St	Ukiah	 
+North Bushnell Avenue	Alhambra	91801
+North Bushnell Way	Los Angeles	90042
+North Bushrod Lane	Los Angeles	90077
+North Business Park Way	Merced	95348
+North Business Street	Long Beach	90807
+North Butte Drive	Merced	95340
+North Butte Road	Live Oak	95953
+North Butte Street	Dorris	96023
+North Butte Street	Dorris	96058
+North Butterfield Road	West Covina	91791
+North Butterfield Stage Road	Littlerock	93543

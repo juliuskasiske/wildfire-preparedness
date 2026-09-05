@@ -1,0 +1,279 @@
+2Nd	Calexico	92231
+2Nd	Carmel-By-The-Sea	93921
+2Nd	Havasu Lake	92363
+2Nd	La Verne	91750
+2Nd	Santa Cruz	95050
+2Nd	Santa Cruz	95060
+2Nd	Santa Cruz	95062
+2Nd	Shandon	93461
+2Nd	Watsonville	95076
+2Nd	Winterhaven	92283
+2Nd Apts A-B St	Eureka	95501
+2Nd Av	Blue Lake	95525
+2Nd Av	Fortuna	95540
+2Nd Av	Rio Dell	95562
+2Nd Av	Westhaven	95570
+2Nd Ave	Blythe	92225
+2Nd Ave	Calexico	92231
+2Nd Ave	Chico	95926
+2Nd Ave	Chula Vista	91910
+2Nd Ave	Chula Vista	91911
+2Nd Ave	Citrus Heights	95621
+2Nd Ave	Clearlake	95422
+2Nd Ave	Colma	94014
+2Nd Ave	Crockett	94525
+2Nd Ave	Daly City	94014
+2Nd Ave	Elk Grove	95624
+2Nd Ave	Escondido	92025
+2Nd Ave	Half Moon Bay	94019
+2Nd Ave	Hanford	93230
+2Nd Ave	Laguna Beach	92651
+2Nd Ave	Lakeport	95453
+2Nd Ave	Murrieta	92562
+2Nd Ave	Napa	94558
+2Nd Ave	National City	91950
+2Nd Ave	Newport Beach	92625
+2Nd Ave	Oroville	95965
+2Nd Ave	Other	94063
+2Nd Ave	Pacheco	94553
+2Nd Ave	Pacifica	94044
+2Nd Ave	Pinole	94564
+2Nd Ave	Pleasant Hill	94523
+2Nd Ave	Pleasant Hill	94553
+2Nd Ave	Redwood City	94063
+2Nd Ave	Sacramento	95817
+2Nd Ave	Sacramento	95818
+2Nd Ave	San Bruno	94066
+2Nd Ave	San Diego	0
+2Nd Ave	San Diego	92101
+2Nd Ave	San Diego	92103
+2Nd Ave	San Mateo	94401
+2Nd Ave	Sonoma	95476
+2Nd Ave	Walnut Creek	94597
+2Nd Ave	Walnut Grove	95690
+2Nd Ave	Winterhaven	92283
+2Nd Ave E	Escondido	92025
+2Nd Ave N	National City	91950
+2Nd Ave W	Escondido	92025
+2Nd Avenue	Arcadia	91006
+2Nd Avenue	Carmel	93923
+2Nd Avenue	Covina	91723
+2Nd Avenue	Gustine	95322
+2Nd Avenue	La Crescenta	91214
+2Nd Avenue	Los Angeles	90008
+2Nd Avenue	Los Angeles	90018
+2Nd Avenue	Los Angeles	90019
+2Nd Avenue	Los Angeles	90043
+2Nd Avenue	Lynwood	90262
+2Nd Avenue	Marina	93933
+2Nd Avenue	Merced	95340
+2Nd Avenue	Paramount	90723
+2Nd Avenue	Pebble Beach	93953
+2Nd Avenue	Salinas	93905
+2Nd Avenue	Sutter	95982
+2Nd Avenue	Weed	96094
+2Nd Cir	Sanger	93657
+2Nd Court	Santa Monica	90403
+2Nd Ct	San Joaquin	93660
+2Nd Dr	Winterhaven	92283
+2Nd Drive	Cutler	93615
+2Nd E St	Pittsburg	94565
+2Nd Helena Drive	Los Angeles	90049
+2Nd Ln	Big Bear City	92314
+2Nd Ln	South San Francisco	94080
+2Nd Pkwy	Sacramento	95823
+2Nd Pl	Calimesa	92320
+2Nd Pl	Escondido	92029
+2Nd Pl	Hanford	93230
+2Nd Place	Manhattan Beach	90266
+2Nd Rd	Calexico	92231
+2Nd St	Auburn	95603
+2Nd St	Avila Beach	93424
+2Nd St	Bakersfield	93304
+2Nd St	Bakersfield	93307
+2Nd St	Barstow	92311
+2Nd St	Beaumont	92223
+2Nd St	Berkeley	94710
+2Nd St	Big Bear City	92314
+2Nd St	Biggs	95917
+2Nd St	Bloomington	92316
+2Nd St	Bombay Beach	92257
+2Nd St	Borrego Springs	92004
+2Nd St	Brentwood	94513
+2Nd St	Calexico	92231
+2Nd St	Calimesa	92320
+2Nd St	Calistoga	94515
+2Nd St	Cathedral City	92234
+2Nd St	Cayucos	93430
+2Nd St	Ceres	95307
+2Nd St	Cloverdale	95425
+2Nd St	Coachella	92236
+2Nd St	Concord	94519
+2Nd St	Coronado	92118
+2Nd St	Daggett	92327
+2Nd St	Desert Hot Springs	92240
+2Nd St	Eagl	96110
+2Nd St	El Cajon	92019
+2Nd St	El Cajon	92021
+2Nd St	Empire	95319
+2Nd St	Empire	95357
+2Nd St	Encinitas	92024
+2Nd St	Eureka	95501
+2Nd St	Fallbrook	92028
+2Nd St	Fields Landing	95503
+2Nd St	Foresta	95389
+2Nd St	Fountain Valley	92708
+2Nd St	Fulton	95439
+2Nd St	Galt	95632
+2Nd St	Gilroy	95020
+2Nd St	Havasu Lake	92363
+2Nd St	Hayward	94541
+2Nd St	Healdsburg	95448
+2Nd St	Heber	92249
+2Nd St	Hemet	92544
+2Nd St	Hermosa Beach	90254
+2Nd St	Hollister	95023
+2Nd St	Hood	95639
+2Nd St	Hughson	95326
+2Nd St	Huntington Beach	92648
+2Nd St	Huntington Beach	92648-5103
+2Nd St	Huntington Beach	92648-5104
+2Nd St	Huntington Beach	92648-5105
+2Nd St	Huntington Beach	92648-5106
+2Nd St	Huntington Beach	92648-8182
+2Nd St	Huntington Beach	92648-8183
+2Nd St	Huntington Beach	92648-8184
+2Nd St	Huntington Beach	92648-8185
+2Nd St	Huron	93234
+2Nd St	Hydesville	95547
+2Nd St	Imperial	92251
+2Nd St	Isleton	95641
+2Nd St	Julian	92036
+2Nd St	Knightsen	94548
+2Nd St	Ladera Ranch	92694
+2Nd St	Lafayette	94549
+2Nd St	Laguna Beach	92651
+2Nd St	Lake Elsinore	92532
+2Nd St	Lake Forest	92630
+2Nd St	Lake Forest	92630-5402
+2Nd St	Lake Forest	92630-5403
+2Nd St	Lake Forest	92630-5404
+2Nd St	Lincoln	95648
+2Nd St	Los Altos	94022
+2Nd St	Los Altos Hills	94022
+2Nd St	Los Osos	93402
+2Nd St	Mcarthur	96056
+2Nd St	Mecca	92254
+2Nd St	Mendota	93640
+2Nd St	Menifee	92585
+2Nd St	Modesto	95351
+2Nd St	Montara	94037
+2Nd St	Monte Rio	95462
+2Nd St	Moorpark	93021
+2Nd St	Murrieta	92562
+2Nd St	Napa	94559
+2Nd St	National City	91950
+2Nd St	Newcastle	95658
+2Nd St	Norco	92860
+2Nd St	Oakley	94561
+2Nd St	Occidental	95465
+2Nd St	Orange Cove	93646
+2Nd St	Oro Grande	92368
+2Nd St	Oroville	95965
+2Nd St	Other	94037
+2Nd St	Palo Alto	94306
+2Nd St	Parlier	93648
+2Nd St	Paso Robles	93446
+2Nd St	Perris	92570
+2Nd St	Petaluma	94952
+2Nd St	Rancho Santa Fe	92067
+2Nd St	Represa	95630
+2Nd St	Represa	95671
+2Nd St	Richmond	94801
+2Nd St	Rio Linda	95673
+2Nd St	Riverbank	95367
+2Nd St	Riverside	92501
+2Nd St	Rodeo	94572
+2Nd St	Sacramento	95811
+2Nd St	Sacramento	95814
+2Nd St	San Bernardino	92408
+2Nd St	San Jacinto	92583
+2Nd St	San Joaquin	93660
+2Nd St	San Rafael	94901
+2Nd St	Sanger	93657
+2Nd St	Santa Clara	95054
+2Nd St	Santa Rosa	95401
+2Nd St	Santa Rosa	95402
+2Nd St	Santa Rosa	95404
+2Nd St	Santee	92071
+2Nd St	Seal Beach	90740
+2Nd St	Selma	93662
+2Nd St	Shandon	93461
+2Nd St	South San Francisco	94080
+2Nd St	Stanton	90680
+2Nd St	Stratford	93266
+2Nd St	Susanville	96130
+2Nd St	Temecula	92590
+2Nd St	Templeton	93465
+2Nd St	Trona	93562
+2Nd St	Unincorporated Alameda County	94541
+2Nd St	Unincorporated Alameda County	94542
+2Nd St	Union City	94587
+2Nd St	Victorville	92392
+2Nd St	Victorville	92395
+2Nd St	Westmorland	92281
+2Nd St	Westwood	96137
+2Nd St	Windsor	95492
+2Nd St	Winterhaven	92283
+2Nd St	Ybl	92886
+2Nd St	Yermo	92398
+2Nd St	Yorba Linda	92886
+2Nd St	Yucaipa	92399
+2Nd St & C Rd	Calipatria	92233
+2Nd St & Commercial	El Centro	92243
+2Nd St E	Calexico	92231
+2Nd St E	Sonoma	95476
+2Nd St & H St St	Calipatria	92233
+2Nd St N	Santa Clara	95054
+2Nd St S	Joshua Tree	92252
+2Nd St W	Sonoma	95476
+2Nd Street	Acton	93510
+2Nd Street	City Of Marysville	95901
+2Nd Street	Claremont	91711
+2Nd Street	Davis	95616
+2Nd Street	Davis	95618
+2Nd Street	Downey	90241
+2Nd Street	Duarte	91010
+2Nd Street	Exeter	93221
+2Nd Street	Gonzales	93926
+2Nd Street	Greenfield	93927
+2Nd Street	Gustine	95322
+2Nd Street	Hermosa Beach	90254
+2Nd Street	Irwindale	91706
+2Nd Street	La Verne	91750
+2Nd Street	Lindsay	93247
+2Nd Street	Livingston	95334
+2Nd Street	Long Beach	90803
+2Nd Street	Los Angeles	90026
+2Nd Street	Los Angeles	90058
+2Nd Street	Manhattan Beach	90266
+2Nd Street	Meridian	95957
+2Nd Street	Montebello	90640
+2Nd Street	Newhall	91321
+2Nd Street	Pacific Grove	93950
+2Nd Street	Paramount	90723
+2Nd Street	Pomona	91766
+2Nd Street	San Dimas	91773
+2Nd Street	San Fernando	91340
+2Nd Street	Santa Monica	90401
+2Nd Street	Santa Monica	90403
+2Nd Street	Santa Monica	90405
+2Nd Street	Soledad	93960
+2Nd Street	Tulelake	96134
+2Nd Street	West Sacramento	95605
+2Nd Street	Whittier	90605
+2Nd Street	Winters	95694
+2Nd Street East	Lancaster	93535
+2Nd Street East	Palmdale	93550
+2Nd Trail	Sylmar	91342
+2Nd W St	Pittsburg	94565

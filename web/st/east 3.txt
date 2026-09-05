@@ -1,0 +1,36 @@
+East 30Th Street	Los Angeles	90011
+East 30Th Street	Los Angeles	90058
+East 31St Street	Long Beach	90807
+East 31St Street	Los Angeles	90011
+East 32Nd Street	Long Beach	90807
+East 32Nd Street	Los Angeles	90011
+East 32Nd Street	Signal Hill	90755
+East 33Rd Street	Long Beach	90807
+East 33Rd Street	Los Angeles	90011
+East 33Rd Street	Signal Hill	90755
+East 34Th Street	Los Angeles	90011
+East 35Th Street	Long Beach	90807
+East 35Th Street	Los Angeles	90011
+East 36Th Place	Los Angeles	90011
+East 36Th Street	Long Beach	90807
+East 36Th Street	Los Angeles	90011
+East 37Th Street	Long Beach	90807
+East 37Th Street	Los Angeles	90011
+East 37Th Street	Los Angeles	90058
+East 38Th Street	Los Angeles	90011
+East 38Th Street	Los Angeles	90058
+East 3Rd Place	Los Angeles	90063
+East 3Rd St	Pittsburg	94565
+East 3Rd Street	Azusa	91702
+East 3Rd Street	Benicia	94510
+East 3Rd Street	La Verne	91750
+East 3Rd Street	Long Beach	90802
+East 3Rd Street	Long Beach	90803
+East 3Rd Street	Long Beach	90814
+East 3Rd Street	Los Angeles	90012
+East 3Rd Street	Los Angeles	90013
+East 3Rd Street	Los Angeles	90022
+East 3Rd Street	Los Angeles	90033
+East 3Rd Street	Los Angeles	90063
+East 3Rd Street	Pomona	91766
+East 3Rd Street	San Dimas	91773

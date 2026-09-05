@@ -1,0 +1,145 @@
+S J	Imperial	92251
+S J Rd	Imperial	92251
+S J St	Bakersfield	93304
+S J St	Imperial	92251
+S J St	Lompoc	93436
+S J St	Madera	93637
+S J St	Madera	93638
+S J St	Oxnard	93030
+S J St	Oxnard	93033
+S J St	San Bernardino	92410
+S J St 1/2	Madera	93638
+S Jacalene Ln	Anaheim	92802
+S Jacaranda St	Anaheim	92805
+S Jacaranda Way	Anaheim	92807
+S Jack Godwin Ct	Tracy	95304
+S Jack Godwin Wy	Tracy	95304
+S Jack Tone Rd	Escalon	95320
+S Jack Tone Rd	Manteca	95336
+S Jack Tone Rd	Manteca	95337
+S Jack Tone Rd	Ripon	95336
+S Jack Tone Rd	Ripon	95366
+S Jack Tone Rd	Stockton	95206
+S Jack Tone Rd	Stockton	95215
+S Jackie Ct	Visalia	93277
+S Jackie St	Visalia	93277
+S Jackson Ave	Fresno	93702
+S Jackson Ave	Fresno	93725
+S Jackson Ave	San Jose	95116
+S Jackson Pl	Whittier	90602
+S Jackson St	Coachella	92236
+S Jackson St	Oxnard	93033
+S Jackson St	Santa Ana	92704
+S Jackson St	Thermal	92274
+S Jackson Way	Alamo	94507
+S Jacmar Ave	Whittier	90605
+S Jacob St	Visalia	93277
+S Jacobs Dr	Mh	95391
+S Jacobs St	Colton	92324
+S Jacques Ct	Visalia	93277
+S Jacques St	Visalia	93277
+S Jade Ave	Fresno	93725
+S Jambolaya St	Anaheim	92806
+S James Ave	Ventura	93003
+S James Rd	Cantua Creek	93608
+S James Rd	Kerman	93630
+S James Rd	San Joaquin	93660
+S James Rd	Tranquillity	93668
+S James St	Orange	92869
+S Jameson	Huron	93234
+S Jameson	Kerman	93630
+S Jameson	Riverdale	93656
+S Jameson Ave	Five Points	93624
+S Jameson Ave	Fresno	93706
+S Jameson Ave	Riverdale	93656
+S Jameson Ln	Montecito	93108
+S Jameson St	Orange	92866
+S Jamil Ln	Mh	95391
+S Janelle Ln	Santa Maria	93458
+S Janet Pl	Fullerton	92831
+S Janet Rd	French Camp	95231
+S Janette Ln	Anaheim	92802
+S Janss St	Anaheim	92805
+S Jasmin Ct	Loma Linda	92354
+S Jasmine Ct	Ontario	91762
+S Jasmine Dr	Bre	92821
+S Jasmine Ln	Ontario	91762
+S Jasmine Pl	Ontario	91762
+S Jasper Cir	Anaheim	92806
+S Jasper Paseo	Ontario	91761
+S Java Paseo	Ontario	91762
+S Javalambre Dr	Whittier	90601
+S Jay Cir	Anaheim	92808
+S Jay Ct	Anaheim	92807
+S Jaye Ct	Santa Maria	93458
+S Jaye St	Porterville	93257
+S Jayton Ln	Encinitas	92024
+S Jeanine St	Anaheim	92806
+S Jeanine Way	Anaheim	92806
+S Jefferson Ave	Fullerton	92832
+S Jefferson Ln	Colton	92324
+S Jefferson St	Cloverdale	95425
+S Jefferson St	Modesto	95351
+S Jefferson St	Napa	94559
+S Jefferson St	Pla	92870
+S Jefferson St	Placentia	92870
+S Jeffrey Ct	Visalia	93292
+S Jelly Bean Ln	Oakdale	95361
+S Jennie St	Visalia	93277
+S Jennifer Dr	Porterville	93257
+S Jennifer Ln	Orange	92869
+S Jensen Ct	Visalia	93292
+S Jensen St	Visalia	93292
+S Jensen Way	Fullerton	92833
+S Jerinne St	Anaheim	92804
+S Jerome Ave	Thousand Oaks	91320
+S Jessie Ave	Manteca	95336
+S Jetty Dr	Anaheim	92802
+S Jill Rd	Anaheim	92804
+S Joane Way	Santa Ana	92704
+S Joanne Ave	Ventura	93003
+S Joanne St	Ventura	93003
+S Joaquin Ave	Kerman	93630
+S Joaquin Ct	Tracy	95304
+S Joaquin St	Coalinga	93210
+S Joaquin Wy (River Club)	Tracy	95304
+S John Albert Ave	Fresno	93725
+S John Muir Rd	Lake Arrowhead	92352
+S Johnson Ave	El Cajon	92020
+S Johnson Ct	Tustin	92782
+S Johnson Ct	Visalia	93277
+S Johnson Rd	Turlock	95380
+S Johnson St	Visalia	93277
+S Johnson St	Visalia	93291
+S Joliet Cir	Anaheim	92807
+S Jolly Paseo	Ontario	91761
+S Jonah Way	San Jacinto	92583
+S Jones	Ventura	93003
+S Joplon Ct	Colton	92324
+S Jordan	Ventura	93001
+S Jordan Ave	Ontario	91762
+S Jordan Ave	San Jacinto	92583
+S Jordan Ave	Ventura	93001
+S Jordan Dr	Ventura	93001
+S Jordan Rd	Whittier	90603
+S Jordan St	San Jacinto	92583
+S Jordan St	Ventura	93001
+S Joseph Ave	Kerman	93630
+S Joy St	Corona	92879
+S Joyce Ave	Rialto	92376
+S Juanche St	Tranquillity	93668
+S Juanita Ave	Oxnard	93030
+S Juanita St	Hemet	92543
+S Judy Ave	Fresno	93727
+S Julian St	Ramona	92065
+S Julianna Ave	Parlier	93648
+S Julieann Ct	Visalia	93277
+S Julieann St	Visalia	93277
+S June Pl	Anaheim	92802
+S Juniper Rd (River Club)	Tracy	95304
+S Juniper St	Escondido	92025
+S Junipero St	Ventura	93001
+S Jurymast Dr	Oxnard	93030
+S Justin Ave	Fresno	93725
+S Jutewood St	Ana	92808
+S Jutewood St	Anaheim	92808

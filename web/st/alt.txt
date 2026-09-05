@@ -1,0 +1,760 @@
+Alta	Aptos	95003
+Alta	Carmel-By-The-Sea	93921
+Alta	Gonzales	93926
+Alta	Monterey	93940
+Alta	Santa Cruz	95060
+Alta	Watsonville	95076
+Alta Acres Drive	Three Rivers	93271
+Alta Airosa Dr	Palermo	95966
+Alta Arden Expy	Sacramento	95815
+Alta Arden Expy	Sacramento	95825
+Alta Av	Roseville	95678
+Alta Ave	Joshua Tree	92252
+Alta Ave	Joshua Tree	92284
+Alta Ave	Lagunitas	94938
+Alta Ave	Landers	92284
+Alta Ave	Landers	92285
+Alta Ave	Menifee	92585
+Alta Ave	Mountain View	94043
+Alta Ave	Napa	94559
+Alta Ave	Rohnert Park	94928
+Alta Ave	San Mateo	94403
+Alta Ave	Upland	91786
+Alta Ave	Yucca Mesa	92284
+Alta Ave	Yucca Valley	92284
+Alta Avenue	Carmel	93923
+Alta Avenue	Santa Monica	90402
+Alta Avenue	Whittier	90601
+Alta Bahia Ct	San Diego	92109
+Alta Bonny Nook Rd	Alta	95701
+Alta Bonny Nook Rd	Dutch Flat	95714
+Alta Calle	Vista	92084
+Alta Camino Ct	Escondido	92027
+Alta Camino Dr	Redding	96002
+Alta Campo Dr	Redding	96002
+Alta Canyada Road	La Canada Flintridge	91011
+Alta Canyon 4 Rd	Guerneville	95446
+Alta Carmel Ct	San Diego	92128
+Alta Cedar Ln	Paradise	95969
+Alta Center Dr	Jurupa Valley	91752
+Alta Colina	Indian Wells	92210
+Alta Colina Dr	Camarillo	93012
+Alta Colina Rd	Camarillo	93012
+Alta Colina Way	Indian Wells	92210
+Alta Crest Drive	Altadena	91001
+Alta Cresta	Palm Springs	92262
+Alta Cresta Ave	Riverside	92508
+Alta Cresta Cir	Murrieta	92562
+Alta Cresta Way	Indio	92203
+Alta Ct	Morro Bay	93442
+Alta Ct	Oakdale	95361
+Alta Ct	Pittsburg	94565
+Alta Ct	San Diego	92128
+Alta Ct	San Diego	92139
+Alta Ct	San Jose	95131
+Alta Ct	San Marcos	92069
+Alta Cuesta	Rancho Cucamonga	91730
+Alta Cuesta Dr	Rancho Cucamonga	91730
+Alta Dr	Auburn	95603
+Alta Dr	Coto De Caza	92679
+Alta Dr	Jurupa Valley	92509
+Alta Dr	Lucerne	95458
+Alta Dr	National City	91950
+Alta Dr	Painted Cave	93105
+Alta Dr	Petaluma	94954
+Alta Dr	Sacramento	95822
+Alta Dr	Villa Park	92861
+Alta Dr	Yucaipa	92399
+Alta Drive	Cutler	93615
+Alta Drive	Pomona	91767
+Alta Drive	Springville	93265
+Alta Drive	Topanga	90290
+Alta Drive	Valencia	91355
+Alta Forestry Rd	Dutch Flat	95714
+Alta Garden Ln	Sacramento	95825
+Alta Glen Ct	San Jose	95125
+Alta Glen Dr	San Jose	95125
+Alta Hacienda Drive	Walnut	91789
+Alta Haciendas Rd	Orinda	94563
+Alta Heights Ct	Los Gatos	95030
+Alta Hill Mine Road	Grass Valley	95945
+Alta Hill Way	Walnut Creek	94595
+Alta Hills Way	Laguna Niguel	92677
+Alta Knoll Drive	Santa Clarita	91350
+Alta La Jolla Dr	La Jolla	92037
+Alta Laguna Blvd	Laguna Beach	92651
+Alta Laguna Way	San Diego	92126
+Alta Lake Avenue	Baldwin Park	91706
+Alta Lane	Kings Canyon National Pk	93633
+Alta Ln	Costa Mesa	92627
+Alta Ln	El Cajon	92021
+Alta Ln	Kelseyville	95451
+Alta Ln	La Mesa	91941
+Alta Ln	Lafayette	94549
+Alta Ln	San Carlos	94070
+Alta Ln	Sebastopol	95472
+Alta Loma	Benicia	94510
+Alta Loma	Lake Forest	92630
+Alta Loma	Santa Cruz	95062
+Alta Loma Ave	Daly City	94015
+Alta Loma Ct	Danville	94526
+Alta Loma Ct	Granite Bay	95746
+Alta Loma Ct	Jamul	91935
+Alta Loma Ct	Laguna Hills	92653
+Alta Loma Ct	Rio Linda	95673
+Alta Loma Dr	American Canyon	94503
+Alta Loma Dr	Angwin	94508
+Alta Loma Dr	Bonita	91902
+Alta Loma Dr	Corona	92882
+Alta Loma Dr	Jamul	91935
+Alta Loma Dr	Joshua Tree	92252
+Alta Loma Dr	Laguna Beach	92651
+Alta Loma Dr	Murrieta	92563
+Alta Loma Dr	Rancho Cucamonga	91701
+Alta Loma Dr	Rancho Cucamonga	91737
+Alta Loma Dr	Redlands	92373
+Alta Loma Dr	South San Francisco	94080
+Alta Loma Dr	Twentynine Palms	92277
+Alta Loma Gln	Escondido	92026
+Alta Loma Ln	Big Bear City	92314
+Alta Loma Ln	Jamul	91935
+Alta Loma Ln	Murrieta	92563
+Alta Loma Pl	Granite Bay	95746
+Alta Loma Pl	San Ramon	94583
+Alta Loma Road	West Hollywood	90069
+Alta Loma Street	Davis	95616
+Alta Loma Terrace	Los Angeles	90068
+Alta Loma Way	Riverside	92503
+Alta Lorraine Way	North Highlands	95660
+Alta Madera	Carmel	93923
+Alta Madera Drive	Valencia	91355
+Alta Mar Dr	Jurupa Valley	92509
+Alta Mar Dr	Victorville	92392
+Alta Mar Ter	San Jose	95126
+Alta Mar Way	San Francisco	94121
+Alta Marino Cir	Pinole	94564
+Alta Matum Way	Lucerne Valley	92356
+Alta Meadow Ln	Escondido	92027
+Alta Mesa	Auburn	95603
+Alta Mesa Ave	Palo Alto	94306
+Alta Mesa Ave	Phelan	92371
+Alta Mesa Cir	Napa	94558
+Alta Mesa Circle	Monterey	93940
+Alta Mesa Ct	Manchester	 
+Alta Mesa Ct	Moraga	94556
+Alta Mesa Ct	Morgan Hill	95037
+Alta Mesa Ct	Temecula	92592
+Alta Mesa Dr	Brea	92821
+Alta Mesa Dr	Joshua Tree	92252
+Alta Mesa Dr	Moraga	94556
+Alta Mesa Dr	Redding	96002
+Alta Mesa Dr	Riverside	92507
+Alta Mesa Dr	South San Francisco	94080
+Alta Mesa Dr	Valley Center	92082
+Alta Mesa Dr	Vista	92084
+Alta Mesa Dr	Yucca Valley	92284
+Alta Mesa Drive	Studio City	91604
+Alta Mesa East Rd	Wilton	95693
+Alta Mesa Lane	Antioch	94531
+Alta Mesa Pl	Napa	94558
+Alta Mesa Place	Monterey Park	91754
+Alta Mesa Place	Studio City	91604
+Alta Mesa Rd	 	 
+Alta Mesa Rd	Galt	95632
+Alta Mesa Rd	Herald	95638
+Alta Mesa Rd	Manchester	 
+Alta Mesa Rd	Oak Hills	92344
+Alta Mesa Rd	Victorville	92392
+Alta Mesa Rd	Wilton	95693
+Alta Mesa Rd	Woodside	94062
+Alta Mesa Road	Monterey	93940
+Alta Mesa St	Temecula	92592
+Alta Mesa Way	Brea	92821
+Alta Mesa Way	San Diego	92115
+Alta Mira	Aptos	95003
+Alta Mira Ave	Needles	92363
+Alta Mira Cir	North Highlands	95660
+Alta Mira Dr	Havasu Lake	92363
+Alta Mira Dr	Indian Wells	92210
+Alta Mira Dr	La Mesa	91941
+Alta Mira Dr	Redlands	92373
+Alta Mira Dr	Richmond	94806
+Alta Mira Dr	Santa Clara	95051
+Alta Mira Drive	Vacaville	95688
+Alta Mira Ln	Palermo	95966
+Alta Mira Ln	San Luis Obispo	93401
+Alta Mira Ln	Valley Center	92082
+Alta Mira Pl	San Jose	95124
+Alta Mira St	Menifee	92584
+Alta Mira St	Simi Valley	93065
+Alta Mira Way	Riverside	92505
+Alta Monte Dr	Santa Rosa	95404
+Alta Mura Dr	Joshua Tree	92252
+Alta Mura Road	Pacific Palisades	90272
+Alta Murrieta Dr	Murrieta	92563
+Alta Oak Way	Gilroy	95020
+Alta Oaks Dr	Wildomar	92595
+Alta Oaks Drive	Arcadia	91006
+Alta Oaks Rd	Alta	95701
+Alta Oaks Rd	Hesperia	92345
+Alta Palma Rd	Perris	92571
+Alta Panorama	North Tustin	92705
+Alta Park Lane	La Canada Flintridge	91011
+Alta Pasa Drive	Altadena	91001
+Alta Pasa Drive	Pasadena	91104
+Alta Paseo	Burbank	91501
+Alta Paseo Ct	San Jose	95120
+Alta Peak Ct	Bakersfield	93313
+Alta Peak Dr	Hollister	95023
+Alta Pine Drive	Altadena	91001
+Alta Pine Ln	San Juan Capistrano	92675
+Alta Pl	El Cajon	92021
+Alta Pl	Westminster	92683
+Alta Powerhouse Rd	Alta	95701
+Alta Pradera Ln	Atascadero	93422
+Alta Punta Ave	El Cerrito	94530
+Alta Ravine Rd	Alta	95701
+Alta Rd	Berkeley	94708
+Alta Rd	Palo Alto	94304
+Alta Rd	Palo Alto	94305
+Alta Rd	San Diego	92154
+Alta Reservoir Ct	Alta	95701
+Alta Reservoir Rd	Alta	95701
+Alta Rica Dr	La Mesa	91941
+Alta Rico Dr	Redding	96002
+Alta Ridge	Palm Springs	92262
+Alta Saga Dr	Redding	96002
+Alta Saguna Ct	Camarillo	93010
+Alta School St	Alta	95701
+Alta Sierra Drive	Grass Valley	95949
+Alta Sierra Pl	Alamo	94507
+Alta Sierra St	Stockton	95206
+Alta Sonoma Rd	Petaluma	94954
+Alta Sonoma Rd	Sonoma	95476
+Alta St	Brentwood	94513
+Alta St	Jurupa Valley	92509
+Alta St	Los Olivos	93441
+Alta St	Placentia	92870
+Alta St	Redlands	92374
+Alta St	San Francisco	94133
+Alta St	San Luis Obispo	93401
+Alta St	Simi Valley	93063
+Alta Street	Arcadia	91006
+Alta Street	Gonzales	93926
+Alta Street	Grass Valley	95945
+Alta Street	La Habra	90631
+Alta Street	Los Angeles	90031
+Alta Street	Monrovia	91016
+Alta Sunrise Dr	Citrus Heights	95610
+Alta Ter	Corte Madera	94925
+Alta Ter	La Mesa	91941
+Alta Terra	Laguna Niguel	92677
+Alta Terrace	La Crescenta	91214
+Alta Tierra Ct	Los Gatos	95032
+Alta Tierra Rd	Los Altos Hills	94022
+Alta Tr	Lucerne	95458
+Alta Trail	Sylmar	91342
+Alta Tupelo Drive	Calabasas	91302
+Alta Valley Dr	Sacramento	95823
+Alta Vega Rd	Boulevard	91905
+Alta Ventura Ct	Morgan Hill	95037
+Alta Verde Ave	Bakersfield	93307
+Alta Verde Dr	Fallbrook	92028
+Alta Verde Ln	Los Altos Hills	94022
+Alta Verdi	Aptos	95003
+Alta Via	Brookdale	95007
+Alta View Dr	Bonita	91902
+Alta View Dr	San Diego	92139
+Alta View Drive	Studio City	91604
+Alta Vis	Pittsburg	94565
+Alta Vista	Avalon	90704
+Alta Vista	Bonny Doon	95060
+Alta Vista	Carlsbad	92009
+Alta Vista	Foothill Ranch	92610-1849
+Alta Vista	Foothill Ranch	92610-1850
+Alta Vista	Foothill Ranch	92610-1851
+Alta Vista	Highland	92346
+Alta Vista	La Verne	91750
+Alta Vista	Laguna Woods	92637
+Alta Vista	Lake Elsinore	92530
+Alta Vista	Lake Forest	92610
+Alta Vista	Los Gatos	95033
+Alta Vista	Rancho Mirage	92270
+Alta Vista	San Anselmo	94960
+Alta Vista	Santa Cruz	95060
+Alta Vista	Solvang	93463
+Alta Vista	Watsonville	95076
+Alta Vista Av	Roseville	95678
+Alta Vista Av Unit A	Roseville	95678
+Alta Vista Ave	Atascadero	93422
+Alta Vista Ave	Big Bear City	92314
+Alta Vista Ave	Big Bear Lake	92314
+Alta Vista Ave	Big Bear Lake	92315
+Alta Vista Ave	Corona	92882
+Alta Vista Ave	Escondido	92027
+Alta Vista Ave	Los Altos	94022
+Alta Vista Ave	Mill Valley	94941
+Alta Vista Ave	San Diego	92114
+Alta Vista Ave	Santa Rosa	95404
+Alta Vista Ave	Santa Rosa	95409
+Alta Vista Ave	Saratoga	95070
+Alta Vista Avenue	Arcadia	91006
+Alta Vista Avenue	Grass Valley	95945
+Alta Vista Avenue	Harbor City	90710
+Alta Vista Avenue	Monrovia	91016
+Alta Vista Avenue	South Pasadena	91030
+Alta Vista Avenue	Valencia	91355
+Alta Vista Boulevard	Los Angeles	90036
+Alta Vista Boulevard	Los Angeles	90046
+Alta Vista Cir	Huntington Beach	92647
+Alta Vista Cir	Huntington Beach	92647-6130
+Alta Vista Cir	Pittsburg	94565
+Alta Vista Circle	South Pasadena	91030
+Alta Vista Court	Seaside	93955
+Alta Vista Ct	Danville	94506
+Alta Vista Ct	Galt	95632
+Alta Vista Ct	Novato	94949
+Alta Vista Ct	Oceanside	92057
+Alta Vista Ct	Pioneer	95666
+Alta Vista Ct	Pittsburg	94565
+Alta Vista Ct	San Jacinto	92583
+Alta Vista Ct	Santa Rosa	95409
+Alta Vista Dr	Atherton	94027
+Alta Vista Dr	Bakersfield	93305
+Alta Vista Dr	Clearlake Oaks	95423
+Alta Vista Dr	Dana Point	92629
+Alta Vista Dr	El Cerrito	94530
+Alta Vista Dr	Fallbrook	92028
+Alta Vista Dr	Fullerton	92835
+Alta Vista Dr	Healdsburg	95448
+Alta Vista Dr	Joshua Tree	92252
+Alta Vista Dr	Julian	92036
+Alta Vista Dr	Moreno Valley	92557
+Alta Vista Dr	Needles	92363
+Alta Vista Dr	Newport Beach	92660
+Alta Vista Dr	Oakhurst	93644
+Alta Vista Dr	Orinda	94563
+Alta Vista Dr	Pacifica	94044
+Alta Vista Dr	Pinon Hills	92372
+Alta Vista Dr	Redlands	92373
+Alta Vista Dr	Riverside	92506
+Alta Vista Dr	Simi Valley	93063
+Alta Vista Dr	South San Francisco	94080
+Alta Vista Dr	Victorville	92395
+Alta Vista Dr	Vista	92084
+Alta Vista Dr	Walnut Creek	94596
+Alta Vista Drive	Alhambra	91803
+Alta Vista Drive	Altadena	91001
+Alta Vista Drive	Glendale	91204
+Alta Vista Drive	Glendale	91205
+Alta Vista Drive	Grass Valley	95945
+Alta Vista Drive	La Canada Flintridge	91011
+Alta Vista Drive	La Mirada	90638
+Alta Vista Drive	Rancho Palos Verdes	90275
+Alta Vista Drive	Sierra Madre	91024
+Alta Vista Drive	Vacaville	95688
+Alta Vista Drive	Winters	95694
+Alta Vista Lane	Los Banos	93635
+Alta Vista Ln	Barstow	92311
+Alta Vista Ln	Citrus Heights	95610
+Alta Vista Ln	Nipomo	93444
+Alta Vista Pl	Brentwood	94513
+Alta Vista Pl	Camarillo	93012
+Alta Vista Pl	Fontana	92336
+Alta Vista Rd	Adelanto	92301
+Alta Vista Rd	Mariposa	95338
+Alta Vista Rd	Mill Valley	94941
+Alta Vista Rd	Montara	94037
+Alta Vista Rd	Palm Springs	92264
+Alta Vista Rd	Phelan	92371
+Alta Vista Rd	Pinon Hills	92372
+Alta Vista Rd	Santa Barbara	93103
+Alta Vista Rd	Simi Valley	93063
+Alta Vista Rd	Woodside	94062
+Alta Vista Ridge Rd	Simi Valley	93063
+Alta Vista St	Apple Valley	92308
+Alta Vista St	Pla	92870
+Alta Vista St	Placentia	92870
+Alta Vista St	Porterville	93257
+Alta Vista St	San Diego	92109
+Alta Vista St	Simi Valley	93063
+Alta Vista St	Turlock	95382
+Alta Vista Ter	Vista	92084
+Alta Vista Way	Arroyo Grande	93420
+Alta Vista Way	Bella Vista	96003
+Alta Vista Way	Daly City	94014
+Alta Vista Way	Danville	94506
+Alta Vista Way	Fontana	92336
+Alta Vista Way	Hollister	95023
+Alta Vista Way	Laguna Beach	92651
+Alta Vista Way	Menifee	92585
+Alta Vista Way	Menifee	92586
+Alta Vista Way	Redding	96003
+Alta Vista Way	San Diego	92109
+Alta Vista Way	San Jose	95127
+Alta Vista Way	San Rafael	94901
+Alta Vista Way	Sylmar	91342
+Alta Vista Wy	Lucerne	95458
+Alta Viva	Boulevard	91905
+Alta Viva Ln	Boulevard	91905
+Alta Way	Chatsworth	91311
+Alta Way	Corte Madera	94925
+Alta Way	Hanford	93230
+Alta Way	Mariposa	95338
+Alta Way	Mill Valley	94941
+Alta Way	Modesto	95350
+Alta Wood Drive	Altadena	91001
+Alta Woods Way	Rancho Cucamonga	91701
+Altabrisa Way	Moreno Valley	92557
+Altadena Ave	Salton City	92274
+Altadena Ave	San Diego	92102
+Altadena Ave	San Diego	92105
+Altadena Ave	San Diego	92115
+Altadena Cir	Pittsburg	94565
+Altadena Ct	Rancho Cucamonga	91739
+Altadena Dr	Los Altos Hills	94022
+Altadena Dr	Morongo Valley	92256
+Altadena Dr	Riverside	92503
+Altadena Dr	Tustin	92780
+Altadena Ln	Paso Robles	93446
+Altadena Ln	San Jose	95127
+Altadena Rd	Lakeside	92040
+Altadena St	Hesperia	92344
+Altadena St	Ventura	93004
+Altadena Way	Sacramento	95841
+Altagracia Drive	Tujunga	91042
+Altai Ln	Menifee	92584
+Altair	Irvine	92603
+Altair	Temecula	92590
+Altair Av	Vandenberg Village	93436
+Altair Ave	Foster City	94404
+Altair Ave	Thousand Oaks	91360
+Altair Court	Merced	95341
+Altair Ct	Bakersfield	93314
+Altair Ct	Eastvale	92880
+Altair Ct	Palm Springs	92264
+Altair Ct	San Diego	92120
+Altair Drive	Nevada City	95959
+Altair Lane	Santa Clarita	91390
+Altair Ln	Huntington Beach	92646-7515
+Altair Ln	Huntington Beach	92646-7537
+Altair Pkwy	Sacramento	95823
+Altair Pl	Vandenberg Village	93436
+Altair Place	Venice	90291
+Altair St	Barstow	92311
+Altair St	Yermo	92365
+Altair Vista	Temecula	92590
+Altair Way	Sunnyvale	94086
+Altair Wy	Lathrop	95330
+Altaire Walk	Palo Alto	94303
+Altamar Cir	Corona	92883
+Altamar Ct	Rancho Santa Fe	92067
+Altamar Dr	Laguna Beach	92651
+Altamar Place	Santa Fe Springs	90670
+Altamead Dr	Los Altos	94022
+Altamead Dr	Los Altos	94024
+Altameda Pl	Elk Grove	95758
+Altamere Avenue	Canyon Country	91351
+Altamira Ave	Kentfield	94904
+Altamira Cir	Morgan Hill	95037
+Altamira Circle	West Covina	91792
+Altamira Ct	Novato	94949
+Altamira Ct	Vista	92081
+Altamira Dr	Chino Hills	91709
+Altamira Dr	Indian Wells	92210
+Altamira Dr	Laguna Hills	92653
+Altamira Drive	West Covina	91792
+Altamira Pl	San Diego	92103
+Altamira Way	Riverside	92505
+Altamirano Ln	Huntington Beach	92647
+Altamirano Ln	Huntington Beach	92647-6604
+Altamirano Ln	Huntington Beach	92647-6605
+Altamirano Ln	Huntington Beach	92647-6606
+Altamirano Ln	Huntington Beach	92647-6607
+Altamirano Ln	Huntington Beach	92647-6608
+Altamirano Ln	Huntington Beach	92647-6609
+Altamirano Ln	Huntington Beach	92647-6610
+Altamirano Ln	Huntington Beach	92647-6663
+Altamirano Way	San Diego	92103
+Altamont	Watsonville	95076
+Altamont Ave	Mill Valley	94941
+Altamont Ave	San Jose	95125
+Altamont Cir	Los Altos Hills	94022
+Altamont Cir	San Diego	92139
+Altamont Court	Fairfield	94534
+Altamont Ct	Los Altos Hills	94022
+Altamont Ct	Modesto	95358
+Altamont Ct	San Diego	92139
+Altamont Ct	Skyforest	92385
+Altamont Ct	Sunnyvale	94085
+Altamont Dr	Carmichael	95608
+Altamont Dr	Madera	93638
+Altamont Dr	Milpitas	95035
+Altamont Dr	San Diego	92139
+Altamont Dr	South San Francisco	94080
+Altamont Dr	Tracy	95376
+Altamont Pl	San Diego	92139
+Altamont Rd	La Mesa	91942
+Altamont Rd	Los Altos Hills	94022
+Altamont Street	Los Angeles	90065
+Altamont Way	Camarillo	93010
+Altamont Way	Redwood City	94062
+Altamont Way	San Diego	92139
+Altamont Wy	Camarillo	93010
+Altamonte Drive	Beale Afb	95903
+Altamor Drive	Los Angeles	90045
+Altamount	Felton	95018
+Altamount Dr	Orinda	94563
+Altamura Ct	Temecula	92592
+Altamura Ln	Bakersfield	93312
+Altamura Way	Fontana	92336
+Altana Way	San Diego	92108
+Altanero	Mission Viejo	92691
+Altano Street	Sylmar	91342
+Altanos Rd	Temecula	92592
+Altanos St	Temecula	92592
+Altaparke Ave	Sacramento	95834
+Altapasa Drive	Pasadena	91104
+Altar Court	Palmdale	93551
+Altari Pl	Rancho Cucamonga	91701
+Altaridge Cir	Victorville	92392
+Altaridge Drive	Topanga	90290
+Altarinda Cir	Orinda	94563
+Altarinda Rd	Orinda	94563
+Altario Street	La Puente	91744
+Altata Drive	Pacific Palisades	90272
+Altatina Dr	Chico	95928
+Altatina Dr	Forest Ranch	95942
+Altavan Avenue	Los Angeles	90045
+Altaview Dr	Orange	92867
+Altaview Dr	Orange	92869
+Altaville Court	Merced	95340
+Altaville Ln	Bakersfield	93309
+Altavista Dr	Temecula	92592
+Altawood Ct	Sacramento	95827
+Altdorf Dr	Crestline	92325
+Altejo Bella	Beaumont	92223
+Altena Drive	Santa Clarita	91350
+Altena St	San Rafael	94901
+Alter	Foothill Ranch	92610
+Alter	Lake Forest	92610
+Alter St	Cloverdale	95425
+Alteri Ct	Folsom	95630
+Alterio Lane	Rough And Ready	95975
+Altern Street	Arcadia	91006
+Alterra Dr	Lakeport	95453
+Alterra Way	Sacramento	95835
+Altessa Ct	Brentwood	94513
+Altessa Dr	Brentwood	94513
+Altessa Ln	Ceres	95307
+Altezza	Irvine	92606
+Altezza Dr	Mission Viejo	92692
+Altfillisch Ct	Eastvale	92880
+Altham Ct	San Jose	95132
+Althea Ave	Mission Viejo	92691
+Althea Ct	La Quinta	92253
+Althea Ct	Oxnard	93036
+Althea Ln	Carlsbad	92008
+Althea St	Jurupa Valley	92509
+Althea Way	Jurupa Valley	92509
+Althea Way	Oak Run	96069
+Althoff Ct	Modesto	95355
+Althoff Way	Modesto	95355
+Althorn Ct	Crestline	92325
+Althorp Ln	Tracy	95377
+Altima Ct	Winchester	92596
+Altimira	Coto De Caza	92679
+Altimira Cir	Morgan Hill	95037
+Altino	Newport Beach	92657
+Altino Blvd	San Jose	95136
+Altiplano Way	San Jose	95119
+Altisima	Rancho Santa Margarita	92688
+Altisima Dr	Winchester	92596
+Altisma Way	Carlsbad	92009
+Altissimo Pl	San Jose	95131
+Altissimo Way	Lake Elsinore	92532
+Altito Way	La Mesa	91941
+Altitude Ct	Fair Oaks	95628
+Altiva Pl	Carlsbad	92009
+Altivo	Rancho Santa Margarita	92688
+Altivo	Watsonville	95076
+Altivo Ln	Corona	92883
+Altivo Pl	Ful	92835
+Altivo Pl	Fullerton	92835
+Altivo St	Moreno Valley	92555
+Altivo Way	Los Angeles	90026
+Altizer Ct	Eastvale	92880
+Altman Avenue	Los Angeles	90034
+Altman Street	Los Angeles	90031
+Altman Way	Elk Grove	95757
+Altmark Avenue	Whittier	90601
+Alto	Boulder Creek	95006
+Alto Ave	El Granada	94019
+Alto Ave	Half Moon Bay	94019
+Alto Ave	San Anselmo	94960
+Alto Cedro Drive	Beverly Hills	90210
+Alto Cerro Cir	San Diego	92109
+Alto Cir	Palm Springs	92264
+Alto Circle	Rancho Palos Verdes	90275
+Alto Court	Davis	95616
+Alto Ct	La Mesa	91941
+Alto Ct	Oak View	93022
+Alto Ct	San Bernardino	92404
+Alto Ct	San Jose	95148
+Alto Dr	Hemet	92544
+Alto Dr	La Mesa	91941
+Alto Dr	Oak View	93022
+Alto Dr	Ojai	93023
+Alto Dr	Palm Desert	92211
+Alto Dr	San Bernardino	92404
+Alto Dr	Santa Barbara Unincorporated	93110
+Alto Dr	Santa Barbara Unincorporated	93111
+Alto Dr	Santa Paula	93060
+Alto Lago Dr	Perris	92570
+Alto Ln	Fullerton	92831
+Alto Ln	La Habra	90631
+Alto Ln	Lah	90631
+Alto Loma	Millbrae	94030
+Alto Oak Drive	Los Angeles	90068
+Alto Rey Ln	Victorville	92392
+Alto Sol	Scotts Valley	95066
+Alto St	Eureka	95503
+Alto St	Oceanside	92056
+Alto St	San Rafael	94901
+Alto Way	Salinas	93907
+Alto Wy	Lodi	95242
+Altoga Av	Tracy	95376
+Alton	Lake Forest	92630
+Alton	Watsonville	95076
+Alton Ave	Moss Beach	94038
+Alton Ave	San Francisco	94116
+Alton Ct	Adelanto	92301
+Alton Ct	Bakersfield	93314
+Alton Ct	Calimesa	92320
+Alton Ct	Riverbank	95367
+Alton Ct	Sacramento	95864
+Alton Ct	Selma	93662
+Alton Ct	Temecula	92591
+Alton Dr	Corona	92883
+Alton Dr	Lemon Grove	91945
+Alton Dr	Rancho Cucamonga	91730
+Alton Dr	Santa Maria	93458
+Alton Drive	Palmdale	93550
+Alton Ln	Brentwood	94513
+Alton Ln	Santa Rosa	95401
+Alton Ln	Santa Rosa	95403
+Alton Manor Dr	Bakersfield	93312
+Alton Pkwy	Foothil Ranch	92610
+Alton Pkwy	Foothill Ranch	92610
+Alton Pkwy	Irvine	92604
+Alton Pkwy	Irvine	92606
+Alton Pkwy	Irvine	92614
+Alton Pkwy	Irvine	92618
+Alton Pkwy	Lake Forest	92610
+Alton Pkwy	Lake Forest	92630
+Alton Pkwy	North Irvine	92618
+Alton Pl	Adelanto	92301
+Alton Pl	Lemon Grove	91945
+Alton Pl	San Ramon	94583
+Alton St	Chino	91710
+Alton St	Jurupa Valley	92509
+Alton St	Milpitas	95035
+Alton St	Selma	93662
+Alton Street	Wilmington	90744
+Alton Tr	Foresthill	95631
+Alton Way	Castaic	91384
+Alton Way	Escondido	92025
+Altoona Ct	Rio Linda	95673
+Altoona Dr	El Cajon	92020
+Altoona Ln	Irvine	92603
+Altoona Place	San Pedro	90731
+Altoona Way	Redding	96003
+Altoro Ln	Jamul	91935
+Altos Ave	Sacramento	95815
+Altos Ave	Sacramento	95838
+Altos De Piedra Rd	San Luis Obispo	93401
+Altos Drive	Valencia	91355
+Altos Oaks Dr	Los Altos	94024
+Altozano Dr	El Cajon	92020
+Altree Ct	Atherton	94027
+Altree Ct	Temecula	92592
+Altridge Drive	Beverly Hills	90210
+Altridge St	San Diego	92123
+Altrudy Ln	Ybl	92886
+Altrudy Ln	Yorba Linda	92886
+Altruria Dr	Santa Rosa	95403
+Altschul Ave	Menlo Park	94025
+Altuna Ct	Thousand Oaks	91360
+Altura	Irvine	92614
+Altura	Laguna Niguel	92677
+Altura	Monterey	93940
+Altura	San Clemente	92673
+Altura Ave	Bolinas	94924
+Altura Ave	Chino Hills	91709
+Altura Ave	Redding	96001
+Altura Avenue	La Crescenta	91214
+Altura Avenue	Los Angeles	90031
+Altura Avenue	Montrose	91020
+Altura Blvd	Buena Park	90620
+Altura Court	Pomona	91768
+Altura Ct	Corona	92882
+Altura Dr	Concord	94519
+Altura Dr	Ful	92835
+Altura Dr	Fullerton	92835
+Altura Dr	Newport Beach	92625
+Altura Dr	Oceanside	92056
+Altura Dr	Perris	92570
+Altura Dr	Rancho Cucamonga	91739
+Altura Dr	Riverside	92507
+Altura Lane	Whittier	90603
+Altura Ln	Eastvale	91752
+Altura Pl	Banning	92220
+Altura Pl	San Diego	92103
+Altura St	Fontana	92337
+Altura Street	Los Angeles	90031
+Altura Terrace	Arcadia	91007
+Altura Vis	Los Gatos	95032
+Altura Walk	Los Angeles	90031
+Altura Way	Belmont	94002
+Altura Way	Greenbrae	94904
+Altura Way	Manhattan Beach	90266
+Altura Way	San Rafael	94901
+Altura Way	South San Francisco	94080
+Alturas	Salinas	93906
+Alturas	Soquel	95073
+Alturas Av	Stockton	95207
+Alturas Ave	Hesperia	92344
+Alturas Ave	Modesto	95351
+Alturas Ave	Pittsburg	94565
+Alturas Ave	Sunnyvale	94085
+Alturas Circle	Salinas	93906
+Alturas Circle Circle	Salinas	93906
+Alturas Court	Fairfield	94534
+Alturas Court	Monterey	93940
+Alturas Court	Vacaville	95688
+Alturas Court	West Sacramento	95691
+Alturas Creek Dr	Moreno Valley	92555
+Alturas Ct	Hollister	95023
+Alturas Del Sol	Santa Barbara	93103
+Alturas Dr	Bakersfield	93305
+Alturas Dr	Burlingame	94010
+Alturas Dr	Joshua Tree	92252
+Alturas Dr	Mission Viejo	92691
+Alturas Ln	Fallbrook	92028
+Alturas Rd	Atascadero	93422
+Alturas Rd	Fallbrook	92028
+Alturas St	Fallbrook	92028
+Alturas St	Oxnard	93035
+Alturas Street	Yuba City	95991
+Alturas Way	Mill Valley	94941
+Alturas Way	Sacramento	95822
+Alturas Way	Salinas	93906
+Alturia Hts	Santa Rosa	95403
+Altus Ct	Magalia	95954
+Altus Lane	Suisun City	94585
+Altus St	Bakersfield	93304
+Altus St	City Of Shasta Lake	96019
+Altus Way	Oxnard	93035
+Altyn	Corona	92880
+Altyn Dr	Corona	92880
+Altyra Ct	Corona	92883

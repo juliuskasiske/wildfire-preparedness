@@ -1,0 +1,339 @@
+Ag Hill Rd	Templeton	93465
+Agabrook Ave	Tahoe Vista	96148
+Agadir Ct	Concord	94518
+Agadir St	Concord	94518
+Agadoni Ct	Patterson	95363
+Agajanian Drive	Santa Clarita	91350
+Agajanian Drive	Santa Clarita	91390
+Agajanian Way	Montebello	90640
+Agaliya Ct	Lake Elsinore	92532
+Agam Ct	Bakersfield	93307
+Agana Dr	Santa Barbara Unincorporated	93111
+Agapanthus Ct	Riverside	92508
+Agapanthus Ct	Stockton	95212
+Agapanthus Dr	San Diego	92114
+Agapanthus Lane	Valencia	91354
+Agapanthus Place	Woodland Hills	91367
+Agapanthus St	Ladera Ranch	92694
+Agapanthus Way	Orcutt	93455
+Agapanthus Wy	Orcutt	93455
+Agape Ct	San Jose	95124
+Agape Ln	Wildomar	92595
+Agapi Ln	Carmichael	95608
+Agar Ct	San Diego	92126
+Agar Place	Pico Rivera	90660
+Agard St	Auburn	95603
+Agard St #1/2	Auburn	95603
+Agarita Ave	Barstow	92311
+Agassi Dr	Santa Rosa	95407
+Agassi Ln	Redding	96002
+Agatahoe Blvd	Tahoe Vista	96148
+Agate	Indian Wells	92210
+Agate	Irvine	92614
+Agate	Jackson	95642
+Agate	Jurupa Valley	92509
+Agate	Ocotillo	92259
+Agate	Watsonville	95076
+Agate Av	Manteca	95336
+Agate Ave	Manteca	95336
+Agate Ave	Mentone	92359
+Agate Ave	Newport Beach	92662
+Agate Beach Way	Antelope	95843
+Agate Canyon Dr	Laguna Niguel	92677
+Agate Cir	Cypress	90630
+Agate Cir	Huntington Beach	92649
+Agate Cir	Huntington Beach	92649-4007
+Agate Cir	Victorville	92392
+Agate Circle	Salinas	93906
+Agate Court	Big Springs	96064
+Agate Court	Gardena	90247
+Agate Court	Palmdale	93550
+Agate Court	Vallejo	94591
+Agate Creek Ct	Elk Grove	95758
+Agate Creek Way	Chula Vista	91915
+Agate Ct	Antioch	94509
+Agate Ct	Calexico	92231
+Agate Ct	Eastvale	92880
+Agate Ct	Indian Wells	92210
+Agate Ct	Santa Clara	95051
+Agate Ct	Simi Valley	93065
+Agate Ct	Stockton	95209
+Agate Ct	Ventura	93004
+Agate Dr	Fontana	92337
+Agate Dr	Modesto	95356
+Agate Dr	Santa Clara	95051
+Agate Ln	Homeland	92548
+Agate Ln	Oceanside	92056
+Agate Ln	Paradise	95969
+Agate Pl	Jackson	95642
+Agate Rd	Barstow	92311
+Agate Rd	Carnelian Bay	96140
+Agate Rd	Chino Hills	91709
+Agate Rd	Hesperia	92345
+Agate Rd	Lucerne Valley	92356
+Agate Rd	Oak Hills	92344
+Agate Rd	Ocotillo	92259
+Agate St	Bakersfield	93304
+Agate St	Blythe	92225
+Agate St	Jurupa Valley	92509
+Agate St	Laguna Beach	92651
+Agate St	Menifee	92584
+Agate St	Rancho Cucamonga	91701
+Agate St	Rancho Cucamonga	91730
+Agate St	San Diego	92109
+Agate St	Thousand Oaks	91360
+Agate St	Ventura	93004
+Agate Street	Redondo Beach	90277
+Agate Terrace Rd	Blythe	92225
+Agate Way	Carlsbad	92011
+Agate Way	Carmichael	95608
+Agate Way	Castaic	91384
+Agate Way	Cedar Glen	92321
+Agate Way	Hercules	94547
+Agate Way	Monterey Park	91755
+Agate Way	Redding	96003
+Agate Way	Victorville	92392
+Agate Way	West Covina	91792
+Agatha Ct	Petaluma	94952
+Agatha Ct	San Anselmo	94960
+Agatha Ln	Riverside	92507
+Agatha Street	Los Angeles	90021
+Agatha Way	Sacramento	95825
+Agatha Way	San Jose	95136
+Agave	Lake Forest	92630
+Agave Ave	Chino	91708
+Agave Ave	Fontana	92336
+Agave Avenue	La Habra	90631
+Agave Bay St	Victorville	92392
+Agave Cir	Carlsbad	92011
+Agave Circle	Lancaster	93536
+Agave Ct	Beaumont	92223
+Agave Ct	La Quinta	92253
+Agave Ct	Ladera Ranch	92694
+Agave Ct	Lake Elsinore	92532
+Agave Ct	Perris	92570
+Agave Ct	Roseville	95747
+Agave Dr	Hesperia	92344
+Agave Dr	Winchester	92596
+Agave Flats Ln	Chula Vista	91915
+Agave Glen	Escondido	92025
+Agave Ln	Palm Desert	92260
+Agave Pl	Perris	92570
+Agave Pl	Riverside	92503
+Agave Pl	Tracy	95377
+Agave Rd	Apple Valley	92308
+Agave Rd	Joshua Tree	92252
+Agave Rd	Lake Elsinore	92532
+Agave Ridge Ct	Corona	92883
+Agave St	Moreno Valley	92553
+Agave Street	Lancaster	93536
+Agave Ter	Sunnyvale	94086
+Agave Way	Adelanto	92301
+Agave Way	Desert Hot Springs	92240
+Agave Way	Elk Grove	95624
+Agave Way	Murrieta	92563
+Agave Way	San Jose	95133
+Agean Ct	Murrieta	92562
+Agee Ct	Folsom	95630
+Agee St	San Diego	92122
+Agen Cir	Rancho Cordova	95742
+Agena	Temecula	92592
+Agena Ct	Sacramento	95826
+Agena Road	Palmdale	93551
+Agena St	Temecula	92592
+Agena Wy	Vandenberg Village	93436
+Agency Rd	Covelo	 
+Ager Beswick Road	Montague	96044
+Ager Beswick Road	Montague	96064
+Ager Road	Hornbrook	96044
+Ager Road	Montague	96064
+Ager Road	Montague	96097
+Aggen Rd	Somis	93066
+Aggesen Creek Ln	Penngrove	94951
+Aggie Lane	Davis	95616
+Aggie St	Manteca	95336
+Aggies Court	Winton	95388
+Aggler Ln	Ferndale	95536
+Aghalee Rd	Orinda	94563
+Agia	Laguna Niguel	92677
+Agile Ct	Perris	92571
+Agile Way	Bakersfield	93307
+Agnell Ct	Sacramento	95835
+Agner Avenue	Montrose	91020
+Agnes Avenue	North Hollywood	91605
+Agnes Avenue	North Hollywood	91606
+Agnes Avenue	Studio City	91604
+Agnes Avenue	Temple City	91780
+Agnes Avenue	Valley Village	91607
+Agnes Cir	Ful	92835
+Agnes Cir	Fullerton	92835
+Agnes Cir	Rancho Cordova	95670
+Agnes Court	Vallejo	94589
+Agnes Ct	Santa Rosa	95401
+Agnes Dr	Barstow	92311
+Agnes Ln	Calpella	 
+Agnes Ln	Madera 	93636
+Agnes Ln	Unincorporated Alameda County	94541
+Agnes May Dr	Redding	96002
+Agnes Pl	Riverside	92504
+Agnes Place	Cerritos	90703
+Agnes Road	Manhattan Beach	90266
+Agnes St	Auburn	95603
+Agnes St	Beaumont	92223
+Agnes St	Byron	94514
+Agnes St	Cabazon	92230
+Agnes St	Corona	92882
+Agnes St	Wrightwood	92397
+Agnes Stanley St	Garden Grove	92841
+Agnes Street	Cerritos	90703
+Agnes Street	Lynwood	90262
+Agnes Way	Grass Valley	95949
+Agnes Way	Merced	95340
+Agnes Way	Palo Alto	94303
+Agnes Way	Pleasant Hill	94523
+Agneta Ct	Elk Grove	95758
+Agnew Avenue	Los Angeles	90045
+Agnew Ct	Sacramento	95864
+Agnew Meadows Dr	Bakersfield	93313
+Agnew Meadows Road	Mammoth Lakes	93546
+Agnew Pl	Santa Rosa	95401
+Agnew Rd	Santa Clara	95050
+Agnew Rd	Santa Clara	95054
+Agnew St	Simi Valley	93065
+Agno Ct	San Diego	92154
+Agnolo Drive	Rosemead	91770
+Agnon Ave	San Francisco	94112
+Agnus Dr	Ventura	93003
+Agonis Way	Winchester	92596
+Agony Hill Road	Grass Valley	95945
+Agora Ct	San Jose	95123
+Agora Way	Oceanside	92056
+Agosta Drive	Hacienda Heights	91745
+Agostini Cir	Folsom	95630
+Agostino	Irvine	92614
+Agostino	Newport Beach	92657
+Agostino Ct	Concord	94521
+Agostino Drive	Rowland Heights	91748
+Agostino Road	San Gabriel	91776
+Agosto St	San Diego	92154
+Agoura Ct	Sacramento	95838
+Agoura Glen Drive	Agoura Hills	91301
+Agoura Rd	Phelan	92371
+Agoura Rd	Thousand Oaks	91361
+Agoura Road	Agoura Hills	91301
+Agoura Road	Calabasas	91302
+Agoura Road	Westlake Village	91361
+Agra Street	Bell Gardens	90201
+Agra Street	Los Angeles	90040
+Agradar Dr	Rancho Murieta	95683
+Agrado	Mission Viejo	92692
+Agramonte Drive	Newhall	91321
+Agrarian Rd	Ramona	92065
+Agree Ct	Sacramento	95842
+Agreste Pl	San Diego	92127
+Agresti Dr	Ceres	95307
+Agria Ct	Rancho Cordova	95670
+Agria Way	Lake Forest	92679
+Agria Way	Trabuco Canyon	92679-1216
+Agria Way	Trabuco Canyon	92679-1223
+Agria Way	Trabuco Canyon	92679-1227
+Agriculture Ln	Sacramento	95827
+Agrigento Ln	Riverside	92507
+Agrios St	Rancho Mission Viejo	92694
+Agripark Road	Sutter	95982
+Agripina Ln	Menifee	92584
+Agsten Ln	Poway	92064
+Agua Ave	Twentynine Palms	92277
+Agua Blanca St	Coachella	92236
+Agua Caliente	Castroville	95012
+Agua Caliente Springs Rd	Julian	92036
+Agua Caliente St	Coachella	92236
+Agua Cayendo Rd	Desert Hot Springs	92240
+Agua Clara Cir	Eastvale	92880
+Agua Ct	Modesto	95350
+Agua Dulce	Castroville	95012
+Agua Dulce Blvd	La Mesa	91941
+Agua Dulce Blvd	Spring Valley	91977
+Agua Dulce Canyon Road	Santa Clarita	91390
+Agua Dulce Ct	Carlsbad	92009
+Agua Dulce Dr	Desert Hot Springs	92240
+Agua Dulce Dr	Lower Lake	95457
+Agua Fria Rd	Mariposa	95338
+Agua Mansa Rd	Colton	92324
+Agua Mansa Rd	Jurupa Valley	92509
+Agua Mansa Rd	Rialto	92376
+Agua Pl	Seal Beach	90740
+Agua Sal Cir	Mecca	92254
+Agua Santa Drive	Palmdale	93551
+Agua Tibia Ave	Chula Vista	91911
+Agua Vista	Murrieta	92563
+Agua Vista	Rancho Murieta	95683
+Agua Vista Ct	Redwood City	94062
+Agua Vista Dr	Chula Vista	91914
+Agua Vista Dr	San Jose	95132
+Agua Vista Rd	Murrieta	92563
+Agua Vista St	Murrieta	92563
+Agua Vista Way	San Diego	92114
+Agua Way	Bay Point	94565
+Agua Way	San Francisco	94127
+Aguacate Ct	San Jose	95116
+Aguacate Ln	Valley Center	92082
+Aguacate Rd	San Juan Capistrano	92675
+Aguacate St	Atascadero	93422
+Aguacate Way	San Diego	92127
+Aguacita Rd	Atascadero	93422
+Aguadero Place	Santa Clarita	91350
+Aguajito Road	Carmel	93923
+Aguajito Road	Monterey	93940
+Aguamarina Pt	San Diego	92128
+Aguamiel Rd	San Diego	92127
+Aguanga Ranchos	Aguanga	92536
+Aguanga Ranchos Rd	Aguanga	92536
+Aguanga Rd	Aguanga	92536
+Aguas Frias Rd	Biggs	95917
+Aguas Frias Rd	Chico	95928
+Aguas Frias Rd	Durham	95928
+Aguas Frias Rd	Durham	95938
+Aguas Frias Rd	Nelson	95965
+Aguas Frias Rd	Richvale	95965
+Aguave Ave	Palm Desert	92211
+Aguazul	Soquel	95073
+Aguila	Aliso Viejo	92656
+Aguila Av	Goleta	93117
+Aguila Ave	Atascadero	93422
+Aguila Ct	Temecula	92592
+Aguila Pass	Moreno Valley	92555
+Aguila St	Carlsbad	92008
+Aguilar	Irvine	92614
+Aguilar	Mission Viejo	92691
+Aguilar Ct	Milpitas	95035
+Aguilar Ct	Napa	94559
+Aguilar Lane	Grass Valley	95949
+Aguilar Pl	Pittsburg	94565
+Aguilar Place	Woodland	95776
+Aguilar Rd	Rocklin	95677
+Aguilar St	Riverside	92503
+Aguilar Street	Los Angeles	90065
+Aguilar Way	Los Angeles	90065
+Aguilera Ln	Elfin Forest	92029
+Aguilera Ln	Escondido	92029
+Aguilera Ln	San Marcos	92078
+Aguiro Street	Rowland Heights	91748
+Aguirre	Mission Viejo	92692
+Aguirre Ct	Cotati	94931
+Aguirre Dr	Chula Vista	91910
+Aguirre Dr	Hollister	95023
+Aguirre Ln	Placentia	92870
+Aguirre Way	Cotati	94931
+Aguirre Way	Napa	94559
+Agundo St	Elverta	95626
+Agusta Ave	Camarillo	93010
+Agusta Dr	Lathrop	95330
+Agusta Dr	Moreno Valley	92551
+Agusta Lane	Dobbins	95919
+Agusta Way	Pico Rivera	90660
+Agusta Wy	Stockton	95209
+Agustawood Pl	Sacramento	95828
+Agustin Ln	Culver City	90230
+Agustin Narvaez St	San Jose	95136
+Agustin Place	Playa Vista	90094

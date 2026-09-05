@@ -1,0 +1,55 @@
+Norfield Ave	Chico	95928
+Norfield Court	Los Angeles	90077
+Norfield Ct	Thousand Oaks	91361
+Norfield Rd	Thousand Oaks	91361
+Norfleet Ln	Simi Valley	93065
+Norfolk Ave	Chino	91710
+Norfolk Ave	Patterson	95356
+Norfolk Ave	Patterson	95382
+Norfolk Avenue	Atwater	95301
+Norfolk Avenue	West Sacramento	95691
+Norfolk Cir	Moreno Valley	92555
+Norfolk Cir	Ybl	92886
+Norfolk Cir	Yorba Linda	92886
+Norfolk Court	Atwater	95301
+Norfolk Court	Fairfield	94533
+Norfolk Court	Vallejo	94591
+Norfolk Ct	Bakersfield	93311
+Norfolk Ct	Indio	92201
+Norfolk Ct	Laguna Niguel	92677
+Norfolk Ct	Martinez	94553
+Norfolk Ct	Moorpark	93021
+Norfolk Ct	Roseville	95678
+Norfolk Dr	Cardiff	92007
+Norfolk Dr	Cardiff By The Sea	92007
+Norfolk Dr	Huntington Beach	92646
+Norfolk Dr	Huntington Beach	92646-4418
+Norfolk Dr	Huntington Beach	92646-4419
+Norfolk Dr	Huntington Beach	92646-4420
+Norfolk Dr	Huntington Beach	92646-4421
+Norfolk Dr	Lodi	95242
+Norfolk Dr	North Tustin	92705
+Norfolk Dr	Pacifica	94044
+Norfolk Dr	Petaluma	94954
+Norfolk Dr	Riverside	92503
+Norfolk Dr	San Jose	95129
+Norfolk Dr	Santa Rosa	95401
+Norfolk Dr	Tracy	95377
+Norfolk Ln	Victorville	92395
+Norfolk Pine Ave	Sunnyvale	94087
+Norfolk Pl	Danville	94506
+Norfolk Rd	Barstow	92311
+Norfolk St	Cambria	93428
+Norfolk St	Corona	92880
+Norfolk St	Ladera Ranch	92694
+Norfolk St	Napa	94558
+Norfolk St	National City	91950
+Norfolk St	San Francisco	94103
+Norfolk St	San Mateo	94401
+Norfolk Street	Los Angeles	90033
+Norfolk Ter	San Diego	92116
+Norfolk Way	Ceres	95307
+Norfolk Way	Modesto	95350
+Norfolk Way	Sacramento	95831
+Norfolk Wy	Stockton	95209
+Norfork Place	Santa Clarita	91350

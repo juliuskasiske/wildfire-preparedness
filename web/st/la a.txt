@@ -1,0 +1,26 @@
+La Agua Ct	Morgan Hill	95037
+La Alameda	Mission Viejo	92691
+La Alameda	Morgan Hill	95037
+La Alameda Ave	Fountain Valley	92708
+La Alba Drive	Whittier	90603
+La Alberca Ave	San Diego	92127
+La Alcala	Laguna Niguel	92677
+La Alegria Dr	Rancho Cordova	95670
+La Almendra Way	Sacramento	95823
+La Alondra Ave	Fountain Valley	92708
+La Alondra Ct	San Rafael	94903
+La Alondra Way	Gilroy	95020
+La Altura Road	Beverly Hills	90210
+La Amapola	Rancho Santa Fe	92067
+La Amapola Ave	Fountain Valley	92708
+La Amatista Rd	Del Mar	92014
+La Amistad Place	Tarzana	91356
+La Amistad Way	Hemet	92545
+La Amistad Way	Tarzana	91356
+La Arboleda Way	Morgan Hill	95037
+La Arena Cir	Fountain Valley	92708
+La Arriba Dr	Redlands	92373
+La Avanzada	San Francisco	94131
+La Avanzada St	San Francisco	94131
+La Avenida	Mountain View	94043
+La Azteca	Laguna Niguel	92677

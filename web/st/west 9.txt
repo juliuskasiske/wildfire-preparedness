@@ -1,0 +1,74 @@
+West 90Th Place	Los Angeles	90044
+West 90Th Place	Los Angeles	90047
+West 90Th Street	Inglewood	90305
+West 90Th Street	Los Angeles	90002
+West 90Th Street	Los Angeles	90003
+West 90Th Street	Los Angeles	90044
+West 90Th Street	Los Angeles	90045
+West 90Th Street	Los Angeles	90047
+West 91St Place	Los Angeles	90003
+West 91St Place	Los Angeles	90047
+West 91St Street	Los Angeles	90003
+West 91St Street	Los Angeles	90044
+West 91St Street	Los Angeles	90045
+West 91St Street	Los Angeles	90047
+West 91St Street	Playa Del Rey	90293
+West 92Nd Street	Los Angeles	90002
+West 92Nd Street	Los Angeles	90003
+West 92Nd Street	Los Angeles	90044
+West 92Nd Street	Los Angeles	90045
+West 92Nd Street	Los Angeles	90047
+West 93Rd Street	Inglewood	90301
+West 93Rd Street	Los Angeles	90003
+West 93Rd Street	Los Angeles	90044
+West 93Rd Street	Los Angeles	90045
+West 93Rd Street	Los Angeles	90047
+West 94Th Avenue	Inglewood	90305
+West 94Th Place	Los Angeles	90047
+West 94Th Street	Inglewood	90301
+West 94Th Street	Los Angeles	90003
+West 94Th Street	Los Angeles	90044
+West 94Th Street	Los Angeles	90045
+West 94Th Street	Los Angeles	90047
+West 95Th Place	Los Angeles	90045
+West 95Th Street	Inglewood	90301
+West 95Th Street	Inglewood	90305
+West 95Th Street	Los Angeles	90003
+West 95Th Street	Los Angeles	90044
+West 95Th Street	Los Angeles	90045
+West 95Th Street	Los Angeles	90047
+West 96Th Place	Los Angeles	90045
+West 96Th Place	Los Angeles	90047
+West 96Th Street	Inglewood	90301
+West 96Th Street	Los Angeles	90044
+West 96Th Street	Los Angeles	90045
+West 96Th Street	Los Angeles	90047
+West 97Th Place	Los Angeles	90045
+West 97Th Street	Inglewood	90301
+West 97Th Street	Los Angeles	90003
+West 97Th Street	Los Angeles	90044
+West 97Th Street	Los Angeles	90045
+West 97Th Street	Los Angeles	90047
+West 98Th Street	Inglewood	90301
+West 98Th Street	Los Angeles	90003
+West 98Th Street	Los Angeles	90044
+West 98Th Street	Los Angeles	90045
+West 98Th Street	Los Angeles	90047
+West 99Th Place	Los Angeles	90045
+West 99Th Street	Inglewood	90301
+West 99Th Street	Inglewood	90305
+West 99Th Street	Los Angeles	90003
+West 99Th Street	Los Angeles	90044
+West 99Th Street	Los Angeles	90045
+West 99Th Street	Los Angeles	90047
+West 9Th Street	Azusa	91702
+West 9Th Street	Benicia	94510
+West 9Th Street	Claremont	91711
+West 9Th Street	Long Beach	90813
+West 9Th Street	Los Angeles	90015
+West 9Th Street	Los Angeles	90019
+West 9Th Street	Los Angeles	90036
+West 9Th Street	Merced	95341
+West 9Th Street	Pomona	91766
+West 9Th Street	San Pedro	90731
+West 9Th Street	San Pedro	90732

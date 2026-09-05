@@ -1,0 +1,12 @@
+South 85Th Place	Los Angeles	90045
+South 8Th Avenue	Arcadia	91006
+South 8Th Avenue	Inglewood	90303
+South 8Th Avenue	Inglewood	90305
+South 8Th Avenue	La Puente	91746
+South 8Th Avenue	Los Angeles	90018
+South 8Th Avenue	Los Angeles	90043
+South 8Th Place	Inglewood	90303
+South 8Th Place	Long Beach	90802
+South 8Th Street	Alhambra	91801
+South 8Th Street	Alhambra	91803
+South 8Th Street	Montague	96064

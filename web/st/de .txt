@@ -1,0 +1,476 @@
+De Adalena Street	Rosemead	91770
+De Alcala Drive	La Mirada	90638
+De Altura Cmn	San Jose	95126
+De Altura Cmns	San Jose	95126
+De Amaral Road	Carmel Valley	93924
+De Anda Ln	Ybl	92886
+De Anda Ln	Yorba Linda	92886
+De Angelis Road	Stevinson	95374
+De Ann Cove	Madera	93637
+De Ann Ln	El Cajon	92021
+De Anna Ranch Rd	Murrieta	92562
+De Anna Way	Paradise	95969
+De Anza	Brawley	92227
+De Anza	Palm Desert	92260
+De Anza	San Jacinto	92583
+De Anza	Soquel	95073
+De Anza	Temecula	92590
+De Anza Ave	Redwood City	94062
+De Anza Ave	Riverside	92506
+De Anza Ave	San Carlos	94062
+De Anza Ave	San Carlos	94070
+De Anza Avenue	Merced	95348
+De Anza Bay Dr	San Diego	92109
+De Anza Blvd	Cupertino	95014
+De Anza Blvd	San Mateo	94402
+De Anza Blvd	San Mateo	94403
+De Anza Cir	Corona	92882
+De Anza Cir	Huntington Beach	92649
+De Anza Cir	Huntington Beach	92649-5208
+De Anza Cir	Huntington Beach	92649-5209
+De Anza Cir	Huntington Beach	92649-5210
+De Anza Cir	Huntington Beach	92649-5211
+De Anza Cir	Huntington Beach	92649-5212
+De Anza Cir	Huntington Beach	92649-5213
+De Anza Circle North	Cupertino	95014
+De Anza Circle South	Cupertino	95014
+De Anza Court	Merced	95348
+De Anza Court	Suisun City	94585
+De Anza Ct	Atascadero	93422
+De Anza Ct	Chula Vista	91910
+De Anza Ct	Milpitas	95035
+De Anza Ct	Morgan Hill	95037
+De Anza Ct	Oceanside	92057
+De Anza Ct	Rio Linda	95673
+De Anza Ct	San Luis Obispo	93405
+De Anza Ct	San Mateo	94402
+De Anza Dr	Borrego Springs	92004
+De Anza Dr	Colton	92324
+De Anza Dr	Desert Shores	92274
+De Anza Dr	Newport Beach	92625
+De Anza Dr	Rancho Cucamonga	91730
+De Anza Dr	Richmond	94803
+De Anza Dr	San Jacinto	92582
+De Anza Dr	San Jacinto	92583
+De Anza Dr	Ventura	93001
+De Anza Drive	Palmdale	93551
+De Anza Drive	Vallejo	94589
+De Anza Heights Drive	La Verne	91750
+De Anza Heights Drive	San Dimas	91773
+De Anza Ln	Hercules	94547
+De Anza Ln	Los Altos	94022
+De Anza Pl	Brawley	92227
+De Anza Pl	Gilroy	95020
+De Anza Pl	San Ramon	94583
+De Anza Place	Arcadia	91007
+De Anza Rd	Palm Springs	92262
+De Anza Rd	San Diego	92109
+De Anza Rd	Temecula	92590
+De Anza Rd	Victorville	92392
+De Anza Spur	Borrego Springs	92004
+De Anza St	Barstow	92311
+De Anza St	Redlands	92374
+De Anza St	San Jacinto	92582
+De Anza Street	San Gabriel	91776
+De Anza Trl	Borrego Springs	92004
+De Anza Way	Borrego Springs	92004
+De Anza Way	Los Banos	93635
+De Anza Way	Oxnard	93033
+De Anza Way	Palm Desert	92260
+De Anza Way	San Jose	95125
+De Anza Way	San Rafael	94903
+De Armond Pl	Santa Maria	93454
+De Barbieri Ct	Manteca	95337
+De Beers Court	Yuba City	95991
+De Beers Pl	Folsom	95630
+De Bell Dr	Atherton	94027
+De Bell Rd	Los Altos Hills	94022
+De Benedetti Court	Benicia	94510
+De Bernardo	Aptos	95003
+De Berry Drive	Agoura Hills	91301
+De Berry Rd	Adelanto	92301
+De Berry Rd	El Mirage	92301
+De Berry St	Grand Terrace	92313
+De Bie Avenue	Cerritos	90703
+De Bie Drive	Paramount	90723
+De Boer Dr	Ripon	95366
+De Boom St	San Francisco	94107
+De Bord Dr	Tracy	95337
+De Bord Dr	Tracy	95376
+De Brask Ave	Lake Elsinore	92530
+De Bruin Way	Gilroy	95020
+De Burgh Dr	San Anselmo	94960
+De Burn Dr	San Diego	92105
+De Butts Terrace	Malibu	90265
+De Camp Ct	Riverside	92504
+De Camp Dr	La Mesa	91942
+De Camp Drive	Beverly Hills	90210
+De Cant Dr	Poway	92064
+De Carli Ct	Campbell	95008
+De Carli Ct	Redwood City	94062
+De Carli Lane	Salinas	93907
+De Carlo Ave	Richmond	94801
+De Carlo Ave	Richmond	94804
+De Caron St	Murrieta	92563
+De Celis Place	Encino	91436
+De Celis Place	Granada Hills	91344
+De Celis Place	North Hills	91343
+De Celis Place	Van Nuys	91406
+De Cesari Ave	Madera	93637
+De Chene Ave	Sonoma	95476
+De Cliff Dr	Rancho Cucamonga	91739
+De Colores Ct	Bakersfield	93309
+De Coronado Dr	Indio	92201
+De Costa Ave	Sacramento	95821
+De Crisanto Pl	Elk Grove	95758
+De Cunha Court	Salinas	93906
+De Dios Hwy	Rancho Santa Fe	92067
+De El Rio	Carmel Valley	93924
+De Ette Ave	Bakersfield	93313
+De Ette Ct	Bakersfield	93313
+De Falco Way	San Jose	95131
+De Fer Cir	Sacramento	95823
+De Ferrari Ct	Groveland	95321
+De Fever Ln	Landers	92284
+De Fever Ln	Landers	92285
+De Flores Circle	Rio Vista	94571
+De Flores Court	Rio Vista	94571
+De Foe Avenue	Pacoima	91331
+De Foe Avenue	Sylmar	91342
+De Foe Court	Tulare	93274
+De Foe Dr	Cupertino	95014
+De Foe Street	San Fernando	91340
+De Force Av	Lodi	95240
+De Ford Dr	San Rafael	94903
+De Forest Avenue	Long Beach	90805
+De Forest Avenue	Long Beach	90806
+De Forest Avenue	Long Beach	90813
+De Forest Cir	Jurupa Valley	91752
+De Forest Road	Marina	93933
+De Frain Blvd	Blythe	92225
+De Fremery Dr	Brentwood	94513
+De Frst	Irvine	92620
+De Gama Street	West Covina	91791
+De Gamma Dr	Santa Maria	93454
+De Garmo Avenue	El Monte	91731
+De Garmo Avenue	Pacoima	91331
+De Garmo Avenue	San Fernando	91340
+De Garmo Avenue	Sun Valley	91352
+De Garmo Avenue	Sylmar	91342
+De Garmo Drive	Los Angeles	90063
+De Garmo Street	San Fernando	91340
+De Grasse Drive	Calabasas	91302
+De Grazia Dr	Riverside	92506
+De Grazia Rd	Riverside	92506
+De Groot Lane	Camptonville	95922
+De Groot Place	Cerritos	90703
+De Guigne Dr	Sunnyvale	94085
+De Guigne Dr	Sunnyvale	95085
+De Haro St	San Francisco	94103
+De Haro St	San Francisco	94107
+De Harro St	Modesto	95354
+De Harvey Ave	Bakersfield	93313
+De Haven Avenue	Pacoima	91331
+De Haven Avenue	Sylmar	91342
+De Haven Street	San Fernando	91340
+De Haviland Avenue	Los Angeles	90045
+De Jesus Dr	Pla	92870
+De Jesus Dr	Placentia	92870
+De John Ave	Carmichael	95608
+De Kalb Drive	Calabasas	91302
+De Koven Ave	Belmont	94002
+De La Briandais Ct	Pinole	94564
+De La Coloma Drive	Gustine	95322
+De La Costa	Santa Cruz	95060
+De La Cruz Bl	Santa Clara	95050
+De La Cruz Bl	Santa Clara	95054
+De La Cruz Blvd	San Jose	95050
+De La Cruz Blvd	San Jose	95110
+De La Cruz Blvd	Santa Clara	95050
+De La Cruz Blvd	Santa Clara	95054
+De La Cruz Dr	Rancho Murieta	95683
+De La Cruz Rd	Hayward	94544
+De La Cruz St	Mendota	93640
+De La Cruz Way	Moraga	94556
+De La Cumbre Place	Sherman Oaks	91423
+De La Farge Dr	Cupertino	95014
+De La Fuente Avenue	Monterey Park	91754
+De La Fuente Ct	San Diego	92154
+De La Fuente Street	Monterey Park	91754
+De La Gair Court	Baldwin Park	91706
+De La Garrigue Rd	Ojai	93023
+De La Guerra Court	Atwater	95301
+De La Guerra Plz	Santa Barbara	93101
+De La Guerra Rd	San Rafael	94903
+De La Guerra Rd	Santa Barbara	93103
+De La Guerra Street	Planada	95365
+De La Guerra Street	Woodland Hills	91364
+De La Guerra Ter	Bakersfield	93306
+De La Guerra Ter	Santa Barbara	93103
+De La Guerra Way	Atwater	95301
+De La Lama St	Lake Elsinore	92530
+De La Luna Dr	Mission Viejo	92692
+De La Luz Avenue	Woodland Hills	91364
+De La Luz Cir	Perris	92571
+De La Osa Street	Woodland Hills	91364
+De La Pena Av	Santa Clara	95050
+De La Pena Ave	Santa Clara	95050
+De La Pena Avenue	Santa Clara	95050
+De La Pena Cir	Rancho Murieta	95683
+De La Pena Dr	Modesto	95356
+De La Prado Luna	Calabasas	91302
+De La Rondo	Oceanside	92057
+De La Rosa Dr	Rocklin	95765
+De La Rosa Ln	Oceanside	92056
+De La Rosa Ln	Oceanside	92057
+De La Rosa Pl	Elk Grove	95758
+De La Rosa Pl	Santa Barbara Unincorporated	93117
+De La Rosa Rd	Santa Barbara Unincorporated	93117
+De La Toba Rd	Chula Vista	91911
+De La Torre	Salinas	93901
+De La Torre	Salinas	93905
+De La Torre	Salinas	93908
+De La Torre Way	Los Angeles	90023
+De La Valle Dr	Moreno Valley	92555
+De La Valle Pl	Del Mar	92014
+De La Vega Ct	Moreno Valley	92555
+De La Vega Ct	Stockton	95206
+De La Vina Court	Atwater	95301
+De La Vina St	Chula Vista	91913
+De La Vina St	Santa Barbara	93101
+De La Vina St	Santa Barbara	93105
+De La Vina Way	Sacramento	95823
+De La Vina Way	Salinas	93901
+De La Vina Way	Valencia	91355
+De La Vista	Jurupa Valley	92509
+De La Vista Av	Santa Barbara	93103
+De Lago Rd	Palm Springs	92262
+De Lapp Pl	Loomis	95650
+De Las Estrellas	Pauma Valley	92061
+De Las Flores	Calexico	92231
+De Las Flores Ave	Calexico	92231
+De Las Flores Ct	Calexico	92231
+De Las Flores Rd	Calexico	92231
+De Las Flores St	Calexico	92231
+De Las Prado Calabazas	Calabasas	91302
+De Las Prado Peras	Calabasas	91302
+De Lash Ct	Patterson	95363
+De Laurenti Ct	Walnut Creek	94598
+De Laveaga Ct	Sacramento	95831
+De Lavergne Rd	Magalia	95954
+De Lemos Ave	Hayward	94544
+De Leon	Calexico	92231
+De Leon	Greenfield	93927
+De Leon Ave	Calexico	92231
+De Leon Court	Fairfield	94533
+De Leon Court	Greenfield	93927
+De Leon Dr	Chula Vista	91910
+De Leon Dr	Dana Point	92629
+De Leon Drive	Greenfield	93927
+De Leon Ln	Foster City	94404
+De Leon Ln	Ladera Ranch	92694
+De Leon Way	Riverbank	95367
+De Leone Rd	San Marcos	92069
+De Leu Drive	Fairfield	94534
+De Lila	Rancho Santa Margarita	92688
+De Lima Rd	Lathrop	95330
+De Lines Dr	Perris	92570
+De Lino	Rancho Santa Margarita	92688
+De Loach Ct	San Jose	95125
+De Long Ave	Novato	94945
+De Long Cir	Huntington Beach	92649
+De Long Cir	Huntington Beach	92649-4902
+De Long St	Daly City	94014
+De Long St	San Francisco	94112
+De Long Street	Merced	95341
+De Long Way	Dobbins	95962
+De Longe Ln	Tecate	91980
+De Longpre Avenue	Los Angeles	90027
+De Longpre Avenue	Los Angeles	90028
+De Longpre Avenue	Los Angeles	90046
+De Longpre Avenue	West Hollywood	90069
+De Los Ct	Wildomar	92595
+De Los Helechos	Carmel Valley	93923
+De Los Helechos Road	Carmel Valley	93924
+De Los Prado Arboles	Calabasas	91302
+De Los Prado Ciervos	Calabasas	91302
+De Los Prado Pajaros	Calabasas	91302
+De Loss Dr	Riverside	92508
+De Luca Pl	San Rafael	94901
+De Luz Creek Rd	Fallbrook	92028
+De Luz Heights Dr	Fallbrook	92028
+De Luz Heights Rd	Fallbrook	92028
+De Luz Murietta Rd	Fallbrook	92028
+De Luz Murrieta Rd	Fallbrook	92028
+De Luz Rd	Fallbrook	92028
+De Luz Rd	Murrieta	92562
+De Luz Rd	Santa Margarita	93453
+De Luz Rd	Temecula	92590
+De Mar Dr	Sacramento	95831
+De Marco Dr	Riverside	92508
+De Marco Rd	Riverside	92508
+De Marietta Ave	San Jose	95126
+De Marietta Ct	San Jose	95126
+De Marquez	Temecula	92592
+De Marquez Ct	Temecula	92592
+De Martini Rd	 	 
+De Mattei Ct	San Jose	95112
+De Mayo Rd	Del Mar	92014
+De Mello Lane	Vacaville	95688
+De Mello Rd	Fortuna	95540
+De Meo St	Bakersfield	93308
+De Mille Dr	San Jose	95117
+De Mille Drive	Los Angeles	90027
+De Mina Street	Woodland Hills	91364
+De Moll Dr	Redding	96002
+De Montfort Ave	San Francisco	94112
+De Mott Ln	Santee	92071
+De Na Ln	North Fork	93643
+De Neve Lane	Los Angeles	90033
+De Niro Ct	Indio	92201
+De Normandie Way	Martinez	94553
+De Nova Street	La Canada Flintridge	91011
+De Oro Ave	Indio	92201
+De Oro Circle	Cerritos	90703
+De Oro Court	Cerritos	90703
+De Oro Ct	Bakersfield	93314
+De Oro Place	Cerritos	90703
+De Ovan Av	Stockton	95204
+De Palma Ct	San Jose	95120
+De Palma Dr	San Jose	95120
+De Palma Ln	Cupertino	95014
+De Palma Rd	Corona	92883
+De Palma Street	Downey	90241
+De Palma Street	South Gate	90280
+De Palma Way	Montebello	90640
+De Parsia Ave	Bakersfield	93306
+De Passe St	Hemet	92544
+De Passe Way	Hemet	92544
+De Paul Cir	San Martin	95046
+De Paul Court	Merced	95348
+De Paul Ct	Sacramento	95821
+De Paul Dr	Morgan Hill	95037
+De Paul Dr	Morgan Hill	95037-2900
+De Paul Dr	Santa Barbara	93110
+De Paul Drive	Vallejo	94589
+De Paul Pl	Santa Clara	95051
+De Paul Road	Claremont	91711
+De Paul St	Ventura	93003
+De Paul St	Westminster	92683
+De Pauw Dr	Turlock	95382
+De Pauw Street	Pacific Palisades	90272
+De Pedrini Dr	Ripon	95366
+De Pedro Court	Baldwin Park	91706
+De Pina Ln	Hayward	94545
+De Plata Ave	Indio	92201
+De Plata Ct	Indio	92201
+De Ponti Dr	Orangevale	95662
+De Portola	Temecula	92592
+De Portola Dr	Temecula	92592
+De Portola Rd	Hemet	92543
+De Portola Rd	Temecula	92592
+De Prad	Perris	92570
+De Prad Rd	Perris	92570
+De Prad St	Perris	92570
+De Quincy Court	Canoga Park	91304
+De Quincy Place	Stevenson Ranch	91381
+De Ree Avenue	Live Oak	95953
+De Reed Rd	Landers	92285
+De Robles Road	Carmel Valley	93924
+De Roja Avenue	Woodland Hills	91364
+De Rome Dr	San Jose	95131
+De Rome Dr	San Jose	95133
+De Ronde Drive	Fairfield	94533
+De Rosa Ct	Concord	94518
+De Rose Way	San Jose	95126
+De Sabla Rd	Hillsborough	94010
+De Sabla Rd	Hillsborough	94402
+De Sabla Rd	San Mateo	94010
+De Sabla Rd	San Mateo	94402
+De Sabla Rd	Santa Margarita	93453
+De Sales Street	San Gabriel	91775
+De Salle St	Laguna Hills	92653
+De Sanka Ave	Saratoga	95070
+De Santi Ave	Madera	93637
+De Santis Avenue	Sylmar	91342
+De Sart Ct	Sacramento	95831
+De Silva Island Ct	Mill Valley	94941
+De Silva Island Dr	Mill Valley	94941
+De Silva Rd	Anza	92539
+De Sol A Sol	La Quinta	92253
+De Sola St	San Diego	92127
+De Sola Ter	Newport Beach	92625
+De Solo Dr	Pacifica	94044
+De Sota Dr	Victorville	92392
+De Soto Av	Santa Clara	95051
+De Soto Ave	Burlingame	94010
+De Soto Ave	Costa Mesa	92626
+De Soto Ave	La Quinta	92253
+De Soto Ave	Santa Clara	95051
+De Soto Avenue	Canoga Park	91303
+De Soto Avenue	Canoga Park	91304
+De Soto Avenue	Chatsworth	91311
+De Soto Avenue	Woodland Hills	91364
+De Soto Avenue	Woodland Hills	91367
+De Soto Ct	Orinda	94563
+De Soto Ct	Walnut Creek	94598
+De Soto Dr	Hemet	92543
+De Soto Dr	Los Gatos	95032
+De Soto Dr	Palo Alto	94303
+De Soto Dr	San Jose	95124
+De Soto Dr	Santa Maria	93454
+De Soto Drive	Fairfield	94533
+De Soto Ln	Foster City	94404
+De Soto Pl	Moreno Valley	92553
+De Soto Place	Davis	95616
+De Soto St	Adelanto	92301
+De Soto St	Grand Terrace	92313
+De Soto St	San Diego	92109
+De Soto St	San Francisco	94127
+De Soto Way	Coto De Caza	92679
+De Soto Way	Merced	95340
+De Soto Way	Sacramento	95827
+De Soto Way	San Bruno	94066
+De Souza Ln	Elk Grove	95624
+De Souza Pl	Bakersfield	93309
+De Soza Lane	Grenada	96038
+De Soza Lane	Grenada	96064
+De Sutter Dr	Tustin	92782
+De Swan Ct	Bakersfield	93314
+De Tracey St	San Jose	95128
+De Turk Ave	Santa Rosa	95404
+De Vaca Way	Hayward	94544
+De Varian Rd	Apple Valley	92308
+De Varona Pl	Santa Clara	95050
+De Vault Pl	Cambria	93428
+De Ve Ave	Modesto	95350
+De Vega Ct	Modesto	95354
+De Vendome Ct	Murrieta	92563
+De Vera Way	Santa Rosa	95403
+De Vicenzo Ct	Desert Hot Springs	92240
+De Vida Ct	San Diego	92124
+De Ville Cir	Huntington Beach	92647
+De Ville Cir	Huntington Beach	92647-5028
+De Ville Ct	Sacramento	95821
+De Ville Way	Malibu	90265
+De Ville Way	San Jose	95129
+De Vito Ct	Indio	92201
+De Vore Court	Agoura Hills	91301
+De Vos Dr	Santee	92071
+De Voss Avenue	Cerritos	90703
+De Voto St	Mountain View	94041
+De Vries Ln	La Palma	90623
+De Vry Dr	Irvine	92603
+De Waide Ave	Hemet	92544
+De Witt	Reedley	93654
+De Witt Ave	Morgan Hill	95037
+De Witt Ave	Napa	94558
+De Witt Ave	Sanger	93657
+De Witt Ct	Sacramento	95838
+De Witt Dr	Ross	94957
+De Witt Drive	Los Angeles	90068
+De Wolfe Road	Newhall	91321
+De Wolfe St	Bakersfield	93307
+De Wolff Av	Santa Barbara Unincorporated	93436
+De Woody Ave	Laton	93242
+De Young Ln	Lafayette	94549

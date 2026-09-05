@@ -1,0 +1,69 @@
+East 50Th Place	Los Angeles	90011
+East 50Th Street	Los Angeles	90011
+East 50Th Street	Los Angeles	90058
+East 51St Street	Long Beach	90805
+East 51St Street	Los Angeles	90011
+East 51St Street	Los Angeles	90058
+East 52Nd Drive	Los Angeles	90058
+East 52Nd Drive	Maywood	90270
+East 52Nd Place	Los Angeles	90011
+East 52Nd Place	Los Angeles	90058
+East 52Nd Place	Maywood	90270
+East 52Nd Street	Huntington Park	90255
+East 52Nd Street	Long Beach	90805
+East 52Nd Street	Los Angeles	90011
+East 52Nd Street	Los Angeles	90058
+East 52Nd Street	Maywood	90270
+East 53Rd Street	Huntington Park	90255
+East 53Rd Street	Long Beach	90805
+East 53Rd Street	Los Angeles	90011
+East 53Rd Street	Los Angeles	90058
+East 53Rd Street	Maywood	90270
+East 54Th Street	Huntington Park	90255
+East 54Th Street	Los Angeles	90011
+East 54Th Street	Los Angeles	90058
+East 54Th Street	Maywood	90270
+East 55Th Street	Huntington Park	90255
+East 55Th Street	Long Beach	90805
+East 55Th Street	Los Angeles	90011
+East 55Th Street	Los Angeles	90058
+East 55Th Street	Maywood	90270
+East 55Th Way	Long Beach	90805
+East 56Th Street	Huntington Park	90255
+East 56Th Street	Long Beach	90805
+East 56Th Street	Los Angeles	90011
+East 56Th Street	Los Angeles	90058
+East 56Th Street	Maywood	90270
+East 56Th Way	Long Beach	90805
+East 57Th Street	Huntington Park	90255
+East 57Th Street	Long Beach	90805
+East 57Th Street	Los Angeles	90011
+East 57Th Street	Los Angeles	90058
+East 57Th Street	Maywood	90270
+East 58Th Drive	Los Angeles	90001
+East 58Th Drive	Los Angeles	90011
+East 58Th Drive East	Los Angeles	90001
+East 58Th Place	Los Angeles	90001
+East 58Th Place	Los Angeles	90011
+East 58Th Street	Huntington Park	90255
+East 58Th Street	Los Angeles	90011
+East 58Th Street	Los Angeles	90058
+East 58Th Street	Maywood	90270
+East 59Th Place	Huntington Park	90255
+East 59Th Place	Los Angeles	90001
+East 59Th Place	Los Angeles	90003
+East 59Th Place	Maywood	90270
+East 59Th Place East	Los Angeles	90001
+East 59Th Street	Long Beach	90805
+East 59Th Street	Los Angeles	90001
+East 5Th Street	Azusa	91702
+East 5Th Street	Benicia	94510
+East 5Th Street	Dorris	96023
+East 5Th Street	Long Beach	90802
+East 5Th Street	Long Beach	90803
+East 5Th Street	Long Beach	90814
+East 5Th Street	Los Angeles	90013
+East 5Th Street	Los Angeles	90022
+East 5Th Street	Los Angeles	90033
+East 5Th Street	Los Angeles	90063
+East 5Th Street	San Dimas	91773

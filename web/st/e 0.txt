@@ -1,0 +1,17 @@
+E 01St St	National City	91950
+E 02Nd Ave	Escondido	92025
+E 02Nd St	National City	91950
+E 03Rd Ave	Escondido	92025
+E 03Rd St	National City	91950
+E 04Th Ave	Escondido	92025
+E 04Th St	National City	91950
+E 05Th Ave	Escondido	92025
+E 05Th St	National City	91950
+E 06Th Ave	Escondido	92025
+E 06Th St	National City	91950
+E 07Th Ave	Escondido	92025
+E 07Th St	National City	91950
+E 08Th Ave	Escondido	92025
+E 08Th St	National City	91950
+E 09Th Ave	Escondido	92025
+E 09Th St	National City	91950

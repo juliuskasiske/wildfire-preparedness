@@ -1,0 +1,144 @@
+Nob Ave	Camp Meeker	95419
+Nob Ave	Del Mar	92014
+Nob Cir	Vista	92084
+Nob Ct	Sacramento	95826
+Nob Ct	Temecula	92591
+Nob Hill Ave	Pinole	94564
+Nob Hill Cir	Groveland	95321
+Nob Hill Cir	Running Springs	92382
+Nob Hill Ct	Auburn	95603
+Nob Hill Ct	Hayward	94542
+Nob Hill Ct	Modesto	95355
+Nob Hill Ct	Roseville	95661
+Nob Hill Ct	San Jose	95127
+Nob Hill Ct	Shelter Cove	95589
+Nob Hill Dr	Applegate	95703
+Nob Hill Dr	Carlsbad	92008
+Nob Hill Dr	Carmichael	95608
+Nob Hill Dr	Danville	94526
+Nob Hill Dr	Escondido	92026
+Nob Hill Dr	Newcastle	95658
+Nob Hill Dr	Running Springs	92382
+Nob Hill Dr	San Jose	95127
+Nob Hill Dr	Walnut Creek	94596
+Nob Hill Dr	Ybl	92886
+Nob Hill Dr	Yorba Linda	92886
+Nob Hill Drive	Los Angeles	90065
+Nob Hill Drive	Nevada City	95959
+Nob Hill Ln	Granite Bay	95746
+Nob Hill Ln	Ventura	93003
+Nob Hill Rd	Corona	92883
+Nob Hill Rd	Fortuna	95540
+Nob Hill Rd	Paso Robles	93446
+Nob Hill Rd	Redwood City	94061
+Nob Hill Rd	Shelter Cove	95589
+Nob Hill Road	Posey	93260
+Nob Hill Ter	Morgan Hill	95037
+Nob Hill Ter	Petaluma	94952
+Nob Hill Way	Los Gatos	95032
+Nob Pl	Crestline	92325
+Nob Pl	San Ramon	94583
+Nobb Hill Ct	Pioneer	95666
+Nobb Rd	Concow	95965
+Nobb Rd	Oroville	95965
+Nobble St	Perris	92571
+Nobe St	Corona	92883
+Nobel	Santa Cruz	95060
+Nobel Av	Lodi	95242
+Nobel Crest Ln	Rancho Cordova	95670
+Nobel Ct	Encinitas	92024
+Nobel Ct	Jurupa Valley	91752
+Nobel Dr	La Jolla	92037
+Nobel Dr	San Diego	92122
+Nobel Street	Los Angeles	90040
+Nobel Way	Inglewood	90305
+Nobelton Way	Rancho Cordova	95742
+Nobi Ln	Orinda	94563
+Nobili Av	Santa Clara	95051
+Nobili Ave	Santa Clara	95051
+Noble	Mckinleyville	95519
+Noble Ave	Bakersfield	93305
+Noble Ave	Bakersfield	93306
+Noble Ave	San Jose	95132
+Noble Avenue	Azusa	91702
+Noble Avenue	North Hills	91343
+Noble Avenue	Panorama City	91402
+Noble Avenue	San Fernando	91345
+Noble Avenue	Sherman Oaks	91403
+Noble Avenue	Van Nuys	91405
+Noble Avenue	Van Nuys	91411
+Noble Canyon	Palm Desert	92260
+Noble Canyon Dr	Palm Desert	92260
+Noble Canyon Rd	Chula Vista	91915
+Noble Canyon St	Corona	92883
+Noble Canyon Way	Walnut	91789
+Noble Cir	Huntington Beach	92647
+Noble Cir	Huntington Beach	92647-7039
+Noble Court	Merced	95348
+Noble Court	Palmdale	93552
+Noble Court	Pomona	91766
+Noble Court	Winters	95694
+Noble Ct	El Cerrito	94530
+Noble Ct	Homeland	92548
+Noble Ct	Los Gatos	95032
+Noble Ct	Mckinleyville	95519
+Noble Ct	Morgan Hill	95037
+Noble Ct	Sacramento	95821
+Noble Ct	Temecula	92592
+Noble Ct	Twentynine Palms	92277
+Noble Cyn	Palm Desert	92260
+Noble Drive	Merced	95348
+Noble Fir Court	Valencia	91354
+Noble Fir Dr	Menifee	92584
+Noble Fir Ln	Elk Grove	95758
+Noble Hill Road	Grass Valley	95945
+Noble House Ct	Elk Grove	95758
+Noble Ln	Denny	95527
+Noble Ln	Napa	94558
+Noble Ln	San Diego	92131
+Noble Ln	San Jose	95132
+Noble Ln	Templeton	93465
+Noble Ln	Turlock	95380
+Noble Park Cir	Patterson	95363
+Noble Pl	Chino	91710
+Noble Place	Azusa	91702
+Noble Ranch Rd	Lower Lake	95457
+Noble Ranch Rd	Middletown	95461
+Noble Rd	Landers	92285
+Noble Rd	Simi Valley	93065
+Noble Rd	Sonoma	95476
+Noble Rein Dr	San Jacinto	92582
+Noble Road	District 10	95901
+Noble Road	Gustine	95322
+Noble Road	Vacaville	95688
+Noble St	Beaumont	92223
+Noble St	Lemon Grove	91945
+Noble St	Lemoore	93245
+Noble St	Madera	93637
+Noble St	Manteca	95337
+Noble St	Palo Alto	94306
+Noble St	Riverside	92503
+Noble Street	Pomona	91766
+Noble View Cir	Riverside	92503
+Noble View Drive	Rancho Palos Verdes	90275
+Noble Way	Big Flat	96010
+Noble Way	Landers	92285
+Noble Way	Santa Maria	93454
+Noble Way	Santee	92071
+Noble Wy	Santa Maria	93454
+Nobleboro Way	Elk Grove	95758
+Nobleboro Wy	Roseville	95747
+Nobles Aly	San Francisco	94133
+Nobles Avenue	Whittier	90606
+Nobles Trail Rd	Anderson	96007
+Noblessa Way	Rancho Cordova	95670
+Nobleton Rd	Apple Valley	92308
+Nobletree Ct	Oak Park	91377
+Noblett Drive	Lake Hughes	93532
+Noblewood Cir	Lake Elsinore	92530
+Noblewood Ct	Lake Elsinore	92530
+Noblewood Dr	San Jacinto	92582
+Noblewood Rd	Moreno Valley	92557
+Nobling Ct	Rancho Cucamonga	91739
+Nobu Dr	San Jose	95131
+Nobury Ct	Eastvale	92880

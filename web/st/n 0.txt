@@ -1,0 +1,6 @@
+N 01St St	El Cajon	92021
+N 02Nd Ave	Chula Vista	91910
+N 02Nd St	El Cajon	92021
+N 03Rd St	El Cajon	92019
+N 03Rd St	El Cajon	92021
+N 04Th Ave	Chula Vista	91910

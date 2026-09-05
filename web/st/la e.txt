@@ -1,0 +1,37 @@
+La Encina	Murrieta	92562
+La Encina	Thousand Oaks	91320
+La Encina Cir	Murrieta	92562
+La Encina Dr	Palm Springs	92264
+La Encina Drive	Salinas	93907
+La Encina Drive	Salinas	95076
+La Encina Way	Pasadena	91107
+La Encinal	Orinda	94563
+La Encinal Ct	Clayton	94517
+La Entrada	Moreno Valley	92551
+La Entrada	Santa Barbara Unincorporated	93105
+La Entrada	Santa Margarita	93453
+La Entrada Ave	San Luis Obispo	93405
+La Entrada Avenue	Whittier	90605
+La Entrada Ct	Bakersfield	93306
+La Entrada Dr	Moreno Valley	92551
+La Entrada Dr	Ybl	92886
+La Entrada Dr	Yorba Linda	92886
+La Entrada Pl	Santa Margarita	93453
+La Entrada Way	Yuba City	95993
+La Entradita	Escondido	92026
+La Escuela Ct	Morgan Hill	95037
+La Espada	Rancho Santa Fe	92067
+La Espada Dr	Santa Barbara Unincorporated	93111
+La Esperanza Ave	Fountain Valley	92708
+La Esperanza Drive	Dixon	95620
+La Esperanza Way	Yuba City	95993
+La Espiral	Orinda	94563
+La Espiral Rd	Orinda	94563
+La Esplanada Pl	Santa Rosa	95404
+La Esposo Ct	Rancho Cordova	95670
+La Espuela Ct	Atascadero	93422
+La Estella St	Wildomar	92595
+La Estrada Dr	Laguna Niguel	92677
+La Estrella	Palm Springs	92264
+La Estrella Ave	Fountain Valley	92708
+La Estrella St	Wildomar	92595

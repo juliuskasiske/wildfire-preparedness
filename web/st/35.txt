@@ -1,0 +1,39 @@
+35Th	Santa Cruz	95062
+35Th Ave	Cathedral City	92234
+35Th Ave	Clearlake	95422
+35Th Ave	Sacramento	95822
+35Th Ave	Sacramento	95824
+35Th Ave	San Francisco	94116
+35Th Ave	San Francisco	94121
+35Th Ave	San Francisco	94122
+35Th Pl	Hermosa Beach	90254
+35Th Pl	San Diego	92116
+35Th Place	Los Angeles	90018
+35Th Place	Manhattan Beach	90266
+35Th St	Bakersfield	93301
+35Th St	El Cajon	92019
+35Th St	Hermosa Beach	90254
+35Th St	Jurupa Valley	92509
+35Th St	National City	91950
+35Th St	Newport Beach	92663
+35Th St	Richmond	94805
+35Th St	Sacramento	95816
+35Th St	Sacramento	95817
+35Th St	Sacramento	95820
+35Th St	Sacramento	95824
+35Th St	San Bernardino	92404
+35Th St	San Diego	92102
+35Th St	San Diego	92104
+35Th St	San Diego	92113
+35Th St	San Diego	92116
+35Th St W	National City	91950
+35Th Street	Hermosa Beach	90254
+35Th Street	Los Angeles	90007
+35Th Street	Los Angeles	90011
+35Th Street	Los Angeles	90089
+35Th Street	Manhattan Beach	90266
+35Th Street	San Fernando	91340
+35Th Street East	Lancaster	93535
+35Th Street East	Palmdale	93550
+35Th Street West	Lancaster	93536
+35Th Street West	Palmdale	93551

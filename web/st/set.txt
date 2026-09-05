@@ -1,0 +1,76 @@
+Set Ln	Bakersfield	93308
+Seta St	Winchester	92596
+Setancket Rd	Apple Valley	92308
+Setareh Ct	San Jose	95125
+Setenil	Mission Viejo	92692
+Seth	Aptos	95003
+Seth Alexander Way	Bakersfield	93306
+Seth Cir	Dana Point	92629
+Seth Ct	Apple Valley	92308
+Seth Ct	San Jose	95120
+Seth Grade	Aptos	95003
+Seth Ln	Chico	95973
+Seth Ln	Santee	92071
+Seth Loop E	Upland	91784
+Seth Loop N	Upland	91784
+Seth Loop W	Upland	91784
+Seth Street	San Gabriel	91776
+Seth Way	Santee	92071
+Setina Ln	Sacramento	95827
+Setina Pl	Sacramento	95827
+Seton	Santa Cruz	95060
+Seton Court	Claremont	91711
+Seton Ct	Magalia	95954
+Seton Ct	Rancho Mirage	92270
+Seton Dr	Aliso Viejo	92656
+Seton Hall Ave	Ventura	93003
+Seton Hall St	La Mesa	91942
+Seton Hill Ct	Sacramento	95826
+Seton Pl	Moreno Valley	92557
+Seton Rd	Irvine	92612
+Seton St	Roseville	95747
+Setrok Ct	Modesto	95356
+Setrok Dr	Modesto	95356
+Setter Ct	Bakersfield	93309
+Setter Ct	Redding	96003
+Setter Dr	Redding	96003
+Setter Lane	Vacaville	95688
+Setter Place	Monterey	93940
+Setter Rd	Winchester	92596
+Setterquist Drive	Vallejo	94589
+Settineri Ln	Spring Valley	91977
+Setting Sun Cir	Riverside	92503
+Setting Sun Ct	Chino Hills	91709
+Setting Sun Dr	Anderson	96007
+Setting Sun Dr	Huntington Beach	92648
+Setting Sun Dr	Huntington Beach	92648-6715
+Setting Sun Dr	Newport Beach	92625
+Setting Sun Dr	Richmond	94803
+Setting Sun Ln	Sacramento	95834
+Setting Sun Pl	El Sobrante	94803
+Setting Sun Pl	Richmond	94803
+Setting Sun Trl	Palm Desert	92260
+Setting Sun Way	San Diego	92121
+Settle Ave	San Jose	95125
+Settle Court	Vallejo	94591
+Settle Ct	Santee	92071
+Settle Rd	Santee	92071
+Settlement St	Menifee	92585
+Settler Court	Walnut	91789
+Settler Tr	Lathrop	95330
+Settlers	Irvine	92602
+Settlers Ct	Folsom	95630
+Settlers Ct	Jurupa Valley	92509
+Settlers Ct	San Marcos	92069
+Settlers Lane	Truckee	96161
+Settlers Pl	Paso Robles	93446
+Settlers Pl	Poway	92064
+Settlers Rd	Upland	91786
+Settlers Rd	Winchester	92596
+Settlers Ridge	Murrieta	92562
+Settlers Ridge Ct	Eastvale	92880
+Settlers Ridge Wy	Roseville	95747
+Settles Dr	Cathedral City	92234
+Setto Way	Rackerby	95966
+Setucket Ct	Roseville	95747
+Setucket St	Roseville	95747

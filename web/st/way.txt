@@ -1,0 +1,215 @@
+Way	Cupertino	95014
+Way	Cupertino	95014-2623
+Way	Cupertino	95014-2624
+Way	Cupertino	95014-2949
+Way	Cupertino	95014-2950
+Way	Cupertino	95014-2951
+Way	Cupertino	95014-2952
+Way	Cupertino	95014-2953
+Way	Cupertino	95014-2954
+Way	Cupertino	95014-4204
+Way	Cupertino	95014-4273
+Way	Cupertino	95014-4274
+Way	Cupertino	95014-4420
+Way	Cupertino	95014-4465
+Way	Cupertino	95014-5854
+Way	Cupertino	95014-5855
+Way	Cupertino	95014-5856
+Way	Cupertino	95014-5857
+Way	Cupertino	95014-5858
+Way	Cupertino	95014-5859
+Way	Cupertino	95014-5860
+Way	Cupertino	95014-5861
+Way	Cupertino	95014-5862
+Way	Cupertino	95014-5863
+Way	Cupertino	95014-5864
+Way	Cupertino	95014-5865
+Way	Cupertino	95014-6340
+Way	Cupertino	95014-6341
+Way	Cupertino	95014-6342
+Way	Cupertino	95014-6343
+Way	Cupertino	95014-6344
+Way	Cupertino	95014-6345
+Way	Cupertino	95014-6346
+Way	Cupertino	95014-6347
+Way	Cupertino	95014-6348
+Way	Cupertino	95014-6349
+Way	Cupertino	95014-6350
+Way	Cupertino	95014-6352
+Way	Cupertino	95014-6353
+Way	Cupertino	95014-6354
+Way	Cupertino	95014-6355
+Way	Cupertino	95014-6356
+Way	Cupertino	95014-6357
+Way	Cupertino	95014-6359
+Way	Cupertino	95014-6360
+Way	Cupertino	95014-6361
+Way	Cupertino	95014-6363
+Way	Cupertino	95014-6364
+Way	Cupertino	95014-6366
+Way	Cupertino	95014-6367
+Way	Cupertino	95014-6369
+Way	Cupertino	95014-6370
+Way	Cupertino	95014-6371
+Way	Cupertino	95014-6372
+Way	Cupertino	95014-6377
+Way	Cupertino	95014-6378
+Way	Cupertino	95014-6379
+Way	Cupertino	95014-6380
+Way	Cupertino	95014-6381
+Way	Cupertino	95014-6385
+Way	Pismo Beach	93449
+Way	San Bernardino	92404
+Way	San Bernardino	92405
+Way	San Bernardino	92407
+Way	San Bernardino	92411
+Way Cool Way	Wishon	93669
+Way Court	San Dimas	91773
+Way Ln	Newport Beach	92625
+Way Points Rd	Danville	94526
+Way St	Anderson	96007
+Wayans Way	Elk Grove	95757
+Waycross Dr	Homeland	92548
+Waycross Rd	San Jose	95121
+Waycross St	Bakersfield	93307
+Wayfaire	Las Flores	92688
+Wayfare Ct	Lake Elsinore	92530
+Wayfarer	Irvine	92614
+Wayfarer Av	Manteca	95337
+Wayfarer Ave	Manteca	95337
+Wayfarer Court	Auburn	95602
+Wayfarer Ct	Discovery Bay	94505
+Wayfarer Ct	Lake Elsinore	92530
+Wayfarer Dr	Discovery Bay	94505
+Wayfarer Dr	La Mesa	91942
+Wayfarer Ln	Huntington Beach	92649
+Wayfarer Ln	Huntington Beach	92649-2100
+Wayfarer Ln	Huntington Beach	92649-2131
+Wayfarer Ln	Huntington Beach	92649-2149
+Wayfarer Ln	Huntington Beach	92649-2150
+Wayfarer Ln	Huntington Beach	92649-2164
+Wayfarer Ln	Lake Elsinore	92530
+Wayfarer Ln	Madera	93636
+Wayfarer Rd	Menifee	92585
+Wayfarer Way	Campbell	95008
+Wayfarer Way	Modesto	95356
+Wayfaring Ave	Placer One	95747
+Wayfaring Dr	Stockton	95219
+Wayfield Rd	Riverside	92505
+Wayfinders Ct	Carlsbad	92011
+Wayjac Lane	Royal Oaks	95076
+Wayladn Court	Lancaster	93536
+Wayland Ave	Sacramento	95825
+Wayland Ave	San Jose	95118
+Wayland Court	Claremont	91711
+Wayland Ct	Bakersfield	93312
+Wayland Ct	Gilroy	95020
+Wayland Grove Ct	Poway	92064
+Wayland Ln	Alamo	94507
+Wayland Ln	Gilroy	95020
+Wayland Pl	Orcutt	93455
+Wayland Pl	Santa Maria	93455
+Wayland Rd	Loomis	95650
+Wayland Rd	Paradise	95969
+Wayland Road	Grass Valley	95945
+Wayland St	San Francisco	94134
+Wayland Street	Los Angeles	90042
+Waylin Rd	Twentynine Palms	92277
+Waylinn Ln	Tracy	95376
+Waylon Court	Menifee	92584
+Wayman Ln	Oroville	95966
+Wayman St	Riverside	92504
+Wayman Street	Newhall	91321
+Wayman Way	Hemet	92544
+Waymar Ct	Carmichael	95608
+Waymouth Ct	Rancho Cucamonga	91739
+Waynart Ct	Carmichael	95608
+Wayne Ave	Alamo	94507
+Wayne Ave	Chula Vista	91913
+Wayne Ave	El Cajon	92021
+Wayne Ave	Fullerton	92833
+Wayne Ave	Irvine	92614
+Wayne Ave	San Jose	95131
+Wayne Avenue	Claremont	91711
+Wayne Avenue	Los Angeles	90027
+Wayne Avenue	South Pasadena	91030
+Wayne Avenue	Torrance	90503
+Wayne Charles Rd	Oroville	95966
+Wayne Charles Rd	Palermo	95966
+Wayne Cir	San Jose	95131
+Wayne Cir	Simi Valley	93065
+Wayne Circle	Cerritos	90703
+Wayne Clem Way	Bangor	95966
+Wayne Court	Fairfield	94534
+Wayne Court	Vacaville	95687
+Wayne Crest Ln	Santee	92071
+Wayne Ct	Forestville	95436
+Wayne Ct	Redwood City	94063
+Wayne Ct	Riverside	92504
+Wayne Ct	Sacramento	95829
+Wayne Ct	Sonora	95370
+Wayne Dr	Bakersfield	93304
+Wayne Dr	Brentwood	94513
+Wayne Dr	Idyllwild	92549
+Wayne Dr	Modesto	95350
+Wayne Dr	Roseville	95678
+Wayne Heintz St	Elk Grove	95624
+Wayne Hill	San Diego	92127
+Wayne Hl	San Diego	92127
+Wayne Hls	San Diego	92127
+Wayne Lee Ct	Bakersfield	93314
+Wayne Ln	Chico	95926
+Wayne Ln	Menifee	92585
+Wayne Ln	Redding	96003
+Wayne Ln	San Diego	92117
+Wayne Ln	Sun City	92585
+Wayne Mills Place	Valencia	91355
+Wayne Pl	San Francisco	94133
+Wayne Rd	Newport Beach	92625
+Wayne Rd	Olympic Valley	96146
+Wayne St	Corona	92881
+Wayne St	Indio	92201
+Wayne St	Martinez	94553
+Wayne Street	Pomona	91767
+Wayne Way	Arroyo Grande	93420
+Wayne Way	San Mateo	94403
+Wayne Way	Yuba City	95993
+Waynecrest Drive	Beverly Hills	90210
+Waynecrest Ln	Santee	92071
+Waynes Way	Ramona	92065
+Waynesboro	Irvine	92620
+Waynesboro Ct	Ceres	95307
+Waynesboro Ct	Stockton	95219
+Waynesboro Dr	Ceres	95307
+Waynesborough Ct	Bakersfield	93307
+Waynesborough Lane	Valencia	91354
+Waynesburg Ln	North Highlands	95660
+Waynewood Dr	Temecula	92591
+Waynoka Ln	Big Bear Lake	92315
+Waynoka Rd	Apple Valley	92308
+Waypoint	Tustin	92782
+Waypoint Dr	Napa	94558
+Waypoint Dr	Nipomo	93444
+Waypoint Dr	Temecula	92590
+Waypost Way	Temecula	92590
+Ways Ln	Fieldbrook	95519
+Ways Street	San Pedro	90731
+Wayside	Mission Viejo	92692
+Wayside	Newport Beach	92657
+Wayside Ave	El Cajon	92021
+Wayside Cir	Camarillo	93010
+Wayside Dr	Madera	93638
+Wayside Dr	Santa Rosa	95407
+Wayside Dr	Turlock	95380
+Wayside Drive	Sunland	91040
+Wayside Ln	Carmichael	95608
+Wayside Ln	Lake Arrowhead	92352
+Wayside Ln	Sacramento	95864
+Wayside Place	Diamond Bar	91765
+Wayside Plz	Walnut Creek	94597
+Wayside Rd	Portola Valley	94028
+Wayside St	Victorville	92392
+Wayvern Dr	Santa Rosa	95409
+Wayview Ct	Ventura	93003
+Wayward Ct	Brea	92821
+Wayward Rd	Hemet	92544

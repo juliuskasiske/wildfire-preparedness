@@ -1,0 +1,531 @@
+Alda Dr	Indio	92201
+Alda Place	North Hills	91343
+Aldabra Ct	San Diego	92129
+Aldacourrou St	Tracy	95304
+Aldagrove Rd	Antioch	94509
+Aldama Avenue	Pomona	91767
+Aldama Ct	San Diego	92127
+Aldama Street	Los Angeles	90042
+Aldama Terrace	Los Angeles	90042
+Aldbury Court	Beverly Hills	90210
+Aldbury Street	Canyon Country	91351
+Aldea	Irvine	92620
+Aldea	Oceanside	92057
+Aldea	Yorba Linda	92886
+Aldea Avenue	Encino	91316
+Aldea Avenue	Granada Hills	91344
+Aldea Avenue	Northridge	91325
+Aldea Avenue	Van Nuys	91406
+Aldea Cir	Huntington Beach	92648
+Aldea Cir	Huntington Beach	92648-5737
+Aldea Cir	Huntington Beach	92648-5738
+Aldea Ct	Mission Viejo	92691
+Aldea Ct	Redding	96002
+Aldea Ct	Ybl	92886
+Aldea Dr	Elverta	95626
+Aldea Dr	Oceanside	92057
+Aldea Drive	Montebello	90640
+Aldea Pl	Carlsbad	92009
+Aldean Ave	Mountain View	94043
+Aldean Pl	Newport Beach	92663
+Aldeano	San Clemente	92673
+Aldeano Dr	Mission Viejo	92691
+Aldebaran Av	Vandenberg Village	93436
+Aldebaran Cir	Newport Beach	92660
+Aldeburgh Cir	Sacramento	95834
+Alden Av	Lompoc	93436
+Alden Ave	Belmont	94002
+Alden Ave	Lakeport	95453
+Alden Ave	Redding	96002
+Alden Ave	Rohnert Park	94928
+Alden Cir	La Quinta	92253
+Alden Ct	Bakersfield	93311
+Alden Ct	Belmont	94002
+Alden Ct	Chico	95973
+Alden Ct	Lompoc	93436
+Alden Ct	Redlands	92373
+Alden Ct	Roseville	95678
+Alden Ct	San Bruno	94066
+Alden Ct	San Bruno	94080
+Alden Ct	Walnut Creek	94598
+Alden Ct	Windsor	95492
+Alden Drive	Beverly Hills	90210
+Alden Drive	Los Angeles	90048
+Alden Glen Dr	Tracy	95376
+Alden Ln	Citrus Heights	95621
+Alden Ln	Huntington Beach	92647
+Alden Ln	Huntington Beach	92647-2801
+Alden Ln	Huntington Beach	92647-2824
+Alden Ln	Windsor	95492
+Alden Rd	Adelanto	92301
+Alden Rd	Big Bear Lake	92315
+Alden Rd	Redlands	92373
+Alden Rd	Riverside	92506
+Alden Rd	Winchester	92596
+Alden St	Bakersfield	93241
+Alden St	Redwood City	94063
+Alden Street	Vallejo	94590
+Alden Way	Palmdale	93552
+Alden Way	Sacramento	95828
+Alden Way	San Jose	95117
+Alden Wy	Roseville	95678
+Aldenbrook Dr	Riverside	92508
+Aldengate Way	Hayward	94545
+Aldenglen Dr	South San Francisco	94080
+Alder	Bass Lake	93604
+Alder	Ben Lomond	95005
+Alder	Boulder Creek	95006
+Alder	Irvine	92612
+Alder	Soledad	93960
+Alder	Yosemite	95389
+Alder Av	Alderpoint	95511
+Alder Ave	Bloomington	92316
+Alder Ave	Carlsbad	92008
+Alder Ave	Colma	94015
+Alder Ave	Corcoran	93212
+Alder Ave	Cotati	94931
+Alder Ave	Fontana	92316
+Alder Ave	Fontana	92335
+Alder Ave	Fontana	92336
+Alder Ave	Fontana	92337
+Alder Ave	Hanford	93230
+Alder Ave	Hemet	92544
+Alder Ave	Homewood	96141
+Alder Ave	Morro Bay	93442
+Alder Ave	Rialto	92376
+Alder Ave	Rialto	92377
+Alder Ave	Sacramento	95828
+Alder Ave	Sacramento	95829
+Alder Ave	San Anselmo	94960
+Alder Ave	San Jacinto	92582
+Alder Ave	Walnut Creek	94595
+Alder Ave	Ybl	92886
+Alder Ave	Yorba Linda	92886
+Alder Avenue	Merced	95340
+Alder Bridge Ct	Elk Grove	95757
+Alder Brook Ln	Eastvale	92880
+Alder Camp Rd	Klamath	95548
+Alder Canyon Ct	Eureka	95503
+Alder Canyon Way	Antelope	95843
+Alder Cir	Moorpark	93021
+Alder Cir	Yucaipa	92399
+Alder Circle	Salinas	93905
+Alder Court	Atwater	95301
+Alder Court	Azusa	91702
+Alder Court	Benicia	94510
+Alder Court	Carmel	93923
+Alder Court	Stevenson Ranch	91381
+Alder Court	Vacaville	95687
+Alder Court	Woodland	95695
+Alder Creek Beach Rd	Manchester	 
+Alder Creek Ct	Lincoln	95648
+Alder Creek Ct	Modesto	95355
+Alder Creek Ct	San Jose	95148
+Alder Creek Dr	Modesto	95355
+Alder Creek Dr	Sacramento	95829
+Alder Creek Ln	Riverside	92503
+Alder Creek Ln	Riverside	92505
+Alder Creek Pkwy	Folsom	95630
+Alder Creek Rd	Cedarpines Park	92322
+Alder Creek Rd	Cedarpines Park	92407
+Alder Creek Rd	Corona	92880
+Alder Creek Rd	Lewiston	96052
+Alder Creek Rd	Riverside	92505
+Alder Creek Road	Truckee	96161
+Alder Creek Road	Vallejo	94591
+Alder Creek St	Chino	91708
+Alder Creek Way	Brentwood	94513
+Alder Crest Court	Canyon Country	91387
+Alder Crest Ct	Sacramento	95828
+Alder Crest Way	Vacaville	95688
+Alder Ct	American Canyon	94503
+Alder Ct	Fairfax	94930
+Alder Ct	Firebaugh	93622
+Alder Ct	Hercules	94547
+Alder Ct	Hollister	95023
+Alder Ct	Lemoore	93245
+Alder Ct	Murrieta	92562
+Alder Ct	Rancho Cucamonga	91730
+Alder Ct	Running Springs	92382
+Alder Ct	San Luis Obispo	93401
+Alder Ct	Santa Paula	93060
+Alder Ct	Saratoga	95070
+Alder Ct	Temecula	92591
+Alder Ct	Willits	 
+Alder Ct	Winchester	92596
+Alder Dr	Aliso Viejo	92656
+Alder Dr	Bolinas	94924
+Alder Dr	Eastvale	92880
+Alder Dr	Forest Falls	92339
+Alder Dr	Fortuna	95540
+Alder Dr	Lake Forest	92630
+Alder Dr	Lake Forest	92630-3003
+Alder Dr	Lemoore	93245
+Alder Dr	Mentone	92359
+Alder Dr	Milpitas	95035
+Alder Dr	Oakley	94561
+Alder Dr	San Diego	92116
+Alder Dr	San Marcos	92069
+Alder Drive	Los Angeles	90065
+Alder Drive	Mt Baldy	91759
+Alder Drive	Newhall	91321
+Alder Drive	Springville	93265
+Alder Drive	Truckee	96161
+Alder Glen Circle	Valencia	91354
+Alder Glen Ct	Carmichael	95608
+Alder Glen Dr	Lake Forest	92630
+Alder Glen Dr	Lake Forest	92630-3733
+Alder Glen Dr	Lodi	95242
+Alder Glen Ln	Douglas City	96024
+Alder Glen Ln	Wildomar	92595
+Alder Glen St	Bakersfield	93307
+Alder Glenn Ct	Cedarpines Park	92322
+Alder Grove Ln	Lytle Creek	92358
+Alder Grove Pl	Elk Grove	95624
+Alder Grove Way	Chula Vista	91914
+Alder Grove Way	Riverside	92507
+Alder Heights Rd	Auberry	93602
+Alder Hill Ct	Antelope	95843
+Alder Hill Road	Truckee	96161
+Alder Lake Ct	Rancho Cordova	95742
+Alder Lake Ct	San Jose	95131
+Alder Lane	Los Banos	93635
+Alder Lane	Pasadena	91107
+Alder Lane	Walnut	91789
+Alder Ln	Arcata	95519
+Alder Ln	Banning	92220
+Alder Ln	Buellton	93427
+Alder Ln	Cedar Glen	92321
+Alder Ln	Costa Mesa	92627
+Alder Ln	Crestline	92325
+Alder Ln	Fortuna	95540
+Alder Ln	Klamath	95548
+Alder Ln	La Palma	90623
+Alder Ln	Mckinleyville	95519
+Alder Ln	Middletown	95461
+Alder Ln	Palm Desert	92260
+Alder Ln	Palo Alto	94306
+Alder Ln	Pine Grove	95665
+Alder Ln	Redway	95542
+Alder Ln	San Mateo	94403
+Alder Ln	Sheridan	95681
+Alder Ln	Sonora	95370
+Alder Ln	Trinidad	95570
+Alder Ln	Tustin	92780
+Alder Ln	Valley Of Enchantment	92325
+Alder Oak Pl	Menifee	92585
+Alder Oak Pl	Sun City	92585
+Alder Park Ci	Roseville	95678
+Alder Peak Avenue	Canyon Country	91387
+Alder Pl	Chino Hills	91709
+Alder Pl	Escondido	92026
+Alder Pl	Ful	92835
+Alder Pl	Fullerton	92835
+Alder Pl	Lodi	95242
+Alder Pl	Menlo Park	94025
+Alder Pl	Newport Beach	92660
+Alder Pl	Novato	94945
+Alder Pl	Poway	92064
+Alder Pl	Santa Rosa	95409
+Alder Place	Calabasas	91302
+Alder Place	Davis	95618
+Alder Point Dr	Roseville	95661
+Alder Rd	Crescent City	95531
+Alder Rd	Crestline	92325
+Alder Rd	Monte Rio	95462
+Alder Rdg	Lake Forest	92679
+Alder Ridge Drive	La Canada Flintridge	91011
+Alder Ridge Pl	Rancho Cucamonga	91737
+Alder Road	Strathmore	93267
+Alder Spring Way	San Jose	95139
+Alder Springs Dr	Oak Park	91377
+Alder Springs Rd	Auberry	93602
+Alder St	Arroyo Grande	93420
+Alder St	Bakersfield	93301
+Alder St	Beaumont	92223
+Alder St	Chico	95928
+Alder St	Chowchilla	93610
+Alder St	Corona	92879
+Alder St	Coronado	92118
+Alder St	Eastvale	92880
+Alder St	Eureka	95503
+Alder St	Gilroy	95020
+Alder St	Hesperia	92345
+Alder St	Hollister	95023
+Alder St	Montgomery Creek	96065
+Alder St	Perris	92570
+Alder St	Rancho Cucamonga	91730
+Alder St	Redding	96003
+Alder St	Riverside	92504
+Alder St	Sacramento	95838
+Alder St	San Francisco	94134
+Alder St	San Luis Obispo	93401
+Alder St	Trona	93562
+Alder Street	Dinuba	93618
+Alder Street	Mount Shasta	96067
+Alder Street	Pacific Grove	93950
+Alder Street	Palmdale	93552
+Alder Street	Pomona	91767
+Alder Street	Soledad	93960
+Alder Street	Suisun City	94585
+Alder Ter	Cedar Glen	92321
+Alder Tree Way	Sacramento	95831
+Alder Tree Wy	Lodi	95242
+Alder Way	Firebaugh	93622
+Alder Way	Livingston	95334
+Alder Way	Lytle Creek	92358
+Alder Way	Montebello	90640
+Alder Way	West Sacramento	95691
+Alder Wood Ln	Chino Hills	91709
+Alder Wood Pl	Thousand Oaks	91362
+Alderberry	Irvine	92604
+Alderberry Ct	Ful	92835
+Alderberry Ct	Fullerton	92835
+Alderberry Ct	Sacramento	95835
+Alderberry Dr	Santa Barbara Unincorporated	93455
+Alderberry Dr	Santa Maria	93455
+Alderberry Pl	Hayward	94544
+Alderberry Way	Sacramento	95835
+Alderbery Lane	Pomona	91767
+Alderbranch Pt	San Diego	92131
+Alderbrook	Irvine	92604
+Alderbrook	Mission Viejo	92692
+Alderbrook Ct	Moorpark	93021
+Alderbrook Dr	Rancho Cucamonga	91739
+Alderbrook Dr	Riverside	92508
+Alderbrook Dr	Santa Rosa	95405
+Alderbrook Drive	Newhall	91321
+Alderbrook Ln	Bakersfield	93312
+Alderbrook Ln	Cupertino	95014
+Alderbrook Ln	San Jose	95129
+Alderbrook Ln	Santa Rosa	95405
+Alderbrook Ln	Santee	92071
+Alderbrook Pl	Chula Vista	91913
+Alderbrook Pl	Moraga	94556
+Alderbrook Rd	Wildomar	92595
+Alderbrook St	Moorpark	93021
+Alderbrook Way	Cupertino	95014
+Alderbrook Way	Pittsburg	94565
+Alderbury Drive	Rowland Heights	91748
+Alderbury St	Cypress	90630
+Aldercreek Pl	Thousand Oaks	91362
+Aldercrest Pt	San Diego	92131
+Aldercroft Heights Rd	Los Gatos	95033
+Alderdale Ct	Thousand Oaks	91320
+Alderdale Street	Downey	90240
+Aldergate Dr	Eastvale	92880
+Aldergate Dr	Menifee	92584
+Aldergate St	Bakersfield	93311
+Aldergate Street	Monterey Park	91755
+Alderglen Dr	Lake Forest	92630
+Alderglen Drive	Dixon	95620
+Alderglen St	Moorpark	93021
+Aldergrove	Irvine	92604
+Aldergrove Ave	Escondido	92029
+Aldergrove Ct	Ful	92835
+Aldergrove Ct	Fullerton	92835
+Aldergrove Ct	Lathrop	95330
+Aldergrove Ln	Spring Valley	91977
+Aldergrove Rd	Arcata	95521
+Aldergrove St	Moorpark	93021
+Aldergrove Street	Sylmar	91342
+Alderhill Ter	San Diego	92131
+Alderidge Ct	Riverside	92503
+Alderidge Ct	San Diego	92131
+Alderidge Ln	San Diego	92131
+Alderlee Way	San Carlos	94070
+Alderley St	San Diego	92114
+Alderman Ave	Tustin	92782
+Alderman Ct	Galt	95632
+Alderman Dr	Galt	95632
+Alderman Ln	Brentwood	94513
+Alderman Rd	Johnson Valley	92285
+Alderman Rd	Landers	92285
+Alderman Rd	Sonora	95370
+Alderman Street	June Lake	93529
+Alderman Way	San Diego	92126
+Alderney Ct	Los Altos	94024
+Alderney Ct	Oceanside	92054
+Alderney Rd	San Anselmo	94960
+Alderpoint	Grass Valley	95945
+Alderpoint Ct	Riverside	92506
+Alderpoint Ct	Rocklin	95765
+Alderpoint Drive	La Mirada	90638
+Alderpoint Rd	 	95542
+Alderpoint Rd	Alderpoint	95511
+Alderpoint Rd	Alderpoint	95542
+Alderpoint Rd	Blocksburg	95514
+Alderpoint Rd	Blocksburg	95554
+Alderpoint Rd	Bridgeville	95514
+Alderpoint Rd	Bridgeville	95526
+Alderpoint Rd	Bridgeville	95528
+Alderpoint Rd	Fort Seward	95511
+Alderpoint Rd	Fort Seward	95514
+Alderpoint Rd	Garberville	95511
+Alderpoint Rd	Garberville	95542
+Alderpoint Rd	Harris	95511
+Alderpoint Rd	Rancho Sequoia	95511
+Alderpoint Road	Blocksburg	95514
+Alderpointe St	Bakersfield	93313
+Alderport Dr	Huntington Beach	92649
+Alderport Dr	Huntington Beach	92649-2286
+Alderport Dr	Huntington Beach	92649-2287
+Alderport Dr	Huntington Beach	92649-2288
+Alderport Dr	Huntington Beach	92649-2289
+Aldersgate Ct	Turlock	95382
+Aldersgate Dr	Plumas Lake	95961
+Aldersgate Drive	La Verne	91750
+Aldersgate Rd	Encinitas	92024
+Aldershot Ct	Oakdale	95361
+Aldershot Dr	Bakersfield	93312
+Aldershot Walk	Westminster	92683
+Alderson Ave	Garden Grove	92840
+Alderson Ave	Sacramento	95826
+Alderson Avenue	Baldwin Park	91706
+Alderson Avenue	Irwindale	91706
+Alderson Rd	Hughson	95326
+Alderson St	El Cajon	92019
+Alderton Avenue	La Puente	91744
+Alderton Lane	Cerritos	90703
+Alderton Way	Bakersfield	93311
+Aldertree Ct	Moreno Valley	92555
+Alderwood	Irvine	92604
+Alderwood	Lake Forest	92630
+Alderwood	Lake Forest	92630-0000
+Alderwood	Lake Forest	92630-5545
+Alderwood Ave	Buena Park	90621
+Alderwood Ave	Eastvale	92880
+Alderwood Ave	Galt	95632
+Alderwood Ave	Sunnyvale	94089
+Alderwood Ci	Mckinleyville	95519
+Alderwood Cir	Corona	92881
+Alderwood Cir	Vista	92081
+Alderwood Court	Carson	90746
+Alderwood Court	Yuba City	95991
+Alderwood Ct	Big Bear City	92314
+Alderwood Ct	Carson	90746
+Alderwood Ct	Ful	92835
+Alderwood Ct	Fullerton	92835
+Alderwood Ct	Madera	93637
+Alderwood Ct	Napa	94558
+Alderwood Ct	Petaluma	94954
+Alderwood Ct	San Mateo	94402
+Alderwood Ct	Walnut Creek	94596
+Alderwood Dr	Antioch	94509
+Alderwood Dr	Carlsbad	92011
+Alderwood Dr	Fontana	92336
+Alderwood Dr	Idyllwild	92549
+Alderwood Dr	Newport Beach	92660
+Alderwood Dr	Perris	92571
+Alderwood Dr	Rancho Cucamonga	91730
+Alderwood Dr	San Jose	95132
+Alderwood Lane	Yreka	96097
+Alderwood Ln	Mentone	92359
+Alderwood Ln	Poway	92064
+Alderwood Ln	San Ramon	94582
+Alderwood Ln	Seal Beach	90740
+Alderwood Pl	Lake Elsinore	92530
+Alderwood Pl	Roseville	95747
+Alderwood Pl	Thousand Oaks	91362
+Alderwood Rd	Mendocino	 
+Alderwood Rd	Walnut Creek	94598
+Alderwood Road	Lake Hughes	93532
+Alderwood St	Bakersfield	93307
+Alderwood St	Idyllwild	92549
+Alderwood St	Perris	92571
+Alderwood Street	La Mirada	90638
+Alderwood Street	Tulare	93274
+Alderwood Way	Nevada City	95959
+Alderwood Way	Perris	92571
+Alderwood Way	Riverside	92506
+Alderwood Way	Sacramento	95864
+Alderwood Way	San Rafael	94901
+Alderwood Way	Vacaville	95687
+Aldford Dr	San Diego	92111
+Aldford Pl	San Diego	92111
+Aldgate Ave	Garden Grove	92840
+Aldgate Ave	Garden Grove	92841
+Aldgate Avenue	La Puente	91744
+Aldi Pl	Moreno Valley	92555
+Aldina Hill Road	Walnut	91789
+Aldina St	Montclair	91763
+Aldine Court	San Pedro	90731
+Aldine Dr	San Diego	92115
+Aldine Dr	San Diego	92116
+Aldinger Way	Elk Grove	95757
+Aldis Street	Los Angeles	90001
+Aldis Street	Pomona	91768
+Aldo	Soquel	95073
+Aldo Av	Santa Clara	95054
+Aldo Ave	Santa Clara	95054
+Aldo Ct	Eureka	95503
+Aldo Ct	San Jose	95127
+Aldo Ct	Sebastopol	95472
+Aldo Ln	Ukiah	 
+Aldo St	Sacramento	95823
+Aldo Way	Anderson	96007
+Aldo Way	San Miguel	93451
+Aldon Avenue	La Verne	91750
+Aldon Way	Anderson	96007
+Aldona Ln	Sacramento	95841
+Aldophia Dr	Carlsbad	92011
+Aldora Drive	Rowland Heights	91748
+Aldorado Dr	Vista	92084
+Aldorae St	Fair Oaks	95628
+Aldred Ct	Antelope	95843
+Aldred Way	Antelope	95843
+Aldren Court	Agoura Hills	91301
+Aldren Ct	Moreno Valley	92555
+Aldrich Avenue	Livingston	95334
+Aldrich Cir	Thousand Oaks	91360
+Aldrich Court	Merced	95348
+Aldrich Ct	Antioch	94509
+Aldrich Ct	Riverside	92503
+Aldrich Dr	Huntington Beach	92647
+Aldrich Dr	Huntington Beach	92647-3704
+Aldrich Dr	Huntington Beach	92647-3705
+Aldrich Dr	Huntington Beach	92647-3706
+Aldrich Dr	Huntington Beach	92647-3761
+Aldrich Dr	Huntington Beach	92647-3774
+Aldrich Dr	Huntington Beach	92647-3775
+Aldrich Dr	Huntington Beach	92647-3776
+Aldrich Dr	Huntington Beach	92647-3777
+Aldrich Dr	Huntington Beach	92647-3778
+Aldrich Dr	Huntington Beach	92647-3779
+Aldrich Dr	Huntington Beach	92647-3780
+Aldrich Dr	Huntington Beach	92647-3781
+Aldrich Dr	Huntington Beach	92647-3782
+Aldrich Dr	Huntington Beach	92647-3783
+Aldrich Dr	Huntington Beach	92647-3784
+Aldrich Dr	Huntington Beach	92647-3785
+Aldrich Dr	Huntington Beach	92647-3786
+Aldrich Dr	Palm Desert	92211
+Aldrich Drive	Merced	95348
+Aldrich Pl	Fortuna	95540
+Aldrich Rd	Hughson	95326
+Aldrich Road	Capay	95607
+Aldrich Road	South Gate	90280
+Aldrich St	Antioch	94509
+Aldrich Street	Pico Rivera	90660
+Aldrich Street	Whittier	90606
+Aldrich Way	San Jose	95121
+Aldridge	Watsonville	95076
+Aldridge Ave	Bakersfield	93314
+Aldridge Drive	City Of Marysville	95901
+Aldridge Ln	Roseville	95747
+Aldridge Place	Rowland Heights	91748
+Aldridge Ravine Ct	Folsom	95630
+Aldridge Road	Vacaville	95688
+Aldridge Street	City Of Marysville	95901
+Aldrin Ave	Poway	92064
+Aldrin Ct	Bakersfield	93313
+Aldrin Ct	Chico	95926
+Aldrin St	Poway	92064
+Aldrin Way	Placentia	92870
+Aldus Dr	Goleta	93117
+Aldwina Ln	Manteca	95336
+Aldworth Dr	San Jose	95148
+Aldworth Way	Folsom	95630
+Aldwych Ct	Galt	95632
+Aldwych Rd	El Cajon	92020
+Aldwych Way	San Ramon	94582

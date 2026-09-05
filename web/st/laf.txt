@@ -1,0 +1,83 @@
+Lafayette	Aliso Viejo	92656
+Lafayette	Irvine	92620
+Lafayette	Soquel	95073
+Lafayette	Ventura	93003
+Lafayette Ave	Hayward	94544
+Lafayette Ave	Modesto	95355
+Lafayette Avenue	Lindsay	93247
+Lafayette Cir	Corona	92882
+Lafayette Cir	Lafayette	94549
+Lafayette Cir	Magalia	95954
+Lafayette Circle	Salinas	93906
+Lafayette Court	Manhattan Beach	90266
+Lafayette Ct	Carlsbad	92010
+Lafayette Ct	Fontana	92336
+Lafayette Ct	Indio	92201
+Lafayette Ct	Moorpark	93021
+Lafayette Ct	Redding	96003
+Lafayette Dr	Antioch	94509
+Lafayette Dr	Huntington Beach	92647
+Lafayette Dr	Huntington Beach	92647-4000
+Lafayette Dr	Huntington Beach	92647-4045
+Lafayette Dr	Huntington Beach	92647-4046
+Lafayette Dr	Huntington Beach	92647-4047
+Lafayette Dr	Huntington Beach	92647-4048
+Lafayette Dr	Huntington Beach	92647-4049
+Lafayette Dr	Huntington Beach	92647-4050
+Lafayette Dr	Murrieta	92562
+Lafayette Dr	Oxnard	93036
+Lafayette Dr	Rancho Mirage	92270
+Lafayette Dr	Roseville	95678
+Lafayette Dr	Sacramento	95821
+Lafayette Dr	Santa Rosa	95403
+Lafayette Dr	Sunnyvale	94087
+Lafayette Drive	Davis	95618
+Lafayette Ln	Coto De Caza	92679
+Lafayette Pl	Chula Vista	91913
+Lafayette Pl	Culver City	90230
+Lafayette Pl	Culver City	90232
+Lafayette Place	Culver City	90230
+Lafayette Place	Culver City	90232
+Lafayette Rd	Anza	92539
+Lafayette Rd	Newport Beach	92663
+Lafayette Road	Claremont	91711
+Lafayette Road	Vacaville	95687
+Lafayette St	Apple Valley	92307
+Lafayette St	Chino	91710
+Lafayette St	Colusa	95932
+Lafayette St	Martinez	94553
+Lafayette St	Moorpark	93021
+Lafayette St	Riverside	92503
+Lafayette St	San Francisco	94103
+Lafayette St	San Mateo	94403
+Lafayette St	Santa Clara	95050
+Lafayette St	Santa Clara	95054
+Lafayette St	Ventura	93003
+Lafayette St	Westminster	92683
+Lafayette Street	Glendale	91205
+Lafayette Street	Rosemead	91770
+Lafayette Street	San Gabriel	91776
+Lafayette Way	Bakersfield	93309
+Lafayette Way	Crescent City	95531
+Lafayette Way	Moreno Valley	92555
+Lafayette Way	Salinas	93906
+Lafayette Way	Santa Clara	95050
+Lafayette Way	Tustin	92782
+Lafayette Wy	Santa Clara	95050
+Lafe Dr	Santee	92071
+Lafern Ct	San Jose	95120
+Laferney Ave	Joshua Tree	92252
+Lafever Ct	Stockton	95209
+Lafferty Rd	Lakeport	95453
+Laffey Ct	San Diego	92124
+Laffey Ln	El Cajon	92021
+Laffranchi Ln	Manteca	95337
+Lafite Ct	Brentwood	94513
+Lafitte Ct	Fair Oaks	95628
+Lafitte Dr	Oak Park	91377
+Lafler Drive	Los Angeles	90063
+Lafler Road	Los Angeles	90032
+Lafon Rd	Landers	92285
+Lafranchi Ln	Eureka	95503
+Lafranchi Ln	Nicasio	94946
+Lafranchi Rd	Hopland	 

@@ -1,0 +1,466 @@
+Lila Ct	San Jacinto	92582
+Lila Del Ct	Concord	94518
+Lila Dr	San Diego	92115
+Lila Hill Ln	Lakeside	92040
+Lila Lane	La Canada Flintridge	91011
+Lila Ln	Chico	95928
+Lila Ln	El Cajon	92021
+Lila Ln	El Sobrante	94803
+Lila Ln	North Highlands	95660
+Lila Ln	Petaluma	94954
+Lila Rose Ct	Bakersfield	93314
+Lila St	Riverside	92504
+Lilac	Aliso Viejo	92656
+Lilac	Boulder Creek	95006
+Lilac	Carmel Valley	93924
+Lilac	Felton	95018
+Lilac	Felton	95041
+Lilac	Irvine	92618
+Lilac	Lake Forest	92630
+Lilac	Watsonville	95076
+Lilac Ave	Bloomington	92316
+Lilac Ave	Chula Vista	91911
+Lilac Ave	Clearlake	95422
+Lilac Ave	Fountain Valley	92708
+Lilac Ave	Hayward	94545
+Lilac Ave	Hemet	92545
+Lilac Ave	Kentfield	94904
+Lilac Ave	Mission Viejo	92692
+Lilac Ave	Newport Beach	92625
+Lilac Ave	Other	94062
+Lilac Ave	Patterson	95363
+Lilac Ave	Reedley	93654
+Lilac Ave	Rialto	92377
+Lilac Avenue	Merced	95340
+Lilac Blossom Ln	San Jose	95124
+Lilac Blossom Pl	Elk Grove	95757
+Lilac Breeze Ct	Corona	92879
+Lilac Bush Ct	Sacramento	95829
+Lilac Canyon Ct	Rancho Cordova	95742
+Lilac Canyon Lane	Altadena	91001
+Lilac Catheys	Catheys Valley	95306
+Lilac Cir	Buena Park	90620
+Lilac Cir	Catheys Valley	95306
+Lilac Cir	Chino Hills	91709
+Lilac Cir	Hercules	94547
+Lilac Cir	Indian Wells	92210
+Lilac Cir	Murrieta	92563
+Lilac Cir	Westminster	92683
+Lilac Cir	Willits	 
+Lilac Circle	Lancaster	93536
+Lilac Court	Auburn	95602
+Lilac Court	Benicia	94510
+Lilac Court	Carson	90746
+Lilac Court	Live Oak	95953
+Lilac Court	Los Banos	93635
+Lilac Court	Salinas	93907
+Lilac Court	Santa Clarita	91390
+Lilac Court	Santa Fe Springs	90670
+Lilac Court	Truckee	96161
+Lilac Court	Vacaville	95687
+Lilac Court	Vallejo	94589
+Lilac Crest	Valley Center	92082
+Lilac Crst	Valley Center	92082
+Lilac Ct	Brentwood	94513
+Lilac Ct	Carlsbad	92011
+Lilac Ct	Carson	90746
+Lilac Ct	Ceres	95307
+Lilac Ct	Concord	94521
+Lilac Ct	Cupertino	95014
+Lilac Ct	Eastvale	92880
+Lilac Ct	Hollister	95023
+Lilac Ct	Indio	92201
+Lilac Ct	Moreno Valley	92553
+Lilac Ct	Murrieta	92563
+Lilac Ct	Rancho Cucamonga	91739
+Lilac Ct	Redlands	92373
+Lilac Ct	San Diego	92130
+Lilac Ct	San Marcos	92078
+Lilac Ct	Willits	 
+Lilac Dr	Atherton	94027
+Lilac Dr	Campo	91906
+Lilac Dr	El Cajon	92021
+Lilac Dr	Forest Falls	92339
+Lilac Dr	Idyllwild	92549
+Lilac Dr	Julian	92036
+Lilac Dr	Lake Arrowhead	92352
+Lilac Dr	Los Osos	93402
+Lilac Dr	Montecito	93108
+Lilac Dr	Placentia	92870
+Lilac Dr	Santa Rosa	95407
+Lilac Dr	Walnut Creek	94595
+Lilac Dr	Willits	 
+Lilac Drive	Palmdale	93552
+Lilac Extension Rd	Pala	92059
+Lilac Fields Pl	Elk Grove	95624
+Lilac Heights Ct	Valley Center	92082
+Lilac Hill	Valley Center	92082
+Lilac Hill Dr	Escondido	92026
+Lilac Hills Ln	Valley Center	92082
+Lilac Knolls Rd	Valley Center	92082
+Lilac Lane	Beale Afb	95903
+Lilac Lane	Beaumont	92223
+Lilac Lane	Compton	90221
+Lilac Lane	Dinuba	93618
+Lilac Lane	Glendale	91206
+Lilac Lane	Glendora	91741
+Lilac Lane	Kings Canyon National Pk	93633
+Lilac Lane	Livingston	95334
+Lilac Lane	Montebello	90640
+Lilac Lane	West Sacramento	95691
+Lilac Lane Ln	Imperial	92251
+Lilac Ln	Alpine	91901
+Lilac Ln	Antioch	94509
+Lilac Ln	Anza	92539
+Lilac Ln	Auburn	95603
+Lilac Ln	Beaumont	92223
+Lilac Ln	Big Bar	96010
+Lilac Ln	Boulevard	91905
+Lilac Ln	Brea	92823
+Lilac Ln	Chico	95926
+Lilac Ln	Costa Mesa	92627
+Lilac Ln	Coto De Caza	92679
+Lilac Ln	Crestline	92325
+Lilac Ln	Descanso	91916
+Lilac Ln	East Palo Alto	94303
+Lilac Ln	El Cajon	92021
+Lilac Ln	Eureka	95503
+Lilac Ln	Huntington Beach	92647
+Lilac Ln	Huntington Beach	92647-8434
+Lilac Ln	Huntington Beach	92647-8435
+Lilac Ln	Huntington Beach	92647-8436
+Lilac Ln	Idyllwild	92549
+Lilac Ln	Imperial	92251
+Lilac Ln	Julian	92036
+Lilac Ln	Lake Elsinore	92532
+Lilac Ln	Landers	92284
+Lilac Ln	Landers	92285
+Lilac Ln	Lincoln	95648
+Lilac Ln	Los Altos	94024
+Lilac Ln	Los Gatos	95032
+Lilac Ln	Mi-Wuk	95346
+Lilac Ln	Mill Valley	94941
+Lilac Ln	Morgan Hill	95037
+Lilac Ln	Mountain View	94043
+Lilac Ln	Oakhurst	93644
+Lilac Ln	Pine Valley	91962
+Lilac Ln	Redding	96001
+Lilac Ln	Rio Linda	95673
+Lilac Ln	Sacramento	95864
+Lilac Ln	Santa Paula	93060
+Lilac Ln	Simi Valley	93063
+Lilac Ln	South San Francisco	94080
+Lilac Ln	St Helena	94574
+Lilac Ln	Twain Harte	95383
+Lilac Ln	Willits	 
+Lilac Ln	Winchester	92596
+Lilac Ln	Yucaipa	92399
+Lilac Mist Bnd	San Diego	92130
+Lilac Pala Rd	Valley Center	92082
+Lilac Path	San Diego	92104
+Lilac Pl	Banning	92220
+Lilac Pl	Escondido	92026
+Lilac Pl	Novato	94949
+Lilac Pl	Riverside	92503
+Lilac Pl	Willits	 
+Lilac Place	Banning	92220
+Lilac Place	Los Angeles	90026
+Lilac Place	Pomona	91768
+Lilac Ranch Rd	Alpine	91901
+Lilac Rd	Adelanto	92301
+Lilac Rd	Bonsall	92003
+Lilac Rd	Escondido	92026
+Lilac Rd	Oak Hills	92344
+Lilac Rd	Pala	92059
+Lilac Rd	Ramona	92065
+Lilac Rd	San Jacinto	92582
+Lilac Rd	Twentynine Palms	92277
+Lilac Rd	Valley Center	92082
+Lilac Rd	Victorville	92392
+Lilac Rd	Willits	 
+Lilac Rd W	Escondido	92026
+Lilac Ridge Ct	Antelope	95843
+Lilac Ridge Dr	Perris	92571
+Lilac Ridge Ln	Perris	92571
+Lilac Ridge Pl	Perris	92571
+Lilac Ridge Rd	Escondido	92026
+Lilac Ridge Rd	San Ramon	94582
+Lilac Road	Panorama City	91402
+Lilac Sky Ln	Murrieta	92563
+Lilac Smt	Encinitas	92024
+Lilac Smt	Olivenhain	92024
+Lilac St	Bakersfield	93308
+Lilac St	Chino	91710
+Lilac St	Corona	92882
+Lilac St	Fontana	92337
+Lilac St	Hemet	92545
+Lilac St	Hesperia	92345
+Lilac St	Hollister	95023
+Lilac St	Hume	93628
+Lilac St	Lodi	95242
+Lilac St	Loma Linda	92354
+Lilac St	San Diego	92120
+Lilac St	San Francisco	94110
+Lilac St	Santa Maria	93458
+Lilac Street	Fairfield	94533
+Lilac Street	Monterey	93940
+Lilac Ter	Willits	 
+Lilac Terr	Willits	 
+Lilac Terrace	Los Angeles	90026
+Lilac Trail	Calabasas	91302
+Lilac Trl	Boulevard	91905
+Lilac View Cir	Menifee	92584
+Lilac View Ct	Shafter	93263
+Lilac Vista Dr	Valley Center	92082
+Lilac Vista Rd	Valley Center	92082
+Lilac Walk	Escondido	92026
+Lilac Walk	Oxnard	93030
+Lilac Walk Rd	Escondido	92026
+Lilac Way	Azusa	91702
+Lilac Way	Cedar Glen	92321
+Lilac Way	Cupertino	95014
+Lilac Way	Folsom	95630
+Lilac Way	Loma Rica	95901
+Lilac Way	Los Gatos	95032
+Lilac Way	Manteca	95336
+Lilac Way	Paradise	95969
+Lilac Way	Perris	92570
+Lilac Way	Rohnert Park	94928
+Lilac Way	San Diego	0
+Lilac Way	San Diego	92130
+Lilac Way	Temecula	92592
+Lilac Way	Ventura	93004
+Lilac Wood Ln	Jamul	91935
+Lilac Wood Rd	Jamul	91935
+Lilac Wy	Manteca	95336
+Lilac Wy	Tracy	95376
+Lilacview Avenue	Palmdale	93550
+Lilah Cir	Lake Elsinore	92530
+Lilah Ln	San Diego	92128
+Lile Ln	Cloverdale	95425
+Lile St	Oceanside	92056
+Lile Way	Mi-Wuk	95346
+Lilford Ave	Hesperia	92345
+Liliana Court	Rowland Heights	91748
+Liliano	Irvine	92614
+Liliano Drive	Sierra Madre	91024
+Liliano Place	Sierra Madre	91024
+Lilibet Ave	Sacramento	95826
+Lilic Canyon Lane	Altadena	91001
+Lilienthal Ave	Napa	94558
+Lilienthal Avenue	Los Angeles	90045
+Lilienthal Lane	Redondo Beach	90278
+Lilita Street	Lynwood	90262
+Lilium Ct	Moreno Valley	92557
+Lilium Ln	Carlsbad	92011
+Lilja Ct	Roseville	95678
+Lilla Ln	Palo Cedro	96073
+Lilla Place	Canoga Park	91304
+Lilla Rd	Hayward	94541
+Lillard Drive	Davis	95618
+Lillard Ln	Woodacre	94973
+Lille Cir	Irvine	92604
+Lille Ln	Newport Beach	92663
+Lillean Court	Vallejo	94589
+Lillean Way	Vallejo	94589
+Lillebakke Ct	Solvang	93463
+Lillehammer Ct	Antelope	95843
+Lilley Mountain Ct	Coarsegold	93614
+Lilley Mountain Dr	Coarsegold	93614
+Lilley Mountain Ln	Coarsegold	93614
+Lilley Rd	Joshua Tree	92252
+Lilli Way	Van Nuys	91406
+Lillian	Santa Cruz	95065
+Lillian Av	Escalon	95320
+Lillian Ave	Lake Elsinore	92530
+Lillian Ave	Paradise	95969
+Lillian Ave	Sunnyvale	94087
+Lillian Court	Lancaster	93535
+Lillian Ct	San Anselmo	94960
+Lillian Dr	Barstow	92311
+Lillian Dr	Concord	94521
+Lillian Dr	Kelseyville	95451
+Lillian Dr	Modesto	95355
+Lillian Dr	Port Hueneme	93041
+Lillian Dr	Shingletown	96088
+Lillian Jane Ln	Ramona	92065
+Lillian Lane	Salinas	93907
+Lillian Lane	South Gate	90280
+Lillian Ln	Carmichael	95608
+Lillian Ln	Citrus Heights	95610
+Lillian Ln	El Cajon	92020
+Lillian Ln	Highland	92346
+Lillian Ln	Mariposa	95338
+Lillian Ln	Mill Valley	94941
+Lillian Ln	San Rafael	94901
+Lillian Ln	Temecula	92590
+Lillian Pl	Costa Mesa	92627
+Lillian Place	Hacienda Heights	91745
+Lillian Place	Marina	93933
+Lillian Rd	Lake Elsinore	92530
+Lillian St	Brentwood	94513
+Lillian St	Crockett	94525
+Lillian St	Madera	93637
+Lillian St	Riverside	92504
+Lillian St	San Diego	92110
+Lillian St	San Francisco	94124
+Lillian St 1/2	Madera	93637
+Lillian Street	Los Angeles	90001
+Lillian Street	Torrance	90503
+Lillian Way	Apple Valley	92307
+Lillian Way	Bakersfield	93309
+Lillian Way	Fallbrook	92028
+Lillian Way	Los Angeles	90004
+Lillian Way	Los Angeles	90038
+Lillian Way	North Tustin	92780
+Lillian Way	San Jose	95120
+Lillian Way	Sebastopol	95472
+Lilliana Dr	Palm Springs	92264
+Lilliane Avenue	Acton	93510
+Lillianne Avenue	Acton	93510
+Lillianne Street	Acton	93510
+Lillick Dr	Santa Clara	95051
+Lillick Dr	Sunnyvale	94087
+Lillie Av	Summerland	93067
+Lillie Cir	Cathedral City	92234
+Lillie Dr	Santa Rosa	95403
+Lillie Ln	Boulevard	91905
+Lillie St	Calistoga	94515
+Lillies Way	Beaumont	92223
+Lillingston Canyon Rd	Santa Barbara Unincorporated	93013
+Lilliput Ln	Loomis	95650
+Lilliput Ln	Paradise	95969
+Lilliput Ln	San Jose	95116
+Lillivale Ct	Citrus Heights	95621
+Lilly	Watsonville	95076
+Lilly Ave	Gilroy	95020
+Lilly Ave	Hayward	94544
+Lilly Ave	Los Alamitos	90808
+Lilly Avenue	Long Beach	90808
+Lilly Court	Northridge	91325
+Lilly Cross Dr	Roseville	95678
+Lilly Ct	Nipomo	93444
+Lilly Ct	Richmond	94806
+Lilly Ct	Tracy	95376
+Lilly Falls Ct	Bakersfield	93306
+Lilly Lane	South El Monte	91733
+Lilly Ln	Lake Elsinore	92530
+Lilly Ln	Morgan Hill	95037
+Lilly Ln	San Carlos	94070
+Lilly Ln	Turlock	95382
+Lilly Place	Soledad	93960
+Lilly St	Bakersfield	93241
+Lilly St	Garden Grove	92840
+Lilly St	Garden Grove	92843
+Lilly St	Madera	93637
+Lilly St	Madera	93638
+Lilly St	Palm Springs	92262
+Lilly St 1/2	Madera	93638
+Lilly Way	Browns Valley	95918
+Lilly Way	Hanford	93230
+Lilly Way	North Hollywood	91605
+Lillyglen Drive	Canyon Country	91387
+Lillyhill Dr	Needles	92363
+Lillys Lane	Vacaville	95688
+Lillyvale Avenue	Los Angeles	90032
+Lils Pl	Templeton	93465
+Lily	Watsonvile	95076
+Lily	Watsonville	95076
+Lily Av	Mckinleyville	95519
+Lily Ave	Cupertino	95014
+Lily Ave	El Cajon	92021
+Lily Ave	Fountain Valley	92708
+Lily Ave	Murrieta	92562
+Lily Ave	Sanger	93657
+Lily Ave	Sunnyvale	94086
+Lily Ave	Tahoe Vista	96148
+Lily Ave	Upland	91784
+Lily Ave	Westminster	92683
+Lily Bay Cir	Sacramento	95834
+Lily Blossom Ct	San Jose	95123
+Lily Court	Torrance	90502
+Lily Cove Ave	Lakeport	95453
+Lily Cove Dr	Clearlake Park	95424
+Lily Creek Trail	Nevada City	95959
+Lily Crest Avenue	Los Angeles	90029
+Lily Crest Way	Shafter	93263
+Lily Ct	Brisbane	94005
+Lily Ct	Corona	92879
+Lily Ct	Cupertino	95014
+Lily Ct	Danville	94506
+Lily Ct	Fontana	92336
+Lily Ct	Hercules	94547
+Lily Ct	Highland	92346
+Lily Ct	Hollister	95023
+Lily Ct	Indio	92201
+Lily Ct	Moreno Valley	92557
+Lily Ct	Mountain View	94040
+Lily Ct	Mountain View	94043
+Lily Ct	Patterson	95363
+Lily Ct	Rancho Cucamonga	91739
+Lily Ct	Riverbank	95367
+Lily Ct	Riverside	92503
+Lily Ct	Thousand Oaks	91320
+Lily Ct	Walnut Creek	94595
+Lily Ct Antioch Ca 94531	Antioch	94531
+Lily Drive	Merced	95341
+Lily Drive	Rosemead	91770
+Lily Glen	Lake Forest	92630
+Lily Gln	Lake Forest	92630
+Lily Hill Ct	Antelope	95843
+Lily Kay Ln	 	95519
+Lily Kay Ln	Mckinleyville	95519
+Lily Lane	Downey	90241
+Lily Lane	Gardena	90247
+Lily Lane	Kings Canyon National Pk	93633
+Lily Lane	South El Monte	91733
+Lily Ln	Alamo	94507
+Lily Ln	Bayside	95503
+Lily Ln	Carnelian Bay	96140
+Lily Ln	Chinese Camp	95309
+Lily Ln	La Quinta	92253
+Lily Ln	Manteca	95336
+Lily Ln	Riverside	92503
+Lily Ln	San Jacinto	92583
+Lily Ln	San Luis Obispo	93401
+Lily Ln	Turlock	95382
+Lily Loop	Irvine	92618
+Lily Mar Ln	Antelope	95843
+Lily Mine Way	O'Neals	93645
+Lily Pad Ct	Bakersfield	93312
+Lily Pad Ct	Rocklin	95677
+Lily Pad Ln	Templeton	93465
+Lily Pl	Carlsbad	92011
+Lily Pl	Chino	91710
+Lily Pl	Ventura	93004
+Lily Place	Los Angeles	90059
+Lily Place	West Sacramento	95691
+Lily Pond Ct	Sacramento	95835
+Lily Pond Ln	Murrieta	92563
+Lily Pond Ln	Orangevale	95662
+Lily Pool	Irvine	92620
+Lily Rd	Yucaipa	92399
+Lily Rock Dr	Fontana	92336
+Lily St	Garden Grove	92840
+Lily St	Healdsburg	95448
+Lily St	Napa	94558
+Lily St	Sacramento	95838
+Lily St	San Francisco	94102
+Lily St	Walnut Creek	94595
+Lily Street	Fairfield	94533
+Lily Street	Monterey	93940
+Lily Street	Pomona	91767
+Lily Vine Ln	Petaluma	94952
+Lily Way	Chico	95928
+Lily Way	Corona	92879
+Lily Way	Hemet	92545
+Lily Way	Idyllwild	92549
+Lily Way	San Jose	95134
+Lily Wy	San Jose	95134
+Lilydale Dr	Bakersfield	93313
+Lilypad Ct	Elk Grove	95624
+Lilypad Ln	Elk Grove	95624
+Lilypond Ln	Lincoln	95648
+Lilyrose St	Eastvale	92880
+Lilyview Way	Elk Grove	95757
+Lilywood Ln	Oxnard	93030

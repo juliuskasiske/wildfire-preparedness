@@ -1,0 +1,11 @@
+75Th St	Sacramento	95828
+75Th Street	Lancaster	93536
+75Th Street	Los Angeles	90001
+75Th Street	Los Angeles	90003
+75Th Street	Los Angeles	90043
+75Th Street	Palmdale	93552
+75Th Street East	Lancaster	93535
+75Th Street East	Littlerock	93543
+75Th Street East	Palmdale	93552
+75Th Street West	Lancaster	93536
+75Th Street West	Palmdale	93551

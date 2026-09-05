@@ -1,0 +1,59 @@
+E 30Th St	National City	91950
+E 30Th St	San Bernardino	92404
+E 31St St	National City	91950
+E 32Nd St	National City	91950
+E 33Rd St	San Bernardino	92404
+E 34Th St	San Bernardino	92404
+E 35Th St	San Bernardino	92404
+E 36Th St	San Bernardino	92404
+E 37Th St	San Bernardino	92404
+E 38Th Ave	San Mateo	94403
+E 38Th St	San Bernardino	92404
+E 39Th Ave	San Mateo	94403
+E 39Th St	San Bernardino	92404
+E 3Rd	Calexico	92231
+E 3Rd	Heber	92249
+E 3Rd	Holtville	92250
+E 3Rd	Niland	92257
+E 3Rd	Westmorland	92281
+E 3Rd Ave	Calexico	92231
+E 3Rd Ave	Chico	95926
+E 3Rd Ave	Chula Vista	91910
+E 3Rd Ave	Escondido	92025
+E 3Rd Ave	Foster City	94404
+E 3Rd Ave	Holtville	92250
+E 3Rd Ave	La Habra	90631
+E 3Rd Ave	Lah	90631
+E 3Rd Ave	Napa	94558
+E 3Rd Ave	San Mateo	94401
+E 3Rd Dr	Calexico	92231
+E 3Rd Rd	Calexico	92231
+E 3Rd St	Bakersfield	93307
+E 3Rd St	Beaumont	92223
+E 3Rd St	Calexico	92231
+E 3Rd St	Chico	95928
+E 3Rd St	Cloverdale	95425
+E 3Rd St	Corona	92879
+E 3Rd St	Heber	92249
+E 3Rd St	Highland	92346
+E 3Rd St	Highland	92410
+E 3Rd St	Holtville	92250
+E 3Rd St	Imperial	92251
+E 3Rd St	Isleton	95641
+E 3Rd St	Madera	93638
+E 3Rd St	Morgan Hill	95037
+E 3Rd St	Morgan Hill	95037-3631
+E 3Rd St	National City	91950
+E 3Rd St	Niland	92257
+E 3Rd St	Parlier	93648
+E 3Rd St	Perris	92570
+E 3Rd St	Pittsburg	94565
+E 3Rd St	Rialto	92376
+E 3Rd St	San Bernardino	92408
+E 3Rd St	San Bernardino	92410
+E 3Rd St	San Bernardino	92415
+E 3Rd St	San Jacinto	92583
+E 3Rd St	Santa Ana	92701
+E 3Rd St	Tustin	92780
+E 3Rd St	Westmorland	92281
+E 3Rd St  216 218 1/2 Mary Ave	Calexico	92231

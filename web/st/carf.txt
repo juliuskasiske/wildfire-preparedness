@@ -1,0 +1,9 @@
+Carfax Ave	Tustin	92780
+Carfax Avenue	Bellflower	90706
+Carfax Avenue	Downey	90242
+Carfax Avenue	Lakewood	90713
+Carfax Avenue	Long Beach	90808
+Carfax Avenue	Long Beach	90815
+Carfax Dr	Tustin	92780
+Carfax Rd	Lucerne	95458
+Carfax Tr	Lucerne	95458

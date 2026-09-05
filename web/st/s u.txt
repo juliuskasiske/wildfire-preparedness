@@ -1,0 +1,20 @@
+S U St	Lompoc	93436
+S Ukiah Way	Upland	91786
+S Union Ave	Avenal	93204
+S Union Ave	Bakersfield	93304
+S Union Ave	Bakersfield	93307
+S Union Ave	Whittier	90602
+S Union Rd	Manteca	95336
+S Union Rd	Manteca	95337
+S Union St	Anaheim	92805
+S Union St	Hanford	93230
+S Union St	Stockton	95205
+S Union St	Stockton	95206
+S University Dr	Riverside	92507
+S University Pl	Redlands	92374
+S University St	Healdsburg	95448
+S University St	Redlands	92374
+S University St	Visalia	93277
+S Upas St	Escondido	92025
+S Upper Lake Rd	Thousand Oaks	91361
+S Urbana St	Anaheim	92805

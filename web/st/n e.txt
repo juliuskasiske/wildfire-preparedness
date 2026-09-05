@@ -1,0 +1,357 @@
+N E	Imperial	92251
+N E Ave	Imperial	92251
+N E Ct	Lompoc	93436
+N E Ln	Imperial	92251
+N E Pl	Lompoc	93436
+N E Rd	Imperial	92251
+N E St	Fillmore	93015
+N E St	Imperial	92251
+N E St	Lompoc	93436
+N E St	Madera	93638
+N E St	Oxnard	93030
+N E St	Porterville	93257
+N E St	San Bernardino	92401
+N E St	San Bernardino	92405
+N E St	San Bernardino	92407
+N E St	San Bernardino	92410
+N E St	San Bernardino	92415
+N E St	Stockton	95205
+N Eagle Crest Ln	Fresno	93730
+N Eagle Dr	Big Bear Lake	92315
+N Eagle Mountain Dr	Big Bear City	92314
+N Eagles Glen St	San Bernardino	92407
+N Earl Cir	Anaheim	92806
+N Earl Pl	Anaheim	92806
+N Earle St	Blythe	92225
+N Earlham Ct	Oak Park	91377
+N Earlham St	Orange	92869
+N Earls	El Centro	92243
+N Earls St	El Centro	92243
+N East	Calipatria	92233
+N East Av	Santa Maria	93454
+N East Ave	Reedley	93654
+N East Ave	Santa Maria	93454
+N East Ct	Reedley	93654
+N East St	Acampo	95220
+N East St	Altu	96101
+N East St	Anaheim	92805
+N East St	Cloverdale	95425
+N East St	Fullerton	92831
+N East St	Hanford	93230
+N East St	Reedley	93654
+N East St	Santa Maria	93454
+N Eastern	Brawley	92227
+N Eastern Ave	Brawley	92227
+N Eastern Rd	Brawley	92227
+N Eastern Way	Brawley	92227
+N Eastridge Ln	Escondido	92026
+N Eastshore Dr	Fresno	93730
+N Eastside Ave	Santa Ana	92701
+N Eastside Ave	Santa Ana	92705
+N Eastside St	Santa Ana	92705
+N Eastview Ave	Upland	91784
+N Eastview Dr	Stockton	95212
+N Eastwood Ave	Santa Ana	92701
+N Eastwood Ave	Santa Ana	92705
+N Eastwood Cir	Villa Park	92867
+N Eastwood Dr	Oakhurst	93644
+N Easy St	Santa Maria	93458
+N Eaton Ct	Orange	92867
+N Eaton Ct	Orange	92869
+N Eberhard Rd	Lodi	95240
+N Ebony Ln	Hanford	93230
+N Ebony St	Santa Maria	93458
+N Ebonywood St	Orange	92865
+N Echo Ave	Fresno	93701
+N Echo Ave	Fresno	93704
+N Echo Ave	Fresno	93721
+N Echo Ave	Fresno	93728
+N Echo Ln	San Marcos	92069
+N Echo Park Ct	Mh	95391
+N Echo Ridge Way	Chula Vista	91915
+N Eckhoff St	Orange	92867
+N Eckhoff St	Orange	92868
+N Ecroyd Ave	Simi Valley	93063
+N Eddington Dr	Orange	92869
+N Eddy Ave	Fresno	93727
+N Eden Ave	Sunnyvale	94085
+N Eden Plains Rd	Brentwood	94513
+N Edgar Ave	Beaumont	92223
+N Edgar Pl	Fullerton	92831
+N Edge Dr	Sacramento	95821
+N Edgefield St	Upland	91786
+N Edgehill Dr	Colton	92324
+N Edgemar Cir	Anaheim	92807
+N Edgemont Ct	San Bernardino	92405
+N Edgemont Dr	San Bernardino	92404
+N Edgemont St	La Habra	90631
+N Edgewater Ct	Stockton	95204
+N Edgewater St	Orange	92865
+N Edgewood Dr	Fresno	93720
+N Edgewood Ln	Upland	91786
+N Edison Blvd	Burbank	91505
+N Edison Ct	Visalia	93292
+N Edison St	Stockton	95203
+N Edison St	Stockton	95204
+N Edison St	Visalia	93292
+N Edna Way	Upland	91784
+N Edward Ct	Anaheim	92806
+N Edwards Pl	Lompoc	93436
+N Effie St	Fresno	93701
+N Effie St	Fresno	93703
+N Effie St	Fresno	93710
+N Effie St	Fresno	93726
+N Egret Ct	Gilroy	95020
+N Ehlers Dr	Chatsworth	91311
+N Eiffel Cir	Upland	91784
+N Eighth Cir	Port Hueneme	93041
+N Eighth St	Fresno	93702
+N Eighth St	Fresno	93703
+N Eighth St	Fresno	93710
+N Eighth St	Fresno	93720
+N Eighth St	Fresno	93726
+N Eighth St	Lompoc	93436
+N Eighth St	Port Hueneme	93041
+N Eighth St	San Jose	95112
+N Eighth St	Santa Paula	93060
+N El Adobe Dr	Fresno	93711
+N El Cajon Ave	Fresno	93722
+N El Cajon St	Visalia	93291
+N El Camino Dr	Clayton	94517
+N El Camino Dr	San Bernardino	92404
+N El Camino Real	Dana Point	92624
+N El Camino Real	Encinitas	92024
+N El Camino Real	Gonzales	93926
+N El Camino Real	Oceanside	92057
+N El Camino Real	Oceanside	92058
+N El Camino Real	Salinas	93907
+N El Camino Real	Salinas	95076
+N El Camino Real	San Clemente	92672
+N El Camino Real	San Mateo	94401
+N El Camino Real	San Mateo	94402
+N El Camino Real Ave	San Mateo	94402
+N El Capitan Ave	Fresno	93705
+N El Capitan Ave	Fresno	93722
+N El Cerrito	Brawley	92227
+N El Cerrito Dr	Brawley	92227
+N El Cielo Rd	Palm Springs	92262
+N El Circulo	Patterson	95363
+N El Dorado Ave	Ontario	91764
+N El Dorado Ct	Ontario	91764
+N El Dorado St	Stockton	95202
+N El Dorado St	Stockton	95204
+N El Dorado St	Stockton	95207
+N El Dorado St	Stockton	95210
+N El Encanto Ln	Fresno	93730
+N El Granito St	Porterville	93257
+N El Malabar Dr	Ventura	93003
+N El Monte Ave	Los Altos	94022
+N El Paseo Rd	Ojai	93023
+N El Portal Dr	La Habra	90631
+N El Portal St	Encinitas	92024
+N El Rio Dr	Bakersfield	93309
+N El Rito Dr	Villa Park	92867
+N El Sol Ave	Fresno	93722
+N El Valle Opulento	Vista	92083
+N Elaine Dr	Santa Ana	92703
+N Elaine Way	Upland	91784
+N Elder Glen Cir	Ana	92807
+N Elder Glen Cir	Anaheim	92807
+N Elder View Ln	Camarillo	93012
+N Elderberry Ave	Ontario	91762
+N Elderberry Ct	Lodi	95242
+N Elderberry Ct	Ontario	91762
+N Elderberry Rd	Shaver Lake	93664
+N Elderwood St	Porterville	93257
+N Eldorado St	San Mateo	94401
+N Eleanora Ln	Rancho Mirage	92270
+N Electric Ave	San Bernardino	92405
+N Electric Ave	San Bernardino	92407
+N Electric Ave	Upland	91784
+N Electric Way	Anaheim	92801
+N Elena Dr	San Marcos	92069
+N Elevar St	Oxnard	93030
+N Eleventh Ave	Ontario	91764
+N Eleventh St	Fresno	93702
+N Eleventh St	Fresno	93703
+N Eleventh St	Fresno	93710
+N Eleventh St	Fresno	93720
+N Eleventh St	Fresno	93726
+N Eleventh St	Santa Paula	93060
+N Elise Ln	Fresno	93727
+N Elizabeth Cir	Upland	91786
+N Elizabeth Ln	Corona	92880
+N Elizabeth Pl	Orange	92867
+N Elizabeth St	Santa Maria	93454
+N Elk Glen Dr	Orange	92869
+N Elk Glen Ln	Orange	92869
+N Elk St	Hemet	92543
+N Elkhorn Dr	Stockton	95209
+N Elko St	Visalia	93291
+N Elks Dr	San Bernardino	92404
+N Elkwood Ct	Bre	92821
+N Ella Mae Ln	San Jacinto	92583
+N Ellen Cir	Colton	92324
+N Ellen St	Stockton	95215
+N Ellendale Ave	Fresno	93722
+N Elliott Rd	Acampo	95220
+N Elliott Rd	Galt	95220
+N Elliott Rd	Galt	95632
+N Elliott Rd	Lockeford	95237
+N Ellis Ln	Fullerton	92832
+N Ellis Pl	Porterville	93257
+N Ellis Pl	Thousand Oaks	91320
+N Ellis Street	King City	93930
+N Ellsworth Ave	San Mateo	94401
+N Ellsworth Way	San Bernardino	92411
+N Elm Av	Ripon	95366
+N Elm Av	Santa Maria	93458
+N Elm Ave	Coalinga	93210
+N Elm Ave	San Bernardino	92404
+N Elm Ave	Santa Maria	93458
+N Elm Ct	Visalia	93291
+N Elm Rd	Blythe	92225
+N Elm St	Arroyo Grande	93420
+N Elm St	Escondido	92025
+N Elm St	Escondido	92026
+N Elm St	Lockeford	95237
+N Elm St	Orange	92867
+N Elm St	Orange	92868
+N Elm St	Visalia	93291
+N Elm Way	Upland	91786
+N Elman St	San Diego	92111
+N Elmdale Ave	Simi Valley	93065
+N Elmira St	Anaheim	92801
+N Elmwood Ave	Rialto	92376
+N Elmwood Dr	Santa Ana	92703
+N Elmwood Rd	San Bernardino	92404
+N Elmwood St	Anaheim	92805
+N Elmwood St	Orange	92867
+N Eloise Way	Upland	91784
+N Emanuel Wy	Stockton	95212
+N Emerald Ave	Modesto	95350
+N Emerald Ave	Modesto	95351
+N Emerald Dr	Oceanside	92056
+N Emerald Dr	Orange	92868
+N Emerald Dr	Vista	92083
+N Emerald Peak Dr	Clovis	93619
+N Emerald Pl	Manteca	95336
+N Emerson Ave	Fresno	93705
+N Emerson Ave	Fresno	93722
+N Emerson Pl	Porterville	93257
+N Emily Ave	Clovis	93619
+N Emily St	Anaheim	92805
+N Emmett Ave	Simi Valley	93063
+N Emmett St	Simi Valley	93063
+N Emogene St	Ana	92807
+N Emogene St	Anaheim	92807
+N Emory Ave	Simi Valley	93063
+N Emory St	Simi Valley	93063
+N Emperor Ave	Fresno	93737
+N Empire St	Stockton	95205
+N Empire Tract Rd	Stockton	95219
+N Empress Ave	Camarillo	93010
+N Encanto St	Orange	92869
+N Enchanted Hideaway	Upland	91786
+N Enchanted Park	Beaumont	92223
+N Enchated Hideaway	Upland	91786
+N Encina Ave	Rialto	92376
+N Encina Ct	Visalia	93291
+N Encina St	Visalia	93291
+N Encinal Ave	Ojai	93023
+N Encino	Laguna Beach	92651
+N Encino Av	Stockton	95209
+N Endeavor Cir	Bre	92821
+N Endeavor Ln	Anaheim	92801
+N Engel St	Escondido	92029
+N English	Calipatria	92233
+N English St	Santa Ana	92703
+N English St	Santa Ana	92706
+N Enos Ct	Visalia	93292
+N Enos St	Visalia	93292
+N Ensanada Ave	Fresno	93723
+N Ensenada Ave	Thousand Oaks	91320
+N Ensley Ln	Fresno	93723
+N Enterprise Cir	Temecula	92590
+N Enterprise St	Orange	92865
+N Enterprise St	Orange	92867
+N Equestrian Dr	Orange	92869
+N Erbes Rd	Thousand Oaks	91360
+N Erbes Rd	Thousand Oaks	91362
+N Ericson Pl	Simi Valley	93065
+N Erie Ave	Fresno	93722
+N Erin Ave	Upland	91784
+N Erin Ave	Upland	91786
+N Erringer	Simi Valley	93065
+N Erringer Rd	Simi Valley	93065
+N Erwin Ave	San Bernardino	92404
+N Erwin St	San Bernardino	92404
+N Escalon Bellota Rd	Linden	95236
+N Escena St	San Bernardino	92407
+N Escollera Ave	Camarillo	93012
+N Escondido Blvd	Escondido	92025
+N Escondido Blvd	Escondido	92026
+N Escondido Pl	Stockton	95212
+N Espanita St	Orange	92869
+N Esplanade St	Orange	92869
+N Estate Ct	Hanford	93230
+N Estates Dr	Brentwood	94513
+N Estates Dr	Villa Park	92867
+N Estep St	Lakeport	95453
+N Estes Wy	Mh	95391
+N Esther St	Porterville	93257
+N Esther Way	Fresno	93728
+N Etchandy Ln	Anaheim	92806
+N Ethan Way	Anaheim	92805
+N Etiwanda Ave	Fontana	92337
+N Eucalyptus Ave	Blythe	92225
+N Eucalyptus Ave	Colton	92324
+N Eucalyptus Ave	Rialto	92376
+N Eucalyptus Ave	Waterford	95386
+N Eucalyptus Dr	Ana	92808
+N Eucalyptus Dr	Anaheim	92808
+N Eucalyptus Dr	Highland	92346
+N Eucalyptus St	Blythe	92225
+N Euclid Ave	Anaheim	92801
+N Euclid Ave	National City	91950
+N Euclid Ave	Ontario	91762
+N Euclid Ave	Upland	91784
+N Euclid Ave	Upland	91786
+N Euclid St	Anaheim	92801
+N Euclid St	Ful	92835
+N Euclid St	Fullerton	92832
+N Euclid St	Fullerton	92833
+N Euclid St	Fullerton	92835
+N Euclid St	Garden Grove	92843
+N Euclid St	La Habra	90631
+N Euclid St	Lah	90631
+N Euclid St	Santa Ana	92703
+N Euclid Way	Anaheim	92801
+N Eugenia St	Stockton	95205
+N Eunice Av	Acampo	95220
+N Eureka Ave	Fresno	93720
+N Eureka Dr	Big Bear Lake	92315
+N Eureka St	Redlands	92374
+N Evaline Ct	Rialto	92376
+N Evans Ave	Dos Palos	93620
+N Evans St	Banning	92220
+N Evelyn Ave	Fresno	93727
+N Evelyn Cir	Colton	92324
+N Evelyn Ct	Santa Maria	93454
+N Evelyn Dr	Anaheim	92805
+N Evening Canyon Rd	Bre	92821
+N Everest Ave	Fresno	93722
+N Everest St	Oxnard	93030
+N Everglades Cir	Orange	92867
+N Evergreen Dr	Bre	92821
+N Evergreen Dr	Upland	91784
+N Evergreen Dr	Ventura	93003
+N Evergreen Loop	San Jose	95122
+N Evergreen St	Anaheim	92805
+N Evergreen St	Burbank	91505
+N Evonda St	Santa Ana	92703
+N Excelsior Ct	Banning	92220
+N Express Cir	Colton	92324
+N Extension Ct	Lodi	95242
+N Extension Rd	Lodi	95242
+N Ezie Ave	Fresno	93727

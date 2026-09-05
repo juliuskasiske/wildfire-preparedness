@@ -1,0 +1,191 @@
+Ava Angele Ct	Bakersfield	93313
+Ava Ave	Hermosa Beach	90254
+Ava Ave	Rohnert Park	94928
+Ava Avenue	Hermosa Beach	90254
+Ava Ct	Desert Hot Springs	92240
+Ava Ct	Lafayette	94549
+Ava Ct	Palm Springs	92262
+Ava Gln N	Escondido	92025
+Ava Julianna Way	Manteca	95337
+Ava Julianna Wy	Manteca	95337
+Ava Ln	Pleasant Hill	94523
+Ava Ln	Santa Rosa	95403
+Ava Ln	Valley Center	92082
+Ava Loma Rd	Jamul	91935
+Ava Loma St	Victorville	92392
+Ava Loma Way	Victorville	92392
+Ava Pl	Fontana	92336
+Ava Pl	San Diego	92114
+Ava St	Moreno Valley	92551
+Ava St	San Diego	92114
+Ava Street	Greenfield	93927
+Ava Way	Carmichael	95608
+Ava Way	Chico	95973
+Avacado Rd	Bangor	95966
+Avalanche Ct	Manteca	95336
+Avalanche Peak Way	Folsom	95630
+Avalani Ave	San Jose	95133
+Avaline Ct	Folsom	95630
+Avalo Drive	Hacienda Heights	91745
+Avalon	Beaumont	92223
+Avalon	Irvine	92602
+Avalon	Jurupa Valley	92509
+Avalon	Monterey	93940
+Avalon	Santa Cruz	95060
+Avalon Av	Lodi	95242
+Avalon Av	Santa Barbara Unincorporated	93110
+Avalon Ave	Beaumont	92223
+Avalon Ave	Berkeley	94703
+Avalon Ave	Berkeley	94705
+Avalon Ave	Carlsbad	92010
+Avalon Ave	Foster City	94404
+Avalon Ave	Garden Grove	92843
+Avalon Ave	Lafayette	94549
+Avalon Ave	Madera	93637
+Avalon Ave	Modesto	95351
+Avalon Ave	Moreno Valley	92555
+Avalon Ave	Orange	92867
+Avalon Ave	Orange	92869
+Avalon Ave	Salton City	92274
+Avalon Ave	San Bernardino	92404
+Avalon Ave	San Francisco	94112
+Avalon Ave	Santa Rosa	95407
+Avalon Ave	Victorville	92395
+Avalon Ave	Yucaipa	92399
+Avalon Ave	Yucca Valley	92284
+Avalon Avenue	Pomona	91768
+Avalon Bay	Oceanside	92057
+Avalon Bay Ct	Richmond	94801
+Avalon Bay Pl	Oceanside	92057
+Avalon Blvd	Carson	90248
+Avalon Blvd	Carson	90745
+Avalon Blvd	Carson	90746
+Avalon Boulevard	Carson	90745
+Avalon Boulevard	Carson	90746
+Avalon Boulevard	Carson	90747
+Avalon Boulevard	Compton	90220
+Avalon Boulevard	Gardena	90248
+Avalon Boulevard	Los Angeles	90002
+Avalon Boulevard	Los Angeles	90003
+Avalon Boulevard	Los Angeles	90011
+Avalon Boulevard	Los Angeles	90059
+Avalon Boulevard	Los Angeles	90061
+Avalon Boulevard	Wilmington	90744
+Avalon Canyon Road	Avalon	90704
+Avalon Cir	Pittsburg	94565
+Avalon Circle	Vallejo	94589
+Avalon Court	Long Beach	90803
+Avalon Ct	Alamo	94507
+Avalon Ct	Chico	95926
+Avalon Ct	Chino	91710
+Avalon Ct	Chino Hills	91709
+Avalon Ct	Lafayette	94549
+Avalon Ct	Napa	94558
+Avalon Ct	Palo Alto	94306
+Avalon Ct	Rancho Cucamonga	91701
+Avalon Ct	Roseville	95661
+Avalon Ct	San Diego	92109
+Avalon Ct	San Ramon	94582
+Avalon Ct	Yucca Valley	92284
+Avalon Cv	Laguna Niguel	92677
+Avalon Dr	Carson	90745
+Avalon Dr	Daly City	94015
+Avalon Dr	Eureka	95503
+Avalon Dr	Fullerton	92835
+Avalon Dr	Ione	95640
+Avalon Dr	Lemoore	93245
+Avalon Dr	Los Altos	94022
+Avalon Dr	Pacifica	94044
+Avalon Dr	Sacramento	95821
+Avalon Dr	Sacramento	95864
+Avalon Dr	San Diego	92103
+Avalon Dr	San Jose	95125
+Avalon Dr	Seal Beach	90740
+Avalon Dr	South San Francisco	94080
+Avalon Dr	Vista	92084
+Avalon Drive	Canyon Country	91351
+Avalon Drive	Merced	95341
+Avalon Hills Way	Elk Grove	95624
+Avalon Lane	La Mirada	90638
+Avalon Ln	Coarsegold	93614
+Avalon Ln	Huntington Beach	92647
+Avalon Ln	Huntington Beach	92647-6101
+Avalon Ln	Huntington Beach	92647-6102
+Avalon Ln	Huntington Beach	92647-6103
+Avalon Ln	Huntington Beach	92647-6104
+Avalon Ln	Huntington Beach	92647-6105
+Avalon Ln	Huntington Beach	92647-6106
+Avalon Ln	Manteca	95337
+Avalon Ln	Menifee	92584
+Avalon Ln	Santa Rosa	95407
+Avalon Pkwy	Perris	92571
+Avalon Pl	Desert Hot Springs	92240
+Avalon Pl	Oxnard	93033
+Avalon Place	Grass Valley	95949
+Avalon Place	Pacific Grove	93950
+Avalon Rd	Big Bear Lake	92315
+Avalon Rd	Phelan	92371
+Avalon Rd	Victorville	92395
+Avalon Rd	Winchester	92596
+Avalon-Richards St	Ventura	93004
+Avalon Road	Whittier	90601
+Avalon St	Bakersfield	93304
+Avalon St	Costa Mesa	92626
+Avalon St	Costa Mesa	92627
+Avalon St	Jurupa Valley	92509
+Avalon St	Laguna Beach	92651
+Avalon St	Lake Forest	92630
+Avalon St	Lake Forest	92630-2911
+Avalon St	Lake Forest	92630-2912
+Avalon St	Lake Forest	92630-2913
+Avalon St	Lake Forest	92630-2914
+Avalon St	Morro Bay	93442
+Avalon St	Port Hueneme	93041
+Avalon St	Rancho Cucamonga	91701
+Avalon St	San Luis Obispo	93405
+Avalon St	Tracy	95377
+Avalon St	Ventura	93004
+Avalon Street	Los Angeles	90026
+Avalon Street	Los Angeles	90039
+Avalon Terrace Road	Avalon	90704
+Avalon Vista	Newport Beach	92657
+Avalon Vista Ct	San Diego	92154
+Avalon Way	Lemon Grove	91945
+Avalon Way	Oxnard	93033
+Avalon Way	Redlands	92373
+Avalon Way	San Marcos	92078
+Avalon Way	San Ramon	94582
+Avalon Way	Suisun City	94585
+Avalos Way	Citrus Heights	95610
+Avana Pl	Rancho Cucamonga	91730
+Avana Pl	Rancho Cucamonga	91739
+Avance Ln	Foothill Ranch	92610-0000
+Avance Ln	Foothill Ranch	92610-1931
+Avance Ln	Lake Forest	92610
+Avanel Ct	Modesto	95356
+Avanel Dr	Modesto	95356
+Avant Garde Aly	Sacramento	95817
+Avant St	Chula Vista	91915
+Avant Way	Palm Springs	92262
+Avante	Laguna Niguel	92677
+Avante Ln	Salida	95368
+Avante Pl	Morgan Hill	95037
+Avante Way	Chico	95973
+Avante Way	Sacramento	95826
+Avanti Ave	Santee	92071
+Avanti Court	Stevenson Ranch	91381
+Avanti Ct	Winchester	92596
+Avanti Dr	Bakersfield	93314
+Avanti Dr	Mission Viejo	92692
+Avanti Dr	Roseville	95661
+Avanti Ln	Fontana	92336
+Avanti Way	Manteca	95336
+Avanti Way	Victorville	92395
+Avanti Wy	Manteca	95336
+Avanzare	Irvine	92606
+Avatar	Laguna Niguel	92677
+Avatar Ct	Turlock	95382
+Avati Ct	San Jose	95131
+Avati Dr	San Diego	92117
+Avawatz Loop	Fort Irwin	92310
+Avazedo Pl	Folsom	95630

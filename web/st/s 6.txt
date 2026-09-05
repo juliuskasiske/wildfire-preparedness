@@ -1,0 +1,30 @@
+S 6 Th St	Brawley	92227
+S 61St St	San Diego	92114
+S 65Th St	San Diego	92114
+S 66Th St	San Diego	92114
+S 6Th	Brawley	92227
+S 6Th	El Centro	92243
+S 6Th Ave	Barstow	92311
+S 6Th Ave	El Centro	92243
+S 6Th Ave	Kingsburg	93631
+S 6Th Ave	Oakdale	95361
+S 6Th St	Banning	92220
+S 6Th St	Blythe	92225
+S 6Th St	Burbank	91501
+S 6Th St	Chowchilla	93610
+S 6Th St	Coalinga	93210
+S 6Th St	Colton	92324
+S 6Th St	El Centro	92243
+S 6Th St	Fowler	93625
+S 6Th St	Grover Beach	93433
+S 6Th St	Kerman	93630
+S 6Th St	Oakdale	95361
+S 6Th St	Patterson	95363
+S 6Th St	Redlands	92373
+S 6Th St	Richmond	94804
+S 6Th St	San Jose	95112
+S 6Th St  580 582 W State	El Centro	92243
+S 6Th St  593 W Heil St	El Centro	92243
+S 6Th St  595 W Oliv	El Centro	92243
+S 6Th St  615 W Oran	El Centro	92243
+S 6Th St  618 Lenrey St	El Centro	92243

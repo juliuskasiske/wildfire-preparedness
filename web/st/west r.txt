@@ -1,0 +1,263 @@
+West R Street	Wilmington	90744
+West Race Avenue	Visalia	93291
+West Rachel Lane	San Fernando	91345
+West Radcliffe Drive	Claremont	91711
+West Railroad Place	Inglewood	90301
+West Railway Street	San Dimas	91773
+West Rain Tree Drive	La Habra	90631
+West Rainbow Avenue	Los Angeles	90065
+West Rainbow Crest Drive	Agoura Hills	91301
+West Rainier Way	La Habra	90631
+West Raleigh Street	Los Angeles	90004
+West Ralph Street	San Gabriel	91776
+West Ramco Way	Encino	91316
+West Ramona Boulevard	Baldwin Park	91706
+West Ramona Boulevard	Monterey Park	91754
+West Ramona Boulevard	San Gabriel	91776
+West Ramona Boulevard	West Covina	91790
+West Ramona Road	Alhambra	91803
+West Ranch Lane	Vacaville	95688
+West Ranch Rd	San Marcos	92078
+West Ranch St	Carlsbad	92010
+West Ranchero Street	West Covina	91790
+West Rancho Estates Pl	Rancho Cucamonga	91739
+West Rancho Park Cir	Rancho Cucamonga	91730
+West Rancho Street	Encino	91316
+West Rancho Street	Tarzana	91356
+West Rancho Vista Boulevard	Palmdale	93551
+West Rand Drive	Sherman Oaks	91423
+West Randall Avenue	La Habra	90631
+West Randall Street	Sun Valley	91352
+West Randall Way	West Covina	91790
+West Randolph Street	Glendale	91202
+West Randolph Street	Pomona	91768
+West Rasmussen Avenue	Visalia	93291
+West Ratner Street	Sun Valley	91352
+West Raven Street	Sylmar	91342
+West Ravensfield Lane	Los Angeles	90077
+West Rayen Street	Canoga Park	91304
+West Rayen Street	North Hills	91343
+West Rayen Street	Northridge	91324
+West Raymer Street	North Hollywood	91605
+West Raymer Street	Northridge	91325
+West Raymer Street	Van Nuys	91405
+West Raymer Street	Van Nuys	91406
+West Raymon Avenue	Visalia	93277
+West Raymond Street	Compton	90220
+West Rayneta Drive	Sherman Oaks	91403
+West Rd	Arbuckle	95912
+West Rd	Boulder Creek	95006
+West Rd	Brawley	92227
+West Rd	Lafayette	94549
+West Rd	Los Gatos	95030
+West Rd	Lucerne Valley	92356
+West Rd	Mendocino	 
+West Rd	Middletown	95461
+West Rd	Myers Flat	95569
+West Rd	Palm Springs	92262
+West Rd	Palm Springs	92264
+West Rd	Redwood Valley	 
+West Rd	Ross	94957
+West Readcrest Drive	Beverly Hills	90210
+West Ream Avenue	Mount Shasta	96067
+West Red Mountain Road	Gustine	95322
+West Red Oak Avenue	Porterville	93257
+West Red Oak Drive	Los Angeles	90068
+West Redcoach Lane	La Habra	90631
+West Redding Avenue	Visalia	93277
+West Redding Court	Visalia	93277
+West Redmesa Drive	Chatsworth	91311
+West Redondo Beach Boulevard	Gardena	90247
+West Redondo Beach Boulevard	Gardena	90248
+West Redondo Beach Boulevard	Gardena	90249
+West Redondo Beach Boulevard	Torrance	90504
+West Redondo Court	Los Angeles	90019
+West Redwood Ave	Fort Bragg	95470
+West Redwood Court	Covina	91723
+West Redwood Lane	La Habra	90631
+West Reed Avenue	Truckee	96161
+West Reed Drive	Claremont	91711
+West Reese Avenue	Visalia	93277
+West Reese Court	Visalia	93277
+West Reeve Street	Compton	90220
+West Reevesbury Drive	Beverly Hills	90210
+West Regent Street	Inglewood	90301
+West Regent Street	Los Angeles	90034
+West Reid Avenue	Porterville	93257
+West Reims Street	Claremont	91711
+West Remington Way	West Hills	91307
+West Renwick Road	Glendora	91740
+West Renwick Road	San Dimas	91773
+West Repetto Drive	Monterey Park	91754
+West Repetto Street	Montebello	90640
+West Reservoir Street	Los Angeles	90026
+West Revello Drive	Pacific Palisades	90272
+West Revere Avenue	Los Angeles	90039
+West Revuelta Way	Los Angeles	90077
+West Rex Street	Sylmar	91342
+West Rexwood Street	West Covina	91790
+West Rialto Avenue	Visalia	93277
+West Rialto Court	Visalia	93277
+West Rialto Street	Sun Valley	91352
+West Richard Avenue	Porterville	93257
+West Richbrook Drive	Claremont	91711
+West Richbrook Drive	Pomona	91767
+West Richland Avenue	Los Angeles	90064
+West Richmond Drive	Claremont	91711
+West Ridge Dr	Idyllwild	92549
+West Ridge Drive	Penn Valley	95946
+West Ridge Drive	Sutter	95982
+West Ridge Oak Drive	Los Angeles	90068
+West Ridge Rd	Idyllwild	92549
+West Ridge Route Road	Castaic	91384
+West Ridge View Dr	Hidden Valley Lake	95467
+West Ridgewood Street	Long Beach	90805
+West Ridpath Drive	Los Angeles	90046
+West Riego Road	Sacramento	95837
+West Riggin Avenue	Visalia	93291
+West Riggin Street	Monterey Park	91754
+West Rim Canyon Road	Sunland	91040
+West Rim Cir	Jurupa Valley	92509
+West Rim Ct	Lakeside	92040
+West Rim Rd	Lakeside	92040
+West Rinaldi Street	Chatsworth	91311
+West Rinaldi Street	Granada Hills	91344
+West Rinaldi Street	Porter Ranch	91326
+West Rinaldi Street	San Fernando	91345
+West Rio Verde Drive	La Habra	90631
+West Rios Street	Woodland Hills	91364
+West Ripon Rd	Ripon	95366
+West Ripple Street	Los Angeles	90039
+West Risner Way	La Habra	90631
+West Rita Street	Farmersville	93223
+West Ritner Street	Carson	90745
+West Ritner Street	Torrance	90502
+West River Avenue	Porterville	93257
+West River Court	Porterville	93257
+West River Edge Avenue	Porterville	93257
+West River Ln	Garberville	95542
+West River Oak Avenue	Porterville	93257
+West River Rd	Mad River	95526
+West River Rd	Mad River	95552
+West River Springs Avenue	Porterville	93257
+West River Springs Drive	Porterville	93257
+West River Street	Los Angeles	90065
+West River Street	Truckee	96161
+West Rivers Edge Court	Los Angeles	90039
+West Rivers Road	Los Angeles	90049
+West Riverside Avenue	Hilmar	95324
+West Riverside Drive	Burbank	91505
+West Riverside Drive	Burbank	91506
+West Riverside Drive	Los Angeles	90027
+West Riverside Drive	Los Angeles	90031
+West Riverside Drive	Los Angeles	90039
+West Riverside Drive	North Hollywood	91602
+West Riverside Drive	Sherman Oaks	91423
+West Riverside Drive	Valley Village	91607
+West Riverway Avenue	Visalia	93291
+West Riviera Court	La Habra	90631
+West Road	La Habra	90631
+West Road	Whittier	90603
+West Robidoux Street	Wilmington	90744
+West Robin Avenue	Visalia	93291
+West Robin Court	Visalia	93291
+West Robin Drive	Visalia	93291
+West Robin Drive	West Hollywood	90069
+West Robin Way	La Habra	90631
+West Robindale Street	West Covina	91790
+West Robinson Lane	Los Angeles	90026
+West Robinwood Avenue	Visalia	93291
+West Robinwood Court	Visalia	93291
+West Roble Vista Drive	Los Angeles	90027
+West Roby Avenue	Porterville	93257
+West Rocca Place	Los Angeles	90077
+West Rochester Avenue	Los Angeles	90024
+West Rochester Circle	Los Angeles	90018
+West Rockwood Street	Los Angeles	90026
+West Rocky Hill Avenue	Montebello	90640
+West Rodell Place	Arcadia	91007
+West Rodgerton Drive	Los Angeles	90068
+West Rolland Curtis Place	Los Angeles	90037
+West Rolland Curtis Place	Los Angeles	90062
+West Romaine Street	Los Angeles	90029
+West Romaine Street	Los Angeles	90038
+West Romaine Street	Los Angeles	90046
+West Romaine Street	West Hollywood	90069
+West Romany Drive	Pacific Palisades	90272
+West Romar Street	Northridge	91324
+West Romar Street	San Fernando	91345
+West Rome Court	Los Angeles	90065
+West Rome Drive	Los Angeles	90065
+West Ronda Vista Place	Los Angeles	90027
+West Rondout Street	Los Angeles	90012
+West Ronwood Avenue	La Habra	90631
+West Roosevelt Avenue	Montebello	90640
+West Roosevelt Avenue	Visalia	93291
+West Roosevelt Road	El Nido	95317
+West Roosevelt Road	Long Beach	90807
+West Roosevelt Street	Azusa	91702
+West Ropes Avenue	Woodlake	93286
+West Roscoe Boulevard	Canoga Park	91304
+West Roscoe Boulevard	North Hills	91343
+West Roscoe Boulevard	Northridge	91325
+West Roscoe Boulevard	Panorama City	91402
+West Roscoe Boulevard	Sun Valley	91352
+West Roscoe Boulevard	Van Nuys	91406
+West Roscoe Boulevard	Winnetka	91306
+West Roscoe Place	North Hills	91343
+West Rose Avenue	La Habra	90631
+West Rose Avenue	Los Angeles	90034
+West Rose Avenue	Los Angeles	90066
+West Rose Hill Drive	Los Angeles	90032
+West Rosebud Avenue	Los Angeles	90039
+West Rosecrans Avenue	Compton	90220
+West Rosecrans Avenue	Compton	90221
+West Rosecrans Avenue	Compton	90222
+West Rosecrans Avenue	Gardena	90247
+West Rosecrans Avenue	Gardena	90248
+West Rosecrans Avenue	Gardena	90249
+West Rosecrans Avenue	Hawthorne	90250
+West Rosecrans Avenue	Los Angeles	90059
+West Rosecrans Avenue	Los Angeles	90061
+West Rosecrest Avenue	La Habra	90631
+West Rosecrest Drive	Agoura Hills	91301
+West Roseland Street	Los Angeles	90016
+West Roses Road	San Gabriel	91775
+West Roseway Street	West Covina	91790
+West Rosewood Avenue	Los Angeles	90004
+West Rosewood Avenue	Los Angeles	90036
+West Rosewood Avenue	Los Angeles	90048
+West Rosita Street	Tarzana	91356
+West Ross Avenue	Alhambra	91803
+West Round Valley Drive	Sherman Oaks	91403
+West Route 66	Glendora	91740
+West Route 66	Glendora	91741
+West Rowena Avenue	Los Angeles	90027
+West Rowena Avenue	Los Angeles	90039
+West Rowland Avenue	West Covina	91790
+West Rowland Avenue	West Covina	91791
+West Rowland Street	Covina	91723
+West Roxbury Road	West Hollywood	90069
+West Roxbury Street	West Covina	91790
+West Roxford Street	Sylmar	91342
+West Royal Oak Road	Encino	91436
+West Royal Oaks Drive	Visalia	93277
+West Rudyard Street	West Covina	91790
+West Ruma Rancho Avenue	Porterville	93257
+West Ruma Rancho Court	Porterville	93257
+West Runnymede Street	Reseda	91335
+West Runnymede Street	Winnetka	91306
+West Runway Road	Playa Vista	90094
+West Russell Avenue	Los Angeles	90027
+West Russell Avenue	Visalia	93277
+West Russell Court	Visalia	93277
+West Russell Ranch Road	Westlake Village	91362
+West Russell Street	La Habra	90631
+West Rustic Creek Lane	Pacific Palisades	90272
+West Rustic Lane	Pacific Palisades	90272
+West Rustic Road	Santa Monica	90402
+West Ryan Avenue	La Habra	90631
+West Ryan Ridge Way	Woodland Hills	91367
+West Rye Avenue	La Habra	90631
+West Rye Circle	La Habra	90631
+West Rye Street	Studio City	91604

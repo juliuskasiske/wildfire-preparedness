@@ -1,0 +1,21 @@
+U 2Nd St	Eureka	95501
+U Ave	National City	91950
+U Imperial Highway	Los Angeles	90047
+U S Elevator Rd	Spring Valley	91977
+U S Elevator Rd	Spring Valley	91978
+U.S.F.S. Rd	Blocksburg	95514
+U.S.S. Liberty Ln	Middletown	95461
+U St	Antelope	95843
+U St	Bakersfield	93301
+U St	Bakersfield	93304
+U St	Elverta	95626
+U St	Eureka	95501
+U St	Eureka	95503
+U St	Fresno	93721
+U St	North Highlands	95660
+U St	Rio Linda	95673
+U St	Sacramento	95817
+U St	Sacramento	95818
+U St	Ventura	93004
+U Street	Merced	95340
+U Street	Merced	95341

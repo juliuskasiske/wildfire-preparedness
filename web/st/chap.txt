@@ -1,0 +1,420 @@
+Chapae Ln	Apple Valley	92307
+Chapala	Mission Viejo	92692
+Chapala Canyon Ct	San Diego	92129
+Chapala Ct	Foothill Ranch	92610
+Chapala Ct	Foothill Ranch	92610-2416
+Chapala Ct	Laguna Niguel	92677
+Chapala Ct	Lake Forest	92610
+Chapala Ct	Solana Beach	92075
+Chapala Dr	Camarillo	93010
+Chapala Dr	Riverside	92507
+Chapala Dr	San Jose	95148
+Chapala Dr	Santa Rosa	95403
+Chapala Drive	Pacific Palisades	90272
+Chapala Ln	Chula Vista	91913
+Chapala St	Santa Barbara	93101
+Chapala St	Santa Barbara	93105
+Chapala Way	Modesto	95355
+Chapalita Dr	Encinitas	92024
+Chaparajos Ct	San Diego	92120
+Chaparal Rd	Big Bear City	92314
+Chaparal St	Selma	93662
+Chaparal Street	Los Angeles	90049
+Chaparal Valley Ct	San Diego	92131
+Chaparosa Dr	Apple Valley	92307
+Chaparosa Dr	Apple Valley	92308
+Chaparosa Way	Palm Desert	92260
+Chaparossa Dr	Lake Elsinore	92532
+Chaparral	Aptos	95003
+Chaparral	Boulder Creek	95006
+Chaparral	El Centro	92243
+Chaparral	Imperial	92251
+Chaparral	Salinas	93906
+Chaparral	Tustin	92780
+Chaparral Ave	Bakersfield	93314
+Chaparral Ave	Fontana	92337
+Chaparral Ave	Irvine	92606
+Chaparral Ave	San Jose	95070
+Chaparral Ave	San Jose	95130
+Chaparral Avenue	Cerritos	90703
+Chaparral Cir	Napa	94558
+Chaparral Cir	San Luis Obispo	93401
+Chaparral Circle	Penn Valley	95946
+Chaparral Court	Altadena	91001
+Chaparral Court	Atwater	95301
+Chaparral Court	Palmdale	93552
+Chaparral Court West	Altadena	91001
+Chaparral Ct	Antioch	94531
+Chaparral Ct	Brawley	92227
+Chaparral Ct	Concord	94519
+Chaparral Ct	Folsom	95630
+Chaparral Ct	Groveland	95321
+Chaparral Ct	Hollister	95023
+Chaparral Ct	Imperial	92251
+Chaparral Ct	Las Flores	92688
+Chaparral Ct	Lodi	95242
+Chaparral Ct	Novato	94949
+Chaparral Ct	Post Mountain	96041
+Chaparral Ct	Richmond	94806
+Chaparral Ct	Santa Rosa	95409
+Chaparral Ct	Stockton	95209
+Chaparral Ct	Thousand Oaks	91320
+Chaparral Ct	Truckee	96161
+Chaparral Ct	Victorville	92394
+Chaparral Ct	Yucaipa	92399
+Chaparral Dr	Blythe	92225
+Chaparral Dr	Bonita	91902
+Chaparral Dr	Brentwood	94513
+Chaparral Dr	Chino	91710
+Chaparral Dr	El Centro	92243
+Chaparral Dr	Folsom	95630
+Chaparral Dr	Fontana	92337
+Chaparral Dr	Garden Grove	92840
+Chaparral Dr	Highland	92346
+Chaparral Dr	Mckinleyville	95519
+Chaparral Dr	Nipomo	93444
+Chaparral Dr	Norco	92860
+Chaparral Dr	Oroville	95966
+Chaparral Dr	Palm Desert	92260
+Chaparral Dr	Paradise	95969
+Chaparral Dr	Perris	92570
+Chaparral Dr	Pioneer	95666
+Chaparral Dr	Pittsburg	94565
+Chaparral Dr	Redding	96001
+Chaparral Dr	Redding	96003
+Chaparral Dr	San Marcos	92084
+Chaparral Dr	Sanger	93657
+Chaparral Dr	Santee	92071
+Chaparral Dr	Temecula	92592
+Chaparral Dr	Vista	92081
+Chaparral Dr	Vista	92084
+Chaparral Dr	Yucca Valley	92284
+Chaparral Dr W	Pioneer	95666
+Chaparral Drive	Chalfant Valley	93512
+Chaparral Drive	Claremont	91711
+Chaparral Drive	Lancaster	93536
+Chaparral Drive	Penn Valley	95946
+Chaparral Drive	Pomona	91766
+Chaparral Drive	Walnut	91789
+Chaparral Drive	Weed	96094
+Chaparral Heights	Jamul	91935
+Chaparral Heights Rd	Jamul	91935
+Chaparral Hills Rd	Alpine	91901
+Chaparral Hts	Jamul	91935
+Chaparral Lane	Rancho Palos Verdes	90275
+Chaparral Ln	Apple Valley	92307
+Chaparral Ln	Arroyo Grande	93420
+Chaparral Ln	Escondido	92025
+Chaparral Ln	Grand Terrace	92313
+Chaparral Ln	Helendale	92342
+Chaparral Ln	Kelseyville	95451
+Chaparral Ln	Newcastle	95658
+Chaparral Ln	Nipomo	93444
+Chaparral Ln	Paso Robles	93446
+Chaparral Ln	San Geronimo	94963
+Chaparral Loop	Vacaville	95688
+Chaparral Pl	Laguna Hills	92653
+Chaparral Pl	Santa Rosa	95404
+Chaparral Rd	Apple Valley	92307
+Chaparral Rd	Morgan Hill	95037
+Chaparral Rd	Oak View	93022
+Chaparral Rd	Palm Springs	92262
+Chaparral Rd	Paso Robles	93446
+Chaparral Rd	Riverside	92503
+Chaparral Rd	Riverside	92504
+Chaparral Rd	Santa Rosa	95409
+Chaparral Rd	Sonora	95370
+Chaparral Rd	White Water	92282
+Chaparral Rd	Yucca Valley	92284
+Chaparral Ridge Dr	Ybl	92886
+Chaparral Ridge Dr	Yorba Linda	92886
+Chaparral Ridge Rd	San Diego	92130
+Chaparral Road	Canoga Park	91304
+Chaparral Road	Carmel Valley	93924
+Chaparral Road	Fort Jones	96032
+Chaparral Road	Mammoth Lakes	93546
+Chaparral Road	Pebble Beach	93953
+Chaparral Road	Sierra Madre	91024
+Chaparral Slope Rd	Jamul	91935
+Chaparral St	Fillmore	93015
+Chaparral St	Fish Camp	93623
+Chaparral St	Mira Loma	91752
+Chaparral St	Rialto	92376
+Chaparral St	Santa Maria	93454
+Chaparral St	Victorville	92394
+Chaparral Street	Earlimart	93219
+Chaparral Street	Salinas	93906
+Chaparral Street	West Covina	91791
+Chaparral Ter	Valley Center	92082
+Chaparral Trail	Dobbins	95935
+Chaparral Trail Ct	Belmont	94002
+Chaparral Trl	River Pines	95675
+Chaparral Trl	Yucaipa	92399
+Chaparral View Dr	Menifee	92584
+Chaparral Way	Banning	92220
+Chaparral Way	Canyon Lake	92587
+Chaparral Way	Cerritos	90703
+Chaparral Way	Fair Oaks	95628
+Chaparral Way	Lake Elsinore	92532
+Chaparral Way	Los Altos Hills	94022
+Chaparral Way	Madera	93636
+Chaparral Way	Oceanside	92057
+Chaparral Way	Poway	92064
+Chaparral Way	Rancho Cucamonga	91730
+Chaparral Way	San Diego	92115
+Chaparral Way	Santee	92071
+Chaparral Way	Victorville	92394
+Chaparral Way	West Sacramento	95691
+Chaparral Wy	Stockton	95209
+Chaparrel Lane	Azusa	91702
+Chaparrel Lane	Palmdale	93550
+Chaparrel Ln	Mentone	92359
+Chaparrel Rd	Oak View	93022
+Chaparrel Road	Carmel Valley	93924
+Chaparro Ave	Lagunitas	94938
+Chaparro Ct	Walnut Creek	94596
+Chaparro Drive	Santa Clarita	91350
+Chaparro Hills Pl	San Diego	92130
+Chaparro Road	Covina	91724
+Chaparro Way	San Diego	92121
+Chaparrosa Dr	Pioneertown	92268
+Chaparrosa Rd	Pioneertown	92268
+Chaparrosa Way	Palm Desert	92260
+Chaparrosi Way	Palm Desert	92260
+Chapea Road	Pasadena	91107
+Chapeau Ct	Sacramento	95829
+Chapel Avenue	Alhambra	91801
+Chapel Court	Nevada City	95959
+Chapel Cove Ct	San Rafael	94901
+Chapel Cove Dr	San Rafael	94901
+Chapel Ct	Modesto	95355
+Chapel Dr	Bakersfield	93304
+Chapel Dr	Camarillo	93010
+Chapel Dr	Lafayette	94549
+Chapel Dr	Mill Valley	94941
+Chapel Dr	Monte Rio	95462
+Chapel Dr	Paradise	95969
+Chapel Dr	Redlands	92374
+Chapel Dr	Santa Clara	95050
+Chapel Dr	Tuolumne	95379
+Chapel Dr	Ventura	93003
+Chapel Hill Ci	Stockton	95209
+Chapel Hill Ct	Stockton	95209
+Chapel Hill Ct	Tuolumne	95379
+Chapel Hill Dr	Chula Vista	91914
+Chapel Hill Dr	Lake Forest	92630
+Chapel Hill Dr	Lake Forest	92630-5029
+Chapel Hill Dr	Lake Forest	92630-5030
+Chapel Hill Dr	Lake Forest	92630-5032
+Chapel Hill Dr	Napa	94559
+Chapel Hill Dr	Oakhurst	93644
+Chapel Hill Dr	Palm Desert	92260
+Chapel Hill Drive	Walnut	91789
+Chapel Hill Ln	Sacramento	95842
+Chapel Hill Rd	Mckinleyville	95519
+Chapel Hill Rd	Novato	94949
+Chapel Hill Rd	Palm Desert	92260
+Chapel Hill Way	Bakersfield	93312
+Chapel Hill Way	San Jose	95122
+Chapel Ln	Huntington Beach	92646
+Chapel Ln	Huntington Beach	92646-1808
+Chapel Ln	Huntington Beach	92646-1831
+Chapel Ln	Ramona	92065
+Chapel Ln	Tahoe City	96145
+Chapel Ln	Thousand Oaks	91360
+Chapel St	Goleta	93111
+Chapel St	Redlands	92374
+Chapel St	Riverside	92503
+Chapel Street	Grass Valley	95945
+Chapel View Ln	Citrus Heights	95621
+Chapel Way	Sacramento	95842
+Chapelhaven Ct	San Jose	95111
+Chapelhill Ln	Roseville	95747
+Chapelle Avenue	Pico Rivera	90660
+Chapelle Ct	Roseville	95661
+Chapelle Ct	Stockton	95205
+Chapelle Dr	Roseville	95661
+Chapelle Place	Truckee	96161
+Chapelle Street	Palmdale	93552
+Chapelton Dr	Indio	92203
+Chapelton Rd	Indio	92203
+Chapelton Wy	Roseville	95747
+Chaperal Rd	Phelan	92371
+Chaperral Ct	Phelan	92371
+Chapin Ave	Burlingame	94010
+Chapin Dr	Julian	92036
+Chapin Lane	Sunland	91040
+Chapin Ln	Burlingame	94010
+Chapin Ln	Hillsborough	94010
+Chapin Rd	Coulterville	95311
+Chapin Rd	Groveland	95321
+Chapin Rd	Los Altos Hills	94022
+Chapin Road	Montebello	90640
+Chapin St	Madera	93638
+Chapin Way	Sacramento	95824
+Chapin Way	Sunland	91040
+Chapital	San Clemente	92672
+Chaplain Ave	Mather	95655
+Chaplan Way	Temecula	92590
+Chaplet Pl	North Tustin	92705
+Chaplet Pl	North Tustin	92780
+Chaplin Avenue	Encino	91436
+Chaplin Cir	Lompoc	93436
+Chaplin Ct	Elk Grove	95758
+Chaplin Ct	Indio	92201
+Chaplin Ct	Stockton	95209
+Chaplin Ct	Tracy	95376
+Chaplin Drive	Lancaster	93536
+Chaplin Ln	San Luis Obispo	93405
+Chaplin Wy	Tracy	95376
+Chapman	Lake Forest	92630
+Chapman Ave	Anaheim	92802
+Chapman Ave	Anza	92539
+Chapman Ave	Chino	91710
+Chapman Ave	Garden Grove	90680
+Chapman Ave	Garden Grove	92840
+Chapman Ave	Garden Grove	92841
+Chapman Ave	Garden Grove	92842
+Chapman Ave	Garden Grove	92843
+Chapman Ave	Garden Grove	92845
+Chapman Ave	Garden Grove	92868
+Chapman Ave	Orange	92868
+Chapman Ave	San Bruno	94066
+Chapman Ave	Shingletown	96088
+Chapman Ave	South San Francisco	94080
+Chapman Ave	Stanton	90680
+Chapman Ave Median	Garden Grove	92840
+Chapman Ave Median	Garden Grove	92845
+Chapman Avenue	Olivehurst	95961
+Chapman Avenue	Pasadena	91103
+Chapman Circle	Woodland	95695
+Chapman Court	Altadena	91001
+Chapman Court	Fairfield	94534
+Chapman Court	Los Banos	93635
+Chapman Court	Vallejo	94589
+Chapman Court North	Altadena	91001
+Chapman Ct	Arcata	95521
+Chapman Ct	Folsom	95630
+Chapman Ct	Hayward	94545
+Chapman Ct	Santa Clara	95050
+Chapman Ct	Santa Rosa	95403
+Chapman Dr	Buena Park	90620
+Chapman Dr	Campbell	95008
+Chapman Dr	Corte Madera	94925
+Chapman Dr	Guadalupe	93434
+Chapman Drive	Los Banos	93635
+Chapman Heights Rd	Yucaipa	92399
+Chapman Lane	Inglewood	90305
+Chapman Ln	Carlotta	95528
+Chapman Ln	Homeland	92548
+Chapman Ln	Lakehead	96051
+Chapman Ln	Paradise	95969
+Chapman Ln	Petaluma	94952
+Chapman Ln	San Mateo	94403
+Chapman Oak Dr	Stockton	95205
+Chapman Pl	Anza	92539
+Chapman Pl	Goleta	93117
+Chapman Pl	Moorpark	93021
+Chapman Pl	Rancho Cucamonga	91701
+Chapman Pl	Riverside	92506
+Chapman Place	Davis	95618
+Chapman Ranch	Mt Baldy	91759
+Chapman Rd	Anza	92539
+Chapman Rd	Klamath	95548
+Chapman Rd	Mendocino	 
+Chapman Rd	Mill Valley	94941
+Chapman Rd	Modesto	95356
+Chapman Rd	Redwood City	94062
+Chapman Rd	Woodside	94062
+Chapman Road	Claremont	91711
+Chapman Road	La Crescenta	91214
+Chapman St	Bakersfield	93307
+Chapman St	Hesperia	92344
+Chapman St	Klamath	95548
+Chapman St	Loma Linda	92354
+Chapman St	Manteca	95336
+Chapman St	San Diego	92110
+Chapman St	San Francisco	94110
+Chapman St	San Jose	95126
+Chapman Street	Le Grand	95333
+Chapman Street	Lomita	90717
+Chapman Street	Los Angeles	90065
+Chapman Street	Winters	95694
+Chapman Way	Santa Rosa	95403
+Chapman Woods Road	Pasadena	91107
+Chapo Ct	Spring Valley	91977
+Chapparal	Carmel Valley	93924
+Chapparal Ave	Adelanto	92301
+Chapparal Court	Fairfield	94534
+Chapparal Court	Santa Clarita	91350
+Chapparal Ct	Pinole	94564
+Chapparal Ct	San Ramon	94583
+Chapparal Ct	Thousand Oaks	91320
+Chapparal Dr	Carpinteria	93013
+Chapparal Dr	Oakhurst	93644
+Chapparal Dr	Riverside	92504
+Chapparal Dr	Temecula	92592
+Chapparal Drive	Diamond Bar	91765
+Chapparal Drive	Fairfield	94534
+Chapparal Drive	Lancaster	93536
+Chapparal Ln	Huntington Beach	92649
+Chapparal Ln	Huntington Beach	92649-4630
+Chapparal Ln	Huntington Beach	92649-4631
+Chapparal Ln	Huntington Beach	92649-4632
+Chapparal Ln	Huntington Beach	92649-4633
+Chapparal Ln	Huntington Beach	92649-4634
+Chapparal Ln	Huntington Beach	92649-4635
+Chapparal Ln	Huntington Beach	92649-4687
+Chapparal Ln	Lafayette	94549
+Chapparal Pl	Modesto	95358
+Chapparal Pl	Orinda	94563
+Chapparal Rd	Morgan Hill	95037
+Chapparal Rd	Oak View	93022
+Chapparal Rd	Redlands	92373
+Chapparal Road	San Dimas	91773
+Chapparal Way	Moreno Valley	92555
+Chapparel Circle	Malibu	90265
+Chapparel Lane	Van Nuys	91405
+Chapparel St	Hesperia	92345
+Chapparel Way	Banning	92220
+Chapparosa Dr	Pioneertown	92268
+Chapparosa Park Rd	Laguna Niguel	92677
+Chapparosa Rd	Pioneertown	92268
+Chapparral Ct	Brawley	92227
+Chapparral Dr	El Centro	92243
+Chapparral Dr	Temecula	92592
+Chappel	Freedom	95019
+Chappel Dr	Rancho Mirage	92270
+Chappel Rd	Rancho Mirage	92270
+Chappelet Pl	Oakley	94561
+Chappell	Freedom	95019
+Chappell	Watsonville	95076
+Chappell Cir	Hollister	95023
+Chappell Ct	Gilroy	95020
+Chappell Rd	Hollister	95023
+Chappell Way	Beaumont	92223
+Chappelle Way	Elk Grove	95757
+Chappellet	Murrieta	92563
+Chappellet Cir	Murrieta	92563
+Chappellet Ct	Bakersfield	93312
+Chappellet Pl	Rancho Cucamonga	91730
+Chappy Ln	Apple Valley	92308
+Chaps Cir	Murrieta	92562
+Chaps Ct	Antioch	94531
+Chaps Ct	Galt	95632
+Chaps Ct	Oakley	94561
+Chaps Ct	Simi Valley	93063
+Chaps Ln	Fontana	92337
+Chaps Ln	Palo Cedro	96073
+Chaps Mountain Rd	Weaverville	96093
+Chaps Way	Hemet	92545
+Chapter Drive	Woodland Hills	91364
+Chapton Ln	Landers	92285
+Chapuli Rd	Pala	92059
+Chapulin	Mission Viejo	92692
+Chapulin Ln	Fallbrook	92028
+Chapulin Way	Coulterville	95311
+Chapultapec Rd	Wonder Valley	92277
+Chapulteapec Rd	Twentynine Palms	92277
+Chapulteapecrd	Twentynine Palms	92277
+Chapultepec Ave	Bakersfield	93307

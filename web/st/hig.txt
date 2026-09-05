@@ -1,0 +1,1537 @@
+Higa Pl	San Diego	92128
+Higa Road	Acton	93510
+Higate Dr	Daly City	94015
+Higate Dr	San Jose	95122
+Higbee Avenue	Lancaster	93534
+Higbee Ct	Modesto	95350
+Higbee Dr	Modesto	95350
+Higdon Ave	Mountain View	94041
+Higdon Ave	Mountain View	94041-1012
+Higgins	Felton	95018
+Higgins Av	Eureka	95503
+Higgins Av	Santa Clara	95051
+Higgins Av	Stockton	95205
+Higgins Ave	Gridley	95948
+Higgins Ave	Los Altos	94022
+Higgins Ave	Santa Clara	95051
+Higgins Canyon Rd	Half Moon Bay	94019
+Higgins Canyon Rd	Half Moon Bay	94062
+Higgins Canyon Rd	Other	94019
+Higgins Cir	Huntington Beach	92647
+Higgins Cir	Huntington Beach	92647-4916
+Higgins Court	Torrance	90501
+Higgins Ct	Indio	92201
+Higgins Ct	Modesto	95358
+Higgins Dr	Bakersfield	93308
+Higgins Dr	Thermal	92274
+Higgins Lane Ln	El Centro	92243
+Higgins Lane Rd	El Centro	92243
+Higgins Ln	El Centro	92243
+Higgins Ln	Shelter Cove	95589
+Higgins Pl	Palo Alto	94303
+Higgins Rd	Anza	92539
+Higgins Rd	Barstow	92311
+Higgins Road	Auburn	95602
+Higgins Road	West Sacramento	95691
+Higgins St	Carmichael	95608
+Higgins St	Eureka	95503
+Higgins St	Folsom	95630
+Higgins St	Oceanside	92058
+Higgins Street	North Hollywood	91605
+Higgins Ter	Lakeside	92040
+Higgins Way	Other	94044
+Higgins Way	Pacifica	94044
+High	Boulder Creek	95006
+High	Brookdale	95007
+High	Hornitos	95325
+High	Santa Cruz	95060
+High	Santa Cruz Ca	95060
+High	Watsonville	95076
+High Acres Rd	Weimar	95713
+High Ave	La Jolla	92037
+High Barbaree	Grass Valley	95945
+High Blf	Laguna Niguel	92677
+High Bluff	San Diego	92130
+High Bluff Ct	Riverside	92503
+High Bluff Ct	Victorville	92395
+High Bluff Dr	Newport Beach	92660
+High Bluff Dr	San Diego	92130
+High Bluff Road	Diamond Bar	91765
+High Chaparral Rd	Covelo	 
+High Chapparal Avenue	Palmdale	93591
+High Cliff Ct	Thousand Oaks	91362
+High Cliff Ln	Fontana	92336
+High Cliff Rd	Loomis	95650
+High Country Cir	Eastvale	92880
+High Country Cir	Perris	92570
+High Country Ct	Roseville	95747
+High Country Ct	San Diego	92120
+High Country Ct Unit A	Roseville	95747
+High Country Dr	Bakersfield	93312
+High Country Dr	Colton	92324
+High Country Dr	Hayward	94542
+High Country Dr	Rancho Santa Margarita	92679
+High Country Drive	Glendora	91740
+High Country Drive	Walnut	91789
+High Country Ln	Anderson	96007
+High Country Rd	Ramona	92065
+High Country Road	Palmdale	93551
+High Country Trl	Anza	92539
+High Crest Avenue	Los Angeles	90041
+High Crest Dr	Lake Elsinore	92532
+High Crest Pl	Escondido	92025
+High Crest Rd	Victorville	92395
+High Crest St	Victorville	92395
+High Ct	Berkeley	94708
+High Ct	Granite Bay	95746
+High Ct	Kelseyville	95451
+High Ct	Lakehead	96051
+High Ct	Shelter Cove	95589
+High Ct #A	Granite Bay	95746
+High Desert	Irvine	92602
+High Desert Ct	Adelanto	92301
+High Desert Ranch Rd	Mira Loma	91752
+High Desert Rd	Victorville	92392
+High Dr	Hemet	92544
+High Dr	Laguna Beach	92651
+High Eagle Ct	Walnut Creek	94595
+High Eagle Rd	Alamo	94507
+High Falls Trl	Apple Valley	92307
+High Flight Ct	Fair Oaks	95628
+High Gate Ct	Menifee	92584
+High Glade Rd	Lucerne	95458
+High Glade Rd	Upper Lake	95485
+High Glen Dr	San Jose	95133
+High Glen Way	Porter Ranch	91326
+High Goal Pl	Bakersfield	93312
+High Grove Av	Goleta	93117
+High Grove Ln	Sonoma	95476
+High Grove Rd	Templeton	93465
+High Gulch	Soquel	95073
+High Hill Ct	Fair Oaks	95628
+High Hill Rd	Anza	92539
+High Hill Rd	Apple Valley	92308
+High Hill Rd	Julian	92036
+High Hill Way	Fair Oaks	95628
+High Horse Dr	Rancho Cucamonga	91739
+High Horse Hill	Boulevard	91905
+High Knob Road	Diamond Bar	91765
+High Knoll Cir	Corona	92881
+High Knoll Cir	Thousand Oaks	91362
+High Knoll Cr	Thousand Oaks	91362
+High Knoll Ct	Simi Valley	93065
+High Knoll Dr	Chino Hills	91709
+High Knoll Lane	Walnut	91789
+High Knoll Rd	Lake Arrowhead	92352
+High Knoll Rd	San Diego	92111
+High Knoll Road	Encino	91436
+High Lane	Redondo Beach	90278
+High Laurel Ln	Templeton	93465
+High Line Drive	Fairfield	94533
+High Low Rd	Annapolis	95412
+High Mead Cir	Vista	92084
+High Meadow	Lake Forest	92679
+High Meadow Ct	Beaumont	92223
+High Meadow Ct	San Diego	92119
+High Meadow Ct	San Jose	95135
+High Meadow Ct	Victorville	92395
+High Meadow Dr	Beaumont	92223
+High Meadow Dr	Nipomo	93444
+High Meadow Dr	Smith River	95567
+High Meadow Dr	Sonora	95370
+High Meadow Drive	Carmel	93923
+High Meadow Drive	Weed	96094
+High Meadow Ln	San Jose	95135
+High Meadow Ln	Tiburon	94920
+High Meadow Pl	Rancho Cucamonga	91737
+High Meadow Ranch Rd	Julian	92036
+High Meadow Ranch Spur	Julian	92036
+High Meadow Rd	Santa Barbara Unincorporated	93463
+High Meadow Rd	Santa Ynez	93463
+High Meadow Rd	Solvang	93463
+High Meadow St	Simi Valley	93065
+High Meadow Walk	Sacramento	95833
+High Meadow Way	Bakersfield	93308
+High Meadow Way	Paso Robles	93446
+High Meadows Comm	Chico	95928
+High Meadows Rd	Oroville	95965
+High Mesa Ct	San Diego	92127
+High Mesa Drive	Duarte	91008
+High Mesa St	Adelanto	92301
+High Mesa St	Victorville	92395
+High Mesa Way	Riverbank	95367
+High Mountain Dr	Escondido	92026
+High Mountain Ln	Escondido	92026
+High Mountain Ln	Tollhouse	93667
+High Mountain Rd	Crescent City	95531
+High Noon Cir	Lake Forest	92630
+High Noon Cir	Lake Forest	92630-5714
+High Noon Cir	Lake Forest	92630-5715
+High Noon Ct	Menifee	92584
+High Noon Ct	Moreno Valley	92553
+High Noon Drive	Plumas Lake	95961
+High Oak Ct	Fair Oaks	95628
+High Oak Dr	Bakersfield	93311
+High Oak Drive	Los Angeles	90068
+High Oaks Ln	Squaw Valley	93675
+High Park Ln	San Diego	92129
+High Park St	Victorville	92395
+High Pass Drive	Diamond Bar	91765
+High Pass Rd	Boulevard	91905
+High Peak Dr	Riverside	92506
+High Peak Place	Agoura Hills	91301
+High Peaks Dr	Bakersfield	93313
+High Pine Rd	Perris	92570
+High Pine St	Poway	92064
+High Pine Street	Rosemead	91770
+High Pines Ct	Rocklin	95765
+High Place	Santa Monica	90404
+High Place Ln	Shelter Cove	95589
+High Plains Ct	Menifee	92584
+High Plains Dr	Bakersfield	93311
+High Plains Ln	Simi Valley	93065
+High Plateau Way	Bakersfield	93311
+High Point Ct	Adelanto	92301
+High Point Ct	Ahwahnee	93601
+High Point Ct	Folsom	95630
+High Point Ct	Modesto	95357
+High Point Ct	Victorville	92395
+High Point Dr	Valley Center	92082
+High Point Dr	Ventura	93003
+High Point Drive	Claremont	91711
+High Point Drive	Palmdale	93550
+High Point Ln	Sacramento	95842
+High Point Loop	San Ramon	94582
+High Point Pkwy	Barstow	92311
+High Point Pl	Simi Valley	93065
+High Point Rd	Lake Pillsbury	95469
+High Point Rd	Willits	 
+High Point Tktl	Palomar Mountain	92060
+High Point Trl	Aguanga	92536
+High Point Truck Trl	Palomar Mountain	92060
+High Pointe Court	Fairfield	94534
+High Post Rd	Nuevo	92567
+High Prairie Trl	Jurupa Valley	92509
+High Ranch Cir	Banning	92220
+High Ranch Rd	Lakeside	92040
+High Rd	Apple Valley	92307
+High Rd	Cazadero	95421
+High Rd	Cobb	95426
+High Rd	Crestline	92325
+High Rd	Lucerne Valley	92356
+High Rd	Montecito	93108
+High Rd	Palm Springs	92262
+High Rd	Sonoma	95476
+High Rd	Twain Harte	95383
+High Rd	Woodside	94062
+High Res Way	Perris	92570
+High Ridge Ave	Carlsbad	92008
+High Ridge Ave	Paradise	95969
+High Ridge Cir	Menifee	92584
+High Ridge Ct	Concow	95965
+High Ridge Dr	Bakersfield	93313
+High Ridge Dr	Beaumont	92223
+High Ridge Dr	Lake Elsinore	92530
+High Ridge Drive	Beverly Hills	90210
+High Ridge Drive	Santa Clarita	91390
+High Ridge Ln	Santa Barbara	93103
+High Ridge Ln	Victorville	92395
+High Ridge Place	Beverly Hills	90210
+High Ridge Rd	Carlsbad	92008
+High Ridge Rd	Paso Robles	93446
+High Ridge St	Adelanto	92301
+High Rige Dr	Lake Elsinore	92530
+High Rise Drive	Nevada City	95959
+High Rise Spur	Nevada City	95959
+High Rise Way	Santee	92071
+High Road	Montague	96064
+High Road	Tom'S Place	93546
+High Rock Dr	Calistoga	94515
+High Rocks Ct	Oroville	95966
+High Rose Ter	San Diego	92127
+High School Ave	Concord	94520
+High School Ct	Los Gatos	95030
+High School Hill Rd	Atascadero	93422
+High School Rd	Jamestown	95327
+High School Rd	Sebastopol	95472
+High School St	Covelo	 
+High School Way	Dunsmuir	96025
+High School Way	Mountain View	94041
+High Sierra Ct	Coarsegold	93614
+High Sierra Ct	Orangevale	95662
+High Sierra Drive	Exeter	93221
+High Sierra Rd	Poway	92064
+High Sierra Trail	Santa Clarita	91390
+High Sierra View	Weimar	95713
+High Sierra Way	Grass Valley	95945
+High Society Way	San Diego	92127
+High St	Auburn	95603
+High St	Banning	92220
+High St	Beaumont	92223
+High St	Calistoga	94515
+High St	Carnelian Bay	96140
+High St	Clayton	94517
+High St	Cottonwood	96022
+High St	Elk Grove	95624
+High St	Escondido	92026
+High St	Eureka	95503
+High St	Foresthill	95631
+High St	Fortuna	95540
+High St	Hanford	93230
+High St	Hayward	94541
+High St	Hornitos	95325
+High St	La Mesa	91941
+High St	Lake Elsinore	92530
+High St	Los Gatos	95030
+High St	Madera	93638
+High St	Martinez	94553
+High St	Modesto	95354
+High St	Moorpark	93021
+High St	Nice	95464
+High St	Oak View	93022
+High St	Oroville	95965
+High St	Pacheco	94553
+High St	Palo Alto	94301
+High St	Palo Alto	94306
+High St	Perris	92570
+High St	Petaluma	94952
+High St	Redding	96001
+High St	Richmond	94801
+High St	Riverbank	95367
+High St	Riverside	92507
+High St	Rocklin	95677
+High St	Roseville	95678
+High St	Sacramento	95815
+High St	Sacramento	95838
+High St	San Francisco	94114
+High St	San Luis Obispo	93401
+High St	Santa Paula	93060
+High St	Sebastopol	95472
+High St	Selma	93662
+High St	Shasta	96087
+High St	Sonora	95370
+High St	Turlock	95380
+High St #1	Auburn	95603
+High St #10	Auburn	95603
+High St #101	Auburn	95603
+High St #102	Auburn	95603
+High St #103	Auburn	95603
+High St #104	Auburn	95603
+High St #105	Auburn	95603
+High St #11	Auburn	95603
+High St #12	Auburn	95603
+High St #13	Auburn	95603
+High St #2	Auburn	95603
+High St #201	Auburn	95603
+High St #202	Auburn	95603
+High St #203	Auburn	95603
+High St #204	Auburn	95603
+High St #205	Auburn	95603
+High St #206	Auburn	95603
+High St #A	Auburn	95603
+High St #B	Auburn	95603
+High St Unit A	Roseville	95678
+High St Unit C	Roseville	95678
+High Street	Atwater	95301
+High Street	City Of Marysville	95901
+High Street	Fort Jones	96032
+High Street	Grass Valley	95945
+High Street	Los Angeles	90042
+High Street	Monterey	93940
+High Street	Mount Shasta	96067
+High Street	Nevada City	95959
+High Street	North San Juan	95960
+High Street	Truckee	96161
+High Street	Tulelake	96057
+High Street	Whittier	90602
+High Street	Whittier	90605
+High Sun Ct	Citrus Heights	95621
+High Tech Ct	Elk Grove	95758
+High-Tech Dr	Jamestown	95327
+High Terrace Lane	Salinas	93908
+High Tide Ave	Sacramento	95833
+High Time Rdg	San Diego	92127
+High Time Ridge	San Diego	92127
+High Times Rdg	San Diego	92127
+High Tor Drive	Hacienda Heights	91745
+High Tower Drive	Los Angeles	90068
+High Trail	Lake Hughes	93532
+High Trail Ct	Chula Vista	91914
+High Tree Cir	Ybl	92887
+High Tree Cir	Yorba Linda	92887
+High Trees Dr	Pioneer	95666
+High Valley Dr	Riverside	92503
+High Valley Ln	Shafter	93314
+High Valley Place	Encino	91436
+High Valley Rd	Anderson	96007
+High Valley Rd	Clearlake Oaks	95423
+High Valley Rd	Cobb	95426
+High Valley Rd	Lucerne	95458
+High Valley Rd	Poway	92064
+High Valley Ridge Rd	Clearlake Oaks	95423
+High Valley Road	Encino	91436
+High Valley St	Victorville	92395
+High View Ci	Shelter Cove	95589
+High View Dr	Arroyo Grande	93420
+High View Dr	Riverside	92506
+High View Ln	Weimar	95713
+High View Pt	Boulevard	91905
+High View Ridge	Porter Ranch	91326
+High Vista Avenue	Palmdale	93550
+High Vista Dr	Escondido	92026
+High Vista Dr	Murrieta	92563
+High Vista Ln	Apple Valley	92307
+High Vista Ln	Chino Hills	91709
+High Vista Ln	Escondido	92026
+High Vista Pl	Apple Valley	92307
+High Vista Rd	Murrieta	92563
+High Vista St	Victorville	92395
+High Water	Newport Beach	92657
+High Water Rd	Friant	93626
+High Water Way	Corona	92881
+High Winds Rd	Concow	95965
+High Winds Rd	Ojai	93023
+High Winds Way	San Diego	92120
+Highacres Avenue	Palmdale	93591
+Highbluff Ave	San Marcos	92078
+Highbluff Drive	Diamond Bar	91765
+Highbluff Road	Diamond Bar	91765
+Highbluff Way	Lancaster	93536
+Highbranch Ave	Madera	93636
+Highbridge Ct	Danville	94526
+Highbridge Ln	Danville	94526
+Highbridge Ln	Stockton	95206
+Highbridge Way	Sacramento	95832
+Highbrook Way	Stanton	90680
+Highbrush Ln	Simi Valley	93065
+Highbury Avenue	Los Angeles	90032
+Highbury Ct	Simi Valley	93063
+Highbury Dr	Murrieta	92563
+Highbury Place	Pasadena	91107
+Highbury St	Bakersfield	93311
+Highbury Way	Eastvale	91752
+Highbury Way	San Ramon	94582
+Highcastle Ln	Orcutt	93455
+Highcastle Ln	Santa Maria	93455
+Highcastle Street	La Puente	91744
+Highcastle Street	West Covina	91792
+Highclere Way	Bakersfield	93311
+Highcliff Cir	Corona	92882
+Highcliff Ct	Martinez	94553
+Highcliff Ct	Thousand Oaks	91362
+Highcliff Dr	North Tustin	92705
+Highcliff Drive	Torrance	90505
+Highcliff Rd	Riverside	92506
+Highcliff St	Westminster	92683
+Highcliff Street	Rosemead	91770
+Highcliff Trail	Tujunga	91042
+Highcountry Ln	Shaver Lake	93664
+Highcrest Cir	Irvine	92604
+Highcrest Cir	North Tustin	92705
+Highcrest Ct	Fullerton	92831
+Highcrest Ct	Poway	92064
+Highcrest Ct	Thousand Oaks	91320
+Highcrest Drive	Diamond Bar	91765
+Highcrest Ln	South San Francisco	94080
+Highcrest Rd	Dana Point	92629
+Highcrest Rd	Hinkley	92347
+Highdale Rd	Santee	92071
+Highdale Street	Bellflower	90706
+Highdale Street	Norwalk	90650
+Highfalls Street	Canyon Country	91387
+Highfield Ave	La Mesa	91941
+Highfield Cir	Sacramento	95832
+Highfield Gln	Irvine	92618
+Highfield St	Victorville	92395
+Highgate	Mission Viejo	92692
+Highgate	Scotts Valley	95066
+Highgate	Thousand Oaks	91361
+Highgate Ave	Belmont	94002
+Highgate Ave	Victorville	92395
+Highgate Avenue	Los Angeles	90042
+Highgate Avenue	Pomona	91767
+Highgate Cir	Victorville	92395
+Highgate Ct	Chino Hills	91709
+Highgate Ct	Kensington	94707
+Highgate Ct	La Mesa	91942
+Highgate Ct	Sacramento	95838
+Highgate Ct	Victorville	92395
+Highgate Dr	Hayward	94544
+Highgate Dr	Rancho Cucamonga	91739
+Highgate Dr	Richmond	94806
+Highgate Dr	Riverside	92503
+Highgate Glenn St	Bakersfield	93311
+Highgate Greens Dr	Bakersfield	93311
+Highgate Heath Ave	Bakersfield	93311
+Highgate Ln	Hillsborough	94010
+Highgate Ln	La Mesa	91942
+Highgate Ln	Tracy	95377
+Highgate Park Blvd	Bakersfield	93311
+Highgate Rd	Jamestown	95327
+Highgate Rd	Kensington	94707
+Highgate Rd	Modesto	95350
+Highgate Rd	Thousand Oaks	91361
+Highgate Road	Vallejo	94591
+Highgate Ter	Irvine	92603
+Highgate Terrace Loop	Folsom	95630
+Highgate Way	Pittsburg	94565
+Highgrade Lane	Grass Valley	95945
+Highgrade Ln	Sonora	95370
+Highgrader Road	Rough And Ready	95975
+Highgrove	Idyllwild	92549
+Highgrove Avenue	Torrance	90505
+Highgrove Ct	Adelanto	92301
+Highgrove Ct	Granite Bay	95746
+Highgrove Ct	Hughson	95326
+Highgrove Ct	San Jose	95127
+Highgrove Dr	Escondido	92027
+Highgrove Pass Rd	Riverside	92507
+Highgrove Pl	Moorpark	93021
+Highgrove Pl	Rancho Cucamonga	91730
+Highgrove St	Corona	92882
+Highgrove Street	Torrance	90505
+Highgrove Terrace	Los Angeles	90042
+Highgrove Town Center Ave	Riverside	92507
+Highhill Rd	Sloughhouse	95683
+Highiet Ct	Tracy	95377
+Highland	Aptos	95003
+Highland	Boulder Creek	95006
+Highland	Carlsbad	92008
+Highland	Felton	95018
+Highland	Los Gatos	95033
+Highland	Monterey	93940
+Highland	Oxnard	93035
+Highland	Santa Cruz	95060
+Highland	Seaside	93955
+Highland Alley	South Pasadena	91030
+Highland Av	Alderpoint	95511
+Highland Av	Eureka	95503
+Highland Av	Roseville	95678
+Highland Av	Santa Clara	95050
+Highland Av	Trinidad	95570
+Highland Av	Westhaven	95570
+Highland Ave	Barstow	92311
+Highland Ave	Buena Park	90621
+Highland Ave	Burlingame	94010
+Highland Ave	Chula Vista	91910
+Highland Ave	Citrus Heights	95610
+Highland Ave	Clearlake	95422
+Highland Ave	Daly City	94015
+Highland Ave	Del Mar	92014
+Highland Ave	Del Rey	93616
+Highland Ave	Desert Hot Springs	92240
+Highland Ave	El Cajon	92020
+Highland Ave	El Granada	94019
+Highland Ave	Fontana	92336
+Highland Ave	Guerneville	95446
+Highland Ave	Half Moon Bay	94019
+Highland Ave	Hermosa Beach	90254
+Highland Ave	Highland	92346
+Highland Ave	La Mesa	91942
+Highland Ave	Los Gatos	95030
+Highland Ave	Lucerne	95458
+Highland Ave	Lucerne Valley	92356
+Highland Ave	Moreno Valley	92555
+Highland Ave	National City	91950
+Highland Ave	Oxnard	93033
+Highland Ave	Oxnard	93035
+Highland Ave	Penngrove	94951
+Highland Ave	Perris	92571
+Highland Ave	Rancho Cucamonga	91701
+Highland Ave	Rancho Cucamonga	91737
+Highland Ave	Rancho Cucamonga	91739
+Highland Ave	Redding	96001
+Highland Ave	Redlands	92374
+Highland Ave	Redwood City	94062
+Highland Ave	Rialto	92377
+Highland Ave	Richmond	94804
+Highland Ave	Richmond	94805
+Highland Ave	Riverside	92507
+Highland Ave	Sacramento	95818
+Highland Ave	San Carlos	94070
+Highland Ave	San Diego	92105
+Highland Ave	San Diego	92115
+Highland Ave	San Francisco	94110
+Highland Ave	San Martin	95046
+Highland Ave	San Mateo	94401
+Highland Ave	San Rafael	94901
+Highland Ave	Santa Clara	95050
+Highland Ave	Selma	93662
+Highland Ave	Smith River	95567
+Highland Ave	South San Francisco	94080
+Highland Ave	Ukiah	 
+Highland Ave	Ukiah	95482
+Highland Ave	Ybl	92886
+Highland Ave	Yorba Linda	92886
+Highland Ave	Yucaipa	92399
+Highland Ave Ave	Rancho Cucamonga	91737
+Highland Ave & Redlands Blvd NW	Redlands	92373
+Highland Avenue	Altadena	91001
+Highland Avenue	Duarte	91010
+Highland Avenue	Glendale	91202
+Highland Avenue	Hermosa Beach	90254
+Highland Avenue	Los Angeles	90019
+Highland Avenue	Los Angeles	90028
+Highland Avenue	Los Angeles	90036
+Highland Avenue	Los Angeles	90038
+Highland Avenue	Manhattan Beach	90266
+Highland Avenue	Santa Monica	90405
+Highland Avenue	Sierra Madre	91024
+Highland Avenue	Truckee	96161
+Highland Avenue	Vacaville	95688
+Highland Avenue	Vallejo	94590
+Highland Avenue	Whittier	90605
+Highland Avenue	Yuba City	95991
+Highland Blvd	Berkeley	94707
+Highland Blvd	Hayward	94542
+Highland Blvd	Kensington	94707
+Highland Blvd	Kensington	94708
+Highland Blvd	Moreno Valley	92555
+Highland Blvd	Sonoma	95476
+Highland Ci	Eureka	95501
+Highland Cir	Chico	95926
+Highland Cir	Healdsburg	95448
+Highland Cir	Kelseyville	95451
+Highland Cir	Redding	96001
+Highland Cir	Redding	96003
+Highland Circle	Fairfield	94534
+Highland Court	Castaic	91384
+Highland Court	Fairfield	94534
+Highland Court	Lancaster	93536
+Highland Court	Palmdale	93552
+Highland Court	San Gabriel	91776
+Highland Creek Rd	Ramona	92065
+Highland Ct	Adelanto	92301
+Highland Ct	Arcata	95521
+Highland Ct	Auburn	95603
+Highland Ct	Bakersfield	93306
+Highland Ct	Beaumont	92223
+Highland Ct	Calistoga	94515
+Highland Ct	Concord	94520
+Highland Ct	Danville	94526
+Highland Ct	Hanford	93230
+Highland Ct	Hesperia	92344
+Highland Ct	La Habra	90631
+Highland Ct	Lafayette	94549
+Highland Ct	Larkspur	94939
+Highland Ct	Manteca	95336
+Highland Ct	Menifee	92584
+Highland Ct	Milpitas	95035
+Highland Ct	Napa	94559
+Highland Ct	Oak Hills	92344
+Highland Ct	Orinda	94563
+Highland Ct	Redding	96001
+Highland Ct	San Carlos	94070
+Highland Ct	Santa Clara	95050
+Highland Ct	Solana Beach	92075
+Highland Ct	Ukiah	 
+Highland Ct	Ybl	92886
+Highland Ct	Yorba Linda	92886
+Highland Cv	Del Mar	92014
+Highland Cv	Solana Beach	92075
+Highland Dr	Auburn	95603
+Highland Dr	Bakersfield	93308
+Highland Dr	Camarillo	93010
+Highland Dr	Carlsbad	92008
+Highland Dr	Concord	94520
+Highland Dr	Crestline	92325
+Highland Dr	Danville	94526
+Highland Dr	Del Mar	92014
+Highland Dr	Eastvale	92880
+Highland Dr	Fortuna	95540
+Highland Dr	Hanford	93230
+Highland Dr	Hayfork	96041
+Highland Dr	Hollister	95023
+Highland Dr	Indio	92203
+Highland Dr	Joshua Tree	92252
+Highland Dr	Julian	92036
+Highland Dr	Lake Arrowhead	92352
+Highland Dr	Los Osos	93402
+Highland Dr	Modesto	95354
+Highland Dr	Napa	94559
+Highland Dr	Newport Beach	92660
+Highland Dr	Novato	94949
+Highland Dr	Ojai	93023
+Highland Dr	Orcutt	93455
+Highland Dr	Oxnard	93035
+Highland Dr	Palm Springs	92264
+Highland Dr	Pismo Beach	93449
+Highland Dr	Running Springs	92382
+Highland Dr	San Bruno	94066
+Highland Dr	San Jacinto	92582
+Highland Dr	San Jose	95127
+Highland Dr	San Juan Capistrano	92675
+Highland Dr	San Luis Obispo	93405
+Highland Dr	Santa Barbara	93109
+Highland Dr	Santa Maria	93455
+Highland Dr	Simi Valley	93065
+Highland Dr	Solana Beach	92075
+Highland Dr	Sutter Creek	95685
+Highland Dr	Tustin	92782
+Highland Dr	Twain Harte	95383
+Highland Dr	Ukiah	 
+Highland Dr	Vista	92083
+Highland Dr	Westhaven	95570
+Highland Dr	Wishon	93669
+Highland Drive	Carmel	93923
+Highland Drive	Glendora	91741
+Highland Drive	Grass Valley	95945
+Highland Drive	June Lake	93529
+Highland Drive	La Canada Flintridge	91011
+Highland Drive	La Verne	91750
+Highland Drive	Lindsay	93247
+Highland Drive	Los Angeles	90016
+Highland Drive	Merced	95340
+Highland Drive	Monterey Park	91754
+Highland Drive	Mount Shasta	96067
+Highland Drive	Palmdale	93552
+Highland Drive	Rio Vista	94571
+Highland Drive	West Sacramento	95691
+Highland Estates Ct	Murrieta	92562
+Highland Estates Ln	San Martin	95046
+Highland Gables	Santee	92071
+Highland Glen Drive	Newhall	91321
+Highland Glen Way	La Mesa	91941
+Highland Gorge Drive	Beverly Hills	90210
+Highland Gorge Trail	Beverly Hills	90210
+Highland Grove Ct	Highland	92346
+Highland Grove Dr	Riverside	92503
+Highland Grove Ln	Highland	92346
+Highland Grove Rd	Riverside	92503
+Highland Heights Ct	Jamul	91935
+Highland Heights Ln	Escondido	92026
+Highland Heights Rd	Jamul	91935
+Highland Hills	Camarillo	93010
+Highland Hills Dr	Camarillo	93010
+Highland Hills Dr	Ramona	92065
+Highland Hills Rd	Nipomo	93444
+Highland Hills St	Bakersfield	93308
+Highland Home Rd	Banning	92220
+Highland Knolls Dr	Bakersfield	93306
+Highland Lake Dr	Roseville	95747
+Highland Lane	Stevenson Ranch	91381
+Highland & Lincoln SW	San Bernardino	92405
+Highland Ln	Big Bear Lake	92315
+Highland Ln	Huntington Beach	92647
+Highland Ln	Huntington Beach	92647-6526
+Highland Ln	Huntington Beach	92647-6527
+Highland Ln	Mill Valley	94941
+Highland Ln	North Tustin	92705
+Highland Ln	Paradise	95969
+Highland Ln	Sugarloaf	92386
+Highland Meadow Ct	Ramona	92065
+Highland Mesa Dr	Escondido	92025
+Highland Mesa Ln	Moreno Valley	92557
+Highland Oak Ct	Lake Forest	92679
+Highland Oak Dr	Lake Forest	92679
+Highland Oaks Ct	Fallbrook	92028
+Highland Oaks Ct	Wildomar	92595
+Highland Oaks Dr	Angwin	94508
+Highland Oaks Dr	Bakersfield	93306
+Highland Oaks Dr	Los Gatos	95032
+Highland Oaks Dr	Yucaipa	92399
+Highland Oaks Drive	Arcadia	91006
+Highland Oaks Ln	Fallbrook	92028
+Highland Oaks St	Fallbrook	92028
+Highland Oaks Way	Los Gatos	95032
+Highland Orchard Ln	Penryn	95663
+Highland Palms	La Quinta	92253
+Highland Palms Dr	Homeland	92548
+Highland Palms Dr	La Quinta	92253
+Highland Park	Fallbrook	92028
+Highland Park Ct	Lake Elsinore	92530
+Highland Park Dr	Paso Robles	93446
+Highland Park Dr	Roseville	95678
+Highland Park Ln	Campbell	95124
+Highland Pass Cir	Chino Hills	91709
+Highland Pass Rd	Chino Hills	91709
+Highland Pines Road	Pomona	91767
+Highland Pl	Berkeley	94709
+Highland Pl	Escondido	92027
+Highland Pl	Eureka	95503
+Highland Pl	La Mesa	91942
+Highland Pl	Lemoore	93245
+Highland Pl	Riverside	92506
+Highland Pl	Sebastopol	95472
+Highland Pl	Stockton	95205
+Highland Pl	Yucaipa	92399
+Highland Place	June Lake	93529
+Highland Place	Monrovia	91016
+Highland Place	San Dimas	91773
+Highland Place	Seaside	93955
+Highland Point Way	Redding	96001
+Highland Pointe Dr	Roseville	95678
+Highland Pointe Dr Ste 100	Roseville	95678
+Highland Pointe Dr Ste 120	Roseville	95678
+Highland Pointe Dr Ste 130	Roseville	95678
+Highland Pointe Dr Ste 140	Roseville	95678
+Highland Pointe Dr Ste 150	Roseville	95678
+Highland Pointe Dr Ste 160	Roseville	95678
+Highland Pointe Dr Ste 170	Roseville	95678
+Highland Pointe Dr Ste 180	Roseville	95678
+Highland Pointe Dr Ste 190	Roseville	95678
+Highland Pointe Dr Ste 200	Roseville	95678
+Highland Pointe Dr Ste 250	Roseville	95678
+Highland Pointe Dr Ste 300	Roseville	95678
+Highland Pointe Dr Ste 330	Roseville	95678
+Highland Pointe Dr Ste 350	Roseville	95678
+Highland Pointe Dr Ste 380	Roseville	95678
+Highland Pointe Dr Ste 390	Roseville	95678
+Highland Pointe Dr Ste 400	Roseville	95678
+Highland Pointe Dr Ste 420	Roseville	95678
+Highland Pointe Dr Ste 450	Roseville	95678
+Highland Ranch Rd	Cloverdale	95425
+Highland Ranch Rd	Philo	 
+Highland Ranch Rd	San Diego	92128
+Highland Rd	Adelanto	92301
+Highland Rd	Big Bear Lake	92315
+Highland Rd	Danville	94526
+Highland Rd	Granite Bay	95746
+Highland Rd	Junction City	96048
+Highland Rd	Lafayette	94549
+Highland Rd	Laguna Beach	92651
+Highland Rd	Livermore	94551
+Highland Rd	Lucerne	95458
+Highland Rd	Lucerne Valley	92356
+Highland Rd	Madera	93636
+Highland Rd	Morongo Valley	92256
+Highland Rd	Oak Hills	92344
+Highland Rd	Petaluma	94952
+Highland Rd	Phelan	92371
+Highland Rd	Pleasanton	94588
+Highland Rd	San Ramon	94583
+Highland Rd	Santa Ynez	93460
+Highland Rd	Sebastopol	95472
+Highland Rd	Simi Valley	93065
+Highland Spring Ln	Highland	92346
+Highland Springs	Beaumont	92223
+Highland Springs Ave	Banning	92220
+Highland Springs Ave	Beaumont	92223
+Highland Springs Dr	Palm Desert	92260
+Highland Springs Rd	Beaumont	92223
+Highland Springs Rd	Lakeport	95453
+Highland St	Escondido	92027
+Highland St	Martinez	94553
+Highland St	Montclair	91763
+Highland St	Needles	92363
+Highland St	Riverside	92507
+Highland St	Wildomar	92595
+Highland Street	Etna	96027
+Highland Street	Palmdale	93552
+Highland Street	Pasadena	91104
+Highland Street	Seaside	93955
+Highland Street	South Pasadena	91030
+Highland Ter	Camarillo	93010
+Highland Ter	Monte Rio	95462
+Highland Ter	Sunnyvale	94085
+Highland Ter	Woodside	94062
+Highland Terrace Drive	Walnut	91789
+Highland Tr	Lucerne	95458
+Highland Trail	Los Angeles	90046
+Highland Trail Ct	Unincorporated Alameda County	94541
+Highland Trail Ln	Unincorporated Alameda County	94541
+Highland Trails Dr	Ramona	92065
+Highland Trl	Yucca Valley	92284
+Highland Valley Ct	Ramona	92065
+Highland Valley Rd	Escondido	92025
+Highland Valley Rd	Poway	92064
+Highland Valley Rd	Ramona	92065
+Highland Valley Road	Diamond Bar	91765
+Highland View Avenue	Los Angeles	90041
+Highland View Ct	Los Altos	94024
+Highland View Ct	Sacramento	95821
+Highland View Dr	Burbank	91504
+Highland View Dr	Corona	92882
+Highland View Dr	Joshua Tree	92252
+Highland View Drive	Burbank	91504
+Highland View Gln	Escondido	92026
+Highland View Ln	Lake Forest	92679
+Highland View Ln	Oakhurst	93644
+Highland View Ln	Trabuco Canyon	92679
+Highland View Ln	Trabuco Canyon	92679-0000
+Highland View Ln	Trabuco Canyon	92679-1001
+Highland View Ln	Trabuco Canyon	92679-1002
+Highland View Ln	Trabuco Canyon	92679-1003
+Highland View Ln	Trabuco Canyon	92679-1004
+Highland View Place	Los Angeles	90041
+Highland Vista Cir	Temecula	92591
+Highland Vista Drive	Arcadia	91006
+Highland Vista Lane	Los Angeles	90049
+Highland Vista Way	Perris	92570
+Highland Vw	Irvine	92603
+Highland Way	Brentwood	94513
+Highland Way	Carson	90745
+Highland Way	Grover Beach	93433
+Highland Way	Inverness	94937
+Highland Way	Laguna Beach	92651
+Highland Way	Los Gatos	95033
+Highland Way	Monte Rio	95462
+Highland Way	Oregon House	95918
+Highland Way	Penryn	95663
+Highland Way	Pinecrest	95364
+Highlander	Lake Forest	92630
+Highlander	Lake Forest	92630-7228
+Highlander	Lake Forest	92630-7233
+Highlander Ave	La Habra	90631
+Highlander Ave	Pla	92870
+Highlander Ave	Placentia	92870
+Highlander Ct	Fullerton	92833
+Highlander Ct	Twain Harte	95383
+Highlander Dr	Ramona	92065
+Highlander Dr	Riverside	92507
+Highlander Dr	Temecula	92592
+Highlander Dr	Twain Harte	95383
+Highlander Dr	Victorville	92394
+Highlander Drive	Seaside	93955
+Highlander Rd	Fullerton	92833
+Highlander Rd	Ramona	92065
+Highlander Road	La Mirada	90638
+Highlander Road	West Hills	91307
+Highlander St	Bakersfield	93306
+Highlander Way	Antelope	95843
+Highlands Ave	Laguna Niguel	92677
+Highlands Ave	Palermo	95966
+Highlands Blvd	Oroville	95966
+Highlands Blvd	Spring Valley	91977
+Highlands Cir	Los Altos	94022
+Highlands Cir	Los Altos	94024
+Highlands Court	Grass Valley	95945
+Highlands Crest Way	Escondido	92025
+Highlands Ct	Belmont	94002
+Highlands Ct	San Pablo	94806
+Highlands Ct	Tahoe City	96145
+Highlands Dr	Tahoe City	96145
+Highlands Drive	Carmel	93923
+Highlands Harbor Rd	Clearlake	95422
+Highlands Lake Rd	Lakehead	96051
+Highlands Lane	Valencia	91354
+Highlands Oaks Ct	Wildomar	92595
+Highlands Park Dr	Ceres	95307
+Highlands Pl	San Diego	0
+Highlands Pl	San Diego	92130
+Highlands Pl	San Pablo	94806
+Highlands Ranch Cir	Poway	92064
+Highlands Ranch Pl	Poway	92064
+Highlands Ranch Rd	Poway	92064
+Highlands Ranch Ter	Poway	92064
+Highlands Rd	Aguanga	92536
+Highlands Rd	Lake Elsinore	92530
+Highlands Rd	San Pablo	94806
+Highlands Ridge Rd	Yorkville	 
+Highlands Ridgr Rd	Yorkville	 
+Highlands Ter	Poway	92064
+Highlands Terr	Oroville	95966
+Highlands View Dr	Sonora	95370
+Highlands View Rd	Alpine	91901
+Highlands View Rd	Truckee	96161
+Highlands Village Pl	San Diego	92129
+Highlands Way	Antioch	94531
+Highlands Way	Spring Valley	91977
+Highlands West Dr	Escondido	92029
+Highlands Wy	Clearlake	95422
+Highlawn Place	Altadena	91001
+Highley Ct	Sacramento	95864
+Highlight Drive	West Covina	91791
+Highlight Place	Los Angeles	90016
+Highlights Way	Modesto	95356
+Highline	Holtville	92250
+Highline Dr	Apple Valley	92308
+Highline Rd	Holtville	92250
+Highline Road	Glendale	91205
+Highline Trl	El Cajon	92021
+Highline Trl	Redding	96003
+Highline Way	Upland	91784
+Highliner Drive	Aromas	95004
+Highmeadow Drive	Palmdale	93551
+Highmoor Av	Stockton	95210
+Highmoor Ave	Bakersfield	93308
+Highmore Avenue	Rancho Palos Verdes	90275
+Highmore Ln	Modesto	95357
+Highnoon	Irvine	92602
+Highnoon Rd	Twentynine Palms	92277
+Highpark Pl	Aliso Viejo	92656
+Highpine Rd	Lake Forest	92630
+Highpine Rd	Lake Forest	92630-5118
+Highpine Rd	Lake Forest	92630-5120
+Highpine Rd	Lake Forest	92630-5121
+Highpine Rd	Lake Forest	92630-5210
+Highpine Rd	Lake Forest	92630-5211
+Highplace Dr	San Diego	92120
+Highplains Court	Castaic	91384
+Highplains Ter	Laguna Hills	92653
+Highpoint	Aliso Viejo	92656
+Highpoint	Irvine	92603
+Highpoint	Newport Beach	92657
+Highpoint	Rancho Santa Margarita	92679
+Highpoint Ave	Moreno Valley	92555
+Highpoint Court	Soledad	93960
+Highpoint Dr	Corona	92879
+Highpoint Dr	Riverside	92505
+Highpoint Drive	Atwater	95301
+Highpoint Drive	Claremont	91711
+Highpoint Ln	Murrieta	92563
+Highpoint Place	Canyon Country	91351
+Highpoint Road	Rancho Palos Verdes	90275
+Highpoint Way	Hayward	94541
+Highpointe Court	Soledad	93960
+Highpointe Ct	Murrieta	92563
+Highpointe Ct	Richmond	94806
+Highpointe Dr	Corona	92879
+Highpointe Ln	Murrieta	92563
+Highport Dr	Sacramento	95835
+Highridge	Camarillo	93012
+Highridge Ct	American Canyon	94503
+Highridge Ct	Camarillo	93012
+Highridge Ct	Walnut Creek	94597
+Highridge Dr	American Canyon	94503
+Highridge Dr	Chino Hills	91709
+Highridge Dr	Corona	92879
+Highridge Dr	Oceanside	92056
+Highridge Dr	Sacramento	95825
+Highridge Pl	Rancho Cucamonga	91730
+Highridge Rd	Spring Valley	91977
+Highridge Road	Calabasas	91302
+Highridge Road	La Crescenta	91214
+Highridge Road	Palos Verdes Peninsula	90274
+Highridge Road	Rancho Palos Verdes	90275
+Highridge Row	Winchester	92596
+Highridge St	Riverside	92506
+Highridge Way	Lake Forest	92679
+Highridge Way	Trabuco Canyon	92679
+Highridge Way	Trabuco Canyon	92679-0000
+Highridge Way	Trabuco Canyon	92679-1614
+Highridge Way	Trabuco Canyon	92679-1615
+Highridge Way	Trabuco Canyon	92679-1620
+Highridge Way	Trabuco Canyon	92679-1621
+Highridge Way	Trabuco Canyon	92679-1626
+Highridge Way	Trabuco Canyon	92679-1628
+Highridge Way	Trabuco Canyon	92679-1629
+Highridge Way	Trabuco Canyon	92679-1638
+Highridge Way	Trabuco Canyon	92679-1639
+Highridge Way	Trabuco Canyon	92679-1640
+Highridge Way	Trabuco Canyon	92679-1641
+Highridge Way	Trabuco Canyon	92679-2679
+Highrim Road	La Canada Flintridge	91011
+Highrise	Boulder Creek	95006
+Highroot Ct	Winchester	92596
+Highsmith Ln	San Diego	92119
+Highspire Drive	West Covina	91791
+Highspring Avenue	Newhall	91321
+Highstone Manor Ct	Rancho Cucamonga	91739
+Highstone Way	Fontana	92336
+Hightail Dr	San Diego	92145
+Hightail Dr	Santee	92071
+Hightail Rd	Oakdale	95361
+Hightide Dr	Huntington Beach	92646
+Hightide Dr	Huntington Beach	92646-8207
+Hightide Dr	Huntington Beach	92646-8208
+Hightide Dr	Huntington Beach	92646-8209
+Hightide Drive	Rancho Palos Verdes	90275
+Hightop St	Moorpark	93021
+Hightop Ter	Lakeside	92040
+Hightower Lndg	Chico	95973
+Hightower St	Lake Elsinore	92532
+Hightrail Ct	Roseville	95747
+Hightrail Wy	Roseville	95747
+Hightree Ct	Danville	94526
+Hightree Ln	San Diego	92114
+Hightree Pl	San Diego	92114
+Hightree Road	Santa Monica	90402
+Hightree Street	Pico Rivera	90660
+Hights View Dr	Smith River	95567
+Highvale Dr	Corona	92883
+Highvale Trail	Topanga	90290
+Highview	Santa Cruz	95060
+Highview Ave	Barstow	92311
+Highview Avenue	Altadena	91001
+Highview Avenue	Manhattan Beach	90266
+Highview Cir	San Juan Capistrano	92675
+Highview Ct	Riverside	92503
+Highview Ct	San Mateo	94403
+Highview Dr	Anza	92539
+Highview Dr	North Tustin	92705
+Highview Dr	Oakhurst	93644
+Highview Dr	Rancho Cucamonga	91737
+Highview Dr	Redlands	92373
+Highview Dr	San Diego	92104
+Highview Dr	San Mateo	94403
+Highview Ln	Citrus Heights	95610
+Highview Ln	Moreno Valley	92557
+Highview Ln	Redlands	92373
+Highview Ln	Spring Valley	91977
+Highview Rd	Morongo Valley	92256
+Highview St	Chino Hills	91709
+Highview St	Thousand Oaks	91320
+Highview Trl	Redding	96003
+Highview Trl	Twentynine Palms	92277
+Highview Trl	Vista	92084
+Highview Way	Oakhurst	93644
+Highview Way	Sutter Creek	95685
+Highwater Dr	Huntington Beach	92648-6230
+Highwater Road	Granada Hills	91344
+Highway 067	Ramona	92065
+Highway 076	Palomar Mountain	92060
+Highway 078	Ramona	92065
+Highway 1	Cambria	93428
+Highway 1	Cayucos	93430
+Highway 1	Grover Beach	93433
+Highway 1	Harmony	93435
+Highway 1	Morro Bay	93442
+Highway 1	Nipomo	93444
+Highway 1	Oceano	93445
+Highway 1	Point Reyes Station	94956
+Highway 1	San Luis Obispo	93405
+Highway 1	San Simeon	93452
+Highway 1	Santa Maria	93455
+Highway 1	Westport	 
+Highway 10	Cathedral City	92234
+Highway 10	Desert Center	92239
+Highway 10	Indio	92201
+Highway 10	Palm Springs	92262
+Highway 101	Arroyo Grande	93420
+Highway 101	Cardiff By The Sea	92007
+Highway 101	Carlsbad	92011
+Highway 101	Del Mar	92014
+Highway 101	Encinitas	92024
+Highway 101	Santa Margarita	93453
+Highway 101	Solana Beach	92075
+Highway 101 N	Paso Robles	93446
+Highway 101 N	San Luis Obispo	93401
+Highway 101 N	Solana Beach	92075
+Highway 108	Pickle Meadows	93517
+Highway 108	Sonora Junction	93517
+Highway 111	Calipatria	92233
+Highway 111	Cathedral City	92234
+Highway 111	Coachella	92236
+Highway 111	El Centro	92243
+Highway 111	Imperial	92251
+Highway 111	Indian Wells	92210
+Highway 111	Indio	92201
+Highway 111	Indio	92254
+Highway 111	La Quinta	92253
+Highway 111	Mecca	92254
+Highway 111	Palm Desert	92260
+Highway 111	Palm Springs	92262
+Highway 111	Rancho Mirage	92270
+Highway 111	Thermal	92254
+Highway 111	Thermal	92274
+Highway 111 Ave	Indio	92201
+Highway 113	Knights Landing	95645
+Highway 113	Robbins	95676
+Highway 113	Woodland	95776
+Highway 113	Yuba City	95993
+Highway 117	San Diego	92154
+Highway 119	Bakersfield	93313
+Highway 120	Benton	93512
+Highway 120	Coulterville	95311
+Highway 120	Groveland	95321
+Highway 120	Lee Vining	93541
+Highway 120	Oakdale	95361
+Highway 120 Road	Owens River	93529
+Highway 125	Santee	92071
+Highway 128	Boonville	 
+Highway 128	Navarro	 
+Highway 128	Philo	 
+Highway 128	Winters	95694
+Highway 128	Yorkville	 
+Highway 132	Coulterville	19723
+Highway 132	Coulterville	95311
+Highway 132	La Grange	95329
+Highway 135	Los Alamos	93440
+Highway 138	Pinon Hills	92372
+Highway 140	Catheys Valley	95306
+Highway 140	El Portal	95318
+Highway 140	Mariposa	95338
+Highway 140	Merced	95341
+Highway 140	Midpines	95345
+Highway 140	Stevinson	95374
+Highway 140	Yosemite	95389
+Highway 145	Madera	93636
+Highway 145	Madera	93637
+Highway 145	Madera	93638
+Highway 147	Westwood	96137
+Highway 15	Escondido	92026
+Highway 15	Fallbrook	92028
+Highway 15	Mountain Pass	92366
+Highway 15	San Marcos	92069
+Highway 15	Temecula	92592
+Highway 150	Ojai	93023
+Highway 152	Chowchilla	93610
+Highway 158	June Lake	93529
+Highway 158	Lee Vining	93541
+Highway 16	Brooks	95606
+Highway 16	Brooks	95607
+Highway 16	Capay	95607
+Highway 16	Capay	95627
+Highway 16	Esparto	95627
+Highway 16	Guinda	95637
+Highway 16	Madison	95653
+Highway 16	Rumsey	95679
+Highway 16	Woodland	95695
+Highway 163	San Diego	92145
+Highway 165	Hilmar	95324
+Highway 165	Los Banos	93635
+Highway 165	Stevinson	95374
+Highway 165	Turlock	95380
+Highway 167	Bridgeport	93517
+Highway 167	Bridgeport	93541
+Highway 167	Mono City	93541
+Highway 168	Auberry	93602
+Highway 168	Lakeshore	93634
+Highway 168	Shaver Lake	93664
+Highway 175	Hopland	 
+Highway 177	Desert Center	92239
+Highway 18	Pinon Hills	92372
+Highway 180	Dunlap	93621
+Highway 180	Kings Canyon National Pk	93633
+Highway 180	Miramonte	93641
+Highway 180	Squaw Valley	93675
+Highway 182	Bridgeport	93517
+Highway 190	Porterville	93257
+Highway 190	Springville	93265
+Highway 195	Mecca	92254
+Highway 195	Thermal	92274
+Highway 198	Coalinga	93210
+Highway 198	Exeter	93221
+Highway 198	Hanford	93230
+Highway 198	Lemoore	93245
+Highway 20	Browns Valley	95901
+Highway 20	Browns Valley	95918
+Highway 20	City Of Marysville	95901
+Highway 20	Colusa	95932
+Highway 20	Hallwood	95901
+Highway 20	Linda	95901
+Highway 20	Loma Rica	95901
+Highway 20	Meridian	95957
+Highway 20	Smartsville	95918
+Highway 20	Smartsville	95977
+Highway 20	Sutter	95982
+Highway 20	Williams	95987
+Highway 20	Yuba City	95991
+Highway 20	Yuba City	95993
+Highway 215	Menifee	92584
+Highway 215	Moreno Valley	92553
+Highway 215	Murrieta	92562
+Highway 215	Perris	92571
+Highway 243	Banning	92220
+Highway 243	Idyllwild	92549
+Highway 243	Mountain Center	92561
+Highway 245	Badger	93603
+Highway 245	Miramonte	93641
+Highway 245	Woodlake	93286
+Highway 253	Boonville	 
+Highway 266	Oasis	93512
+Highway 270	Bridgeport	93517
+Highway 299	Bieber	96009
+Highway 33	Avenal	93204
+Highway 33	Coalinga	93210
+Highway 33	Firebaugh	93622
+Highway 33	Maricopa	93252
+Highway 33	Mendota	93640
+Highway 36	Susanville	96130
+Highway 36	Westwood	96137
+Highway 371	Aguanga	92536
+Highway 371	Anza	92539
+Highway 395	Bonsall	92003
+Highway 395	Bridgeport	93517
+Highway 395	Coleville	96133
+Highway 395	Crestview	93529
+Highway 395	Escondido	92025
+Highway 395	Escondido	92026
+Highway 395	Fallbrook	92028
+Highway 395	June Lake	93529
+Highway 395	Lee Vining	93541
+Highway 395	Mammoth Lakes	93546
+Highway 395	Menifee	92584
+Highway 395	Murrieta	92562
+Highway 395	Murrieta	92563
+Highway 395	Perris	92571
+Highway 395	Riverside	92553
+Highway 395	San Marcos	92069
+Highway 395	Sonora Junction	93517
+Highway 395	Swall Meadows	93512
+Highway 395	Temecula	92592
+Highway 395	Topaz	96133
+Highway 395	Virginia Lakes	93517
+Highway 395	Vista	92084
+Highway 395	Walker	96107
+Highway 395 Rd	Escondido	92026
+Highway 395 Street	Lee Vining	93541
+Highway 4	Brentwood	94513
+Highway 4	Byron	94514
+Highway 4	Discovery Bay	94505
+Highway 4	Rodeo	94572
+Highway 41	Avenal	93204
+Highway 41	Coarsegold	93614
+Highway 41	Fish Camp	93623
+Highway 41	Fresno	93720
+Highway 41	Kettleman City	93239
+Highway 41	Kettleman City	93266
+Highway 41	Lemoore	93245
+Highway 41	Lemoore	93266
+Highway 41	Madera	93636
+Highway 41	Oakhurst	93644
+Highway 41	Paso Robles	93446
+Highway 41	Stratford	93266
+Highway 41 E	Atascadero	93422
+Highway 41 E	Paso Robles	93446
+Highway 41 E	Shandon	93461
+Highway 41 E	Templeton	93465
+Highway 41 W	Atascadero	93422
+Highway 41 W	Morro Bay	93442
+Highway 43	Corcoran	93212
+Highway 43	Earlimart	93219
+Highway 43	Hanford	93230
+Highway 45	Colusa	95932
+Highway 45	Grimes	95950
+Highway 45	Knights Landing	95645
+Highway 45	Princeton	95957
+Highway 45	Princeton	95970
+Highway 45	Princeton	95979
+Highway 46	Paso Robles	93446
+Highway 46 E	Paso Robles	93446
+Highway 46 E	Shandon	93461
+Highway 46 W	Cambria	93428
+Highway 46 W	Harmony	93435
+Highway 46 W	Paso Robles	93446
+Highway 46 W	Templeton	93465
+Highway 49	Ahwahnee	93601
+Highway 49	Calpine	96124
+Highway 49	Camptonville	95922
+Highway 49	Camptonville	95960
+Highway 49	Coulterville	95311
+Highway 49	Downieville	95936
+Highway 49	Downieville	96125
+Highway 49	Goodyears Bar	95936
+Highway 49	Loyalton	89451
+Highway 49	Loyalton	96105
+Highway 49	Loyalton	96118
+Highway 49	Mariposa	95338
+Highway 49	Oakhurst	93644
+Highway 49	Sattley	96118
+Highway 49	Sattley	96124
+Highway 49	Sierra City	96125
+Highway 49	Sierraville	96118
+Highway 49 No	Coulterville	95311
+Highway 49 No	Mariposa	95338
+Highway 49 So	Mariposa	95338
+Highway 49 Valley	Indian Valley	95922
+Highway 5	Cardiff By The Sea	92007
+Highway 5	Los Banos	93635
+Highway 52	San Diego	92124
+Highway 52	San Diego	92145
+Highway 52 Hwy	San Diego	92124
+Highway 52 Hwy	San Diego	92145
+Highway 6	Benton	93512
+Highway 6	Chalfant Valley	93512
+Highway 6	Hammil Valley	93512
+Highway 60	Beaumont	92223
+Highway 60	Blythe	92225
+Highway 60	Desert Center	92239
+Highway 60	Moreno Valley	92555
+Highway 60	Riverside	92507
+Highway 60	White Water	92282
+Highway 60 & 395	Riverside	92507
+Highway 62	Desert Center	92239
+Highway 65	California Hot Springs	93207
+Highway 65	City Of Wheatland	95692
+Highway 65	Porterville	93257
+Highway 65	Wheatland	95692
+Highway 67	Lakeside	92040
+Highway 67	Pauma Valley	92061
+Highway 67	Poway	92064
+Highway 67	Ramona	92065
+Highway 67	Santee	92071
+Highway 67 Blvd	Lakeside	92040
+Highway 67 Dr	Ramona	92065
+Highway 67 Ter	Ramona	92065
+Highway 70	District 10	95901
+Highway 70	Nicolaus	95659
+Highway 70	Pleasant Grove	95668
+Highway 71	Aguanga	92536
+Highway 71	Anza	92539
+Highway 71	Corona	92878
+Highway 71	Corona	92880
+Highway 71	Corona	92883
+Highway 71	Lake Elsinore	92530
+Highway 71	Lake Elsinore	92532
+Highway 71	Perris	92570
+Highway 71	Temecula	92592
+Highway 71	Wildomar	92595
+Highway 74	Anza	92539
+Highway 74	Anza	92561
+Highway 74	Hemet	92544
+Highway 74	Hemet	92545
+Highway 74	Homeland	92548
+Highway 74	Lake Elsinore	92530
+Highway 74	Lake Elsinore	92532
+Highway 74	Lake Elsinore	92570
+Highway 74	Menifee	92585
+Highway 74	Mountain Center	92561
+Highway 74	Palm Desert	92260
+Highway 74	Perris	92570
+Highway 74 Hwy	Lake Elsinore	92532
+Highway 75	Imperial Beach	91932
+Highway 75	San Diego	92154
+Highway 76	Bonsall	92003
+Highway 76	Escondido	92027
+Highway 76	Fallbrook	92028
+Highway 76	Oceanside	92054
+Highway 76	Oceanside	92057
+Highway 76	Pala	92059
+Highway 76	Palomar Mountain	92060
+Highway 76	Pauma Valley	92061
+Highway 76	Santa Ysabel	92070
+Highway 76	Valley Center	92082
+Highway 78	Blythe	92225
+Highway 78	Borrego Springs	92004
+Highway 78	Carlsbad	92008
+Highway 78	Carlsbad	92010
+Highway 78	Desert Center	92239
+Highway 78	Escondido	92025
+Highway 78	Escondido	92027
+Highway 78	Julian	92036
+Highway 78	Oceanside	92054
+Highway 78	Ramona	92065
+Highway 78	San Marcos	92069
+Highway 78	Santa Ysabel	92070
+Highway 78	Vista	92081
+Highway 78/79	Santa Ysabel	92070
+Highway 78 Hwy	Ramona	92065
+Highway 79	Aguanga	92086
+Highway 79	Aguanga	92536
+Highway 79	Beaumont	92223
+Highway 79	Corona	92880
+Highway 79	Descanso	91916
+Highway 79	Guatay	91931
+Highway 79	Hemet	92544
+Highway 79	Julian	92036
+Highway 79	Pine Valley	91962
+Highway 79	Ranchita	92066
+Highway 79	San Jacinto	92583
+Highway 79	Santa Ysabel	92070
+Highway 79	Temecula	92592
+Highway 79	Warner Springs	92086
+Highway 79	Winchester	92596
+Highway 79 Hwy	Aguanga	92536
+Highway 79 No 121	Aguanga	92536
+Highway 79 Rd	Santa Ysabel	92070
+Highway 79 South	Temecula	92592
+Highway 795	Aguanga	92536
+Highway 8	Descanso	91916
+Highway 8	El Cajon	92021
+Highway 8 Business	Alpine	91901
+Highway 8 Business	Boulevard	91905
+Highway 8 Business	El Cajon	92021
+Highway 8 Business	Jacumba	91934
+Highway 8 Business	Lakeside	92040
+Highway 80	Alpine	91901
+Highway 80	Boulevard	91905
+Highway 80	Campo	91906
+Highway 80	Descanso	91916
+Highway 80	El Cajon	92021
+Highway 80	Guatay	91931
+Highway 80	Jacumba	91934
+Highway 80	Lakeside	92040
+Highway 80	Pine Valley	91962
+Highway 86	Brawley	92227
+Highway 86	Coachella	92236
+Highway 86	La Quinta	92274
+Highway 86	Thermal	92274
+Highway 86 Hwy	Imperial	92251
+Highway 89	Calpine	96124
+Highway 89	Calpine	96125
+Highway 89	Sattley	96124
+Highway 89	Sierraville	96118
+Highway 89	Sierraville	96126
+Highway 89	Sierraville	NA
+Highway 9	Brookdale	95007
+Highway 94	Boulevard	91905
+Highway 94	Campo	91906
+Highway 94	Chula Vista	91914
+Highway 94	Dulzura	91917
+Highway 94	El Cajon	92019
+Highway 94	Jamul	91935
+Highway 94	Potrero	91963
+Highway 94	Spring Valley	91977
+Highway 94	Spring Valley	91978
+Highway 94	Tecate	91980
+Highway 95	Blythe	92225
+Highway 95	Desert Center	92239
+Highway 95	Needles	92363
+Highway 95 & Highway 62	Vidal Junction	92242
+Highway 98	Imperial	92251
+Highway 99	Chowchilla	93610
+Highway 99	Delhi	95315
+Highway 99	Gridley	95648
+Highway 99	Gridley	95948
+Highway 99	Kingsburg	93631
+Highway 99	Le Grand	95333
+Highway 99	Live Oak	95953
+Highway 99	Madera	93636
+Highway 99	Madera	93637
+Highway 99	Madera	93638
+Highway 99	Maxwell	95955
+Highway 99	Merced	95341
+Highway 99	Nicolaus	95659
+Highway 99	Pleasant Grove	95668
+Highway 99	Traver	93673
+Highway 99	Tulare	93274
+Highway 99	Visalia	93277
+Highway 99	Williams	95987
+Highway 99	Yuba City	95991
+Highway 99	Yuba City	95993
+Highway 99 Hwy	Maxwell	95955
+Highway 99 N	Maxwell	95955
+Highway 99 W	Maxwell	95955
+Highway 99 W	Williams	95987
+Highway Ave	Armona	93230
+Highway Ave	Bay Point	94565
+Highway Esplanade	Monrovia	91016
+Highway Highway 266	Oasis	93512
+Highway Htnf Brd Compound Road	Bridgeport	93517
+Highway Rd	Burlingame	94010
+Highway Road	Truckee	96161
+Highway Spur	Twin Peaks	92391
+Highway Street	Tulelake	96134
+Highways 243	Idyllwild	92549
+Highwind Way	Sacramento	95831
+Highwinds Rd	Ojai	93023
+Highwing St	Desert Hot Springs	92240
+Highwood Ave	La Mesa	91941
+Highwood Cir	Laguna Hills	92653
+Highwood Court	Azusa	91702
+Highwood Ct	Menifee	92584
+Highwood Ct	Simi Valley	93063
+Highwood Dr	Roseville	95661
+Highwood Dr	San Diego	92119
+Highwood Dr	San Jose	95116
+Highwood Dr	San Jose	95127
+Highwood Pl	Oakley	94561
+Highwood Road	Hacienda Heights	91745
+Highwood St	Moreno Valley	92551
+Highwood Street	Los Angeles	90049
+Highwood Way	Orangevale	95662
+Higinbotham Way	Corona	92881
+Higinbothem Way	Corona	92881
+Higley Way	Oceanside	92057
+Higman Avenue	Los Angeles	90028
+Higo St	Rancho Mission Viejo	92694
+Higos Way	Nipomo	93444
+Higstrand Way	Nevada City	95959
+Higton St	Manteca	95336
+Higuera	Mission Viejo	92691
+Higuera Ave	Calexico	92231
+Higuera Ave	Pinole	94564
+Higuera Ave	San Francisco	94132
+Higuera Dr	Oxnard	93030
+Higuera Highland Ln	San Jose	95148
+Higuera Highland Ln	Santa Clara County	95148
+Higuera Lane	Monterey	93940
+Higuera Lane	Salinas	93907
+Higuera Pl	Milpitas	95035
+Higuera Rd	San Jose	95148
+Higuera St	Culver City	90232
+Higuera St	San Luis Obispo	93401
+Higuera Street	Culver City	90232
+Higuera Street	Soledad	93960

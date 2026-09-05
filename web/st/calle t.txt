@@ -1,0 +1,113 @@
+Calle Tacate	La Quinta	92253
+Calle Tacuba	Saratoga	95070
+Calle Tadeo	San Dimas	91773
+Calle Tafalla	Cathedral City	92234
+Calle Tajo	Temecula	92592
+Calle Talavera	Menifee	92585
+Calle Talentia	Escondido	92025
+Calle Talia	Highland	92346
+Calle Tamara	San Clemente	92673
+Calle Tamarindo	San Diego	92127
+Calle Tamazula	La Quinta	92253
+Calle Tamega	Camarillo	93012
+Calle Tamega	San Diego	92128
+Calle Tampico	Cathedral City	92234
+Calle Tampico	La Quinta	92253
+Calle Tampico	Riverside	92503
+Calle Tania	Camarillo	93012
+Calle Tania	Santa Barbara Unincorporated	93111
+Calle Tarifa	Carlsbad	92009
+Calle Tassjara	Murrieta	92562
+Calle Taxco	West Covina	91792
+Calle Tecate	Camarillo	93012
+Calle Tecate	La Quinta	92253
+Calle Techa	Coachella	92236
+Calle Tecolotlan	Fallbrook	92028
+Calle Tecomaria	Coachella	92236
+Calle Tejado	San Clemente	92673
+Calle Temecula	La Quinta	92253
+Calle Tempra	Chula Vista	91911
+Calle Teneria	Indio	92203
+Calle Tepeyac	Indio	92203
+Calle Tepic	Vacaville	95687
+Calle Tequila	Temecula	92592
+Calle Teresa	Murrieta	92562
+Calle Terraza	Valencia	91354
+Calle Tesoro	Camarillo	93012
+Calle Tesoro	Chula Vista	91915
+Calle Tesoro	Somis	93066
+Calle Tezac	La Mesa	91941
+Calle Tiara	La Jolla	92037
+Calle Tiara	San Clemente	92672
+Calle Tiara	Temecula	92591
+Calle Tiara	Temecula	92592
+Calle Tiara Ave	Temecula	92591
+Calle Tiara Rd	Temecula	92591
+Calle Tibidabo	San Clemente	92672
+Calle Tiburon	San Clemente	92672
+Calle Tierno	Chula Vista	91913
+Calle Tierra	Forest Ranch	95942
+Calle Tierra	Morgan Hill	95037
+Calle Tierra Blanca	Rancho Santa Fe	92067
+Calle Tierra Santa	Riverside	92503
+Calle Tierra Vista	Camarillo	93010
+Calle Tijera	Vista	92084
+Calle Tilo	Thousand Oaks	91360
+Calle Timiteo	Carlsbad	92009
+Calle Tinaja	San Clemente	92672
+Calle Tio	Nipomo	93444
+Calle Titania	Temecula	92592
+Calle Tobara	Cathedral City	92234
+Calle Tocon	San Diego	92139
+Calle Todd Ln	Twentynine Palms	92277
+Calle Toledo	Cathedral City	92234
+Calle Toledo	San Clemente	92672
+Calle Toledo	Temecula	92592
+Calle Tolosa	Cathedral City	92234
+Calle Tolosa	Coachella	92236
+Calle Tomas	Cathedral City	92234
+Calle Tomas	Menifee	92586
+Calle Tomas	Palm Springs	92264
+Calle Tomas	San Dimas	91773
+Calle Tonala	Indio	92203
+Calle Torbellino	Indio	92203
+Calle Torcida	Temecula	92591
+Calle Torcida Rd	Temecula	92591
+Calle Torcido	Bakersfield	93309
+Calle Torcido	Lake Forest	92630
+Calle Torcido	Lake Forest	92630-2035
+Calle Torcido	Lake Forest	92630-2036
+Calle Torcido	Temecula	92591
+Calle Toro	Penn Valley	95946
+Calle Torre	Cathedral City	92234
+Calle Torre Orduno	Coachella	92236
+Calle Torreno	Chula Vista	91914
+Calle Torres Ordun	Coachella	92236
+Calle Tortosa	Cathedral City	92234
+Calle Tortuga	San Clemente	92673
+Calle Tortuosa	San Diego	92139
+Calle Toscana	Thousand Palms	92276
+Calle Traditions	Palm Springs	92262
+Calle Tragar	San Diego	92129
+Calle Tramonto	Rancho Santa Fe	92091
+Calle Tranquilidad	Indian Wells	92210
+Calle Tranquillo	Palm Springs	92262
+Calle Tranquillo	Ybl	92886
+Calle Tranquillo	Yorba Linda	92886
+Calle Trebon	Chula Vista	91913
+Calle Trejo	Coachella	92236
+Calle Trella	San Dimas	91773
+Calle Trepadora	San Clemente	92673
+Calle Trepadora	San Diego	92139
+Calle Tres Lomas	Lake Forest	92630
+Calle Tres Lomas	Lake Forest	92630-4505
+Calle Tres Lomas	Lake Forest	92630-4506
+Calle Tres Lomas	San Diego	92139
+Calle Tres Vistas	Encinitas	92024
+Calle Trevino	San Diego	92127
+Calle Trucksess	El Cajon	92019
+Calle Trujillo	Cathedral City	92234
+Calle Tulipan	Thousand Oaks	91360
+Calle Tulipanes	Encinitas	92024
+Calle Turquesa	Thousand Oaks	91320
+Calle Tuxpan	Murrieta	92562

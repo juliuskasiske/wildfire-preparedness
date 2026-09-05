@@ -1,0 +1,15 @@
+68Th Ave	Mecca	92254
+68Th Ave	Sacramento	95822
+68Th Ave	Sacramento	95828
+68Th Ave	Thermal	92274
+68Th St	Eastvale	91752
+68Th St	Eastvale	92880
+68Th St	Jurupa Valley	91752
+68Th St	La Mesa	91942
+68Th St	Mira Loma	91752
+68Th St	Sacramento	95824
+68Th St	San Diego	92114
+68Th St	San Diego	92115
+68Th Street	Los Angeles	90003
+68Th Street	Los Angeles	90044
+68Th Way	Long Beach	90805

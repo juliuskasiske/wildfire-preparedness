@@ -1,0 +1,355 @@
+Liv Ct	Redlands	92374
+Live Oak	Ben Lomond	95005
+Live Oak	Irvine	92604
+Live Oak	Santa Cruz	95062
+Live Oak Ave	Beaumont	92223
+Live Oak Ave	Chino	91710
+Live Oak Ave	Concord	94521
+Live Oak Ave	Fairfax	94930
+Live Oak Ave	Fontana	92335
+Live Oak Ave	Fontana	92337
+Live Oak Ave	Ful	92835
+Live Oak Ave	Fullerton	92835
+Live Oak Ave	Galt	95632
+Live Oak Ave	Menlo Park	94025
+Live Oak Ave	Morgan Hill	95037
+Live Oak Ave	Oakley	94561
+Live Oak Ave	San Jose	95037
+Live Oak Ave	San Jose	95124
+Live Oak Ave	Santa Paula	93060
+Live Oak Ave	Sebastopol	95472
+Live Oak Ave	Ukiah	 
+Live Oak Avenue	Arcadia	91006
+Live Oak Avenue	Baldwin Park	91706
+Live Oak Avenue	Bell Gardens	90201
+Live Oak Avenue	Bellflower	90706
+Live Oak Avenue	Irwindale	91706
+Live Oak Avenue	Planada	95365
+Live Oak Avenue	Temple City	91780
+Live Oak Avenue	Torrance	90505
+Live Oak Boulevard	Live Oak	95953
+Live Oak Boulevard	Yuba City	95991
+Live Oak Campground	Diablo	94528
+Live Oak Canyon	Redlands	92373
+Live Oak Canyon	Trabuco Canyon	92679
+Live Oak Canyon Dr	Indio	92201
+Live Oak Canyon Dr	Redlands	92373
+Live Oak Canyon Rd	Redlands	92373
+Live Oak Canyon Rd	Unincorporated	92676
+Live Oak Canyon Rd	Unincorporated	92679
+Live Oak Canyon Rd	Yucaipa	92399
+Live Oak Canyon Road	La Verne	91750
+Live Oak Ci	Roseville	95678
+Live Oak Cir	El Sobrante	94803
+Live Oak Cir	Fountain Valley	92708
+Live Oak Cir	Lake Forest	92679
+Live Oak Cir	Trabuco Canyon	92679-0000
+Live Oak Cir	Trabuco Canyon	92679-1019
+Live Oak Cir	Winchester	92596
+Live Oak Circle	Canyon Country	91387
+Live Oak Circle Drive	Calabasas	91302
+Live Oak Court	Agoura Hills	91301
+Live Oak Court	Los Banos	93635
+Live Oak Court	Mount Shasta	96067
+Live Oak Court	Vacaville	95687
+Live Oak Court	Vallejo	94591
+Live Oak Creek Cir	Fallbrook	92028
+Live Oak Ct	Antioch	94509
+Live Oak Ct	Ceres	95351
+Live Oak Ct	Chino	91710
+Live Oak Ct	Danville	94506
+Live Oak Ct	Folsom	95630
+Live Oak Ct	Hesperia	92345
+Live Oak Ct	Lodi	95242
+Live Oak Ct	Milpitas	95035
+Live Oak Ct	Morgan Hill	95037
+Live Oak Ct	Murrieta	92562
+Live Oak Ct	Novato	94949
+Live Oak Ct	Oceanside	92056
+Live Oak Ct	Pine Grove	95665
+Live Oak Ct	Pittsburg	94565
+Live Oak Ct	Plymouth	95669
+Live Oak Ct	Redlands	92374
+Live Oak Ct	Rocklin	95765
+Live Oak Ct	Temecula	92592
+Live Oak Cyn Rd	Redlands	92373
+Live Oak Dr	Danville	94506
+Live Oak Dr	El Cajon	92020
+Live Oak Dr	Hollister	95023
+Live Oak Dr	Idyllwild	92549
+Live Oak Dr	Jurupa Valley	92509
+Live Oak Dr	Kelseyville	95451
+Live Oak Dr	Mill Valley	94941
+Live Oak Dr	Mission Viejo	92691
+Live Oak Dr	Morongo Valley	92256
+Live Oak Dr	Oakhurst	93644
+Live Oak Dr	Paso Robles	93446
+Live Oak Dr	Petaluma	94952
+Live Oak Dr	Rancho Cucamonga	91730
+Live Oak Dr	Redwood Valley	 
+Live Oak Dr	Running Springs	92314
+Live Oak Dr	Running Springs	92382
+Live Oak Dr	San Mateo	94402
+Live Oak Dr	Sanger	93657
+Live Oak Dr	Sanger	CCCCC
+Live Oak Dr	Santa Clara	95051
+Live Oak Dr	Sonora	95370
+Live Oak Dr	Temecula	92592
+Live Oak Dr	Ventura	93001
+Live Oak Dr	Willits	 
+Live Oak Dr E	Sonora	95370
+Live Oak Drive	Atwater	95301
+Live Oak Drive	Chatsworth	91311
+Live Oak Drive	Claremont	91711
+Live Oak Drive	Happy Camp	96039
+Live Oak Drive	Ivanhoe	93235
+Live Oak Drive	La Verne	91750
+Live Oak Drive	Los Angeles	90068
+Live Oak Drive	Nevada City	95959
+Live Oak Drive	Pomona	91767
+Live Oak Farm Ln	Petaluma	94952
+Live Oak Knolls Dr	Bangor	95966
+Live Oak Lane	Arcadia	91006
+Live Oak Lane	Bell Gardens	90201
+Live Oak Lane	Carmel Valley	93924
+Live Oak Lane	Grass Valley	95945
+Live Oak Lane	Irwindale	91706
+Live Oak Lane	Penn Valley	95946
+Live Oak Ln	Adelanto	92301
+Live Oak Ln	Auburn	95603
+Live Oak Ln	Beaumont	92223
+Live Oak Ln	Cloverdale	95425
+Live Oak Ln	Danville	94506
+Live Oak Ln	Hillsborough	94010
+Live Oak Ln	Idyllwild	92549
+Live Oak Ln	Kelseyville	95451
+Live Oak Ln	Lake Elsinore	92530
+Live Oak Ln	Los Altos	94022
+Live Oak Ln	Morgan Hill	95037
+Live Oak Ln	Napa	94558
+Live Oak Ln	Pine Grove	95665
+Live Oak Ln	Pinole	94564
+Live Oak Ln	Redding	96001
+Live Oak Ln	Redwood City	94062
+Live Oak Ln	Rocklin	95765
+Live Oak Ln	San Luis Obispo	93401
+Live Oak Ln	Santa Barbara	93105
+Live Oak Ln	Saratoga	95070
+Live Oak Ln	Ybl	92886
+Live Oak Ln	Yorba Linda	92886
+Live Oak Meadow Road	Malibu	90265
+Live Oak Park Rd	Fallbrook	92028
+Live Oak Pl	Auburn	95603
+Live Oak Pl	Big Bear City	92314
+Live Oak Pl	Corona	92882
+Live Oak Pl	Danville	94506
+Live Oak Pl	Escondido	92029
+Live Oak Ranch Rd	Temecula	92592
+Live Oak Rd	Chino Hills	91709
+Live Oak Rd	Escondido	92029
+Live Oak Rd	Highland	92346
+Live Oak Rd	Mariposa	95338
+Live Oak Rd	Paicines	95043
+Live Oak Rd	Paso Robles	93446
+Live Oak Rd	Pioneer	95666
+Live Oak Rd	Post Mountain	96041
+Live Oak Rd	Redwood Valley	 
+Live Oak Rd	Santa Barbara Unincorporated	93460
+Live Oak Rd	Thousand Oaks	91320
+Live Oak Rd	Vista	92081
+Live Oak Rd	Weimar	95713
+Live Oak Rd	Willits	 
+Live Oak Rd	Wilton	95693
+Live Oak Ridge Rd	Nipomo	93444
+Live Oak Road	Castaic	91384
+Live Oak Road	Pebble Beach	93953
+Live Oak Road	Royal Oaks	95076
+Live Oak Spring	Boulevard	91905
+Live Oak Springs Canyon Road	Canyon Country	91387
+Live Oak Springs Rd	Boulevard	91905
+Live Oak St	Angelus Oaks	92305
+Live Oak St	Auburn	95603
+Live Oak St.	Bell Gardens	90201
+Live Oak St	Carmichael	95608
+Live Oak St	Chula Vista	91913
+Live Oak St	Hemet	92545
+Live Oak St	Hesperia	92345
+Live Oak St	Idyllwild	92549
+Live Oak St	Indian Wells	92210
+Live Oak St	Mi-Wuk	95346
+Live Oak St	Nice	95464
+Live Oak St	Thousand Oaks	91320
+Live Oak St	Thousand Oaks	91362
+Live Oak St #1/2	Auburn	95603
+Live Oak Street	Bell Gardens	90201
+Live Oak Street	Huntington Park	90255
+Live Oak Street	Planada	95365
+Live Oak Street	San Gabriel	91776
+Live Oak Ter	Sonora	95370
+Live Oak Ter	Sunnyvale	94086
+Live Oak Ter	Unincorporated Alameda County	94541
+Live Oak Trl	Boulevard	91905
+Live Oak Trl	Simi Valley	93063
+Live Oak View Avenue	Los Angeles	90041
+Live Oak Wash	Los Angeles	90048
+Live Oak Way	Auburn	95603
+Live Oak Way	Bakersfield	93308
+Live Oak Way	Belmont	94002
+Live Oak Way	Citrus Heights	95621
+Live Oak Way	Corona	92883
+Live Oak Way	Danville	94506
+Live Oak Way	Kentfield	94904
+Live Oak Way	Livingston	95334
+Live Oak Way	Salinas	93908
+Live Oak Way	San Jose	95129
+Live Oak Way	San Rafael	94901
+Live Oak Way	Walnut Creek	94596
+Live Oak Wy	Lodi	95242
+Live Oaks Dr	Carlsbad	92009
+Live Oaks Rd	Montecito	93108
+Live Oaks Spg	Boulevard	91905
+Live Oaks Trl	Boulevard	91905
+Live Oaks Way	Salinas	93908
+Live Park Rd	Fallbrook	92028
+Live Pine Ct	Roseville	95661
+Lively Avenue	Lancaster	93536
+Lively Rd	Gridley	95948
+Lively St	Riverside	92505
+Lively Wood Lane	Rough And Ready	95975
+Liveoak Court	Fairfield	94534
+Liveoak Ct	Martinez	94553
+Liveoak Ct	Murrieta	92562
+Liveoak Drive	Claremont	91711
+Livering Ln	San Diego	92117
+Livermont Lane	Duarte	91010
+Livermore	Capitola	95010
+Livermore Ave	Reedley	93654
+Livermore Ave	Ventura	93004
+Livermore Ct	Soulsbyville	95372
+Livermore Pl	Cypress	90630
+Livermore Terrace	Los Angeles	90042
+Livermore Valley Dr	Riverside	92503
+Livermore Way	Folsom	95630
+Liverno Dr	Salida	95368
+Liverpool	Hercules	94547
+Liverpool Ave	San Jose	95124
+Liverpool Court	Castaic	91384
+Liverpool Court	San Dimas	91773
+Liverpool Court	Vacaville	95687
+Liverpool Ct	Manteca	95336
+Liverpool Ct	Oak Park	91377
+Liverpool Ct	San Diego	92109
+Liverpool Dr	Cardiff	92007
+Liverpool Dr	Cardiff By The Sea	92007
+Liverpool Dr	Rancho Cucamonga	91739
+Liverpool Drive	Palmdale	93552
+Liverpool Drive	Pasadena	91103
+Liverpool Drive	Vacaville	95687
+Liverpool Ln	Moreno Valley	92557
+Liverpool Ln	Riverside	92503
+Liverpool Ln	Roseville	95747
+Liverpool Ln	San Jacinto	92583
+Liverpool St	Danville	94506
+Liverpool St	Hemet	92545
+Liverpool St	Ybl	92886
+Liverpool St	Yorba Linda	92886
+Liverpool Street	West Sacramento	95691
+Liverpool Way	Petaluma	94954
+Liverpool Way	Porter Ranch	91326
+Liverpool Way	Sunnyvale	94087
+Livery Ct	Rohnert Park	94928
+Livery Ct	Wilton	95693
+Livery Ln	San Jose	95135
+Livery Pl	Escondido	92029
+Livewood Lane	Harbor City	90710
+Livewood Way	San Diego	92131
+Livia	Irvine	92618
+Livia Avenue	Rosemead	91770
+Livia Avenue	Temple City	91780
+Livia Lane	Los Angeles	90039
+Living Oak Ct	Santa Rosa	95401
+Living Rock Ct	Chino Hills	91709
+Living Rock Ct	Chula Vista	91915
+Living Stone Dr	La Quinta	92253
+Living Water Dr	Millville	96062
+Living Water Way	Hemet	92543
+Livingston Ave	Pacifica	94044
+Livingston Ave	Placentia	92870
+Livingston Ave	Ventura	93003
+Livingston Avenue	King City	93930
+Livingston Avenue	Vacaville	95687
+Livingston Avenue	Valencia	91355
+Livingston Cir	Westley	95387
+Livingston Court	Claremont	91711
+Livingston Cressey Road	Livingston	95334
+Livingston Ct	Discovery Bay	94505
+Livingston Ct	Lincoln	95648
+Livingston Ct	Novato	94949
+Livingston Ct	Roseville	95661
+Livingston Ct	Stockton	95210
+Livingston Dr	Huntington Beach	92648
+Livingston Dr	Huntington Beach	92648-1554
+Livingston Dr	Huntington Beach	92648-1555
+Livingston Dr	Huntington Beach	92648-1560
+Livingston Dr	Huntington Beach	92648-1561
+Livingston Dr	Huntington Beach	92648-1562
+Livingston Drive	Nevada City	95959
+Livingston Ln	Hinkley	92347
+Livingston Ln	Richmond	94801
+Livingston Ln	Stockton	95210
+Livingston Mdws	Garden Grove	92844
+Livingston Pl	Ladera Ranch	92694
+Livingston Pl	South San Francisco	94080
+Livingston Place	Rio Vista	94571
+Livingston Rd	Meadow Vista	95722
+Livingston Rd	Morongo	92256
+Livingston Road	Greenfield	93927
+Livingston St	Banning	92220
+Livingston St	Chula Vista	91913
+Livingston St	Fort Bragg	 
+Livingston St	Menifee	92584
+Livingston St	North Tustin	92780
+Livingston St	Riverside	92506
+Livingston St	San Diego	92115
+Livingston St	Sonora	95370
+Livingston St.	Tustin	92780
+Livingston Ter	San Bruno	94066
+Livingston Way	Discovery Bay	94505
+Livingston Way	Los Angeles	90046
+Livingston Way	Sacramento	95823
+Livingston Wy	Roseville	95678
+Livingstone Pl	Santa Rosa	95405
+Livingstone St	Fountain Valley	92708
+Livio Way	Madera	93636
+Livistona Ct	Coachella	92236
+Livmor Ave	Palm Springs	92262
+Livolsi Rd	Anderson	96007
+Livona Ln	Redding	96003
+Livonia Avenue	Los Angeles	90034
+Livonia Avenue	Los Angeles	90035
+Livonia Pl	San Jose	95111
+Livonia St	Elk Grove	95624
+Livorna Heights Rd	Alamo	94507
+Livorna Rd	Alamo	94507
+Livorna Rd	Walnut Creek	94507
+Livorna Way	Fair Oaks	95628
+Livorno Cir	San Luis Obispo	93401
+Livorno Court	Merced	95341
+Livorno Court	Westlake Village	91362
+Livorno Ct	Chino Hills	91709
+Livorno Ct	Manteca	95337
+Livorno Ct	San Jose	95138
+Livorno Drive	Pacific Palisades	90272
+Livorno Ln	Ybl	92886
+Livorno Ln	Yorba Linda	92886
+Livorno Pl	Encinitas	92024
+Livorno Pl	Lincoln	95648
+Livorno Road	Merced	95341
+Livorno Way	Elk Grove	95757
+Livorno Way	Porter Ranch	91326
+Livorno Way	Redwood City	94065
+Livoti Av	Roseville	95661
+Livoti Ave	Fair Oaks	95628
+Livoti Ave	Roseville	95661
+Livoti Ave #A	Roseville	95661
+Livoti Ct	Roseville	95661

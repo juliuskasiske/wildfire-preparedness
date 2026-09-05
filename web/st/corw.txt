@@ -1,0 +1,12 @@
+Corwin Avenue	Glendale	91206
+Corwin Ct	Elk Grove	95758
+Corwin Ct	Highland	92346
+Corwin Ct	Loomis	95650
+Corwin Ct	San Jose	95111
+Corwin Dr	Alamo	94507
+Corwin Dr	Manteca	95337
+Corwin Ln	Riverside	92503
+Corwin Pl	Hemet	92544
+Corwin Rd	Apple Valley	92307
+Corwin Rd	Lucerne Valley	92356
+Corwin St	San Francisco	94114

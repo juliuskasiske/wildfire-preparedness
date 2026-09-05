@@ -1,0 +1,131 @@
+E 208Th St	Carson	90810
+E 20Th Ave	San Mateo	94403
+E 20Th St	Chico	95926
+E 20Th St	Chico	95928
+E 20Th St	Costa Mesa	92627
+E 20Th St	Highland	92346
+E 20Th St	National City	91950
+E 20Th St	San Bernardino	92404
+E 20Th St	Santa Ana	92705
+E 20Th St	Santa Ana	92706
+E 20Th St	Tracy	95376
+E 20Th St	Upland	91784
+E 20Th St	Upland	91785
+E 211Th St	Carson	90745
+E 212Th St	Carson	90745
+E 213Th St	Carson	90745
+E 213Th St	Carson	90810
+E 214Th St	Carson	90745
+E 215Th Pl	Carson	90745
+E 215Th St	Carson	90745
+E 216Th St	Carson	90745
+E 218Th Pl	Carson	90745
+E 218Th Pl	Carson	90810
+E 218Th St	Carson	90745
+E 218Th St	Carson	90810
+E 219Th Pl	Carson	90810
+E 219Th St	Carson	90745
+E 219Th St	Carson	90810
+E 21St St	Bakersfield	93305
+E 21St St	Chico	95928
+E 21St St	Costa Mesa	92627
+E 21St St	Highland	92346
+E 21St St	National City	91950
+E 21St St	San Bernardino	92404
+E 21St St	Santa Ana	92705
+E 21St St	Santa Ana	92706
+E 21St St	Tracy	95376
+E 21St St	Upland	91784
+E 220Th Pl	Carson	90810
+E 220Th St	Carson	90745
+E 220Th St	Carson	90810
+E 221St Pl	Carson	90810
+E 221St St	Carson	90745
+E 221St St	Carson	90810
+E 222Nd St	Carson	90745
+E 223Rd St	Carson	90745
+E 223Rd St	Carson	90810
+E 224Th Pl	Carson	90745
+E 224Th St	Carson	90745
+E 225Th St	Carson	90745
+E 226Th Pl	Carson	90745
+E 226Th St	Carson	90745
+E 227Th St	Carson	90745
+E 228Th St	Carson	90745
+E 229Th Pl	Carson	90745
+E 229Th St	Carson	90745
+E 22Nd St	Chico	95928
+E 22Nd St	National City	91950
+E 22Nd St	Santa Ana	92706
+E 22Nd St	Tracy	95376
+E 22Nd St	Upland	91784
+E 230Th St	Carson	90745
+E 231St St	Carson	90745
+E 232Nd Pl	Carson	90745
+E 232Nd St	Carson	90745
+E 233Rd St	Carson	90745
+E 234Th Pl	Carson	90745
+E 234Th St	Carson	90745
+E 234Th Walk	Carson	90745
+E 235Th St	Carson	90745
+E 236Th St	Carson	90745
+E 237Th St	Carson	90745
+E 238Th Pl	Carson	90745
+E 238Th St	Carson	90745
+E 23Rd St	Chico	95928
+E 23Rd St	National City	91950
+E 23Rd St	San Bernardino	92404
+E 23Rd St	Upland	91784
+E 244Th St	Carson	90745
+E 245Th St	Carson	90745
+E 246Th Pl	Carson	90745
+E 246Th St	Carson	90745
+E 247Th St	Carson	90745
+E 248Th St	Carson	90745
+E 249Th St	Carson	90745
+E 24Th St	National City	91950
+E 24Th St	San Bernardino	92404
+E 24Th St	Upland	91784
+E 25Th Ave	San Mateo	94403
+E 25Th St	San Bernardino	92404
+E 25Th St	Upland	91784
+E 26Th St	National City	91950
+E 26Th St	San Bernardino	92404
+E 26Th St	Upland	91784
+E 27Th St	National City	91950
+E 27Th St	San Bernardino	92404
+E 28Th Ave	San Mateo	94403
+E 28Th St	Highland	92346
+E 28Th St	National City	91950
+E 28Th St	San Bernardino	92404
+E 29Th St	Highland	92346
+E 29Th St	National City	91950
+E 29Th St	San Bernardino	92404
+E 2Nd	Calexico	92231
+E 2Nd	Heber	92249
+E 2Nd	Imperial	92251
+E 2Nd	Westmorland	92281
+E 2Nd Ave	Calexico	92231
+E 2Nd Ave	Chico	95926
+E 2Nd Ave	Escondido	92025
+E 2Nd Ave	La Habra	90631
+E 2Nd Ave	Lah	90631
+E 2Nd St	Beaumont	92223
+E 2Nd St	Calexico	92231
+E 2Nd St	Chico	95928
+E 2Nd St	Corona	92879
+E 2Nd St	Heber	92249
+E 2Nd St	Imperial	92251
+E 2Nd St	Madera	93638
+E 2Nd St	Morgan Hill	95037
+E 2Nd St	National City	91950
+E 2Nd St	Parlier	93648
+E 2Nd St	Perris	92570
+E 2Nd St	Rialto	92376
+E 2Nd St	San Bernardino	92408
+E 2Nd St	San Jacinto	92583
+E 2Nd St	Santa Ana	92701
+E 2Nd St	Shandon	93461
+E 2Nd St	Tustin	92780
+E 2Nd St	Westmorland	92281
+E 2Nd Street Rd	Calexico	92231

@@ -1,0 +1,544 @@
+Alm Bluffs Dr	Chico	95928
+Alma	Capitola	95010
+Alma	Jackson	95642
+Alma	Salinas	93905
+Alma	Watsonville	95076
+Alma	Winterhaven	92283
+Alma Aldea	Rancho Santa Margarita	92688
+Alma Ave	Jackson	95642
+Alma Ave	Modesto	95350
+Alma Ave	Redding	96002
+Alma Ave	Rohnert Park	94928
+Alma Ave	Walnut Creek	94596
+Alma Ave #101	Walnut Creek	94596
+Alma Ave #102	Walnut Creek	94596
+Alma Ave #103	Walnut Creek	94596
+Alma Ave #104	Walnut Creek	94596
+Alma Ave #105	Walnut Creek	94596
+Alma Ave #106	Walnut Creek	94596
+Alma Ave #107	Walnut Creek	94596
+Alma Ave #108	Walnut Creek	94596
+Alma Ave #109	Walnut Creek	94596
+Alma Ave #110	Walnut Creek	94596
+Alma Ave #111	Walnut Creek	94596
+Alma Ave #112	Walnut Creek	94596
+Alma Ave #113	Walnut Creek	94596
+Alma Ave #114	Walnut Creek	94596
+Alma Ave #115	Walnut Creek	94596
+Alma Ave #116	Walnut Creek	94596
+Alma Ave #117	Walnut Creek	94596
+Alma Ave #118	Walnut Creek	94596
+Alma Ave #201	Walnut Creek	94596
+Alma Ave #202	Walnut Creek	94596
+Alma Ave #203	Walnut Creek	94596
+Alma Ave #204	Walnut Creek	94596
+Alma Ave #205	Walnut Creek	94596
+Alma Ave #206	Walnut Creek	94596
+Alma Ave #207	Walnut Creek	94596
+Alma Ave #208	Walnut Creek	94596
+Alma Ave #209	Walnut Creek	94596
+Alma Ave #210	Walnut Creek	94596
+Alma Ave #211	Walnut Creek	94596
+Alma Ave #212	Walnut Creek	94596
+Alma Ave #213	Walnut Creek	94596
+Alma Ave #214	Walnut Creek	94596
+Alma Ave #215	Walnut Creek	94596
+Alma Ave #216	Walnut Creek	94596
+Alma Ave #217	Walnut Creek	94596
+Alma Ave #218	Walnut Creek	94596
+Alma Ave #301	Walnut Creek	94596
+Alma Ave #302	Walnut Creek	94596
+Alma Ave #303	Walnut Creek	94596
+Alma Ave #304	Walnut Creek	94596
+Alma Ave #305	Walnut Creek	94596
+Alma Ave #306	Walnut Creek	94596
+Alma Ave #307	Walnut Creek	94596
+Alma Ave #308	Walnut Creek	94596
+Alma Ave #309	Walnut Creek	94596
+Alma Ave #310	Walnut Creek	94596
+Alma Ave #311	Walnut Creek	94596
+Alma Ave #312	Walnut Creek	94596
+Alma Ave #313	Walnut Creek	94596
+Alma Ave #314	Walnut Creek	94596
+Alma Ave #315	Walnut Creek	94596
+Alma Ave #316	Walnut Creek	94596
+Alma Ave #317	Walnut Creek	94596
+Alma Ave #318	Walnut Creek	94596
+Alma Ave #401	Walnut Creek	94596
+Alma Ave #402	Walnut Creek	94596
+Alma Ave #403	Walnut Creek	94596
+Alma Ave #404	Walnut Creek	94596
+Alma Ave #405	Walnut Creek	94596
+Alma Ave #406	Walnut Creek	94596
+Alma Ave #407	Walnut Creek	94596
+Alma Ave #408	Walnut Creek	94596
+Alma Ave #409	Walnut Creek	94596
+Alma Ave #410	Walnut Creek	94596
+Alma Ave #411	Walnut Creek	94596
+Alma Ave #412	Walnut Creek	94596
+Alma Ave #413	Walnut Creek	94596
+Alma Ave #414	Walnut Creek	94596
+Alma Ave #415	Walnut Creek	94596
+Alma Ave #416	Walnut Creek	94596
+Alma Ave #417	Walnut Creek	94596
+Alma Ave #418	Walnut Creek	94596
+Alma Avenue	Gardena	90249
+Alma Avenue	Lynwood	90262
+Alma Avenue	Manhattan Beach	90266
+Alma Avenue	Salinas	93905
+Alma Avenue Avenue	Salinas	93905
+Alma Bridge Rd	Los Gatos	95033
+Alma College Rd	Los Gatos	95033
+Alma Court	Claremont	91711
+Alma Court	Dixon	95620
+Alma Court	Suisun City	94585
+Alma Ct	Chino	91710
+Alma Ct	Chowchilla	93610
+Alma Ct	Grover Beach	93433
+Alma Ct	Los Altos	94022
+Alma Ct	Los Gatos	95030
+Alma Ct	Modesto	95358
+Alma Ct	Petaluma	94952
+Alma Ct	Redwood Estates	95030
+Alma Ct	San Jose	95112
+Alma/Foster Square Ln	Foster City	94404
+Alma Jo Ct	Monte Sereno	95030
+Alma Ln	Villa Park	92861
+Alma Loop	San Jose	95125
+Alma Mesa Way	Citrus Heights	95610
+Alma Pl	San Diego	92115
+Alma Real Drive	Pacific Palisades	90272
+Alma St	Menlo Park	94025
+Alma St	Oroville	95965
+Alma St	Palo Alto	94301
+Alma St	Palo Alto	94306
+Alma St	Perris	92570
+Alma St	San Carlos	94070
+Alma St	San Francisco	94117
+Alma St	Stockton	95205
+Alma Street	Glendale	91202
+Alma Street	Monterey	93940
+Alma Street	San Pedro	90731
+Alma Ter	San Jose	95125
+Alma Village Cir	Palo Alto	94306
+Alma Village Ln	Palo Alto	94306
+Alma Vista Way	Sacramento	95831
+Alma Way	Bakersfield	93304
+Alma Way	Sacramento	95822
+Alma Way	San Jose	95125
+Almada St	Chino Hills	91709
+Almaden	Mission Viejo	92691
+Almaden Ave	Barstow	92311
+Almaden Ave	Cupertino	95014
+Almaden Ave	Milpitas	95035
+Almaden Ave	San Jose	95110
+Almaden Ave	San Jose	95110-3335
+Almaden Ave	San Jose	95113
+Almaden Ave	Sunnyvale	94085
+Almaden Blvd	San Jose	95110
+Almaden Blvd	San Jose	95113
+Almaden Blvd	Union City	94587
+Almaden Cir	Cupertino	95014
+Almaden Cir	Murrieta	92563
+Almaden Cir	Oakley	94561
+Almaden Court	Fairfield	94533
+Almaden Court	Los Angeles	90077
+Almaden Ct	Lafayette	94549
+Almaden Ct	Los Altos Hills	94022
+Almaden Ct	Oakley	94561
+Almaden Ct	San Francisco	94118
+Almaden Ct	Simi Valley	93065
+Almaden Ct	Stockton	95206
+Almaden Dr	Fontana	92336
+Almaden Dr	Menifee	92585
+Almaden Dr	Redding	96001
+Almaden Drive	Los Angeles	90042
+Almaden Drive	Salinas	93906
+Almaden Ex	San Jose	95118
+Almaden Expy	San Jose	95118
+Almaden Expy	San Jose	95120
+Almaden Expy	San Jose	95123
+Almaden Expy	San Jose	95125
+Almaden Expy	San Jose	95136
+Almaden Lake Dr	San Jose	95123
+Almaden Ln	Carlsbad	92009
+Almaden Ln	Menifee	92585
+Almaden Ln	San Jose	95125
+Almaden Oaks Ln	San Jose	95120
+Almaden Pl	San Jose	95120
+Almaden Pl	Union City	94587
+Almaden Rd	San Jose	95118
+Almaden Rd	San Jose	95120
+Almaden Rd	San Jose	95120-3222
+Almaden Rd	San Jose	95123
+Almaden Rd	San Jose	95125
+Almaden Street	Tulare	93274
+Almaden Valley Dr	San Jose	95120
+Almaden Village Ln	San Jose	95120
+Almaden Walk Loop	San Jose	95125
+Almaden Way	Modesto	95358
+Almaden Way	San Mateo	94403
+Almadin Avenue	Cerritos	90703
+Almadine Dr	Sacramento	95829
+Almadine Way	Danville	94506
+Almador	Irvine	92614
+Almador Court	Palmdale	93551
+Almador Terrace	Atwater	95301
+Almagro Ln	Escondido	92026
+Almaguer St	Guadalupe	93434
+Almahurst Row	La Jolla	92037
+Almahurst Street	Rowland Heights	91748
+Almanac St	Hemet	92543
+Almandera Ct	Napa	94559
+Almandine Way	Jurupa Valley	92509
+Almandor Cir	Chico	95926
+Almanera Ln	Sacramento	95828
+Almanor Ave	Hesperia	92344
+Almanor Ave	Menlo Park	94025
+Almanor Ave	South San Francisco	94080
+Almanor Ave	Sunnyvale	94085
+Almanor Ave	Sunnyvale	94086
+Almanor Ci	Stockton	95219
+Almanor Ct	Discovery Bay	94505
+Almanor Ct	Lafayette	94549
+Almanor Ct	Moreno Valley	92551
+Almanor Ct	San Jose	95132
+Almanor Dr	Discovery Bay	94505
+Almanor Dr	Tracy	95304
+Almanor Drive	Vacaville	95687
+Almanor Ln	Lafayette	94549
+Almanor Ln	Palo Alto	94303
+Almanor Road	West Sacramento	95691
+Almanor St	Brentwood	94513
+Almanor St	Oxnard	93030
+Almanor St	Oxnard	93036
+Almanor St	Petaluma	94954
+Almanor Street	West Covina	91792
+Almanor Way	Galt	95632
+Almanor Way	Oxnard	93030
+Almanor Way	San Diego	92127
+Almansa Ct	Murrieta	92562
+Almansa Ct	San Jose	95127
+Almansa Way	Perris	92571
+Almanza Way	Indio	92203
+Almanzora	Newport Beach	92657
+Almar	Santa Cruz	95060
+Almar Avenue	Pacific Palisades	90272
+Almar Dr	Napa	94558
+Almar Pky	Santa Rosa	95403
+Almar Plaza	Pacific Palisades	90272
+Almar St	Concord	94518
+Almar St	Riverside	92505
+Almar St	Simi Valley	93063
+Almara Ln	Laguna Niguel	92677
+Almara Plz	Ybl	92886
+Almara Plz	Yorba Linda	92886
+Almarida Dr	Campbell	95008
+Almarie Way	Hemet	92544
+Almarosa Avenue	Torrance	90505
+Almas Ln	Orangevale	95662
+Almata Ave	Bakersfield	93307
+Almaterra Dr	Perris	92571
+Almayo Ave	San Diego	92117
+Almayo Avenue	Los Angeles	90064
+Almayo Ct	San Diego	92117
+Almaz Ave	Fair Oaks	95628
+Almazan Road	Woodland Hills	91364
+Almazon St	San Diego	92129
+Almeda Del Monte	Wildomar	92595
+Almelo Ln	Huntington Beach	92649
+Almelo Ln	Huntington Beach	92649-4618
+Almelo Ln	Huntington Beach	92649-4619
+Almelo Ln	Huntington Beach	92649-4620
+Almelo Ln	Huntington Beach	92649-4621
+Almelo Ln	Huntington Beach	92649-4622
+Almelo Ln	Huntington Beach	92649-4623
+Almena	Santa Cruz	95060
+Almena	Santa Cruz	95062
+Almena Avenue	Rowland Heights	91748
+Almenar Dr	Greenbrae	94904
+Almenar St	Millbrae	94030
+Almendia Ct	Chico	95926
+Almendia Dr	Chico	95926
+Almendra	Mission Viejo	92691
+Almendra Ave	Bakersfield	93309
+Almendra Ave	Los Gatos	95030
+Almendra Ct	Bakersfield	93309
+Almendra Ct	Concord	94518
+Almendra Ct	Fallbrook	92028
+Almendra Ct	Paso Robles	93446
+Almendra Dr	Oxnard	93036
+Almendra Drive	Valencia	91355
+Almendra Ln	Los Altos	94022
+Almendra Pl	Oxnard	93036
+Almendra Road	Yuba City	95993
+Almendra Way	Victorville	92392
+Almendral Ave	Atherton	94027
+Almendral Ct	Truckee	96161
+Almendro Ct	Camarillo	93010
+Almendro Ct	Modesto	95356
+Almendro Ln	Modesto	95356
+Almendro Ln	Morgan Hill	95037
+Almendro Ln	San Diego	92127
+Almendro Way	Camarillo	93010
+Almer Rd	Burlingame	94010
+Almer Rd	Williams	95987
+Almeria	Irvine	92614
+Almeria	La Quinta	92253
+Almeria Ave	El Granada	94018
+Almeria Ave	Fontana	92335
+Almeria Ave	Fontana	92336
+Almeria Avenue	Winters	95694
+Almeria Ct	Fontana	92335
+Almeria Ct	La Jolla	92037
+Almeria Ct	Rohnert Park	94928
+Almeria Ct	Vista	92081
+Almeria Dr	Hayward	94544
+Almeria Dr	Modesto	95356
+Almeria Dr	San Jose	95123
+Almeria Ln	Bre	92821
+Almeria Place	Winters	95694
+Almeria St	Corona	92879
+Almeria Street	Davis	95616
+Almeria Street	San Pedro	90731
+Almeria Way	Palmdale	93552
+Almeria Way	San Ramon	94509
+Almeria Way	San Ramon	94583
+Almertens Place	Hawthorne	90250
+Almertens Place	Inglewood	90303
+Almetz Circle	Sylmar	91342
+Almetz Street	Sylmar	91342
+Almeza Avenue	Rowland Heights	91748
+Almidor Avenue	Woodland Hills	91364
+Alminar Avenue	La Canada Flintridge	91011
+Almint Way	Menifee	92585
+Almira	Laguna Niguel	92677
+Almira Ave	Fullerton	92831
+Almira Park Way	Paso Robles	93446
+Almira Road	South Gate	90280
+Almo Ct	Galt	95632
+Almo Street	Pico Rivera	90660
+Almoloya Drive	Pacific Palisades	90272
+Almon Dr	Thousand Oaks	91362
+Almona Way	Valley Center	92082
+Almond	Cabazon	92230
+Almond	Oak View	93022
+Almond	Watsonville	95076
+Almond Alley	Altadena	91001
+Almond Av	Los Altos	94022
+Almond Av	Manteca	95337
+Almond Av	Santa Barbara	93101
+Almond Ave	Arbuckle	95912
+Almond Ave	Biggs	95917
+Almond Ave	Chino	91708
+Almond Ave	Concord	94520
+Almond Ave	Fair Oaks	95662
+Almond Ave	Fontana	92335
+Almond Ave	Fontana	92337
+Almond Ave	Kerman	93630
+Almond Ave	Los Altos	94022
+Almond Ave	Los Altos	94022-2314
+Almond Ave	Manteca	95337
+Almond Ave	Modesto	95354
+Almond Ave	Napa	94558
+Almond Ave	Oak View	93022
+Almond Ave	Orangevale	95662
+Almond Ave	Oroville	95966
+Almond Ave	Patterson	95363
+Almond Ave	Rancho Cucamonga	91701
+Almond Ave	Rancho Cucamonga	91739
+Almond Ave	Redding	96001
+Almond Ave	Redlands	92374
+Almond Ave	Sanger	93657
+Almond Ave	Sbco	92374
+Almond Ave	Seal Beach	90740
+Almond Ave	South San Francisco	94080
+Almond Ave	Turlock	95380
+Almond Ave	Walnut Creek	94596
+Almond Avenue	Atwater	95301
+Almond Avenue	Long Beach	90802
+Almond Avenue	Long Beach	90813
+Almond Avenue	Merced	95340
+Almond Avenue	Merced	95341
+Almond Avenue	Monrovia	91016
+Almond Avenue	Palmdale	93551
+Almond Avenue	Vallejo	94589
+Almond Avenue	West Linda	95961
+Almond Avenue	Winton	95388
+Almond Blossom Ct	Los Gatos	95032
+Almond Blossom Ct	Modesto	95356
+Almond Blossom Dr	Templeton	93465
+Almond Blossom Dr	Tracy	95376
+Almond Blossom Ln	Los Gatos	95032
+Almond Blossom Ln	Roseville	95747
+Almond Blossom Ln	San Jose	95124
+Almond Blossom Rd	Templeton	93465
+Almond Bluff Ct	Orangevale	95662
+Almond Cir	Lakeside	92040
+Almond Cir	Murrieta	92563
+Almond Creek Dr	Bakersfield	93311
+Almond Crest Avenue	Merced	95301
+Almond Crest Ct	Paso Robles	93446
+Almond Ct	Chowchilla	93610
+Almond Ct	Corona	92883
+Almond Ct	East Palo Alto	94303
+Almond Ct	Galt	95632
+Almond Ct	Hollister	95023
+Almond Ct	Kerman	93630
+Almond Ct	Lemoore	93245
+Almond Ct	Loma Linda	92354
+Almond Ct	Novato	94947
+Almond Ct	Rancho Cucamonga	91737
+Almond Ct	Ripon	95366
+Almond Ct	San Rafael	94903
+Almond Ct	San Ramon	94583
+Almond Ct	Santa Rosa	95409
+Almond Ct	Walnut Creek	94596
+Almond Dr	Bakersfield	93308
+Almond Dr	Brentwood	94513
+Almond Dr	Colton	92324
+Almond Dr	Fontana	92337
+Almond Dr	Hollister	95023
+Almond Dr	Lodi	95240
+Almond Dr	Oakley	94561
+Almond Dr	Oxnard	93036
+Almond Dr	Paso Robles	93446
+Almond Dr	Perris	92571
+Almond Dr	San Jose	95148
+Almond Dr	Templeton	93465
+Almond Dr	Wildomar	92595
+Almond Drive	Atwater	95301
+Almond Drive	Live Oak	95953
+Almond Drive	Los Banos	93635
+Almond Drive	Winters	95694
+Almond Falls Way	Rancho Cordova	95742
+Almond Glen Avenue	Livingston	95334
+Almond Grove Cir	Murrieta	92562
+Almond Grove Ct	Antelope	95843
+Almond Grove Ct	Chico	95973
+Almond Grove Ct	Eastvale	92880
+Almond Grove Ct	Tustin	92780
+Almond Grove Ln	Bakersfield	93312
+Almond Grove Ln	Ceres	95307
+Almond Hill Ct	Los Gatos	95032
+Almond Hill Ct	Orangevale	95662
+Almond Hill Way	Fallbrook	92028
+Almond Joy Ct	Lakeside	92040
+Almond Knoll Ct	Granite Bay	95746
+Almond Lane	Beale Afb	95903
+Almond Lane	Davis	95618
+Almond Ln	Clearlake Oaks	95423
+Almond Ln	Oakley	94561
+Almond Ln	Santa Maria	93458
+Almond Ln	Simi Valley	93065
+Almond & Mountain View NW	San Bernardino	92408
+Almond Oaks Ct	Orangevale	95662
+Almond Orchard Dr	Morgan Hill	95037
+Almond Orchard Ln	San Diego	92131
+Almond Orchard Ln	San Ramon	94583
+Almond Orchard Road	Live Oak	95953
+Almond Orchard Wy	Lathrop	95330
+Almond Pl	Newport Beach	92660
+Almond Ranch Rd	Roseville	95747
+Almond Rd	Lakeside	92040
+Almond Rd	San Marcos	92078
+Almond Springs Dr	Paso Robles	93446
+Almond St	Adelanto	92301
+Almond St	Antioch	94509
+Almond St	Armona	93202
+Almond St	Auburn	95603
+Almond St	Banning	92220
+Almond St	Brentwood	94513
+Almond St	Cabazon	92230
+Almond St	Chico	95928
+Almond St	Fallbrook	92028
+Almond St	Huron	93234
+Almond St	Irvine	92606
+Almond St	Martinez	94553
+Almond St	Paradise	95969
+Almond St	Parlier	93648
+Almond St	Paso Robles	93446
+Almond St	Rancho Cucamonga	91701
+Almond St	Rancho Cucamonga	91737
+Almond St	Riverside	92501
+Almond St	Rohnert Park	94928
+Almond St	Roseville	95678
+Almond St	San Luis Obispo	93405
+Almond St	Selma	93662
+Almond St	Tustin	92782
+Almond St	Wildomar	92595
+Almond St #100	Auburn	95603
+Almond St #110	Auburn	95603
+Almond St #200	Auburn	95603
+Almond St #210	Auburn	95603
+Almond Street	Dos Palos	93620
+Almond Street	La Verne	91750
+Almond Street	Suisun City	94585
+Almond Street	Vacaville	95688
+Almond Street	West Sacramento	95691
+Almond Street	Yuba City	95991
+Almond Tree Ct	Antioch	94509
+Almond Tree Ct	Simi Valley	93065
+Almond Tree Ln	Irvine	92612
+Almond Tree Ln	North Highlands	95660
+Almond Tree Ln	Wildomar	92595
+Almond Tree Path	Riverside	92504
+Almond Tree Pl	Modesto	95356
+Almond Tree Pl	Upland	91784
+Almond Tree St	Hemet	92545
+Almond Valley Dr	Modesto	95356
+Almond Valley Way	Lancaster	93536
+Almond View Ct	Durham	95938
+Almond View Ct	Orangevale	95662
+Almond Vista Ct	Chico	95926
+Almond Way	Banning	92220
+Almond Way	Carmichael	95608
+Almond Way	Healdsburg	95448
+Almond Way	Homewood	96141
+Almond Way	Morgan Hill	95037
+Almond Wood Dr	Oakdale	95361
+Almondcrest Ct	Oakdale	95361
+Almondcrest St	Oakdale	95361
+Almondine Dr	Garden Grove	92845
+Almondridge Dr	Antioch	94509
+Almondtree Cir	Oakley	94561
+Almondtree Court	Dixon	95620
+Almondtree Ln	Oakley	94561
+Almondwillow Way	Elk Grove	95624
+Almondwood	Lake Forest	92630
+Almondwood	Lake Forest	92630-7407
+Almondwood Ave	Citrus Heights	95610
+Almondwood Avenue	Lancaster	93535
+Almondwood Cir	Bakersfield	93314
+Almondwood Ct	Concord	94519
+Almondwood Ct	Menifee	92584
+Almondwood Dr	Antioch	94509
+Almondwood Dr	Corona	92883
+Almondwood Dr	Riverbank	95367
+Almondwood Drive	Livingston	95334
+Almondwood Lane	Merced	95340
+Almondwood Ln	Stockton	95210
+Almondwood Pl	Lodi	95240
+Almondwood Pl	Oakley	94561
+Almondwood St	Fullerton	92835
+Almondwood St	La Habra	90631
+Almondwood Way	Fairfield	94534
+Almondwood Way	San Diego	92130
+Almondwood Way	San Jose	95120
+Almont Ct	Bakersfield	93309
+Almont Drive	Los Angeles	90048
+Almont Street	Los Angeles	90032
+Almont Way	Menifee	92585
+Almonte	La Quinta	92253
+Almonte Blvd	Mill Valley	94941
+Almonte Pl	Chula Vista	91910
+Almora Ave	Sacramento	95838
+Almora Road	Nevada City	95959
+Almora St	Temecula	92592
+Almosa Park Dr	Oceanside	92057
+Almquist Dr	Oroville	95966
+Almsbury Dr	Salida	95368
+Almside Dr	Tustin	92780
+Almy Ave	Oroville	95966
+Almy Ave	Palermo	95966
+Almyra Rd	El Cajon	92019

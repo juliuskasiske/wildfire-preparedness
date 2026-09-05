@@ -1,0 +1,9 @@
+Monmouth Avenue	Los Angeles	90007
+Monmouth Ct	Elk Grove	95758
+Monmouth Ct	Walnut Creek	94598
+Monmouth Dr	Milpitas	95035
+Monmouth Dr	San Diego	92109
+Monmouth Dr	Ventura	93001
+Monmouth Ln	Ventura	93001
+Monmouth Rd	Pinon Hills	92372
+Monmouth St	Fort Irwin	92310

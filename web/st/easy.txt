@@ -1,0 +1,59 @@
+Easy	Aptos	95003
+Easy	Santa Cruz	95060
+Easy Avenue	Long Beach	90810
+Easy Court	Springville	93265
+Easy Ct	Madera	93637
+Easy Dr	Running Springs	92382
+Easy Live'N Rd	Concow	95965
+Easy Ln	Nipomo	93444
+Easy Ln	Novato	94947
+Easy Ln	Weimar	95713
+Easy Pl	Carlsbad	92011
+Easy Slope Road	Soda Springs	95728
+Easy St	Alamo	94507
+Easy St	Apple Valley	92308
+Easy St	Arroyo Grande	93420
+Easy St	Bakersfield	93308
+Easy St	Bella Vista	96008
+Easy St	Blythe	92225
+Easy St	Buellton	93427
+Easy St	Carlsbad	92011
+Easy St	Chino	91710
+Easy St	Desert Hot Springs	92241
+Easy St	Hanford	93230
+Easy St	Hyampom	96046
+Easy St	Knightsen	94548
+Easy St	Lathrop	95330
+Easy St	Morgan Hill	95037
+Easy St	Mountain View	94043
+Easy St	Needles	92363
+Easy St	Palm Desert	92211
+Easy St	Paradise	95969
+Easy St	Paso Robles	93446
+Easy St	Pinon Hills	92372
+Easy St	Pioneertown	92268
+Easy St	Redding	96003
+Easy St	Riverside	92505
+Easy St	Running Springs	92382
+Easy St	San Diego	92105
+Easy St	San Marcos	92069
+Easy St	Santa Rosa	95407
+Easy St	Simi Valley	93065
+Easy St	Twentynine Palms	92277
+Easy St	Willits	 
+Easy St	Ybl	92886
+Easy St	Yorba Linda	92886
+Easy Street	Acton	93510
+Easy Street	El Monte	91731
+Easy Street	Lancaster	93535
+Easy Street	Los Angeles	90042
+Easy Street	Merced	95340
+Easy Street	Penn Valley	95946
+Easy Street	Virginia Lakes	93517
+Easy Street	Yreka	96097
+Easy Stroll Ln	Chula Vista	91915
+Easy Way	Auburn	95603
+Easy Way	Carmichael	95608
+Easy Way	Colfax	95713
+Easy Way	Garden Grove	92840
+Easy Way	Simi Valley	93065

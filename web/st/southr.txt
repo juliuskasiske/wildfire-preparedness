@@ -1,0 +1,32 @@
+Southridge Avenue	Los Angeles	90043
+Southridge Boulevard	Sutter	95982
+Southridge Cir	Palm Springs	92264
+Southridge Ct	Concord	94518
+Southridge Ct	Post Mountain	96041
+Southridge Ct	San Jose	95138
+Southridge Ct	San Mateo	94402
+Southridge Dr	Auburn	95603
+Southridge Dr	Brea	92821
+Southridge Dr	Hollister	95023
+Southridge Dr	Modesto	95350
+Southridge Dr	Oak Park	91377
+Southridge Dr	Palm Springs	92264
+Southridge Dr	Petaluma	94954
+Southridge Dr	Rancho Cucamonga	91737
+Southridge Dr	Richmond	94806
+Southridge Dr	Riverside	92506
+Southridge Dr	Santa Rosa	95403
+Southridge Dr	Tiburon	94920
+Southridge Drive	Penn Valley	95946
+Southridge East	Tiburon	94920
+Southridge Ln	Nipomo	93444
+Southridge Rd	Oceanside	92056
+Southridge Rd	Post Mountain	96041
+Southridge Road	Sutter	95982
+Southridge Trl	Palm Desert	92260
+Southridge Way	Daly City	94014
+Southridge Way	Oceanside	92056
+Southridge Way	San Diego	92131
+Southridge West	Tiburon	94920
+Southrim St	Thousand Oaks	91362
+Southrridge Dr	Oak Park	91377

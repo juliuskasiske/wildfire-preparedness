@@ -1,0 +1,90 @@
+Oakdale	Aptos	95003
+Oakdale	Irvine	92604
+Oakdale Ave	Corte Madera	94925
+Oakdale Ave	El Cajon	92019
+Oakdale Ave	El Cajon	92021
+Oakdale Ave	Fullerton	92831
+Oakdale Ave	Lucerne Valley	92356
+Oakdale Ave	Mill Valley	94941
+Oakdale Ave	San Francisco	94124
+Oakdale Ave	San Rafael	94901
+Oakdale Avenue	Chatsworth	91311
+Oakdale Avenue	Monrovia	91016
+Oakdale Avenue	Northridge	91324
+Oakdale Avenue	Pasadena	91107
+Oakdale Avenue	Winnetka	91306
+Oakdale Avenue	Woodland Hills	91364
+Oakdale Avenue	Woodland Hills	91367
+Oakdale Canyon Lane	Canyon Country	91387
+Oakdale Canyon Road	Lake Hughes	93532
+Oakdale Cir	Adelanto	92301
+Oakdale Cir	Simi Valley	93063
+Oakdale Court	Fairfield	94534
+Oakdale Ct	Redding	96002
+Oakdale Ct	Rocklin	95677
+Oakdale Ct	Roseville	95661
+Oakdale Dr	Bakersfield	93309
+Oakdale Dr	Garden Grove	92844
+Oakdale Dr	Los Gatos	95032
+Oakdale Dr	Mariposa	95338
+Oakdale Dr	Mckinleyville	95519
+Oakdale Dr	Perris	92570
+Oakdale Dr	Rancho Cucamonga	91730
+Oakdale Dr	Temecula	92591
+Oakdale Drive	Claremont	91711
+Oakdale Drive	Sierra Madre	91024
+Oakdale Lane	Arcadia	91006
+Oakdale Ln	El Cajon	92021
+Oakdale Ln	Fillmore	93015
+Oakdale Ln	Fontana	92336
+Oakdale Ln	Huntington Beach	92648
+Oakdale Ln	Huntington Beach	92648-5572
+Oakdale Ln	Huntington Beach	92648-5573
+Oakdale Ln	Lemoore	93245
+Oakdale Ln	Redding	96002
+Oakdale Ln	Riverside	92508
+Oakdale Ln	Rocklin	95677
+Oakdale Pl	Pittsburg	94565
+Oakdale Pl	Santa Paula	93060
+Oakdale Ranch Lane	Madison	95653
+Oakdale Ranch Road	Esparto	95627
+Oakdale Ranch Road	Esparto	95653
+Oakdale Rd	Chino Hills	91709
+Oakdale Rd	East Palo Alto	94303
+Oakdale Rd	Hillsborough	94010
+Oakdale Rd	Menifee	92584
+Oakdale Rd	Modesto	95350
+Oakdale Rd	Modesto	95354
+Oakdale Rd	Modesto	95355
+Oakdale Rd	Modesto	95357
+Oakdale Rd	Paso Robles	93446
+Oakdale Rd	Riverbank	95357
+Oakdale Rd	Riverbank	95367
+Oakdale Road	Ballico	95303
+Oakdale Road	Snelling	95369
+Oakdale Road	Winton	95388
+Oakdale St	Chico	95928
+Oakdale St	Corona	92880
+Oakdale St	Eastvale	92880
+Oakdale St	Folsom	95630
+Oakdale St	Montclair	91763
+Oakdale St	Redwood City	94062
+Oakdale St	Santee	92071
+Oakdale Street	Pasadena	91106
+Oakdale Street	Pasadena	91107
+Oakdale Street	West Covina	91790
+Oakdale Waterford Hwy	Oakdale	95361
+Oakdale Waterford Hwy	Waterford	95386
+Oakdale Way	San Jose	95117
+Oakdel Ct	Yucaipa	92399
+Oakdell Dr	Menlo Park	94025
+Oakdell Lane	Studio City	91604
+Oakdell Ln	Coarsegold	93614
+Oakdell Pl	Cupertino	95014
+Oakdell Pl	San Jose	95117
+Oakdell Road	Studio City	91604
+Oakdell St	Moreno Valley	92553
+Oakden Dr	San Diego	92154
+Oakden Drive	Los Angeles	90046
+Oakdene Ct	Walnut Creek	94596
+Oakdyke Avenue	La Habra	90631

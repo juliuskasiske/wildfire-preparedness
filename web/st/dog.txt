@@ -1,0 +1,199 @@
+Dog Aly	Sacramento	95820
+Dog Bar Rd	Colfax	95713
+Dog Bar Road	Grass Valley	95945
+Dog Bar Road	Grass Valley	95949
+Dog Creek Lane	Verdi	89439
+Dog Creek Rd	Lakehead	96051
+Dog Gone Alley	Woodland	95695
+Dog Hobble Ct	Roseville	95747
+Dog Hobble Wy	Roseville	95747
+Dog Iron Ln	Pioneertown	92268
+Dog Iron Ln	Rimrock	92268
+Dog Leg Cir	Temecula	92591
+Dog Leg Dr	Chico	95928
+Dog Patch Ln	Sonora	95370
+Dog Valley Road	Truckee	96161
+Dog Valley Road	Verdi	89439
+Dogaway Dr	San Jose	95111
+Doggett Creek Road	Klamath River	96050
+Doggie Trl	Joshua Tree	92252
+Dogie Ct	San Ramon	94583
+Dogie Pl	Canyon Lake	92587
+Dogtown	Coulterville	95311
+Dogtown Rd	Coulterville	95311
+Dogtown Rd	Greeley Hill	95311
+Dogtown Rd	Magalia	95954
+Dogwood	Benicia	94510
+Dogwood	Boulder Creek	95006
+Dogwood	Brawley	92227
+Dogwood	Calexico	92231
+Dogwood	El Centro	92243
+Dogwood	Imperial	92251
+Dogwood	Lake Forest	92630
+Dogwood	Rancho Santa Margarita	92688
+Dogwood	Shaver Lake	93664
+Dogwood	Watsonville	95076
+Dogwood	West Covina	91792
+Dogwood Ave	Chino	91710
+Dogwood Ave	Fountain Valley	92708
+Dogwood Ave	Lemoore	93245
+Dogwood Ave	Morro Bay	93442
+Dogwood Ave	Seal Beach	90740
+Dogwood Avenue	Tulare	93274
+Dogwood Bend	Meadow Vista	95722
+Dogwood Blvd	El Centro	92243
+Dogwood Canyon Rd	Blue Jay	92317
+Dogwood Cir	Palm Springs	92264
+Dogwood Cir	Redding	96003
+Dogwood Cir	Riverside	92503
+Dogwood Cir	Thousand Oaks	91360
+Dogwood Cir	Winchester	92596
+Dogwood Cir	Ybl	92886
+Dogwood Cir	Yorba Linda	92886
+Dogwood Circle	Fairfield	94533
+Dogwood Court	Atwater	95301
+Dogwood Court	Delhi	95315
+Dogwood Court	Dixon	95620
+Dogwood Court	Fairfield	94533
+Dogwood Court	Merced	95348
+Dogwood Court	Santa Clarita	91350
+Dogwood Court	Stevenson Ranch	91381
+Dogwood Court	Tulare	93274
+Dogwood Court	Vacaville	95687
+Dogwood Creek Dr	Bass Lake	93604
+Dogwood Ct	Adelanto	92301
+Dogwood Ct	Brea	92821
+Dogwood Ct	Chino	91710
+Dogwood Ct	Corcoran	93212
+Dogwood Ct	Corona	92883
+Dogwood Ct	El Centro	92243
+Dogwood Ct	Firebaugh	93622
+Dogwood Ct	Fontana	92337
+Dogwood Ct	Hayward	94544
+Dogwood Ct	Hercules	94547
+Dogwood Ct	Hollister	95023
+Dogwood Ct	Napa	94558
+Dogwood Ct	Novato	94947
+Dogwood Ct	Oceanside	92056
+Dogwood Ct	Petaluma	94952
+Dogwood Ct	Pine Grove	95665
+Dogwood Ct	Post Mountain	96041
+Dogwood Ct	Poway	92064
+Dogwood Ct	San Jose	95128
+Dogwood Ct	San Rafael	94903
+Dogwood Ct	San Ramon	94583
+Dogwood Ct	Santa Barbara Unincorporated	93455
+Dogwood Ct	Santa Maria	93455
+Dogwood Ct	Stockton	95210
+Dogwood Ct	Walnut Creek	94598
+Dogwood Ct	Winchester	92596
+Dogwood Dr	Big Bear Lake	92315
+Dogwood Dr	Buellton	93247
+Dogwood Dr	Buellton	93427
+Dogwood Dr	Cedar Glen	92321
+Dogwood Dr	Corona	92882
+Dogwood Dr	Denair	95316
+Dogwood Dr	El Centro	92243
+Dogwood Dr	Forest Falls	92339
+Dogwood Dr	Hesperia	92344
+Dogwood Dr	Hesperia	92345
+Dogwood Dr	Huntington Beach	92648
+Dogwood Dr	Huntington Beach	92648-6705
+Dogwood Dr	Huntington Beach	92648-6706
+Dogwood Dr	Huntington Beach	92648-6707
+Dogwood Dr	Huntington Beach	92648-6708
+Dogwood Dr	Idyllwild	92549
+Dogwood Dr	North Fork	93643
+Dogwood Dr	Oxnard	93036
+Dogwood Dr	Sanger	93657
+Dogwood Dr	Santa Rosa	95403
+Dogwood Dr	Shingletown	96088
+Dogwood Dr	Twain Harte	95383
+Dogwood Dr	Ventura	93004
+Dogwood Dr	Walnut Creek	94598
+Dogwood Drive	La Verne	91750
+Dogwood Drive	Posey	93260
+Dogwood Drive	Weed	96094
+Dogwood Glen	Escondido	92026
+Dogwood Glen Way	Manteca	95336
+Dogwood Glen Wy	Manteca	95336
+Dogwood Gln	Escondido	92026
+Dogwood Lane	Grass Valley	95945
+Dogwood Lane	Mccloud	96057
+Dogwood Lane	Vallejo	94591
+Dogwood Lane	Woodlake	93286
+Dogwood Ln	Aliso Viejo	92656
+Dogwood Ln	Alta	95701
+Dogwood Ln	Bakersfield	93308
+Dogwood Ln	Chino Hills	91709
+Dogwood Ln	Cobb	95426
+Dogwood Ln	Escondido	92026
+Dogwood Ln	Gasquet	95543
+Dogwood Ln	Homeland	92548
+Dogwood Ln	Mad River	95552
+Dogwood Ln	Mi-Wuk	95346
+Dogwood Ln	Miranda	95554
+Dogwood Ln	Murrieta	92563
+Dogwood Ln	Paradise	95969
+Dogwood Ln	Redding	96003
+Dogwood Ln	Redway	95560
+Dogwood Ln	Willits	 
+Dogwood Ln	Willow Creek	95573
+Dogwood Ln	Yosemite	95389
+Dogwood Loop	Lincoln	95648
+Dogwood N	Irvine	92612
+Dogwood Pl	Banning	92220
+Dogwood Pl	Escondido	92026
+Dogwood Pl	Rancho Cucamonga	91739
+Dogwood Pl	San Ramon	94583
+Dogwood Place	Davis	95618
+Dogwood Place	Los Angeles	90042
+Dogwood Ranch Way	Patterson	95363
+Dogwood Rd	Bolinas	94924
+Dogwood Rd	Brawley	92227
+Dogwood Rd	Calexico	92231
+Dogwood Rd	Carlsbad	92009
+Dogwood Rd	El Centro	92243
+Dogwood Rd	Heber	92249
+Dogwood Rd	Idyllwild	92549
+Dogwood Rd	Imperial	92251
+Dogwood Rd	Mckinleyville	95519
+Dogwood Rd	Poway	92064
+Dogwood Rd	Tustin	92780
+Dogwood Rd	Wrightwood	92397
+Dogwood Rd Or 751 So Imp	Brawley	92227
+Dogwood Rd Or 761 S Impe Ave	Brawley	92227
+Dogwood Road	Grass Valley	95945
+Dogwood Road	Lake Hughes	93532
+Dogwood Road	Truckee	96161
+Dogwood S	Irvine	92612
+Dogwood St	Costa Mesa	92627
+Dogwood St	Lake Elsinore	92530
+Dogwood St	Mcclellan	95652
+Dogwood St	Murrieta	92562
+Dogwood St	Newberry Springs	92365
+Dogwood St	San Bernardino	92404
+Dogwood St	San Jacinto	92583
+Dogwood St	Santa Paula	93060
+Dogwood St	Simi Valley	93065
+Dogwood St	Trona	93562
+Dogwood St	Truckee	96161
+Dogwood St	Westminster	92683
+Dogwood Street	Dinuba	93618
+Dogwood Street	Truckee	96161
+Dogwood Ter	Willits	 
+Dogwood Terr	Willits	 
+Dogwood Trl	Yucaipa	92399
+Dogwood Way	Antioch	94509
+Dogwood Way	Citrus Heights	95621
+Dogwood Way	Firebaugh	93622
+Dogwood Way	Hemet	92545
+Dogwood Way	Moreno Valley	92555
+Dogwood Way	Morgan Hill	95037
+Dogwood Way	Norco	92860
+Dogwood Way	Oregon House	95962
+Dogwood Way	San Diego	92130
+Dogwood Way	Stanton	90680
+Dogwood Way	Vista	92081
+Dogwood Wy	Clearlake Oaks	95423
+Dogwood Wy	Whispering Pines	95461

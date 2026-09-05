@@ -1,0 +1,243 @@
+South W Street	Porterville	93257
+South Wabash Avenue	Glendora	91740
+South Wabash Avenue	Glendora	91741
+South Wabash Street	Glendora	91740
+South Wadley Avenue	Carson	90746
+South Wadsworth Avenue	Compton	90220
+South Wadsworth Avenue	Los Angeles	90001
+South Wadsworth Avenue	Los Angeles	90002
+South Wadsworth Avenue	Los Angeles	90011
+South Wadsworth Avenue	Los Angeles	90059
+South Wagonwheel Road	Glendora	91741
+South Walch Street	Porterville	93257
+South Waldorf Drive	Compton	90221
+South Walgrove Avenue	Los Angeles	90066
+South Walker Avenue	San Pedro	90731
+South Walker Avenue	San Pedro	90732
+South Wall Street	Carson	90746
+South Wall Street	La Habra	90631
+South Wall Street	Los Angeles	90003
+South Wall Street	Los Angeles	90011
+South Wall Street	Los Angeles	90013
+South Wall Street	Los Angeles	90014
+South Wall Street	Los Angeles	90015
+South Wall Street	Whittier	90604
+South Wallace Street	La Habra	90631
+South Wallace Street	Porterville	93257
+South Walnut Avenue	San Dimas	91773
+South Walnut Avenue	Venice	90291
+South Walnut Avenue	West Covina	91790
+South Walnut Court	Visalia	93277
+South Walnut Creek Place	West Covina	91791
+South Walnut Grove	San Gabriel	91776
+South Walnut Grove Avenue	San Gabriel	91776
+South Walnut Street	Inglewood	90301
+South Walnut Street	La Habra	90631
+South Walnut Street	Porterville	93257
+South Walter Street	Tulare	93274
+South Walton Avenue	Los Angeles	90006
+South Walton Avenue	Los Angeles	90007
+South Walton Avenue	Los Angeles	90037
+South Walton Avenue	Yuba City	95993
+South Ward Avenue	Compton	90221
+South Warehouse Street	Los Angeles	90021
+South Warren Street	Tulare	93274
+South Washington Avenue	Compton	90221
+South Washington Avenue	Glendora	91740
+South Washington Avenue	Glendora	91741
+South Washington Drive	Mount Shasta	96067
+South Washington Street	Dixon	95620
+South Washington Way	Venice	90291
+South Water Street	Carson	90745
+South Waterbury Avenue	Covina	91722
+South Waters Avenue	Pomona	91766
+South Waters Edge Way	Playa Vista	90094
+South Watney Way	Fairfield	94533
+South Watney Way	Fairfield	94534
+South Watson Court	Visalia	93277
+South Watson Street	La Habra	90631
+South Watson Street	Visalia	93277
+South Watt Way	Los Angeles	90089
+South Waukesha Street	Porterville	93257
+South Waverly Drive	Alhambra	91801
+South Way	Corte Madera	94925
+South Wedgewood Lane	La Habra	90631
+South Weed Boulevard	Weed	96094
+South Weigand Avenue	Los Angeles	90002
+South Weigand Avenue	Los Angeles	90059
+South Weiser Avenue	Carson	90745
+South Weiser Avenue	Carson	90746
+South Wellfleet Avenue	Carson	90746
+South Wellington Place	Porterville	93257
+South Wellington Road	Los Angeles	90016
+South Wellsley Court	Visalia	93277
+South Wellsley Street	Visalia	93277
+South Werdin Place	Los Angeles	90012
+South Werdin Place	Los Angeles	90014
+South Wescove Place	West Covina	91790
+South Wesley Avenue	Los Angeles	90037
+South Wesley Grove Avenue	Duarte	91010
+South Wesling Road	Tipton	93272
+South West Avenue	Merced	95341
+South West Boulevard	Los Angeles	90016
+South West Boulevard	Los Angeles	90019
+South West Boulevard	Los Angeles	90043
+South West Court	Visalia	93277
+South West Street	Porterville	93257
+South West Street	Tulare	93274
+South West Street	Visalia	93277
+South West Street	Visalia	93291
+South West Street	Yreka	96097
+South West View Street	Los Angeles	90016
+South Westboro Avenue	Alhambra	91803
+South Westchester Place	Los Angeles	90019
+South Westcott Avenue	Los Angeles	90022
+South Western Avenue	Gardena	90247
+South Western Avenue	Gardena	90248
+South Western Avenue	Gardena	90249
+South Western Avenue	Harbor City	90710
+South Western Avenue	Lomita	90717
+South Western Avenue	Los Angeles	90004
+South Western Avenue	Los Angeles	90005
+South Western Avenue	Los Angeles	90006
+South Western Avenue	Los Angeles	90018
+South Western Avenue	Los Angeles	90020
+South Western Avenue	Los Angeles	90047
+South Western Avenue	Los Angeles	90062
+South Western Avenue	Rancho Palos Verdes	90275
+South Western Avenue	San Pedro	90732
+South Western Avenue	Torrance	90501
+South Western Avenue	Torrance	90505
+South Western Street	Porterville	93257
+South Westgate Avenue	Los Angeles	90025
+South Westgate Avenue	Los Angeles	90049
+South Westgate Avenue	Los Angeles	90064
+South Westholme Avenue	Los Angeles	90025
+South Westlake Avenue	Los Angeles	90006
+South Westlake Avenue	Los Angeles	90057
+South Westlawn Avenue	Los Angeles	90066
+South Westminster Avenue	Los Angeles	90020
+South Westmont Drive	Alhambra	91801
+South Westmoreland Avenue	Los Angeles	90004
+South Westmoreland Avenue	Los Angeles	90005
+South Westmoreland Avenue	Los Angeles	90006
+South Westmoreland Avenue	Los Angeles	90020
+South Westmoreland Boulevard	Los Angeles	90006
+South Westridge Avenue	Glendora	91740
+South Westridge Avenue	Glendora	91741
+South Westridge Road	West Covina	91791
+South Westward Avenue	Long Beach	90810
+South Westwood Avenue	Lindsay	93247
+South Westwood Boulevard	Los Angeles	90024
+South Westwood Boulevard	Los Angeles	90025
+South Westwood Boulevard	Los Angeles	90064
+South Westwood Road	Porterville	93257
+South Westwood Street	Porterville	93257
+South Wetherly Drive	Beverly Hills	90211
+South Wetherly Drive	Los Angeles	90035
+South Wetherly Drive	Los Angeles	90048
+South Weymouth Avenue	San Pedro	90731
+South Weymouth Avenue	San Pedro	90732
+South White Avenue	Compton	90221
+South White Avenue	Pomona	91766
+South White Avenue	Pomona	91768
+South White Avenue South	Compton	90221
+South White Drive	San Pedro	90731
+South White Drive	San Pedro	90732
+South Whitebook Drive	La Habra	90631
+South Whitemarsh Avenue	Compton	90220
+South Whitney Street	Tulare	93274
+South Whitney Street	Visalia	93277
+South Whitworth Road	Gustine	95322
+South Wicks Street	Sun Valley	91352
+South Wildcat Way	Porterville	93257
+South Wildwood Avenue	Glendora	91741
+South Wiley Post Avenue	Los Angeles	90045
+South Wilgar Drive	La Habra	90631
+South Willaman Drive	Beverly Hills	90211
+South Willaman Drive	Los Angeles	90048
+South Willard Avenue	San Gabriel	91776
+South Williams Avenue	Compton	90221
+South Williams Drive	Porterville	93257
+South Williamson Avenue	Los Angeles	90022
+South Willis Court	Visalia	93277
+South Willis Street	Visalia	93277
+South Willis Street	Visalia	93291
+South Willow Avenue	Compton	90221
+South Willow Avenue	Glendora	91740
+South Willow Avenue	La Puente	91746
+South Willow Avenue	West Covina	91790
+South Willowbrook Avenue	Compton	90220
+South Willowbrook Avenue	Compton	90222
+South Willowbrook Avenue	Los Angeles	90059
+South Wilmington Avenue	Carson	90745
+South Wilmington Avenue	Carson	90746
+South Wilmington Avenue	Compton	90220
+South Wilmington Avenue	Compton	90222
+South Wilmington Avenue	Long Beach	90810
+South Wilmington Avenue	Los Angeles	90002
+South Wilmington Avenue	Los Angeles	90059
+South Wilshire Place	Los Angeles	90005
+South Wilshire Place	Los Angeles	90010
+South Wilson Avenue	Covina	91724
+South Wilson Avenue	Dinuba	93618
+South Wilson Avenue	Pasadena	91106
+South Wilson Avenue	Pasadena	91126
+South Wilson Drive	West Covina	91791
+South Wilson Street	Los Angeles	90021
+South Wilton Drive	Los Angeles	90004
+South Wilton Place	Hawthorne	90250
+South Wilton Place	Los Angeles	90004
+South Wilton Place	Los Angeles	90005
+South Wilton Place	Los Angeles	90010
+South Wilton Place	Los Angeles	90018
+South Wilton Place	Los Angeles	90019
+South Wilton Place	Los Angeles	90020
+South Wilton Place	Los Angeles	90047
+South Wilton Place	Los Angeles	90062
+South Winchester Avenue	Alhambra	91801
+South Winchester Avenue	Alhambra	91803
+South Wind	The Sea Ranch	95497
+South Wind Court	Visalia	93292
+South Windsor Boulevard	Los Angeles	90004
+South Windsor Boulevard	Los Angeles	90005
+South Windsor Boulevard	Los Angeles	90019
+South Windsor Boulevard	Los Angeles	90020
+South Windward Way	San Pedro	90732
+South Winston Avenue	West Covina	91791
+South Winton Avenue	La Puente	91744
+South Wisconsin Place	Los Angeles	90037
+South Wisconsin Street	Los Angeles	90007
+South Wisconsin Street	Los Angeles	90037
+South Wisconsin Street	Porterville	93257
+South Witmer Street	Los Angeles	90017
+South Witmer Street	Los Angeles	90026
+South Woo Road	Los Banos	93635
+South Wood Ln	Mckinleyville	95519
+South Woodacre Lane	Monrovia	91016
+South Woodberry Lane	La Puente	91746
+South Woodburn Drive	Los Angeles	90049
+South Woodgate Drive	West Covina	91792
+South Woodland Avenue	Woodlake	93286
+South Woodland Court	Visalia	93277
+South Woodland Street	Visalia	93277
+South Woodlawn Avenue	Los Angeles	90003
+South Woodlawn Avenue	Los Angeles	90011
+South Woodmont Place	La Habra	90631
+South Woodruff Avenue	Los Angeles	90024
+South Woods Avenue	Los Angeles	90022
+South Woods Court	La Habra	90631
+South Woods Place	Los Angeles	90022
+South Woodworth Avenue	Inglewood	90303
+South Wooster Avenue	Los Angeles	90056
+South Wooster Street	Los Angeles	90035
+South Workman Street	San Fernando	91340
+South Worthy Drive	Glendora	91741
+South Wright Road	Compton	90221
+South Wright Road	Lynwood	90262
+South Wright Street	Dinuba	93618
+South Wright Street	Los Angeles	90015
+South Wright Way	Tulare	93274
+South Wycliff Avenue	Rancho Palos Verdes	90275
+South Wycliff Avenue	San Pedro	90732
+South Wyman Avenue	Los Angeles	90022

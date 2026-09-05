@@ -1,0 +1,192 @@
+West G Street	Benicia	94510
+West G Street	Los Banos	93635
+West G Street	Merced	95348
+West G Street	Wilmington	90744
+West Gabrielino Court	Altadena	91001
+West Gage Avenue	Los Angeles	90003
+West Gage Avenue	Los Angeles	90044
+West Gage Avenue	Los Angeles	90047
+West Gail Avenue	Tulare	93274
+West Gaillard Street	Glendora	91740
+West Gain Street	Pacoima	91331
+West Gain Street	Sylmar	91342
+West Galavan Street	Carson	90745
+West Galen Drive	La Habra	90631
+West Galewood Street	Sherman Oaks	91423
+West Galewood Street	Studio City	91604
+West Galvez Drive	Los Angeles	90026
+West Galway Lane	Porter Ranch	91326
+West Garden Avenue	Los Angeles	90039
+West Garden Avenue	Porterville	93257
+West Garden Court	Porterville	93257
+West Garden Lane	Porterville	93257
+West Garden Place	Porterville	93257
+West Gardena Boulevard	Gardena	90247
+West Gardena Boulevard	Gardena	90248
+West Garfield Avenue	Glendale	91204
+West Garfield Avenue	Glendale	91205
+West Garlin Court	Farmersville	93223
+West Garrett Avenue	Farmersville	93223
+West Garryanna Drive	Beale Afb	95903
+West Garvey Avenue	Alhambra	91803
+West Garvey Avenue	Monterey Park	91754
+West Garvey Avenue North	West Covina	91790
+West Garvey Avenue South	West Covina	91790
+West Gaspar Court	Los Angeles	90026
+West Gate Way	San Anselmo	94960
+West Gateway Boulevard	Los Angeles	90064
+West Gault Street	Reseda	91335
+West Gault Street	Van Nuys	91406
+West Gaylord Street	Long Beach	90813
+West Geer Avenue	Hilmar	95324
+West General Street	Rancho Palos Verdes	90275
+West Geneva Place	Covina	91723
+West Geneva Street	Los Angeles	90020
+West Georgia Drive	Harbor City	90710
+West Georgius Way	Los Angeles	90068
+West Gerard Avenue	Merced	95341
+West Gerry Circle	Porterville	93257
+West Gerry Court	Porterville	93257
+West Gerry Lane	Porterville	93257
+West Gertrude Avenue	Atwater	95301
+West Ghent Street	Glendora	91740
+West Ghent Street	San Dimas	91773
+West Gibbons Avenue	Porterville	93257
+West Gibraltar Lane	Castaic	91384
+West Gibson Avenue	Porterville	93257
+West Gibson Road	Woodland	95695
+West Gibson Street	Los Angeles	90034
+West Gill Way	Los Angeles	90068
+West Gillespie Avenue	Acton	93510
+West Gilmore Avenue	Los Angeles	90066
+West Gilmore Street	Van Nuys	91401
+West Gilmore Street	Winnetka	91306
+West Gin Ling Way	Los Angeles	90012
+West Gina Drive	Carson	90745
+West Gist Avenue	Visalia	93277
+West Gladstone Street	Azusa	91702
+West Gladstone Street	Glendora	91740
+West Gladstone Street	Irwindale	91706
+West Gladstone Street	San Dimas	91773
+West Gladys Street	Compton	90220
+West Glassell Street	Los Angeles	90026
+West Glaze Avenue	Exeter	93221
+West Gleason Street	Monterey Park	91754
+West Gleason Street	Monterey Park	91755
+West Glen Alder	Los Angeles	90068
+West Glen Holly	Los Angeles	90068
+West Glen Lyn Drive	Glendora	91740
+West Glen Oak	Los Angeles	90068
+West Glen Tower	Los Angeles	90068
+West Glenarm Street	Pasadena	91105
+West Glenbarr Avenue	Los Angeles	90064
+West Glencairn Road	Los Angeles	90027
+West Glenchester Drive	Long Beach	90805
+West Glencoe Street	Compton	90220
+West Glendale Avenue	Visalia	93291
+West Glendon Way	Alhambra	91801
+West Glendon Way	Alhambra	91803
+West Glendon Way	San Gabriel	91776
+West Glenfeliz Boulevard	Los Angeles	90039
+West Glenhaven Court	Visalia	93291
+West Glenhurst Avenue	Los Angeles	90039
+West Glenmere Street	West Covina	91790
+West Glenn Avenue	Porterville	93257
+West Glenn Court	Porterville	93257
+West Glenoaks Boulevard	Glendale	91201
+West Glenoaks Boulevard	Glendale	91202
+West Glenoaks Boulevard	Glendale	91203
+West Glenoaks Boulevard	Glendale	91207
+West Glenridge Avenue	Alhambra	91801
+West Glentana Street	Covina	91722
+West Glenties Lane	Sunland	91040
+West Glenway Drive	Inglewood	90302
+West Gold Court	Beale Afb	95903
+West Golden Grove Way	Covina	91722
+West Goldleaf Circle	Los Angeles	90056
+West Golondrina Street	Woodland Hills	91364
+West Gonzales Drive	Woodland Hills	91367
+West Good Avenue	Visalia	93277
+West Goodin Avenue	Tulare	93274
+West Gordon Avenue	La Habra	90631
+West Gorgonia Street	Woodland Hills	91364
+West Gorham Avenue	Los Angeles	90049
+West Gorham Place	Los Angeles	90049
+West Gorman Post Road	Lebec	93243
+West Goshen Avenue	Los Angeles	90049
+West Goshen Avenue	Visalia	93291
+West Goss Street	Sun Valley	91352
+West Gould Avenue	Los Angeles	90046
+West Graciosa Drive	Los Angeles	90068
+West Grade Rd	Palomar Mountain	92060
+West Grafton Street	Los Angeles	90026
+West Gragmont Street	Covina	91722
+West Grand Avenue	Alhambra	91801
+West Grand Avenue	El Segundo	90245
+West Grand Avenue	Pomona	91766
+West Grand Avenue	Porterville	93257
+West Grand Avenue	San Gabriel	91776
+West Grand View Drive	Los Angeles	90046
+West Grandview Avenue	Arcadia	91006
+West Grandview Avenue	Sierra Madre	91024
+West Granite Avenue	June Lake	93529
+West Granito Drive	Los Angeles	90046
+West Grant Avenue	Winters	95694
+West Grant Road	El Nido	95317
+West Grant Street	Wilmington	90744
+West Grape Place	Los Angeles	90068
+West Grassland Court	Lancaster	93536
+West Graves Avenue	Monterey Park	91754
+West Graystone Street	Sunland	91040
+West Grayville Drive	La Habra	90631
+West Greeley Street	Tujunga	91042
+West Green Acres Drive	Porterville	93257
+West Green Acres Drive	Visalia	93291
+West Green Oak Drive	Los Angeles	90068
+West Green Oaks Drive	Visalia	93277
+West Green Street	Claremont	91711
+West Green Street	Pasadena	91105
+West Green Verdugo Drive	Sunland	91040
+West Greenbrier Lane	La Habra	90631
+West Greendale Drive	Los Angeles	90077
+West Greendale Street	Covina	91723
+West Greendale Street	West Covina	91790
+West Greenhaven Street	Covina	91722
+West Greenhedge Street	Torrance	90502
+West Greenhouse Avenue	Visalia	93277
+West Greenleaf Boulevard	Compton	90220
+West Greenleaf Boulevard	Compton	90221
+West Greenleaf Street	Sherman Oaks	91403
+West Greenock Lane	Los Angeles	90049
+West Greenwood Avenue	La Habra	90631
+West Greenwood Place	Los Angeles	90027
+West Greg Street	Farmersville	93223
+West Gregory Lane	La Habra	90631
+West Grenoble Street	Tujunga	91042
+West Gresham Street	Northridge	91325
+West Grevilla Street	Pomona	91767
+West Greystone Avenue	Monrovia	91016
+West Gridley Street	Sylmar	91342
+West Griffith Street	Gardena	90248
+West Grinnell Drive	Claremont	91711
+West Griswold Road	Covina	91722
+West Grondahl Street	Covina	91722
+West Grosvenor Street	Inglewood	90302
+West Grove Avenue	Visalia	93291
+West Grove Cir	Lake Forest	92630
+West Grove Cir	Lake Forest	92630-0000
+West Grove Cir	Lake Forest	92630-6571
+West Grove Cir	Lake Forest	92630-6572
+West Grove Cir	Lake Forest	92630-6573
+West Grove Court	Visalia	93291
+West Grove Street	Pomona	91767
+West Grovecenter Street	Covina	91722
+West Grovecenter Street	West Covina	91790
+West Grovecenter Street	West Covina	91791
+West Groverdale Street	Covina	91722
+West Grundy Way	Chatsworth	91311
+West Gun Club Road	Gustine	95322
+West Gunther Way	Long Beach	90806
+West Gurdon Avenue	San Gabriel	91775
+West Guthrie Avenue	Los Angeles	90034
+West Gwynwood Avenue	La Habra	90631

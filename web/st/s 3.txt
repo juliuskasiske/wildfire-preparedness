@@ -1,0 +1,64 @@
+S 30Th St	Richmond	94804
+S 30Th St	San Diego	92113
+S 30Th St	San Jose	95116
+S 31St St	Richmond	94804
+S 31St St	San Diego	92102
+S 31St St	San Diego	92113
+S 31St St	San Jose	95116
+S 32Nd St	Richmond	94804
+S 32Nd St	San Diego	92102
+S 32Nd St	San Diego	92113
+S 33Rd St	Richmond	94804
+S 33Rd St	San Diego	92113
+S 33Rd St	San Jose	95116
+S 34Th St	Richmond	94804
+S 34Th St	San Jose	95116
+S 35Th St	Richmond	94804
+S 35Th St	San Diego	92113
+S 36Th Ave	Avenal	93204
+S 36Th St	Richmond	94804
+S 36Th St	San Diego	92113
+S 37Th St	Richmond	94804
+S 37Th St	San Diego	92113
+S 38Th St	Richmond	94804
+S 38Th St	San Diego	92113
+S 38Th St	San Diego	92116
+S 39Th St	Richmond	94804
+S 39Th St	San Diego	92113
+S 3Rd	Brawley	92227
+S 3Rd	El Centro	92243
+S 3Rd Ave	Brawley	92227
+S 3Rd Ave	El Centro	92243
+S 3Rd Ave	Oakdale	95361
+S 3Rd Ave	Upland	91786
+S 3Rd Ave	Winterhaven	92283
+S 3Rd Dr	El Centro	92243
+S 3Rd Ln	El Centro	92243
+S 3Rd Rd	El Centro	92243
+S 3Rd St	Banning	92220
+S 3Rd St	Blythe	92225
+S 3Rd St	Brawley	92227
+S 3Rd St	Burbank	91502
+S 3Rd St	Calimesa	92320
+S 3Rd St	Campbell	95008
+S 3Rd St	Cayucos	93430
+S 3Rd St	Chowchilla	93610
+S 3Rd St	Coalinga	93210
+S 3Rd St	Colton	92324
+S 3Rd St	El Cajon	92019
+S 3Rd St	El Centro	92243
+S 3Rd St	Fortuna	95540
+S 3Rd St	Fowler	93625
+S 3Rd St	Grover Beach	93433
+S 3Rd St	Holtville	92250
+S 3Rd St	Kerman	93630
+S 3Rd St	Patterson	95361
+S 3Rd St	Patterson	95363
+S 3Rd St	Richmond	94801
+S 3Rd St	Richmond	94804
+S 3Rd St	San Jose	95112
+S 3Rd St	San Jose	95113
+S 3Rd St	Shandon	93461
+S 3Rd St	Yermo	92398
+S 3Rd Street	King City	93930
+S 3Rd Way	Brawley	92227

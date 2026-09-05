@@ -1,0 +1,131 @@
+S 10Th	El Centro	92243
+S 10Th Ave	El Centro	92243
+S 10Th Ave	Hanford	93230
+S 10Th S Ave	El Centro	92243
+S 10Th St	Chowchilla	93610
+S 10Th St	Colton	92324
+S 10Th St	El Centro	92243
+S 10Th St	Fowler	93625
+S 10Th St	Fresno	93725
+S 10Th St	Grover Beach	93433
+S 10Th St	Kerman	93630
+S 10Th St	Ramona	92065
+S 10Th St	San Jose	95112
+S 10Th St	San Jose	95192
+S 10Th St	Santa Paula	93060
+S 11 1/2 Ave	Hanford	93230
+S 11Th	Brawley	92227
+S 11Th	El Centro	92243
+S 11Th Ave	Hanford	93230
+S 11Th Ave	Upland	91786
+S 11Th Dr	El Centro	92243
+S 11Th (Or 970 Westwind Dr) St	El Centro	92243
+S 11Th Rd	Brawley	92227
+S 11Th St	Brawley	92227
+S 11Th St	Chowchilla	93610
+S 11Th St	Colton	92324
+S 11Th St	El Centro	92243
+S 11Th St	Fresno	93725
+S 11Th St	Grover Beach	93433
+S 11Th St	Kerman	93630
+S 11Th St	Richmond	94804
+S 11Th St	San Jose	95112
+S 11Th St	Santa Paula	93060
+S 12Th	El Centro	92243
+S 12Th Ave	Hanford	93230
+S 12Th Dr	El Centro	92243
+S 12Th St	Banning	92220
+S 12Th St	Chowchilla	93610
+S 12Th St	El Centro	92243
+S 12Th St	Fortuna	95540
+S 12Th St	Grover Beach	93433
+S 12Th St	Kerman	93630
+S 12Th St	Richmond	94804
+S 12Th St	San Jose	95112
+S 12Th St	San Jose	95122
+S 12Th St	Santa Paula	93060
+S 13Th	Brawley	92227
+S 13Th St	Brawley	92227
+S 13Th St	Chowchilla	93610
+S 13Th St	Grover Beach	93433
+S 13Th St	Oceano	93445
+S 13Th St	Richmond	94804
+S 13Th St	San Jose	95112
+S 13Th St	Santa Paula	93060
+S 14Th	Brawley	92227
+S 14Th	El Centro	92243
+S 14Th Ave	Brawley	92227
+S 14Th Dr	El Centro	92243
+S 14Th Pl	Brawley	92227
+S 14Th Rd	El Centro	92243
+S 14Th St	Brawley	92227
+S 14Th St	Chowchilla	93610
+S 14Th St	El Centro	92243
+S 14Th St	Grover Beach	93433
+S 14Th St	Ramona	92065
+S 14Th St	San Jose	95112
+S 15Th St	Chowchilla	93610
+S 15Th St	Fortuna	95540
+S 15Th St	Richmond	94804
+S 15Th St	San Jose	95112
+S 16Th	Brawley	92227
+S 16Th St	Banning	92220
+S 16Th St	Brawley	92227
+S 16Th St	Fortuna	95540
+S 16Th St	Grover Beach	93433
+S 16Th St	Kerman	93630
+S 16Th St	Richmond	94804
+S 16Th St	San Diego	92113
+S 16Th St	San Jose	95112
+S 17Th Ct	Kerman	93630
+S 17Th St	Kerman	93630
+S 17Th St	Richmond	94804
+S 17Th St	San Diego	92113
+S 17Th St	San Jose	95112
+S 18Th	El Centro	92243
+S 18Th Ave	El Centro	92243
+S 18Th Ave	Lemoore	93245
+S 18Th Rd	El Centro	92243
+S 18Th St	Brawley	92227
+S 18Th St	El Centro	92243
+S 18Th St	Kerman	93630
+S 18Th St	Richmond	94804
+S 18Th St	San Jose	95116
+S 19 1/2 Ave	Lemoore	93245
+S 19Th	El Centro	92243
+S 19Th Ave	Kingsburg	93631
+S 19Th Ave	Lemoore	93245
+S 19Th Dr	El Centro	92243
+S 19Th St	El Centro	92243
+S 19Th St	Kerman	93630
+S 19Th St	Richmond	94804
+S 19Th St	San Jose	95116
+S 1St	El Centro	92243
+S 1St	King City	93930
+S 1St & 102 W Olive	El Centro	92243
+S 1St Ave	Oakdale	95361
+S 1St Ave	Upland	91786
+S 1St Dr	El Centro	92243
+S 1St St	Banning	92220
+S 1St St	Blythe	92225
+S 1St St	Borrego Springs	92004
+S 1St St	Brawley	92227
+S 1St St	Burbank	91502
+S 1St St	Campbell	95008
+S 1St St	Chowchilla	93610
+S 1St St	Coalinga	93210
+S 1St St	El Centro	92243
+S 1St St	Fortuna	95540
+S 1St St	Fowler	93625
+S 1St St	Hemet	92544
+S 1St St	Kerman	93630
+S 1St St	Patterson	95363
+S 1St St	Richmond	94804
+S 1St St	San Jose	95110
+S 1St St	San Jose	95112
+S 1St St	San Jose	95113
+S 1St St	San Jose	95113-2806
+S 1St St	Shandon	93461
+S 1St St	Turlock	95380
+S 1St St  105 11	El Centro	92243
+S 1St Street	King City	93930

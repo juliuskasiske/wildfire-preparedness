@@ -1,0 +1,461 @@
+Carr	Calexico	92231
+Carr	Watsonville	95076
+Carr Ave	Aromas	95004
+Carr Ave	San Mateo	94403
+Carr Ave	Santa Rosa	95404
+Carr Avenue	Salinas	93905
+Carr Avenue Avenue	Salinas	93905
+Carr Creek Rd	Junction City	96048
+Carr Ct	Rocklin	95765
+Carr Dr	Moraga	94556
+Carr Dr	Oceanside	92056
+Carr Dr	Ventura	93001
+Carr Drive	Glendale	91205
+Carr Drive	Yuba City	95991
+Carr Hall Ln	Loomis	95650
+Carr Lindsey 0017-012 Road	Soda Springs	95728
+Carr Pl	Gilroy	95020
+Carr Place	Lewiston	96052
+Carr Ranch Rd	Moraga	94556
+Carr Rd	Calexico	92231
+Carr Rd Bldg G & 1765 St	Calexico	92231
+Carr Road	Gonzales	93926
+Carr St	Bakersfield	93309
+Carr St	San Francisco	94124
+Carr Way	Galt	95632
+Carr Way	Union City	94587
+Carrabelle Way	San Jose	95120
+Carracci Ln	Bakersfield	93306
+Carracci Ln	San Jose	95135
+Carrack	Laguna Niguel	92677
+Carrack Avenue	Wilmington	90744
+Carradale Ct	Roseville	95661
+Carradale Dr	Roseville	95661
+Carradale Way	Sacramento	95829
+Carraige Rd	Poway	92064
+Carral Lane	Vacaville	95688
+Carrando Dr	Borrego Springs	92004
+Carranza Ct	San Diego	92127
+Carranza Dr	Mission Viejo	92691
+Carranza Dr	San Diego	92127
+Carranza Lane	Santa Clarita	91350
+Carranza Ln	Huntington Beach	92647
+Carranza Ln	Huntington Beach	92647-6615
+Carranza Ln	Huntington Beach	92647-6616
+Carranza Ln	Huntington Beach	92647-6664
+Carranza Ln	Huntington Beach	92647-6670
+Carranza Ln	Huntington Beach	92647-6674
+Carrara Cir	Cypress	90630
+Carrara Ct	American Canyon	94503
+Carrara Ct	Riverside	92503
+Carrara Drive	Hacienda Heights	91745
+Carrara Drive	Palmdale	93552
+Carrara Ln	Fontana	92336
+Carrara Ln	Indio	92203
+Carrara Ln	Ripon	95366
+Carrara Place	Los Angeles	90049
+Carrara Rd	Laguna Niguel	92677
+Carrara St	Brentwood	94513
+Carrari Ct	Rancho Cucamonga	91737
+Carrari St	Rancho Cucamonga	91737
+Carrasco Way	Santa Maria	93455
+Carrasco Wy	Santa Maria	93455
+Carraway Dr	Antelope	95843
+Carrboro Ln	Modesto	95357
+Carrcroft Dr	Elk Grove	95758
+Carre Vista	Temecula	92592
+Carre Vista Rd	Temecula	92592
+Carreen Ct	Tracy	95376
+Carrelage Av	Foothill Ranch	92610-2332
+Carrelage Av	Foothill Ranch	92610-2342
+Carrelage Ln	Lake Forest	92610
+Carrell Ln	Napa	94558
+Carreon Blvd	Indio	92201
+Carreon Way	Fontana	92336
+Carrera	Aptos	95003
+Carrera	Tustin	92782
+Carrera Ct	Rancho Mirage	92270
+Carrera Ct	Redwood City	94062
+Carrera Ct	San Jose	95135
+Carrera Ct	San Jose	95148
+Carrera Ct	Spring Valley	91977
+Carrera Dr	Fontana	92337
+Carrera Dr	Mill Valley	94941
+Carrera Dr	San Jacinto	92583
+Carrera Pl	Rancho Mirage	92270
+Carrera Pl	Tracy	95377
+Carrera Pl	Victorville	92392
+Carrere St	Bakersfield	93308
+Carrerio Ln	Walnut Creek	94597
+Carreta Ct	Santee	92071
+Carreta Dr	Santee	92071
+Carreta Drive	Rowland Heights	91748
+Carreta Ln	Rancho Murieta	95683
+Carretas Dr	Mission Viejo	92691
+Carretera	San Clemente	92673
+Carretera Drive	Whittier	90605
+Carreterra Dr	San Juan Capistrano	92675
+Carrey Ave	4-Bp-1	90638
+Carrey Ave	Madera	93638
+Carrey Road	Walnut	91789
+Carrgrove Ct	Chico	95926
+Carriage	Scotts Valley	95066
+Carriage Ave	Montclair	91763
+Carriage Cir	Cupertino	95014
+Carriage Cir	Hemet	92545
+Carriage Cir	Huntington Beach	92648
+Carriage Cir	Huntington Beach	92648-1501
+Carriage Cir	Oceanside	92056
+Carriage Cir	Vista	92081
+Carriage Cir	Ybl	92886
+Carriage Cir	Yorba Linda	92886
+Carriage Court	Fairfield	94534
+Carriage Court	Palmdale	93551
+Carriage Court	Salinas	93905
+Carriage Cove Ct	San Jose	95111
+Carriage Creek Ct	Bakersfield	93311
+Carriage Ct	Alamo	94507
+Carriage Ct	Los Altos	94022
+Carriage Ct	Menlo Park	94025
+Carriage Ct	Riverside	92508
+Carriage Ct	Rohnert Park	94928
+Carriage Ct	San Diego	92130
+Carriage Ct	Santa Rosa	95403
+Carriage Ct	Turlock	95382
+Carriage Dr	Citrus Heights	95621
+Carriage Dr	Foothill Ranch	92610
+Carriage Dr	Foothill Ranch	92610-0000
+Carriage Dr	Foothill Ranch	92610-2418
+Carriage Dr	Foothill Ranch	92610-2419
+Carriage Dr	Foothill Ranch	92610-2428
+Carriage Dr	Foothill Ranch	92610-2429
+Carriage Dr	Foothill Ranch	92610-2442
+Carriage Dr	Foothill Ranch	92610-2443
+Carriage Dr	Foothill Ranch	92610-2444
+Carriage Dr	Gilroy	95020
+Carriage Dr	Granite Bay	95746
+Carriage Dr	Irvine	92602
+Carriage Dr	Lake Forest	92610
+Carriage Dr	Lodi	95242
+Carriage Dr	Morgan Hill	95037
+Carriage Dr	Norco	92860
+Carriage Dr	Rancho Cucamonga	91737
+Carriage Dr	Rancho Cucamonga	91739
+Carriage Dr	Richmond	94803
+Carriage Dr	San Marcos	92069
+Carriage Dr	Santa Clara	95050
+Carriage Dr	Santa Ynez	93463
+Carriage Dr	Walnut Creek	94598
+Carriage Drive	Palos Verdes Peninsula	90274
+Carriage Drive	Salinas	93905
+Carriage Drive	Woodland	95776
+Carriage Estates Way	Chico	95973
+Carriage Heights Cir	Poway	92064
+Carriage Heights Way	Poway	92064
+Carriage Hill Ct	Santa Barbara Unincorporated	93110
+Carriage Hill Dr	Highland	92346
+Carriage Hill Dr	Menifee	92584
+Carriage Hill Dr	San Jose	95120
+Carriage Hill Dr	Santa Barbara Unincorporated	93110
+Carriage Hill Ln	Auburn	95602
+Carriage Hill Ln	Laguna Hills	92653
+Carriage Hill Ln	Santa Barbara Unincorporated	93110
+Carriage Hills Ct	Poway	92064
+Carriage House Dr	Chino Hills	91709
+Carriage House Drive	Arcadia	91006
+Carriage House Road	Arcadia	91006
+Carriage House Road	Pasadena	91107
+Carriage House St	Manteca	95336
+Carriage Lamp Way	Morgan Hill	95037
+Carriage Lane	Atwater	95301
+Carriage Lane	Browns Valley	95918
+Carriage Lane	Grass Valley	95949
+Carriage Lane	Lancaster	93534
+Carriage Lane	Whittier	90601
+Carriage Ln	Arroyo Grande	93420
+Carriage Ln	Auburn	95603
+Carriage Ln	Chico	95926
+Carriage Ln	Corona	92878
+Carriage Ln	Corona	92880
+Carriage Ln	Cottonwood	96022
+Carriage Ln	Fallbrook	92028
+Carriage Ln	Murrieta	92563
+Carriage Ln	North Tustin	92705
+Carriage Ln	Oakdale	95361
+Carriage Ln	Pacheco	94553
+Carriage Ln	Palm Springs	92262
+Carriage Ln	Perris	92571
+Carriage Ln	Santa Rosa	95403
+Carriage Ln #A	Auburn	95603
+Carriage Oaks Ln	Auburn	95602
+Carriage Oaks Way	Antelope	95843
+Carriage Path Way	Sacramento	95814
+Carriage Pkwy	Oroville	95966
+Carriage Pl	Fillmore	93015
+Carriage Pl	Ful	92835
+Carriage Pl	Fullerton	92835
+Carriage Pl	Napa	94558
+Carriage Pl	Rancho Cucamonga	91737
+Carriage Place	Hacienda Heights	91745
+Carriage Place	Manhattan Beach	90266
+Carriage Rd	Hollister	95023
+Carriage Rd	Poway	92064
+Carriage Rd	Rancho Cucamonga	91737
+Carriage Rd	Sonora	95370
+Carriage Road	Grass Valley	95949
+Carriage Run Dr	San Diego	92130
+Carriage Sq	Oxnard	93030
+Carriage St	Aguanga	92536
+Carriage St	Bakersfield	93314
+Carriage Trail	Palm Desert	92260
+Carriage Trail Ct	Rancho Cucamonga	91739
+Carriage Trails Ct	Rancho Cucamonga	91739
+Carriage Trl	Palm Desert	92260
+Carriage Way	Antioch	94531
+Carriage Way	Corona	92878
+Carriage Way	Jackson	 
+Carriage Way	Jackson	95642
+Carriage Way	Lancaster	93536
+Carriage Way	Palmdale	93551
+Carriage Way	Pomona	91766
+Carriage Way	Vacaville	95688
+Carriagedale Row	La Jolla	92037
+Carribean Pl	San Jacinto	92583
+Carribean Way	Santee	92071
+Carrick Ave	Saratoga	95070
+Carrick Avenue	Weed	96094
+Carrick Cir	Hayward	94542
+Carrick Ct	Citrus Heights	95610
+Carrick Ct	Hayward	94542
+Carrick Ct	Pleasant Hill	94523
+Carrick Ct	Sunnyvale	94087
+Carrick Dr	Hayward	94542
+Carrick St	Riverside	92505
+Carrie Ann Lane	Penn Valley	95946
+Carrie Bethel Road	Lee Vining	93541
+Carrie Cir	San Marcos	92069
+Carrie Court	Atwater	95301
+Carrie Court	Santa Clarita	91390
+Carrie Ct	Modesto	95358
+Carrie Ct	Pleasant Hill	94523
+Carrie Drive	Grass Valley	95949
+Carrie Ellen Ct	Santee	92071
+Carrie Hayden Rd	Del Loma	96010
+Carrie Hills Lane	La Habra	90631
+Carrie Lane	Glendale	91208
+Carrie Lane	Wheatland	95692
+Carrie Lee Way	San Jose	95118
+Carrie Ln	Huntington Beach	92647
+Carrie Ln	Huntington Beach	92647-2827
+Carrie Ln	Huntington Beach	92647-2828
+Carrie Ln	Huntington Beach	92647-2829
+Carrie Ln	Huntington Beach	92647-2830
+Carrie Ln	Huntington Beach	92647-2878
+Carrie Ln	Kelseyville	95451
+Carrie Ln	La Quinta	92253
+Carrie Ln	Moreno Valley	92555
+Carrie Ln	Redlands	92373
+Carrie Place	Westlake Village	91361
+Carrie Pryor	Truckee	96161
+Carrie Rd	Hollister	95023
+Carrie Ridge Way	San Diego	92139
+Carrie St	San Jose	95112
+Carrie St	Stockton	95206
+Carrie St	Tomales	94971
+Carrie Street	West Sacramento	95605
+Carrie Way	Riverside	92501
+Carriebee Ct	North Highlands	95660
+Carrier Avenue	Los Angeles	90040
+Carrier Circle	Sierra City	96125
+Carrier Drive	Atwater	95301
+Carrier Ln	Guerneville	95446
+Carrier Parkway Ave	Bakersfield	93308
+Carriera Way	Sacramento	95828
+Carrigan Ave	Modesto	95350
+Carrigan Court	West Sacramento	95691
+Carrigan Ln	Carmichael	95608
+Carrigan Ln	Ukiah	 
+Carrigan Rd	Murrieta	92562
+Carrigan St	Turlock	95380
+Carrigane Way	Manteca	95337
+Carrigane Wy	Manteca	95337
+Carriger Hills Ln	Sonoma	95476
+Carriger Rd	Sonoma	95476
+Carriker	Soquel	95073
+Carril Ct	Monte Sereno	95030
+Carril De Maderas	San Juan Capistrano	92675
+Carrillo Ave	Montclair	91763
+Carrillo Ct	Cypress	90720
+Carrillo Ct	Fillmore	93015
+Carrillo Dr	Mission Viejo	92691
+Carrillo Drive	Los Angeles	90048
+Carrillo Pl	Chula Vista	91913
+Carrillo Rd	Murrieta	92562
+Carrillo Rd	Ojai	93023
+Carrillo Rd	Santa Barbara	93103
+Carrillo Rd	Temecula	92590
+Carrillo St	Chino	91710
+Carrillo St	Nipomo	93444
+Carrillo St	Santa Rosa	95401
+Carrillo Way	Carlsbad	92009
+Carrillo Way	La Grange	95329
+Carringan Rd	Murrieta	92562
+Carrington	Irvine	92620
+Carrington	Mission Viejo	92692
+Carrington Ci	Stockton	95210
+Carrington Cir	Los Altos Hills	94022
+Carrington Cir	Riverside	92507
+Carrington Cir	San Jose	95125
+Carrington Court	Inglewood	90305
+Carrington Court	Plumas Lake	95961
+Carrington Ct	Auburn	95603
+Carrington Ct	San Jose	95125
+Carrington Ct	San Ramon	94582
+Carrington Dr	Oakley	94561
+Carrington Dr	San Diego	92126
+Carrington Lane	Grass Valley	95949
+Carrington Lane	Vacaville	95688
+Carrington Pl	Arroyo Grande	93420
+Carrington St	Sacramento	95819
+Carrington St	Santa Rosa	95407
+Carrington Way	Tustin	92782
+Carrio Dr	Vista	92084
+Carrion Circle	Winters	95694
+Carrion Court	Winters	95694
+Carrione Court	Pomona	91766
+Carrisa Hwy	Creston	93432
+Carrisa Hwy	Santa Margarita	93453
+Carrisa Way	Sacramento	95821
+Carriso Ave	Imperial	92251
+Carriso Road	Diamond Bar	91765
+Carriso St	Jacumba	91934
+Carrison St	Berkeley	94702
+Carrissa Ave	Hesperia	92345
+Carrita Road	Malibu	90265
+Carrizal Road	Woodland Hills	91364
+Carrizal St	San Francisco	94134
+Carrizo	Lompoc	93436
+Carrizo Cir	Palm Desert	92260
+Carrizo Creek	Jacumba	91934
+Carrizo Ct	Atascadero	93422
+Carrizo Ct	Roseville	95747
+Carrizo Dr	La Jolla	92037
+Carrizo Dr	Santa Barbara	93105
+Carrizo Drive	Pomona	91767
+Carrizo Drive	Valencia	91355
+Carrizo Gorge Ct	Corona	92883
+Carrizo Gorge Rd	Jacumba	91934
+Carrizo Pl	Escondido	92027
+Carrizo Plain Way	Rancho Cordova	95742
+Carrizo Rd	Atascadero	93422
+Carrizo Rd	Mountain Center	92561
+Carrizo St	Ojai	93023
+Carrizo St	Ventucopa	93254
+Carrizo Way	La Grange	95329
+Carrmann Dr	Concord	94521
+Carro Amano Ln	Highland	92346
+Carro Dr	Sacramento	95825
+Carrol	Felton	95018
+Carrol Ave	Clearlake	95422
+Carrol Ave	Irvine	92614
+Carrol Ct	Brentwood	94513
+Carrol Ct	Loma Linda	92354
+Carrol Pl	32	94595
+Carrol Rd	Walnut Creek	94596
+Carrol St	Perris	92570
+Carroll Ave	Hayward	94544
+Carroll Ave	Sacramento	95838
+Carroll Ave	San Francisco	94124
+Carroll Avenue	Glendora	91741
+Carroll Avenue	Los Angeles	90026
+Carroll Avenue	Venice	90291
+Carroll Canyon Rd	San Diego	0
+Carroll Canyon Rd	San Diego	92121
+Carroll Canyon Rd	San Diego	92126
+Carroll Canyon Rd	San Diego	92131
+Carroll Centre Rd	San Diego	92126
+Carroll Cl	Venice	90291
+Carroll Court	Venice	90291
+Carroll Ct	Chino	91710
+Carroll Ct	Folsom	95630
+Carroll Ct	Mh	95391
+Carroll Ct	Pittsburg	94565
+Carroll Ct	San Rafael	94903
+Carroll Dr	Cathedral City	92234
+Carroll Dr	Folsom	95630
+Carroll Dr	Moraga	94556
+Carroll Dr	Pittsburg	94565
+Carroll Dr	San Jacinto	92583
+Carroll Dr	Skyforest	92385
+Carroll Drive	Altadena	91001
+Carroll Lane	Santa Clarita	91390
+Carroll Lane	Stevenson Ranch	91381
+Carroll Ln	Anderson	96007
+Carroll Ln	Escondido	92027
+Carroll Ln	Paradise	95969
+Carroll Oaks Way	San Jose	95119
+Carroll Oaks Way	San Jose	95120
+Carroll Park Dr	San Diego	92121
+Carroll Park East	Long Beach	90814
+Carroll Park North	Long Beach	90814
+Carroll Park South	Long Beach	90814
+Carroll Park West	Long Beach	90814
+Carroll Rd	Elk Grove	95757
+Carroll Rd	Petaluma	94952
+Carroll Rd	San Diego	92105
+Carroll Rd	San Diego	92121
+Carroll St	Mh	95391
+Carroll St	Perris	92570
+Carroll St	Sunnyvale	94086
+Carroll St	Susanville	96130
+Carroll Street	Vallejo	94590
+Carroll Street	Yuba City	95991
+Carroll Way	Pasadena	91107
+Carroll Way	San Diego	92121
+Carroll Way	Tustin	92780
+Carroll Way	Vacaville	95687
+Carrollton Pl	Eastvale	92880
+Carrollton Sq	San Diego	92128
+Carrolltown Dr	Huntington Beach	92646
+Carrolltown Dr	Huntington Beach	92646-5804
+Carrolltown Dr	Huntington Beach	92646-5805
+Carrolltown Dr	Huntington Beach	92646-5806
+Carrolltown Dr	Huntington Beach	92646-5808
+Carrolos Street	Acton	93510
+Carrolton Court	Palmdale	93550
+Carrolton Pl	Elk Grove	95624
+Carrolton St	Adelanto	92301
+Carron Dr	Eureka	95503
+Carron Drive	Pico Rivera	90660
+Carrot Lane	Vallejo	94591
+Carrot Ln	Aguanga	92536
+Carrotwood	Irvine	92618
+Carrotwood	Lake Elsinore	92530
+Carrotwood Ave	Bakersfield	93313
+Carrotwood Ct	Chino	91710
+Carrotwood Ct	Hemet	92545
+Carrotwood Ct	Rancho Cucamonga	91739
+Carrotwood Ct	Sacramento	95823
+Carrotwood Dr	Brea	92821
+Carrotwood Dr	Riverside	92503
+Carrotwood Dr	Tustin	92782
+Carrotwood Gln	Escondido	92026
+Carrotwood Lane	Pomona	91767
+Carrotwood St	Riverside	92501
+Carrotwood Way	Stanton	90680
+Carrousel Ct	Lake Elsinore	92532
+Carrousel Ct	Lincoln	95648
+Carrousel Ct	Turlock	95380
+Carrousel Dr	Redding	96001
+Carrousel Drive	Canyon Country	91387
+Carrousel Ln	Sacramento	95822
+Carrousel St	Lodi	95242
+Carroza Ct	San Diego	92124
+Carruthers Court	Pomona	91766
+Carrville Loop	Coffee Creek	96091
+Carrwood St	Orangevale	95662
+Carry Ranch Rd	Fort Bragg	 
+Carryback Ave	San Jose	95111
+Carryduff Way	San Jose	95121
+Carryll Park Ct	Fallbrook	92028
+Carrywood Way	San Jose	95120

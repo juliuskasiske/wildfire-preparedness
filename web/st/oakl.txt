@@ -1,0 +1,111 @@
+Oakland	Capitola	95010
+Oakland Av	Roseville	95678
+Oakland Ave	Clearlake	95422
+Oakland Ave	Concord	94518
+Oakland Ave	Hemet	92544
+Oakland Ave	Menlo Park	94025
+Oakland Ave	Rancho Cordova	95742
+Oakland Ave	Rialto	92377
+Oakland Ave	San Anselmo	94960
+Oakland Ave	San Jose	95116
+Oakland Ave	Thousand Palms	92276
+Oakland Ave	Yucaipa	92399
+Oakland Avenue	Merced	95348
+Oakland Bay Drive	West Sacramento	95691
+Oakland Blvd	Walnut Creek	94596
+Oakland Court	Valencia	91355
+Oakland Ct	Walnut Creek	94596
+Oakland Dr	Magalia	95954
+Oakland Hills Court	Fairfield	94534
+Oakland Hills Dr	Banning	92220
+Oakland Hills Dr	Corona	92882
+Oakland Hills Dr	Thousand Palms	92276
+Oakland Hills St	Thousand Palms	92276
+Oakland Pl	Los Gatos	95030
+Oakland Rd	Julian	92036
+Oakland Rd	La Mesa	91942
+Oakland Rd	San Jose	95112
+Oakland Rd	San Jose	95131
+Oakland Road	Glendora	91741
+Oakland Street	Los Angeles	90032
+Oakland Way	Chino Hills	91709
+Oakland Way	Corona	92882
+Oakland Way	Winchester	92596
+Oaklane St	Del Rey	93616
+Oaklar Drive	Santa Clarita	91350
+Oaklawn Ave	Chula Vista	91910
+Oaklawn Ave	Chula Vista	91911
+Oaklawn Ave	Oak View	93022
+Oaklawn Avenue	South Pasadena	91030
+Oaklawn Dr	Daly City	94015
+Oaklawn Dr	Modesto	95355
+Oaklawn Dr	Oak View	93022
+Oaklawn Lane	Pico Rivera	90660
+Oaklawn Ln	Yorba Linda	92886
+Oaklawn Pl	Rancho Cucamonga	91739
+Oaklawn Place	Arcadia	91006
+Oaklawn Road	Arcadia	91006
+Oaklawn Road	Los Angeles	90064
+Oaklawn Way	Fair Oaks	95628
+Oaklea Rd	Vernalis	95385
+Oakleaf Ave	Healdsburg	95448
+Oakleaf Canyon Drive	Newhall	91321
+Oakleaf Canyon Road	Walnut	91789
+Oakleaf Ct	Chino Hills	91709
+Oakleaf Ct	Concord	94521
+Oakleaf Ct	Cupertino	95014
+Oakleaf Ct	Hesperia	92344
+Oakleaf Ct	Running Springs	92382
+Oakleaf Ct	Spring Valley	91977
+Oakleaf Dr	Bakersfield	93308
+Oakleaf Dr	Oceanside	92058
+Oakleaf Dr	Running Springs	92382
+Oakleaf Dr	San Jose	95127
+Oakleaf Drive	Royal Oaks	95076
+Oakleaf Lane	La Verne	91750
+Oakleaf Ln	Perris	92571
+Oakleaf Ln	Ramona	92065
+Oakleaf Ln	Squaw Valley	93675
+Oakleaf Pl	Cupertino	95014
+Oakleaf Pt	San Diego	92124
+Oakleaf St	Bakersfield	93308
+Oakleaf St	Oak Park	91377
+Oakleaf Way	Rancho Cucamonga	91739
+Oakleaf Way	Wishon	93669
+Oakleaf Wy	Rancho Cucamonga	91739
+Oakleaf Wy	Stockton	95209
+Oakley	Irvine	92620
+Oakley Ave	Menlo Park	94025
+Oakley Ave	Riverside	92501
+Oakley Ave	San Carlos	94070
+Oakley Cir	Chino Hills	91709
+Oakley Ct	Ramona	92065
+Oakley Ct	Stockton	95206
+Oakley Ct	Winchester	92596
+Oakley Dr	4-An-7	92804
+Oakley Dr	Anaheim	92804
+Oakley Dr	Los Altos	94024
+Oakley Dr	Moreno Valley	92555
+Oakley Dr	Riverside	92503
+Oakley Dr	Riverside	92504
+Oakley Drive	Los Angeles	90068
+Oakley Lane	City Of Wheatland	95692
+Oakley Lane	Wheatland	95692
+Oakley Ln	Cottonwood	96022
+Oakley Ln	Foresthill	95631
+Oakley Pl	Ramona	92065
+Oakley Rd	Antioch	94509
+Oakley Rd	Antioch	94561
+Oakley Rd	Oakley	94561
+Oakley Rd	Ramona	92065
+Oakley Road	Palos Verdes Peninsula	90274
+Oakley St	Bakersfield	93311
+Oakley St	Riverside	92501
+Oakley St	Riverside	92503
+Oakley Ter	Irvine	92603
+Oakley Way	Elk Grove	95624
+Oakline Ct	Poway	92064
+Oakline Rd	Poway	92064
+Oaklington Rd	Murrieta	92563
+Oaklon Dr	Oak Hills	92344
+Oaklon Drive	Rancho Palos Verdes	90275

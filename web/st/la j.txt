@@ -1,0 +1,95 @@
+La Jacaranda	Rancho Santa Fe	92067
+La Jacque Ct	Sacramento	95823
+La Jara Circle	Cerritos	90703
+La Jara Court	Lakewood	90712
+La Jara Lane	Cerritos	90703
+La Jara Street	Cerritos	90703
+La Jara Street	Lakewood	90713
+La Jennifer Way	Palo Alto	94306
+La Jolla	Watsonville	95076
+La Jolla Ave	Coachella	92236
+La Jolla Ave	Hemet	92543
+La Jolla Ave	San Jose	95124
+La Jolla Ave	San Mateo	94403
+La Jolla Ave	Thermal	92274
+La Jolla Avenue	Long Beach	90803
+La Jolla Avenue	Los Angeles	90035
+La Jolla Avenue	Los Angeles	90048
+La Jolla Avenue	Seaside	93955
+La Jolla Blvd	La Jolla	92037
+La Jolla Blvd	San Diego	92103
+La Jolla Blvd	San Diego	92109
+La Jolla Cir	Huntington Beach	92646
+La Jolla Cir	Huntington Beach	92646-8324
+La Jolla Cir	Moreno Valley	92553
+La Jolla Circle	La Mirada	90638
+La Jolla Circle	Salinas	93901
+La Jolla Corona Ct	La Jolla	92037
+La Jolla Corona Dr	La Jolla	92037
+La Jolla Ct	Adelanto	92301
+La Jolla Ct	Cupertino	95014
+La Jolla Ct	Danville	94526
+La Jolla Ct	Grover Beach	93433
+La Jolla Ct	Madera	93638
+La Jolla Ct	Modesto	95350
+La Jolla Ct	Morgan Hill	95037
+La Jolla Ct	Roseville	95661
+La Jolla Dr	Antioch	94531
+La Jolla Dr	Joshua Tree	92252
+La Jolla Dr	Morgan Hill	95037
+La Jolla Dr	Newport Beach	92663
+La Jolla Dr	Palm Desert	92260
+La Jolla Dr	Rancho Cucamonga	91701
+La Jolla Dr	Riverside	92504
+La Jolla Dr	Santa Barbara	93109
+La Jolla Dr	Stockton	95204
+La Jolla Dr	Thousand Oaks	91362
+La Jolla Drive	Palmdale	93552
+La Jolla Farms Rd	La Jolla	92037
+La Jolla Hermosa	La Jolla	92037
+La Jolla Hermosa Ave	La Jolla	92037
+La Jolla Knoll	La Jolla	92037
+La Jolla Mesa Dr	La Jolla	92037
+La Jolla Mesa Dr	San Diego	92109
+La Jolla Pl	Carpinteria	93013
+La Jolla Plz	Garden Grove	92844
+La Jolla Rancho Rd	La Jolla	92037
+La Jolla Rd	Nipton	92364
+La Jolla Rd	Palm Springs	92264
+La Jolla Rd	Thousand Oaks	91362
+La Jolla Scenic Dr	La Jolla	92037
+La Jolla Scenic Dr N	La Jolla	92037
+La Jolla Scenic Dr S	La Jolla	92037
+La Jolla Shores Dr	La Jolla	92037
+La Jolla Shores Dr	La Jolla	92093
+La Jolla Shores Ln	La Jolla	92037
+La Jolla St	Hesperia	92344
+La Jolla St	Morro Bay	93442
+La Jolla St	Salton City	92274
+La Jolla Street	Vallejo	94591
+La Jolla Street	West Sacramento	95691
+La Jolla Village Dr	La Jolla	92037
+La Jolla Village Dr	La Jolla	92093
+La Jolla Village Dr	San Diego	92121
+La Jolla Village Dr	San Diego	92122
+La Jolla Village Dr	San Diego	92161
+La Jolla Vista Dr	La Jolla	92037
+La Jolla Way	Cypress	90630
+La Jolla Way	Laguna Niguel	92677
+La Jolla Way	Madera	93638
+La Jolla Way	Merced	95348
+La Jolla Way	Sacramento	95822
+La Jolla Way	Salinas	93901
+La Jolla Wy	Lodi	95242
+La Josa Rd	Santa Barbara Unincorporated	93111
+La Jota Dr	Angwin	94508
+La Jota Way	La Jolla	92037
+La Joya Ct	Victorville	92395
+La Joya Dr	Guadalupe	93434
+La Joya Dr	Nipomo	93444
+La Joya Pl	Victorville	92394
+La Junta Ave	San Diego	92117
+La Junta Ct	Turlock	95382
+La Junta Dr	Orangevale	95662
+La Junta Drive	Claremont	91711
+La Junta St	Hesperia	92345

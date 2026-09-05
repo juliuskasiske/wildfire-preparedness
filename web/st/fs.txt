@@ -1,0 +1,136 @@
+Fs-081 Road	Bridgeport	93517
+Fs Rd 05S303A Rd	Kettenpom	95595
+Fs Rd 06W05	Coffee Creek	96091
+Fs Rd 12W03	Denny	95527
+Fs Rd 1N11E	Mad River	95552
+Fs Rd 1N35	Hayfork	96041
+Fs Rd 1S14	Mad River	95552
+Fs Rd 1S14	Zenia	95552
+Fs Rd 1S17	Mad River	95552
+Fs Rd 1S36	Mad River	95552
+Fs Rd 1S39	Forest Glen	96041
+Fs Rd 29N58	Post Mountain	96041
+Fs Rd 29N62	Post Mountain	96041
+Fs Rd 2N07F	Post Mountain	96041
+Fs Rd 2N25	Mad River	95552
+Fs Rd 2N27	Mad River	95552
+Fs Rd 2N62	Hyampom	96046
+Fs Rd 2S01	Zenia	95595
+Fs Rd 2S05	Hettenshaw Valley	95595
+Fs Rd 2S05	Ruth	95526
+Fs Rd 2S10	Zenia	95595
+Fs Rd 2S23	Zenia	95595
+Fs Rd 30N01	Douglas City	96024
+Fs Rd 30N30	Hyampom	96046
+Fs Rd 30N69	Post Mountain	96041
+Fs Rd 32N04	Hayfork	96041
+Fs Rd 32N17	Hayfork	96041
+Fs Rd 33N05Y	Junction City	96048
+Fs Rd 33N38	Weaverville	96093
+Fs Rd 33N44	Big Bar	96010
+Fs Rd 33N44D	Big Bar	96010
+Fs Rd 33N48A	Junction City	96048
+Fs Rd 33N67	Junction City	96048
+Fs Rd 34N05G	Lewiston	96052
+Fs Rd 34N07Y	Helena	96048
+Fs Rd 34N13	Lewiston	96052
+Fs Rd 34N14	Helena	96048
+Fs Rd 34N15	Lewiston	96052
+Fs Rd 34N30	Lewiston	96052
+Fs Rd 34N39A	Lewiston	96052
+Fs Rd 34N61	Lewiston	96052
+Fs Rd 34N74	Trinity Center	96091
+Fs Rd 34N97A	Trinity Center	96091
+Fs Rd 35N15Y	Covington Mill	96091
+Fs Rd 35N20	Helena	96048
+Fs Rd 35N22B	Lewiston	96052
+Fs Rd 35N26Y	Minersville	96091
+Fs Rd 35N31	Coffee Creek	96091
+Fs Rd 35N31	Lewiston	96052
+Fs Rd 35N32	Lewiston	96052
+Fs Rd 35N32Y	Minersville	96091
+Fs Rd 35N33Y	Trinity Center	96091
+Fs Rd 35N33Y Rd	Trinity Center	96091
+Fs Rd 35N42Y	Coffee Creek	96091
+Fs Rd 36N01Y	Trinity Center	96091
+Fs Rd 36N08Y	Coffee Creek	96091
+Fs Rd 36N11	Coffee Creek	96091
+Fs Rd 36N12Y	Trinity Center	96091
+Fs Rd 36N24	Trinity Center	96091
+Fs Rd 36N35	Covington Mill	96091
+Fs Rd 36N51	Trinity Center	96091
+Fs Rd 36N65	Coffee Creek	96091
+Fs Rd 36N87	Coffee Creek	96091
+Fs Rd 37N08Y	Coffee Creek	96091
+Fs Rd 37N08Yb	Coffee Creek	96091
+Fs Rd 37N19Y	Coffee Creek	96091
+Fs Rd 37N22	Coffee Creek	96091
+Fs Rd 37N22A	Coffee Creek	96091
+Fs Rd 37N28Y	Coffee Creek	96091
+Fs Rd 37N32Y	Coffee Creek	96091
+Fs Rd 37N33Y	Coffee Creek	96091
+Fs Rd 37N42Y	Coffee Creek	96091
+Fs Rd 37N52	Coffee Creek	96091
+Fs Rd 37N80Y	Trinity Center	96091
+Fs Rd 37N82Y	Coffee Creek	96091
+Fs Rd 37N82Yc	Coffee Creek	96091
+Fs Rd 38N13Y	Coffee Creek	96091
+Fs Rd 38N17	Coffee Creek	96091
+Fs Rd 38N21	Coffee Creek	96091
+Fs Rd 38N24	Coffee Creek	96091
+Fs Rd 38N34	Coffee Creek	96091
+Fs Rd 38N47	Coffee Creek	96091
+Fs Rd 38N62	Coffee Creek	96091
+Fs Rd 38N63A	Coffee Creek	96091
+Fs Rd 38N86	Coffee Creek	96091
+Fs Rd 38N87	Coffee Creek	96091
+Fs Rd 39N04	Coffee Creek	96091
+Fs Rd 39N25D	Coffee Creek	96091
+Fs Rd 39N25Y	Coffee Creek	96091
+Fs Rd 39N60	Coffee Creek	96091
+Fs Rd 39N65	Coffee Creek	96091
+Fs Rd 3N25	Hyampom	96046
+Fs Rd 3N30	Hyampom	96046
+Fs Rd 3N40	Hyampom	96046
+Fs Rd 3N44	Hyampom	96046
+Fs Rd 3N45B	Hyampom	96046
+Fs Rd 3N46	Hyampom	96046
+Fs Rd 3N50A	Hyampom	96046
+Fs Rd 3S02	Kettenpom	95526
+Fs Rd 3S02	Ruth	95526
+Fs Rd 3S15	Zenia	95595
+Fs Rd 3S16	Kettenpom	95595
+Fs Rd 3S36	Kettenpom	95595
+Fs Rd 3S37	Zenia	95595
+Fs Rd 3S45	Ruth	95526
+Fs Rd 3S66A	Kettenpom	95595
+Fs Rd 40N63	Coffee Creek	96091
+Fs Rd 4N09	Big Bar	96010
+Fs Rd 4N09	Hyampom	96046
+Fs Rd 4N14	Hyampom	96046
+Fs Rd 4N16	Big Bar	96010
+Fs Rd 4N18	Big Bar	96010
+Fs Rd 4N18	Hyampom	96046
+Fs Rd 4N45	Big Bar	96010
+Fs Rd 5N07	Hyampom	96046
+Fs Rd 5N09	Burnt Ranch	95527
+Fs Rd 5N21	Burnt Ranch	95527
+Fs Rd 5N21	Cedar Flat	95527
+Fs Rd 5N27B	Burnt Ranch	95527
+Fs Rd 5N60	Burnt Ranch	95527
+Fs Rd 5N60A	Burnt Ranch	95527
+Fs Rd 5N60B	Burnt Ranch	95527
+Fs Rd 6E27	Hettenshaw Valley	95595
+Fs Rd 6E27	Mad River	95526
+Fs Rd 6E27	Ruth	95526
+Fs Rd 7E15	Kettenpom	95595
+Fs Rd 7N04	Hawkins Bar	95527
+Fs Rd 7N14A	Salyer	95563
+Fs Rd 7N15	Denny	95527
+Fs Rd 7N15	Salyer	95563
+Fs Rd 7N15A	Salyer	95563
+Fs Rd 7N15B	Denny	95527
+Fs Rd 7N23	Salyer	95563
+Fs Rd 8E05	Kettenpom	95595
+Fs Rd 8E18	Wildwood	96076
+Fs Route 1	Willow Creek	95550

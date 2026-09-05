@@ -1,0 +1,9 @@
+95Th St	Mad River	95552
+95Th Street	Los Angeles	90002
+95Th Street	Los Angeles	90003
+95Th Street	Los Angeles	90044
+95Th Street East	Lancaster	93535
+95Th Street East	Littlerock	93543
+95Th Street East	Palmdale	93591
+95Th Street West	Lancaster	93536
+95Th Street West	Palmdale	93551

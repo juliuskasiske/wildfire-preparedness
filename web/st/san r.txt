@@ -1,0 +1,239 @@
+San Rafael	Borrego Springs	92004
+San Rafael	Clearlake	95422
+San Rafael	Desert Hot Springs	92240
+San Rafael	San Diego	92154
+San Rafael	Soledad	93960
+San Rafael Archangel Ln	Riverside	92508
+San Rafael Av	Santa Barbara	93109
+San Rafael Av	Santa Clara	95051
+San Rafael Ave	Belvedere	94920
+San Rafael Ave	Modesto	95355
+San Rafael Ave	Mountain View	94043
+San Rafael Ave	Palm Desert	92260
+San Rafael Ave	San Anselmo	94960
+San Rafael Ave	San Rafael	94901
+San Rafael Ave	Santa Clara	95051
+San Rafael Ave	Tiburon	94920
+San Rafael Avenue	Glendale	91202
+San Rafael Avenue	Los Angeles	90042
+San Rafael Avenue	Los Angeles	90065
+San Rafael Avenue	Pasadena	91105
+San Rafael Cir	Costa Mesa	92626
+San Rafael Cir	Placentia	92870
+San Rafael Court	Merced	95348
+San Rafael Ct	Atascadero	93422
+San Rafael Ct	Durham	95938
+San Rafael Ct	Fontana	92336
+San Rafael Ct	Rancho Cucamonga	91737
+San Rafael Ct	Rohnert Park	94928
+San Rafael Ct	Sacramento	95817
+San Rafael Ct	Santa Clara	95051
+San Rafael Ct	Walnut Creek	94598
+San Rafael Ct	Yucca Valley	92284
+San Rafael Dr	Buena Park	90620
+San Rafael Dr	Chino Hills	91709
+San Rafael Dr	Corona	92882
+San Rafael Dr	Desert Hot Springs	92240
+San Rafael Dr	Hemet	92543
+San Rafael Dr	Palm Springs	92262
+San Rafael Dr	Paso Robles	93446
+San Rafael Dr	Petaluma	94954
+San Rafael Drive	Newhall	91321
+San Rafael Lane	Pasadena	91105
+San Rafael Ln	Roseville	95747
+San Rafael Ln	Yorba Linda	92886
+San Rafael Pl	Chula Vista	91914
+San Rafael Pl	Corona	92882
+San Rafael Pl	Laguna Niguel	92677
+San Rafael Pl	Palm Springs	92262
+San Rafael Pl	San Diego	92109
+San Rafael Pl	Stanford	94305
+San Rafael Rd	Atascadero	93422
+San Rafael Rd	Borrego Springs	92004
+San Rafael Rd	Desert Hot Springs	92240
+San Rafael Rd	Yucca Valley	92284
+San Rafael Road	Arcadia	91007
+San Rafael St	Avila Beach	93424
+San Rafael St	Fountain Valley	92708
+San Rafael St	Menifee	92584
+San Rafael St	Morgan Hill	95037
+San Rafael St	Novato	94945
+San Rafael St	Ojai	93023
+San Rafael St	Redlands	92373
+San Rafael St	Sunnyvale	94085
+San Rafael St	Ventura	93004
+San Rafael Street	Davis	95618
+San Rafael Street	Fairfield	94533
+San Rafael Street	Los Banos	93635
+San Rafael Street	Paramount	90723
+San Rafael Street	Pomona	91767
+San Rafael Terrace	Pasadena	91105
+San Rafael Way	Camarillo	93012
+San Rafael Way	Montclair	91763
+San Rafael Way	Riverside	92504
+San Rafael Way	San Francisco	94127
+San Rafel Rd	Borrego Springs	92004
+San Ramo Rd	Desert Hot Springs	92240
+San Ramon Ave	Berkeley	94707
+San Ramon Ave	Madera	93638
+San Ramon Ave	Moss Beach	94038
+San Ramon Ave	Mountain View	94043
+San Ramon Ave	Sunnyvale	94085
+San Ramon Avenue	Tulare	93274
+San Ramon Avenue	Vallejo	94589
+San Ramon Cir	Villa Park	92861
+San Ramon Circle	Salinas	93901
+San Ramon Court	Merced	95348
+San Ramon Ct	Bakersfield	93304
+San Ramon Ct	Coalinga	93210
+San Ramon Ct	Morgan Hill	95037
+San Ramon Ct	Mountain View	94043
+San Ramon Ct	San Pablo	94806
+San Ramon Dr	Chico	95973
+San Ramon Dr	Corona	92882
+San Ramon Dr	Ful	92835
+San Ramon Dr	Fullerton	92835
+San Ramon Dr	Hemet	92543
+San Ramon Dr	Irvine	92612
+San Ramon Dr	Morgan Hill	95037
+San Ramon Dr	Oceanside	92057
+San Ramon Dr	San Diego	92126
+San Ramon Dr	San Diego	92154
+San Ramon Dr	San Jose	95111
+San Ramon Dr	Santa Barbara Unincorporated	93111
+San Ramon Dr	Sonoma	95476
+San Ramon Drive	Davis	95618
+San Ramon Drive	Lancaster	93535
+San Ramon Drive	Los Angeles	90042
+San Ramon Drive	Rancho Palos Verdes	90275
+San Ramon Drive	South Pasadena	91030
+San Ramon Lane	Los Banos	93635
+San Ramon Pl	Rohnert Park	94928
+San Ramon Rd	Atascadero	93422
+San Ramon Rd	Concord	94519
+San Ramon Rd	Madera	93638
+San Ramon Street	South Pasadena	91030
+San Ramon Valley	San Ramon	94583
+San Ramon Valley Blvd	Danville	94526
+San Ramon Valley Blvd	San Ramon	94583
+San Ramon Way	Buena Park	90620
+San Ramon Way	Mission Viejo	92692
+San Ramon Way	Novato	94945
+San Ramon Way	Ojai	93023
+San Ramon Way	Sacramento	95864
+San Ramon Way	San Francisco	94112
+San Ramon Way	San Jose	95111
+San Ramon Way	Santa Rosa	95409
+San Ramon Wy	Ojai	93023
+San Ramos Ct	Modesto	95358
+San Ramos Way	Modesto	95358
+San Raphael	Dana Point	92629
+San Raphael	Mission Viejo	92692
+San Raphael Place	Pomona	91766
+San Raymundo Rd	Hillsborough	94010
+San Reliez Ct	Lafayette	94549
+San Remi Ter	Sunnyvale	94085
+San Remo	Desert Hot Springs	92240
+San Remo	Irvine	92606
+San Remo	Palm Desert	92260
+San Remo	Rancho Palos Verdes	90275
+San Remo	San Clemente	92673
+San Remo	Tustin	92782
+San Remo Ave	Pla	92870
+San Remo Ave	Placentia	92870
+San Remo Ave	San Jacinto	92582
+San Remo Cir	Vista	92084
+San Remo Court	Fairfield	94533
+San Remo Court	La Mirada	90638
+San Remo Court	West Sacramento	95691
+San Remo Ct	Fontana	92336
+San Remo Ct	Pittsburg	94565
+San Remo Ct	Santee	92071
+San Remo Dr	Corona	92882
+San Remo Dr	Eastvale	92880
+San Remo Dr	Laguna Beach	92651
+San Remo Dr	Laguna Hills	92653
+San Remo Dr	Oceanside	92056
+San Remo Dr	Santa Barbara	93105
+San Remo Dr	Santa Barbara	93110
+San Remo Dr	Winchester	92596
+San Remo Drive	Carmel	93923
+San Remo Drive	Hilmar	95324
+San Remo Drive	Pacific Palisades	90272
+San Remo Pl	Mission Viejo	92692
+San Remo Place	Castaic	91384
+San Remo Rd	Desert Hot Springs	92240
+San Remo Rd	Santee	92071
+San Remo Road	Carmel	93923
+San Remo Road	Pasadena	91105
+San Remo St	Palm Desert	92260
+San Remo Street	Fairfield	94533
+San Remo Trl	Yucca Valley	92284
+San Remo Way	Buena Park	90620
+San Remo Way	Manteca	95337
+San Remo Way	Pittsburg	94565
+San Remo Way	Riverside	92501
+San Remo Way	Sacramento	95823
+San Remo Way	San Carlos	94070
+San Remo Way	San Diego	92106
+San Remo Way	Tarzana	91356
+San Remo Way	Ybl	92887
+San Remo Way	Yorba Linda	92887
+San Remo Wy	Manteca	95337
+San Renaldo Cir	Buena Park	90620
+San Rey Ave	Millbrae	94030
+San Rey Ct	Fallbrook	92028
+San Rey Dr	Coachella	92236
+San Rey Ln	Fallbrook	92028
+San Rey Pl	Danville	94526
+San Rey Pl	Fallbrook	92028
+San Ribas Rd	Fontana	92337
+San Ricardo	Rancho Santa Margarita	92688
+San Ricardo Ave	Moreno Valley	92557
+San Ricardo Ct	Solana Beach	92075
+San Ricardo Dr	Santa Barbara Unincorporated	93111
+San Ricardo Ln	Los Osos	93402
+San Ricardo St	Fountain Valley	92708
+San Ricardo Way	Buena Park	90620
+San Rio Dr	Buena Park	90620
+San Rio Street	El Monte	91732
+San Rivas Dr	San Jose	95148
+San Rivera Ter	Sunnyvale	94085
+San Roberto	San Diego	92154
+San Roberto Cir	Buena Park	90620
+San Roberto Pl	San Ramon	94583
+San Roberto Street	Dos Palos	93620
+San Rocca Ct	Bakersfield	93308
+San Rocco Ci	Stockton	95207
+San Rocco Ct	Tracy	95376
+San Rocco Wy	Tracy	95376
+San Rodolfo Dr	Solana Beach	92075
+San Rodolfo Way	Buena Park	90620
+San Rodrigo Av	Santa Barbara Unincorporated	93111
+San Rogelio St	Hemet	92545
+San Rogue Ct	Bakersfield	93312
+San Rogue Ct	Sacramento	95823
+San Rolando Cir	Buena Park	90620
+San Rolando Way	Buena Park	90620
+San Romolo Way	Buena Park	90620
+San Roque Ave	Ventura	93003
+San Roque Dr	Escondido	92025
+San Roque Dr	Mission Viejo	92691
+San Roque Drive	Walnut	91789
+San Roque Ln	Huntington Beach	92647
+San Roque Ln	Huntington Beach	92647-6641
+San Roque Ln	Huntington Beach	92647-6642
+San Roque Rd	Fontana	92337
+San Roque Rd	Mission Canyon	93105
+San Roque Rd	Santa Barbara	93101
+San Roque Rd	Santa Barbara	93105
+San Roque St	Ventura	93003
+San Rosa Mine Rd	Perris	92570
+San Rosen Ct	Yucaipa	92399
+San Rossano Dr	Goleta	93117
+San Ruben Cir	Buena Park	90620
+San Rufino Cir	Ybl	92886
+San Rufino Cir	Yorba Linda	92886
+San Rufino Dr	Irvine	92603
+San Rufo Cir	Buena Park	90620
+San Rufo Ct	San Diego	92127

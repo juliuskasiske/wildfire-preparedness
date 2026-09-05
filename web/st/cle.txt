@@ -1,0 +1,680 @@
+Clea Lane	Mount Shasta	96067
+Clean Brk	Lake Forest	92630
+Clean Brook	Lake Forest	92630
+Clean Brook	Lake Forest	92630-5603
+Clear Brook Ct	Menifee	92584
+Clear Brook Ct	San Jose	95111
+Clear Brook Dr	Old Station	96071
+Clear Canyon Cir	Menifee	92584
+Clear Canyon Ct	Eastvale	92880
+Clear Canyon Dr	Redding	96001
+Clear Cir	Carmichael	95608
+Clear Coast Court	Vallejo	94591
+Clear Corrie Ct	Antelope	95843
+Clear Creek	Boulder Creek	95005
+Clear Creek	Brookdale	95005
+Clear Creek	Brookdale	95007
+Clear Creek	Murrieta	92562
+Clear Creek Canyon Drive	Diamond Bar	91765
+Clear Creek Cemetary Rd	Butte Valley	95965
+Clear Creek Cemetery Rd	Butte Valley	95965
+Clear Creek Cemetery Rd	Oroville	95965
+Clear Creek Court	Atwater	95301
+Clear Creek Court	Mammoth Lakes	93546
+Clear Creek Ct	Citrus Heights	95610
+Clear Creek Ct	Concord	94521
+Clear Creek Ct	Foresthill	95631
+Clear Creek Ct	Martinez	94553
+Clear Creek Ct	Moorpark	93021
+Clear Creek Ct	Newman	95360
+Clear Creek Ct	Stockton	95207
+Clear Creek Dr	Fullerton	90621
+Clear Creek Dr	Fullerton	92833
+Clear Creek Drive	Atwater	95301
+Clear Creek Knolls Dr	Redding	96001
+Clear Creek Lane	Diamond Bar	91765
+Clear Creek Ln	Laguna Hills	92653
+Clear Creek Ln	Temecula	92591
+Clear Creek Place	Canoga Park	91304
+Clear Creek Place	Grass Valley	95949
+Clear Creek Rd	Igo	96047
+Clear Creek Rd	Napa	94558
+Clear Creek Rd	Paicines	95043
+Clear Creek Rd	Redding	96001
+Clear Creek Rd	Redding	96002
+Clear Creek Rd	San Geronimo	94963
+Clear Creek Road	Mammoth Lakes	93546
+Clear Creek Road	Santa Clarita	91390
+Clear Creek St	Hesperia	92344
+Clear Creek St	Murrieta	92562
+Clear Creek Way	Sutter Creek	95685
+Clear Crest Cir	Vista	92084
+Clear Crieek Road	Santa Clarita	91390
+Clear Crk	Irvine	92620
+Clear Crystal Dr	Bakersfield	93313
+Clear Dr	Ventura	93004
+Clear Falls Avenue	La Verne	91750
+Clear Falls Ct	Bakersfield	93308
+Clear Fls	Irvine	92602
+Clear Haven Dr	Ybl	92886
+Clear Haven Dr	Yorba Linda	92886
+Clear Lake Aly	Sacramento	95829
+Clear Lake Ave	Lakeport	95453
+Clear Lake Ave	Milpitas	95035
+Clear Lake Ave	Salton City	92274
+Clear Lake Ct	Danville	94506
+Clear Lake Ct	Milpitas	95035
+Clear Lake Ct	Oakley	94561
+Clear Lake Ct	Rancho Cucamonga	91739
+Clear Lake Ct	Tracy	95304
+Clear Lake Dr	Chico	95973
+Clear Lake Dr	Indio	92203
+Clear Lake Dr	Oakley	94561
+Clear Lake Dr	Rancho Mirage	92270
+Clear Lake Ln	Fontana	92335
+Clear Lake Ln	Mira Loma	91752
+Clear Lake Pl	Brea	92821
+Clear Lake St	Danville	94506
+Clear Lake St	Perris	92571
+Clear Lake Way	Fontana	92336
+Clear Light Rd	Temecula	92591
+Clear Night	Irvine	92602
+Clear Oak Drive	Encino	91436
+Clear Point Way	Manteca	95336
+Clear Point Wy	Manteca	95336
+Clear Ridge	Big Sur	93920
+Clear Ridge	Santa Rosa	95404
+Clear Ridge Dr	Healdsburg	95448
+Clear Ridge Road	Big Sur	93920
+Clear Ridge Way	Shafter	93263
+Clear River Ct	Fountain Valley	92708
+Clear River Ct	Sacramento	95831
+Clear River Ct	San Jose	95136
+Clear River Lane	Hacienda Heights	91745
+Clear River Ln	Yorba Linda	92886
+Clear Sky Cir	Sacramento	95823
+Clear Sky Pl	Simi Valley	93065
+Clear Sky Rd	San Diego	92120
+Clear Sky Ter	San Diego	92120
+Clear Sky Way	Canoga Park	91304
+Clear Sky Way	Palm Desert	92211
+Clear Spg	Irvine	92603
+Clear Spring Ct	Highland	92346
+Clear Spring Ct	San Jose	95133
+Clear Spring Dr	Winchester	92596
+Clear Spring Drive	La Mirada	90638
+Clear Spring Ln	Highland	92346
+Clear Spring Rd	Simi Valley	93063
+Clear Spring Way	Riverside	92503
+Clear Springs Avenue	Palmdale	93552
+Clear Springs Cir	Elk Grove	95624
+Clear Springs Ct	Concord	94518
+Clear Springs Ct	Unincorporated Alameda County	94552
+Clear Springs Dr	Corona	92879
+Clear Springs Dr	Fullerton	92831
+Clear Springs Dr	Winchester	92596
+Clear Springs Ln	Chino Hills	91709
+Clear Springs Pl	Roseville	95747
+Clear Springs Rd	Brea	92821
+Clear Springs Rd	Simi Valley	93063
+Clear Springs Trail Rd	Simi Valley	93063
+Clear Springs Way	Devore	92407
+Clear Star Ct	Elk Grove	95758
+Clear Stream Ave	Napa	94558
+Clear Vail Dr	Temecula	92592
+Clear Valley Ct	Antelope	95843
+Clear Valley Ct	Bakersfield	93313
+Clear Valley Drive	Encino	91436
+Clear Valley Place	Encino	91436
+Clear Valley Rd	Victorville	92392
+Clear Valley Road	Calabasas	91302
+Clear View Court	Palmdale	93551
+Clear View Court	Santa Clarita	91350
+Clear View Dr	Anderson	96007
+Clear View Dr	Citrus Heights	95610
+Clear View Drive	Beverly Hills	90210
+Clear View Gln	Escondido	92026
+Clear View Ln	Highland	92346
+Clear View St	Thousand Oaks	91360
+Clear Vista Ct	San Jose	95138
+Clear Vista Drive	Palos Verdes Peninsula	90274
+Clear Water	Canyon Lake	92587
+Clear Water	Newport Beach	92657
+Clear Water Cir	Eastvale	92880
+Clear Water Court	Linda	95901
+Clear Water Cove	Turlock	95382
+Clear Water Ct	Redding	96002
+Clear Water Ct	Richmond	94803
+Clear Water Dr	Canyon Lake	92587
+Clear Water Dr	Lake Elsinore	92532
+Clear Water Dr	Moreno Valley	92551
+Clear Water Rd	Fallbrook	92028
+Clearbank Lane	Newhall	91321
+Clearbook Dr	Murrieta	92563
+Clearbrook	Irvine	92614
+Clearbrook	Mission Viejo	92692
+Clearbrook Ci	Roseville	95747
+Clearbrook Cir	Hayward	94544
+Clearbrook Court	Suisun City	94585
+Clearbrook Ct	Santa Rosa	95403
+Clearbrook Ct	Tracy	95376
+Clearbrook Dr	Chino Hills	91709
+Clearbrook Dr	Chula Vista	91913
+Clearbrook Dr	Concord	94521
+Clearbrook Dr	Huntington Beach	92646
+Clearbrook Dr	Huntington Beach	92646-8011
+Clearbrook Dr	Huntington Beach	92646-8020
+Clearbrook Dr	Huntington Beach	92646-8021
+Clearbrook Dr	Huntington Beach	92646-8023
+Clearbrook Dr	Huntington Beach	92646-8069
+Clearbrook Dr	Murrieta	92563
+Clearbrook Dr	Old Station	96071
+Clearbrook Lane	Cerritos	90703
+Clearbrook Ln	4-An-7	92804
+Clearbrook Ln	Anaheim	92804
+Clearbrook Ln	Costa Mesa	92626
+Clearbrook Ln	Paradise	95969
+Clearbrook Ln	Spring Valley	91977
+Clearbrook Pass	Dana Point	92629
+Clearbrook Place	Porter Ranch	91326
+Clearbrook Rd	Antioch	94509
+Clearbrook Street	Paramount	90723
+Clearbrook Street	Porter Ranch	91326
+Clearbrook Way	Sacramento	95823
+Clearbrook Way	Stanton	90680
+Clearcreek Ct	Cupertino	95014
+Clearcreek Ct	Moorpark	93021
+Clearcreek Pl	Santee	92071
+Clearcrest Drive	Baldwin Park	91706
+Clearcrest Ln	Fallbrook	92028
+Clearcut Ln	Forest Ranch	95942
+Cleardale Cir	Stanton	90680
+Cleardale Street	Newhall	91321
+Cleardale Way	Sacramento	95823
+Clearfield Ave	Richmond	94803
+Clearfield Ave	Spring Valley	91977
+Clearfield Avenue	Panorama City	91402
+Clearfield Ct	Temecula	92590
+Clearfield Dr	Millbrae	94030
+Clearfield Dr	San Francisco	94132
+Clearfield Dr	Stockton	95205
+Clearfield Way	Carmichael	95608
+Clearford Court	Westlake Village	91361
+Clearglen Avenue	Whittier	90604
+Clearglen Dr	Ful	92835
+Clearglen Dr	Fullerton	92835
+Cleargrove Drive	Downey	90240
+Clearhaven Drive	Azusa	91702
+Clearhaven Ln	Victorville	92395
+Clearidge Drive	Valencia	91354
+Clearing Cir	Corona	92882
+Clearing Ln	Corona	92882
+Clearlake Cir	Placentia	92870
+Clearlake Dr	Orcutt	93455
+Clearlake Dr	Santa Maria	93455
+Clearlake Drive	Canyon Country	91387
+Clearlake Way	Lakeside	92040
+Clearlake Way	Sacramento	95826
+Clearland Cir	Bay Point	94565
+Clearland Dr	Bay Point	94565
+Clearland Ext	Bay Point	94565
+Clearly Ln	Sacramento	95835
+Clearmont Court	Valencia	91354
+Clearpark Cir	San Jose	95124
+Clearpark Cir	San Jose	95136
+Clearpark Pl	San Jose	95136
+Clearpointe Drive	Vallejo	94591
+Clearpool Place	Harbor City	90710
+Clearsite Street	Torrance	90505
+Clearspring Court	Walnut	91789
+Clearspring Drive	La Mirada	90638
+Clearspring Ln	Fontana	92336
+Clearspring Rd	San Diego	92126
+Clearsprings Rd	Simi Valley	93063
+Clearstone Pl	Folsom	95630
+Clearstream Ct	Danville	94506
+Clearvail Dr	Temecula	92592
+Clearview	Felton	95018
+Clearview	Newport Beach	92657
+Clearview Ave	San Bernardino	92407
+Clearview Ave	Ventura	93001
+Clearview Cir	Corona	92882
+Clearview Cir	Santa Rosa	95403
+Clearview Circle	Benicia	94510
+Clearview Crest Drive	Diamond Bar	91765
+Clearview Ct	Modesto	95355
+Clearview Ct	Petaluma	94952
+Clearview Ct	Richmond	94806
+Clearview Ct	Rocklin	95765
+Clearview Ct	Roseville	95747
+Clearview Ct	San Francisco	94124
+Clearview Ct	Tahoe City	96145
+Clearview Ct	Walnut Creek	94598
+Clearview Dr	Anderson	96007
+Clearview Dr	Apple Valley	92308
+Clearview Dr	Carlsbad	92008
+Clearview Dr	Daly City	94015
+Clearview Dr	Hemet	92544
+Clearview Dr	Hollister	95023
+Clearview Dr	Joshua Tree	92252
+Clearview Dr	Los Gatos	95032
+Clearview Dr	Paradise	95969
+Clearview Dr	San Jose	95133
+Clearview Dr	Victorville	92392
+Clearview Drive	Vallejo	94591
+Clearview Drive	Yuba City	95993
+Clearview Ln	Folsom	95630
+Clearview Ln	Huntington Beach	92648
+Clearview Ln	Huntington Beach	92648-6716
+Clearview Ln	Huntington Beach	92648-6717
+Clearview Ln	Huntington Beach	92648-6720
+Clearview Ln	Huntington Beach	92648-6721
+Clearview Ln	North Tustin	92705
+Clearview Ln	Paso Robles	93446
+Clearview Ln	San Luis Obispo	93405
+Clearview Ln	Squaw Valley	93675
+Clearview Ln	Valley Center	92082
+Clearview Pl	Jurupa Valley	92509
+Clearview Pl	Petaluma	94952
+Clearview Rd	Poway	92064
+Clearview Rd	Santa Barbara	93101
+Clearview St	Murrieta	92563
+Clearview St	Thousand Oaks	91360
+Clearview Way	La Mesa	91942
+Clearview Way	San Marcos	92078
+Clearview Way	San Mateo	94402
+Clearview Wy	Roseville	95747
+Clearwater	Canyon Lake	92587
+Clearwater	Irvine	92604
+Clearwater	Santa Cruz	95062
+Clearwater Ave	Chino	91710
+Clearwater Avenue	Palmdale	93551
+Clearwater Cir	Huntington Beach	92648
+Clearwater Cir	Huntington Beach	92648-1119
+Clearwater Cir	Huntington Beach	92648-1126
+Clearwater Cir	Huntington Beach	92648-1127
+Clearwater Court	Merced	95348
+Clearwater Court	Walnut	91789
+Clearwater Creek Bl	Manteca	95336
+Clearwater Creek Blvd	Manteca	95336
+Clearwater Creek Dr	Thousand Oaks	91320
+Clearwater Creek Way	Bakersfield	93311
+Clearwater Ct	Beaumont	92223
+Clearwater Ct	Laguna Niguel	92677
+Clearwater Ct	Napa	94558
+Clearwater Ct	Oakley	94561
+Clearwater Ct	Roseville	95678
+Clearwater Ct	Spring Valley	91977
+Clearwater Ct	Sunnyvale	94087
+Clearwater Ct	Victorville	92392
+Clearwater Cv	Buena Park	90621
+Clearwater Dr	Bakersfield	93309
+Clearwater Dr	Blythe	92225
+Clearwater Dr	Camarillo	93012
+Clearwater Dr	Canyon Lake	92587
+Clearwater Dr	Lewiston	96052
+Clearwater Dr	Moreno Valley	92551
+Clearwater Dr	Perris	92571
+Clearwater Dr	Sacramento	95841
+Clearwater Dr	South San Francisco	94080
+Clearwater Dr	Sun City	92587
+Clearwater Dr	Ybl	92887
+Clearwater Dr	Yorba Linda	92887
+Clearwater Dr	Yucaipa	92399
+Clearwater Drive	La Mirada	90638
+Clearwater Falls Ct	Bakersfield	93312
+Clearwater Lane	Valencia	91355
+Clearwater Ln	Lake Arrowhead	92352
+Clearwater Ln	Nipomo	93444
+Clearwater Oak Court	Fairfield	94534
+Clearwater Pkwy	San Bernardino	92407
+Clearwater Pl	Chula Vista	91913
+Clearwater Pl	Encinitas	92024
+Clearwater Ranch Rd	 	 
+Clearwater Ranch Rd	Philo	 
+Clearwater Rd	Fallbrook	92028
+Clearwater Rdg	Vista	92081
+Clearwater St	Carlsbad	92011
+Clearwater Street	Los Angeles	90039
+Clearwater Street	Tulare	93274
+Clearwater Way	Palm Springs	92262
+Clearwater Way	Rancho Mirage	92270
+Clearwater Way	Riverbank	95367
+Clearwater Way	Winchester	92596
+Clearwater Way	Woodland	95776
+Clearwood Ave	Riverside	92506
+Clearwood Avenue	La Mirada	90638
+Clearwood Cir	Huntington Beach	92646
+Clearwood Cir	Huntington Beach	92646-5314
+Clearwood Court	Los Angeles	90077
+Clearwood Court	Palmdale	93550
+Clearwood Ct	Cupertino	95014
+Clearwood Ct	Ful	92835
+Clearwood Ct	Fullerton	92835
+Clearwood Ct	San Diego	92131
+Clearwood Dr	Moorpark	93021
+Clearwood Dr	Oakley	94561
+Clearwood Pl	Oakley	94561
+Clearwood Rd	Moorpark	93021
+Clearwood St	Fillmore	93015
+Clearwood St	Pittsburg	94565
+Clearwood Way	Oakley	94561
+Clearwood Way	Sacramento	95841
+Cleary Cir	Elk Grove	95757
+Cleary Court	Claremont	91711
+Cleary Ct	Lathrop	95330
+Cleary Ct	San Francisco	94109
+Cleary Dr	Auburn	95603
+Cleary Drive	Baldwin Park	91706
+Cleary St	Menifee	92584
+Cleary St	Santee	92071
+Cleason Rd	Riverside	92508
+Cleat Ln	Sacramento	95818
+Cleat Road	Santa Clarita	91390
+Cleat St	Beaumont	92223
+Cleaveland Ave	Riverside	92503
+Cleaveland Rd	Pleasant Hill	94523
+Cleaves Ave	San Jose	95126
+Cleaves Ct	Chico	95973
+Cleburn Dr	La Mesa	91942
+Clee Court	Agoura Hills	91301
+Clee St	Belmont	94002
+Cleeco Pl	Poway	92064
+Cleek Ct	Richmond	94806
+Cleek Pl	Palm Springs	92264
+Cleeve Way	San Diego	92117
+Clegg Ct	Petaluma	94954
+Clegg Ct	Spring Valley	91977
+Clegg Dr	Bakersfield	93311
+Clegg St	Petaluma	94954
+Cleghorn	Diamond Bar	91765
+Cleghorn Ct	Fontana	92336
+Cleghorn Dr	Corona	92879
+Cleghorn Drive	Diamond Bar	91765
+Cleghorn Way	Alpine	91901
+Clela Avenue	Los Angeles	90022
+Cleland Ave	Los Gatos	95030
+Cleland Ave	Los Gatos	95032
+Cleland Avenue	Los Angeles	90042
+Cleland Avenue	Los Angeles	90065
+Cleland Ct	Galt	95632
+Cleland Pl	Menlo Park	94025
+Cleland Place	Los Angeles	90065
+Cleland Ranch Rd	Santa Rosa	95404
+Cleland Rd	Twentynine Palms	92277
+Clelia Ct	Petaluma	94954
+Clelia Ln	Petaluma	94954
+Clell Way	Browns Valley	95918
+Clelland Ave	Los Osos	93402
+Clematis Court	Los Angeles	90077
+Clematis Court	Palmdale	93551
+Clematis Ct	Jurupa Valley	91752
+Clematis Dr	Corona	92883
+Clematis Dr	San Jose	95124
+Clematis Dr	Sunnyvale	94086
+Clematis St	Ladera Ranch	92694
+Clematis St	San Diego	92105
+Clematis Street	Vacaville	95687
+Clematis Way	Lakewood	90713
+Clememts Way	Murrieta	92563
+Clemence Ave	San Jose	95122
+Clemence Ct	Corona	92881
+Clemence Ct	San Jose	95122
+Clemenceau Dr	Winchester	92596
+Clemens Ave	Barstow	92311
+Clemens Avenue	Canoga Park	91304
+Clemens Court	Stevenson Ranch	91381
+Clemens Ct	Carlsbad	92008
+Clemens Ct	Ripon	95366
+Clemens Dr	Pla	92870
+Clemens Dr	Placentia	92870
+Clemens Ln	Fallbrook	92028
+Clemens Ln	Lake Forest	92630
+Clemens Ln	Lake Forest	92630-0000
+Clemens Ln	Lake Forest	92630-4103
+Clemens Pl	San Jacinto	92583
+Clemens Road	Terra Bella	93270
+Clemens St	Ventura	93003
+Clemens Way	Bakersfield	93311
+Clemens Way	Sacramento	95864
+Clemens Wy	Lompoc	93436
+Clemensen Cir	Folsom	95630
+Clement	Ben Lomond	95005
+Clement	Idyllwild	92549
+Clement Ave	Bay Point	94565
+Clement Ave	San Pablo	94806
+Clement Ave	Santa Rosa	95401
+Clement Avenue	Dos Palos	93620
+Clement Avenue	Venice	90291
+Clement Cir	Sacramento	95828
+Clement Ct	Anderson	96007
+Clement Ct	Napa	94558
+Clement Dr	Clearlake	95422
+Clement Drive	Glendale	91202
+Clement Rd	Big Bar	96010
+Clement Rd	Idyllwild	92549
+Clement Road	Dos Palos	93620
+Clement Road	Vacaville	95688
+Clement St	Lake Elsinore	92530
+Clement St	San Francisco	94118
+Clement St	San Francisco	94121
+Clement Street	Los Angeles	90033
+Clement Way	City Of Marysville	95901
+Clementa Ave	Bakersfield	93312
+Clementa Way	Modesto	95351
+Clemente	Avalon	90704
+Clemente Ave	Homeland	92548
+Clemente Avenue	Avalon	90704
+Clemente Ct	Novato	94945
+Clemente Ct	Riverside	92503
+Clemente Garden Ln	Hemet	92544
+Clemente Ln	Tracy	95377
+Clemente Pl	San Diego	92117
+Clemente St	Homeland	92548
+Clemente St	Westminster	92683
+Clementia Cir	Rancho Murieta	95683
+Clementina	Seaside	93955
+Clementina Avenue	Seaside	93955
+Clementina Ct	Oakdale	95361
+Clementina Drive	Hacienda Heights	91745
+Clementina St	San Francisco	94103
+Clementina St	San Francisco	94105
+Clementine Ave	Fontana	92336
+Clementine Ave	Long Barn	95335
+Clementine Cir	Buena Park	90620
+Clementine Court	Azusa	91702
+Clementine Court	Covina	91723
+Clementine Court	Glendora	91741
+Clementine Ct	Lathrop	95330
+Clementine Ct	Riverside	92503
+Clementine Ct	Riverside	92507
+Clementine Ct	Tustin	92780
+Clementine Dr	Eastvale	92880
+Clementine Dr	Rocklin	95765
+Clementine Drive	Santa Clarita	91350
+Clementine Lane	Fairfield	94533
+Clementine Lane	La Mirada	90638
+Clementine Ln	Cypress	90630
+Clementine Pl	Highland	92346
+Clementine Pl	San Diego	92126
+Clementine St	Lincoln	95648
+Clementine St	Oceanside	92054
+Clementine St	Redlands	92374
+Clementine St	Wagon Wheel	92679
+Clementine St	Winchester	92596
+Clementine Street	Azusa	91702
+Clementine Way	Banning	92220
+Clementine Way	Elk Grove	95758
+Clementine Way	Fullerton	92833
+Clementine Way	Loma Linda	92354
+Clements Dr	Del Loma	96010
+Clements Rd	Groveland	95321
+Clements Ridge Rd	Butte Valley	95965
+Clements Road	Yuba City	95993
+Clements St	Boulevard	91905
+Clements Way	Murrieta	92563
+Clemenza Way	Elk Grove	95757
+Cleminson Street	El Monte	91731
+Clemmens Ln	Fallbrook	92028
+Clemmens Ln E	Fallbrook	92028
+Clemmensen Ave	Madera	93637
+Clemo Ave	Oroville	95966
+Clemons Cir	Irvine	92604
+Clemons Drive	Encino	91436
+Clemsford Sq	Folsom	95630
+Clemson	Ventura	93003
+Clemson Ave	Lemoore	93245
+Clemson Ave	Saratoga	95070
+Clemson Avenue	Claremont	91711
+Clemson Cir	La Jolla	92037
+Clemson Court	Fairfield	94534
+Clemson Court	Los Banos	93635
+Clemson Court	Merced	95348
+Clemson Court	Woodland	95695
+Clemson Ct	Adelanto	92301
+Clemson Ct	Bakersfield	93306
+Clemson Ct	Moreno Valley	92555
+Clemson Ct	Turlock	95382
+Clemson Ct	Walnut Creek	94597
+Clemson Dr	Eastvale	92880
+Clemson Dr	Rancho Cucamonga	91701
+Clemson Dr	Rancho Mirage	92270
+Clemson Drive	Davis	95618
+Clemson St	Chino	91710
+Clemson St	Hesperia	92344
+Clemson St	Moorpark	93021
+Clemson St	Ventura	93003
+Clemson St	Westminster	92683
+Clemson Street	Los Angeles	90016
+Clemson Way	Riverside	92507
+Clenagh Course Way	Bakersfield	93313
+Clendenen Way	Sacramento	95826
+Clendenin Pa	Ripon	95366
+Cleo Ave	Cupertino	95014
+Cleo Ave	Porterville	93257
+Cleo Court	Yuba City	95993
+Cleo Ct	Bakersfield	93306
+Cleo Ct	Escondido	92027
+Cleo Ct	Redding	96001
+Cleo Ln	Ranchita	92066
+Cleo Rand Ave	San Francisco	94124
+Cleo Springs Ct	San Jose	95131
+Cleo Springs Dr	San Jose	95131
+Cleo St	Laguna Beach	92651
+Cleo St	Novato	94947
+Cleo St	San Diego	92115
+Cleo Way	Sacramento	95821
+Cleome St	Ladera Ranch	92694
+Cleomella Ct	Hemet	92543
+Cleomoore Avenue	West Hills	91307
+Cleon Avenue	North Hollywood	91601
+Cleon Avenue	North Hollywood	91606
+Cleon Avenue	Sun Valley	91352
+Cleone Ln	Eureka	95503
+Cleopatra Dr	Pleasant Hill	94523
+Clerendon Road	Beverly Hills	90210
+Clermont	Newport Beach	92657
+Clermont Avenue	Palmdale	93552
+Clermont Court	Westlake Village	91362
+Clermont Ct	Truckee	96161
+Clermont Street	Los Angeles	90065
+Cleta Ct	Ceres	95307
+Cleta Dr	Riverside	92505
+Cleta Street	Downey	90241
+Cleveland	Santa Cruz	95060
+Cleveland Av	Santa Barbara	93101
+Cleveland Av	Santa Barbara	93103
+Cleveland Ave	Auburn	95603
+Cleveland Ave	Bay Point	94565
+Cleveland Ave	Calexico	92231
+Cleveland Ave	Chico	95928
+Cleveland Ave	Corona	92880
+Cleveland Ave	Costa Mesa	92626
+Cleveland Ave	Escondido	92026
+Cleveland Ave	Madera	93637
+Cleveland Ave	Menifee	92584
+Cleveland Ave	Mill Valley	94941
+Cleveland Ave	National City	91950
+Cleveland Ave	Oak Hills	92344
+Cleveland Ave	Oakdale	95361
+Cleveland Ave	Petaluma	94952
+Cleveland Ave	Pittsburg	94565
+Cleveland Ave	Rancho Cucamonga	91730
+Cleveland Ave	Riverside	92503
+Cleveland Ave	Riverside	92504
+Cleveland Ave	Sacramento	95833
+Cleveland Ave	Salton City	92274
+Cleveland Ave	San Diego	92103
+Cleveland Ave	San Diego	92116
+Cleveland Ave	San Jose	95126
+Cleveland Ave	San Jose	95128
+Cleveland Ave	San Mateo	94403
+Cleveland Ave	Santa Rosa	95401
+Cleveland Ave	Santa Rosa	95403
+Cleveland Ave	Sebastopol	95472
+Cleveland Avenue	Camptonville	95922
+Cleveland Avenue	Camptonville	95960
+Cleveland Avenue	Salinas	93906
+Cleveland Bay Ct	Eastvale	92880
+Cleveland Bay Ln	Yorba Linda	92886
+Cleveland Bay Way	Elk Grove	95757
+Cleveland Bay Way	Moreno Valley	92555
+Cleveland Court	Davis	95616
+Cleveland Ct	Concord	94521
+Cleveland Ct	Lake Elsinore	92530
+Cleveland Ct	Mill Valley	94941
+Cleveland Ct	Rocklin	95765
+Cleveland Ct	Ventura	93003
+Cleveland Dr	Fontana	92336
+Cleveland Dr	Huntington Beach	92648
+Cleveland Dr	Huntington Beach	92648-2409
+Cleveland Dr	Huntington Beach	92648-2410
+Cleveland Dr	Oxnard	93036
+Cleveland Ex	Ferndale	95536
+Cleveland Ext	Ferndale	95536
+Cleveland Forest Dr	Campo	91906
+Cleveland Ln	Gasquet	95543
+Cleveland Ln	Petaluma	94952
+Cleveland Ln	Ukiah	 
+Cleveland Ln	Ukiah	95482
+Cleveland National Forest	Palomar Mountain	92060
+Cleveland Pl	Antioch	94509
+Cleveland Pl	Manteca	95337
+Cleveland Place	Pomona	91768
+Cleveland Road	Glendale	91202
+Cleveland St	Chico	95928
+Cleveland St	Eureka	95503
+Cleveland St	Ferndale	95536
+Cleveland St	Mecca	92254
+Cleveland St	National City	91950
+Cleveland St	Nipomo	93444
+Cleveland St	Oceanside	92054
+Cleveland St	Redwood City	94061
+Cleveland St	Redwood City	94062
+Cleveland St	Riverside	92503
+Cleveland St	San Bernardino	92411
+Cleveland St	San Francisco	94103
+Cleveland St	Selma	93662
+Cleveland St	Temecula	92592
+Cleveland St N	Oceanside	92054
+Cleveland St S	Oceanside	92054
+Cleveland Street	Davis	95616
+Cleveland Street	Etna	96027
+Cleveland Street	Fairfield	94533
+Cleveland Street	Guinda	95637
+Cleveland Street	Los Angeles	90012
+Cleveland Street	Pomona	91768
+Cleveland Street	Woodland	95695
+Cleveland Trl	Vista	92084
+Cleveland Way	Bakersfield	93304
+Cleveland Way	Corona	92881
+Cleveland Way	Hanford	93230
+Clevenger Canyon Rd	Ramona	92065
+Clevenger Dr	Arroyo Grande	93420
+Clevenger Dr	Modesto	95356
+Clevenger Pl	Simi Valley	93065
+Clevenger Rd	Yucca Valley	92284
+Cleverwind	Irvine	92618
+Clevis Road	Rancho Palos Verdes	90275
+Clewley Rd	Hinkley	92347
+Clews Ranch Rd	San Diego	92130

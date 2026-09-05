@@ -1,0 +1,50 @@
+-41 Arreba St	Martinez	94553
+41 Hwy	Lemoore	93245
+41 Sandhill Ct	Chico	95928
+410½ Encinal Av	Roseville	95678
+411½ Circuit Dr	Roseville	95678
+412½ Coronado Av	Roseville	95678
+413½ Grove St	Roseville	95678
+413½ Tahoe Av	Roseville	95678
+415½ Grove St	Roseville	95678
+416½ Sierra Bl	Roseville	95678
+417½ Alta Vista Av	Roseville	95678
+417½ Clinton Av	Roseville	95678
+417½ Clinton Av Unit B	Roseville	95678
+41St	Capitola	95010
+41St	Santa Cruz	95060
+41St	Santa Cruz	95062
+41St	Soquel	95073
+41St Ave	Clearlake	95422
+41St Ave	Indio	92203
+41St Ave	Sacramento	95822
+41St Ave	Sacramento	95824
+41St Ave	San Francisco	94116
+41St Ave	San Francisco	94121
+41St Ave	San Francisco	94122
+41St Ave	San Mateo	94403
+41St Ave	Santa Cruz	95062
+41St Drive	Los Angeles	90008
+41St Drive	Los Angeles	90037
+41St Place	Los Angeles	90011
+41St Place	Los Angeles	90062
+41St St	Banning	92220
+41St St	Emeryville	94608
+41St St	Indio	92203
+41St St	Newport Beach	92663
+41St St	Richmond	94805
+41St St	Sacramento	95817
+41St St	Sacramento	95819
+41St St	Sacramento	95820
+41St St	Sacramento	95824
+41St St	San Diego	92102
+41St St	San Diego	92105
+41St St	San Diego	92113
+41St St	San Diego	92116
+41St Street	Los Angeles	90011
+41St Street	Manhattan Beach	90266
+41St Street East	Palmdale	93552
+41St Street West	Acton	93510
+41St Street West	Lancaster	93536
+41St Street West	Palmdale	93551
+41Th Street West	Lancaster	93536

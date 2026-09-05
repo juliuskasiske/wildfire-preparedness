@@ -1,0 +1,148 @@
+Oakwater Street	Torrance	90502
+Oakway Road	Mount Shasta	96067
+Oakwell Drive	Walnut	91789
+Oakwild Ln	Santa Rosa	95401
+Oakwilde Lane	Los Angeles	90046
+Oakwilde St	Galt	95632
+Oakwind Ct	Orangevale	95662
+Oakwind Ln	Escondido	92026
+Oakwood	Boulder Creek	95006
+Oakwood	Perris	92570
+Oakwood	Scotts Valley	95066
+Oakwood Ave	Ful	92835
+Oakwood Ave	Fullerton	92835
+Oakwood Ave	Hesperia	92345
+Oakwood Ave	San Jose	95124
+Oakwood Avenue	Arcadia	91006
+Oakwood Avenue	Castaic	91384
+Oakwood Avenue	Glendale	91208
+Oakwood Avenue	La Canada Flintridge	91011
+Oakwood Avenue	Los Angeles	90004
+Oakwood Avenue	Los Angeles	90036
+Oakwood Avenue	Los Angeles	90048
+Oakwood Avenue	Lynwood	90262
+Oakwood Avenue	Merced	95348
+Oakwood Avenue	Sierra Madre	91024
+Oakwood Avenue	Vallejo	94591
+Oakwood Avenue	Venice	90291
+Oakwood Blvd	Atherton	94027
+Oakwood Blvd	Atherton	94061
+Oakwood Cir	Clayton	94517
+Oakwood Cir	Martinez	94553
+Oakwood Cir	Vandenberg Village	93436
+Oakwood Cir	Villa Park	92861
+Oakwood Circle	Carmel	93923
+Oakwood Circle	Fairfield	94534
+Oakwood Circle	Grass Valley	95949
+Oakwood Court	Livingston	95334
+Oakwood Court	Los Banos	93635
+Oakwood Creek Glen	Escondido	92027
+Oakwood Creek Pl	Escondido	92027
+Oakwood Creek Way	Escondido	92027
+Oakwood Ct	Arroyo Grande	93420
+Oakwood Ct	Calimesa	92320
+Oakwood Ct	Concord	94521
+Oakwood Ct	Corona	92879
+Oakwood Ct	Fair Oaks	95628
+Oakwood Ct	Hanford	93230
+Oakwood Ct	Hayward	94541
+Oakwood Ct	Lemoore	93245
+Oakwood Ct	Lodi	95240
+Oakwood Ct	Los Altos	94024
+Oakwood Ct	Manteca	95336
+Oakwood Ct	Mckinleyville	95519
+Oakwood Ct	Morgan Hill	95037
+Oakwood Ct	Napa	94558
+Oakwood Ct	San Anselmo	94960
+Oakwood Ct	San Juan Capistrano	92675
+Oakwood Ct	San Luis Obispo	93401
+Oakwood Ct	San Pablo	94806
+Oakwood Ct	Saratoga	95070
+Oakwood Ct	Sonora	95370
+Oakwood Ct	Stockton	95210
+Oakwood Ct	Vandenberg Village	93436
+Oakwood Ct	Yucaipa	92399
+Oakwood Dr	Auburn	95603
+Oakwood Dr	Bakersfield	93304
+Oakwood Dr	East Palo Alto	94303
+Oakwood Dr	Escalon	95320
+Oakwood Dr	Fontana	92337
+Oakwood Dr	Idyllwild	92549
+Oakwood Dr	Julian	92036
+Oakwood Dr	Lake Arrowhead	92352
+Oakwood Dr	Loma Linda	92354
+Oakwood Dr	Millbrae	94030
+Oakwood Dr	Modesto	95350
+Oakwood Dr	Novato	94949
+Oakwood Dr	Petaluma	94954
+Oakwood Dr	Redwood City	94061
+Oakwood Dr	Roseville	95661
+Oakwood Dr	San Bernardino	92405
+Oakwood Dr	San Mateo	94403
+Oakwood Dr	San Rafael	94901
+Oakwood Dr	Santa Clara	95054
+Oakwood Dr	Santa Maria	93454
+Oakwood Dr	Sonoma	95476
+Oakwood Dr	Thousand Oaks	91362
+Oakwood Dr	Yucca Valley	92284
+Oakwood Drive	Arcadia	91006
+Oakwood Drive	Fairfield	94534
+Oakwood Drive	Linda	95901
+Oakwood Drive	Los Banos	93635
+Oakwood Drive	San Marino	91108
+Oakwood Drive	Topanga	90290
+Oakwood Drive	Yuba City	95991
+Oakwood Glen Pl	Valley Center	92082
+Oakwood Hills Ci	Roseville	95661
+Oakwood Hills Cir	Citrus Heights	95610
+Oakwood Lane	Duarte	91010
+Oakwood Lane	La Mirada	90638
+Oakwood Lane	Torrance	90505
+Oakwood Lane	Yreka	96097
+Oakwood Ln	Alamo	94507
+Oakwood Ln	Chino Hills	91709
+Oakwood Ln	Citrus Heights	95621
+Oakwood Ln	Foresthill	95631
+Oakwood Ln	Highland	92346
+Oakwood Ln	Middletown	95461
+Oakwood Ln	Morgan Hill	95037
+Oakwood Ln	Murrieta	92563
+Oakwood Ln	Oroville	95965
+Oakwood Ln	Palermo	95965
+Oakwood Ln	Paradise	95969
+Oakwood Ln	Patterson	95363
+Oakwood Ln	Santa Rosa	95409
+Oakwood Ln	St Helena	94574
+Oakwood Pl	Menlo Park	94025
+Oakwood Pl	Rancho Cucamonga	91730
+Oakwood Pl	Redding	96001
+Oakwood Pl	Riverside	92506
+Oakwood Pl	Yucaipa	92399
+Oakwood Place	Pasadena	91106
+Oakwood Place	Sierra Madre	91024
+Oakwood Rd	Madera	93636
+Oakwood Rd	Mendocino	 
+Oakwood Rd	Orinda	94563
+Oakwood Rd	Perris	92570
+Oakwood Rd	Redding	96003
+Oakwood Rd	Vandenberg Village	93436
+Oakwood Road	California Hot Springs	93207
+Oakwood St	Garden Grove	92840
+Oakwood St	Garden Grove	92843
+Oakwood St	Idyllwild	92549
+Oakwood St	Ojai	93023
+Oakwood St	Paso Robles	93446
+Oakwood St	Perris	92570
+Oakwood St	San Francisco	94110
+Oakwood St	Ventura	93001
+Oakwood St	Victorville	92392
+Oakwood Street	Montebello	90640
+Oakwood Street	Pasadena	91104
+Oakwood Way	El Cajon	92021
+Oakwood Way	Livingston	95334
+Oakwood Way	Oakley	94561
+Oakwood Way	Palm Desert	92260
+Oakwood Way	Pomona	91767
+Oakwood Way	Walnut	91789
+Oakwoods Dr	Mcarthur	96056
+Oakwoods Ln	Shaver Lake	93664

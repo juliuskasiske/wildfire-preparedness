@@ -1,0 +1,217 @@
+Calle La Bomba	San Juan Capistrano	92675
+Calle La Coca	Temecula	92592
+Calle La Costa	Cathedral City	92234
+Calle La Costa	Glendale	91208
+Calle La Cota	Thousand Oaks	91360
+Calle La Cruz	Carmel	93923
+Calle La Cuesta	Riverside	92503
+Calle La Cumbre	Camarillo	93010
+Calle La Escondida	Temecula	92592
+Calle La Espalda	San Clemente	92673
+Calle La Fiesta	Camarillo	93010
+Calle La Fuego	Thousand Oaks	91360
+Calle La Fuente	San Juan Capistrano	92675
+Calle La Granada	Camarillo	93010
+Calle La Guerra	Camarillo	93010
+Calle La Mancha	Tustin	92782
+Calle La Marina	Chula Vista	91914
+Calle La Mesa	Moraga	94556
+Calle La Mirada	Bonita	91902
+Calle La Montana	Moraga	94556
+Calle La Palmera	Camarillo	93010
+Calle La Paloma	Chino Hills	91709
+Calle La Pas	Riverside	92503
+Calle La Paz	Coachella	92236
+Calle La Paz	Riverside	92503
+Calle La Paz	Rowland Heights	91748
+Calle La Paz	Temecula	92590
+Calle La Prada	Camarillo	93010
+Calle La Primavera	Dana Point	92629
+Calle La Primavera	Glendale	91208
+Calle La Purisima	San Juan Capistrano	92675
+Calle La Quinta	Chula Vista	91914
+Calle La Quinta	San Clemente	92673
+Calle La Reina	Bonsall	92003
+Calle La Reina	Rancho Mirage	92270
+Calle La Resolana	Rancho Palos Verdes	90275
+Calle La Rocha	Camarillo	93010
+Calle La Roda	Camarillo	93010
+Calle La Salida	Murrieta	92562
+Calle La Serna	San Clemente	92672
+Calle La Serra	Rancho Santa Fe	92091
+Calle La Soledad	Palm Springs	92262
+Calle La Sombra	Camarillo	93010
+Calle La Veta	San Clemente	92672
+Calle Lacota	Thousand Oaks	91360
+Calle Ladera	Escondido	92025
+Calle Ladera	Menifee	92585
+Calle Ladera	Murrieta	92562
+Calle Ladera	Valley Center	92082
+Calle Lado Bueno	Chino Hills	91709
+Calle Lagartija	Temecula	92592
+Calle Lagasca	Chula Vista	91910
+Calle Lago	Dana Point	92624
+Calle Lago	San Clemente	92672
+Calle Lago	Walnut	91789
+Calle Laguna	Arroyo Grande	93420
+Calle Laguna	Oxnard	93030
+Calle Laguna	Santa Clarita	91390
+Calle Lagunitas	Carpinteria	93013
+Calle Lampara	Murrieta	92562
+Calle Langarica	Temecula	92592
+Calle Lantana	Palm Desert	92260
+Calle Laredo	Thousand Oaks	91360
+Calle Larga	Los Gatos	95032
+Calle Largo	Calabasas	91302
+Calle Larios	Camarillo	93010
+Calle Larriva	Coachella	92236
+Calle Larspur	Rancho Santa Margarita	92688
+Calle Las Bolas	San Clemente	92672
+Calle Las Brisas	Bakersfield	93309
+Calle Las Brisas	Paramount	90723
+Calle Las Brisas	Perris	92570
+Calle Las Brisas	Santa Barbara Unincorporated	93110
+Calle Las Caleras	Santa Barbara	93109
+Calle Las Casas	Oceanside	92056
+Calle Las Casas	Roseville	95747
+Calle Las Casas	Thousand Oaks	91360
+Calle Las Colinas	Creston	93432
+Calle Las Colinas	Thousand Oaks	91320
+Calle Las Dos Hermanitas	Rancho Santa Fe	92067
+Calle Las Flores	Bell Gardens	90201
+Calle Las Flores	Dana Point	92624
+Calle Las Lomas	Temecula	92592
+Calle Las Moras	Vista	92084
+Calle Las Moras Ave	Vista	92084
+Calle Las Palmas	Cathedral City	92234
+Calle Las Palmas	El Cajon	92021
+Calle Las Palmas	Oceanside	92056
+Calle Las Palmas	Pomona	91766
+Calle Las Palmas	San Clemente	92672
+Calle Las Positas	Indio	92203
+Calle Las Positas	Oceanside	92057
+Calle Las Ramblas	La Quinta	92253
+Calle Las Sierras	Joshua Tree	92252
+Calle Las Tiendas	Desert Hot Springs	92240
+Calle Las Trancas	Thousand Oaks	91360
+Calle Lasuen	San Clemente	92672
+Calle Lasuen	Walnut	91789
+Calle Leandro	Coachella	92236
+Calle Leandro	San Dimas	91773
+Calle Lechuga	Bakersfield	93314
+Calle Lee	Los Alamitos	90720
+Calle Leon	Cathedral City	92234
+Calle Leon	Coachella	92236
+Calle Leon	West Covina	91792
+Calle Leonora	Indio	92203
+Calle Leticia	La Jolla	92037
+Calle Leticia	San Clemente	92672
+Calle Liberacion	Rancho Santa Margarita	92688
+Calle Lila	Thousand Oaks	91360
+Calle Lileta	Palm Springs	92262
+Calle Lima	San Clemente	92673
+Calle Limon	Coachella	92236
+Calle Limonero	El Cajon	92019
+Calle Limonero	Thousand Oaks	91360
+Calle Linares	Duarte	91010
+Calle Linares	Santa Barbara	93109
+Calle Linda	Coachella	92236
+Calle Linda	Dana Point	92629
+Calle Linda	Elk Grove	95624
+Calle Linda	Fallbrook	92028
+Calle Linda	Moreno Valley	92555
+Calle Linda	San Dimas	91773
+Calle Linda	Temecula	92592
+Calle Linda Vista	Thousand Oaks	91320
+Calle Lindero	Mission Hills	93436
+Calle Lippizana	Santa Barbara Unincorporated	93117
+Calle Lirio	Thousand Oaks	91360
+Calle Lisa	San Clemente	92672
+Calle Lisbon	Winchester	92596
+Calle Liseta	San Dimas	91773
+Calle Lista	Rancho Mirage	92270
+Calle Llano	Santa Clarita	91390
+Calle Lobina	San Clemente	92673
+Calle Lobito	Murrieta	92562
+Calle Lolita	Los Gatos	95032
+Calle Loma	Dana Point	92624
+Calle Loma Entrada	Indio	92203
+Calle Loma Ln	Bonsall	92003
+Calle Loma Roja	Riverside	92503
+Calle Loma Verde	Riverside	92503
+Calle Loma Vista	Thousand Oaks	91320
+Calle Lomas	Carlsbad	92009
+Calle Lomeda	Fallbrook	92028
+Calle Lomita	Chino Hills	91709
+Calle Lomita	Santa Clarita	91390
+Calle Londe	Temecula	92592
+Calle Lopez	Temecula	92592
+Calle Lora	Mission Hills	93436
+Calle Loredo	Coachella	92236
+Calle Lorena	San Dimas	91773
+Calle Lorenzana	El Cajon	92019
+Calle Lorenzo	San Juan Capistrano	92675
+Calle Loreto	Campo	91906
+Calle Loreto	Palm Springs	92264
+Calle Loro	Palm Springs	92262
+Calle Los Aceitunos	Camarillo	93010
+Calle Los Alamos	Dana Point	92624
+Calle Los Amigos	Joshua Tree	92252
+Calle Los Arboles	Indio	92203
+Calle Los Arboles	Rowland Heights	91748
+Calle Los Arboles	Spring Valley	91978
+Calle Los Arcos	Indio	92203
+Calle Los Batiquitos	Bakersfield	93309
+Calle Los Bosque	Bakersfield	93314
+Calle Los Callados	Diablo	94528
+Calle Los Camichines	Bakersfield	93309
+Calle Los Charros	Paso Robles	93446
+Calle Los Charros	Templeton	93465
+Calle Los Colinas	Creston	93432
+Calle Los Colinas Pl	Creston	93432
+Calle Los Dos Huerfanas	Santa Clarita	91390
+Calle Los Elegantes	San Juan Capistrano	92675
+Calle Los Elegantes	Santa Clarita	91390
+Calle Los Gatos	Camarillo	93010
+Calle Los Hermanos	Coachella	92236
+Calle Los Hibiscos	Rancho Mirage	92270
+Calle Los Hidalgos	Santa Clarita	91390
+Calle Los Manzanos	Bakersfield	93309
+Calle Los Mochis	Temecula	92592
+Calle Los Olivos	Menifee	92585
+Calle Los Olivos	San Clemente	92673
+Calle Los Osos	Indio	92203
+Calle Los Padres	Temecula	92592
+Calle Los Pericos	Murrieta	92562
+Calle Los Robles	Dana Point	92624
+Calle Los Robles	Menifee	92585
+Calle Los Santos	Oceanside	92057
+Calle Louisa	San Clemente	92672
+Calle Loyola	San Clemente	92673
+Calle Lozano	Camarillo	93012
+Calle Luarda	Santa Barbara Unincorporated	93111
+Calle Lucana	San Juan Capistrano	92675
+Calle Lucia	Lakeside	92040
+Calle Lucia Ct	Lakeside	92040
+Calle Lucia Ln	Lakeside	92040
+Calle Lucia Ter	Lakeside	92040
+Calle Luego	San Clemente	92673
+Calle Lumina	Chino Hills	91709
+Calle Lumina	Temecula	92592
+Calle Luminoso	Camarillo	93012
+Calle Luna	Brawley	92227
+Calle Luna	Carlsbad	92009
+Calle Luna	Chino Hills	91709
+Calle Luna	Indio	92201
+Calle Luna	Moreno Valley	92555
+Calle Luna	Temecula	92592
+Calle Luna	Walnut	91789
+Calle Luna Blvd	Brawley	92227
+Calle Luna Nueva	Bre	92823
+Calle Luna Nueva	Brea	92823
+Calle Luna St	Brawley	92227
+Calle Lupita	San Luis Obispo	93401
+Calle Lustrosos	Menifee	92585
+Calle Luz	Temecula	92592
+Calle Lya	Coachella	92236
+Calle Lys	Thousand Oaks	91360

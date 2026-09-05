@@ -1,0 +1,14 @@
+Carque Rd	Alpine	91901
+Carquinez Ave	El Cerrito	94530
+Carquinez Ave	Glen Ellen	95442
+Carquinez Ave	Richmond	94805
+Carquinez Court	Benicia	94510
+Carquinez Pl	Pittsburg	94565
+Carquinez Scenic Dr	Crockett	94525
+Carquinez Scenic Dr	Crockett	94569
+Carquinez Scenic Dr	Martinez	94553
+Carquinez Scenic Dr	Port Costa	94569
+Carquinez Scenic Drive	Port Costa	94569
+Carquinez Street	Vallejo	94590
+Carquinez Way	Crockett	94525
+Carquinez Way	Martinez	94553

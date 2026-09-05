@@ -1,0 +1,376 @@
+E F St	Colton	92324
+E F St	Encinitas	92024
+E F St	Oakdale	95361
+E F St	Ontario	91764
+E F St	Turlock	95380
+E F St	Upland	91786
+E Factory Ln	Oxnard	93030
+E Fairchild Ln	Stockton	95200-5
+E Fairchild Ln	Stockton	95215
+E Fairfax Ave	Fresno	93703
+E Fairfax Rd	Stockton	95205
+E Fairfield Ct	Ontario	91761
+E Fairfield St	Anaheim	92807
+E Fairfield St	Ontario	91761
+E Fairhaven Ave	North Tustin	92705
+E Fairhaven Ave	Orange	92866
+E Fairhaven Ave	Orange	92869
+E Fairhaven Ave	Santa Ana	92701
+E Fairhaven Ave	Santa Ana	92705
+E Fairhaven Ct	Porterville	93257
+E Fairlane Rd	Acampo	95220
+E Fairlee Ct	Anaheim	92807
+E Fairmont Ave	Fresno	93704
+E Fairmont Ave	Fresno	93726
+E Fairmont Ave	Modesto	95350
+E Fairmont Ave	Modesto	95354
+E Fairmount Dr	San Bernardino	92404
+E Fairmount Rd	Burbank	91501
+E Fairview Rd	Bakersfield	93307
+E Fairway	Palm Springs	92264
+E Fairway Blvd	Big Bear City	92314
+E Fairway Dr	Colton	92324
+E Fairway Dr	Orange	92866
+E Falcon Dr	San Bernardino	92410
+E Falcon Hill Dr	Menifee	92584
+E Falcon Meadow Ln	Clovis	93619
+E Falcon View St	Upland	91784
+E Falcon Way	Bre	92823
+E Falconview Ln	Oak Park	91377
+E Fallbrook Ave	Fresno	93720
+E Fallbrook St	Fallbrook	92028
+E Fallbrook Way	Ana	92808
+E Fallbrook Way	Anaheim	92808
+E Fallcreek Cir	Bre	92821
+E Fallingleaf Cir	Bre	92821
+E Fallsview Rd	Ana	92808
+E Fallsview Rd	Anaheim	92808
+E Fan Bay Pl	Corona	92879
+E Fancher Creek Dr	Fresno	93727
+E Fanning Rd	Stockton	95215
+E Fantz	Mendota	93640
+E Fantz Ave	Del Rey	93616
+E Fantz Ave	Fresno	93706
+E Fantz Ave	Parlier	93648
+E Fantz Ave	Sanger	93657
+E Far Canyon Way	Anaheim	92808
+E Fargo Ave	Hanford	93230
+E Fargo St	Stockton	95204
+E Faria St	Camarillo	93010
+E Farm St	Stockton	95215
+E Farmington Rd	Stockton	95205
+E Farmington Rd	Stockton	95215
+E Farr	El Centro	92243
+E Farrin Ave	Fresno	93726
+E Farrin Ave	Fresno	93727
+E Fasley Ave	Simi Valley	93063
+E Fasley St	Simi Valley	93063
+E Fauna Ave	Anaheim	92807
+E Fawcett	Heber	92249
+E Fawcett Ave	Heber	92249
+E Fawcett Rd	Heber	92249
+E Fawn Ct	Manteca	95336
+E Fawn Ct	Ontario	91761
+E Fearing St	Simi Valley	93063
+E Feather River Dr	Fresno	93730
+E Featherhill Dr	Orange	92867
+E Featherhill Ln	Orange	92867
+E Fedora Ave	Fresno	93704
+E Fedora Ave	Fresno	93726
+E Fedora Ave	Fresno	93727
+E Fedora Ave	Fresno	93737
+E Feemster Ave	Visalia	93292
+E Feemster Ct	Visalia	93292
+E Felicita Ave	Escondido	92025
+E Felicita Ct	Upland	91786
+E Felix Ave	Fresno	93725
+E Fellows Dr	Orange	92865
+E Fender Ave	Fresno	93727
+E Ferdinand St	Tracy	95376
+E Ferguson Ave	Visalia	93291
+E Ferguson Ave	Visalia	93292
+E Ferguson Ct	Visalia	93292
+E Ferguson Privado	Ontario	91762
+E Fern Ave	Fresno	93727
+E Fern Ave	Fresno	93728
+E Fern Ave	Redlands	92373
+E Fern Dr	Fullerton	92831
+E Fern Haven Ln	Anaheim	92807
+E Fern Ln	Big Bear City	92314
+E Fern Rd E	Whitmore	96096
+E Fernando Cir	Villa Park	92867
+E Ferndale Ave	Orange	92865
+E Ferndale Ave	Sunnyvale	94085
+E Fernrock St	Carson	90746
+E Fernview St	Simi Valley	93065
+E Fernview St	Whittier	90604
+E Fernway Pl	Mh	95391
+E Fernwood Ave	Orange	92869
+E Ferrari Ln	Ontario	91764
+E Fesler St	Santa Maria	93454
+E Feta Ct	Mh	95391
+E Fetterman Dr	Tracy	95304
+E Fiat St	Carson	90745
+E Fieldbrook Ct	Imperial	92251
+E Fieldcrest Ln	Orange	92869
+E Fieldstone Ave	Clovis	93619
+E Fiesta Green	Port Hueneme	93041
+E Fifth Ave	Oxnard	93030
+E Fifth St	Beaumont	92223
+E Fifth St	Camarillo	93012
+E Fifth St	Hanford	93230
+E Fifth St	Ontario	91764
+E Fifth St	Oxnard	93030
+E Fifth St	Stockton	95206
+E Fig Av	Manteca	95337
+E Fig St	Fallbrook	92028
+E Figueroa St	Santa Barbara	93101
+E Figueroa St	Santa Barbara	93103
+E Figueroa St	Santa Barbara	94102
+E Figueroa St	Ventura	93001
+E Figwood Ln	Anaheim	92806
+E Filamina St	Santa Maria	93454
+E Filbert Pl	Bre	92821
+E Fillmore Ave	Fresno	93702
+E Fillmore Ave	Fresno	93727
+E Fincastle St	Ontario	91761
+E Finch Ct	Fresno	93730
+E Finkbohner Rd	Stockton	95215
+E Finley Rd	Palm Springs	92262
+E Finni Ct	Visalia	93292
+E Fiorino St	Mh	95391
+E Fir	Oxnard	93033
+E Fir Av	Lompoc	93436
+E Fir Ave	Clovis	93619
+E Fir Ave	Fresno	93720
+E Fir Ave	Oxnard	93033
+E Fir St	Bre	92821
+E Fir St	Brea	92821
+E Fir St	Fort Bragg	 
+E Fir St	Manteca	95336
+E Firecrest Ct	Ontario	91761
+E Firefox	Santa Maria	93455
+E Firefox Dr	Santa Maria	93455
+E Firenze Cres	Anaheim	92807
+E Firenze Crescent	Anaheim	92807
+E Firewood Ct	San Bernardino	92404
+E First American Way	Santa Ana	92707
+E First St	Beaumont	92223
+E First St	Calexico	92231
+E First St	Hanford	93230
+E First St	Linden	95236
+E First St	Oxnard	93030
+E First St	San Jacinto	92583
+E First St	Stockton	95206
+E First St	Tracy	95376
+E First St	Victor	95253
+E Firwood Ct	Orange	92866
+E Fisk Rd	Manteca	95336
+E Fitzgerald Ave	Orange	92867
+E Fitzgerald Rd	Simi Valley	93065
+E Flanders Ct	Bre	92821
+E Flemming St	Friant	93626
+E Fleur Pl	Mh	95391
+E Flint Rd	Apple Valley	92307
+E Flint St	Lake Elsinore	92530
+E Flint Way	Fresno	93726
+E Flint Way	Fresno	93727
+E Flint Way	Fresno	93737
+E Flintlock Way	Anaheim	92807
+E Flomar Dr	Whittier	90602
+E Flomar Dr	Whittier	90603
+E Flomar Dr	Whittier	90605
+E Flood Rd	Linden	95236
+E Flora St	Ontario	91764
+E Flora St	Santa Ana	92707
+E Flora St	Stockton	95202
+E Flora St	Stockton	95205
+E Floradora Ave	Fresno	93703
+E Floradora Ave	Fresno	93727
+E Floradora Ave	Fresno	93728
+E Floradora Ave	Fresno	93737
+E Floradora Ave	Sanger	93657
+E Floral	Kingsburg	93631
+E Floral Ave	Fowler	93625
+E Floral Ave	Fresno	93725
+E Floral Ave	Kingsburg	93631
+E Floral Ave	Parlier	93648
+E Floral Ave	Reedley	93654
+E Floral Ave	Selma	93662
+E Floral Ct	Bre	92821
+E Floral Ct	Brea	92821
+E Floral Dr	Whittier	90601
+E Floral Dr	Whittier	90606
+E Florence Ave	Anaheim	92805
+E Florence Ave	Fresno	93706
+E Florence Ave	Fresno	93721
+E Florence Ave	Fresno	93725
+E Florence Ave	Fresno	93727
+E Florence Ave	La Habra	90631
+E Florence Ave	Lah	90631
+E Florence Cir	Anaheim	92807
+E Florence Peak Way	Clovis	93619
+E Floresta Way	Menlo Park	94028
+E Floresta Way	Portola Valley	94028
+E Florida	Hemet	92543
+E Florida	Hemet	92544
+E Florida Av	Stockton	95205
+E Florida Ave	Hemet	92543
+E Florida Ave	Hemet	92544
+E Florida Ave	Hemet	92545
+E Florida Pl	Anaheim	92805
+E Florida Way	Hemet	92543
+E Florinda St	Hanford	93230
+E Flower St	Anaheim	92805
+E Flower St	Chula Vista	91910
+E Flowering Plum Cir	Whittier	90603
+E Flowers Ln	Anderson	96007
+E Flowerwood Ave	Orange	92869
+E Floyd Ct	Fowler	93625
+E Floyd Ct	Santa Maria	93454
+E Flume Ave	Sanger	93657
+E Flutter Privado	Ontario	91761
+E Flying E Ln	Orange	92869
+E Fogg St	Colton	92324
+E Fontana Ct	Fresno	93720
+E Foothill Blvd	Rialto	92376
+E Foothill Blvd	Upland	91786
+E Foothill Dr	Fillmore	93015
+E Foothill Dr	San Bernardino	92404
+E Foothill Dr	Santa Rosa	95404
+E Foothill Ln	Bre	92821
+E Foothill Ln	Ojai	93023
+E Foothill & N 9Th SE	Upland	91786
+E Foothill Rd	Ventura	93003
+E Foothill St	Ana	92808
+E Foothill St	Anaheim	92808
+E Foppiano Ln	Stockton	95212
+E Forbes Pl	Santa Maria	93454
+E Ford St	Corona	92879
+E Fordham Cir	Anaheim	92807
+E Fordyce Rd	Ojai	93023
+E Foreman Ct	Linden	95236
+E Forest Ave	Coalinga	93210
+E Forest Creek Ln	Galt	95632
+E Forest Ct	Coalinga	93210
+E Forest Glen Rd	Anaheim	92807
+E Forest Lake Rd	Acampo	95220
+E Forest Ln	Anaheim	92805
+E Forest Oaks Dr	Fresno	93730
+E Forest Park Ln	Whittier	90603
+E Forest Paseo	Ontario	91762
+E Forest View Dr	Willow Creek	95573
+E Forrest Ln	San Bernardino	92404
+E Forrester Ct	Porterville	93257
+E Forsythia Wy	Mh	95391
+E Fort Rd	Orange	92869
+E Fortune Ave	Fresno	93725
+E Foster Rd	Acampo	95220
+E Foster Rd	Orcutt	93455
+E Foster Rd	Santa Maria	93455
+E Fountain Vw	Clovis	93619
+E Fountain Way	Fresno	93704
+E Fountain Way	Fresno	93726
+E Fountain Way	Fresno	93727
+E Fountain Way	Fresno	93737
+E Four Creeks Ave	Visalia	93292
+E Four Creeks Ct	Visalia	93292
+E Fourteenth	Heber	92249
+E Fourth St	Corona	92879
+E Fourth St	Fillmore	93015
+E Fourth St	French Camp	95231
+E Fourth St	Hanford	93230
+E Fourth St	Niland	92257
+E Fourth St	Ontario	91764
+E Fourth St	Oxnard	93030
+E Fourth St	Perris	92570
+E Fourth St	Ripon	95366
+E Fourth St	Stockton	95206
+E Fourth St	Stockton	95215
+E Fourth St	Tracy	95376
+E Fourth St	Tres Pinos	95023
+E Fox Ct	Redwood City	94061
+E Fox Glen Ave	Fresno	93730
+E Fox Glen Dr	Anaheim	92807
+E Fox Rd	Big Bear City	92314
+E Fox Run Ln	Orange	92869
+E Foxglove Way	Ontario	91761
+E Foxhill Dr	Fresno	93720
+E Foxhollow Dr	Ana	92808
+E Foxhollow Dr	Anaheim	92808
+E Foxley Dr	Whittier	90602
+E Foxley Dr	Whittier	90605
+E Franceen Ln	Stockton	95212
+E Frances Willard Ave	Chico	95926
+E Francis Ave	La Habra	90631
+E Francis Ave	Lah	90631
+E Francis Ln	Santa Maria	93454
+E Francis Ln	Santa Maria	93455
+E Francis St	Corona	92879
+E Francis St	Ontario	91761
+E Francis St	Stockton	95205
+E Francisco Dr	Villa Park	92867
+E Franco Av	Stockton	95212
+E Frandon Ct	Simi Valley	93063
+E Frank Cox Rd	Patterson	95363
+E Frank Ln	Orange	92869
+E Frank Ln	Orange Park Acres	92869
+E Franke St	Carson	90746
+E Franklin	Lake Elsinore	92530
+E Franklin Ave	Fresno	93701
+E Franklin Ave	Ridgecrest	93555
+E Franklin St	Lake Elsinore	92530
+E Franklin St	Whittier	90602
+E Franscella Ln	Ripon	95366
+E Franzen Ave	Santa Ana	92705
+E Frazier Rd	Linden	95236
+E Frederick Ave	Fresno	93720
+E Frederick St	Santa Maria	93454
+E Fredricks St	Barstow	92311
+E Freedom Ave	Anaheim	92801
+E Freedom Ave	Fresno	93720
+E Freeman	Calipatria	92233
+E Freeman Pl	Whittier	90601
+E Freeman St	Calipatria	92233
+E Freeman Street St	Calipatria	92233
+E Freiburg St	Whittier	90602
+E Fremont Ave	Fresno	93710
+E Fremont Ave	Sunnyvale	94087
+E Fremont Ct	Ontario	91761
+E Fremont St	Stockton	95202
+E Fremont St	Stockton	95205
+E Fremont St	Stockton	95215
+E French Camp Rd	Escalon	95320
+E French Camp Rd	French Camp	95231
+E French Camp Rd	Manteca	95206
+E French Camp Rd	Manteca	95336
+E French Camp Rd	Manteca	95337
+E French Camp Rd	Ripon	95320
+E French Camp Rd	Ripon	95366
+E French Camp Rd	Stockton	95206
+E French Camp Rd	Stockton	95231
+E Fresno St	Avenal	93204
+E Fresno St	Fowler	93625
+E Fresno St	Ontario	91764
+E Friant Rd (River Club)	Tracy	95304
+E Frisbee Ln	French Camp	95231
+E Fromer St	Rialto	92376
+E Front Rd	Atascadero	93422
+E Front St	Linden	95236
+E Front St	Selma	93662
+E Front St	Ventura	93001
+E Frontera St	Anaheim	92806
+E Frost Dr	Mh	95391
+E Frostwood St	Ana	92808
+E Frostwood St	Anaheim	92808
+E Fruit St	Santa Ana	92701
+E Fruit St	Santa Ana	92705
+E Fruitvale Ave	Hemet	92543
+E Fruitwood Ln	Whittier	90602
+E Frys Harbor Dr	Camarillo	93012
+E Full Moon Ct	Anaheim	92807
+E Fulton Rd	Santa Rosa	95403
+E Fulton St	Stockton	95204
+E Funck Rd	Farmington	95230
+E Funderburg Bl	Mh	95391
+E Fuschia Wy	Mh	95391

@@ -1,0 +1,37 @@
+East 90Th Street	Los Angeles	90002
+East 90Th Street	Los Angeles	90003
+East 91St Street	Los Angeles	90002
+East 91St Street	Los Angeles	90003
+East 92Nd Street	Los Angeles	90002
+East 92Nd Street	Los Angeles	90003
+East 93Rd Street	Los Angeles	90002
+East 93Rd Street	Los Angeles	90003
+East 94Th Street	Los Angeles	90002
+East 94Th Street	Los Angeles	90003
+East 94Th Street	Los Angeles	90044
+East 94Th Street East	Los Angeles	90002
+East 95Th Place	Los Angeles	90002
+East 95Th Street	Los Angeles	90002
+East 95Th Street	Los Angeles	90003
+East 96Th Place	Los Angeles	90002
+East 96Th Street	Los Angeles	90002
+East 97Th Street	Inglewood	90301
+East 97Th Street	Los Angeles	90002
+East 97Th Street	Los Angeles	90003
+East 98Th Street	Inglewood	90301
+East 98Th Street	Los Angeles	90002
+East 98Th Street	Los Angeles	90003
+East 99Th Place	Los Angeles	90002
+East 99Th Street	Inglewood	90301
+East 99Th Street	Los Angeles	90002
+East 99Th Street	Los Angeles	90003
+East 9Th Place	Los Angeles	90021
+East 9Th Street	Azusa	91702
+East 9Th Street	Claremont	91711
+East 9Th Street	Long Beach	90804
+East 9Th Street	Long Beach	90813
+East 9Th Street	Long Beach	90815
+East 9Th Street	Los Angeles	90015
+East 9Th Street	Los Angeles	90021
+East 9Th Street	Merced	95341
+East 9Th Street	Pomona	91766

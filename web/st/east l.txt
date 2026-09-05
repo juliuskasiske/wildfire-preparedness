@@ -1,0 +1,238 @@
+East L Street	Benicia	94510
+East L Street	Wilmington	90744
+East La Belle Street	Hacienda Heights	91745
+East La Brea Drive	Inglewood	90301
+East La Brea Drive	Inglewood	90302
+East La Calandria Drive	Los Angeles	90032
+East La Calandria Way	Los Angeles	90032
+East La Cara Street	Long Beach	90815
+East La Colina Drive	Inglewood	90302
+East La Crosse Street	Glendora	91741
+East La Dera Drive	Long Beach	90807
+East La Fetra Drive	Glendora	91741
+East La Habra Boulevard	La Habra	90631
+East La Jara Street	Long Beach	90805
+East La Marimba Street	Long Beach	90815
+East La Mesa Drive	Tulare	93274
+East La Moine Street	Hacienda Heights	91745
+East La Palma	Inglewood	90302
+East La Palma Drive	Inglewood	90301
+East La Pasada Street	Long Beach	90815
+East La Purisima Street	Merced	95341
+East La Salle Avenue	Visalia	93292
+East La Salle Court	Visalia	93292
+East La Sierra Drive	Arcadia	91006
+East La Verne Avenue	Pomona	91767
+East La Vida Avenue	Visalia	93277
+East La Vida Avenue	Visalia	93292
+East La Vida Court	Visalia	93292
+East La Vista Avenue	Dinuba	93618
+East Ladera Street	Pasadena	91104
+East Lago Lindo Road	Palmdale	93550
+East Lake	Watsonville	95076
+East Lake Court	City Of Marysville	95901
+East Lake Ct	Banning	92220
+East Lake Ct	Desert Hot Springs	92241
+East Lake Ct	Menifee	92586
+East Lake Dr	Palm Springs	92264
+East Lake Dr	San Diego	92119
+East Lake Dr	San Jose	95126
+East Lake Dr	Yucaipa	92399
+East Lake Rd	Beaumont	92223
+East Lake Shore Drive	Agoura Hills	91301
+East Lake Street	Mount Shasta	96067
+East Lake Street	Venice	90291
+East Lake Street	Weed	96094
+East Lakeview Avenue	Woodlake	93286
+East Lambert Road	Brea	92821
+East Lambert Road	La Habra	90631
+East Lanai Street	Long Beach	90808
+East Lancaster Boulevard	Lancaster	93535
+East Landsford Street	Lancaster	93535
+East Lanfranco Street	Los Angeles	90033
+East Lanfranco Street	Los Angeles	90063
+East Langhorn Street	Lancaster	93535
+East Lanzit Avenue	Los Angeles	90059
+East Lanzit Avenue	Los Angeles	90061
+East Lark Avenue	Visalia	93292
+East Lark Hill Drive	West Covina	91791
+East Larkdale Road	San Gabriel	91775
+East Larkhill Drive	West Covina	91791
+East Larkwood Street	West Covina	91790
+East Larkwood Street	West Covina	91791
+East Larry Street	Farmersville	93223
+East Las Flores Avenue	Arcadia	91006
+East Las Flores Drive	Altadena	91001
+East Las Hermanas Street	Compton	90221
+East Las Lomas Street	Long Beach	90815
+East Las Palmas Drive	Fullerton	92835
+East Las Riendas Drive	La Habra	90631
+East Las Tunas Drive	San Gabriel	91775
+East Las Tunas Drive	San Gabriel	91776
+East Las Tunas Drive	Temple City	91780
+East Las Vecinas Drive	La Puente	91746
+East Lauder Street	Carson	90745
+East Laura Avenue	Visalia	93277
+East Laura Avenue	Visalia	93292
+East Laura Court	Visalia	93277
+East Laura Court	Visalia	93292
+East Laurel Avenue	Glendora	91741
+East Laurel Avenue	Porterville	93257
+East Laurel Avenue	Sierra Madre	91024
+East Laurel Avenue	Tulare	93274
+East Laurel Avenue	Visalia	93277
+East Laurel Avenue	Visalia	93292
+East Laurel Court	Visalia	93292
+East Laurel Court	Walnut	91789
+East Laurel Oak Drive	Azusa	91702
+East Laurel Street	Compton	90220
+East Laurel Street	Compton	90221
+East Laurel Street	Glendale	91204
+East Laurel Street	Glendale	91205
+East Laurelhurst Drive	El Monte	91731
+East Lauren Avenue	Dinuba	93618
+East Lavante Street	Long Beach	90815
+East Lavender Way	Azusa	91702
+East Lavonia Avenue	Pixley	93256
+East Lawford Street	Glendora	91741
+East Laxford Road	Azusa	91702
+East Laxford Road	Covina	91722
+East Laxford Street	Glendora	91740
+East Le Roy Avenue	Arcadia	91006
+East Le Roy Avenue	Arcadia	91007
+East Leadora Avenue	Glendora	91741
+East Leaning Oak Court	Glendora	91741
+East Lee Place	Azusa	91702
+East Lee Street	Los Angeles	90023
+East Lees Way	Long Beach	90815
+East Legacy Place	Rowland Heights	91748
+East Leigh Court	Long Beach	90806
+East Lemoli Avenue	Hawthorne	90250
+East Lemon Avenue	Arcadia	91006
+East Lemon Avenue	Arcadia	91007
+East Lemon Avenue	Glendora	91741
+East Lemon Avenue	Monrovia	91016
+East Lemonwood Drive	La Habra	90631
+East Lenardo Road	Carson	90745
+East Lennon Street	Compton	90220
+East Lennox Street	Yreka	96097
+East Lerda Avenue	Tipton	93272
+East Leroy Street	Los Angeles	90012
+East Leroy Street	San Gabriel	91775
+East Leslie Drive	San Gabriel	91775
+East Levee Road	Elverta	95626
+East Levelglen Drive	West Covina	91792
+East Levico Way	Los Angeles	90077
+East Levin Avenue	Tulare	93274
+East Lew Davis Street	Long Beach	90808
+East Lewis Street	Lindsay	93247
+East Lexington Avenue	Pomona	91766
+East Lexington Drive	Glendale	91203
+East Lexington Drive	Glendale	91206
+East Lexington Street	Pasadena	91104
+East Lime Avenue	Monrovia	91016
+East Lime Kiln Road	Grass Valley	95949
+East Lime Street	Azusa	91702
+East Limecrest Drive	Covina	91724
+East Lincoln Avenue	Los Angeles	90042
+East Lincoln Avenue	Montebello	90640
+East Lincoln Avenue	Pomona	91767
+East Lincoln Avenue	Weed	96094
+East Lincoln High Court	Los Angeles	90031
+East Lincoln Road	El Nido	95317
+East Lincoln Street	Carson	90745
+East Lincoln Street	Porterville	93257
+East Linda Vista Avenue	Alhambra	91801
+East Lindale Street	Bellflower	90706
+East Linden Avenue	Burbank	91502
+East Linden Lane	La Habra	90631
+East Lindmore Street	Lindsay	93247
+East Line Rd	Pioneertown	92268
+East Linfield Street	Azusa	91702
+East Linfield Street	Glendora	91740
+East Lingard Street	Lancaster	93535
+East Linnie Cl	Venice	90291
+East Linsley Street	Compton	90221
+East Linzmeier Drive	Dinuba	93618
+East Lipscomb Avenue	Tipton	93272
+East List Avenue	Exeter	93221
+East Littlefield Street	Long Beach	90808
+East Littlestone Drive	San Gabriel	91776
+East Live Oak Avenue	Arcadia	91006
+East Live Oak Avenue	Arcadia	91007
+East Live Oak Avenue	Irwindale	91706
+East Live Oak Avenue	Temple City	91780
+East Live Oak Street	San Gabriel	91776
+East Livingston Drive	Long Beach	90803
+East Ln	Alamo	94507
+East Ln	Albion	 
+East Ln	Big Bear City	92314
+East Ln	Burlingame	94010
+East Ln	Ceres	95307
+East Ln	Chino Hills	91709
+East Ln	Covelo	 
+East Ln	El Cajon	92021
+East Ln	Imperial Beach	91932
+East Ln	Sacramento	95864
+East Ln A	Jackson	95642
+East Lndg	Big Bear Lake	92315
+East Locust Avenue	Porterville	93257
+East Lode Court	Beale Afb	95903
+East Logan Court	Visalia	93292
+East Lois Avenue	Tulare	93274
+East Lois Court	Tulare	93274
+East Loma Alta Drive	Altadena	91001
+East Loma Lada Drive	Los Angeles	90065
+East Loma Linda Rd	Temecula	92592
+East Loma Vista Street	Covina	91723
+East Loma Vista Street	West Covina	91790
+East Lomira Drive	Covina	91724
+East Lomita Avenue	Glendale	91205
+East Lomita Boulevard	Carson	90745
+East Lomita Boulevard	Wilmington	90744
+East Longden Avenue	Arcadia	91006
+East Longden Avenue	Irwindale	91706
+East Longden Avenue	San Gabriel	91775
+East Longfellow Street	Los Angeles	90042
+East Lonna Linda Drive	Long Beach	90815
+East Loop	Madera	93637
+East Lorain Road	San Gabriel	91775
+East Loraine Street	Glendale	91207
+East Loraine Street	West Covina	91792
+East Loren Lane	Rosemead	91770
+East Lorencita Drive	Covina	91724
+East Lorencita Drive	West Covina	91791
+East Los Altos Drive	Hacienda Heights	91745
+East Los Altos Plaza	Long Beach	90815
+East Los Amigos Avenue	Montebello	90640
+East Los Angeles Avenue	Monrovia	91016
+East Los Arcos Street	Long Beach	90815
+East Los Coyotes Diagonal	Long Beach	90815
+East Los Feliz Road	Glendale	91204
+East Los Feliz Road	Glendale	91205
+East Los Flores Street	Long Beach	90815
+East Los Higos Street	Alhambra	91801
+East Los Robles Avenue	Hacienda Heights	91745
+East Los Santos Drive	Long Beach	90815
+East Louie Road	Montague	96034
+East Louie Road	Montague	96064
+East Louisa Avenue	West Covina	91790
+East Louisa Avenue	West Covina	91791
+East Louise Avenue	Los Angeles	90066
+East Louise Street	Long Beach	90805
+East Lowena Drive	Long Beach	90803
+East Loyola Avenue	Carson	90746
+East Loyola Avenue	Visalia	93292
+East Luchessa Ave	Gilroy	95020
+East Lucia Walk	Long Beach	90803
+East Lucien Street	Compton	90222
+East Lucille Avenue	West Covina	91790
+East Lugo Street	Los Angeles	90023
+East Lumber Street	Lancaster	93535
+East Luray Street	Long Beach	90807
+East Lyndale Drive	Tulare	93274
+East Lynn Avenue	Tulare	93274
+East Lynn Court	Walnut	91789
+East Lynn Street	Los Angeles	90042
+East Lynn Way	Thousand Palms	92276
+East Lynnfield Street	Los Angeles	90032

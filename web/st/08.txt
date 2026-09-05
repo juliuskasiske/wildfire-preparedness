@@ -1,0 +1,16 @@
+08Th Ave	San Diego	92101
+08Th Ave	San Diego	92103
+08Th Ave	San Francisco	94116
+08Th Ave	San Francisco	94118
+08Th Ave	San Francisco	94122
+08Th Pl	Escondido	92029
+08Th St	Coronado	92118
+08Th St	Del Mar	92014
+08Th St	Encinitas	92024
+08Th St	Fallbrook	92028
+08Th St	Imperial Beach	91932
+08Th St	Ramona	92065
+08Th St	San Francisco	94103
+08Th St	San Francisco	94107
+08Th St	San Marcos	92078
+08Th Ti St	San Francisco	94130

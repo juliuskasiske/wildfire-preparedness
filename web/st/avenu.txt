@@ -1,0 +1,1131 @@
+Avenuda Manzana	Desert Hot Springs	92240
+Avenue 1	Lake Elsinore	92530
+Avenue 10	Lake Elsinore	92530
+Avenue 10	Madera	93636
+Avenue 10	Madera	93637
+Avenue 10 1/2	Madera	93636
+Avenue 10 1/2	Madera	93637
+Avenue 10 3/4	Madera	93637
+Avenue 100	Porterville	93257
+Avenue 100	Terra Bella	93270
+Avenue 102	Porterville	93257
+Avenue 102	Terra Bella	93270
+Avenue 104	Pixley	93256
+Avenue 104	Porterville	93257
+Avenue 104	Terra Bella	93270
+Avenue 106	Terra Bella	93270
+Avenue 108	Corcoran	93212
+Avenue 108	Porterville	93257
+Avenue 108	Terra Bella	93270
+Avenue 11	Lake Elsinore	92530
+Avenue 11	Madera	93622
+Avenue 11	Madera	93636
+Avenue 11	Madera	93637
+Avenue 11 1/2	Madera	93637
+Avenue 11 1/4	Madera	93636
+Avenue 11 1/4	Madera	93637
+Avenue 112	Corcoran	93212
+Avenue 112	Pixley	93256
+Avenue 112	Porterville	93257
+Avenue 112	Terra Bella	93270
+Avenue 116	Pixley	93256
+Avenue 116	Porterville	93257
+Avenue 118	Pixley	93256
+Avenue 118	Porterville	93257
+Avenue 12	Earlimart	93219
+Avenue 12	Firebaugh	93622
+Avenue 12	Lake Elsinore	92530
+Avenue 12	Madera	93636
+Avenue 12	Madera	93637
+Avenue 12	Madera	93638
+Avenue 12 1/2	Madera	93636
+Avenue 12 1/2	Madera	93637
+Avenue 12 1/2	Madera	93638
+Avenue 12 1/4	Madera	93636
+Avenue 12 1/4	Madera	93638
+Avenue 12 3/4	Madera	93636
+Avenue 120	Corcoran	93212
+Avenue 120	Pixley	93256
+Avenue 120	Porterville	93257
+Avenue 120	Tipton	93272
+Avenue 124	Porterville	93257
+Avenue 128	Corcoran	93212
+Avenue 128	Pixley	93256
+Avenue 128	Porterville	93257
+Avenue 128	Terra Bella	93270
+Avenue 128	Tipton	93272
+Avenue 13	Madera	93636
+Avenue 13	Madera	93637
+Avenue 13	Madera	93638
+Avenue 13 1/2	Madera	93636
+Avenue 13 1/2	Madera	93637
+Avenue 13 1/2	Madera	93638
+Avenue 13 1/4	Madera	93636
+Avenue 13 1/4	Madera	93638
+Avenue 13 3/4	Madera	93637
+Avenue 132	Porterville	93257
+Avenue 136	Corcoran	93212
+Avenue 136	Porterville	93257
+Avenue 136	Tipton	93272
+Avenue 138	Porterville	93257
+Avenue 14	Chowchilla	93610
+Avenue 14	Madera	93636
+Avenue 14	Madera	93637
+Avenue 14	Madera	93638
+Avenue 14 1/2	Madera	93636
+Avenue 14 1/2	Madera	93637
+Avenue 14 1/2	Madera	93638
+Avenue 140	Porterville	93257
+Avenue 144	Corcoran	93212
+Avenue 144	Porterville	93257
+Avenue 144	Tipton	93272
+Avenue 145	Porterville	93257
+Avenue 146	Porterville	93257
+Avenue 147	Porterville	93257
+Avenue 148	Porterville	93257
+Avenue 15	Madera	93636
+Avenue 15	Madera	93637
+Avenue 15	Madera	93638
+Avenue 15 1/2	Madera	93636
+Avenue 15 1/2	Madera	93637
+Avenue 15 1/2	Madera	93638
+Avenue 15 3/4	Madera	93638
+Avenue 150	Porterville	93257
+Avenue 151	Porterville	93257
+Avenue 152	Porterville	93257
+Avenue 152	Tipton	93272
+Avenue 152	Tulare	93274
+Avenue 154	Porterville	93257
+Avenue 16	Delano	93215
+Avenue 16	Desert Hot Springs	92241
+Avenue 16	Earlimart	93219
+Avenue 16	Madera	93636
+Avenue 16	Madera	93637
+Avenue 16	Madera	93638
+Avenue 16	North Palm Springs	92258
+Avenue 16	White Water	92282
+Avenue 16 1/2	Madera	93636
+Avenue 16 1/2	Madera	93637
+Avenue 16 1/4	Madera	93636
+Avenue 16 1/4	Madera	93638
+Avenue 160	Corcoran	93212
+Avenue 160	Porterville	93257
+Avenue 160	Tipton	93272
+Avenue 160	Tulare	93274
+Avenue 164	Porterville	93257
+Avenue 164	Tipton	93272
+Avenue 166	Tulare	93274
+Avenue 167	Tulare	93274
+Avenue 168	Porterville	93257
+Avenue 168	Tipton	93272
+Avenue 168	Tulare	93274
+Avenue 17	Chowchilla	93610
+Avenue 17	Los Angeles	90031
+Avenue 17	Madera	93636
+Avenue 17	Madera	93637
+Avenue 17	Madera	93638
+Avenue 17 1/2	Chowchilla	93610
+Avenue 17 1/2	Madera	93636
+Avenue 17 1/2	Madera	93637
+Avenue 17 1/2	Madera	93638
+Avenue 17 3/4	Madera	93638
+Avenue 170	Corcoran	93212
+Avenue 172	Tulare	93274
+Avenue 175	Porterville	93257
+Avenue 176	Corcoran	93212
+Avenue 176	Porterville	93257
+Avenue 176	Springville	93265
+Avenue 176	Strathmore	93267
+Avenue 176	Tulare	93274
+Avenue 178	Porterville	93257
+Avenue 178	Strathmore	93267
+Avenue 18	Chowchilla	93610
+Avenue 18	Desert Hot Springs	92241
+Avenue 18	Madera	93637
+Avenue 18	Madera	93638
+Avenue 18	North Palm Springs	92258
+Avenue 18 1/2	Chowchilla	93610
+Avenue 18 1/2	Madera	93636
+Avenue 18 1/2	Madera	93637
+Avenue 18 1/2	Madera	93638
+Avenue 18 1/4	Madera	93638
+Avenue 18 3/4	Madera	93637
+Avenue 18 3/4	Madera	93638
+Avenue 180	Tulare	93274
+Avenue 181	Porterville	93257
+Avenue 182	Porterville	93257
+Avenue 182	Strathmore	93267
+Avenue 184	Porterville	93257
+Avenue 184	Strathmore	93267
+Avenue 184	Tulare	93274
+Avenue 186	Tulare	93274
+Avenue 188	Porterville	93257
+Avenue 188	Strathmore	93267
+Avenue 18A	Madera	93638
+Avenue 19	Chowchilla	93610
+Avenue 19	Madera	93637
+Avenue 19	Madera	93638
+Avenue 19 1/2	Chowchilla	93610
+Avenue 19 1/2	Madera	93637
+Avenue 19 1/2	Madera	93638
+Avenue 190	Porterville	93257
+Avenue 190	Strathmore	93267
+Avenue 190	Tulare	93274
+Avenue 192	Corcoran	93212
+Avenue 192	Strathmore	93267
+Avenue 192	Tulare	93274
+Avenue 194	Strathmore	93267
+Avenue 194	Tulare	93274
+Avenue 195	Strathmore	93267
+Avenue 196	Springville	93265
+Avenue 196	Strathmore	93267
+Avenue 196	Tulare	93274
+Avenue 197	Strathmore	93267
+Avenue 198	Strathmore	93267
+Avenue 198	Tulare	93274
+Avenue 199	Tulare	93274
+Avenue 2	Delano	93215
+Avenue 2	Lake Elsinore	92530
+Avenue 20	Chowchilla	93610
+Avenue 20	Desert Hot Springs	92240
+Avenue 20	Desert Hot Springs	92241
+Avenue 20	Los Angeles	90031
+Avenue 20	Madera	93637
+Avenue 20	Madera	93638
+Avenue 20 1/2	Chowchilla	93610
+Avenue 20 1/2	Madera	93638
+Avenue 20 1/4	Chowchilla	93610
+Avenue 200	Lindsay	93247
+Avenue 200	Strathmore	93267
+Avenue 200	Tulare	93274
+Avenue 202	Strathmore	93267
+Avenue 204	Lindsay	93247
+Avenue 204	Strathmore	93267
+Avenue 204	Tulare	93274
+Avenue 206	Lindsay	93247
+Avenue 206	Strathmore	93267
+Avenue 208	Lindsay	93247
+Avenue 208	Strathmore	93267
+Avenue 208	Tulare	93274
+Avenue 21	Chowchilla	93610
+Avenue 21	Los Angeles	90031
+Avenue 21	Madera	93636
+Avenue 21	Madera	93637
+Avenue 21	Madera	93638
+Avenue 21 1/2	Chowchilla	93610
+Avenue 21 1/2	Madera	93636
+Avenue 21 1/2	Madera	93638
+Avenue 212	Lindsay	93247
+Avenue 212	Tulare	93274
+Avenue 216	Lindsay	93247
+Avenue 216	Tulare	93274
+Avenue 218	Lindsay	93247
+Avenue 22	Chowchilla	93610
+Avenue 22	Desert Hot Springs	92241
+Avenue 22	Los Angeles	90031
+Avenue 22	Madera	93636
+Avenue 22	Madera	93638
+Avenue 22 1/2	Chowchilla	93610
+Avenue 22 1/4	Chowchilla	93610
+Avenue 22 3/4	Chowchilla	93610
+Avenue 220	Lindsay	93247
+Avenue 220	Tulare	93274
+Avenue 222	Lindsay	93247
+Avenue 224	Lindsay	93247
+Avenue 224	Tulare	93274
+Avenue 226	Lindsay	93247
+Avenue 228	Lindsay	93247
+Avenue 228	Tulare	93274
+Avenue 229	Tulare	93274
+Avenue 23	Chowchilla	93610
+Avenue 23	Madera	93638
+Avenue 23 1/2	Chowchilla	93610
+Avenue 230	Lindsay	93247
+Avenue 230	Tulare	93274
+Avenue 232	Lindsay	93247
+Avenue 232	Tulare	93274
+Avenue 234	Lindsay	93247
+Avenue 236	Lindsay	93247
+Avenue 236	Tulare	93274
+Avenue 237	Lindsay	93247
+Avenue 239	Lindsay	93247
+Avenue 24	California Hot Springs	93207
+Avenue 24	Chowchilla	93610
+Avenue 24	Delano	93215
+Avenue 24	Desert Hot Springs	92241
+Avenue 24	Earlimart	93219
+Avenue 24 1/2	Chowchilla	93610
+Avenue 24 1/2 Avenue	Madera 	93638
+Avenue 24 Avenue 24	Chowchilla	93610
+Avenue 240	Lindsay	93247
+Avenue 240	Tulare	93274
+Avenue 240	Visalia	93292
+Avenue 241	Lindsay	93247
+Avenue 242	Lindsay	93247
+Avenue 244	Lindsay	93247
+Avenue 244	Tulare	93274
+Avenue 245	Lindsay	93247
+Avenue 247	Lindsay	93247
+Avenue 248	Exeter	93221
+Avenue 248	Tulare	93274
+Avenue 248	Visalia	93292
+Avenue 25	Chowchilla	93610
+Avenue 25	Los Angeles	90031
+Avenue 25 1/2	Chowchilla	93610
+Avenue 250	Lindsay	93247
+Avenue 252	Exeter	93221
+Avenue 252	Lindsay	93247
+Avenue 252	Tulare	93274
+Avenue 254	Lindsay	93247
+Avenue 256	Exeter	93221
+Avenue 256	Lindsay	93247
+Avenue 256	Tulare	93274
+Avenue 256	Visalia	93292
+Avenue 258	Exeter	93221
+Avenue 26	Chowchilla	93610
+Avenue 26	Los Angeles	90031
+Avenue 26	Los Angeles	90065
+Avenue 26 1/2	Chowchilla	93610
+Avenue 26 Avenue 26	Chowchilla	93610
+Avenue 260	Exeter	93221
+Avenue 260	Tulare	93274
+Avenue 260	Visalia	93292
+Avenue 261	Tulare	93274
+Avenue 262	Exeter	93221
+Avenue 264	Exeter	93221
+Avenue 264	Tulare	93274
+Avenue 264	Visalia	93277
+Avenue 264	Visalia	93292
+Avenue 266	Visalia	93277
+Avenue 266	Visalia	93292
+Avenue 268	Exeter	93221
+Avenue 27	Chowchilla	93610
+Avenue 271	Visalia	93277
+Avenue 272	Visalia	93277
+Avenue 272	Visalia	93292
+Avenue 274	Visalia	93277
+Avenue 276	Visalia	93277
+Avenue 278	Exeter	93221
+Avenue 28	Chowchilla	93610
+Avenue 28	Los Angeles	90031
+Avenue 28	Los Angeles	90065
+Avenue 28 1/2	Chowchilla	93610
+Avenue 280	Exeter	93221
+Avenue 280	Farmersville	93223
+Avenue 280	Visalia	93277
+Avenue 280	Visalia	93292
+Avenue 288	Exeter	93221
+Avenue 288	Farmersville	93223
+Avenue 288	Visalia	93277
+Avenue 288	Visalia	93292
+Avenue 290	Visalia	93277
+Avenue 291	Visalia	93292
+Avenue 292	Visalia	93292
+Avenue 294	Exeter	93221
+Avenue 295	Exeter	93221
+Avenue 296	Exeter	93221
+Avenue 296	Visalia	93277
+Avenue 296	Visalia	93291
+Avenue 296	Visalia	93292
+Avenue 3	Lake Elsinore	92530
+Avenue 3	Madera	93637
+Avenue 3	Westwood	96137
+Avenue 30	Thousand Palms	92276
+Avenue 300	Exeter	93221
+Avenue 304	Exeter	93221
+Avenue 304	Visalia	93291
+Avenue 304	Visalia	93292
+Avenue 305	Visalia	93291
+Avenue 306	Exeter	93221
+Avenue 306	Visalia	93291
+Avenue 308	Exeter	93221
+Avenue 308	Visalia	93291
+Avenue 308	Visalia	93292
+Avenue 309	Visalia	93291
+Avenue 309	Visalia	93292
+Avenue 31	Los Angeles	90031
+Avenue 31	Los Angeles	90065
+Avenue 310	Exeter	93221
+Avenue 310	Visalia	93291
+Avenue 312	Exeter	93221
+Avenue 312	Visalia	93291
+Avenue 312	Visalia	93292
+Avenue 313	Visalia	93292
+Avenue 314	Exeter	93221
+Avenue 314	Visalia	93292
+Avenue 315	Visalia	93292
+Avenue 316	Visalia	93291
+Avenue 318	Exeter	93221
+Avenue 318	Visalia	93292
+Avenue 319	Exeter	93221
+Avenue 32	California Hot Springs	93207
+Avenue 32	Delano	93215
+Avenue 32	Earlimart	93219
+Avenue 32	Los Angeles	90031
+Avenue 32	Los Angeles	90065
+Avenue 320	Exeter	93221
+Avenue 320	Ivanhoe	93235
+Avenue 320	Visalia	93291
+Avenue 320	Visalia	93292
+Avenue 320	Woodlake	93286
+Avenue 322	Visalia	93291
+Avenue 322	Woodlake	93286
+Avenue 324	Exeter	93221
+Avenue 324	Lemon Cove	93244
+Avenue 324	Visalia	93291
+Avenue 324	Visalia	93292
+Avenue 324	Woodlake	93286
+Avenue 325	Visalia	93292
+Avenue 326	Visalia	93291
+Avenue 326	Visalia	93292
+Avenue 327	Ivanhoe	93235
+Avenue 328	Ivanhoe	93235
+Avenue 328	Lemon Cove	93244
+Avenue 328	Visalia	93291
+Avenue 328	Visalia	93292
+Avenue 328	Woodlake	93286
+Avenue 329	Ivanhoe	93235
+Avenue 33	Cathedral City	92234
+Avenue 33	Los Angeles	90031
+Avenue 33	Los Angeles	90065
+Avenue 330	Ivanhoe	93235
+Avenue 330	Lemon Cove	93244
+Avenue 330	Woodlake	93286
+Avenue 332	Ivanhoe	93235
+Avenue 332	Woodlake	93286
+Avenue 334	Lemon Cove	93244
+Avenue 335	Woodlake	93286
+Avenue 336	Ivanhoe	93235
+Avenue 336	Visalia	93291
+Avenue 336	Visalia	93292
+Avenue 336	Woodlake	93286
+Avenue 337	Woodlake	93286
+Avenue 338	Lemon Cove	93244
+Avenue 34	Cathedral City	92234
+Avenue 34	Los Angeles	90065
+Avenue 340	Lemon Cove	93244
+Avenue 340	Visalia	93291
+Avenue 340	Visalia	93292
+Avenue 340	Woodlake	93286
+Avenue 342	Woodlake	93286
+Avenue 344	Visalia	93292
+Avenue 344	Woodlake	93286
+Avenue 348	Woodlake	93286
+Avenue 35	Los Angeles	90031
+Avenue 35	Los Angeles	90065
+Avenue 352	Kingsburg	93631
+Avenue 352	Visalia	93291
+Avenue 352	Visalia	93292
+Avenue 352	Woodlake	93286
+Avenue 356	Visalia	93292
+Avenue 356	Woodlake	93286
+Avenue 36	Earlimart	93219
+Avenue 36	Los Angeles	90031
+Avenue 360	Kingsburg	93631
+Avenue 360	Visalia	93291
+Avenue 360	Visalia	93292
+Avenue 360	Woodlake	93286
+Avenue 362	Visalia	93292
+Avenue 364	Visalia	93292
+Avenue 364	Woodlake	93286
+Avenue 366	Woodlake	93286
+Avenue 368	Dinuba	93618
+Avenue 368	Kingsburg	93631
+Avenue 368	Traver	93673
+Avenue 368	Visalia	93291
+Avenue 368	Visalia	93292
+Avenue 368	Woodlake	93286
+Avenue 37	Los Angeles	90065
+Avenue 370	Woodlake	93286
+Avenue 376	Dinuba	93618
+Avenue 376	Kingsburg	93631
+Avenue 376	Visalia	93292
+Avenue 376	Woodlake	93286
+Avenue 377	Dinuba	93618
+Avenue 377	Kingsburg	93631
+Avenue 378	Dinuba	93618
+Avenue 38	Indio	92201
+Avenue 38	Indio	92203
+Avenue 380	Dinuba	93618
+Avenue 380	Woodlake	93286
+Avenue 381	Visalia	93292
+Avenue 383	Visalia	93292
+Avenue 384	Cutler	93615
+Avenue 384	Dinuba	93618
+Avenue 384	Kingsburg	93631
+Avenue 384	Visalia	93292
+Avenue 384	Woodlake	93286
+Avenue 386	Visalia	93292
+Avenue 388	Cutler	93615
+Avenue 388	Dinuba	93618
+Avenue 388	Kingsburg	93631
+Avenue 388	Visalia	93292
+Avenue 388	Woodlake	93286
+Avenue 39	Earlimart	93219
+Avenue 39	Indio	92203
+Avenue 390	Kingsburg	93631
+Avenue 390	Visalia	93292
+Avenue 392	Cutler	93615
+Avenue 392	Dinuba	93618
+Avenue 392	Kingsburg	93631
+Avenue 392	Visalia	93292
+Avenue 393	Kingsburg	93631
+Avenue 394	Kingsburg	93631
+Avenue 394	Visalia	93292
+Avenue 396	Cutler	93615
+Avenue 396	Dinuba	93618
+Avenue 396	Kingsburg	93631
+Avenue 397	Dinuba	93618
+Avenue 398	Cutler	93615
+Avenue 398	Kingsburg	93631
+Avenue 398	Woodlake	93286
+Avenue 4	Delano	93215
+Avenue 4	Lake Elsinore	92530
+Avenue 4	Madera	93637
+Avenue 4	Westwood	96137
+Avenue 4 1/2	Madera	93637
+Avenue 40	Delano	93215
+Avenue 40	Earlimart	93219
+Avenue 40	Indio	92203
+Avenue 40	Los Angeles	90065
+Avenue 400	Cutler	93615
+Avenue 400	Dinuba	93618
+Avenue 400	Kingsburg	93631
+Avenue 400	Orosi	93647
+Avenue 402	Cutler	93615
+Avenue 403	Cutler	93615
+Avenue 404	Cutler	93615
+Avenue 404	Dinuba	93618
+Avenue 404	Kingsburg	93631
+Avenue 404	Woodlake	93286
+Avenue 406	Cutler	93615
+Avenue 406	Dinuba	93618
+Avenue 407	Cutler	93615
+Avenue 408	Cutler	93615
+Avenue 408	Dinuba	93618
+Avenue 408	Kingsburg	93631
+Avenue 408	Orosi	93647
+Avenue 408	Reedley	93654
+Avenue 41	Indio	92203
+Avenue 41	Los Angeles	90031
+Avenue 41	Los Angeles	90065
+Avenue 410	Dinuba	93618
+Avenue 410	Reedley	93654
+Avenue 412	Dinuba	93618
+Avenue 412	Orosi	93647
+Avenue 412	Sultana	93666
+Avenue 413	Orosi	93647
+Avenue 414	Orosi	93647
+Avenue 415	Orosi	93647
+Avenue 416	Dinuba	93618
+Avenue 416	Kingsburg	93631
+Avenue 416	Orosi	93647
+Avenue 416	Reedley	93654
+Avenue 416	Sultana	93666
+Avenue 417	Orosi	93647
+Avenue 417	Sultana	93666
+Avenue 418	Orosi	93647
+Avenue 419	Orosi	93647
+Avenue 42	Alpaugh	93201
+Avenue 42	Indio	92203
+Avenue 42	Nuevo	92203
+Avenue 42	Palm Desert	92260
+Avenue 420	Dinuba	93618
+Avenue 420	Orosi	93647
+Avenue 420	Reedley	93654
+Avenue 422	Orosi	93647
+Avenue 422	Reedley	93654
+Avenue 424	Dinuba	93618
+Avenue 424	Orosi	93647
+Avenue 424	Reedley	93654
+Avenue 426	Dinuba	93618
+Avenue 426	Reedley	93654
+Avenue 428	Dinuba	93618
+Avenue 428	Orosi	93647
+Avenue 43	Indio	92201
+Avenue 43	Los Angeles	90031
+Avenue 43	Los Angeles	90041
+Avenue 430	Dinuba	93618
+Avenue 430	Reedley	93654
+Avenue 432	Dinuba	93618
+Avenue 432	Orosi	93647
+Avenue 432	Reedley	93654
+Avenue 436	Orosi	93647
+Avenue 438	Orosi	93647
+Avenue 44	Coachella	92236
+Avenue 44	Indio	92201
+Avenue 44	Indio	92203
+Avenue 44	Palm Desert	92260
+Avenue 440	Orosi	93647
+Avenue 444	Orange Cove	93646
+Avenue 444	Orosi	93647
+Avenue 45	Coachella	92236
+Avenue 45	Indio	92201
+Avenue 45	Los Angeles	90041
+Avenue 45	Los Angeles	90065
+Avenue 450	Orange Cove	93646
+Avenue 452	Orange Cove	93646
+Avenue 456	Orange Cove	93646
+Avenue 46	Alpaugh	93201
+Avenue 46	Earlimart	93219
+Avenue 46	Indio	92201
+Avenue 46	Los Angeles	90041
+Avenue 46	Los Angeles	90065
+Avenue 46 Ln	Indio	92201
+Avenue 460	Orange Cove	93646
+Avenue 464	Orange Cove	93646
+Avenue 468	Orange Cove	93646
+Avenue 47	Coachella	92236
+Avenue 47	Indio	92201
+Avenue 47	La Quinta	92253
+Avenue 472	Orange Cove	93646
+Avenue 474	Orange Cove	93646
+Avenue 48	California Hot Springs	93207
+Avenue 48	Coachella	92236
+Avenue 48	Earlimart	93219
+Avenue 48	Indio	92201
+Avenue 48	Indio	92236
+Avenue 48	La Quinta	92253
+Avenue 48	Los Angeles	90042
+Avenue 48 Ave	Indio	92201
+Avenue 480	Orange Cove	93646
+Avenue 49	Coachella	92236
+Avenue 49	Indio	92201
+Avenue 49	Los Angeles	90042
+Avenue 5	Lake Elsinore	92530
+Avenue 5	Madera	93637
+Avenue 5	Westwood	96137
+Avenue 5 1/2	Madera	93637
+Avenue 5 1/2	Madera	93638
+Avenue 5 1/4	Madera	93637
+Avenue 50	Alpaugh	93201
+Avenue 50	Coachella	92236
+Avenue 50	Indio	92201
+Avenue 50	Indio	92236
+Avenue 50	La Quinta	92253
+Avenue 50	Los Angeles	90042
+Avenue 50 St	Coachella	92236
+Avenue 51	Coachella	92236
+Avenue 51	Indio	92201
+Avenue 51	Los Angeles	90042
+Avenue 52	Alpaugh	93201
+Avenue 52	Coachella	92236
+Avenue 52	Earlimart	93219
+Avenue 52	Indio	92201
+Avenue 52	La Quinta	92253
+Avenue 52	Los Angeles	90042
+Avenue 52	Thermal	92274
+Avenue 53	Coachella	92236
+Avenue 53	Los Angeles	90042
+Avenue 53	Thermal	92274
+Avenue 54	Alpaugh	93201
+Avenue 54	Coachella	92236
+Avenue 54	La Quinta	92253
+Avenue 54	Los Angeles	90042
+Avenue 54	Thermal	92274
+Avenue 55	Ducor	93218
+Avenue 55	Los Angeles	90042
+Avenue 55	Thermal	92274
+Avenue 56	Alpaugh	93201
+Avenue 56	California Hot Springs	93207
+Avenue 56	Ducor	93218
+Avenue 56	Earlimart	93219
+Avenue 56	Los Angeles	90042
+Avenue 56	Porterville	93257
+Avenue 56	Thermal	92274
+Avenue 57	Los Angeles	90042
+Avenue 57	Thermal	92274
+Avenue 57Th Street West	Lancaster	93536
+Avenue 58	Alpaugh	93201
+Avenue 58	Ducor	93218
+Avenue 58	Earlimart	93219
+Avenue 58	La Quinta	92253
+Avenue 58	Los Angeles	90042
+Avenue 58	Thermal	92274
+Avenue 59	Los Angeles	90042
+Avenue 59	Thermal	92274
+Avenue 6	Firebaugh	93622
+Avenue 6	Lake Elsinore	92530
+Avenue 6	Madera	93637
+Avenue 6 1/2	Madera	93637
+Avenue 6 Dr	Lake Elsinore	92530
+Avenue 60	Ducor	93218
+Avenue 60	Earlimart	93219
+Avenue 60	La Quinta	92253
+Avenue 60	Los Angeles	90042
+Avenue 60	Thermal	92274
+Avenue 61	Los Angeles	90042
+Avenue 61	Mecca	92254
+Avenue 61	Thermal	92274
+Avenue 62	Alpaugh	93201
+Avenue 62	Ducor	93218
+Avenue 62	La Quinta	92253
+Avenue 62	Mecca	92254
+Avenue 62	Thermal	92274
+Avenue 63	Los Angeles	90042
+Avenue 63	Mecca	92254
+Avenue 63	Thermal	92274
+Avenue 64	Ducor	93218
+Avenue 64	Earlimart	93219
+Avenue 64	Los Angeles	90042
+Avenue 64	Mecca	92254
+Avenue 64	Pasadena	91105
+Avenue 64	Terra Bella	93270
+Avenue 64	Thermal	92274
+Avenue 65	Los Angeles	90042
+Avenue 65	Mecca	92254
+Avenue 65	Thermal	92274
+Avenue 66	Los Angeles	90042
+Avenue 66	Mecca	92254
+Avenue 66	Terra Bella	93270
+Avenue 66	Thermal	92274
+Avenue 67	Los Angeles	90042
+Avenue 68	Alpaugh	93201
+Avenue 68	Earlimart	93219
+Avenue 68	Mecca	92254
+Avenue 68	Terra Bella	93270
+Avenue 68	Thermal	92274
+Avenue 68 Ave	Mecca	92254
+Avenue 69	Mecca	92254
+Avenue 7	Madera	93636
+Avenue 7	Madera	93637
+Avenue 7 1/2	Firebaugh	93622
+Avenue 7 1/2	Madera	93636
+Avenue 7 1/2	Madera	93637
+Avenue 70	Mecca	92254
+Avenue 70	Terra Bella	93270
+Avenue 70	Thermal	92274
+Avenue 71	Mecca	92254
+Avenue 71	Thermal	92274
+Avenue 72	Earlimart	93219
+Avenue 72	Mecca	92254
+Avenue 72	Terra Bella	93270
+Avenue 72	Thermal	92274
+Avenue 73	Mecca	92254
+Avenue 73	Thermal	92274
+Avenue 74	Mecca	92254
+Avenue 74	Terra Bella	93270
+Avenue 74	Thermal	92274
+Avenue 75	Thermal	92274
+Avenue 76	Earlimart	93219
+Avenue 76	Mecca	92254
+Avenue 76	Pixley	93256
+Avenue 76	Terra Bella	93270
+Avenue 76	Thermal	92274
+Avenue 77	Thermal	92274
+Avenue 78	Earlimart	93219
+Avenue 78	Mecca	92254
+Avenue 78	Pixley	93256
+Avenue 78	Terra Bella	93270
+Avenue 78	Thermal	92274
+Avenue 79	Thermal	92274
+Avenue 8	Delano	93215
+Avenue 8	Earlimart	93219
+Avenue 8	Madera	93636
+Avenue 8	Madera	93637
+Avenue 8	Madera	93638
+Avenue 8 1/2	Madera	93636
+Avenue 8 1/2	Madera	93637
+Avenue 80	Earlimart	93219
+Avenue 80	Pixley	93256
+Avenue 80	Terra Bella	93270
+Avenue 80	Thermal	92274
+Avenue 81	Thermal	92274
+Avenue 82	Terra Bella	93270
+Avenue 82	Thermal	92274
+Avenue 84	Earlimart	93219
+Avenue 84	Pixley	93256
+Avenue 84	Porterville	93257
+Avenue 84	Terra Bella	93270
+Avenue 84	Thermal	92274
+Avenue 86	Terra Bella	93270
+Avenue 86	Thermal	92274
+Avenue 88	Earlimart	93219
+Avenue 88	Pixley	93256
+Avenue 88	Terra Bella	93270
+Avenue 9	Lake Elsinore	92530
+Avenue 9	Madera	93635
+Avenue 9	Madera	93637
+Avenue 9	Madera 	93636
+Avenue 9 1/2	Firebaugh	93622
+Avenue 9 1/2	Madera	93637
+Avenue 90	Terra Bella	93270
+Avenue 92	Terra Bella	93270
+Avenue 93	Terra Bella	93270
+Avenue 94	Terra Bella	93270
+Avenue 95	Terra Bella	93270
+Avenue 96	Corcoran	93212
+Avenue 96	Pixley	93256
+Avenue 96	Porterville	93257
+Avenue 96	Terra Bella	93270
+Avenue A	Barstow	92311
+Avenue A	Blythe	92225
+Avenue A	Kingsburg	93631
+Avenue A	Lakeport	95453
+Avenue A	Lancaster	93534
+Avenue A	Lancaster	93536
+Avenue A	March Air Reserve Base	92518
+Avenue A	Modesto	95358
+Avenue A	Redondo Beach	90277
+Avenue A	Ripon	95366
+Avenue A	Torrance	90505
+Avenue A	Yucaipa	92399
+Avenue A-14	Lancaster	93536
+Avenue A-8	Lancaster	93536
+Avenue Abuelitos	Fountain Valley	92708
+Avenue Alhambra	El Granada	94018
+Avenue Alhambra	El Granada	94019
+Avenue Alhambra Ave	El Granada	94018
+Avenue Alhambra St	El Granada	94018
+Avenue Alvarado	La Quinta	92253
+Avenue B	Barstow	92311
+Avenue B	Blythe	92225
+Avenue B	Calimesa	92320
+Avenue B	Kingsburg	93631
+Avenue B	Lakeport	95453
+Avenue B	Lancaster	93536
+Avenue B	Modesto	95358
+Avenue B	Perris	92570
+Avenue B	Redondo Beach	90277
+Avenue B	San Francisco	94130
+Avenue B	San Jose	95127
+Avenue B	Torrance	90505
+Avenue B	Yucaipa	92399
+Avenue B-10	Lancaster	93536
+Avenue B Ct	Yucaipa	92399
+Avenue B St	Perris	92570
+Avenue B8	Lancaster	93536
+Avenue Balboa	El Granada	94018
+Avenue Balboa	Half Moon Bay	94018
+Avenue Balboa	Other	94018
+Avenue Balboa Ave	El Granada	94018
+Avenue Balboa Blvd	Half Moon Bay	94018
+Avenue Bernardo	San Dimas	91773
+Avenue C	Barstow	92311
+Avenue C	Big Bear City	92314
+Avenue C	Kingsburg	93631
+Avenue C	Lancaster	93536
+Avenue C	Modesto	95358
+Avenue C	Perris	92570
+Avenue C	Redondo Beach	90277
+Avenue C	San Jose	95127
+Avenue C	Torrance	90505
+Avenue C	Yucaipa	92399
+Avenue C12	Lancaster	93536
+Avenue C8	Lancaster	93536
+Avenue Cabrillo	El Granada	94018
+Avenue Cabrillo	El Granada	94019
+Avenue Colina	San Dimas	91773
+Avenue Compadres	Fountain Valley	92708
+Avenue Conejo	Azusa	91702
+Avenue Crocker	Valencia	91355
+Avenue D	Barstow	92311
+Avenue D	Kingsburg	93631
+Avenue D	Lancaster	93536
+Avenue D	Modesto	95358
+Avenue D	Perris	92570
+Avenue D	Redondo Beach	90277
+Avenue D	San Francisco	94130
+Avenue D	Yucaipa	92399
+Avenue D10	Lancaster	93536
+Avenue D12	Lancaster	93536
+Avenue D14	Lancaster	93536
+Avenue D15	Lancaster	93536
+Avenue D2	Lancaster	93536
+Avenue De Camino	Palmdale	93552
+Avenue De Casas	Palmdale	93552
+Avenue De Castillo	Long Beach	90803
+Avenue De Diego	Palmdale	93552
+Avenue De Matadore Street	Vacaville	95687
+Avenue De Monaco	Cardiff	92007
+Avenue De Monaco	Cardiff By The Sea	92007
+Avenue De Palma	Jurupa Valley	92509
+Avenue De Paloma	Palmdale	93552
+Avenue Del Mar	Lancaster	93535
+Avenue Del Mar	Toro Canyon	93013
+Avenue Del Norte	San Anselmo	94960
+Avenue Del Ora	Redwood City	94062
+Avenue Del Oro	El Granada	94018
+Avenue Del Oro	El Granada	94019
+Avenue Del Oro	Half Moon Bay	94019
+Avenue Del Oro	Sonoma	95476
+Avenue Del Playa	Lancaster	93535
+Avenue Del Rio	Lancaster	93535
+Avenue Del Sol	Cathedral City	92234
+Avenue Del Sol	Fontana	92337
+Avenue Deleitante	Walnut	91789
+Avenue Deseo	Walnut	91789
+Avenue Don Benito	Jurupa Valley	92509
+Avenue E	Barstow	92311
+Avenue E	Kingsburg	93631
+Avenue E	Perris	92570
+Avenue E	Redondo Beach	90277
+Avenue E	San Francisco	94130
+Avenue E	Yucaipa	92399
+Avenue E & California NW	Yucaipa	92399
+Avenue E St	Perris	92570
+Avenue E4	Lancaster	93536
+Avenue E8	Lancaster	93536
+Avenue East	Lancaster	93535
+Avenue Espana	La Mirada	90638
+Avenue Estoril	Long Beach	90814
+Avenue F	Barstow	92311
+Avenue F	Kingsburg	93631
+Avenue F	Lancaster	93536
+Avenue F	Redondo Beach	90277
+Avenue F14	Lancaster	93535
+Avenue Fernando	La Quinta	92253
+Avenue Fernando	San Dimas	91773
+Avenue G	Barstow	92311
+Avenue G	Lancaster	93534
+Avenue G	Lancaster	93535
+Avenue G	Redondo Beach	90277
+Avenue G	San Francisco	94130
+Avenue G	Yucaipa	92399
+Avenue G Ave	Bombay Beach	92257
+Avenue G St	Barstow	92311
+Avenue G6	Lancaster	93535
+Avenue G8	Lancaster	93535
+Avenue Granada	El Granada	94018
+Avenue Granada	Half Moon Bay	94018
+Avenue Granada	Long Beach	90814
+Avenue Granada Ave	El Granada	94018
+Avenue Grulla	Walnut	91789
+Avenue H	Lancaster	93534
+Avenue H	Lancaster	93535
+Avenue H	Lancaster	93536
+Avenue H	Redondo Beach	90277
+Avenue H	San Francisco	94130
+Avenue H	Yucaipa	92399
+Avenue H-6	Lancaster	93535
+Avenue H-9	Lancaster	93535
+Avenue H10	Lancaster	93535
+Avenue H10	Lancaster	93536
+Avenue H12	Lancaster	93535
+Avenue H13	Lancaster	93535
+Avenue H14	Lancaster	93534
+Avenue H14	Lancaster	93535
+Avenue H2	Lancaster	93535
+Avenue H4	Lancaster	93535
+Avenue H5	Lancaster	93535
+Avenue H6	Lancaster	93535
+Avenue H7	Lancaster	93535
+Avenue H8	Lancaster	93534
+Avenue H8	Lancaster	93535
+Avenue Hall	Valencia	91355
+Avenue Hidalgo	Vacaville	95687
+Avenue Hopkins	Valencia	91355
+Avenue I	Barstow	92311
+Avenue I	Lake Elsinore	92530
+Avenue I	Lancaster	93534
+Avenue I	Lancaster	93535
+Avenue I	Lancaster	93536
+Avenue I	Redondo Beach	90277
+Avenue I	San Francisco	94130
+Avenue I	Yucaipa	92399
+Avenue J	Barstow	92311
+Avenue J	Lancaster	93534
+Avenue J	Lancaster	93535
+Avenue J	Yucaipa	92399
+Avenue J-1	Lancaster	93536
+Avenue J 12	Lancaster	93534
+Avenue J1	Lancaster	93535
+Avenue J10	Lancaster	93536
+Avenue J11	Lancaster	93536
+Avenue J12	Lancaster	93536
+Avenue J14	Lancaster	93535
+Avenue J3	Lancaster	93534
+Avenue J3	Lancaster	93535
+Avenue J4	Lancaster	93536
+Avenue J7	Lancaster	93536
+Avenue J8	Lancaster	93535
+Avenue J8	Lancaster	93536
+Avenue Jadida	Palm Desert	92260
+Avenue Juan Bautista	Jurupa Valley	92509
+Avenue Juan Diaz	Jurupa Valley	92509
+Avenue K	Calimesa	92320
+Avenue K	Lancaster	93534
+Avenue K	Lancaster	93535
+Avenue K	Lancaster	93536
+Avenue K-10 West	Lancaster	93536
+Avenue K-4	Lancaster	93535
+Avenue K-6	Lancaster	93535
+Avenue K West	Lancaster	93536
+Avenue K10	Lancaster	93535
+Avenue K10	Lancaster	93536
+Avenue K12	Lancaster	93536
+Avenue K14	Lancaster	93536
+Avenue K15	Lancaster	93535
+Avenue K2	Lancaster	93535
+Avenue K3	Lancaster	93535
+Avenue K4	Lancaster	93535
+Avenue K6	Lancaster	93535
+Avenue K6	Lancaster	93536
+Avenue K8	Lancaster	93535
+Avenue K8	Lancaster	93536
+Avenue Kearny	Valencia	91355
+Avenue L	Calimesa	92320
+Avenue L	Lancaster	93534
+Avenue L	Lancaster	93536
+Avenue L-4 West	Lancaster	93536
+Avenue L-5 West	Lancaster	93536
+Avenue L-6	Lancaster	93534
+Avenue L-6 West	Lancaster	93536
+Avenue L-7 West	Lancaster	93536
+Avenue L12	Lancaster	93534
+Avenue L12	Lancaster	93535
+Avenue L12	Lancaster	93536
+Avenue L14	Lancaster	93534
+Avenue L2	Lancaster	93534
+Avenue L4	Lancaster	93534
+Avenue L4	Lancaster	93536
+Avenue L7	Lancaster	93536
+Avenue L8	Lancaster	93534
+Avenue L8	Lancaster	93535
+Avenue L8	Lancaster	93536
+Avenue L8	Palmdale	93552
+Avenue Ladera	San Dimas	91773
+Avenue Lomita	San Dimas	91773
+Avenue M	Lancaster	93534
+Avenue M	Palmdale	93551
+Avenue M	San Francisco	94130
+Avenue M10	Lancaster	93536
+Avenue M11	Lancaster	93536
+Avenue M12	Lancaster	93536
+Avenue M14	Palmdale	93550
+Avenue M2	Lancaster	93536
+Avenue M4	Lancaster	93536
+Avenue M4	Palmdale	93551
+Avenue M5	Lancaster	93536
+Avenue M6	Lancaster	93536
+Avenue M8	Lancaster	93536
+Avenue Melisenda	San Dimas	91773
+Avenue Mendocino	Irvine	92606
+Avenue Mentry	Valencia	91355
+Avenue Mirola	Palos Verdes Peninsula	90274
+Avenue Morelos	Woodland Hills	91364
+Avenue N	Redlands	92373
+Avenue N	San Francisco	94130
+Avenue N3	Palmdale	93551
+Avenue N4	Palmdale	93551
+Avenue N8	Palmdale	93551
+Avenue Navarro	La Quinta	92253
+Avenue North	Lancaster	93536
+Avenue North	Palmdale	93551
+Avenue O	Lancaster	93535
+Avenue O	Palmdale	93591
+Avenue O-8	Palmdale	93551
+Avenue O8	Palmdale	93551
+Avenue Of Arts	San Diego	92182
+Avenue Of Flags	Buellton	93427
+Avenue Of Industry	San Diego	92128
+Avenue Of Science	San Diego	92128
+Avenue Of The Arts	Costa Mesa	92626
+Avenue Of The Dramatic Arts	San Diego	92182
+Avenue Of The Flags	San Rafael	94903
+Avenue Of The Oaks	Newhall	91321
+Avenue Of The Palms	San Francisco	94130
+Avenue Of The Stars	Los Angeles	90067
+Avenue Of The States	Palm Desert	92211
+Avenue Of The Trees	Carlsbad	92008
+Avenue One	Atwater	95301
+Avenue One	Merced	95301
+Avenue One	Merced	95348
+Avenue One	San Jose	95123
+Avenue One Dr	San Jose	95123
+Avenue P	Palmdale	93550
+Avenue P	Palmdale	93551
+Avenue P-14	Palmdale	93551
+Avenue P-8	Palmdale	93551
+Avenue P12	Palmdale	93551
+Avenue P4	Palmdale	93591
+Avenue P6	Palmdale	93551
+Avenue Paine	Valencia	91355
+Avenue Penn	Valencia	91355
+Avenue Penn Avenue	Valencia	91355
+Avenue Portola	El Granada	94018
+Avenue Portola	El Granada	94019
+Avenue Portola Ave	El Granada	94018
+Avenue Portola St	El Granada	94018
+Avenue Q	Palmdale	93550
+Avenue Q	Palmdale	93551
+Avenue Q	Palmdale	93591
+Avenue Q1	Palmdale	93591
+Avenue Q10	Palmdale	93552
+Avenue Q12	Palmdale	93550
+Avenue Q13	Palmdale	93550
+Avenue Q14	Littlerock	93543
+Avenue Q2	Palmdale	93550
+Avenue Q3	Palmdale	93550
+Avenue Q4	Palmdale	93550
+Avenue Q4	Palmdale	93591
+Avenue Q5	Palmdale	93550
+Avenue Q7	Palmdale	93550
+Avenue Q7	Palmdale	93591
+Avenue Q9	Palmdale	93550
+Avenue R	Littlerock	93543
+Avenue R	Palmdale	93550
+Avenue R-4	Littlerock	93543
+Avenue R-8	Palmdale	93551
+Avenue R1	Palmdale	93550
+Avenue R10	Littlerock	93543
+Avenue R12	Littlerock	93543
+Avenue R12	Palmdale	93550
+Avenue R12	Palmdale	93551
+Avenue R12	Palmdale	93552
+Avenue R14	Littlerock	93543
+Avenue R2	Littlerock	93543
+Avenue R2	Palmdale	93591
+Avenue R4	Littlerock	93543
+Avenue R4	Palmdale	93552
+Avenue R6	Littlerock	93543
+Avenue Rockefeller	Valencia	91355
+Avenue S12	Littlerock	93543
+Avenue S14	Littlerock	93543
+Avenue S6	Littlerock	93543
+Avenue S8	Littlerock	93543
+Avenue San Luis	Woodland Hills	91364
+Avenue Santa Tecla	La Mirada	90638
+Avenue Sausalito	Irvine	92606
+Avenue Scott	Valencia	91355
+Avenue Sherman	Valencia	91355
+Avenue South	Littlerock	93543
+Avenue South	Palmdale	93550
+Avenue South	Palmdale	93552
+Avenue Stanford	Valencia	91355
+Avenue Suenos	Fountain Valley	92708
+Avenue T	Littlerock	93543
+Avenue T	Palmdale	93552
+Avenue T10	Littlerock	93543
+Avenue T12	Littlerock	93543
+Avenue T14	Littlerock	93543
+Avenue T2	Palmdale	93550
+Avenue T2	Palmdale	93552
+Avenue T4	Palmdale	93550
+Avenue T4	Palmdale	93552
+Avenue T5	Palmdale	93552
+Avenue T8	Palmdale	93552
+Avenue Tea	Santa Cruz	95060
+Avenue Tibbitts	Valencia	91355
+Avenue Two	Atwater	95301
+Avenue Two Avenue	Atwater	95301
+Avenue Two Avenue	Merced	95301
+Avenue U	Littlerock	93543
+Avenue U	Llano	93544
+Avenue U10	Littlerock	93543
+Avenue U2	Littlerock	93543
+Avenue V	Littlerock	93543
+Avenue V-9	Pearblossom	93553
+Avenue V10	Pearblossom	93553
+Avenue V12	Littlerock	93543
+Avenue V12	Pearblossom	93553
+Avenue V14	Pearblossom	93553
+Avenue V4	Palmdale	93552
+Avenue V8	Littlerock	93543
+Avenue Valley View	Valencia	91355
+Avenue W2	Pearblossom	93553
+Avenue W4	Llano	93544
+Avenue W8	Littlerock	93543
+Avenue Williams	Valencia	91355
+Avenue X	Llano	93544
+Avenur R	Littlerock	93543

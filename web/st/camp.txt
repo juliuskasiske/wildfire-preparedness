@@ -1,0 +1,503 @@
+Camp 1 Ten Mile Rd	Fort Bragg	 
+Camp 2 Ten Mile Rd	Fort Bragg	 
+Camp 5 Ln	Crescent City	95531
+Camp 8 Rd	Paso Robles	93446
+Camp Angeles Trl	Angelus Oaks	92305
+Camp Antelope Road	Walker	96107
+Camp Ave	Mountain View	94043
+Camp Cedar Crest Rd	Green Valley Lake	92314
+Camp Chafee Rd	Ventura	93001
+Camp Chaffee	Ventura	93001
+Camp Chaffee Rd	Ventura	93001
+Camp Chaffee Rd	Ventura County	93001
+Camp Creek Rd	Concow	95965
+Camp Creek Rd	Orleans	95546
+Camp Creek Road	Hornbrook	96044
+Camp Crk	Hesperia	92345
+Camp Ct	Moreno Valley	92551
+Camp Ct	Spring Valley	91977
+Camp De Sabla Ln	Magalia	95954
+Camp Dr	Calistoga	94515
+Camp Dr	Pioneer	 
+Camp Dr	Pioneer	95666
+Camp Drive	Posey	93260
+Camp Drive	Visalia	93291
+Camp Enjoyment	Berry Creek	95916
+Camp Far West Rd	Sheridan	95681
+Camp Far West Road	Camp Far West	95692
+Camp Huntington Road	Altadena	91001
+Camp Irwin Rd	Barstow	92311
+Camp Joy	Boulder Creek	95006
+Camp Joy Rd	Chico	95973
+Camp Joy Rd	Cohasset	95973
+Camp Kettle Dr	Borrego Springs	92004
+Camp Kimtu Rd	Garberville	95542
+Camp Ln	Guadalupe	93434
+Camp Ln	Willits	 
+Camp Moore Rd	Angelus Oaks	92305
+Camp Muir Ct	Truckee	96161
+Camp Natoma Rd N	Paso Robles	93446
+Camp Osito Rancho	Big Bear Lake	92315
+Camp Plenty Road	Canyon Country	91351
+Camp Rd	Elk Grove	95757
+Camp Rd	Sebastopol	95472
+Camp Road	Grass Valley	95945
+Camp Rock Ct	Fontana	92336
+Camp Rock Rd	Daggett	92327
+Camp Rock Rd	Lucerne Valley	92356
+Camp Rock St	Corona	92880
+Camp Rock St	Eastvale	92880
+Camp Rose Rd	Healdsburg	95448
+Camp Sierra Rd	Big Creek	93605
+Camp St	Bakersfield	93307
+Camp St	Cypress	90630
+Camp St	San Francisco	94110
+Camp Steffani Road	Carmel Valley	93924
+Camp Street	East Garrison	93933
+Camp Thayer Ln	Cazadero	95421
+Camp Three Road	Somes Bar	95568
+Camp Tr	Truckee	96161
+Camp Verde Way	Sacramento	95828
+Camp Weott Rd	Ferndale	95536
+Camp Whitney Cir	Rocklin	95765
+Campa Way	Simi Valley	93063
+Campagna Ln	Santa Rosa	95409
+Campagna Terrace	Royal Oaks	95076
+Campagna Way	Royal Oaks	95076
+Campaign Dr	Carson	90746
+Campamento	Rancho Santa Margarita	92688
+Campana Ave	Daly City	94015
+Campana Ave	Indio	92203
+Campana Cir	Temecula	92591
+Campana Ct	Rancho Mirage	92270
+Campana Ct	Santa Barbara Unincorporated	93111
+Campana Dr	Irvine	92620
+Campana Dr	Palo Alto	94306
+Campana Flores Drive	West Covina	91791
+Campana Pl	Arroyo Grande	93420
+Campana St	Hermosa Beach	90254
+Campana St	Victorville	92394
+Campana Street	Hermosa Beach	90254
+Campana Way	Laguna Niguel	92677
+Campana Way	Rancho Cordova	95670
+Campanella Ct	Orangevale	95662
+Campanella Dr	Perris	92571
+Campanella Pl	Rancho Cucamonga	91739
+Campanello Way	Brentwood	94513
+Campanero E	Irvine	92620
+Campanero W	Irvine	92620
+Campanet	Mission Viejo	92692
+Campania	Salinas	93905
+Campania Ave	San Diego	92127
+Campania Circle	Salinas	93905
+Campania Ct	Brentwood	94513
+Campania Ct	Elk Grove	95757
+Campania Lane	Porter Ranch	91326
+Campania Rd	Highland	92346
+Campania Ter	Riverside	92503
+Campania Way	Fontana	92336
+Campania Way	Salinas	93905
+Campania Way Way	Salinas	93905
+Campanil Dr	Santa Barbara	93109
+Campanil Dr	Santa Barbara Unincorporated	93109
+Campanile	Cathedral City	92234
+Campanile	Newport Beach	92660
+Campanile Dr	San Diego	92115
+Campanile Dr	San Diego	92182
+Campanile Mall	San Diego	92182
+Campanile St	Rio Linda	95673
+Campanile Way	San Diego	92115
+Campanilla	San Clemente	92673
+Campanilla Court	Davis	95618
+Campanis Ln	Pla	92870
+Campanis Ln	Placentia	92870
+Campanita Court	Monterey Park	91754
+Campanula Ave	Ventura	93004
+Campanula Dr	San Ramon	94582
+Campanula Pl	Los Gatos	95032
+Campanula Rd	Phelan	92371
+Campanula Rd	Pioneertown	92268
+Campanula Rd	Rimrock	92268
+Campanula St	Joshua Tree	92252
+Campanula St	Joshua Tree	92284
+Campanula St	Yucca Valley	92284
+Campanula Way	Temecula	92592
+Campas Court	Benicia	94510
+Campbell	Santa Cruz	95060
+Campbell	Thousand Oaks	91360
+Campbell Av	Escalon	95320
+Campbell Av	Santa Clara	95050
+Campbell Av	Thousand Oaks	91360
+Campbell Ave	Antioch	94509
+Campbell Ave	Gridley	95948
+Campbell Ave	La Habra	90631
+Campbell Ave	Los Altos	94022
+Campbell Ave	Los Altos	94024
+Campbell Ave	Menlo Park	94025
+Campbell Ave	Moreno Valley	92555
+Campbell Ave	Oroville	95966
+Campbell Ave	Redlands	92373
+Campbell Ave	Riverside	92503
+Campbell Ave	Riverside	92505
+Campbell Ave	San Francisco	94134
+Campbell Ave	San Jose	95125
+Campbell Ave	San Jose	95126
+Campbell Ave	San Jose	95130
+Campbell Ave	Santa Clara	95050
+Campbell Ave	Thousand Oaks	91360
+Campbell Avenue	King City	93930
+Campbell Avenue	Livingston	95334
+Campbell Avenue	Vallejo	94590
+Campbell Avenue	Yreka	96097
+Campbell Boulevard	Livingston	95334
+Campbell Circle	Fairfield	94533
+Campbell Circle	Tulare	93274
+Campbell Circle	Woodland	95776
+Campbell Court	Fairfield	94533
+Campbell Court	Stevenson Ranch	91381
+Campbell Court	Tulare	93274
+Campbell Creek	Lakehead	96051
+Campbell Creek Ct	Temecula	92591
+Campbell Creek Drive	Springville	93265
+Campbell Creek Pl	Colfax	95713
+Campbell Creek Rd	Lakehead	96051
+Campbell Creek Rd	Napa	94558
+Campbell Ct	Hemet	92545
+Campbell Ct	Hesperia	92344
+Campbell Ct	Novato	94947
+Campbell Ct	Pittsburg	94565
+Campbell Ct	Rocklin	95677
+Campbell Dr	Auburn	95602
+Campbell Dr	Bakersfield	93307
+Campbell Dr	Mountain View	94043
+Campbell Dr	Pittsburg	94565
+Campbell Dr	Santa Rosa	95407
+Campbell Drive	Culver City	90230
+Campbell Drive	Dinuba	93618
+Campbell Drive	Los Angeles	90066
+Campbell Hot Spgs Road	Sierraville	96118
+Campbell Hot Spgs Road	Sierraville	96126
+Campbell Ln	Atascadero	93422
+Campbell Ln	Costa Mesa	92627
+Campbell Ln	El Cajon	92019
+Campbell Ln	El Sobrante	94803
+Campbell Ln	Lakeport	95453
+Campbell Ln	Menlo Park	94025
+Campbell Ln	Modesto	95350
+Campbell Ln	Pleasant Hill	94523
+Campbell Ln	Sacramento	95822
+Campbell Ln	San Luis Obispo	93405
+Campbell Ln	Tracy	95377
+Campbell Loop	Grass Valley	95945
+Campbell Pl	Carlsbad	92009
+Campbell Pl	Danville	94526
+Campbell Pl	Escondido	92027
+Campbell Pl	Rancho Cucamonga	91701
+Campbell Place	Davis	95618
+Campbell Ranch Rd	Alpine	91901
+Campbell Ranch Rd	Corona	92883
+Campbell Ranch Rd	Napa	94558
+Campbell Rd	Elk Grove	95624
+Campbell Rd	Escalon	95320
+Campbell Rd	Lucerne Valley	92356
+Campbell Rd	Santa Barbara Unincorporated	93436
+Campbell Rd	Susanville	96130
+Campbell Ridge Rd	Salyer	95563
+Campbell River Dr	Salida	95368
+Campbell Road	Davis	95616
+Campbell Road	Dixon	95620
+Campbell Road	Live Oak	95953
+Campbell St	Blythe	92225
+Campbell St	Cathedral City	92234
+Campbell St	Durham	95938
+Campbell St	Jurupa Valley	92509
+Campbell St	Lake Elsinore	92530
+Campbell St	Lucerne Valley	92356
+Campbell St	Milpitas	95035
+Campbell St	Richmond	94804
+Campbell Street	Glendale	91207
+Campbell Street	Hilmar	95324
+Campbell Street	Palmdale	93552
+Campbell Technology Pkwy	Campbell	95008
+Campbell Way	Mariposa	95338
+Campbell Way	Oxnard	93033
+Campbell Way	Pomona	91768
+Campbell Way	Ramona	92065
+Campbell Way	Turlock	95382
+Campbell Way	Yuba City	95991
+Campbells Flat Rd	Sonora	95370
+Campcreek Lp	Roseville	95747
+Campcreek Lp Unit A	Roseville	95747
+Campdell Street	Playa Del Rey	90293
+Campden Way	Sacramento	95833
+Campeche Ct	San Ramon	94583
+Campeche St	Hayward	94545
+Campeon	Laguna Niguel	92677
+Campeon Cir	Palm Springs	92262
+Camper Creek Rd	Cazadero	95421
+Camper Lane	Dobbins	95919
+Camper Ln	Chico	95928
+Camperdown Way	San Jose	95121
+Campero Dr	Jurupa Valley	92509
+Campero Dr	Yucca Valley	92284
+Campers Ct	Redding	96003
+Campers View Road	San Dimas	91773
+Campesina Dr	Anaheim	90620
+Campesina Dr	Buena Park	90620
+Campesina Ln	Huntington Beach	92649
+Campesina Ln	Huntington Beach	92649-3208
+Campesina Road	Arcadia	91007
+Campesino	Mission Viejo	92691
+Campesino Ave	Palo Alto	94306
+Campesino Ct	Alamo	94507
+Campesino Pl	Oceanside	92054
+Campestre	Mission Viejo	92691
+Campestre Ln	Bre	92823
+Campestre Ln	Brea	92823
+Campfire Cir	Rocklin	95765
+Campfire Cir	Winchester	92596
+Campfire Dr	Bakersfield	93312
+Campfire Pl	Eastvale	92880
+Campfire Way	Citrus Heights	95621
+Campground Rd	Colfax	95713
+Campground Rd	Escondido	92027
+Campground Rd	Foresta	95389
+Campground Road	Delhi	95315
+Camphor Ave	Hesperia	92345
+Camphor Ave	Montclair	91763
+Camphor Ave	Thousand Oaks	91320
+Camphor Ave	Westminster	92683
+Camphor Ave	Ybl	92886
+Camphor Ave	Yorba Linda	92886
+Camphor Avenue	Terra Bella	93270
+Camphor Cir	Brea	92821
+Camphor Cir	Thousand Oaks	91320
+Camphor Ct	Bakersfield	93313
+Camphor Ct	Chula Vista	91914
+Camphor Ct	Hillsborough	94010
+Camphor Ct	Loomis	95650
+Camphor Ct	Milpitas	95035
+Camphor Ct	Rancho Cucamonga	91739
+Camphor Ct	San Jacinto	92582
+Camphor Drive	Woodland	95776
+Camphor Lane	Davis	95618
+Camphor Ln	Banning	92220
+Camphor Ln	Sacramento	95828
+Camphor Ln	San Diego	92139
+Camphor N	Irvine	92612
+Camphor Pl	Carlsbad	92011
+Camphor Pl	Montecito	93108
+Camphor Place	Pomona	91766
+Camphor S	Irvine	92612
+Camphor St	Fontana	92336
+Camphor St	Manteca	95337
+Camphor St	Newport Beach	92660
+Camphor St	Simi Valley	93063
+Camphor Tree Ct	Corona	92883
+Camphor Tree Ln	Mission Viejo	92691
+Camphor Way	East Palo Alto	94303
+Camphor Way	Lake Elsinore	92530
+Camphor Wood Ave	Hemet	92544
+Camphor Wy	Lodi	95242
+Camphora Gloria Rd	Soledad	93960
+Camphora Gloria Road	Gonzales	93926
+Camphora Gloria Road	Soledad	93960
+Camphora Road	Soledad	93960
+Campillo Ave	Calexico	92231
+Campillo Ct	San Diego	92128
+Campillo Dr	San Diego	92128
+Campillo Way	Calexico	92231
+Campillos Road	La Mirada	90638
+Campina Ct	Atascadero	93422
+Campina Dr	La Mesa	91942
+Campina Dr	Mission Viejo	92691
+Campina Lane	La Mirada	90638
+Campina Pl	La Jolla	92037
+Campini Estates Drive	Vacaville	95688
+Campion	Irvine	92618
+Campion Dr	San Ramon	94582
+Campion Drive	Los Angeles	90045
+Campisi Ct	Gilroy	95020
+Campisi Ct	San Jose	95120
+Campisi Way	Campbell	95008
+Campo	Soquel	95073
+Campo Azul Ct	Carlsbad	92010
+Campo Bello Ct	Menlo Park	94025
+Campo Bello Ln	Menlo Park	94025
+Campo Calle	Redding	96001
+Campo Calle St	Redding	96001
+Campo Ct	Carmichael	95608
+Campo Ct	Temecula	92592
+Campo Cv	Loma Linda	92354
+Campo De Cas Drive	Salinas	93907
+Campo De Casa Drive	Salinas	93907
+Campo Del Cielo	Salinas	93908
+Campo Dios Rd	Shingletown	96088
+Campo Dr	Spring Valley	91977
+Campo Dr	Temecula	92592
+Campo Nuevo Drive	Whittier	90603
+Campo Pelota	Diablo	94528
+Campo Pl	Escondido	92027
+Campo Pl	Indio	92203
+Campo Raso	San Clemente	92673
+Campo Rd	Anza	92539
+Campo Rd	Atascadero	93422
+Campo Rd	Dulzura	91917
+Campo Rd	El Cajon	92019
+Campo Rd	Jamul	91935
+Campo Rd	La Mesa	91941
+Campo Rd	Portola Valley	94028
+Campo Rd	Potrero	91963
+Campo Rd	Spring Valley	91977
+Campo Rd	Spring Valley	91978
+Campo Real Drive	Hacienda Heights	91745
+Campo Road	Spring Valley	91978
+Campo Road	Woodland Hills	91364
+Campo Rojo	Lake Forest	92630
+Campo Rojo	Lake Forest	92630-4206
+Campo Rojo	Lake Forest	92630-4207
+Campo Rojo	Lake Forest	92630-4208
+Campo Rojo	Lake Forest	92630-4209
+Campo Rojo	Lake Forest	92630-4210
+Campo Rojo	Lake Forest	92630-4211
+Campo Rojo	Lake Forest	92630-4212
+Campo Rojo	Temecula	92592
+Campo Seco Rd	Jamestown	95327
+Campo Seco Rd	Sonora	95370
+Campo St	Jacumba	91934
+Campo St	Roseville	95678
+Campo Street	Monterey Park	91754
+Campo Trk Trl	Campo	91906
+Campo Trl	Campo	91906
+Campo Truck	Campo	91906
+Campo Truck Trl	Campo	91906
+Campo Verde	Temecula	92592
+Campo Verde Cir	San Pablo	94806
+Campo Verde Ct	Escondido	92026
+Campo Verde Ct	Oak Park	91377
+Campo Verde Rd	Big River	92242
+Campo Vista Dr	Santa Barbara Unincorporated	93111
+Campo Vista Ln	Los Altos Hills	94022
+Campobello Ct	Elk Grove	95624
+Campobello Ct	Morgan Hill	95037
+Campobello Ct	Truckee	96161
+Campobello St	San Diego	92130
+Campodonico Av	Guadalupe	93434
+Campodonico Ave	Guadalupe	93434
+Campodonico Ave	Guadalupe	93454
+Campodonico Road	Ballico	95303
+Campoli Dr	Morgan Hill	95037
+Campolina Ct	Elk Grove	95757
+Campolina Ct	Fallbrook	92028
+Campolina Dr	Eastvale	92880
+Campolina Way	Menifee	92584
+Campolina Way	Oakdale	95361
+Campolindo Ct	Moraga	94556
+Campolindo Dr	Moraga	94556
+Campolindo Dr	Point Reyes Station	94956
+Campoodi Road	Grass Valley	95949
+Campora Wy	Stockton	95209
+Campos	Mission Viejo	92692
+Campos Alegres	Temecula	92591
+Campos Avenue	Woodland	95776
+Campos Bonito	Temecula	92591
+Campos Court	Planada	95365
+Campos De Flores	Temecula	92591
+Campos De Lujo	Temecula	92591
+Campos Del Cielos	Salinas	93908
+Campos Drive	Esparto	95627
+Campos Drive	Palmdale	93551
+Campos Elegantes	Temecula	92591
+Campos Lane	Winters	95694
+Campos Pl	Empire	95357
+Campos Rd	Perris	92570
+Campos Ricos	Temecula	92591
+Campos St	Perris	92570
+Campos Verde	Los Gatos	95032
+Campos Verde	Rancho Murieta	95683
+Camposa Ln	Eastvale	91752
+Campoy St	Fair Oaks	95628
+Campoy St	Santa Rosa	95407
+Campsite Way	Bakersfield	93312
+Campton Cir	Gold River	95670
+Campton Dr	Oxnard	93030
+Campton Glen Pl	Elk Grove	95624
+Campton Heig Dr	Fortuna	95540
+Campton Hts Dr	Fortuna	95540
+Campton Ln	Fortuna	95540
+Campton Pl	Laguna Niguel	92677
+Campton Pl	San Francisco	94108
+Campton Rd	Eureka	95503
+Camptonville Street	Camptonville	95922
+Campus	Aptos	95003
+Campus Ave	Redlands	92374
+Campus Ave	San Diego	92103
+Campus Ave	San Diego	92116
+Campus Ave & 8Th St SW	Upland	91786
+Campus Avenue	Claremont	91711
+Campus Avenue	Salinas	93901
+Campus Avenue Avenue	Salinas	93901
+Campus Center Drive	Seaside	93955
+Campus Cir	Petaluma	94954
+Campus Commons Rd	Sacramento	95825
+Campus Ct	Citrus Heights	95621
+Campus Dr	4-An-7	92804
+Campus Dr	Anaheim	92804
+Campus Dr	Berkeley	94708
+Campus Dr	Buena Park	90621
+Campus Dr	Daly City	94015
+Campus Dr	Hanford	93230
+Campus Dr	Hayward	94541
+Campus Dr	Hayward	94542
+Campus Dr	Irvine	92612
+Campus Dr	Irvine	92617
+Campus Dr	Moorpark	93021
+Campus Dr	Newport Beach	92660
+Campus Dr	Oceanside	92056
+Campus Dr	Paradise	95969
+Campus Dr	Riverside	92505
+Campus Dr	San Mateo	94402
+Campus Dr	San Mateo	94403
+Campus Dr	Santa Ana Heights	92707
+Campus Dr	Stanford	94305
+Campus Dr	Thousand Oaks	91360
+Campus Dr	Unincorporated Alameda County	94542
+Campus Drive	Arcadia	91007
+Campus Drive	El Segundo	90245
+Campus Drive	Merced	95348
+Campus Drive	Yreka	96097
+Campus Lane	Cathedral City	92234
+Campus Lane	Fairfield	94534
+Campus Ln	Cathedral City	92234
+Campus Park Ct	Bakersfield	93311
+Campus Park Dr	Bakersfield	93311
+Campus Park Dr	Moorpark	93021
+Campus Park St	Moorpark	93021
+Campus Parkway	Merced	95341
+Campus Parkway	Riverside	92507
+Campus Pkwy	Riverside	92507
+Campus Point Ct	San Diego	92121
+Campus Point Dr	La Jolla	92037
+Campus Point Dr	Moreno Valley	92555
+Campus Point Dr	San Diego	92121
+Campus Pw	Roseville	95747
+Campus Road	Los Angeles	90032
+Campus Road	Los Angeles	90041
+Campus Road	Los Angeles	90042
+Campus Services Way	La Jolla	92093
+Campus Square	El Segundo	90245
+Campus Square West	El Segundo	90245
+Campus St	Loma Linda	92350
+Campus St	Loma Linda	92354
+Campus St	Ventura	93003
+Campus Street	Glendale	91205
+Campus View	Watsonville	95076
+Campus View Dr	Riverside	92507
+Campus View Dr	San Marcos	92096
+Campus Way	Hemet	92543
+Campus Way	Lake Elsinore	92530
+Campus Way	Mccloud	96057
+Campus Way	Modesto	95350
+Campus Way	San Luis Obispo	93407
+Campus Way	San Marcos	92078
+Campus Way	Yucaipa	92399

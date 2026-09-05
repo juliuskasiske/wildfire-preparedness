@@ -1,0 +1,697 @@
+St Alban	Paradise Park	95060
+St Alban Rd	San Jacinto	92583
+St Albans	Salinas	93905
+St Albans Circle	Salinas	93905
+St Albans Court	Salinas	93905
+St Albans Dr	Encinitas	92024
+St Albans Dr	Leucadia	92024
+St Albans Pl	Encinitas	92024
+St Albans Pl	Goleta	93117
+St Albans Street	Los Angeles	90042
+St Albans Way	Salinas	93905
+St Albans Way Way	Salinas	93905
+St Albert Dr	Fontana	92336
+St Amant Dr	Chico	95926
+St Ambrose	Paradise Park	95060
+St Andrew Court	Salinas	93901
+St Andrew Ct	Petaluma	94954
+St Andrews	Aptos	95003
+St Andrews	Lake Elsinore	92530
+St Andrews	Rancho Mirage	92270
+St Andrews	Riverside	92508
+St Andrews	Thousand Palms	92276
+St Andrews Ave	Cupertino	95014
+St Andrews Ave	San Diego	92154
+St Andrews Cir	Gilroy	95020
+St Andrews Cir	Paso Robles	93446
+St Andrews Cir	Rancho Mirage	92270
+St Andrews Court	Fairfield	94534
+St Andrews Ct	Adelanto	92301
+St Andrews Ct	Corona	92882
+St Andrews Ct	Indian Wells	92210
+St Andrews Ct	Milpitas	95035
+St Andrews Ct	Murrieta	92563
+St Andrews Ct	Oakdale	95361
+St Andrews Ct	Oxnard	93036
+St Andrews Ct	Pioneer	 
+St Andrews Ct	Pioneer	95666
+St Andrews Ct	Pleasant Hill	94523
+St Andrews Ct	Poway	92064
+St Andrews Ct	Vandenberg Village	93436
+St Andrews Dr	Bakersfield	93309
+St Andrews Dr	Brentwood	94513
+St Andrews Dr	Indio	92201
+St Andrews Dr	Menifee	92584
+St Andrews Dr	Menifee	92586
+St Andrews Dr	Napa	94558
+St Andrews Dr	Novato	94949
+St Andrews Dr	Oakdale	95361
+St Andrews Dr	Poway	92064
+St Andrews Dr	Rancho Mirage	92270
+St Andrews Dr	Redding	96003
+St Andrews Dr	Riverside	92508
+St Andrews Dr	Santa Rosa	95403
+St Andrews Dr	Santee	92071
+St Andrews Dr	Stockton	95219
+St Andrews Dr	Thousand Palms	92276
+St Andrews Dr	Victorville	92395
+St Andrews Drive	Merced	95340
+St Andrews Drive	Rio Vista	94571
+St Andrews Gln	Escondido	92026
+St Andrews Ln	Half Moon Bay	94019
+St Andrews Ln	Huntington Beach	92649-4545
+St Andrews Ln	Huntington Beach	92649-4546
+St Andrews Ln	Huntington Beach	92649-4547
+St Andrews Ln	Huntington Beach	92649-4548
+St Andrews Ln	Huntington Beach	92649-4549
+St Andrews Ln	Huntington Beach	92649-4565
+St. Andrews Ln	Ione	 
+St. Andrews Ln	Ione	95640
+St Andrews Ln	Valley Center	92082
+St Andrews Pl	Indio	92201
+St Andrews Pl	Loma Linda	92354
+St Andrews Pl	San Jose	95132
+St Andrews Place	Los Angeles	90004
+St Andrews Place	Los Angeles	90005
+St Andrews Place	Los Angeles	90010
+St Andrews Place	Los Angeles	90028
+St Andrews Place	Los Angeles	90038
+St Andrews Place	Los Angeles	90062
+St Andrews Plaza	Palm Springs	92264
+St Andrews Rd	Cathedral City	92234
+St Andrews Rd	Half Moon Bay	94019
+St Andrews Rd	Mariposa	95338
+St Andrews Rd	Rancho Santa Fe	92067
+St Andrews Road	Fairfield	94534
+St Andrews Way	Banning	92220
+St Andrews Way	Beaumont	92223
+St Andrews Way	La Quinta	92253
+St Andrews Way	Nipomo	93444
+St Andrews Way	Santa Maria	93454
+St Andrews Way	Santa Maria	93455
+St Andrews Wy	Santa Maria	93454
+St Andrews Wy	Santa Maria	93455
+St Andrews Wy	Vandenberg Village	93436
+St Ann	Salinas	93901
+St Ann Ct	Saratoga	95070
+St Ann Dr	Paso Robles	93446
+St Ann Dr	Santa Barbara	93109
+St Ann Drive	Salinas	93901
+St Ann Way	Modesto	95355
+St Anne Gln	Escondido	92026
+St Anne'S Ct	San Jose	95138
+St Anne Way	Petaluma	94954
+St Annes Bay	Indio	92203
+St Annes Bay Dr	Indio	92203
+St Annes Ct	Murrieta	92562
+St Annes Pl	Vandenberg Village	93436
+St Anthony Ave	El Mirage	92301
+St Anthony Ct	Los Altos	94024
+St Anthony Dr	Morgan Hill	95037
+St Anthony Dr	San Jose	95125
+St Anthony Ln	Petaluma	94954
+St Anthony Way	Santa Rosa	95404
+St Anton Cir	Riverside	92505
+St. Anton Circle	Mammoth Lakes	93546
+St Anton Dr	Lodi	95242
+St Anton Way	Hayward	94541
+St. Antony Ln	Fontana	92336
+St Arlene Way	Oroville	95966
+St Ashley Pl	Walnut Creek	94598
+St Augustine	Paradise Park	95060
+St Augustine	Salinas	93905
+St Augustine Cir	Petaluma	94954
+St Augustine Court	Benicia	94510
+St Augustine Court	Merced	95340
+St Augustine Ct	Modesto	95358
+St Augustine Ct	Petaluma	94954
+St Augustine Dr	Brentwood	94513
+St Augustine Dr	Chico	95928
+St Augustine Dr	Huntington Beach	92646-7036
+St Augustine Dr	Huntington Beach	92646-7037
+St Augustine Dr	Huntington Beach	92646-7069
+St Augustine Dr	Riverside	92506
+St Augustine Drive	Salinas	93905
+St Augustine Way	Petaluma	94954
+St Austell Way	Perris	92571
+St Barthelemy Dr	Hemet	92543
+St Barts Ct	Stockton	95210
+St Bernard	Paradise Park	95060
+St Bernard Dr	Mountain Center	92561
+St Bernard Ln	Tiburon	94920
+St Bernard Street	Playa Del Rey	90293
+St Bimini Cir	Palm Springs	92264
+St Bonaventure Drive	Merced	95348
+St Brendan Way	Salinas	93906
+St Catherine Ct	San Jose	95127
+St Catherine Dr	Daly City	94015
+St Catherine St	Hornitos	95325
+St Catherines Court	Benicia	94510
+St Chapelle St	Santa Rosa	95403
+St Charles Ct	Los Altos	94024
+St Charles Dr	Redding	96002
+St Charles Dr	Thousand Oaks	91360
+St Charles Pl	Goleta	93117
+St Charles Pl	Lake Elsinore	92530
+St Charles Pl	Modesto	95350
+St Charles Pl	Palm Desert	92211
+St Charles Pl	Thousand Oaks	91360
+St Charles Place	Los Angeles	90019
+St Charles Place	Salinas	93905
+St Charles St	Saratoga	95070
+St Charles Way	Salinas	93905
+St Charles Way Way	Salinas	93905
+St Charlotte Ln	Modesto	95358
+St Christopher Lane	Greenfield	93927
+St Christopher Ln	Moreno Valley	92553
+St Clair Avenue	North Hollywood	91605
+St Clair Avenue	North Hollywood	91606
+St Clair Avenue	Studio City	91604
+St Clair Avenue	Valley Village	91607
+St Clair Dr	Chico	95926
+St Clair Pl	Tracy	95304
+St Clair St	Escalon	95320
+St Clair St	Ventura	93004
+St Claire Ct	Santa Clara	95054
+St Claire Dr	Chula Vista	91913
+St Claire Dr	Lodi	95240
+St Claire Dr	Palo Alto	94306
+St Claire Ter	Brentwood	94513
+St Clar Ave	Gilroy	95020
+St Clara St	Lake Elsinore	92530
+St Clare Cir	Salida	95368
+St Cloud Cir	Huntington Beach	92647-4936
+St Cloud Dr	San Bruno	94066
+St Cloud Dr	San Bruno	94080
+St Cloud Dr	South San Francisco	94080
+St Cloud Ln	Bakersfield	93311
+St Cloud Way	Oceanside	92056
+St Crdix Dr	Borrego Springs	92004
+St Croix Cir	Huntington Beach	92649-2046
+St Croix Cir	Huntington Beach	92649-2047
+St Croix Cir	Huntington Beach	92649-2048
+St Croix Cir	Huntington Beach	92649-2049
+St Croix Cir	Huntington Beach	92649-2050
+St Croix Cir	Huntington Beach	92649-2051
+St Croix Cir	Huntington Beach	92649-2052
+St Croix Court	Plumas Lake	95961
+St Croix Ct	Foster City	94404
+St Croix Ct	Lemon Grove	91945
+St Croix Ct	Murrieta	92563
+St Croix Ct	Oak Park	91377
+St Croix Ct	San Jose	95118
+St Croix Ct	Stockton	95210
+St Croix Dr	Borrego Springs	92004
+St Croix Dr	Hemet	92543
+St Croix Road	West Sacramento	95691
+St Croix St	Hemet	92543
+St Croix Way	Banning	92220
+St Croix Way	Manteca	95337
+St Croix Wy	Manteca	95337
+St Cyr Ct	Manteca	95337
+St Deyns	Santa Cruz	95062
+St Dominic'S Dr	Manteca	95337
+St Dorothys Ave	Camp Meeker	95419
+St Dorothys Ave	Occidental	95465
+St E	Susanville	96130
+St Edens Circle	West Hills	91307
+St Edmunds Way	Brentwood	94513
+St Edwards	Salinas	93905
+St Edwards Avenue	Salinas	93905
+St Elizabeth Dr	San Jose	95126
+St. Elizabeth Ln	Drytown	95699
+St Elmo Ct	Oroville	95966
+St Elmo Ct	Riverbank	95367
+St Elmo Drive	Los Angeles	90019
+St Elmos Ct	Perris	92571
+St Emilion Ct	Mountain View	94043
+St Emilion Ln	Brentwood	94513
+St Emilion Ln	San Jacinto	92583
+St Emilion Way	Fontana	92336
+St Emilion Way	Mountain View	94043
+St. Emlion Ln	San Jacinto	92583
+St Estaban Street	Tujunga	91042
+St Florence Dr	San Jose	95133
+St Florian Way	San Jose	95136
+St Francis	Watsonville	95076
+St Francis Av	Stockton	95206
+St Francis Ave	Modesto	95356
+St Francis Ave	Novato	94947
+St Francis Blvd	Daly City	94015
+St Francis Court	Benicia	94510
+St Francis Ct	Eureka	95503
+St Francis Ct	Gilroy	95020
+St Francis Dr	Chico	95926
+St Francis Dr	Lafayette	94549
+St Francis Dr	Lakeport	95453
+St Francis Dr	Los Altos Hills	94022
+St Francis Dr	Manteca	95336
+St Francis Dr	Palo Alto	94303
+St Francis Dr	Petaluma	94954
+St Francis Dr	Riverside	92508
+St Francis Dr	San Jose	95125
+St Francis Drive	Los Banos	93635
+St Francis Drive	Merced	95348
+St Francis Ln	San Rafael	94901
+St Francis Pl	Menlo Park	94025
+St Francis Rd	Hillsborough	94010
+St Francis Rd	Santa Rosa	95409
+St Francis Sq	Daly City	94015
+St Francis St	Redwood City	94061
+St Francis St	Redwood City	94062
+St Francis St	Stockton	95206
+St Francis Way	Rio Vista	94571
+St Francis Way	Salinas	93906
+St Francis Way	San Carlos	94070
+St Francis Way	Ukiah	 
+St Francis Way Way	Salinas	93906
+St Francis Wy	Santa Barbara	93105
+St Gabriele Ct	Tiburon	94920
+St Gallen Way	Murrieta	92562
+St George	Indio	92203
+St George Ave	El Mirage	92301
+St George Cir	Palm Springs	92264
+St George Circle	Salinas	93905
+St George Ct	Carlsbad	92010
+St George Dr	El Cajon	92019
+St George Dr	Indio	92203
+St George Drive	Salinas	93905
+St George Ln	Chico	95926
+St George Ln	San Jose	95120
+St George Mews	Sonoma	95476
+St George Pl	Goleta	93117
+St George Pl	Riverside	92504
+St George Pl	Turlock	95382
+St George St	Spring Valley	91977
+St George Street	Los Angeles	90027
+St George Way	Moreno Valley	92551
+St Georges Ct	Murrieta	92562
+St Georges Ln	Valley Center	92082
+St Germain Ln	Sonoma	95476
+St Germain Rd	Chula Vista	91913
+St. Gertrude Pl.	Santa Ana	92704
+St Giles Ln	Mountain View	94040
+St Gotthard Way	Ceres	95307
+St Helen	Salinas	93905
+St Helen Way	Salinas	93905
+St Helena	Seaside	93955
+St Helena Ave	Chula Vista	91913
+St Helena Ave	Santa Rosa	95404
+St Helena Creek Rd	Middletown	95461
+St. Helena Ct	Fontana	92336
+St Helena Ct	Modesto	95356
+St Helena Dr	Cobb	95426
+St Helena Dr	Corona	92879
+St Helena Dr	Newman	95360
+St Helena Hwy	Calistoga	94515
+St Helena Hwy	Napa	94558
+St Helena Hwy	St Helena	94574
+St Helena Hwy	Yountville	94599
+St Helena Ln	Middletown	95461
+St Helena Ln	Riverside	92503
+St Helena Pl	Modesto	95356
+St Helena Rd	Santa Rosa	95404
+St Helena Street	Seaside	93955
+St Helena Way	Sebastopol	95472
+St Helene Ct	Oceanside	92054
+St Helens Ln	Chico	95973
+St Herman Ct	Modesto	95355
+St Honore Dr	Murrieta	92563
+St Hwy	Redcrest	95569
+St Hwy 101	 	95555
+St Hwy 101	Arcata	95521
+St Hwy 101	Arcata	95524
+St Hwy 101	Bayside	95503
+St Hwy 101	Benbow	95542
+St Hwy 101	Big Lagoon	95570
+St Hwy 101	Eureka	95503
+St Hwy 101	Eureka	95524
+St Hwy 101	Fortuna	95540
+St Hwy 101	Garberville	95542
+St Hwy 101	Orick	95555
+St Hwy 101	Pepperwood	95565
+St Hwy 101	Richardson Grov	95542
+St Hwy 101	Scotia	95565
+St Hwy 101	Trinidad	95570
+St Hwy 101 Hw	Orick	95555
+St Hwy 101 Rd	Garberville	95542
+St Hwy 12	Isleton	95641
+St Hwy 160	Courtland	95615
+St Hwy 160	Elk Grove	95758
+St Hwy 160	Hood	95639
+St Hwy 160	Isleton	95641
+St Hwy 160	Rio Vista	94571
+St Hwy 160	Ryde	95680
+St Hwy 160	Walnut Grove	95690
+St Hwy 169	Weitchpec	95546
+St Hwy 211	Fernbridge	95540
+St Hwy 211	Ferndale	95536
+St Hwy 220	Ryde	95680
+St Hwy 220	Walnut Grove	95690
+St Hwy 254	Miranda	95554
+St Hwy 254	Pepperwood	95565
+St Hwy 254	Phillipsville	95554
+St Hwy 254	Redcrest	95569
+St Hwy 254 Hw	Miranda	95554
+St Hwy 299	Blue Lake	95525
+St Hwy 299	Green Point	95525
+St Hwy 299	Willow Creek	95525
+St Hwy 299	Willow Creek	95563
+St Hwy 299	Willow Creek	95573
+St Hwy 299 Ln	Willow Creek	95573
+St Hwy 36	 	95547
+St Hwy 36	Alton	95540
+St Hwy 36	Bridgeville	95526
+St Hwy 36	Bridgeville	95528
+St Hwy 36	Carlotta	95526
+St Hwy 36	Carlotta	95528
+St Hwy 36	Carlotta	95549
+St Hwy 36	Dinsmore	95526
+St Hwy 36	Fortuna	95540
+St Hwy 36	Hydesville	95540
+St Hwy 36	Hydesville	95547
+St Hwy 36	Willow Creek	95573
+St Hwy 36 Apts A&B	Hydesville	95547
+St Hwy 36 Hy	Dinsmore	95526
+St Hwy 36 Ln	Carlotta	95528
+St Hwy 36 Rd	Bridgeville	95526
+St Hwy 36 St	Bridgeville	95526
+St Hwy 36 St	Hydesville	95547
+St. Hwy 86	Imperial	92251
+St Hwy 96	Hoopa	95546
+St Hwy 96	Orleans	95546
+St Hwy 96	Orleans	95556
+St Hwy 96	Weitchpec	95546
+St Hwy 96	Willow Creek	95573
+St Hwy 96 Rd	Orleans	95556
+St Hwy 96 Rd	Willow Creek	95573
+St Ignatius Pl	Santa Clara	95051
+St Irene Way	Santa Rosa	95404
+St Isela Pl	Oxnard	93030
+St Ives Avenue	Livingston	95334
+St Ives Ct	Murrieta	92563
+St Ives Ct	Orcutt	93455
+St Ives Ct	Santa Maria	93455
+St Ives Ct	Walnut Creek	94598
+St Ives Drive	West Hollywood	90069
+St Ives Pl	Goleta	93117
+St Ives Place	West Hollywood	90069
+St Ives Way	Concow	95965
+St James Ave	Half Moon Bay	94019
+St James Court	6	94513
+St James Ct	Carlsbad	92008
+St James Ct	Chico	95926
+St James Ct	Daly City	94015
+St James Ct	Riverside	92504
+St James Dr	Corona	92882
+St. James Dr	Culver City	90230
+St James Dr	Moreno Valley	92553
+St James Dr	Poway	92064
+St James Dr	Santa Barbara	93105
+St James Dr	Santa Rosa	95403
+St James Dr	Sonoma	95476
+St James Drive	Los Banos	93635
+St. James Ln	Lathrop	95330
+St James Park	Los Angeles	90007
+St James Pl	Modesto	95350
+St James Pl	San Diego	92103
+St James Pl	Windsor	95492
+St James Place	Los Angeles	90007
+St James Rd	Belmont	94002
+St James Rd	Pioneertown	92268
+St Jean Ct	Bakersfield	93312
+St Joan Ct	Saratoga	95070
+St John Av	Escalon	95320
+St John Ave	Half Moon Bay	94019
+St John Avenue	Pasadena	91105
+St John Cir	Grover Beach	93433
+St John Ct	Novato	94947
+St John Ct	Santa Rosa	95403
+St John Dr	Garden Grove	92844
+St John Ln	El Sobrante	94803
+St John Ln	Huntington Beach	92646-8024
+St John Ln	Huntington Beach	92646-8025
+St John Loop	Hyampom	96046
+St John Pl	Cloverdale	95425
+St John Pl	Hemet	92543
+St John Rd	Hyampom	96046
+St John Road	West Sacramento	95691
+St Johns	Paradise Park	95060
+St Johns Ct	Rancho Mirage	92270
+St Johns Ct	San Mateo	94401
+St Johns Ct	Walnut Creek	94597
+St Johns Mine Road	Vallejo	94591
+St Johns Pl	Hemet	92543
+St Joseph	Salinas	93905
+St Joseph Ave	Half Moon Bay	94019
+St Joseph Ave	Los Altos	94024
+St Joseph Ave	Los Altos Hills	95022
+St Joseph Circle	Salinas	93905
+St Joseph Ct	Los Altos	94024
+St Joseph Ct	Milpitas	95035
+St Joseph Dr	Fortuna	95540
+St Joseph Pl	Turlock	95382
+St Joseph'S Place	Los Angeles	90015
+St Joseph St	Goleta	93111
+St Joseph St	Los Alamos	92117
+St Joseph St	Los Alamos	93440
+St Joseph Street	Rio Vista	94571
+St Joseph Way	Cotati	94931
+St Joseph Way	Petaluma	94954
+St Jude Ln	Ripon	95366
+St Jude Rd	Mill Valley	94941
+St Julian Cir	Murrieta	92563
+St Julie Dr	San Jose	95119
+St Julien Ct	Mountain View	94043
+St Julien Dr	Madera	93637
+St Julien Way	Mountain View	94043
+St Kevin Court	Merced	95348
+St Kitts Ct	San Jose	95127
+St Kitts Ct	Stockton	95210
+St Kitts Ln	Foster City	94404
+St Kitts Way	Coronado	92118
+St Lakes Ct	Riverbank	95367
+St Lakes Wy	Stockton	95206
+St Laurent Ct	Martinez	94553
+St Laurent Ct	San Jose	95127
+St Lawrence Ave	Chico	95973
+St Lawrence Ct	Pacifica	94044
+St Lawrence Dr	Pacifica	94044
+St Lawrence Dr	San Jose	95124
+St Lawrence Dr	Santa Clara	95051
+St Lawrence Drive	Merced	95348
+St Lawrence Ln	Modesto	95356
+St Lawrence St	Riverside	92504
+St Lo Road	Seaside	93955
+St Louis Avenue	Long Beach	90805
+St Louis Avenue	Long Beach	90807
+St Louis Avenue	Signal Hill	90755
+St. Louis Ct	Culver City	90230
+St Louis Ct	Petaluma	94954
+St Louis Ct	Turlock	95382
+St Louis Rd	Arcata	95521
+St Louis Street	Los Angeles	90023
+St Louis Street	Los Angeles	90033
+St. Louis Way	Woodland	95776
+St Lucia	Indio	92203
+St Lucia Cir	Palm Springs	92264
+St Lucia Ct	Indio	92203
+St Lucia Ct	San Jose	95127
+St Lucia Pl	Tiburon	94920
+St Lucia Place	West Sacramento	95691
+St Lucia Way	Vista	92081
+St Maarten Dr	Moorpark	93021
+St Malo Bch	Carlsbad	92008
+St Malo Bch	Oceanside	92054
+St Malo Beach	Oceanside	92054
+St Malo Ct	Martinez	94553
+St Malo Ct	Oceanside	92054
+St Margaret Bay	Indio	92203
+St Margarets Bay	Indio	92203
+St Mark Ct	Los Altos	94024
+St Mark'S Ave	Morgan Hill	95037
+St Mark St	Garden Grove	92845
+St Marks Ave	Morgan Hill	95037
+St Marks Ct	Daly City	94015
+St Marks Ct	Morgan Hill	95037
+St Marks Pz	Stockton	95207
+St Marks St	Redding	96003
+St Marta Dr	Murrieta	92563
+St Martin Dr	Redwood City	94065
+St Martin Way	Sebastopol	95472
+St Martins Pl	Brentwood	94513
+St Martins Wy	Tracy	95377
+St Maru Ln	Mckinleyville	95519
+St Maru Rd	Mckinleyville	95519
+St Mary Dr	Santa Rosa	95409
+St Mary Pl	Santa Rosa	95409
+St Mary'S Ave	Hopland	 
+St Mary'S Ct	Turlock	95382
+St Marys College	23	94575
+St Marys Ct	Orcutt	93455
+St Marys Ct	Rancho Mirage	92270
+St Marys Ct	San Diego	92127
+St Marys Ct	San Mateo	94401
+St Marys Ct	Santa Maria	93455
+St Marys Dr	Oxnard	93036
+St Marys Dr	Yucca Valley	92284
+St Marys Ln	Santa Barbara Unincorporated	93111
+St Marys Pl	Redwood City	94063
+St Marys Pl	Santa Clara	95051
+St Marys Rd	Lafayette	94549
+St Marys Rd	Moraga	94556
+St Marys St	Bakersfield	93305
+St Marys St	Menifee	92586
+St Mathew Ct	Sonoma	95476
+St Matthew Place	Concord	94518
+St Matthew Place - Concord	Concord	94518
+St Matthew Street	Greenfield	93927
+St Matthew Way	Los Altos	94024
+St Matthews Ave	San Mateo	94401
+St Mayeul Dr	Modesto	95356
+St Michael Ct	Chico	95973
+St Michael Ct	Cloverdale	95425
+St Michael Ct	Palo Alto	94306
+St Michael Dr	Palo Alto	94306
+St Michael Pl	Palm Desert	92211
+St Michael Place	Salinas	93905
+St Michael Way	Salinas	93905
+St Michaels Ct	Brentwood	94513
+St Michaels Ct	Daly City	94015
+St Michaels Way	Brentwood	94513
+St Michel Ln	Murrieta	92563
+St Michele Pl	San Jacinto	92583
+St Michelle Court	Merced	95348
+St Michelle Dr	Madera	93637
+St Michelle Drive	Merced	95348
+St Mina Ct	Colton	92324
+St Montelena Ct	Madera	93637
+St Montelena Dr	Madera	93637
+St Moritz Ci	Stockton	95209
+St Moritz Ct	Manteca	95337
+St Moritz Ct	Redding	96002
+St Moritz Dr	Lodi	95242
+St Moritz Dr	Mountain Center	92561
+St Moritz Drive	Tarzana	91356
+St Moritz Ln	Manteca	95337
+St Moritz Rd	Mountain Center	92561
+St. Moritz Road	Mammoth Lakes	93546
+St Moritz Way	Salinas	93906
+St Nazaire Ct	Martinez	94553
+St Nicholas Ave	Redding	96003
+St Nicholas Dr	Modesto	95356
+St Nicholas Ln	Santa Rosa	95403
+St Nicks Pl	Oceano	93445
+St Nicolas Avenue	Culver City	90230
+St Nikola Ct	San Marcos	92069
+St Olaf Court	Dixon	95620
+St Olga Ct	Santa Rosa	95407
+St Palais Pl	Santa Clara	95050
+St Palais Pl	Santa Clara	95054
+St Patrick Court	Merced	95348
+St Patrick Ct	Sonoma	95476
+St Patrick Ct	South San Francisco	94080
+St Patrick Pl	Turlock	95382
+St Patricks Ave	Redding	96003
+St Patricks Drive	Los Banos	93635
+St Paul	Paradise Park	95060
+St Paul Avenue	Los Angeles	90017
+St Paul Cir	Corona	92883
+St Paul Cir	Huntington Beach	92647-5578
+St Paul Cir	Huntington Beach	92647-5579
+St Paul Cir	Huntington Beach	92647-5580
+St Paul Cir	Huntington Beach	92647-5581
+St Paul Cir	Huntington Beach	92647-5582
+St Paul Cir	Huntington Beach	92647-5583
+St Paul Cir	Huntington Beach	92647-5584
+St Paul Cir	Huntington Beach	92647-5585
+St Paul Cir	Huntington Beach	92647-5586
+St Paul Cir	Huntington Beach	92647-5587
+St Paul Cir	Huntington Beach	92647-5588
+St Paul Cir	Huntington Beach	92647-5589
+St Paul Cir	Huntington Beach	92647-5590
+St Paul Cir	Huntington Beach	92647-5591
+St Paul Cir	Huntington Beach	92647-5592
+St Paul Cir	Huntington Beach	92647-5593
+St Paul Cir	Huntington Beach	92647-5594
+St Paul Cir	Huntington Beach	92647-5595
+St Paul Cir	Huntington Beach	92647-5596
+St Paul Cir	Novato	94947
+St Paul Dr	Campbell	95008
+St Paul Dr	San Marcos	92069
+St Paul Dr	Santa Rosa	95405
+St Paul Pl	Riverside	92504
+St Paul Way	Concord	94518
+St Pauls Ct	Modesto	95355
+St Pauls Dr	Ventura	93003
+St Pauls Way	Modesto	95355
+St Peters Ct	Modesto	95355
+St Peters Ct	Paradise	95969
+St Peters Dr	Fallbrook	92028
+St Peters St	Modesto	95355
+St Petersburg Ct	Rancho Mirage	92270
+St Phillip Court	Merced	95348
+St Phillip Drive	Merced	95348
+St Pierre	Mountain Center	92561
+St Pierre Ln	Lake Elsinore	92530
+St Pierre Way	Martinez	94553
+St Raphael Dr	Murrieta	92562
+St Regis	Salinas	93905
+St Regis Ave	Brentwood	94513
+St Regis Circle	Salinas	93905
+St Regis Dr	San Jose	95124
+St Regis Dr	San Jose	95136
+St Regis Way	Salinas	93905
+St Remy Court	Merced	95348
+St Rita Ct	San Diego	92113
+St Rita Pl	San Diego	92113
+St Salazar Cir	Modesto	95352
+St Salazar Cir	Modesto	95358
+St Sava Pl	San Marcos	92069
+St Sebastian Way	Modesto	95358
+St Simon Circle	Alhambra	91803
+St Simon Way	Denair	95316
+St Stefan Ter	San Marcos	92069
+St Stephen Ave	Middletown	95461
+St Stephens Way	Templeton	93465
+St Theresa Way	Modesto	95358
+St Thomas	Borrego Springs	92004
+St Thomas	Indio	92203
+St Thomas	Oak Park	91377
+St Thomas	Salinas	93905
+St Thomas Ave	Moreno Valley	92551
+St Thomas Cir	Palm Springs	92264
+St Thomas Court	Merced	95348
+St Thomas Ct	Santa Rosa	95404
+St Thomas Ct	Stockton	95210
+St Thomas Ct	Temecula	92591
+St Thomas Dr	Borrego Springs	92004
+St Thomas Dr	Indio	92203
+St Thomas Dr	Oak Park	91377
+St Thomas Dr	Ojai	93023
+St Thomas Ln	Foster City	94404
+St Thomas Pkwy	Redding	96003
+St Thomas Pl	Rancho Mirage	92270
+St Thomas Rd	Vista	92081
+St Thomas St	Ojai	93023
+St Thomas Way	Bakersfield	93306
+St Thomas Way	Oak Park	91377
+St Thomas Way	Salinas	93905
+St Thomas Way	Tiburon	94920
+St Timothy Ct	Apple Valley	92307
+St Timothy Ln	Apple Valley	92307
+St Timothy Place	Concord	94518
+St Timothy Rd	Apple Valley	92307
+St Tropez Court	Merced	95348
+St Tropez Ct	Moreno Valley	92553
+St Tropez Dr	Madera	93637
+St Tropez Dr	Rancho Cucamonga	91730
+St Tropez Dr	Vista	92081
+St Tropez Pl	Hayward	94544
+St Victor	Paradise Park	95060
+St Vincent Av	Santa Barbara	93101
+St Vincent Ct	Petaluma	94954
+St Vincent Dr	Borrego Springs	92004
+St Vincent Ln	Foster City	94404
+St Vincents Dr	San Rafael	94903
+St Yorre Ct	Ukiah	 

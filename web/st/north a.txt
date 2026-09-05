@@ -1,0 +1,362 @@
+North A Street	Exeter	93221
+North A Street	Mount Shasta	96067
+North A Street	Tulare	93274
+North Abarca Road	Palmdale	93551
+North Abargo Street	Woodland Hills	91364
+North Abbey Lane	Porter Ranch	91326
+North Aberdeen Avenue	Los Angeles	90027
+North Abrigo Avenue	Los Angeles	90031
+North Acacia Avenue	Compton	90220
+North Acacia Avenue	Compton	90222
+North Acacia Court	Azusa	91702
+North Acacia Street	Inglewood	90302
+North Acacia Street	San Dimas	91773
+North Acacia Street	Woodlake	93286
+North Academy Drive	Los Angeles	90012
+North Academy Drive	Los Angeles	90026
+North Adams Road	Tipton	93272
+North Adams Street	Dixon	95620
+North Adams Street	Glendale	91205
+North Adams Street	Glendale	91206
+North Adams Street	Tulare	93274
+North Adamson Street	Los Angeles	90026
+North Addleman Avenue	West Covina	91792
+North Adelphia Avenue	San Fernando	91340
+North Adina Drive	Los Angeles	90068
+North Adir Drive	Canoga Park	91304
+North Adkins Avenue	Los Angeles	90032
+North Adkisson Avenue	Los Angeles	90063
+North Adobe Avenue	Montebello	90640
+North Adobe Lane	San Fernando	91345
+North Adobe Street	Los Angeles	90012
+North Adrian Avenue	Winnetka	91306
+North Aero Pines	Brownsville	95919
+North Agnes Avenue	Studio City	91604
+North Agnes Avenue	Valley Village	91607
+North Aguirre Avenue	San Dimas	91773
+North Ahern Drive	La Puente	91746
+North Ainsley Court	Porter Ranch	91326
+North Airport Boulevard	Los Angeles	90045
+North Airport Street	Pixley	93256
+North Akeley Drive	Glendora	91741
+North Akers Street	Visalia	93291
+North Alahmar Terrace	San Gabriel	91775
+North Alameda Avenue	Azusa	91702
+North Alameda Street	Compton	90220
+North Alameda Street	Compton	90221
+North Alameda Street	Compton	90222
+North Alameda Street	Los Angeles	90012
+North Alameda Street	Wilmington	90744
+North Alamitos Avenue	Long Beach	90802
+North Alamo Drive	Vacaville	95688
+North Alatar Drive	Woodland Hills	91364
+North Alba Street	Los Angeles	90058
+North Albert Avenue	Exeter	93221
+North Albertson Avenue	Compton	90220
+North Albertson Avenue	Covina	91722
+North Albion Street	Los Angeles	90031
+North Alboni Place	Long Beach	90802
+North Aldama Street	Los Angeles	90042
+North Aldenville Avenue	Covina	91722
+North Alder Court	Visalia	93292
+North Alder Street	Visalia	93292
+North Alene Drive	Tujunga	91042
+North Alethea Drive	Sunland	91040
+North Alexander Street	San Fernando	91340
+North Alexandra Drive	Dinuba	93618
+North Alexandria Avenue	Los Angeles	90004
+North Alexandria Avenue	Los Angeles	90027
+North Alexandria Avenue	Los Angeles	90029
+North Alfalfa Road	Earlimart	93219
+North Alfred Place	Montebello	90640
+North Alfred Street	Los Angeles	90048
+North Alfred Street	West Hollywood	90069
+North Alger Street	Los Angeles	90039
+North Alginet Drive	Encino	91436
+North Alhama Drive	Woodland Hills	91364
+North Alhambra Avenue	Compton	90221
+North Alhambra Avenue	Los Angeles	90012
+North Alhambra Avenue	Monterey Park	91755
+North Alhambra Road	San Gabriel	91775
+North Alice Avenue	Dinuba	93618
+North Allen Avenue	Altadena	91001
+North Allen Avenue	Los Angeles	90027
+North Allen Avenue	Pasadena	91104
+North Allen Avenue	Pasadena	91106
+North Allesandro Street	Los Angeles	90039
+North Allesandro Way	Los Angeles	90039
+North Allview Terrace	Los Angeles	90068
+North Alma Avenue	Los Angeles	90023
+North Alma Avenue	Los Angeles	90063
+North Alma Real Drive	Pacific Palisades	90272
+North Almadale Avenue	Los Angeles	90032
+North Almansor Street	Alhambra	91801
+North Almar Avenue	Pacific Palisades	90272
+North Almond Court	Long Beach	90813
+North Almond Street	Dixon	95620
+North Almont Drive	Beverly Hills	90211
+North Almont Drive	Los Angeles	90048
+North Almont Drive	West Hollywood	90069
+North Alonzo Avenue	Encino	91316
+North Alpha Street	Los Angeles	90032
+North Alpine Drive	Beverly Hills	90210
+North Alta Avenue	Dinuba	93618
+North Alta Avenue	San Fernando	91345
+North Alta Drive	Beverly Hills	90210
+North Alta Mesa Drive	Studio City	91604
+North Alta Mesa Place	Studio City	91604
+North Alta Mura Road	Pacific Palisades	90272
+North Alta Street	Los Angeles	90031
+North Alta Vista Avenue	Los Angeles	90046
+North Alta Vista Avenue	Monrovia	91016
+North Alta Vista Boulevard	Los Angeles	90036
+North Alta Vista Boulevard	Los Angeles	90046
+North Altadena Drive	Altadena	91001
+North Altadena Drive	Pasadena	91104
+North Altadena Drive	Pasadena	91107
+North Alto Oak Drive	Los Angeles	90068
+North Altura Road	Arcadia	91007
+North Alvarado Street	Los Angeles	90026
+North Alvarado Street	Los Angeles	90039
+North Alverstone Avenue	Los Angeles	90045
+North Alyeska Place	Walnut	91789
+North Amador Street	Visalia	93292
+North Amalfi Drive	Pacific Palisades	90272
+North Amanda Lane	La Habra	90631
+North Amboy Avenue	San Fernando	91340
+North Amboy Avenue	Sylmar	91342
+North Amelia Avenue	Glendora	91740
+North Amelia Avenue	San Dimas	91773
+North American Cutoff Rd	Box Canyon	91304
+North American Street	Visalia	93291
+North Amesbury Road	Los Angeles	90027
+North Amestoy Avenue	Encino	91316
+North Amethyst Street	Los Angeles	90032
+North Amhurst Avenue	Claremont	91711
+North Amigo Avenue	Porter Ranch	91326
+North Amigo Avenue	Reseda	91335
+North Ampere Avenue	North Hollywood	91605
+North Anaheim Street	Wilmington	90744
+North Anaya Drive	North Hills	91343
+North Anchorage Road	Wilmington	90744
+North Ancient Title Court	Walnut	91789
+North Ancona Way	Porter Ranch	91326
+North Andasol Avenue	Granada Hills	91344
+North Andasol Avenue	Van Nuys	91406
+North Anderson Road	Exeter	93221
+North Anderson Road	Visalia	93292
+North Andrews Street	Tulare	93274
+North Andrita Street	Los Angeles	90065
+North Angeleno Avenue	Azusa	91702
+North Angelo Drive	Beverly Hills	90210
+North Angelo Drive	Los Angeles	90077
+North Angelo Walk	Long Beach	90803
+North Angelus Avenue	Los Angeles	90026
+North Anita Avenue	Los Angeles	90049
+North Annelise Way	Santa Clarita	91350
+North Antelope Road	Beverly Hills	90210
+North Anthony Court	Visalia	93291
+North Anthony Street	Visalia	93291
+North Antoinette Drive	La Habra	90631
+North Anzac Avenue	Compton	90222
+North Apex Avenue	Los Angeles	90039
+North Applewood Lane	La Puente	91744
+North Aqueduct Avenue	Granada Hills	91344
+North Aranbe Avenue	Compton	90220
+North Aranbe Avenue	Compton	90222
+North Arboleda Drive	Merced	95340
+North Arboles Court	San Pedro	90731
+North Arbor Court	Tulare	93274
+North Arbor Dell Place	Los Angeles	90041
+North Arbor Drive	Tulare	93274
+North Arbutus Drive	Los Angeles	90049
+North Arch Drive	Studio City	91604
+North Arcola Avenue	North Hollywood	91602
+North Arden Boulevard	Los Angeles	90004
+North Arden Boulevard	Los Angeles	90020
+North Arden Court	Visalia	93292
+North Arden Drive	Beverly Hills	90210
+North Ardilla Avenue	Baldwin Park	91706
+North Ardilla Avenue	West Covina	91790
+North Ardmore Avenue	Los Angeles	90004
+North Ardmore Avenue	Los Angeles	90029
+North Ardmore Avenue	Manhattan Beach	90266
+North Argonia Place	Walnut	91789
+North Argus Drive	Los Angeles	90041
+North Argyle Avenue	Los Angeles	90028
+North Argyle Street	Porterville	93257
+North Arizona Avenue	Los Angeles	90022
+North Arkle Street	Visalia	93292
+North Arkona Avenue	Dinuba	93618
+North Arla Way	Los Angeles	90041
+North Arlene Street	Porterville	93257
+North Arleta Avenue	Pacoima	91331
+North Arleta Avenue	Sun Valley	91352
+North Armel Drive	Covina	91722
+North Armel Drive	Covina	91723
+North Armona Court	San Pedro	90731
+North Armour Avenue	Los Angeles	90032
+North Armour Avenue	Los Angeles	90042
+North Armstrong Avenue	Los Angeles	90039
+North Arnaz Drive	Beverly Hills	90211
+North Arrow Highway	San Dimas	91773
+North Arroyo Avenue	Pomona	91768
+North Arroyo Boulevard	Altadena	91001
+North Arroyo Boulevard	Pasadena	91103
+North Arroyo Boulevard	Pasadena	91105
+North Arroyo Court	Chatsworth	91311
+North Arroyo Court	Visalia	93292
+North Arroyo Dr	San Diego	92103
+North Arroyo Drive	Los Angeles	90042
+North Arroyo Drive	San Gabriel	91775
+North Arroyo Parkway	Pasadena	91103
+North Arroyo Seco	Altadena	91001
+North Arroyo Seco	La Canada Flintridge	91011
+North Arroyo Seco	Pasadena	91105
+North Arroyo Seco Avenue	Los Angeles	90065
+North Arroyo Street	Visalia	93292
+North Arroyo Vista Way	Porter Ranch	91326
+North Artesian Street	Los Angeles	90031
+North Arthur Road	Los Angeles	90029
+North Artsakh Avenue	Glendale	91206
+North Asciano Court	Visalia	93291
+North Ascot Parkway	Vallejo	94591
+North Ash Avenue	Inglewood	90301
+North Ash Street	Pixley	93256
+North Ashdale Avenue	Los Angeles	90049
+North Asherton Avenue	Covina	91724
+North Ashland Avenue	Claremont	91711
+North Ashland Avenue	Lindsay	93247
+North Ashland Avenue	Los Angeles	90031
+North Ashley Avenue	Woodland	95695
+North Aspan Avenue	Azusa	91702
+North Aspan Avenue	Covina	91722
+North Aspen Court	Pixley	93256
+North Aspen Court	Visalia	93291
+North Aspen Drive	Los Angeles	90068
+North Aspen Street	Visalia	93291
+North Aspern Street	Palmdale	93550
+North Astell Avenue	West Covina	91790
+North Astral Drive	Los Angeles	90046
+North Atherton Lane	Canoga Park	91304
+North Atkins Place	Porterville	93257
+North Atkins Street	Porterville	93257
+North Atkins Way	Porterville	93257
+North Atlantic Boulevard	Alhambra	91801
+North Atlantic Boulevard	Alhambra	91803
+North Atlantic Boulevard	Monterey Park	91754
+North Atlantic Boulevard	South Pasadena	91030
+North Atlantic Place	Long Beach	90805
+North Atlantic Place	Long Beach	90807
+North Atlantic Place	Paramount	90723
+North Atoll Avenue	Sherman Oaks	91423
+North Attica Drive	Long Beach	90803
+North Attridge Avenue	Los Angeles	90063
+North Atwood Court	Visalia	93291
+North Atwood Drive	Tulare	93274
+North Atwood Street	Visalia	93291
+North Auburn Avenue	Sierra Madre	91024
+North Auburn Court	Visalia	93292
+North Auburn Street	Grass Valley	95945
+North Auburn Street	Los Angeles	90039
+North Auckland Avenue	North Hollywood	91601
+North Aura Avenue	Tarzana	91356
+North Austin Avenue	Inglewood	90302
+North Av	Orcutt	93455
+North Avalon Boulevard	Wilmington	90744
+North Avalon Place	Long Beach	90810
+North Ave	Aptos	95003
+North Ave	Biggs	95917
+North Ave	Carmichael	95608
+North Ave	Chico	95926
+North Ave	Chico	95973
+North Ave	Chino	91710
+North Ave	Colusa	95932
+North Ave	Corcoran	93212
+North Ave	Escondido	92026
+North Ave	Hanford	93230
+North Ave	Lakeport	95453
+North Ave	Lemon Grove	91945
+North Ave	Modesto	95358
+North Ave	Napa	94558
+North Ave	Oceanside	92056
+North Ave	Orcutt	93455
+North Ave	Sacramento	95821
+North Ave	Sacramento	95838
+North Ave	San Diego	92116
+North Ave	San Rafael	94903
+North Ave	Sanger	93657
+North Ave	Tahoe Vista	96148
+North Ave	Turlock	95382
+North Ave	Vista	92083
+North Avenel Street	Los Angeles	90039
+North Avenida Alipaz	Walnut	91789
+North Avenida Conejo	Azusa	91702
+North Avenida De Luka	Sylmar	91342
+North Avenida Del Sol	Studio City	91604
+North Avenida Hacienda	Tarzana	91356
+North Avenue	Ballico	95303
+North Avenue	Delhi	95315
+North Avenue	Gustine	95322
+North Avenue	Loma Rica	95901
+North Avenue	Planada	95365
+North Avenue	Turlock	95380
+North Avenue 18	Los Angeles	90031
+North Avenue 19	Los Angeles	90031
+North Avenue 21	Los Angeles	90031
+North Avenue 23	Los Angeles	90031
+North Avenue 25	Los Angeles	90031
+North Avenue 32	Los Angeles	90065
+North Avenue 33	Los Angeles	90065
+North Avenue 35	Los Angeles	90065
+North Avenue 40	Los Angeles	90065
+North Avenue 41	Los Angeles	90065
+North Avenue 43	Los Angeles	90041
+North Avenue 45	Los Angeles	90041
+North Avenue 46	Los Angeles	90041
+North Avenue 47	Los Angeles	90042
+North Avenue 48	Los Angeles	90042
+North Avenue 49	Los Angeles	90041
+North Avenue 49	Los Angeles	90042
+North Avenue 50	Los Angeles	90042
+North Avenue 51	Los Angeles	90042
+North Avenue 52	Los Angeles	90042
+North Avenue 53	Los Angeles	90042
+North Avenue 54	Los Angeles	90042
+North Avenue 55	Los Angeles	90042
+North Avenue 56	Los Angeles	90042
+North Avenue 57	Los Angeles	90042
+North Avenue 58	Los Angeles	90042
+North Avenue 59	Los Angeles	90042
+North Avenue 60	Los Angeles	90042
+North Avenue 61	Los Angeles	90042
+North Avenue 62	Los Angeles	90042
+North Avenue 63	Los Angeles	90042
+North Avenue 64	Los Angeles	90042
+North Avenue 64	Pasadena	91105
+North Avenue 65	Los Angeles	90042
+North Avenue 66	Los Angeles	90042
+North Avenue 67	Los Angeles	90042
+North Avery Avenue	Farmersville	93223
+North Aviation Boulevard	El Segundo	90245
+North Aviation Boulevard	Manhattan Beach	90266
+North Aviation Boulevard	Redondo Beach	90278
+North Aviation Way	Redondo Beach	90278
+North Avila Street	Los Angeles	90012
+North Avo Lane	La Habra	90631
+North Avoca Street	Los Angeles	90041
+North Avon Street	Burbank	91504
+North Avon Street	Burbank	91505
+North Avon Street	Los Angeles	90026
+North Ayla Lane	Los Angeles	90041
+North Azul Circle	Canoga Park	91304
+North Azul Drive	Canoga Park	91304
+North Azurita Court	Porter Ranch	91326
+North Azusa Avenue	Azusa	91702
+North Azusa Avenue	Covina	91722
+North Azusa Avenue	La Puente	91744
+North Azusa Avenue	West Covina	91791
+North Azusa Avenue	West Covina	91792
+North Azusa Canyon Road	West Covina	91790
+North Azusa Canyon Road	West Covina	91791
+North Azusa Drive	Azusa	91702

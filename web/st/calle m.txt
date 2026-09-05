@@ -1,0 +1,197 @@
+Calle Maceta De Flores	Santa Clarita	91390
+Calle Macho	San Clemente	92673
+Calle Madera	Lake Forest	92630
+Calle Madera	Lake Forest	92630-2146
+Calle Madera	Santa Barbara	93105
+Calle Madera	Temecula	92591
+Calle Madera	Thousand Oaks	91360
+Calle Madero	Carlsbad	92009
+Calle Madero	Fountain Valley	92708
+Calle Madero	Temecula	92591
+Calle Madero Dr	Temecula	92591
+Calle Madiera	San Clemente	92672
+Calle Madreselva	Thousand Oaks	91360
+Calle Madrid	Carlsbad	92009
+Calle Madrid	La Quinta	92253
+Calle Madrid	Lake Forest	92630
+Calle Madrid	Rowland Heights	91748
+Calle Madrigal	La Jolla	92037
+Calle Madris	Tustin	92782
+Calle Maduro	Camarillo	93010
+Calle Maduro Ave	Camarillo	93010
+Calle Maduro Pl	Camarillo	93010
+Calle Magdalena	Encinitas	92024
+Calle Magdalena	Murrieta	92562
+Calle Majorca	La Jolla	92037
+Calle Majorca	San Clemente	92672
+Calle Malaga	Duarte	91010
+Calle Malaga	Laguna Niguel	92677
+Calle Malaga	Santa Barbara	93109
+Calle Malaguena	San Clemente	92672
+Calle Maleza	Santa Clarita	91390
+Calle Malva	San Luis Obispo	93401
+Calle Malvon	Thousand Oaks	91360
+Calle Mancha	Cathedral City	92234
+Calle Mandarina	San Clemente	92673
+Calle Mandarinas	Thousand Oaks	91360
+Calle Mandrina	Indio	92203
+Calle Manzana	Bakersfield	93314
+Calle Manzana	Temecula	92592
+Calle Manzana	Ybl	92886
+Calle Manzana	Yorba Linda	92886
+Calle Manzanita	Rancho Mirage	92270
+Calle Manzanita	Santa Barbara	93105
+Calle Manzano	Thousand Oaks	91360
+Calle Mapache	Camarillo	93012
+Calle Mar Azul	Chula Vista	91911
+Calle Mar De Armonia	San Diego	92130
+Calle Mar De Ballenas	San Diego	92130
+Calle Mar De Mariposa	San Diego	92130
+Calle Mar Mariposa	San Diego	92130
+Calle Mar Vista	Oxnard	93030
+Calle Marabella	Coachella	92236
+Calle Marana	Mission Hills	93436
+Calle Maravilla	San Clemente	92673
+Calle Marbella	Coachella	92236
+Calle Marbella	Oceanside	92056
+Calle Marcus	Palm Springs	92262
+Calle Marcus	Palm Springs	92264
+Calle Margarita	Agoura Hills	91301
+Calle Margarita	Elk Grove	95624
+Calle Margarita	Encinitas	92024
+Calle Margarita	San Dimas	91773
+Calle Margarita	Thousand Oaks	91360
+Calle Margarita St	Thousand Oaks	91360
+Calle Marguerita	Los Gatos	95032
+Calle Maria	Dana Point	92624
+Calle Maria	Elk Grove	95624
+Calle Maria	La Quinta	92253
+Calle Maria	Mission Viejo	92691
+Calle Maria	Rancho Santa Margarita	92688
+Calle Maria	San Clemente	92672
+Calle Maria	San Marcos	92069
+Calle Maria	Winnetka	91306
+Calle Maribel	San Marcos	92069
+Calle Marietta	Valley Center	92082
+Calle Marin	Mission Viejo	92692
+Calle Marina	San Clemente	92672
+Calle Marinero	Spring Valley	91977
+Calle Mariposa	Oceanside	92057
+Calle Mariposa	Santa Barbara	93105
+Calle Mariposa	Temecula	92590
+Calle Mariposa Reina	Santa Barbara Unincorporated	93117
+Calle Mariselda	San Diego	92124
+Calle Marisma	Walnut	91789
+Calle Marlena	Oak Park	91377
+Calle Marlena	San Clemente	92672
+Calle Marquis	Temecula	92592
+Calle Marseille	Long Beach	90814
+Calle Marta	Rancho Santa Margarita	92688
+Calle Martos	Cathedral City	92234
+Calle Martos	Duarte	91010
+Calle Mastil	Santa Barbara Unincorporated	93111
+Calle Matario	Temecula	92592
+Calle Mataro	Temecula	92592
+Calle Mateo	Temecula	92590
+Calle Matorral	Lake Forest	92630
+Calle Matorral	Lake Forest	92630-2237
+Calle Matorral	Lake Forest	92630-2238
+Calle Mattis	San Clemente	92673
+Calle Mayfair	Chula Vista	91913
+Calle Mayita	San Clemente	92672
+Calle Mayo	San Clemente	92673
+Calle Mayor	Rancho Santa Fe	92067
+Calle Mayor	Redondo Beach	90277
+Calle Mayor	Torrance	90505
+Calle Mazamitla	Palm Springs	92264
+Calle Mazatan	Morgan Hill	95037
+Calle Mazatlan	La Quinta	92253
+Calle Mazatlan	Morgan Hill	95037
+Calle Mazatlan	Palmdale	93552
+Calle Mazatlan	Thousand Oaks	91320
+Calle Medusa	Temecula	92591
+Calle Mejillones	San Diego	92130
+Calle Mejor	Carlsbad	92009
+Calle Meleno	Fullerton	92833
+Calle Melinda	Rancho Santa Margarita	92688
+Calle Mendocino	Temecula	92592
+Calle Mendoza	Coachella	92236
+Calle Mendoza	San Clemente	92672
+Calle Merecida	San Clemente	92673
+Calle Merida	Rancho Mirage	92270
+Calle Merlot	Sonoma	95476
+Calle Mesa Alta	Milpitas	95035
+Calle Meseta	Murrieta	92563
+Calle Mesita	Bonita	91902
+Calle Mesquite	Jamul	91935
+Calle Messina	Rancho Santa Fe	92067
+Calle Messina	Rancho Santa Fe	92091
+Calle Mia	Alpine	91901
+Calle Miguel	Camarillo	93010
+Calle Miguel	San Clemente	92672
+Calle Miguel	San Juan Capistrano	92675
+Calle Milagros	Chatsworth	91311
+Calle Milan	Highland	92346
+Calle Milano	Atascadero	93422
+Calle Milpitas	Bakersfield	93307
+Calle Mimosa	Thousand Oaks	91360
+Calle Minas	San Diego	92126
+Calle Mira Copa	Temecula	92592
+Calle Mira Monte	San Juan Capistrano	92675
+Calle Mira Monte	Thousand Oaks	91320
+Calle Miradero	San Dimas	91773
+Calle Mirador	El Cajon	92021
+Calle Mirador	Oak Park	91377
+Calle Mirador	San Clemente	92672
+Calle Mirador	Ybl	92886
+Calle Mirador	Yorba Linda	92886
+Calle Miramar	Chino Hills	91709
+Calle Miramar	La Jolla	92037
+Calle Miramar	Redondo Beach	90277
+Calle Miramar	San Juan Capistrano	92675
+Calle Miranda	Fullerton	92833
+Calle Mirasol	Camarillo	93010
+Calle Mirasol	Santa Maria	93458
+Calle Miro	Mission Hills	93436
+Calle Molino	Pacheco	94553
+Calle Monaco	Moreno Valley	92557
+Calle Monaco	San Clemente	92672
+Calle Monada	Riverside	92503
+Calle Monada St	Riverside	92503
+Calle Monforte	Cathedral City	92234
+Calle Moniz	Morgan Hill	95037
+Calle Monserrat	San Clemente	92672
+Calle Montalvo	Saratoga	95070
+Calle Montalvo Cir	Granite Bay	95746
+Calle Montana	Montebello	90640
+Calle Montana	San Diego	92127
+Calle Montana	Santa Clarita	91390
+Calle Monte	Dana Point	92624
+Calle Monte Carlo	San Clemente	92672
+Calle Monte Cristo	San Clemente	92672
+Calle Montecello	Temecula	92590
+Calle Montecillo	Agoura Hills	91301
+Calle Montecillo	Temecula	92590
+Calle Montecillo Rd	Temecula	92590
+Calle Montecito	Oceanside	92057
+Calle Montelibano	Rancho Santa Fe	92067
+Calle Montella	Tustin	92782
+Calle Montera	Escondido	92025
+Calle Monterey	Dana Point	92624
+Calle Monterey	La Quinta	92253
+Calle Monterey	San Dimas	91773
+Calle Montigo	Cathedral City	92234
+Calle Montilla	Santa Barbara	93109
+Calle Montoro	Cathedral City	92234
+Calle Mora	Cathedral City	92234
+Calle Moraga	Laguna Niguel	92677
+Calle Morelia	Santa Barbara Unincorporated	93111
+Calle Morelos	Palm Springs	92264
+Calle Morelos	San Diego	92126
+Calle Moreno	Coachella	92236
+Calle Moreno	San Dimas	91773
+Calle Moreno Ln	Ojai	93023
+Calle Morera	Thousand Oaks	91360
+Calle Morita	Temecula	92592
+Calle Mortia	Temecula	92592
+Calle Mula	Cathedral City	92234

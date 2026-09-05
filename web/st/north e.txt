@@ -1,0 +1,204 @@
+North E Street	Exeter	93221
+North E Street	Porterville	93257
+North E Street	Tulare	93274
+North Eagle Dale Avenue	Los Angeles	90041
+North Eagle Rock Boulevard	Los Angeles	90041
+North Eagle Rock Boulevard	Los Angeles	90065
+North Earl Avenue	Long Beach	90806
+North Earle Street	San Gabriel	91775
+North Earle Street	San Gabriel	91776
+North Earlimart Avenue	Earlimart	93219
+North Easley Canyon Road	Glendora	91741
+North East End Avenue	Pomona	91767
+North East Street	Woodland	95695
+North East Street	Woodland	95776
+North Eastbury Avenue	Covina	91722
+North Easterly Terrace	Los Angeles	90026
+North Eastern Avenue	Los Angeles	90022
+North Eastern Avenue	Los Angeles	90032
+North Eastern Avenue	Los Angeles	90063
+North Eastlake Avenue	Los Angeles	90031
+North Eastman Avenue	Los Angeles	90023
+North Eastman Avenue	Los Angeles	90063
+North Eastview Little League Drive	San Pedro	90731
+North Eastwood Avenue	Inglewood	90301
+North Easy Street	Merced	95340
+North Eaton Avenue	Dinuba	93618
+North Eaton Circle	Long Beach	90815
+North Eaton Terrace	Los Angeles	90042
+North Ebey Avenue	Los Angeles	90042
+North Echandia Street	Los Angeles	90033
+North Echo Park Avenue	Los Angeles	90026
+North Echo Park Terrace	Los Angeles	90026
+North Eddleston Drive	Porter Ranch	91326
+North Edenfield Avenue	Covina	91722
+North Edenfield Avenue	Covina	91723
+North Edenhurst Avenue	Los Angeles	90039
+North Edgecliffe Drive	Los Angeles	90026
+North Edgemont Street	La Habra	90631
+North Edgemont Street	Los Angeles	90004
+North Edgemont Street	Los Angeles	90027
+North Edgemont Street	Los Angeles	90029
+North Edgeware Road	Los Angeles	90026
+North Edgewater Terrace	Los Angeles	90039
+North Edgewood Street	Inglewood	90302
+North Edinburgh Avenue	Los Angeles	90046
+North Edinburgh Avenue	Los Angeles	90048
+North Edison Boulevard	Burbank	91505
+North Edison Court	Visalia	93292
+North Edison Place	Long Beach	90802
+North Edison Street	Visalia	93292
+North Edith Avenue	West Covina	91790
+North Edloft Avenue	Los Angeles	90032
+North Edminister Road	Stevinson	95374
+North Edward Avenue	Los Angeles	90065
+North Eileen Avenue	West Covina	91791
+North Eileen Street	West Covina	91791
+North El Bosque Court	Pacific Palisades	90272
+North El Cajon Street	Visalia	93291
+North El Camino Drive	Palmdale	93551
+North El Camino Real	Salinas	93907
+North El Centro Avenue	Los Angeles	90028
+North El Centro Avenue	Los Angeles	90038
+North El Cerrito Place	Los Angeles	90068
+North El Contento Drive	Los Angeles	90068
+North El Dorado Avenue	Pacoima	91331
+North El Dorado Avenue	San Fernando	91340
+North El Dorado Avenue	Sylmar	91342
+North El Dorado Drive	Long Beach	90808
+North El Encino Drive	Diamond Bar	91765
+North El Granito Street	Porterville	93257
+North El Macero Drive	El Macero	95618
+North El Medio Avenue	Pacific Palisades	90272
+North El Molino Avenue	Pasadena	91101
+North El Molino Avenue	Pasadena	91106
+North El Molino Street	Alhambra	91801
+North El Nido Avenue	Monrovia	91016
+North El Paso Drive	Los Angeles	90042
+North El Paso Drive	Los Angeles	90065
+North El Portal Drive	La Habra	90631
+North El Rancho Drive	La Habra	90631
+North El Rey Drive	La Habra	90631
+North El Rosa Drive	Los Angeles	90065
+North El Sereno Avenue	Los Angeles	90032
+North El Sol Avenue	Altadena	91001
+North El Verano Avenue	Los Angeles	90041
+North Elberta Road	Exeter	93221
+North Elderbank Drive	Los Angeles	90031
+North Elderwood Street	Porterville	93257
+North Eldon Avenue	La Puente	91744
+North Eldridge Avenue	Sylmar	91342
+North Eleanor Street	Pomona	91767
+North Electra Court	Los Angeles	90046
+North Electric Avenue	Alhambra	91801
+North Electric Avenue	Alhambra	91803
+North Elena Avenue	Redondo Beach	90277
+North Elevado Street	Los Angeles	90026
+North Eliot Lane	Long Beach	90814
+North Elko Street	Visalia	93291
+North Ellen Drive	Covina	91722
+North Ellen Drive	West Covina	91790
+North Ellenwood Drive	Los Angeles	90041
+North Ellenwood Place	Los Angeles	90041
+North Ellery Drive	San Pedro	90732
+North Ellery Place	San Pedro	90732
+North Ellie Street	La Habra	90631
+North Ellington Drive	Los Angeles	90068
+North Ellis Place	Porterville	93257
+North Ellita Place	Los Angeles	90042
+North Elm Avenue	Long Beach	90805
+North Elm Avenue	Long Beach	90806
+North Elm Avenue	Long Beach	90813
+North Elm Court	Visalia	93291
+North Elm Drive	Beverly Hills	90210
+North Elm Drive	Beverly Hills	90212
+North Elm Street	Pixley	93256
+North Elm Street	Visalia	93291
+North Elman St	San Diego	92111
+North Elmer Avenue	North Hollywood	91602
+North Elmwood Avenue	Lindsay	93247
+North Elspeth Way	Covina	91722
+North Elva Avenue	Compton	90222
+North Elwood Avenue	Glendora	91741
+North Elysian Park Drive	Los Angeles	90026
+North Elzevir Road	Woodland Hills	91364
+North Emerson Place	Porterville	93257
+North Emigrant Street	Bridgeport	93517
+North Empis Street	Woodland Hills	91364
+North Enchanted Way	Pacific Palisades	90272
+North Encina Court	Visalia	93291
+North Encina Street	Visalia	93291
+North Encinitas Avenue	Monrovia	91016
+North Encino Avenue	Encino	91316
+North Encino Avenue	Northridge	91325
+North Encino Hills Place	Encino	91436
+North End Dr	Murrieta	92563
+North End Rd	Murrieta	92563
+North Enero Court	Los Angeles	90033
+North Enfield Avenue	Encino	91316
+North Enfield Avenue	Reseda	91335
+North Englehart Avenue	Dinuba	93618
+North Englewild Drive	Glendora	91741
+North Enid Avenue	Azusa	91702
+North Enid Avenue	Covina	91722
+North Enos Court	Visalia	93292
+North Enos Street	Visalia	93292
+North Enrose Avenue	Rancho Palos Verdes	90275
+North Enrose Avenue	San Pedro	90732
+North Ensenada Drive	Woodland Hills	91364
+North Ensign Avenue	North Hollywood	91602
+North Enterprise Avenue	Inglewood	90302
+North Enterprise Street	Tulare	93274
+North Entertainment Drive	Valencia	91355
+North Entrada Drive	Santa Monica	90402
+North Erie Street	Pomona	91768
+North Escobedo Drive	Woodland Hills	91364
+North Essey Avenue	Compton	90221
+North Estaban Way	Tujunga	91042
+North Esther Street	Porterville	93257
+North Estrella Place	Porter Ranch	91326
+North Ethel Avenue	Alhambra	91801
+North Ethel Avenue	North Hollywood	91605
+North Ethel Avenue	Sherman Oaks	91423
+North Ethel Avenue	Studio City	91604
+North Ethel Avenue	Van Nuys	91401
+North Etiwanda Avenue	Northridge	91325
+North Etiwanda Avenue	Northridge	91330
+North Etiwanda Avenue	Reseda	91335
+North Etiwanda Avenue	Tarzana	91356
+North Eton Avenue	Canoga Park	91303
+North Eton Avenue	Chatsworth	91311
+North Eubank Avenue	Wilmington	90744
+North Eucalyptus Avenue	Inglewood	90301
+North Eucalyptus Avenue	Inglewood	90302
+North Eucalyptus Avenue	Long Beach	90806
+North Eucalyptus Street	Pixley	93256
+North Eucla Avenue	San Dimas	91773
+North Euclid Avenue	Dinuba	93618
+North Euclid Avenue	Long Beach	90803
+North Euclid Avenue	Long Beach	90804
+North Euclid Avenue	Long Beach	90814
+North Euclid Avenue	Long Beach	90815
+North Euclid Avenue	Pasadena	91101
+North Euclid Avenue	Pasadena	91104
+North Euclid Street	La Habra	90631
+North Eureka Avenue	Long Beach	90805
+North Eva Terrace	Los Angeles	90031
+North Evadale Drive	Los Angeles	90031
+North Evans Road	Tipton	93272
+North Everett Street	Glendale	91205
+North Everett Street	Glendale	91206
+North Everett Street	Glendale	91207
+North Everett Street	Los Angeles	90026
+North Evergreen Avenue	Los Angeles	90033
+North Evergreen St	San Diego	92106
+North Evergreen St	San Diego	92110
+North Evergreen Street	Burbank	91505
+North Evers Avenue	Compton	90220
+North Excelente Drive	Woodland Hills	91364
+North Exchange Place	San Dimas	91773
+North Exchange Street	Los Angeles	90039
+North Exit Road	Penn Valley	95946
+North Exton Avenue	Inglewood	90302
+North Eyre	Littlerock	93543
+North Ezra Street	Los Angeles	90063

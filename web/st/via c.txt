@@ -1,0 +1,674 @@
+Via Caballero	Monte Sereno	95030
+Via Caballo	Catheys Valley	95306
+Via Caballo	Rancho Santa Margarita	92688
+Via Caballo Rojo	San Diego	92129
+Via Caballos	Covina	91724
+Via Caballos	Murrieta	92562
+Via Caballos Rd	Murrieta	92562
+Via Caballos Street	Covina	91724
+Via Cabana	Carlsbad	92009
+Via Cabana	Menifee	92584
+Via Cabeza	Ybl	92886
+Via Cabeza	Yorba Linda	92886
+Via Cabezon	San Diego	92129
+Via Cabo Verde	Escondido	92029
+Via Cabrera	La Jolla	92037
+Via Cabrera Ln	Martinez	94553
+Via Cabrillo	Malibu	90265
+Via Cabrillo	Oceanside	92056
+Via Cabrillo Marina	San Pedro	90731
+Via Caceres	Corona	92881
+Via Caceres	San Diego	92129
+Via Cacho	Temecula	92592
+Via Cadiz	Murrieta	92563
+Via Cadiz	San Clemente	92673
+Via Cadiz	Ybl	92886
+Via Cadiz	Yorba Linda	92886
+Via Cafetal	San Marcos	92069
+Via Cajita	Carlsbad	92010
+Via Calabria	Escondido	92025
+Via Calafia	Carlsbad	92009
+Via Calandria	San Clemente	92672
+Via Calanova	San Diego	92128
+Via Caldera	Palm Desert	92260
+Via Calderia	Palm Desert	92260
+Via Calderon	Camarillo	93012
+Via Calderon	Ybl	92886
+Via Calderon	Yorba Linda	92886
+Via Calendula	San Clemente	92673
+Via Cali St	Bakersfield	93314
+Via Calidad	Murrieta	92562
+Via Caliente	Fullerton	92833
+Via Caliente	La Quinta	92253
+Via Caliente	San Marcos	92069
+Via Caliente Del Sol	Jamul	91935
+Via Califia	Carlsbad	92009
+Via California	Chula Vista	91913
+Via California	Dana Point	92624
+Via California	San Juan Capistrano	92675
+Via Calina	Temecula	92592
+Via Calinda	Valencia	91355
+Via Calisero	Valencia	91355
+Via Callado	La Jolla	92037
+Via Callado	Mission Viejo	92691
+Via Callado	Oceanside	92057
+Via Callados	Orinda	94563
+Via Calle Ct	Durham	95938
+Via Calle Del Lago	Murrieta	92563
+Via Calle Morita	Temecula	92592
+Via Callejon	San Clemente	92673
+Via Callejon	San Juan Capistrano	92675
+Via Callendo	Carlsbad	92009
+Via Callisto	Riverside	92506
+Via Calma	Rowland Heights	91748
+Via Calma	Tustin	92780
+Via Calma	Valencia	91355
+Via Calorin	Jurupa Valley	92509
+Via Calorin	Murrieta	92562
+Via Calusa	Murrieta	92563
+Via Calvillo	Bonsall	92003
+Via Calzada	Mission Viejo	92691
+Via Calzada	San Jose	95135
+Via Cambron	Rancho Palos Verdes	90275
+Via Camelia	Paso Robles	93446
+Via Camellia	San Marcos	92069
+Via Cameron Truck Trl	Campo	91906
+Via Camille	Montebello	90640
+Via Camille	San Dimas	91773
+Via Caminar	San Marcos	92078
+Via Caminata	San Juan Capistrano	92675
+Via Camino	La Verne	91750
+Via Camino	Thousand Oaks	91320
+Via Camino	Wilmington	90744
+Via Camino Ave	Carmichael	95608
+Via Camino Ct	Cupertino	95014
+Via Camino Verde	Oceanside	92054
+Via Campagna	San Jose	95120
+Via Campana	Aptos	95003
+Via Campana	Bakersfield	93311
+Via Campana	Monterey	93940
+Via Campana	Valencia	91354
+Via Campanario	Temecula	92592
+Via Campanas	Ybl	92886
+Via Campanas	Yorba Linda	92886
+Via Campanile	Carlsbad	92009
+Via Campeche	Riverside	92507
+Via Campesina	Palos Verdes Peninsula	90274
+Via Campesina	Rancho Palos Verdes	90275
+Via Campestre	Del Mar	92014
+Via Campestre	Valley Center	92082
+Via Campina	San Jose	95139
+Via Campo	La Verne	91750
+Via Campo	Los Angeles	90022
+Via Campo	Montebello	90640
+Via Campo	Rancho Mirage	92270
+Via Campo Aureo	San Jose	95120
+Via Campo Verde	Aliso Viejo	92656
+Via Campo Verde	Laguna Woods	92637
+Via Campo Verde	Rancho Santa Fe	92067
+Via Campo Verde	San Jose	95120
+Via Campobello	Santa Barbara Unincorporated	93111
+Via Camposeco	Murrieta	92562
+Via Canada	Kenwood	95452
+Via Canada	King City	93930
+Via Canada	Rancho Palos Verdes	90275
+Via Canada	San Dimas	91773
+Via Canada	Temecula	92592
+Via Canada	Thousand Oaks	91320
+Via Canada Del Osito	Rancho Santa Fe	92067
+Via Canada Rd	Temecula	92592
+Via Canarias	San Clemente	92672
+Via Canarias	Ybl	92887
+Via Canarias	Yorba Linda	92887
+Via Cancha	San Clemente	92673
+Via Cancion	San Clemente	92673
+Via Cancion	San Jose	95128
+Via Cancion	San Marcos	92078
+Via Candela	Rancho Santa Fe	92091
+Via Candela	Valencia	91355
+Via Candelaria	Coto De Caza	92679
+Via Candelas	Oceanside	92056
+Via Candeleda	Temecula	92592
+Via Candella	Thousand Oaks	91320
+Via Candice	Valencia	91355
+Via Candidiz	San Diego	92130
+Via Candrejo	Carlsbad	92009
+Via Canela	Oroville	95966
+Via Canela	San Juan Capistrano	92675
+Via Canero	San Clemente	92673
+Via Cangrejo	San Diego	92130
+Via Canon	Dana Point	92624
+Via Canon	Millbrae	94030
+Via Canon	Newhall	91321
+Via Canon	Yorba Linda	92887
+Via Canon St	Millbrae	94030
+Via Cantabria	San Juan Capistrano	92675
+Via Cantada	Ybl	92887
+Via Cantada	Yorba Linda	92887
+Via Cantamar	Escondido	92026
+Via Cantare	Los Angeles	90077
+Via Cantares	San Jose	95135
+Via Cantata	Temecula	92592
+Via Cantaviento	Murrieta	92562
+Via Cantebria	Encinitas	92024
+Via Cantera	Kenwood	95452
+Via Cantilena	Camarillo	93012
+Via Cantina	Valencia	91354
+Via Canyon Dr	San Diego	92129
+Via Canyon Dr	San Diego	92130
+Via Capay	Palos Verdes Peninsula	90274
+Via Capilla	Bakersfield	93311
+Via Capistrano	Tiburon	94920
+Via Capitola	Madera	93637
+Via Capote	San Juan Capistrano	92675
+Via Capote	Thousand Oaks	91320
+Via Capri	Burbank	91504
+Via Capri	Chula Vista	91913
+Via Capri	Corona	92879
+Via Capri	Dana Point	92629
+Via Capri	Hemet	92545
+Via Capri	La Jolla	92037
+Via Capri	La Quinta	92253
+Via Capri	Laguna Beach	92651
+Via Capri	Loma Linda	92354
+Via Capri	Rancho Palos Verdes	90275
+Via Capri	San Juan Capistrano	92675
+Via Capri Ave	Hemet	92545
+Via Capri Ct	La Jolla	92037
+Via Cara	Montclair	91763
+Via Cara Loma	Encinitas	92024
+Via Caracas	San Diego	92126
+Via Carancho	San Diego	92111
+Via Cararra	Palm Desert	92260
+Via Cardel	Carlsbad	92010
+Via Cardelina	Palos Verdes Peninsula	90274
+Via Careza	Murrieta	92563
+Via Caribia	Lake Elsinore	92530
+Via Caridad	Rancho Santa Margarita	92688
+Via Carillo	Thousand Oaks	91320
+Via Carina	Indian Wells	92210
+Via Carina	San Clemente	92673
+Via Carina	Vista	92081
+Via Carino	Rancho Santa Margarita	92688
+Via Carisma	Aliso Viejo	92656
+Via Carisma	Bakersfield	93309
+Via Carisma	Indio	92201
+Via Carisma	Palm Springs	92264
+Via Carisma	Santa Barbara	93109
+Via Carissa	Laguna Niguel	92677
+Via Carlidad	Murrieta	92562
+Via Carlos	Laguna Niguel	92677
+Via Carlos	San Juan Capistrano	92675
+Via Carlos Ct	Moreno Valley	92551
+Via Carlotta	El Cajon	92019
+Via Carlotta	Temecula	92592
+Via Carlotta St	Temecula	92592
+Via Carmel	La Quinta	92253
+Via Carmel Cir	La Quinta	92253
+Via Carmela	San Jose	95139
+Via Carmelia	Murrieta	92563
+Via Carmelita	Burbank	91501
+Via Carmelita	Carmel	93923
+Via Carmelitos	Long Beach	90805
+Via Carmelo	Temecula	92592
+Via Carmen	San Jose	95124
+Via Carmen	Unincorporated Alameda County	94580
+Via Carmin	Rancho Santa Margarita	92688
+Via Carmona	San Clemente	92673
+Via Carnaghi	Wildomar	92595
+Via Carnaghi Ln	Wildomar	92595
+Via Carolina	La Jolla	92037
+Via Carona Dr	Huntington Beach	92647
+Via Carona Dr	Huntington Beach	92647-6645
+Via Carona Dr	Huntington Beach	92647-6646
+Via Carona Dr	Huntington Beach	92647-6647
+Via Carona Dr	Huntington Beach	92647-6648
+Via Carona Dr	Huntington Beach	92647-6649
+Via Carona Dr	Huntington Beach	92647-6650
+Via Carona Dr	Huntington Beach	92647-6686
+Via Carranza	Camarillo	93012
+Via Carreta	Unincorporated Alameda County	94580
+Via Carretas	Hope Ranch	93110
+Via Carretas	Ybl	92886
+Via Carretas	Yorba Linda	92886
+Via Carrillo	Palos Verdes Peninsula	90274
+Via Carrillo	San Diego	92129
+Via Carrillo	San Marcos	92078
+Via Carrillo Dr	Rancho Cucamonga	91730
+Via Carrio	Carlsbad	92010
+Via Carrizo	Laguna Woods	92637
+Via Carrizo	San Jose	95135
+Via Carro	Thousand Oaks	91320
+Via Carroza	San Diego	92124
+Via Cartagena	Ybl	92886
+Via Cartagena	Yorba Linda	92886
+Via Cartagena St	Hesperia	92345
+Via Cartago	Riverside	92507
+Via Cartago St	Riverside	92507
+Via Cartama	San Clemente	92673
+Via Cartaya	San Clemente	92673
+Via Casa	Olivehurst	95961
+Via Casa Alta	La Jolla	92037
+Via Casa Del Sol	Carlsbad	92009
+Via Casa Loma	San Clemente	92672
+Via Casa Vista	Arroyo Grande	93420
+Via Casa Vista Rd	Arroyo Grande	93420
+Via Casada	Murrieta	92563
+Via Casale	Redding	96003
+Via Cascabel	Escondido	92027
+Via Cascabel	San Diego	92124
+Via Cascada	Carlsbad	92010
+Via Cascada	San Juan Capistrano	92675
+Via Cascadita	Menifee	92585
+Via Cascadita	San Clemente	92672
+Via Casco	Ybl	92886
+Via Casco	Yorba Linda	92886
+Via Caseria	Riverside	92504
+Via Caserta	San Luis Obispo	93401
+Via Caseta	Murrieta	92562
+Via Caseta	Rancho Santa Margarita	92688
+Via Casilina	El Cajon	92019
+Via Casita Pl	Chico	95928
+Via Casitas	Bonsall	92003
+Via Casitas	Carmichael	95608
+Via Casitas	Chino Hills	91709
+Via Casitas	Greenbrae	94904
+Via Casitas Dr	Hemet	92545
+Via Casoli	Monterey	93940
+Via Cassandra	Fallbrook	92028
+Via Cassano	Burbank	91504
+Via Castana	Morgan Hill	95037
+Via Castana	Murrieta	92563
+Via Castana Ct	Morgan Hill	95037
+Via Castana Dr	Morgan Hill	95037
+Via Castanada	Monterey	93940
+Via Castanada Place	Monterey	93940
+Via Castanet	San Marcos	92078
+Via Castanet	Valencia	91355
+Via Castellana	La Quinta	92253
+Via Castello	Indian Wells	92210
+Via Castellon	Ybl	92886
+Via Castellon	Yorba Linda	92886
+Via Castile	La Quinta	92253
+Via Castile	Ybl	92886
+Via Castile	Yorba Linda	92886
+Via Castilla	Laguna Woods	92637
+Via Castilla	Lake Forest	92630
+Via Castilla	Lake Forest	92630-0000
+Via Castilla	Lake Forest	92630-4635
+Via Castilla	Lake Forest	92630-4636
+Via Castilla	Oceanside	92057
+Via Castilla	Palos Verdes Peninsula	90274
+Via Castillo	Atascadero	93422
+Via Castillo	Tustin	92782
+Via Castro	Mission Viejo	92692
+Via Cataldo Street	Malibu	90265
+Via Catalina	Burbank	91504
+Via Catalina	Dana Point	92624
+Via Catalina	La Quinta	92253
+Via Catalina	Laguna Niguel	92677
+Via Catalina	San Clemente	92672
+Via Catalina	Valencia	91355
+Via Cataluna	Palos Verdes Peninsula	90274
+Via Catania	Bakersfield	93312
+Via Catania	Rancho Santa Fe	92091
+Via Catarina	San Dimas	91773
+Via Caudaloso	Mission Viejo	92692
+Via Cava	Temecula	92591
+Via Cavallo	Oakdale	95361
+Via Cavalo	Temecula	92592
+Via Cavillo	Bonsall	92003
+Via Cavour	Chula Vista	91910
+Via Cayente	Hope Ranch	93110
+Via Cazadero	Rancho Santa Fe	92067
+Via Cazador	Carmel	93923
+Via Cebolla	Laguna Niguel	92677
+Via Cecilia	Bakersfield	93307
+Via Cedro	Chula Vista	91910
+Via Cedro	Murrieta	92562
+Via Cedro	Oroville	95966
+Via Celeste	Coto De Caza	92679
+Via Celeste	Indio	92201
+Via Celestina	Ybl	92887
+Via Celestina	Yorba Linda	92887
+Via Celito St	Temecula	92591
+Via Cellini	Porter Ranch	91326
+Via Centre	Vista	92081
+Via Ceramica	San Clemente	92673
+Via Cerceta	Rancho Santa Margarita	92688
+Via Ceresa	Ybl	92886
+Via Ceresa	Yorba Linda	92886
+Via Cereza	Mission Viejo	92691
+Via Cerezo	Riverside	92506
+Via Cerioni	Madera	93637
+Via Cernuda	Mission Viejo	92692
+Via Cerrada	Alamo	94507
+Via Cerrito	Laguna Niguel	92677
+Via Cerritos	Palos Verdes Peninsula	90274
+Via Cerritos	Thousand Oaks	91320
+Via Cerro	Jurupa Valley	92509
+Via Cerro	Montebello	90640
+Via Cerro Gordo	Los Altos Hills	94022
+Via Cerro Rebal	San Juan Capistrano	92675
+Via Cerro Vista	Temecula	92592
+Via Cervano	Bakersfield	93312
+Via Cervantes	Riverside	92506
+Via Cervantes	San Juan Capistrano	92675
+Via Cervantes	Ybl	92887
+Via Cervantes	Yorba Linda	92887
+Via Cesario	Temecula	92592
+Via Chabas	Mission Viejo	92692
+Via Chacota	Mission Viejo	92692
+Via Chalupa	San Clemente	92673
+Via Champagne	Temecula	92592
+Via Chantilly	Valencia	91355
+Via Chapala	San Clemente	92673
+Via Chaparral	Fallbrook	92028
+Via Chaparral	Santa Barbara Unincorporated	93105
+Via Chapparo	Temecula	92592
+Via Cheparro	Greenbrae	94904
+Via Chepo	Riverside	92507
+Via Chiante	La Quinta	92253
+Via Chianti	Indian Wells	92210
+Via Chica Ct	Solana Beach	92075
+Via Chico	Palos Verdes Peninsula	90274
+Via Chico Pl	Laguna Niguel	92677
+Via Chicuelina	San Juan Capistrano	92675
+Via Chinarros	Alpine	91901
+Via Chiquero	San Juan Capistrano	92675
+Via Chiquita	Monterey	93940
+Via Chiquita	Unincorporated Alameda County	94580
+Via Chiripa	Mission Viejo	92691
+Via Chocano	Mission Viejo	92692
+Via Cholula	Menifee	92585
+Via Chona	San Diego	92128
+Via Christina	Vista	92084
+Via Chualar	Monterey	93940
+Via Chula Robles	Arroyo Grande	93420
+Via Cibola	Oceanside	92057
+Via Cicada	Cathedral City	92234
+Via Cicindela	Carmel	93923
+Via Ciega	Rancho Palos Verdes	90275
+Via Cielito	Rancho Santa Fe	92067
+Via Cielito	Temecula	92591
+Via Cielito	Ventura	93003
+Via Cielo	Atascadero	93422
+Via Cielo	Hacienda Heights	91745
+Via Cielo	San Jose	95135
+Via Cielo	Temecula	92590
+Via Cielo Azul	Alpine	91901
+Via Cielo Azul	Palm Desert	92260
+Via Cielo Dr	Corona	92882
+Via Cielo Road	Carmel Valley	93924
+Via Cielo Vista	Escondido	92029
+Via Cieloazul	Palm Desert	92260
+Via Cima	San Clemente	92672
+Via Cima Bella	San Diego	92129
+Via Cima Ct	Danville	94526
+Via Cimarron	Monterey	93940
+Via Cimborio Cir	San Diego	92131
+Via Cinco De Mayo	San Jose	95132
+Via Cinta	San Diego	92122
+Via Cinta Ct	Elk Grove	95757
+Via Cirillo	Temecula	92592
+Via Cisco	San Clemente	92672
+Via Clarez	Carlsbad	92010
+Via Clarice	Santa Barbara Unincorporated	93111
+Via Clarita Road	Acton	93510
+Via Clasico	Valencia	91355
+Via Clavel	San Clemente	92673
+Via Clemente	Carlsbad	92008
+Via Clemente	Los Angeles	90022
+Via Clemente	Oceanside	92057
+Via Clemente	Rancho Santa Margarita	92688
+Via Cocida	San Juan Capistrano	92675
+Via Codo	Ful	92835
+Via Codo	Fullerton	92835
+Via Codorniz	Coto De Caza	92679
+Via Codorniz	San Jose	95128
+Via Coello	Carlsbad	92009
+Via Coiba	Riverside	92506
+Via Colabria	Gustine	95322
+Via Coleta	Murrieta	92563
+Via Coleta Rd	Murrieta	92563
+Via Colibri	San Clemente	92672
+Via Colima	Carlsbad	92010
+Via Colina	Fullerton	92835
+Via Colina	La Mesa	91941
+Via Colina	Los Angeles	90042
+Via Colina	Moreno Valley	92555
+Via Colina	Oceanside	92056
+Via Colina	San Jose	95139
+Via Colina Dr	Saratoga	95070
+Via Colina Drive	Nevada City	95959
+Via Colinas	Coto De Caza	92679
+Via Colinas	Thousand Oaks	91362
+Via Colinas	Westlake Village	91362
+Via Colinita	Rancho Palos Verdes	90275
+Via Collado	Los Gatos	95030
+Via Collado	Los Gatos	95032
+Via Collado	Rancho Palos Verdes	90275
+Via Collina	Stevenson Ranch	91381
+Via Colmenar	San Diego	92129
+Via Colombard	Sonoma	95476
+Via Colonia	San Diego	92126
+Via Colonia Ct	Atascadero	93422
+Via Colonna Terrace	Davis	95618
+Via Colorada	Temecula	92592
+Via Colorado	Oceanside	92056
+Via Colorin	Palos Verdes Peninsula	90274
+Via Colorso	San Clemente	92672
+Via Columbia	Vista	92081
+Via Colusa	Palm Springs	92262
+Via Colusa	Palos Verdes Peninsula	90274
+Via Colusa	Redondo Beach	90277
+Via Colusa	Torrance	90505
+Via Colusa Rd	Palm Springs	92262
+Via Como Ct	Corona	92881
+Via Compadres	Murrieta	92562
+Via Compania	Gustine	95322
+Via Compania	Rancho Santa Margarita	92688
+Via Con Dios	Camarillo	93010
+Via Con Dios	Rancho Santa Margarita	92688
+Via Conca Doro	Vista	92084
+Via Concepcion	Rancho Santa Fe	92067
+Via Concepcion	Riverside	92506
+Via Concha	Aptos	95003
+Via Concha	Mission Viejo	92691
+Via Concha	San Clemente	92673
+Via Concha Rd	Nipomo	93444
+Via Conchilla	Coachella	92236
+Via Conchita	Mission Viejo	92691
+Via Condotti	Rancho Mirage	92270
+Via Conejo	Coto De Caza	92679
+Via Conejo	Escondido	92029
+Via Conejo	Palos Verdes Peninsula	90274
+Via Conejo	Riverside	92506
+Via Confianza	Rancho Santa Margarita	92688
+Via Congora	Mission Viejo	92692
+Via Conocido	San Clemente	92673
+Via Conquista	San Juan Capistrano	92675
+Via Conquistador	Carlsbad	92009
+Via Conquistador	La Quinta	92253
+Via Constance	Lancaster	93536
+Via Constanza	San Diego	92129
+Via Consuelo	Coto De Caza	92679
+Via Consuelo	El Cajon	92021
+Via Consuelo	Temecula	92592
+Via Contenta	Carmel Valley	93924
+Via Contenta	Escondido	92029
+Via Contenta	Moreno Valley	92555
+Via Contenta	San Jose	95128
+Via Contento	Bakersfield	93314
+Via Contento	Rancho Santa Margarita	92688
+Via Contento	Santa Maria	93454
+Via Contento	Ybl	92886
+Via Contento	Yorba Linda	92886
+Via Contessa	San Marcos	92069
+Via Copeta	Valencia	91355
+Via Copla	Alamo	94507
+Via Coralla	Unincorporated Alameda County	94580
+Via Coralle	Newport Beach	92657
+Via Corazon	Menifee	92584
+Via Corazon Dr	Corona	92882
+Via Corbina	Rancho Santa Margarita	92688
+Via Corbina	San Clemente	92672
+Via Cordaro	Temecula	92592
+Via Cordoba	Atascadero	93422
+Via Cordoba	Rancho Santa Fe	92067
+Via Cordoba	Rancho Santa Margarita	92688
+Via Cordoba	San Ramon	94583
+Via Cordoba	Temecula	92592
+Via Cordora	Temecula	92592
+Via Cordorba	Temecula	92592
+Via Cordova	Dana Point	92629
+Via Cordova	La Quinta	92253
+Via Cordova	Lake Elsinore	92530
+Via Cordova	Newport Beach	92663
+Via Cordova	Palmdale	93550
+Via Cordova	San Juan Capistrano	92675
+Via Cordova	San Pedro	90732
+Via Cordova	Temecula	92592
+Via Cordova Ln	Martinez	94553
+Via Cordura	San Jose	95139
+Via Corella	Tustin	92782
+Via Corfinio	Morgan Hill	95037
+Via Corina	Alpine	91901
+Via Corita Ct	Los Altos Hills	94022
+Via Corona	Buellton	93427
+Via Corona	Hope Ranch	93110
+Via Corona	Indian Wells	92210
+Via Corona	La Jolla	92037
+Via Corona	La Verne	91750
+Via Corona	Laguna Niguel	92677
+Via Corona	Lake Forest	92679
+Via Corona	Los Angeles	90022
+Via Corona	Montebello	90640
+Via Corona	San Jose	95139
+Via Corona	Torrance	90505
+Via Corona	Trabuco Canyon	92679-0000
+Via Corona	Trabuco Canyon	92679-1616
+Via Corona	Ybl	92887
+Via Corona	Yorba Linda	92887
+Via Corona Street	Los Angeles	90022
+Via Coronado	La Quinta	92253
+Via Coronado	Mission Viejo	92692
+Via Coronado	Rancho Santa Fe	92091
+Via Coronado	Thousand Oaks	91320
+Via Coronado	Ybl	92887
+Via Coronado	Yorba Linda	92887
+Via Coronel	Palos Verdes Peninsula	90274
+Via Corrida	Temecula	92590
+Via Corrido	La Quinta	92253
+Via Corrillo	Yorba Linda	92887
+Via Corrizo	San Juan Capistrano	92675
+Via Corsa	Valencia	91355
+Via Corsica	Dana Point	92629
+Via Corsica	Hemet	92545
+Via Corsica	Laguna Beach	92651
+Via Corsica	Temecula	92591
+Via Corsica Dr	Temecula	92591
+Via Corsica Rd	Temecula	92591
+Via Corsini	San Diego	92128
+Via Corta	La Quinta	92253
+Via Corta	La Verne	91750
+Via Corta	Palm Springs	92262
+Via Corta	Palos Verdes Peninsula	90274
+Via Corta	San Jose	95120
+Via Corta	San Juan Capistrano	92675
+Via Corta	Villa Park	92861
+Via Cortale	Lakeside	92040
+Via Corte	Escondido	92029
+Via Corte	Orinda	94563
+Via Corte	Oroville	95966
+Via Corte West	Desert Hot Springs	92240
+Via Cortez	Ana	92807
+Via Cortez	Anaheim	92807
+Via Cortez	Mission Hills	93436
+Via Cortez	Mission Viejo	92692
+Via Cortez	Moreno Valley	92551
+Via Cortez	Placentia	92870
+Via Cortez St	Moreno Valley	92551
+Via Cortina	Del Mar	92014
+Via Cortina	San Jose	95120
+Via Corto	Desert Hot Springs	92240
+Via Corto	Fallbrook	92028
+Via Corto	Valencia	91355
+Via Corto East	Desert Hot Springs	92240
+Via Corto Monte	Murrieta	92562
+Via Corto W	Desert Hot Springs	92240
+Via Corto West	Desert Hot Springs	92240
+Via Cortona	Indian Wells	92210
+Via Cortona	San Diego	92127
+Via Corvalian	Dana Point	92629
+Via Corvino St	Selma	93662
+Via Corzo	Ybl	92886
+Via Corzo	Yorba Linda	92886
+Via Coscoja	Carlsbad	92009
+Via Cosecha	Temecula	92591
+Via Costa Brava	Mecca	92254
+Via Costa Rica	Vista	92081
+Via Costa Verde	Rancho Palos Verdes	90275
+Via Costanza	San Diego	92129
+Via Costina	San Ysidro	92173
+Via Cota	Ybl	92887
+Via Cota	Yorba Linda	92887
+Via Covello	Santa Barbara Unincorporated	93110
+Via Coyote	Coto De Caza	92679
+Via Coyote	Santa Cruz	95065
+Via Cozumel	Camarillo	93012
+Via Crecente Ct	Saratoga	95070
+Via Crema	Burbank	91504
+Via Crespi	La Quinta	92253
+Via Crespi	Laguna Niguel	92677
+Via Cresta	Laguna Niguel	92677
+Via Cresta	Pacific Palisades	90272
+Via Cresta	Rancho Santa Margarita	92688
+Via Cresta	Santa Clarita	91390
+Via Cresta	Thousand Oaks	91320
+Via Cresta	Valencia	91354
+Via Cresta Rd	San Diego	92129
+Via Crianza	Temecula	92591
+Via Cristal	Camarillo	93012
+Via Cristal	San Diego	92129
+Via Cristal	San Juan Capistrano	92675
+Via Cristal	Ybl	92886
+Via Cristal	Yorba Linda	92886
+Via Cristallo	Newport Beach	92657
+Via Cristina	Thousand Oaks	91320
+Via Cristobal	San Clemente	92673
+Via Cristobal	San Jose	95008
+Via Cristobal	San Jose	95130
+Via Crotalo	Carmel	93923
+Via Cruz	Laguna Niguel	92677
+Via Cruz	Oceanside	92057
+Via Cruz	Valencia	91355
+Via Cruzada	San Juan Capistrano	92675
+Via Ct	Elk Grove	95624
+Via Ctr	Vista	92081
+Via Cuartel	San Juan Capistrano	92675
+Via Cuarto	Oceanside	92056
+Via Cuatro Caminos	Rancho Santa Fe	92067
+Via Cuenca	Murrieta	92563
+Via Cuenca	San Diego	92129
+Via Cuenta Nueva	San Clemente	92673
+Via Cuervo	Mission Viejo	92691
+Via Cuesta	Oceanside	92056
+Via Cuesta	Ramona	92065
+Via Cuesta	Riverside	92506
+Via Cuesta Al Sol	Temecula	92591
+Via Cuesta Arriba	Bonsall	92003
+Via Cuesta Arriba	Vista	92084
+Via Cuesta Mansa	Rancho Santa Fe	92067
+Via Cuesta Verde	Rancho Santa Fe	92067
+Via Cuidado	Rancho Santa Margarita	92688
+Via Cumbres	Fallbrook	92028
+Via Cumbres Ln	Fallbrook	92028
+Via Cupeno	Oceanside	92057
+Via Cupertino	Camarillo	93012
+Via Curtidor	Winchester	92596
+Via Curva	Jurupa Valley	92509
+Via Curva	Palos Verdes Peninsula	90274
+Via Curvada	Chula Vista	91910
+Via Curvado	Murrieta	92563
+Via Cynthia	Laguna Niguel	92677

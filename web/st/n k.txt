@@ -1,0 +1,182 @@
+N K	Imperial	92251
+N K Ave	Imperial	92251
+N K St	Imperial	92251
+N K St	Lompoc	93436
+N K St	Madera	93637
+N K St	Madera	93638
+N K St	Needles	92363
+N K St	Oxnard	93030
+N K St	San Bernardino	92410
+N K St	San Bernardino	92411
+N K St 1/2	Madera	93637
+N Kady Ave	Reedley	93654
+N Kalana Ave	Morgan Hill	95037
+N Kalbaugh St	Ramona	92065
+N Kalmia Pl	Mh	95391
+N Kalmia St	Escondido	92025
+N Kalorama	Ventura	93001
+N Kalorama Dr	Ventura	93001
+N Kalorama St	Ventura	93001
+N Kanai Dr	Porterville	93257
+N Kanan Rd	Oak Park	91377
+N Kansas Ave	Colton	92324
+N Kaplan Pl	Hanford	93230
+N Karen Ave	Oak View	93022
+N Kastell Ln	Stockton	95215
+N Katawpa Cir	Villa Park	92867
+N Kate St	Mendota	93640
+N Katherine Dr	Ventura	93003
+N Kathleen Ln	Orange	92867
+N Kathleen Ln	Orange	92869
+N Kathryn Dr	Anaheim	92801
+N Katrina Way	Upland	91784
+N Kats Way	Upland	91786
+N Katy Ln	Fresno	93722
+N Kavanagh Ave	Fresno	93705
+N Kavanagh Ave	Fresno	93711
+N Kavenish Dr	Rancho Mirage	92270
+N Kavensh Way	Rancho Mirage	92270
+N Kaweah Rd	Palm Springs	92262
+N Kaweah St	Hanford	93230
+N Kayenta Ct	Visalia	93291
+N Kayenta St	Visalia	93291
+N Kearney Ct	Tustin	92782
+N Keats Ave	Thousand Oaks	91360
+N Keeble Ave	San Jose	95126
+N Kellen Dr	Bre	92821
+N Kellen Dr	Brea	92821
+N Kellogg Av	Goleta	93111
+N Kellogg Av	Santa Barbara Unincorporated	93111
+N Kellogg Dr	Ana	92807
+N Kellogg Dr	Anaheim	92807
+N Kellogg St	Lake Elsinore	92530
+N Kelly Ave	Upland	91784
+N Kelly Ave	Upland	91786
+N Kelly Rd	Napa	94558
+N Kelsey Cir	Palm Desert	92211
+N Kelsey Ct	Palm Desert	92211
+N Kelsey St	Visalia	93291
+N Kemp St	Anaheim	92801
+N Kemp St	Burbank	91505
+N Kendall Ave	Camarillo	93010
+N Kendall Ave	San Bernardino	92410
+N Kendall Rd	Linden	95236
+N Kendor Dr	Anaheim	92801
+N Kendra Dr	Orange	92867
+N Kenmore Ave	Ontario	91762
+N Kenmore Ct	Ontario	91762
+N Kennebec Dr	Anaheim	92807
+N Kennedy Ave	Fresno	93710
+N Kennedy Ct	Visalia	93292
+N Kennedy St	Orange	92865
+N Kennedy St	Visalia	93292
+N Kennefick Rd	Acampo	95220
+N Kennefick Rd	Acampo	95632
+N Kennefick Rd	Galt	95632
+N Kennefick Rd	Lodi	95240
+N Kenneth Rd	Burbank	91501
+N Kenneth Rd	Burbank	91504
+N Kennison Ln	Lodi	95240
+N Kennymead St	Orange	92869
+N Kensington Av	Santa Maria	93454
+N Kensington Ave	Santa Maria	93454
+N Kensington Pl	Porterville	93257
+N Kensington Way	Hanford	93230
+N Kensington Way	Porterville	93257
+N Kensington Way	Santa Maria	93454
+N Kensington Wy	Santa Maria	93454
+N Kent Ct	Visalia	93291
+N Kent St	Anaheim	92806
+N Kent St	Orange	92867
+N Kent St	Visalia	93291
+N Kenton Ave	National City	91950
+N Kentucky St	Petaluma	94952
+N Kenwick Dr	Villa Park	92867
+N Kenwood	Orange	92869
+N Kenwood Ave	San Bernardino	92404
+N Kenwood Pl	Anaheim	92805
+N Kenwood St	Burbank	91505
+N Keokuk St	Orange	92865
+N Kern St	Bakersfield	93305
+N Kessing Pl	Porterville	93257
+N Kessing St	Porterville	93257
+N Kettle Mill Pl	Ana	92807
+N Kettle Mill Pl	Anaheim	92807
+N Kevin Cir	Corona	92880
+N Kevin Ct	Woodbridge	95258
+N Kevin Ln	Porterville	93257
+N Keystone Ct	Fresno	93720
+N Keystone St	Anaheim	92801
+N Keystone St	Burbank	91504
+N Keystone St	Burbank	91506
+N Kiefer Blvd	Sacramento	95826
+N Kilaga Springs Rd	Lincoln	95648
+N Kilroy Rd	Turlock	95380
+N Kilroy Rd	Turlock	95382
+N Kimball Ave	Hemet	92543
+N Kimball Rd	Ventura	93004
+N Kimbark Ln	Orange	92869
+N Kimberly Ct	Porterville	93257
+N Kimberly Pl	Porterville	93257
+N Kimberwick Ln	Moorpark	93021
+N Kincaid Ave	Fresno	93711
+N King Rd	San Jose	95116
+N King Rd	San Jose	95133
+N King St	Bakersfield	93305
+N King St	Santa Ana	92703
+N King St	Santa Ana	92706
+N Kingman St	Visalia	93291
+N Kings Canyon Rd	Bre	92821
+N Kings Dr	Reedley	93654
+N Kings River Rd	Reedley	93654
+N Kingsgate Dr	Orange	92867
+N Kingsgrove Dr	Somis	93066
+N Kingsley St	Anaheim	92806
+N Kingsmill Ct	Fontana	92336
+N Kingston St	San Mateo	94401
+N Kingswell Ave	Banning	92220
+N Kingswood Pkwy	Reedley	93654
+N Kinley St	La Habra	90631
+N Kintyre Dr	Orange	92869
+N Kippy Dr	Colton	92324
+N Kirby	Anza	92539
+N Kirby Ave	Hemet	92545
+N Kirby Rd	Hemet	92545
+N Kirby St	Hemet	92545
+N Kirby St	San Jacinto	92582
+N Kirk Av	Stockton	95204
+N Kirpa Dr	Mh	95391
+N Kittyhawk Ave	Sanger	93657
+N Klamath Pl	Orange	92867
+N Klein Ave	Reedley	93654
+N Knightwood Pl	Simi Valley	93063
+N Knoll Ave	Fresno	93722
+N Knoll Dr	Fresno	93711
+N Knoll Dr	Fresno	93722
+N Knoll Lake Dr	Bre	92821
+N Knoll Rd	Mill Valley	94941
+N Knoll St	Victor	95253
+N Knollwood Cir	Anaheim	92801
+N Knotting Hill Dr	Fresno	93730
+N Knowlton Way	Fresno	93730
+N Knox Dr	Linden	95236
+N Knox St	Madera	93638
+N Knuth Cir	Villa Park	92867
+N Koa Dr	Rialto	92377
+N Kodiak St	Anaheim	92807
+N Kohala St	Oxnard	93030
+N Koleen Ave	Kerman	93630
+N Kona Ave	Fresno	93727
+N Koontz Rd	Thornton	95686
+N Kraemer Blvd	Anaheim	92806
+N Kraemer Blvd	Bre	92821
+N Kraemer Blvd	Pla	92870
+N Kraemer Blvd	Placentia	92870
+N Kraemer Pl	Ana	92821
+N Kraemer Pl	Anaheim	92806
+N Kroeger St	Anaheim	92805
+N Kroll Rd	Lodi	95240
+N Kuehner Dr	Simi Valley	93063
+N Kuna Ave	Yucca Valley	92284
+N Kylie Way	Fresno	93722
+N Kymber Dr	Fresno	93722

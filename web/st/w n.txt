@@ -1,0 +1,140 @@
+W N St	Colton	92324
+W Nance St	Perris	92571
+W Nancy Ave	Porterville	93257
+W Nancy Cir	Porterville	93257
+W Nancy Ct	Upland	91786
+W Nancy Ln	Porterville	93257
+W Naomi Way	Fresno	93722
+W Napa Ave	Fresno	93706
+W Napa Dr	Petaluma	94954
+W Napa St	Sonoma	95476
+W Napali Dr	Santa Ana	92704
+W Naranga St	San Bernardino	92410
+W Nartatez Ct	Santa Maria	93458
+W Nasergholi Av	Mh	95391
+W Natalie Ave	Kerman	93630
+W National Ave	Burbank	91505
+W Natoma Dr	Cathedral City	92234
+W Naughton Ave	Belmont	94002
+W Navajo Rd	Perris	92570
+W Nebraska Ave	Cantua Creek	93608
+W Nebraska Ave	Caruthers	93609
+W Nebraska Ave	Fresno	93706
+W Nebraska Ave	Mendota	93640
+W Nebraska Ave	Riverdale	93656
+W Neckel	Imperial	92251
+W Neckel Dr	Imperial	92251
+W Neckel Rd	Imperial	92251
+W Nectarine Av	Lompoc	93436
+W Nees Ave	Firebaugh	93622
+W Nees Ave	Fresno	93711
+W Neighbors Ave	Anaheim	92801
+W Neilson St	Carson	90745
+W Nellis Ave	Visalia	93277
+W Nellis Ct	Visalia	93277
+W Nelson Ave	Fowler	93625
+W Nelson Rd	Durham	95965
+W Neptune Sq	Oxnard	93035
+W Neugebauer Rd	Stockton	95206
+W  Neutra Ct	Elk Grove	95758
+W Nevada Ave	Blythe	92225
+W Nevada Cir	Palm Desert	92260
+W Nevada St	Blythe	92225
+W Nevada St	Kingsburg	93631
+W Nevada St	Ontario	91762
+W Neveda Cir	Palm Desert	92260
+W Neville St	Hanford	93230
+W Nevin Ave	Richmond	94801
+W New Britain Cmn	Santa Ana	92704
+W New Hope Rd	Galt	95632
+W New St	Eureka	95503
+W Newbury Rd	Thousand Oaks	91320
+W Newell Ave	32	94595
+W Newlove Dr	Santa Maria	93458
+W Newman St	Upland	91784
+W Newport St	San Luis Obispo	93405
+W Newton Ave	Visalia	93291
+W Newton Ct	Visalia	93291
+W Nibus St	Bre	92821
+W Nibus St	Brea	92821
+W Nicasio Rd	San Geronimo	94963
+W Nice Ct	Oxnard	93035
+W Nicholas Ave	Visalia	93291
+W Nicholas Ct	Rialto	92377
+W Nicholas Ct	Visalia	93291
+W Nicholas St	Upland	91784
+W Nichols Ave	Sacramento	95820
+W Nicklaus Ave	La Habra	90631
+W Nicola Rd	Palm Springs	92262
+W Nicolas Ave	Orange	92868
+W Nicolet	Banning	92220
+W Nicolet St	Banning	92220
+W Nielsen Ave	Fresno	93706
+W Nielsen Ave	Fresno	93723
+W Nielsen Ave	Kerman	93630
+W Nieva Ave	Porterville	93257
+W Niles Ave	Fresno	93711
+W Niles Ln	Redding	96002
+W Ninth St	Corona	92882
+W Ninth St	Escondido	92029
+W Ninth St	Gilroy	95020
+W Ninth St	Oxnard	93030
+W Ninth St	Oxnard	93035
+W Ninth St	Stockton	95206
+W Ninth St	Tracy	95376
+W Niobe Ave	Anaheim	92804
+W Niobe Pl	Anaheim	92802
+W Noakes St	El Cajon	92019
+W Nobel Ave	Santa Ana	92707
+W Nobility Dr	Fresno	93711
+W Noble Ave	Caruthers	93609
+W Noble Ave	Visalia	93277
+W Noble St	Stockton	95204
+W Nocturne Ct	Ontario	91762
+W Noffsinger	Calipatria	92233
+W Nolina Dr	Hesperia	92344
+W Noreen Ct	Upland	91784
+W Norfolk Cir	Hanford	93230
+W Norfolk Dr	Hanford	93230
+W Normal Ave	Fresno	93705
+W Normal Ave	Fresno	93722
+W Norman Ave	Thousand Oaks	91360
+W North	Reedley	93654
+W North Av	Lompoc	93436
+W North Ave	Firebaugh	93622
+W North Ave	Fresno	93706
+W North Ave	Kerman	93630
+W North Ave	Mendota	93640
+W North Ave	Porterville	93257
+W North Ave	Reedley	93654
+W North Grand Ave	Porterville	93257
+W North Shore Dr	Big Bear City	92314
+W North St	Anaheim	92801
+W North St	Anaheim	92805
+W North St	Healdsburg	95448
+W North St	Manteca	95336
+W North St	Oakdale	95361
+W North Star Dr	Hanford	93230
+W Northdale Ave	Fresno	93723
+W Northgate Ln	Anaheim	92805
+W Northpark Blvd	San Bernardino	92407
+W Northridge Ave	Fresno	93711
+W Northstar Ln	Upland	91784
+W Northwestern Cir	Colton	92324
+W Northwood	Santa Ana	92704
+W Northwood Ave	Bre	92821
+W Norwich Ave	Fresno	93705
+W Norwich Ave	Fresno	93722
+W Norwich Ave	Fresno	93723
+W Norwich Dr	Stockton	95207
+W Norwood Ct	Bre	92821
+W Norwood Ct	Upland	91786
+W Norwood St	Rialto	92377
+W Notre Dame St	Upland	91786
+W Nottingham Ln	Anaheim	92802
+W Nuevo Rd	Perris	92570
+W Nuevo Rd	Perris	92571
+W Nutmeg St	San Diego	92101
+W Nutmeg St	San Diego	92103
+W Nutwood Pl	Anaheim	92804
+W Nutwood St	Bre	92821

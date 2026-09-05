@@ -1,0 +1,38 @@
+Calle Jacumba	La Quinta	92253
+Calle Jade	San Clemente	92673
+Calle Jaime	Murrieta	92562
+Calle Jalapa	San Diego	92126
+Calle Jalapa	West Covina	91792
+Calle Jalisco	Carlsbad	92009
+Calle Jalisco	Vacaville	95687
+Calle Jardin	San Juan Capistrano	92675
+Calle Jardin	Temecula	92590
+Calle Jazmin	Calabasas	91302
+Calle Jazmin	Palm Springs	92262
+Calle Jazmin	San Luis Obispo	93401
+Calle Jazmin	Thousand Oaks	91360
+Calle Jeminez	Temecula	92592
+Calle Jerez	Temecula	92592
+Calle Jessica	Thousand Palms	92276
+Calle Joaquin	Calabasas	91302
+Calle Joaquin	San Luis Obispo	93405
+Calle Jojoba	Temecula	92592
+Calle Jon	Thousand Oaks	91360
+Calle Jon Sur	Rancho Santa Fe	92067
+Calle Joven	Oceanside	92057
+Calle Joya	Bonsall	92003
+Calle Joyce	Coachella	92236
+Calle Juan	Spring Valley	91978
+Calle Juanita	Dana Point	92624
+Calle Juanita	San Marcos	92069
+Calle Juanito	Murrieta	92562
+Calle Juanito	San Diego	92129
+Calle Juarez	San Clemente	92673
+Calle Juca	Laguna Niguel	92677
+Calle Juca Drive	La Habra	90631
+Calle Jucumba	La Quinta	92253
+Calle Juego	Rancho Santa Fe	92091
+Calle Juela	La Jolla	92037
+Calle Jules	Vista	92084
+Calle Jules Ave	Vista	92084
+Calle Juno	San Clemente	92673

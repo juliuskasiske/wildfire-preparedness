@@ -1,0 +1,69 @@
+K Apt 1 St	Arcata	95521
+K Apt 10 St	Arcata	95521
+K Apt 11 St	Arcata	95521
+K Apt 12 St	Arcata	95521
+K Apt 2 St	Arcata	95521
+K Apt 3 St	Arcata	95521
+K Apt 4 St	Arcata	95521
+K Apt 9 St	Arcata	95521
+K Ave	National City	91950
+K-Hovnanian Homes	Manteca	95336
+K O A Way	Auburn	95602
+K Pkwy	Sacramento	95823
+K Q Ranch Rd	Julian	92036
+K Rd	Coulterville	95311
+K St	Antioch	94509
+K St	Arcata	95521
+K St	Bakersfield	93301
+K St	Bakersfield	93304
+K St	Barstow	92311
+K St	Blue Lake	95525
+K St	Brawley	92227
+K St	Chula Vista	91911
+K St	Crescent City	95531
+K St	Encinitas	92024
+K St	Eureka	95501
+K St	Eureka	95503
+K St	Fortuna	95540
+K St	Havasu Lake	92363
+K St	Lakeport	95453
+K St	Lathrop	95330
+K St	Lincoln	95648
+K St	Lower Lake	95457
+K St	Mendota	93640
+K St	Modesto	95351
+K St	Modesto	95354
+K St	Napa	94558
+K St	Needles	92363
+K St	Newport Beach	92661
+K St	Oxnard	93030
+K St	Parlier	93648
+K St	Patterson	95363
+K St	Petaluma	94952
+K St	Reedley	93654
+K St	Rio Linda	95673
+K St	Sacramento	95811
+K St	Sacramento	95814
+K St	Sacramento	95816
+K St	Sacramento	95819
+K St	San Diego	92101
+K St	San Diego	92102
+K St	San Miguel	93451
+K St	San Rafael	94901
+K St	Sanger	93657
+K St	Santa Margarita	93453
+K St S	Imperial	92251
+K Street	Bell Gardens	90201
+K Street	Benicia	94510
+K Street	Davis	95616
+K Street	Dos Palos	93620
+K Street	Live Oak	95953
+K Street	Los Banos	93635
+K Street	Merced	95340
+K Street	Merced	95341
+K Street	South Dos Palos	93665
+K Street St	Brawley	92227
+K-T Court	Truckee	96161
+K T Rd	Hollister	95023
+K Thanga Dr	Newport Beach	92625
+K. V. Ln	Chico	95928

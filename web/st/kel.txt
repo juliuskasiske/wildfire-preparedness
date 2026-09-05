@@ -1,0 +1,461 @@
+Kelbaker Rd	Amboy	92304
+Kelbaker Rd	Kelso	92309
+Kelburn Ave	Spring Valley	91977
+Kelburn Avenue	Rosemead	91770
+Kelburne Ct	Lathrop	95330
+Kelburne Ct	Sacramento	95833
+Kelby Street	Covina	91722
+Kelcie Dr	Ripon	95366
+Keld Ct	San Diego	92129
+Keldon Ct	San Jose	95121
+Keldon Dr	San Jose	95121
+Keleli St	Sacramento	95829
+Kelez Ct	San Jose	95120
+Kelez Dr	San Jose	95120
+Kelfield Dr	Ladera Ranch	92694
+Kelfield Drive	Walnut	91789
+Kelford Street	Whittier	90604
+Kelglen Ln	Vista	92084
+Kelham Ct	Temecula	92592
+Keli Court	Los Angeles	90066
+Kelisa Cir	Redlands	92373
+Kelisa Ln	Riverside	92504
+Kell Ct	Alamo	94507
+Kell Ct	Morgan Hill	95037
+Kell Ln	Strawberry	95375
+Kella Avenue	Whittier	90601
+Kellam Ave	San Jacinto	92583
+Kellam Avenue	Los Angeles	90026
+Kellam Ct	San Diego	92130
+Kellam Lane	Pico Rivera	90660
+Kellams Ave	Tustin	92782
+Kellbara Ct	San Diego	92129
+Kelldon	Felton	95018
+Kellebrew Ct	Napa	94558
+Kelleen Dr	Vista	92083
+Kelleen Drive	Yuba City	95993
+Kelleher Ct	Soulsbyville	95372
+Kelleher Pl	Placentia	92870
+Kellems Lane	Etna	96027
+Kellen Cir	Riverside	92506
+Kellen Ct	Carmichael	95608
+Kellen Ct	Riverside	92506
+Keller	Boulder Creek	95006
+Keller Ave	Crescent City	95531
+Keller Ave	Riverside	92503
+Keller Ave	Riverside	92505
+Keller Cir	Folsom	95630
+Keller Ct	Indio	92203
+Keller Ct	Napa	94558
+Keller Ct	Petaluma	94952
+Keller Ct	Rocklin	95677
+Keller Dr	Arrowbear	92314
+Keller Dr	Arrowbear Lake	92382
+Keller Dr	Loma Linda	92354
+Keller Dr	Mountain View	94043
+Keller Dr	Tustin	92782
+Keller Drive	34	94583
+Keller Flat Ct	Winchester	92596
+Keller Ln	Paradise	95969
+Keller Rd	Menifee	92584
+Keller Rd	Menifee	92596
+Keller Rd	Murrieta	92562
+Keller Rd	Murrieta	92563
+Keller Rd	North Fork	93643
+Keller Rd	Winchester	92596
+Keller Ridge Dr	Clayton	94517
+Keller Road	Nevada City	95959
+Keller Road	Smartsville	95977
+Keller Road	Topanga	90290
+Keller St	Modesto	95355
+Keller St	Petaluma	94952
+Keller St	Riverside	92503
+Keller St	Santa Clara	95054
+Keller Street	Monterey Park	91755
+Keller Way	Laguna Beach	92651
+Kellerman Ct	Roseville	95746
+Kellerton Drive	Hacienda Heights	91745
+Kellett Avenue	Claremont	91711
+Kellett Street	Claremont	91711
+Kelley Ave	Camarillo	93010
+Kelley Ave	Corona	92882
+Kelley Ave	San Pablo	94806
+Kelley Avenue	Lomita	90717
+Kelley Cir	Huntington Beach	92647
+Kelley Cir	Huntington Beach	92647-6420
+Kelley Court	Los Banos	93635
+Kelley Ct	Lafayette	94549
+Kelley Ct	Pinole	94564
+Kelley Ct	Pittsburg	94565
+Kelley Ct	Sacramento	95838
+Kelley Ct	Stockton	95207
+Kelley Dr	El Cajon	92019
+Kelley Dr	Manteca	95336
+Kelley Dr	Stockton	95207
+Kelley Dr	Stockton	95209
+Kelley Drive	Truckee	96161
+Kelley Ln	Danville	94526
+Kelley Ln	Rancho Mirage	92270
+Kelley Mist Ct	Tracy	95377
+Kelley Mist Ln	Tracy	95377
+Kelley Place	Woodland	95776
+Kelley Ranch Rd	Sonora	95370
+Kelley Road	Hilmar	95324
+Kelley Road	Mammoth Lakes	93546
+Kelley St	Modesto	95354
+Kelley St	Oroville	95965
+Kelley Way	San Marcos	92069
+Kelley Way	Santa Clara	95054
+Kelley Wy	Santa Clara	95054
+Kelli Ave	Sanger	93657
+Kelli Court	Marina	93933
+Kelli Drive	Yuba City	95991
+Kelli Ln	El Cajon	92021
+Kelli Wy	Fortuna	95540
+Kelliann Pl	Rohnert Park	94928
+Kellie Ann Ct	Orinda	94563
+Kellie Ct	National City	91950
+Kellie Ln	Auburn	95603
+Kellie Marie St	Bakersfield	93314
+Kellie Way	Hemet	92543
+Kellinger St	Redding	96003
+Kellington Ct	Oceanside	92056
+Kellington Pl	Encinitas	92024
+Kellingworth Ct	Sacramento	95827
+Kellner Av	Mckinleyville	95519
+Kellner Avenue	Rosemead	91770
+Kelloch Ave	San Francisco	94134
+Kellog Ave	Corona	92881
+Kellog Cir	Huntington Beach	92647
+Kellog Cir	Huntington Beach	92647-8516
+Kellog Cir	Huntington Beach	92647-8517
+Kellog Cir	Huntington Beach	92647-8518
+Kellog Cir	Huntington Beach	92647-8519
+Kellog Cir	Huntington Beach	92647-8520
+Kellog Cir	Huntington Beach	92647-8521
+Kellog Cir	Huntington Beach	92647-8522
+Kellog Cir	Huntington Beach	92647-8523
+Kellog Cir	Huntington Beach	92647-8524
+Kellog Cir	Huntington Beach	92647-8525
+Kellog Creek Rd	Byron	94514
+Kellog Ct	Santa Rosa	95409
+Kellog Pl	Eureka	95503
+Kellogg	Ventura	93001
+Kellogg Arc	Bakersfield	93306
+Kellogg Av	Palo Alto	94301
+Kellogg Ave	Carlsbad	92008
+Kellogg Ave	Chino	91710
+Kellogg Ave	Corona	92879
+Kellogg Ave	Corona	92881
+Kellogg Ave	Fullerton	92833
+Kellogg Ave	Hayward	94544
+Kellogg Ave	Palo Alto	94301
+Kellogg Ave	Turlock	95382
+Kellogg Ave	Twentynine Palms	92277
+Kellogg Avenue	Glendale	91202
+Kellogg Court	Altadena	91001
+Kellogg Court	Duarte	91010
+Kellogg Creek Ct	Lathrop	95330
+Kellogg Creek Rd	Byron	94514
+Kellogg Dr	3-Yl-1	92886
+Kellogg Dr	San Diego	92106
+Kellogg Dr	Ybl	92886
+Kellogg Dr	Yorba Linda	92886
+Kellogg Drive	Pomona	91768
+Kellogg Drive	Weed	96094
+Kellogg Gulch Rd	Hayfork	96041
+Kellogg Park Drive	Pomona	91768
+Kellogg Pl	Manteca	95337
+Kellogg Pl	Santa Barbara Unincorporated	93111
+Kellogg Rd	Crescent City	95531
+Kellogg Road	Sutter	95982
+Kellogg St	Fillmore	93015
+Kellogg St	Lake Elsinore	92530
+Kellogg St	Loma Linda	92354
+Kellogg St	Newcastle	95658
+Kellogg St	San Diego	92106
+Kellogg St	San Marcos	92078
+Kellogg St	Ventura	93001
+Kellogg St	Ybl	 
+Kellogg Street	Suisun City	94585
+Kellogg Way	Palm Springs	92262
+Kellogg Way	Rancho Cordova	95670
+Kellogg Way	San Diego	92106
+Kellogg Way	Santa Clara	95051
+Kellogg Wy	Goleta	93117
+Kellogg Wy	Santa Clara	95051
+Kellrae Ln	Escondido	92026
+Kells Circle	Vacaville	95688
+Kellwil Way	Duarte	91010
+Kellwood Court	La Mirada	90638
+Kellwood Ct	Oak Park	91377
+Kellwood Ct	Sacramento	95829
+Kelly	Santa Cruz	95060
+Kelly	Scotts Valley	95066
+Kelly	Watsonville	95076
+Kelly Ann Ct	Lafayette	94549
+Kelly Av	Mckinleyville	95519
+Kelly Ave	Crescent City	95531
+Kelly Ave	Half Moon Bay	94019
+Kelly Ave	Martinez	94553
+Kelly Ave	Parlier	93648
+Kelly Ave	Ramona	92065
+Kelly Ave	Sebastopol	95472
+Kelly Avenue	Earlimart	93219
+Kelly Avenue	Merced	95340
+Kelly Cir	Joshua Tree	92252
+Kelly Cir	La Palma	90623
+Kelly Cir	Selma	93662
+Kelly Court	Atwater	95301
+Kelly Court	Canyon Country	91387
+Kelly Court	Grass Valley	95949
+Kelly Court	Palmdale	93550
+Kelly Ct	Jenner	95450
+Kelly Ct	Menlo Park	94025
+Kelly Ct	Nipomo	93444
+Kelly Ct	Novato	94949
+Kelly Ct	Phelan	92371
+Kelly Ct	San Jose	95116
+Kelly Dr	Barstow	92311
+Kelly Dr	Carlsbad	92008
+Kelly Dr	El Cajon	92019
+Kelly Dr	Hollister	95023
+Kelly Dr	Novato	94949
+Kelly Dr	San Jose	95129
+Kelly Dr	Sonora	95370
+Kelly Drive	Atwater	95301
+Kelly Glen Ln	Sonoma	95476
+Kelly Johnson Parkway	Valencia	91355
+Kelly Knoll Ln	Thousand Oaks	91320
+Kelly Knoll Rd	Thousand Oaks	91320
+Kelly Knolls Ln	Thousand Oaks	91320
+Kelly Knolls Rd	Thousand Oaks	91320
+Kelly Lake Rd	Emigrant Gap	95715
+Kelly Lane	Canyon Country	91387
+Kelly Lane	Gustine	95322
+Kelly Lane	Pomona	91767
+Kelly Ln	Chico	95973
+Kelly Ln	Colton	92324
+Kelly Ln	Ferndale	95536
+Kelly Ln	Gilroy	95020
+Kelly Ln	Homeland	92548
+Kelly Ln	Ladera Ranch	92694
+Kelly Ln	Los Alamitos	90720
+Kelly Ln	Millbrae	94030
+Kelly Ln	Newcastle	95658
+Kelly Ln	Penngrove	94951
+Kelly Ln	Perris	92570
+Kelly Ln	Petaluma	94952
+Kelly Ln	Pinon Hills	92372
+Kelly Ln	Pioneer	95666
+Kelly Ln	Rancho Mirage	92270
+Kelly Ln	Redding	96002
+Kelly Ln	Riverside	92501
+Kelly Ln	Santee	92071
+Kelly Ln	Yucaipa	92399
+Kelly Loop	Sonora	95370
+Kelly Park Cir	Morgan Hill	95037
+Kelly Pl	Rohnert Park	94928
+Kelly Ranch Ct	Pioneer	95666
+Kelly Ranch Rd	Pinon Hills	92372
+Kelly Rd	Cazadero	95421
+Kelly Rd	Cloverdale	95425
+Kelly Rd	Crescent City	95531
+Kelly Rd	Geyserville	95441
+Kelly Rd	Nice	95464
+Kelly Rd	Red Mountain	93558
+Kelly Rd	Shelter Cove	95589
+Kelly Rd	Thousand Oaks	91320
+Kelly Rd	Twentynine Palms	92277
+Kelly Rd	White Water	92282
+Kelly Rd	Wonder Valley	92277
+Kelly Ridge Rd	Oroville	95966
+Kelly Road	Camptonville	95922
+Kelly Rose Ct	Lakeport	95453
+Kelly Ryan Ct	Rancho Cordova	95670
+Kelly'S Cir	Ahwahnee	93601
+Kelly St	Adelanto	92301
+Kelly St	Bakersfield	93304
+Kelly St	Beaumont	92223
+Kelly St	Garden Grove	92844
+Kelly St	Hayward	94541
+Kelly St	Lodi	95240
+Kelly St	Mendocino	 
+Kelly St	Oceanside	92054
+Kelly St	Redlands	92374
+Kelly St	Rio Dell	95562
+Kelly St	San Diego	92111
+Kelly St	San Mateo	94403
+Kelly St	Santa Rosa	95401
+Kelly St	Unincorporated Alameda County	94541
+Kelly Street	Los Angeles	90066
+Kelly Street	Mendocino	 
+Kelly Way	Folsom	95630
+Kelly Way	Grass Valley	95945
+Kelly Way	Mcclellan	95652
+Kelly Way	Palo Alto	94306
+Kelly Way	Rio Vista	94571
+Kelly Way	Sacramento	95824
+Kelly Way	San Diego	92129
+Kelly Way	West Covina	91792
+Kellyann St	Bakersfield	93313
+Kellybrook Way	Elk Grove	95757
+Kellybrook Way	San Ramon	94582
+Kellyn Court	Benicia	94510
+Kellyn Ln	Vista	92084
+Kellys Cir	Ahwahnee	93601
+Kellys Island Road	West Sacramento	95691
+Kellys Mountain Rd	Weimar	95713
+Kelman Ct	Rancho Cordova	95742
+Kelmore St	Culver City	90230
+Kelmore St	Moss Beach	94038
+Kelmore St	Other	94038
+Kelmore Street	Culver City	90230
+Kelmscott Ct	Thousand Oaks	91361
+Kelmscott Ln	Roseville	95678
+Kelobra Ct	Walnut Creek	94598
+Kelok Ct	Clayton	94517
+Kelok Way	Clayton	94517
+Kelowna Ct	Sunnyvale	94087
+Kelowna Ln	Valley Center	92082
+Kelowna Rd	San Diego	92126
+Kelowna Street	Pacoima	91331
+Kelowna Street	Sylmar	91342
+Kelp	Aptos	95003
+Kelp Ln	Oxnard	93035
+Kelp Rd	Placer One	95747
+Kelp St	Oxnard	93035
+Kelp Street	Manhattan Beach	90266
+Kelp Ter	Fulton	95439
+Kelrose Ct	Concord	94521
+Kelse Ct	Roseville	95661
+Kelsey	Irvine	92618
+Kelsey	Scotts Valley	95066
+Kelsey Cir	Huntington Beach	92647
+Kelsey Cir	Huntington Beach	92647-2228
+Kelsey Cir	Huntington Beach	92647-2249
+Kelsey Cir	Huntington Beach	92647-2250
+Kelsey Cir	Huntington Beach	92647-2251
+Kelsey Court	Exeter	93221
+Kelsey Court	Merced	95348
+Kelsey Court	Palmdale	93551
+Kelsey Court	Yuba City	95991
+Kelsey Creek Dr	Kelseyville	95451
+Kelsey Creek Drive East	Cobb	95426
+Kelsey Creek Drive West	Cobb	95426
+Kelsey Ct	Bay Point	94565
+Kelsey Ct	Loma Linda	92354
+Kelsey Ct	Oakhurst	93644
+Kelsey Ct	Palm Desert	92211
+Kelsey Ct	Pleasant Hill	94523
+Kelsey Ct	Sonoma	95476
+Kelsey Dr	Chico	95973
+Kelsey Dr	Elk Grove	95624
+Kelsey Dr	Sunnyvale	94087
+Kelsey Knls	Santa Rosa	95403
+Kelsey Lane	Grass Valley	95945
+Kelsey Lane	Yreka	96097
+Kelsey Ln	Madera	93637
+Kelsey Ln	Myers Flat	95554
+Kelsey Ln	Oakley	94561
+Kelsey Peak Ct	Antioch	94531
+Kelsey Peak Way	Antioch	94531
+Kelsey Pl	Jurupa Valley	92509
+Kelsey Pl	Rohnert Park	94928
+Kelsey Pl	Stockton	95207
+Kelsey Rd	Twentynine Palms	92277
+Kelsey Road	San Dimas	91773
+Kelsey St	Berkeley	94703
+Kelsey St	Berkeley	94705
+Kelsey St	Richmond	94801
+Kelsey St	San Diego	92124
+Kelsey St	Simi Valley	93063
+Kelsey St	Victorville	92392
+Kelsey Street	Studio City	91604
+Kelsey Tr	Crescent City	95531
+Kelsey Tr	Lucerne	95458
+Kelsey Way	Chino Hills	91709
+Kelsford Ct	Thousand Oaks	91361
+Kelsford Pl	San Diego	92130
+Kelsloan Street	Van Nuys	91406
+Kelso Ave	Weaverville	96093
+Kelso Cima Rd	Cima	92323
+Kelso Cima Rd	Kelso	92309
+Kelso-Cima Rd & Kelbaker Rd NE	Cima	92323
+Kelso Cir	Sacramento	95833
+Kelso Court	Coleville	96133
+Kelso Ct	Auburn	95602
+Kelso Ct	Chula Vista	91911
+Kelso Ct	San Jose	95127
+Kelso Ct	Sonora	95370
+Kelso Dr	Huntington Beach	92646
+Kelso Dr	Huntington Beach	92646-4501
+Kelso Dr	Huntington Beach	92646-4502
+Kelso Ln	Baker	92309
+Kelso Peak Ave	Bakersfield	93304
+Kelso Rd	Barstow	92311
+Kelso Rd	Byron	94514
+Kelso Road	Walnut	91789
+Kelso St	Spring Valley	91977
+Kelso Street	Atwater	95301
+Kelso Way	Modesto	95356
+Kelson Pl	Escondido	92029
+Kelstar Rd	Hemet	92544
+Kelsy Ln	Myers Flat	95554
+Keltic Lodge Dr	Oxnard	93036
+Keltner Ave	San Jose	95117
+Kelton Ave	La Mesa	91942
+Kelton Ave	San Carlos	94070
+Kelton Avenue	Los Angeles	90024
+Kelton Avenue	Los Angeles	90025
+Kelton Avenue	Los Angeles	90034
+Kelton Avenue	Los Angeles	90064
+Kelton Ct	Chino Hills	91709
+Kelton Ct	Moreno Valley	92555
+Kelton Ct	San Diego	92114
+Kelton Ct	San Jose	95127
+Kelton Ct	San Mateo	94403
+Kelton Ct	Simi Valley	93065
+Kelton Ct	White Water	92282
+Kelton Dr	Gilroy	95020
+Kelton Dr	Oceanside	92056
+Kelton Drive	Salinas	93906
+Kelton Pl	San Diego	92114
+Kelton Rd	San Diego	92114
+Kelton Way	Sacramento	95838
+Kelton Way	Stanton	90680
+Kelton Way	Yuba City	95991
+Keltonview Drive	Pico Rivera	90660
+Kelty Ct	Chino Hills	91709
+Kelty Ct	Sacramento	95828
+Kelty Dr	Riverside	92508
+Kelty Meadow Avenue	Tulare	93274
+Keltz Mine Rd	Sonora	95370
+Keltz Way	Sonora	95370
+Kelvedon Way	Sacramento	95829
+Kelvin Ave	Irvine	92614
+Kelvin Avenue	Chatsworth	91311
+Kelvin Avenue	Winnetka	91306
+Kelvin Avenue	Woodland Hills	91364
+Kelvin Avenue	Woodland Hills	91367
+Kelvin Ct	El Sobrante	94803
+Kelvin Ct	Murrieta	92562
+Kelvin Grove	Bakersfield	93312
+Kelvin Ln	Huntington Beach	92646
+Kelvin Ln	Huntington Beach	92646-5807
+Kelvin Ln	Huntington Beach	92646-5827
+Kelvin Ln	Huntington Beach	92646-5828
+Kelvin Ln	Huntington Beach	92646-5829
+Kelvin Place	Woodland Hills	91367
+Kelvin Rd	El Sobrante	94803
+Kelvingrove Ln	Huntington Beach	92646
+Kelvingrove Ln	Huntington Beach	92646-5200
+Kelvingrove Ln	Huntington Beach	92646-5213
+Kelvingrove Ln	Huntington Beach	92646-5215
+Kelvingrove Ln	Huntington Beach	92646-5830
+Kelvingrove Ln	Huntington Beach	92646-5831
+Kelvington Ct	San Jose	95121
+Kelvington Ln	Apple Valley	92308
+Kelwona Way	Bakersfield	93309
+Kelwood Street	La Puente	91744
+Kelwood Way	Sacramento	95828

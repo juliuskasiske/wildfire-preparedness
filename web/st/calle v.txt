@@ -1,0 +1,110 @@
+Calle Valdes	Mission Viejo	92692
+Calle Valencia	Rancho Santa Fe	92067
+Calle Valeria	Jamul	91935
+Calle Vallarta	Carlsbad	92009
+Calle Vallarta	Menifee	92585
+Calle Vallarta	San Clemente	92673
+Calle Valle	San Clemente	92672
+Calle Valle	Walnut	91789
+Calle Valle Vista	Thousand Oaks	91320
+Calle Vallecita	Indio	92203
+Calle Vallecito	Oceanside	92057
+Calle Valperizo	Carlsbad	92009
+Calle Vaquero	Glendale	91206
+Calle Vaquero	La Jolla	92037
+Calle Vaquero	Temecula	92592
+Calle Vaqueta	Rancho Santa Margarita	92688
+Calle Vecina	Temecula	92592
+Calle Vecindad	Lake Forest	92630
+Calle Vecindad	Lake Forest	92630-2105
+Calle Vecindad	Lake Forest	92630-2106
+Calle Vecino	San Clemente	92673
+Calle Vega	Rancho Mirage	92270
+Calle Vejar	Moreno Valley	92555
+Calle Vejar	Rancho Cucamonga	91730
+Calle Vela	San Marcos	92069
+Calle Velasco	Valley Center	92082
+Calle Velez	Dana Point	92624
+Calle Venado	San Marcos	92078
+Calle Venecia	San Diego	92130
+Calle Veneto	Chula Vista	91910
+Calle Venezia	San Clemente	92672
+Calle Ventura	San Jose	95120
+Calle Ventura	Temecula	92592
+Calle Venture	Temecula	92592
+Calle Vera Cruz	La Jolla	92037
+Calle Veracruz	Thousand Oaks	91320
+Calle Verano	Chino Hills	91709
+Calle Verano	Dana Point	92624
+Calle Verano	Rancho Santa Margarita	92688
+Calle Verano	San Clemente	92673
+Calle Verbena	Thousand Oaks	91360
+Calle Verdad	Santa Clarita	91390
+Calle Verdadero	San Clemente	92673
+Calle Verde	Coachella	92236
+Calle Verde	La Mesa	91941
+Calle Verde	Martinez	94553
+Calle Verde	Morgan Hill	95037
+Calle Verde	Palm Springs	92264
+Calle Verde Ct	Sacramento	95821
+Calle Verona	Chula Vista	91913
+Calle Veronica	Temecula	92592
+Calle Vibrante	Palm Desert	92211
+Calle Vicente	San Clemente	92673
+Calle Vida	San Clemente	92673
+Calle Vida Buena	Rancho Santa Fe	92067
+Calle Vieja	Laguna Niguel	92677
+Calle Viejo	Camarillo	93012
+Calle Viejo	Murrieta	92563
+Calle Viento	Carlsbad	92009
+Calle Viento	Morgan Hill	95037
+Calle Viento	Rancho Palos Verdes	90275
+Calle Viento Ct	Morgan Hill	95037
+Calle Vientos	Lake Forest	92630
+Calle Vientos	Lake Forest	92630-2241
+Calle Vientos	Lake Forest	92630-2243
+Calle Villa Clara	San Juan Capistrano	92675
+Calle Villada Circle	Duarte	91010
+Calle Villario	San Clemente	92672
+Calle Vimianzo	Temecula	92592
+Calle Violeta	Coachella	92236
+Calle Violeta	San Dimas	91773
+Calle Violeta	Temecula	92592
+Calle Violeta	Thousand Oaks	91360
+Calle Violetas	Encinitas	92024
+Calle Violetta	Temecula	92592
+Calle Vista	Camarillo	93010
+Calle Vista	Chino Hills	91709
+Calle Vista	Laguna Niguel	92677
+Calle Vista	San Diego	92109
+Calle Vista	Santa Clarita	91390
+Calle Vista	Temecula	92592
+Calle Vista	Walnut	91789
+Calle Vista Alegre	Ybl	92887
+Calle Vista Alegre	Yorba Linda	92887
+Calle Vista Ave	Escondido	92027
+Calle Vista Calma	Oxnard	93030
+Calle Vista Circle	Porter Ranch	91326
+Calle Vista Court	Porter Ranch	91326
+Calle Vista Del Asta	Arroyo Grande	93420
+Calle Vista Del Mont	Oak View	93022
+Calle Vista Del Mont St	Oak View	93022
+Calle Vista Del Monte	Oak View	93022
+Calle Vista Del Sol	San Clemente	92673
+Calle Vista Dr	Oroville	95965
+Calle Vista Dr	Riverside	92508
+Calle Vista Drive	Beverly Hills	90210
+Calle Vista Lejos	Temecula	92590
+Calle Vista Linda	Ybl	92887
+Calle Vista Linda	Yorba Linda	92887
+Calle Vista Torito	San Clemente	92672
+Calle Vista Verde	La Quinta	92253
+Calle Vista Verde	Milpitas	95035
+Calle Vista Verde	Oxnard	93030
+Calle Vista Way	Redding	96001
+Calle Vista Way	Sacramento	95821
+Calle Vistaso	San Dimas	91773
+Calle Viveza	San Clemente	92673
+Calle Viviana	San Clemente	92673
+Calle Viviano	El Cajon	92021
+Calle Vivienda	San Diego	92128

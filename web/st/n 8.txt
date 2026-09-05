@@ -1,0 +1,18 @@
+N 8Th	Brawley	92227
+N 8Th	El Centro	92243
+N 8Th Ave	El Centro	92243
+N 8Th Ave	Upland	91786
+N 8Th Ct	Brawley	92227
+N 8Th Dr	Brawley	92227
+N 8Th Rd	El Centro	92243
+N 8Th St	Banning	92220
+N 8Th St	Blythe	92225
+N 8Th St	Brawley	92227
+N 8Th St	Chowchilla	93610
+N 8Th St	Colton	92324
+N 8Th St	El Centro	92243
+N 8Th St	Fowler	93625
+N 8Th St	Grover Beach	93433
+N 8Th St	San Jose	95112
+N 8Th St	Santa Paula	93060
+N 8Th St 808 Euclid	El Centro	92243

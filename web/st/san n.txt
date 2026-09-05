@@ -1,0 +1,34 @@
+San Napoli Dr	Goleta	93117
+San Niccolo Drive	Yuba City	95993
+San Nicholas	Lake Elsinore	92530
+San Nicholas	Palm Desert	92260
+San Nicholas	Rancho Santa Margarita	92688
+San Nicholas Ave	Palm Desert	92260
+San Nicholas Ave	Santa Paula	93060
+San Nicholas Cir	Port Hueneme	93041
+San Nicholas Ct	Laguna Beach	92651
+San Nicholas Ct	Rancho Cucamonga	91730
+San Nicholas Ct	Thousand Oaks	91320
+San Nicholas Ln	Foster City	94404
+San Nicholas St	Hemet	92543
+San Nicholas St	Lake Elsinore	92530
+San Nicholas St	Ventura	93001
+San Nicholas St	Ventura	93003
+San Nicholas Way	Palm Desert	92260
+San Nicolas Av	Santa Barbara	93109
+San Nicolas Ave	Oxnard	93035
+San Nicolas Ave	Palm Desert	92260
+San Nicolas Ave	Santa Paula	93060
+San Nicolas Cir	Huntington Beach	92648
+San Nicolas Cir	Huntington Beach	92648-3425
+San Nicolas Cir	Port Hueneme	93041
+San Nicolas Ct	Corona	92882
+San Nicolas Ct	Thousand Oaks	91320
+San Nicolas Dr	Newport Beach	92660
+San Nicolas Drive	Rancho Palos Verdes	90275
+San Nicolas Drive	Walnut	91789
+San Nicolas Road	West Sacramento	95691
+San Nicolas St	Hemet	92543
+San Nigel Ave	Indio	92201
+San Nita Way	Fair Oaks	95628
+San Novado Way	North Highlands	95660

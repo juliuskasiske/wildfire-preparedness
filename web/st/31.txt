@@ -1,0 +1,39 @@
+-31 Arreba St	Martinez	94553
+310 Birch	Westwood	96137
+310½ C St	Roseville	95678
+310½ Circuit Dr	Roseville	95678
+310½ Pleasant St	Roseville	95678
+311½ Clinton Av	Roseville	95678
+312½ B St	Roseville	95678
+313½ Cherry St	Roseville	95678
+313½ Sierra Bl	Roseville	95678
+315½ Clinton Av	Roseville	95678
+319½ C St	Roseville	95678
+31St Ave	Clearlake	95422
+31St Ave	San Francisco	94116
+31St Ave	San Francisco	94121
+31St Ave	San Francisco	94122
+31St Ave	San Mateo	94403
+31St Pl	Hermosa Beach	90254
+31St Place	Hermosa Beach	90254
+31St Place	Manhattan Beach	90266
+31St St	Bakersfield	93301
+31St St	Hermosa Beach	90254
+31St St	Newport Beach	92663
+31St St	Richmond	94804
+31St St	Sacramento	95817
+31St St	San Diego	0
+31St St	San Diego	92102
+31St St	San Diego	92104
+31St St	San Diego	92113
+31St St N	San Diego	92104
+31St Street	Hermosa Beach	90254
+31St Street	Long Beach	90806
+31St Street	Los Angeles	90007
+31St Street	Los Angeles	90011
+31St Street	Los Angeles	90018
+31St Street	Manhattan Beach	90266
+31St Street	Santa Monica	90405
+31St Street East	Palmdale	93550
+31St Street West	Acton	93510
+31St Street West	Lancaster	93536

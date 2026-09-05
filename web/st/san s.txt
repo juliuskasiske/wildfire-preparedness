@@ -1,0 +1,135 @@
+San Saba Ct	Sunnyvale	94085
+San Saba Dr	San Jose	95148
+San Saba St	Tustin	92782
+San Salvador	Indio	92201
+San Salvador Cir	Buena Park	90620
+San Salvador Ct	San Diego	92128
+San Salvador Dr	Santa Rosa	95403
+San Salvador Place	Cerritos	90703
+San Salvador Rd	San Diego	92128
+San Salvador St	Indio	92201
+San Salvador Street	Fairfield	94533
+San Salvador Street	West Sacramento	95691
+San Salvatore Place	San Gabriel	91775
+San Salvatore Place	San Marino	91108
+San Savaine Way	Jurupa Valley	91752
+San Sebaastian Ct	Palm Springs	92264
+San Sebastian	Newport Beach	92660
+San Sebastian	Rancho Santa Margarita	92688
+San Sebastian	San Diego	92154
+San Sebastian Ave	Chula Vista	91913
+San Sebastian Ave	Murrieta	92563
+San Sebastian Ave	Santa Rosa	95401
+San Sebastian Cir	Corona	92882
+San Sebastian Ct	Camarillo	93012
+San Sebastian Ct	Cathedral City	92234
+San Sebastian Ct	Grover Beach	93433
+San Sebastian Ct	Palm Springs	92264
+San Sebastian Dr	Camarillo	93012
+San Sebastian Dr	Novato	94949
+San Sebastian Dr	Oxnard	93035
+San Sebastian Dr	Rancho Mirage	92270
+San Sebastian Drive	Woodland Hills	91364
+San Sebastian Ln	Los Osos	93402
+San Sebastian Pl	Morgan Hill	95037
+San Sebastian Street	Davis	95618
+San Sebastian Way	Madera	93638
+San Sebastian Way	Poway	92064
+San Sebastian Way	Sacramento	95823
+San Segundo Dr	Rancho Cucamonga	91739
+San Sevain Way	Jurupa Valley	91752
+San Sevaine Rd	Fontana	92336
+San Sevaine Rd	Rancho Cucamonga	91739
+San Sevaine Way	Jurupa Valley	91752
+San Sevaine Way	Jurupa Valley	92509
+San Sevaine Way	Mira Loma	91752
+San Sierra	Watsonville	95076
+San Simeon	Desert Hot Springs	92240
+San Simeon	Greenfield	93927
+San Simeon	Laguna Niguel	92677
+San Simeon	Mission Viejo	92692
+San Simeon	Salinas	93901
+San Simeon	Tustin	92782
+San Simeon	Watsonville	95076
+San Simeon Ave	Bakersfield	93314
+San Simeon Ave	Oxnard	93033
+San Simeon Ave	San Simeon	93452
+San Simeon Cir	Buena Park	90620
+San Simeon Cir	Pla	92870
+San Simeon Cir	Placentia	92870
+San Simeon Cir	Ybl	92886
+San Simeon Cir	Yorba Linda	92886
+San Simeon Circle	Plumas Lake	95961
+San Simeon Court	Greenfield	93927
+San Simeon Court	Merced	95348
+San Simeon Court	Nevada City	95959
+San Simeon Court	Tulare	93274
+San Simeon Creek Rd	Cambria	93428
+San Simeon Creek Rd	Paso Robles	93446
+San Simeon Ct	Antioch	94509
+San Simeon Ct	Atascadero	93422
+San Simeon Ct	Concord	94518
+San Simeon Ct	Discovery Bay	94505
+San Simeon Ct	Rancho Mirage	92270
+San Simeon Ct	San Pablo	94806
+San Simeon Ct	Ventura	93003
+San Simeon Dr	Citrus Heights	95610
+San Simeon Dr	Concord	94518
+San Simeon Dr	Desert Hot Springs	92240
+San Simeon Dr	Hemet	92545
+San Simeon Dr	La Palma	90623
+San Simeon Dr	Lemoore	93245
+San Simeon Dr	Morgan Hill	95037
+San Simeon Dr	Mountain View	94043
+San Simeon Dr	Oxnard	93033
+San Simeon Dr	Palm Desert	92260
+San Simeon Dr	Rancho Cucamonga	91701
+San Simeon Dr	Rohnert Park	94928
+San Simeon Dr	Roseville	95661
+San Simeon Dr	Santa Barbara Unincorporated	93111
+San Simeon Dr	Sonoma	95476
+San Simeon Dr	Thousand Oaks	91320
+San Simeon Drive	Salinas	93901
+San Simeon Ln	Chino	91710
+San Simeon Ln	Coalinga	93210
+San Simeon Pl	Oxnard	93033
+San Simeon Pl	Pittsburg	94565
+San Simeon Pl	Rancho Mirage	92270
+San Simeon Pl	San Ramon	94583
+San Simeon Place	Vallejo	94591
+San Simeon Road	Arcadia	91007
+San Simeon Road	San Dimas	91773
+San Simeon St	Fountain Valley	92708
+San Simeon St	Oceanside	92058
+San Simeon St	Sunnyvale	94085
+San Simeon St	Temecula	92592
+San Simeon Street	Pomona	91767
+San Simeon Way	Fontana	92336
+San Simeon Way	Riverside	92506
+San Simeon Way	San Carlos	94070
+San Simeon Way	San Jose	95111
+San Simeon Wy	Tracy	95376
+San Simeone Way	Los Banos	93635
+San Simeone Wy	Stockton	95207
+San Simon	Greenfield	93927
+San Simon	Rancho Santa Margarita	92688
+San Simon Lane	La Mirada	90638
+San Simon St	Tustin	92782
+San Solano	Rancho Santa Margarita	92688
+San Solano Rd	Coachella	92236
+San Solarie	Mission Viejo	92692
+San Sonita Dr	Santa Rosa	95403
+San Sonita Pl	Santa Rosa	95403
+San Sorrento Ct	Grover Beach	93433
+San Souci	Walnut Creek	94597
+San Souci Cir	Huntington Beach	92647
+San Souci Cir	Huntington Beach	92647-2122
+San Souci Cir	Huntington Beach	92647-2134
+San Souci Cir	Huntington Beach	92647-2135
+San Souci Cir	Huntington Beach	92647-2136
+San Souci Pl	Mission Viejo	92692
+San Souci Rd	Hinkley	92347
+San Sovino	Newport Beach	92657
+San Stefano St	Citrus Heights	95610
+San Susana Ave	Cathedral City	92234
+San Susanna Ave	Cathedral City	92234

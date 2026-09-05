@@ -1,0 +1,168 @@
+Loo Ln	San Jose	95131
+Look	Boulder Creek	95006
+Look Far Trl	Cazadero	95421
+Look Out Circle	La Verne	91750
+Look Out Point Ct	Roseville	95747
+Lookabout Road	Lake Hughes	93532
+Looking Glass	Irvine	92620
+Looking Glass Cir	Corona	92882
+Looking Glass Drive	Diamond Bar	91765
+Looking Glass Ln	Miramonte	93641
+Lookout	Irvine	92620
+Lookout	Lucerne Valley	92356
+Lookout Ave	Oceanside	92057
+Lookout Bend	San Jose	95120
+Lookout Bnd	San Jose	95120
+Lookout Cir	Chino Hills	91709
+Lookout Cir	Forest Ranch	95942
+Lookout Cir	Menifee	92585
+Lookout Cir	Perris	92570
+Lookout Cir	Yucaipa	92399
+Lookout Circle	Nevada City	95959
+Lookout Circle	Truckee	96161
+Lookout Court	Weed	96094
+Lookout Ct	Coarsegold	93614
+Lookout Ct	Hercules	94547
+Lookout Ct	Pioneer	95666
+Lookout Ct	Redding	96001
+Lookout Ct	Redding	96003
+Lookout Ct	Sacramento	95831
+Lookout Ct	San Juan Capistrano	92675
+Lookout Dr	Arrowbear	92382
+Lookout Dr	Barstow	92311
+Lookout Dr	Big Bear City	92314
+Lookout Dr	La Jolla	92037
+Lookout Dr	Laguna Beach	92651
+Lookout Dr	Lake Arrowhead	92352
+Lookout Dr	Lake Elsinore	92530
+Lookout Dr	Mecca	92254
+Lookout Dr	Modesto	95355
+Lookout Dr	Napa	94558
+Lookout Dr	Oxnard	93035
+Lookout Dr	Palm Desert	92211
+Lookout Dr	Templeton	93465
+Lookout Dr	Twain Harte	95383
+Lookout Dr	Twin Peaks	92391
+Lookout Dr	Ukiah	 
+Lookout Dr	Ukiah	95482
+Lookout Dr	Unincorporated	92651
+Lookout Dr	Ybl	92886
+Lookout Dr	Yorba Linda	92886
+Lookout Drive	Agoura Hills	91301
+Lookout Drive	Los Angeles	90012
+Lookout Hl	Newport Beach	92657
+Lookout Lane East	Truckee	96161
+Lookout Lane West	Truckee	96161
+Lookout Ln	Bakersfield	93309
+Lookout Ln	Cedarpines Park	92322
+Lookout Ln	Corona	92883
+Lookout Ln	Escondido	92029
+Lookout Ln	Huntington Beach	92646
+Lookout Ln	Huntington Beach	92646-2107
+Lookout Ln	Idyllwild	92549
+Lookout Ln	Running Springs	92382
+Lookout Ln	Tustin	92782
+Lookout Ln	Weimar	95713
+Lookout Loop	Bradley	93426
+Lookout Loop	Pine Valley	91962
+Lookout Loop	Truckee	96161
+Lookout Mountain Avenue	Los Angeles	90046
+Lookout Mountain Ct	Bakersfield	93304
+Lookout Mountain Dr	Coarsegold	93614
+Lookout Mountain Ln	Oak Run	96069
+Lookout Mountain Rd	Fallbrook	92028
+Lookout Mountain Rd	Mariposa	95338
+Lookout Mountain Rd	Oak Run	96069
+Lookout Park Rd	Summerland	93067
+Lookout Pass Ct	Rocklin	95765
+Lookout Pass Way	Rocklin	95765
+Lookout Pl	Escondido	92029
+Lookout Pl	San Marcos	92078
+Lookout Point Ln	Menifee	92585
+Lookout Point Loop	Discovery Bay	94505
+Lookout Point Pl	Escondido	92026
+Lookout Pt	Norco	92860
+Lookout Pt Pl	Escondido	92026
+Lookout Rd	Apple Valley	92307
+Lookout Rd	Hillsborough	94010
+Lookout Rd	Idyllwild	92549
+Lookout Rd	Johnson Valley	92284
+Lookout Rd	Kneeland	95549
+Lookout Rd	Landers	92285
+Lookout Rd	Painted Cave	93105
+Lookout Rd	Pine Grove	95665
+Lookout Ridge Ln	Pine Grove	95665
+Lookout Road	Malibu	90265
+Lookout Rock Rd	Simi Valley	93063
+Lookout Rock Trl	Simi Valley	93063
+Lookout St	Lake Elsinore	92530
+Lookout Ter	Riverside	92505
+Lookout Trail	Topanga	90290
+Lookout Trl	El Cajon	92019
+Lookout Way	Lake Arrowhead	92352
+Loom Place	Sherman Oaks	91403
+Looming Bend Dr	Bakersfield	93311
+Loomis Cir	Folsom	95630
+Loomis Court	Palmdale	93550
+Loomis Ct	Fontana	92336
+Loomis Ct	San Jose	95121
+Loomis Dr	San Jose	95121
+Loomis Hills Rd	Loomis	95650
+Loomis Ln	Weaverville	96093
+Loomis St	San Francisco	94124
+Loomis St	San Luis Obispo	93405
+Loomis Street	Lakewood	90712
+Loomis Street	Lakewood	90713
+Loomis Tr	Lucerne	95458
+Loon	Irvine	92618
+Loon Cir	Laguna Niguel	92677
+Loon Ct	Antioch	94531
+Loon Ct	Bakersfield	93312
+Loon Ct	Bodega Bay	94923
+Loon Ct	Foster City	94404
+Loon Dr	Petaluma	94954
+Loon Lake Ct	Lincoln	95648
+Loon Lake Ct	Roseville	95747
+Loon Lake Ln	Lincoln	95648
+Loon Lake St	Roseville	95747
+Loon St	Lathrop	95330
+Looney Road	Ballico	95303
+Looney Road	Denair	95316
+Looney Road	Snelling	95369
+Looneyville Ln	Lucerne Valley	92356
+Loop	Yosemite	95389
+Loop 22	Emeryville	94608
+Loop Avenue	Canyon Country	91387
+Loop Branch	Claremont	91711
+Loop Ct	Fortuna	95540
+Loop Dr	Bella Vista	96003
+Loop Dr	Bella Vista	96008
+Loop Dr	Camarillo	93010
+Loop Dr	Cedar Glen	92321
+Loop Dr	Redding	96003
+Loop Dr	Salton City	92274
+Loop Drive	Springville	93265
+Loop Pl	Trinidad	95570
+Loop Pl	Westhaven	95570
+Loop Rd	 	95540
+Loop Rd	Butte Meadows	95942
+Loop Rd	Carlotta	95549
+Loop Rd	Fontana	92337
+Loop Rd	Fort Irwin	92310
+Loop Rd	Fortuna	95540
+Loop Rd	Kirkwood	 
+Loop Rd	La Honda	94020
+Loop Rd	Paso Robles	93446
+Loop Rd	San Mateo	94402
+Loop Rd	Wawona	95389
+Loop Rd	Weimar	95713
+Loop Rd	Yosemite	95389
+Loop River Rd	Lathrop	95330
+Loop Road	Loma Rica	95901
+Loop St	Anderson	96007
+Loop St	Columbia	95310
+Loorz Ct	Sacramento	95823
+Loose Creek Rd	Jamul	91935
+Loose Horse Ln	Paso Robles	93446
+Loosmore Street	Los Angeles	90065
+Lootens Pl	San Rafael	94901

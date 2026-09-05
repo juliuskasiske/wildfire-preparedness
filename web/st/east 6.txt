@@ -1,0 +1,62 @@
+East 60Th Place	Huntington Park	90255
+East 60Th Place	Maywood	90270
+East 60Th Street	Huntington Park	90255
+East 60Th Street	Long Beach	90805
+East 60Th Street	Los Angeles	90001
+East 60Th Street	Los Angeles	90003
+East 60Th Street	Maywood	90270
+East 61St Street	Huntington Park	90255
+East 61St Street	Long Beach	90805
+East 61St Street	Los Angeles	90001
+East 61St Street	Los Angeles	90003
+East 61St Street	Los Angeles	90040
+East 61St Street	Maywood	90270
+East 62Nd Avenue	Playa Del Rey	90293
+East 62Nd Street	Los Angeles	90001
+East 62Nd Street	Los Angeles	90003
+East 63Rd Avenue	Playa Del Rey	90293
+East 63Rd Street	Long Beach	90805
+East 63Rd Street	Los Angeles	90001
+East 64Th Avenue	Playa Del Rey	90293
+East 64Th Place	Inglewood	90302
+East 64Th Street	Long Beach	90805
+East 64Th Street	Los Angeles	90001
+East 64Th Street	Los Angeles	90003
+East 65Th Street	Inglewood	90302
+East 65Th Street	Long Beach	90805
+East 65Th Street	Los Angeles	90001
+East 65Th Street	Los Angeles	90003
+East 66Th Street	Inglewood	90302
+East 66Th Street	Los Angeles	90001
+East 66Th Street	Los Angeles	90003
+East 66Th Way	Long Beach	90805
+East 67Th Street	Inglewood	90302
+East 67Th Street	Long Beach	90805
+East 67Th Street	Los Angeles	90001
+East 67Th Street	Los Angeles	90003
+East 67Th Way	Long Beach	90805
+East 68Th Street	Inglewood	90302
+East 68Th Street	Long Beach	90805
+East 68Th Street	Los Angeles	90001
+East 68Th Street	Los Angeles	90003
+East 68Th Way	Long Beach	90805
+East 69Th Street	Long Beach	90805
+East 69Th Street	Los Angeles	90001
+East 69Th Street	Los Angeles	90003
+East 69Th Way	Long Beach	90805
+East 6Th Avenue	Merced	95340
+East 6Th Street	Azusa	91702
+East 6Th Street	Benicia	94510
+East 6Th Street	Claremont	91711
+East 6Th Street	Dorris	96023
+East 6Th Street	Long Beach	90802
+East 6Th Street	Long Beach	90803
+East 6Th Street	Long Beach	90814
+East 6Th Street	Los Angeles	90013
+East 6Th Street	Los Angeles	90014
+East 6Th Street	Los Angeles	90021
+East 6Th Street	Los Angeles	90022
+East 6Th Street	Los Angeles	90023
+East 6Th Street	Los Angeles	90033
+East 6Th Street	Los Angeles	90063
+East 6Th Street	Pomona	91766

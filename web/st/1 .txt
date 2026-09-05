@@ -1,0 +1,55 @@
+1 1/2 Ave	Hanford	93230
+1/2 1St Av	Blue Lake	95525
+1/2 2Nd Av	Blue Lake	95525
+1/2 30Th St	Arcata	95521
+1/2 3Rd Av	Blue Lake	95525
+1/2 A St	Blue Lake	95525
+1/2 Alpha Av	Eureka	95503
+1/2 Ash St	Rio Dell	95562
+1/2 Carina Ln	Foster City	94404
+1/2 Chartin Rd	Blue Lake	95525
+1/2 Daulton Ave	Madera 	93638
+1/2 Dean Creek Rd	Rio Dell	95562
+1/2 Edwards St	Trinidad	95570
+1/2 F St	Arcata	95521
+1/2 Fortuna Bl	Fortuna	95540
+1/2 Foster Av	Arcata	95521
+1/2 G St	Arcata	95521
+1/2 Garden Ln	Fortuna	95540
+1/2 Greenwood Rd	Blue Lake	95525
+1/2 H St	Blue Lake	95525
+1/2 Halfway Av	Mckinleyville	95519
+1/2 Hartman Ln	Blue Lake	95525
+1/2 I St	Arcata	95521
+1/2 I St	Blue Lake	95525
+1/2 J St	Arcata	95521
+1/2 J St	Blue Lake	95525
+1/2 J St	Eureka	95501
+1/2 Juno Ln	Foster City	94404
+1/2 K St	Arcata	95521
+1/2 L St	Arcata	95521
+1/2 L St	Fortuna	95540
+1/2 Monument Rd	Rio Dell	95562
+1/2 Myrtle Av	Eureka	95501
+1/2 Neptune Ave	Carson	90745
+1/2 O St	Eureka	95501
+1/2 Ocean Av	Trinidad	95570
+1/2 Old Arcata Rd	Bayside	95521
+1/2 Park Av	Arcata	95521
+1/2 Q St	Arcata	95521
+1/2 Railroad Av	Blue Lake	95521
+1/2 Railroad Av	Blue Lake	95525
+1/2 Rio Dell Av	Rio Dell	95562
+1/2 Sequoia St	Rio Dell	95562
+1/2 Shamrock Ln	Blue Lake	95521
+1/2 Stillman Wy	Fortuna	95540
+1/2 Sunny Av	Eureka	95501
+1/2 Sunset Bl	Arcata	95521
+1/2 Underwood Dr	Trinidad	95570
+1/2 Union St	Eureka	95503
+1/2 View Av	Trinidad	95570
+1/2 Wahl St	Blue Lake	95525
+1/2 Watson Av	Ferndale	95536
+-1 Arreba St	Martinez	94553
+1 Murphy Rd	Shelter Cove	95589
+1 St	Bieber	96009

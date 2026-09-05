@@ -1,0 +1,16 @@
+69Th Ave	Mecca	92254
+69Th Ave	Sacramento	95822
+69Th Ave	Thermal	92274
+69Th Pl	San Diego	92115
+69Th Place	Long Beach	90803
+69Th St	La Mesa	91941
+69Th St	Lemon Grove	91945
+69Th St	Sacramento	95819
+69Th St	Sacramento	95820
+69Th St	Sacramento	95824
+69Th St	San Diego	92114
+69Th St	San Diego	92115
+69Th Street	Long Beach	90805
+69Th Street	Los Angeles	90003
+69Th Street	Los Angeles	90044
+69Th Street	Santa Clarita	91390

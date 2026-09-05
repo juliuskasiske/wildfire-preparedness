@@ -1,0 +1,174 @@
+East R Street	Wilmington	90744
+East Raber Street	Los Angeles	90042
+East Raborn Street	San Dimas	91773
+East Race Avenue	Visalia	93291
+East Race Avenue	Visalia	93292
+East Radbard Street	Carson	90746
+East Radcliffe Drive	Claremont	91711
+East Radiant Court	Covina	91722
+East Radium Drive	Los Angeles	90032
+East Rainbow Drive	Azusa	91702
+East Ralph Street	San Gabriel	91776
+East Ramblewood Drive	Dinuba	93618
+East Rambling Road	Covina	91724
+East Ramboz Drive	Los Angeles	90063
+East Ramirez Street	Los Angeles	90012
+East Ramona Avenue	La Habra	90631
+East Ramona Boulevard	Baldwin Park	91706
+East Ramona Road	Alhambra	91801
+East Ramona Road	Alhambra	91803
+East Ramona Street	Covina	91723
+East Ranchcreek Road	Covina	91724
+East Rancho Culebra Drive	Covina	91724
+East Rancho Del Amo Place	Compton	90220
+East Rancho Del Amo Place	Long Beach	90810
+East Rancho Estates Pl	Rancho Cucamonga	91739
+East Rancho Grande Drive	Covina	91724
+East Rancho Los Cerritos Road	Covina	91724
+East Rancho Park Cir	Rancho Cucamonga	91730
+East Rancho San Jose Drive	Covina	91724
+East Rancho Vista Boulevard	Palmdale	93550
+East Randolph Place	Long Beach	90807
+East Randolph Street	Glendale	91207
+East Range View Avenue	Los Angeles	90042
+East Rankin Avenue	Tulare	93274
+East Rankin Road	Tulare	93274
+East Ransom Street	Long Beach	90804
+East Raphael Street	Los Angeles	90042
+East Rausch Road	La Puente	91744
+East Ravendale Road	San Gabriel	91775
+East Raymond Street	Compton	90220
+East Raynol Street	Los Angeles	90032
+East Rd	Boulder Creek	95006
+East Rd	Hayfork	96041
+East Rd	Lemoore	93245
+East Rd	Lower Lake	95457
+East Rd	Middletown	95461
+East Rd	Redwood Valley	 
+East Rd	Ross	94957
+East Rd	Sausalito	94965
+East Rd	Somis	93066
+East Rd	Witter Springs	95493
+East Realty Street	Carson	90745
+East Redfield Avenue	Los Angeles	90042
+East Redondo Beach Boulevard	Compton	90220
+East Redondo Beach Boulevard	Gardena	90248
+East Redwood Court	Tulare	93274
+East Redwood Drive	Glendora	91741
+East Reed Avenue	Truckee	96161
+East Reef Street	Marina Del Rey	90292
+East Reese Avenue	Visalia	93277
+East Reese Avenue	Visalia	93292
+East Reeve Street	Compton	90220
+East Regent Street	Inglewood	90301
+East Reid Avenue	Porterville	93257
+East Remstoy Drive	Los Angeles	90032
+East Rendina Street	Long Beach	90815
+East Renee Street	Lancaster	93535
+East Renshaw Street	Covina	91724
+East Renton Street	Carson	90745
+East Renwick Road	Azusa	91702
+East Renwick Road	Glendora	91740
+East Repton Street	Los Angeles	90042
+East Retford Street	Covina	91724
+East Reva Street	Lakewood	90713
+East Rhea Street	Long Beach	90806
+East Richard Avenue	Porterville	93257
+East Richard Smith Avenue	Tulare	93274
+East Ridge Ln	Mckinleyville	95519
+East Ridge Rd	The Sea Ranch	95497
+East Ridge Road	Truckee	96161
+East Ridge Trl	Oxnard	93036
+East Ridge View Dr	Hidden Valley Lake	95467
+East Ridgewood Street	Long Beach	90807
+East Riego Drive	Diamond Bar	91765
+East Riggin Street	Monterey Park	91755
+East Rim Lane	Walnut	91789
+East Rimford Place	Diamond Bar	91765
+East Rimpath Drive	Covina	91724
+East Ring Street	Long Beach	90808
+East Rio Grande Street	Pasadena	91104
+East Rio Verde Drive	West Covina	91791
+East Rio Vista Avenue	Porterville	93257
+East Ritchie Street	Long Beach	90808
+East Riv	St Downieville	95936
+East River Avenue	Porterville	93257
+East River Pkwy	Santa Clara	95054
+East River Py	Santa Clara	95054
+East River Street	Truckee	96161
+East River View Street	Los Angeles	90065
+East Rivera Court	Los Angeles	90033
+East Riverbend Court	Visalia	93291
+East Riverway Avenue	Visalia	93291
+East Riviera Walk	Long Beach	90803
+East Road	La Habra	90631
+East Road	Nevada City	95959
+East Roberta Street	Los Angeles	90031
+East Roberta Way	District 10	95901
+East Robidoux Street	Wilmington	90744
+East Robin Avenue	Visalia	93291
+East Roble Avenue	Los Angeles	90042
+East Roblin Street	Carson	90746
+East Roby Avenue	Porterville	93257
+East Rochelle Lane	Long Beach	90815
+East Rockbury Drive	Diamond Bar	91765
+East Rockway Drive	West Covina	91790
+East Rockwood Street	Los Angeles	90063
+East Roddy Way	La Habra	90631
+East Rodell Place	Arcadia	91006
+East Roe Avenue	Dinuba	93618
+East Rogene Street	Long Beach	90815
+East Rogers Avenue	Los Angeles	90023
+East Rogers Street	Long Beach	90805
+East Roland Street	Azusa	91702
+East Rolanda Street	Long Beach	90815
+East Rolle Street	Los Angeles	90031
+East Rolle Street	Los Angeles	90032
+East Roosevelt Avenue	Tulare	93274
+East Roosevelt Avenue	Visalia	93292
+East Roosevelt Court	Visalia	93292
+East Roosevelt Road	Chowchilla	93610
+East Roosevelt Road	El Nido	95317
+East Roosevelt Road	Long Beach	90807
+East Rosada Street	Long Beach	90815
+East Rose Avenue	La Habra	90631
+East Rose Avenue	Venice	90291
+East Rose Avenue	Visalia	93277
+East Rose Avenue	Visalia	93292
+East Rose Court	Visalia	93277
+East Rose Court	Visalia	93292
+East Rose Hill Drive	Los Angeles	90032
+East Rose Street	Compton	90221
+East Rosebay Street	Long Beach	90808
+East Rosecrans Avenue	Compton	90220
+East Rosecrans Avenue	Compton	90221
+East Rosecrans Avenue	Compton	90222
+East Rosecrans Avenue	Gardena	90248
+East Rosecrans Avenue	Los Angeles	90059
+East Rosecrans Avenue	Los Angeles	90061
+East Rosecrest Avenue	La Habra	90631
+East Rosemary Drive	West Covina	91791
+East Roses Road	San Gabriel	91775
+East Roseview Avenue	Los Angeles	90065
+East Rosewood Lane	La Habra	90631
+East Rosina Street	Long Beach	90808
+East Ross Avenue	Alhambra	91801
+East Rossellen Place	Covina	91723
+East Round Hill Lane	Walnut	91789
+East Route 66	Azusa	91702
+East Route 66	Glendora	91740
+East Rowland Avenue	West Covina	91790
+East Rowland Avenue	West Covina	91791
+East Rowland Street	Covina	91723
+East Rowland Street	La Puente	91744
+East Roxanne Way	Long Beach	90815
+East Roy Street	Los Angeles	90042
+East Royal Ann Avenue	Tulare	93274
+East Royal Estates Drive	Covina	91722
+East Ruby Street	Los Angeles	90042
+East Ruddock Street	Covina	91723
+East Ruddock Street	Covina	91724
+East Russell Avenue	Visalia	93292
+East Russell Street	Azusa	91702
+East Rustic Hill Drive	Whittier	90601
+East Rustic Road	Santa Monica	90402

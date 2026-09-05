@@ -1,0 +1,968 @@
+N L St	Lompoc	93436
+N L St	Madera	93637
+N L St	Oxnard	93030
+N L St	San Bernardino	92410
+N L St	San Bernardino	92411
+N La Bonita Ave	Santa Ana	92703
+N La Brisa Dr	Fresno	93730
+N La Brucherie	El Centro	92243
+N La Cadena Dr	Colton	92324
+N La Canada Dr	Bre	92821
+N La Capella Ct	Orange	92867
+N La Colina Ct	Orange	92867
+N La Costa Ave	Carlsbad	92011
+N La Costa Dr	Carlsbad	92011
+N La Coste Dr	Tustin	92782
+N La Cumbre Rd	Santa Barbara	93110
+N La Cumbre Rd	Santa Barbara Unincorporated	93110
+N La Esperanza	San Clemente	92672
+N La Hacienda Dr	San Bernardino	92404
+N La Junta St	San Bernardino	92410
+N La Loma Cir	Anaheim	92806
+N La Loma Wy	Stockton	95212
+N La Luna Ave	Ojai	93023
+N La Luna Rd	Ojai	93023
+N La Mancha Way	Ontario	91764
+N La Mirada St	La Habra	90631
+N La Nae Cir	Orange	92869
+N La Nae St	Orange	92869
+N La Palma Ave	Upland	91784
+N La Palma Park Way	Anaheim	92801
+N La Palma Pkwy	Anaheim	92801
+N La Paloma Ave	Ontario	91764
+N La Paloma Ct	Ontario	91764
+N La Patera Ln	Goleta	93117
+N La Patera Ln	Los Padres National Forest	93117
+N La Patera Ln	Santa Barbara Unincorporated	93117
+N La Paz Ave	Fresno	93722
+N La Paz Ave	Fresno	93723
+N La Paz Ave	Ontario	91764
+N La Perla St	Anaheim	92801
+N La Plaza	Anaheim	92805
+N La Plz	Anaheim	92805
+N La Praix St	Highland	92346
+N La Quinta Dr	Upland	91786
+N La Reina Cir	Anaheim	92801
+N La Reina St	Anaheim	92801
+N La Salle St	Redlands	92374
+N La Senda Dr	Laguna Beach	92651
+N La Ventana Ave	Fresno	93723
+N La Vergn Way	Santa Ana	92703
+N La Verne Ave	Highland	92346
+N La Veta St	San Bernardino	92404
+N La Vona Ave	Clovis	93619
+N Lacey Dr	Fresno	93722
+N Laconia Dr	Villa Park	92867
+N Lacy St	Santa Ana	92701
+N Ladera Ct	San Bernardino	92407
+N Ladera Rd	Ojai	93023
+N Ladera Rd	San Bernardino	92405
+N Ladera Vista Dr	Fullerton	92831
+N Lafayette Ave	Fresno	93705
+N Lafayette Ave	Fresno	93711
+N Lafayette Ave	Fresno	93728
+N Lafayette Ct	Mh	95391
+N Lafayette St	Mh	95391
+N Lafitte Dr	Oak Park	91377
+N Lagorio Rd	Stockton	95215
+N Laguna Dr	Cathedral City	92234
+N Laguna Dr	Sacramento	95823
+N Laguna St	Anaheim	92801
+N Laguna Vista Ave	Fresno	93711
+N Laird Cir	Santa Ana	92706
+N Laird St	Santa Ana	92706
+N Lake	Calipatria	92233
+N Lake Ave	Calipatria	92233
+N Lake Ave	Hemet	92544
+N Lake Ave	Kerman	93630
+N Lake Ave	Ontario	91764
+N Lake Blvd	Carnelian Bay	96140
+N Lake Blvd	Kings Beach	96143
+N Lake Blvd	Tahoe City	96145
+N Lake Blvd	Tahoe Vista	96148
+N Lake Blvd #1	Carnelian Bay	96140
+N Lake Blvd #1	Kings Beach	96143
+N Lake Blvd #1	Tahoe City	96145
+N Lake Blvd #1	Tahoe Vista	96148
+N Lake Blvd #1-L	Tahoe City	96145
+N Lake Blvd #10	Carnelian Bay	96140
+N Lake Blvd #10	Tahoe City	96145
+N Lake Blvd #10	Tahoe Vista	96148
+N Lake Blvd #10-L	Tahoe City	96145
+N Lake Blvd #100	Carnelian Bay	96140
+N Lake Blvd #100	Tahoe City	96145
+N Lake Blvd #101	Carnelian Bay	96140
+N Lake Blvd #101	Tahoe City	96145
+N Lake Blvd #102	Carnelian Bay	96140
+N Lake Blvd #102	Tahoe City	96145
+N Lake Blvd #103	Carnelian Bay	96140
+N Lake Blvd #103	Tahoe City	96145
+N Lake Blvd #104	Carnelian Bay	96140
+N Lake Blvd #104	Tahoe City	96145
+N Lake Blvd #105	Carnelian Bay	96140
+N Lake Blvd #105	Tahoe City	96145
+N Lake Blvd #106	Carnelian Bay	96140
+N Lake Blvd #106	Tahoe City	96145
+N Lake Blvd #107	Carnelian Bay	96140
+N Lake Blvd #107	Tahoe City	96145
+N Lake Blvd #108	Carnelian Bay	96140
+N Lake Blvd #108	Tahoe City	96145
+N Lake Blvd #109	Carnelian Bay	96140
+N Lake Blvd #109	Tahoe City	96145
+N Lake Blvd #11	Carnelian Bay	96140
+N Lake Blvd #11	Tahoe City	96145
+N Lake Blvd #11	Tahoe Vista	96148
+N Lake Blvd #11-L	Tahoe City	96145
+N Lake Blvd #110	Carnelian Bay	96140
+N Lake Blvd #110	Tahoe City	96145
+N Lake Blvd #111	Carnelian Bay	96140
+N Lake Blvd #111	Tahoe City	96145
+N Lake Blvd #112	Carnelian Bay	96140
+N Lake Blvd #112	Tahoe City	96145
+N Lake Blvd #113	Carnelian Bay	96140
+N Lake Blvd #113	Tahoe City	96145
+N Lake Blvd #114	Carnelian Bay	96140
+N Lake Blvd #114	Tahoe City	96145
+N Lake Blvd #115	Tahoe City	96145
+N Lake Blvd #116	Tahoe City	96145
+N Lake Blvd #117	Carnelian Bay	96140
+N Lake Blvd #117	Tahoe City	96145
+N Lake Blvd #118	Carnelian Bay	96140
+N Lake Blvd #118	Tahoe City	96145
+N Lake Blvd #119	Carnelian Bay	96140
+N Lake Blvd #119	Tahoe City	96145
+N Lake Blvd #12	Carnelian Bay	96140
+N Lake Blvd #12	Tahoe City	96145
+N Lake Blvd #12	Tahoe Vista	96148
+N Lake Blvd #12-L	Tahoe City	96145
+N Lake Blvd #120	Carnelian Bay	96140
+N Lake Blvd #120	Tahoe City	96145
+N Lake Blvd #121	Carnelian Bay	96140
+N Lake Blvd #121	Tahoe City	96145
+N Lake Blvd #122	Carnelian Bay	96140
+N Lake Blvd #122	Tahoe City	96145
+N Lake Blvd #123	Carnelian Bay	96140
+N Lake Blvd #123	Tahoe City	96145
+N Lake Blvd #124	Carnelian Bay	96140
+N Lake Blvd #124	Tahoe City	96145
+N Lake Blvd #125	Carnelian Bay	96140
+N Lake Blvd #125	Tahoe City	96145
+N Lake Blvd #126	Carnelian Bay	96140
+N Lake Blvd #126	Tahoe City	96145
+N Lake Blvd #127	Carnelian Bay	96140
+N Lake Blvd #128	Carnelian Bay	96140
+N Lake Blvd #129	Carnelian Bay	96140
+N Lake Blvd #13	Carnelian Bay	96140
+N Lake Blvd #13	Tahoe City	96145
+N Lake Blvd #13	Tahoe Vista	96148
+N Lake Blvd #130	Carnelian Bay	96140
+N Lake Blvd #131	Carnelian Bay	96140
+N Lake Blvd #132	Carnelian Bay	96140
+N Lake Blvd #133	Carnelian Bay	96140
+N Lake Blvd #134	Carnelian Bay	96140
+N Lake Blvd #135	Carnelian Bay	96140
+N Lake Blvd #136	Carnelian Bay	96140
+N Lake Blvd #137	Carnelian Bay	96140
+N Lake Blvd #138	Carnelian Bay	96140
+N Lake Blvd #139	Carnelian Bay	96140
+N Lake Blvd #14	Carnelian Bay	96140
+N Lake Blvd #14	Tahoe City	96145
+N Lake Blvd #14	Tahoe Vista	96148
+N Lake Blvd #140	Carnelian Bay	96140
+N Lake Blvd #141	Carnelian Bay	96140
+N Lake Blvd #142	Carnelian Bay	96140
+N Lake Blvd #143	Carnelian Bay	96140
+N Lake Blvd #144	Carnelian Bay	96140
+N Lake Blvd #145	Carnelian Bay	96140
+N Lake Blvd #146	Carnelian Bay	96140
+N Lake Blvd #147	Carnelian Bay	96140
+N Lake Blvd #148	Carnelian Bay	96140
+N Lake Blvd #149	Carnelian Bay	96140
+N Lake Blvd #15	Carnelian Bay	96140
+N Lake Blvd #15	Tahoe City	96145
+N Lake Blvd #15	Tahoe Vista	96148
+N Lake Blvd #150	Carnelian Bay	96140
+N Lake Blvd #151	Carnelian Bay	96140
+N Lake Blvd #152	Carnelian Bay	96140
+N Lake Blvd #153	Carnelian Bay	96140
+N Lake Blvd #154	Carnelian Bay	96140
+N Lake Blvd #155	Carnelian Bay	96140
+N Lake Blvd #156	Carnelian Bay	96140
+N Lake Blvd #157	Carnelian Bay	96140
+N Lake Blvd #158	Carnelian Bay	96140
+N Lake Blvd #159	Carnelian Bay	96140
+N Lake Blvd #16	Carnelian Bay	96140
+N Lake Blvd #16	Tahoe City	96145
+N Lake Blvd #16	Tahoe Vista	96148
+N Lake Blvd #160	Carnelian Bay	96140
+N Lake Blvd #161	Carnelian Bay	96140
+N Lake Blvd #162	Carnelian Bay	96140
+N Lake Blvd #163	Carnelian Bay	96140
+N Lake Blvd #164	Carnelian Bay	96140
+N Lake Blvd #165	Carnelian Bay	96140
+N Lake Blvd #166	Carnelian Bay	96140
+N Lake Blvd #167	Carnelian Bay	96140
+N Lake Blvd #168	Carnelian Bay	96140
+N Lake Blvd #169	Carnelian Bay	96140
+N Lake Blvd #17	Carnelian Bay	96140
+N Lake Blvd #17	Tahoe City	96145
+N Lake Blvd #17	Tahoe Vista	96148
+N Lake Blvd #17-L	Tahoe City	96145
+N Lake Blvd #170	Carnelian Bay	96140
+N Lake Blvd #171	Carnelian Bay	96140
+N Lake Blvd #172	Carnelian Bay	96140
+N Lake Blvd #173	Carnelian Bay	96140
+N Lake Blvd #174	Carnelian Bay	96140
+N Lake Blvd #175	Carnelian Bay	96140
+N Lake Blvd #176	Carnelian Bay	96140
+N Lake Blvd #177	Carnelian Bay	96140
+N Lake Blvd #178	Carnelian Bay	96140
+N Lake Blvd #179	Carnelian Bay	96140
+N Lake Blvd #18	Carnelian Bay	96140
+N Lake Blvd #18	Tahoe City	96145
+N Lake Blvd #18	Tahoe Vista	96148
+N Lake Blvd #18-L	Tahoe City	96145
+N Lake Blvd #180	Carnelian Bay	96140
+N Lake Blvd #181	Carnelian Bay	96140
+N Lake Blvd #182	Carnelian Bay	96140
+N Lake Blvd #183	Carnelian Bay	96140
+N Lake Blvd #184	Carnelian Bay	96140
+N Lake Blvd #185	Carnelian Bay	96140
+N Lake Blvd #186	Carnelian Bay	96140
+N Lake Blvd #187	Carnelian Bay	96140
+N Lake Blvd #188	Carnelian Bay	96140
+N Lake Blvd #189	Carnelian Bay	96140
+N Lake Blvd #19	Carnelian Bay	96140
+N Lake Blvd #19	Tahoe City	96145
+N Lake Blvd #19	Tahoe Vista	96148
+N Lake Blvd #19-L	Tahoe City	96145
+N Lake Blvd #190	Carnelian Bay	96140
+N Lake Blvd #2	Carnelian Bay	96140
+N Lake Blvd #2	Kings Beach	96143
+N Lake Blvd #2	Tahoe City	96145
+N Lake Blvd #2	Tahoe Vista	96148
+N Lake Blvd #2-L	Tahoe City	96145
+N Lake Blvd #20	Carnelian Bay	96140
+N Lake Blvd #20	Tahoe City	96145
+N Lake Blvd #20	Tahoe Vista	96148
+N Lake Blvd #20-L	Tahoe City	96145
+N Lake Blvd #21	Carnelian Bay	96140
+N Lake Blvd #21	Tahoe City	96145
+N Lake Blvd #21	Tahoe Vista	96148
+N Lake Blvd #22	Carnelian Bay	96140
+N Lake Blvd #22	Tahoe City	96145
+N Lake Blvd #22	Tahoe Vista	96148
+N Lake Blvd #23	Carnelian Bay	96140
+N Lake Blvd #23	Tahoe City	96145
+N Lake Blvd #23	Tahoe Vista	96148
+N Lake Blvd #24	Carnelian Bay	96140
+N Lake Blvd #24	Tahoe City	96145
+N Lake Blvd #24	Tahoe Vista	96148
+N Lake Blvd #25	Carnelian Bay	96140
+N Lake Blvd #25	Tahoe City	96145
+N Lake Blvd #25	Tahoe Vista	96148
+N Lake Blvd #26	Carnelian Bay	96140
+N Lake Blvd #26	Tahoe City	96145
+N Lake Blvd #26	Tahoe Vista	96148
+N Lake Blvd #27	Carnelian Bay	96140
+N Lake Blvd #27	Tahoe City	96145
+N Lake Blvd #27	Tahoe Vista	96148
+N Lake Blvd #28	Carnelian Bay	96140
+N Lake Blvd #28	Tahoe City	96145
+N Lake Blvd #28	Tahoe Vista	96148
+N Lake Blvd #29	Carnelian Bay	96140
+N Lake Blvd #29	Tahoe City	96145
+N Lake Blvd #29	Tahoe Vista	96148
+N Lake Blvd #3	Carnelian Bay	96140
+N Lake Blvd #3	Kings Beach	96143
+N Lake Blvd #3	Tahoe City	96145
+N Lake Blvd #3	Tahoe Vista	96148
+N Lake Blvd #3-L	Tahoe City	96145
+N Lake Blvd #30	Carnelian Bay	96140
+N Lake Blvd #30	Tahoe City	96145
+N Lake Blvd #30	Tahoe Vista	96148
+N Lake Blvd #31	Carnelian Bay	96140
+N Lake Blvd #31	Tahoe City	96145
+N Lake Blvd #31	Tahoe Vista	96148
+N Lake Blvd #32	Carnelian Bay	96140
+N Lake Blvd #32	Tahoe City	96145
+N Lake Blvd #32	Tahoe Vista	96148
+N Lake Blvd #33	Carnelian Bay	96140
+N Lake Blvd #33	Tahoe City	96145
+N Lake Blvd #33	Tahoe Vista	96148
+N Lake Blvd #34	Carnelian Bay	96140
+N Lake Blvd #34	Tahoe City	96145
+N Lake Blvd #34	Tahoe Vista	96148
+N Lake Blvd #35	Carnelian Bay	96140
+N Lake Blvd #35	Tahoe City	96145
+N Lake Blvd #35	Tahoe Vista	96148
+N Lake Blvd #36	Carnelian Bay	96140
+N Lake Blvd #36	Tahoe City	96145
+N Lake Blvd #36	Tahoe Vista	96148
+N Lake Blvd #37	Carnelian Bay	96140
+N Lake Blvd #37	Tahoe City	96145
+N Lake Blvd #37	Tahoe Vista	96148
+N Lake Blvd #38	Carnelian Bay	96140
+N Lake Blvd #38	Tahoe City	96145
+N Lake Blvd #38	Tahoe Vista	96148
+N Lake Blvd #39	Carnelian Bay	96140
+N Lake Blvd #39	Tahoe City	96145
+N Lake Blvd #39	Tahoe Vista	96148
+N Lake Blvd #4	Carnelian Bay	96140
+N Lake Blvd #4	Kings Beach	96143
+N Lake Blvd #4	Tahoe City	96145
+N Lake Blvd #4	Tahoe Vista	96148
+N Lake Blvd #4-L	Tahoe City	96145
+N Lake Blvd #40	Carnelian Bay	96140
+N Lake Blvd #40	Tahoe City	96145
+N Lake Blvd #40	Tahoe Vista	96148
+N Lake Blvd #41	Carnelian Bay	96140
+N Lake Blvd #41	Tahoe City	96145
+N Lake Blvd #41	Tahoe Vista	96148
+N Lake Blvd #42	Carnelian Bay	96140
+N Lake Blvd #42	Tahoe City	96145
+N Lake Blvd #42	Tahoe Vista	96148
+N Lake Blvd #43	Carnelian Bay	96140
+N Lake Blvd #43	Tahoe City	96145
+N Lake Blvd #43	Tahoe Vista	96148
+N Lake Blvd #44	Carnelian Bay	96140
+N Lake Blvd #44	Tahoe City	96145
+N Lake Blvd #44	Tahoe Vista	96148
+N Lake Blvd #45	Carnelian Bay	96140
+N Lake Blvd #45	Tahoe City	96145
+N Lake Blvd #45	Tahoe Vista	96148
+N Lake Blvd #46	Carnelian Bay	96140
+N Lake Blvd #46	Tahoe City	96145
+N Lake Blvd #47	Carnelian Bay	96140
+N Lake Blvd #47	Tahoe City	96145
+N Lake Blvd #47	Tahoe Vista	96148
+N Lake Blvd #48	Carnelian Bay	96140
+N Lake Blvd #48	Tahoe City	96145
+N Lake Blvd #48	Tahoe Vista	96148
+N Lake Blvd #49	Carnelian Bay	96140
+N Lake Blvd #49	Tahoe City	96145
+N Lake Blvd #49	Tahoe Vista	96148
+N Lake Blvd #5	Carnelian Bay	96140
+N Lake Blvd #5	Kings Beach	96143
+N Lake Blvd #5	Tahoe City	96145
+N Lake Blvd #5	Tahoe Vista	96148
+N Lake Blvd #50	Carnelian Bay	96140
+N Lake Blvd #50	Tahoe City	96145
+N Lake Blvd #50	Tahoe Vista	96148
+N Lake Blvd #51	Carnelian Bay	96140
+N Lake Blvd #51	Tahoe City	96145
+N Lake Blvd #51	Tahoe Vista	96148
+N Lake Blvd #52	Carnelian Bay	96140
+N Lake Blvd #52	Tahoe City	96145
+N Lake Blvd #52	Tahoe Vista	96148
+N Lake Blvd #53	Carnelian Bay	96140
+N Lake Blvd #53	Tahoe City	96145
+N Lake Blvd #53	Tahoe Vista	96148
+N Lake Blvd #54	Carnelian Bay	96140
+N Lake Blvd #54	Tahoe City	96145
+N Lake Blvd #54	Tahoe Vista	96148
+N Lake Blvd #55	Carnelian Bay	96140
+N Lake Blvd #55	Tahoe City	96145
+N Lake Blvd #55	Tahoe Vista	96148
+N Lake Blvd #56	Carnelian Bay	96140
+N Lake Blvd #56	Tahoe City	96145
+N Lake Blvd #56	Tahoe Vista	96148
+N Lake Blvd #57	Carnelian Bay	96140
+N Lake Blvd #57	Tahoe City	96145
+N Lake Blvd #57	Tahoe Vista	96148
+N Lake Blvd #58	Carnelian Bay	96140
+N Lake Blvd #58	Tahoe City	96145
+N Lake Blvd #58	Tahoe Vista	96148
+N Lake Blvd #59	Carnelian Bay	96140
+N Lake Blvd #59	Tahoe City	96145
+N Lake Blvd #59	Tahoe Vista	96148
+N Lake Blvd #5A	Tahoe Vista	96148
+N Lake Blvd #5B	Tahoe Vista	96148
+N Lake Blvd #6	Carnelian Bay	96140
+N Lake Blvd #6	Kings Beach	96143
+N Lake Blvd #6	Tahoe City	96145
+N Lake Blvd #6	Tahoe Vista	96148
+N Lake Blvd #60	Carnelian Bay	96140
+N Lake Blvd #60	Tahoe City	96145
+N Lake Blvd #60	Tahoe Vista	96148
+N Lake Blvd #61	Carnelian Bay	96140
+N Lake Blvd #61	Tahoe City	96145
+N Lake Blvd #61	Tahoe Vista	96148
+N Lake Blvd #62	Carnelian Bay	96140
+N Lake Blvd #62	Tahoe City	96145
+N Lake Blvd #62	Tahoe Vista	96148
+N Lake Blvd #63	Carnelian Bay	96140
+N Lake Blvd #63	Tahoe City	96145
+N Lake Blvd #63	Tahoe Vista	96148
+N Lake Blvd #64	Carnelian Bay	96140
+N Lake Blvd #64	Tahoe City	96145
+N Lake Blvd #65	Carnelian Bay	96140
+N Lake Blvd #65	Tahoe City	96145
+N Lake Blvd #66	Carnelian Bay	96140
+N Lake Blvd #66	Tahoe City	96145
+N Lake Blvd #67	Carnelian Bay	96140
+N Lake Blvd #67	Tahoe City	96145
+N Lake Blvd #68	Carnelian Bay	96140
+N Lake Blvd #68	Tahoe City	96145
+N Lake Blvd #69	Carnelian Bay	96140
+N Lake Blvd #69	Tahoe City	96145
+N Lake Blvd #7	Carnelian Bay	96140
+N Lake Blvd #7	Tahoe City	96145
+N Lake Blvd #7	Tahoe Vista	96148
+N Lake Blvd #70	Carnelian Bay	96140
+N Lake Blvd #70	Tahoe City	96145
+N Lake Blvd #71	Carnelian Bay	96140
+N Lake Blvd #71	Tahoe City	96145
+N Lake Blvd #72	Carnelian Bay	96140
+N Lake Blvd #72	Tahoe City	96145
+N Lake Blvd #73	Carnelian Bay	96140
+N Lake Blvd #73	Tahoe City	96145
+N Lake Blvd #74	Carnelian Bay	96140
+N Lake Blvd #74	Tahoe City	96145
+N Lake Blvd #75	Carnelian Bay	96140
+N Lake Blvd #75	Tahoe City	96145
+N Lake Blvd #76	Carnelian Bay	96140
+N Lake Blvd #76	Tahoe City	96145
+N Lake Blvd #77	Carnelian Bay	96140
+N Lake Blvd #77	Tahoe City	96145
+N Lake Blvd #78	Carnelian Bay	96140
+N Lake Blvd #78	Tahoe City	96145
+N Lake Blvd #79	Carnelian Bay	96140
+N Lake Blvd #79	Tahoe City	96145
+N Lake Blvd #8	Carnelian Bay	96140
+N Lake Blvd #8	Tahoe City	96145
+N Lake Blvd #8	Tahoe Vista	96148
+N Lake Blvd #80	Carnelian Bay	96140
+N Lake Blvd #80	Tahoe City	96145
+N Lake Blvd #81	Carnelian Bay	96140
+N Lake Blvd #81	Tahoe City	96145
+N Lake Blvd #82	Carnelian Bay	96140
+N Lake Blvd #82	Tahoe City	96145
+N Lake Blvd #83	Carnelian Bay	96140
+N Lake Blvd #83	Tahoe City	96145
+N Lake Blvd #84	Carnelian Bay	96140
+N Lake Blvd #84	Tahoe City	96145
+N Lake Blvd #85	Carnelian Bay	96140
+N Lake Blvd #85	Tahoe City	96145
+N Lake Blvd #86	Carnelian Bay	96140
+N Lake Blvd #86	Tahoe City	96145
+N Lake Blvd #87	Carnelian Bay	96140
+N Lake Blvd #87	Tahoe City	96145
+N Lake Blvd #88	Carnelian Bay	96140
+N Lake Blvd #88	Tahoe City	96145
+N Lake Blvd #89	Carnelian Bay	96140
+N Lake Blvd #89	Tahoe City	96145
+N Lake Blvd #9	Carnelian Bay	96140
+N Lake Blvd #9	Tahoe City	96145
+N Lake Blvd #9	Tahoe Vista	96148
+N Lake Blvd #9-L	Tahoe City	96145
+N Lake Blvd #90	Carnelian Bay	96140
+N Lake Blvd #90	Tahoe City	96145
+N Lake Blvd #91	Carnelian Bay	96140
+N Lake Blvd #91	Tahoe City	96145
+N Lake Blvd #92	Carnelian Bay	96140
+N Lake Blvd #92	Tahoe City	96145
+N Lake Blvd #93	Tahoe City	96145
+N Lake Blvd #94	Carnelian Bay	96140
+N Lake Blvd #94	Tahoe City	96145
+N Lake Blvd #95	Carnelian Bay	96140
+N Lake Blvd #95	Tahoe City	96145
+N Lake Blvd #96	Carnelian Bay	96140
+N Lake Blvd #96	Tahoe City	96145
+N Lake Blvd #97	Carnelian Bay	96140
+N Lake Blvd #97	Tahoe City	96145
+N Lake Blvd #98	Carnelian Bay	96140
+N Lake Blvd #98	Tahoe City	96145
+N Lake Blvd #99	Carnelian Bay	96140
+N Lake Blvd #99	Tahoe City	96145
+N Lake Blvd #A	Kings Beach	96143
+N Lake Blvd #A	Tahoe City	96145
+N Lake Blvd #B	Kings Beach	96143
+N Lake Blvd #C	Kings Beach	96143
+N Lake Blvd #D	Kings Beach	96143
+N Lake Blvd #E	Kings Beach	96143
+N Lake Blvd #F	Kings Beach	96143
+N Lake Blvd #Office	Carnelian Bay	96140
+N Lake Cir	Antioch	94509
+N Lake Cir	Granite Bay	95746
+N Lake Dr	Antioch	94509
+N Lake Dr	Lake Elsinore	92530
+N Lake Dr	Stockton	95204
+N Lake Mead Cir	Orange	92867
+N Lake St	Burbank	91502
+N Lake St	Hemet	92544
+N Lake St	Madera	93638
+N Lake St	Moss Beach	94038
+N Lake St 1/2	Madera	93638
+N Lake Wohlford Rd	Escondido	92027
+N Lake Wohlford Rd	Valley Center	92082
+N Lakedale Dr	Anaheim	92807
+N Lakeshore Blvd	Loomis	95650
+N Lakeshore Dr	Fresno	93730
+N Lakeshore Ln	Loomis	95650
+N Lakeside Dr	Palm Springs	92264
+N Lakeview Ave	Ana	92807
+N Lakeview Ave	Anaheim	92807
+N Lakeview Canyon Rd	Thousand Oaks	91362
+N Lakeview Dr	Corona	92880
+N Lakeview Dr	Stockton	95204
+N Lakeview Dr	Trinity Center	96091
+N Lakeview St	Lakeport	95453
+N Lakewood Ave	Upland	91784
+N Lakewood Ave	Upland	91786
+N Lakewood Ct	San Bernardino	92407
+N Lakewood Dr	Meadow Vista	95722
+N Lakewood Dr	San Bernardino	92407
+N Lakewood Way	Upland	91786
+N Lamarr St	Rialto	92376
+N Lamb Rd	Thornton	95686
+N Lambert Wy	Lockeford	95237
+N Lamer St	Burbank	91504
+N Lamer St	Burbank	91506
+N Lance Ln	Anaheim	92806
+N Lancer Dr	Anaheim	92801
+N Lancewood Ave	Rialto	92376
+N Lancewood Ave	Rialto	92377
+N Lancia St	Mh	95391
+N Landa Way	Bre	92821
+N Landa Way	Brea	92821
+N Landen St	Camarillo	93010
+N Landfair St	Anaheim	92806
+N Lanes Rd	Fresno	93730
+N Langley Ave	Clovis	93619
+N Langstaff St	Lake Elsinore	92530
+N Lankershim Ave	Highland	92346
+N Lanoitan Ave	National City	91950
+N Lanstaff St	Lake Elsinore	92530
+N Lantana St	Camarillo	93010
+N Lantern Crest Dr	San Bernardino	92407
+N Lantern Ln	Moorpark	93021
+N Larch Ave	Rialto	92376
+N Larch St	Anaheim	92805
+N Larch St	Colton	92324
+N Larchmont Ave	Santa Ana	92705
+N Larchmont Ave	Santa Ana	92706
+N Larkin Ave	Fresno	93727
+N Larkspur Ave	Fresno	93720
+N Larkspur Ave	Rialto	92377
+N Larkspur Ln	Beaumont	92223
+N Larkspur St	Lompoc	93436
+N Laron Ct	Stockton	95212
+N Larryton Av	Santa Maria	93458
+N Larryton Ave	Santa Maria	93458
+N Larson Cir	Villa Park	92867
+N Larson St	Porterville	93257
+N Larwin Ave	Concord	94521
+N Las Brisas St	Anaheim	92806
+N Las Casitas Ci	Stockton	95212
+N Las Flores	Brawley	92227
+N Las Flores Cir	Villa Park	92867
+N Las Flores Circle	Villa Park	92867
+N Las Flores Dr	Nipomo	93444
+N Las Flores Dr	San Marcos	92069
+N Las Lanas Cir	Fullerton	92833
+N Las Lunas St	Hemet	92543
+N Las Posas Cir	Camarillo	93012
+N Las Posas Rd	Camarillo	93010
+N Las Posas Rd	San Marcos	92069
+N Lassen Av	Stockton	95204
+N Lassen Ave	Kerman	93630
+N Lassen Ave	Ontario	91764
+N Lassen Ave	San Bernardino	92410
+N Lassen Blvd	Orange	92867
+N Lassen Pl	Ontario	91764
+N Lassen St	San Bernardino	92410
+N Lassen St	San Bernardino	92411
+N Latham St	Colton	92324
+N Lathan Ave	Camarillo	93010
+N Laughlin Rd	Santa Rosa	95403
+N Laura Ln	San Bernardino	92407
+N Laura St	La Habra	90631
+N Laureen Ave	Fresno	93703
+N Laureen Ave	Fresno	93710
+N Laureen Ave	Fresno	93720
+N Laureen Ave	Fresno	93726
+N Laurel Ave	Ontario	91762
+N Laurel Ave	Rialto	92376
+N Laurel Ave	Rialto	92377
+N Laurel Ave	Upland	91784
+N Laurel Ave	Upland	91786
+N Laurel Ct	San Bernardino	92404
+N Laurel Dr	Orange	92867
+N Laurel St	Santa Ana	92703
+N Laurel St	Stockton	95205
+N Laurel St	Turlock	95380
+N Laurel St	Ventura	93001
+N Laurel Valley Dr	Fresno	93730
+N Laurel Way	Upland	91784
+N Laurelglen Blvd	Bakersfield	93309
+N Laurelglen Blvd	Bakersfield	93311
+N Laurelwood Ave	Colton	92324
+N Lauren Ln	Santa Maria	93454
+N Lauren Way	Anaheim	92801
+N Laurie Ann Ln	Ana	92807
+N Laurie Ann Ln	Anaheim	92807
+N Laursen St	Hemet	92543
+N Laval Ave	Fresno	93720
+N Laverne Ave	Fresno	93727
+N Lawnview Ct	Simi Valley	93065
+N Lawrence Ave	Anaheim	92806
+N Lawrence Ave	Fullerton	92832
+N Lawrence Ave	San Bernardino	92404
+N Lawrence Expy	Sunnyvale	94089
+N Lazo Way	Santa Maria	93458
+N Lazo Wy	Santa Maria	93458
+N Lazy Meadow Rd	Orange	92869
+N Le May Ct	Orange	92867
+N Leach Rd	Lodi	95240
+N Lead Ave	Fresno	93711
+N Lead Ave	Fresno	93722
+N Leadstone Dr	Acampo	95220
+N Leaf Cir	Anaheim	92807
+N Leafwood Ave	Fresno	93723
+N Leafwood Ct	Bre	92821
+N Leale Av	Stockton	95212
+N Leanna Ave	Fresno	93737
+N Leatrice Dr	Villa Park	92867
+N Lebec Ct	Visalia	93292
+N Ledge Ave	Burbank	91505
+N Lee	Simi Valley	93065
+N Lee Av	Lodi	95240
+N Lee Ave	Fullerton	92833
+N Lee Ave	Oakdale	95361
+N Lee Dr	Stockton	95215
+N Lee St	Simi Valley	93065
+N Leeds Ave	Ontario	91764
+N Leesburg Pl	Stockton	95207
+N Leeward Way	Anaheim	92801
+N Leeway Way	Anaheim	92801
+N Leggett St	Porterville	93257
+N Leigh Ave	Campbell	95008
+N Leigh Ave	Campbell	95125
+N Leigh Cir	Villa Park	92867
+N Leila Ct	Visalia	93291
+N Leila St	Visalia	93291
+N Leisure Ct	Anaheim	92801
+N Leland Norton Way	San Bernardino	92408
+N Leland Wy	Stockton	95212
+N Lemon Ave	Menlo Park	94025
+N Lemon Ave	Ontario	91764
+N Lemon Hill Trl	Orange	92869
+N Lemon St	Anaheim	92801
+N Lemon St	Anaheim	92805
+N Lemon St	Fullerton	92831
+N Lemon St	Fullerton	92832
+N Lemon St	Fullerton	92835
+N Lemon St	La Habra	90631
+N Lemon St	Lah	90631
+N Lemon St	Orange	89286
+N Lemon St	Orange	92866
+N Lemon St	Orange	92867
+N Lemon St	Villa Park	92867
+N Lemon Tree Ln	Fresno	93722
+N Lemonwood Ave	Rialto	92377
+N Lemoore Ave	Lemoore	93245
+N Lemoore St	Lemoore	93245
+N Lena Rd	San Bernardino	92408
+N Lenore Ave	Willits	 
+N Lenz Dr	Anaheim	92805
+N Leonard Ave	Clovis	93619
+N Leonard Ave	Fresno	93727
+N Leonard Ave	Fresno	93737
+N Leora St	La Habra	90631
+N Leroy Ct	San Bernardino	92404
+N Leroy St	San Bernardino	92404
+N Leslie Ct	Visalia	93291
+N Leslie Ln	Fresno	93711
+N Leslie Ln	Highland	92346
+N Leslie St	Visalia	93291
+N Leslie Way	Orange	92867
+N Lester Dr	Orange	92868
+N Letton St	Ramona	92065
+N Leven Ave	Camarillo	93010
+N Lewellyn Ave	Anaheim	92805
+N Lewis Rd	Camarillo	93010
+N Lewis St	Lake Elsinore	92530
+N Lewis St	Orange	92868
+N Lewis St	Santa Ana	92706
+N Lewis Valley Rd	Hemet	92544
+N Lexington Av	Santa Maria	93458
+N Lexington Ave	Santa Maria	93458
+N Lexington Dr	Folsom	95630
+N Lexington Pl	Hanford	93230
+N Leya Dr	Fresno	93727
+N Libby Rd	Paradise	95969
+N Liberty Ct	Visalia	93292
+N Liberty Ln	Anaheim	92805
+N Liberty St	Visalia	93292
+N Libra Rd	Thornton	95686
+N Licia Pl	Simi Valley	93065
+N Lido Ln	Anaheim	92801
+N Lido St	Anaheim	92801
+N Lighthouse Dr	Fresno	93730
+N Lighthouse Ln	Anaheim	92801
+N Liguria Wy	Mh	95391
+N Lihu St	Porterville	93257
+N Lilac Ave	Rialto	92376
+N Lilac Ln	Bre	92823
+N Lilac St	Lompoc	93436
+N Lilac St	San Bernardino	92407
+N Lilac St	Santa Maria	93458
+N Lilac St	Woodbridge	95258
+N Lilac Way	Upland	91786
+N Lilley Way	Coarsegold	93614
+N Lillian Av	Stockton	95215
+N Lillian Ln	Highland	92346
+N Lillie Ave	Fullerton	92831
+N Lily Ave	Sanger	93657
+N Lily Dr	Rialto	92377
+N Lima N Lima St	Burbank	91505
+N Lima St	Burbank	91504
+N Lima St	Burbank	91505
+N Lime Ave	Fullerton	92835
+N Lime St	La Habra	90631
+N Lime St	Orange	92865
+N Lime St	Orange	92868
+N Lime St	Porterville	93257
+N Lincoln	Corona	92882
+N Lincoln	Ventura	93001
+N Lincoln Av	Manteca	95336
+N Lincoln Ave	Corona	92882
+N Lincoln Ave	Fullerton	92831
+N Lincoln Ave	Manteca	95336
+N Lincoln Ave	Santa Ana	92701
+N Lincoln Ave	Santa Ana	92706
+N Lincoln Ct	San Bernardino	92407
+N Lincoln Dr	San Bernardino	92405
+N Lincoln Dr	San Bernardino	92411
+N Lincoln Oaks Rd	Stockton	95207
+N Lincoln St	Burbank	91504
+N Lincoln St	Burbank	91506
+N Lincoln St	Coalinga	93210
+N Lincoln St	Fort Bragg	 
+N Lincoln St	Orange	92865
+N Lincoln St	Orange	92866
+N Lincoln St	Orange	92867
+N Lincoln St	Redlands	92374
+N Lincoln St	Santa Maria	93454
+N Lincoln St	Santa Maria	93458
+N Lincoln St	Stockton	95203
+N Lincoln St	Stockton	95204
+N Lincoln Way	Galt	95632
+N Lind Ave	Fresno	93727
+N Linda Ln	Clovis	93619
+N Linda Ln	San Bernardino	92407
+N Linda Ln	Upland	91784
+N Linda Vista Ave	Ventura	93001
+N Linda Vista Ct	Visalia	93291
+N Linda Vista Dr	Banning	92220
+N Linda Vista St	Orange	92869
+N Linda Vista St	Visalia	93291
+N Linda Way	Porterville	93257
+N Lindale Pl	Porterville	93257
+N Lindale St	Porterville	93257
+N Lindale Way	Porterville	93257
+N Linden Ave	Fresno	93728
+N Linden Ave	Rialto	92376
+N Linden Ave	Rialto	92377
+N Linden Dr	Ventura	93004
+N Linden Pl	Anaheim	92801
+N Lindenholz St	Orange	92865
+N Lindley Dr	Porterville	93257
+N Lindo Ave	Chico	95973
+N Lindsay Ct	Visalia	93291
+N Lindsay St	Anaheim	92801
+N Lindsay St	Lake Elsinore	92530
+N Lindsay St	Visalia	93291
+N Lindsey	Lake Elsinore	92530
+N Lindsey Ave	Sanger	93657
+N Lindsey Dr	Palm Springs	92262
+N Line St	Hollister	95023
+N Linetta Dr	Santa Maria	93454
+N Link	Anaheim	92806
+N Link Rd	San Bruno	94128
+N Links Dr	Fresno	93730
+N Linn Rd	Acampo	95220
+N Linn Rd	Lodi	95240
+N Linwood Ave	Santa Ana	92701
+N Linwood Ave	Santa Ana	92705
+N Linwood Ct	Visalia	93291
+N Linwood St	Santa Ana	92705
+N Linwood St	Visalia	93291
+N Lipps Ln	Villa Park	92867
+N Lisa Pl	Orange	92865
+N Lisabeth Cmn	Santa Ana	92703
+N Lita	Simi Valley	93063
+N Lita Pl	Simi Valley	93063
+N Litras Dr	San Bernardino	92405
+N Little Dr	Pla	92870
+N Little Dr	Placentia	92870
+N Little League Dr	San Bernardino	92407
+N Little Main St	Orange	92868
+N Little Mountain Dr	San Bernardino	92405
+N Little Mountain Dr	San Bernardino	92407
+N Little Mountain Dr	San Bernardino	92415
+N Little Zion Manor Dr	San Bernardino	92411
+N Live Oak	Upland	91784
+N Live Oak Ave	Rialto	92377
+N Live Oak Dr	Fresno	93730
+N Live Oak St	San Bernardino	92407
+N Lloyd Ln	Stockton	95212
+N Ln	El Cajon	92021
+N Ln	San Ysidro	92173
+N Loara St	Anaheim	92801
+N Lobelia Ave	Upland	91784
+N Locan Ave	Clovis	93619
+N Locan Ave	Fresno	93727
+N Locan Ave	Fresno	93737
+N Lochmoor Ln	Fresno	93730
+N Lockewood Ln	Lockeford	95237
+N Lockhaven Dr	Bre	92821
+N Lockwood Creek Rd	Frazier Park	93225
+N Locust Av	Ripon	95366
+N Locust Ave	Oak Park	91377
+N Locust Ave	Rialto	92376
+N Locust Ave	Rialto	92377
+N Locust Ct	Visalia	93291
+N Locust Dr	Fullerton	92833
+N Locust St	Santa Maria	93458
+N Locust St	Stockton	95205
+N Locust St	Visalia	93291
+N Locust Tree Rd	Lodi	95240
+N Lodestone St	Woodbridge	95258
+N Lodi Ave	Fresno	93722
+N Logan St	Santa Ana	92701
+N Lohrum Ln	Ana	92807
+N Lohrum Ln	Anaheim	92807
+N Lois Ave	Thousand Oaks	91320
+N Lois St	La Habra	90631
+N Lola Ave	Fresno	93722
+N Loma Ave	San Bernardino	92404
+N Loma Dr	Lodi	95242
+N Loma Pl	Upland	91786
+N Loma Sola Ave	Upland	91786
+N Loma St	Villa Park	92867
+N Lombard Dr	Anaheim	92801
+N Lombard St	Oxnard	93030
+N Lombard St	Visalia	93291
+N Lombardi St	Porterville	93257
+N Lomita Ave	Fresno	93703
+N Lomita Ave	Ojai	93023
+N Lomita Clark Av	Burbank	91506
+N Lomita Dr	Ojai	93023
+N Lomita St	Anaheim	92801
+N Lomita St	Burbank	91506
+N London Pl	Anaheim	92806
+N Londonderry Ln	Orange	92869
+N Long Hollow Ct	Coarsegold	93614
+N Long Trail Ct	Heber	92249
+N Longbranch Cir	Bre	92821
+N Longfield Ln	Fresno	93730
+N Longhurst St	Orange	92867
+N Looking Glass Way	Upland	91784
+N Lookout Mountain Rd	Big Bear City	92314
+N Loop	El Centro	92243
+N Loop Blvd	Antelope	95843
+N Loop Dr	Camarillo	93010
+N Loop Dr	Ontario	91761
+N Lopez Pl	Tustin	92782
+N Loraine Pl	Simi Valley	93065
+N Loreta Ct	Camarillo	93010
+N Loretta Cir	Simi Valley	93065
+N Loretta Cr	Simi Valley	93065
+N Loretta St	Rialto	92376
+N Lori Ct	Woodbridge	95258
+N Lori Ln	San Bernardino	92407
+N Lorna Ave	Fresno	93705
+N Lorraine Dr	San Bernardino	92407
+N Lorraine Pl	Simi Valley	93065
+N Los Alamos Rd	Palm Springs	92262
+N Los Altos Dr	Bre	92821
+N Los Altos Pl	Orange	92869
+N Los Carneros Rd	Goleta	93117
+N Los Cedros Cir	Camarillo	93012
+N Los Feleics Cir	Palm Springs	92262
+N Los Felices	Palm Springs	92262
+N Los Felices Cir	Palm Springs	92262
+N Los Felices E Cir	Palm Springs	92262
+N Los Felices Rd	Palm Springs	92262
+N Los Feliz Dr	Highland	92346
+N Los Fresnos Cir	Camarillo	93012
+N Los Pinos Cir	Camarillo	93012
+N Los Robles Way	San Bernardino	92407
+N Los Vientos Dr	Thousand Oaks	91320
+N Lotas Pl	Porterville	93257
+N Lotas St	Porterville	93257
+N Lotas Way	Porterville	93257
+N Lotus Pl	Anaheim	92801
+N Lotus St	Anaheim	92801
+N Louie Ln	Linden	95236
+N Louisa Av	Thornton	95686
+N Louise Dr	Anaheim	92805
+N Louise St	San Bernardino	92405
+N Louise St	San Bernardino	92407
+N Louise St	Santa Ana	92703
+N Louise St	Santa Ana	92706
+N Lourae Ave	Reedley	93654
+N Love Ln	Orange	92865
+N Lovekin	Blythe	92225
+N Lovekin Blvd	Blythe	92225
+N Lovers Lane	Visalia	93292
+N Lowell Ln	Santa Ana	92706
+N Lowell St	Lake Elsinore	92530
+N Lowell St	Santa Ana	92703
+N Lowell St	Santa Ana	92706
+N Lower Sacramento Rd	Acampo	95220
+N Lower Sacramento Rd	Galt	95632
+N Lower Sacramento Rd	Lodi	95209
+N Lower Sacramento Rd	Lodi	95242
+N Lower Sacramento Rd	Lodi	95258
+N Lower Sacramento Rd	Stockton	95209
+N Lower Sacramento Rd	Stockton	95210
+N Lower Sacramento Rd	Woodbridge	95258
+N Lowery St	Porterville	93257
+N Lu Ann Pl	Porterville	93257
+N Lu Ann St	Porterville	93257
+N Lucas Ct	Thousand Oaks	91320
+N Lucas Dr	Santa Maria	93454
+N Lucerne Ln	Fresno	93728
+N Lucerne Way	Upland	91786
+N Lucero St	Camarillo	93010
+N Lucienne Dr	Stockton	95212
+N Lucille Ln	Lafayette	94549
+N Lucinda Ave	Upland	91784
+N Lucinda Way	Upland	91784
+N Lucy Ruiz Ave	Fresno	93723
+N Ludwig St	Villa Park	92867
+N Lugo Ave	San Bernardino	92404
+N Lugo Ave	San Bernardino	92408
+N Lugo Ave	San Bernardino	92410
+N Lugo Ln	Colton	92324
+N Lujo Cir	Palm Springs	92262
+N Lulitree Rd	Colton	92324
+N Lum Ave	Kerman	93630
+N Lunar Ave	Bre	92821
+N Lupine St	Lompoc	93436
+N Luring Dr	Palm Springs	92262
+N Luther Ave	Thousand Oaks	91360
+N Lycett St	Daly City	94015
+N Lydia St	La Habra	90631
+N Lyndhurst Ave	Camarillo	93010
+N Lyndon Dr	Colton	92324
+N Lynn Ave	Fresno	93720
+N Lynn Dr	Orange	92867
+N Lynn Rd	Thousand Oaks	91360
+N Lynne Dr	Santa Maria	93454
+N Lynwood Dr	Ana	92807
+N Lynwood Dr	Anaheim	92807
+N Lynwood Dr	Bre	92821
+N Lynwood Way	Highland	92346
+N Lyon Ave	Firebaugh	93622
+N Lyon Ave	Hemet	92543
+N Lyon Ave	Hemet	92545
+N Lyon Ave	Mendota	93640
+N Lyon Ave	San Jacinto	92582
+N Lyon Ave	Sanger	93657
+N Lyon St	Santa Ana	92701
+N Lyon St	Santa Ana	92705
+N Lytle Creek Rd	Lytle Creek	92358

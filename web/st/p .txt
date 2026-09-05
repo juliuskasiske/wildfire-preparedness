@@ -1,0 +1,37 @@
+P And S Ln	Newcastle	95658
+P Apts A & B St	Eureka	95501
+P C Ln	Colfax	95713
+P & F Alvarado	Calexico	92231
+P & F Alvarado Dr	Calexico	92231
+P Mendoza	Calexico	92231
+P Mendoza St	Calexico	92231
+P. Montejano Ave	Calexico	92231
+P Montejano St	Calexico	92231
+P. Montejano St. Ave	Calexico	92231
+P Montelano St	Calexico	92231
+P Rashid St	Calexico	92231
+P. Rashid St. St	Calexico	92231
+P St	Arcata	95521
+P St	Bakersfield	93301
+P St	Bakersfield	93304
+P St	Barstow	92311
+P St	Eureka	95501
+P St	Eureka	95503
+P St	Firebaugh	93622
+P St	Fortuna	95540
+P St	Fresno	93721
+P St	Huron	93234
+P St	Lincoln	95648
+P St	Newman	95360
+P St	Sacramento	95811
+P St	Sacramento	95814
+P St	Sacramento	95816
+P St	Sacramento	95819
+P St	Sanger	93657
+P Street	Live Oak	95953
+P Street	Merced	95340
+P Street	Merced	95341
+P Street	South Dos Palos	93665
+P Villanueva	Calexico	92231
+P Villanueva Ave	Calexico	92231
+P Villanueva Ct	Calexico	92231

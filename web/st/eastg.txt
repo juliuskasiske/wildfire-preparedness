@@ -1,0 +1,26 @@
+Eastgate	Santa Cruz	95062
+Eastgate Ave	Citrus Heights	95610
+Eastgate Ave	Concord	94520
+Eastgate Ave	San Jose	95116
+Eastgate Ave	Upland	91784
+Eastgate Avenue	Tulare	93274
+Eastgate Blvd	Ceres	95307
+Eastgate Ct	Riverside	92506
+Eastgate Ct	San Diego	92121
+Eastgate Dr	Daly City	94015
+Eastgate Dr	Denair	95316
+Eastgate Dr	San Diego	92121
+Eastgate Drive	Diamond Bar	91765
+Eastgate Ln	Martinez	94553
+Eastgate Ln	Montecito	93108
+Eastgate Mall	La Jolla	92037
+Eastgate Mall	San Diego	92121
+Eastgate Pkwy	Temecula	92591
+Eastgate Pky	Temecula	92591
+Eastgate Place	Glendale	91208
+Eastgate Rd	Barstow	92311
+Eastgate Rd	Palm Springs	92262
+Eastglen Dr	Rancho Santa Margarita	92679
+Eastglen Drive	La Verne	91750
+Eastglen St	San Diego	92131
+Eastgreen Dr	Murrieta	92563

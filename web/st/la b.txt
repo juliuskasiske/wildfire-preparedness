@@ -1,0 +1,137 @@
+La Bahada	Rancho Santa Fe	92067
+La Bahia Ave	Fountain Valley	92708
+La Baig Dr	Hollister	95023
+La Bajada	Laguna Niguel	92677
+La Bajada	Rancho Santa Fe	92067
+La Bajada Avenue	Whittier	90605
+La Ballen Drive	Walnut	91789
+La Ballena Cir	Fountain Valley	92708
+La Bandera Way	Sacramento	95828
+La Barbara Dr	Santa Barbara	93110
+La Barbara Dr	Santa Barbara Unincorporated	93110
+La Barbera Dr	San Jose	95126
+La Barca	Mission Viejo	92692
+La Barca Cir	Fountain Valley	92708
+La Barca Drive	La Mirada	90638
+La Barca Drive	Tarzana	91356
+La Barca Place	Tarzana	91356
+La Barca Rd	Moreno Valley	92551
+La Barca Road	La Mirada	90638
+La Barca St	Spring Valley	91977
+La Barca Way	Moreno Valley	92551
+La Baree Dr	Milpitas	95035
+La Baree Dr	Morgan Hill	95037
+La Barr Meadows Road	Grass Valley	95945
+La Barr Meadows Road	Grass Valley	95949
+La Barr Pines Drive	Grass Valley	95949
+La Barra Place	Hacienda Heights	91745
+La Barranca Dr	Solana Beach	92075
+La Barranca Rd	Los Altos Hills	94022
+La Barranca Rd	Perris	92570
+La Barranca Road	La Canada Flintridge	91011
+La Barthe Ln	San Carlos	94070
+La Batista Ave	Fountain Valley	92708
+La Baya Ave	Fountain Valley	92708
+La Baya Drive	Westlake Village	91362
+La Bella Av	Sunnyvale	94087
+La Bella Ave	Sunnyvale	94087
+La Bella Cir	North Highlands	95660
+La Bella Cir	Oceanside	92054
+La Bella Ct	Chico	95973
+La Bella Ct	Morgan Hill	95037
+La Bella Dr	North Tustin	92705
+La Bella Ter	Union City	94587
+La Bella Villa	Riverside	92503
+La Belle Ln	Perris	92570
+La Belle Street	Hacienda Heights	91745
+La Bellorita Street	South Pasadena	91030
+La Berth Ln	Menifee	92587
+La Bertha Ln	Menifee	92587
+La Bertha St	Menifee	92587
+La Boca Rd	San Jacinto	92582
+La Boca St	San Jacinto	92582
+La Bodega Way	Fontana	92336
+La Boheme Way	San Jose	95121
+La Boice	Glendale	91205
+La Boice Drive	Glendale	91205
+La Bolsa Rd	Walnut Creek	94598
+La Bolsita Way	Orinda	94563
+La Bon Way	San Diego	92113
+La Bonita Ave	Garden Grove	92843
+La Bonita Ave	Perris	92571
+La Bonita Circle	Cerritos	90703
+La Bonita Ct	Chico	95973
+La Bonita Ct	Rocklin	95677
+La Bonita Ct	San Marcos	92078
+La Bonita Donna	Temecula	92592
+La Bonita Dr	San Marcos	92078
+La Bonita Drive	Hacienda Heights	91745
+La Bonita Ln	Huntington Beach	92649
+La Bonita Ln	Huntington Beach	92649-5230
+La Bonita Ln	Huntington Beach	92649-5231
+La Bonita Place	Cerritos	90703
+La Bonita Road	Diamond Bar	91765
+La Bonita Way	Cerritos	90703
+La Bonita Way	Concord	94519
+La Bonita Way	San Marcos	92078
+La Bounty Ct	Citrus Heights	95610
+La Brea	Oxnard	93035
+La Brea Ave	Hemet	92545
+La Brea Ave	Madera	93638
+La Brea Avenue	Los Angeles	90008
+La Brea Avenue	Los Angeles	90016
+La Brea Avenue	Los Angeles	90019
+La Brea Avenue	Los Angeles	90028
+La Brea Avenue	Los Angeles	90036
+La Brea Avenue	Los Angeles	90038
+La Brea Avenue	Los Angeles	90043
+La Brea Avenue	Los Angeles	90046
+La Brea Avenue	Los Angeles	90056
+La Brea Court	Vallejo	94591
+La Brea Ct	Oceano	93445
+La Brea Dr	Thousand Oaks	91362
+La Brea Drive	Inglewood	90301
+La Brea Ln	Carpinteria	93013
+La Brea Rd	Palm Springs	92264
+La Brea St	Escondido	92026
+La Brea St	Laguna Beach	92651
+La Brea St	Oxnard	93035
+La Brea St	Ramona	92065
+La Brea Street	Salinas	93906
+La Brea Terrace	Los Angeles	90046
+La Brea Way	Oakley	94561
+La Brea Way	Yuba City	95993
+La Breda Avenue	West Covina	91791
+La Brida Ave	Chino	91710
+La Brisa	Rancho Santa Fe	92067
+La Brisa Cir	Fontana	92337
+La Brisa Ct	Salton City	92274
+La Brisa Dr	Joshua Tree	92252
+La Brisa Dr	Joshua Tree	92284
+La Brisa Dr	Sunfair	92252
+La Brisa Dr	Twentynine Palms	92277
+La Brisa Dr	Yucca Valley	92284
+La Brisa Drive	Malibu	90265
+La Brisa Rd	Joshua Tree	92252
+La Brisa Rd	Lake Forest	92630
+La Brisa Rd	Lake Forest	92630-4226
+La Brisa Rd	Victorville	92392
+La Brisa St	Jurupa Valley	92509
+La Brise	Laguna Niguel	92677
+La Brisis Way	Moreno Valley	92553
+La Brosa Pl	Foresthill	95631
+La Brucherie	El Centro	92243
+La Brucherie	Imperial	92251
+La Brucherie Ave	El Centro	92243
+La Brucherie Ave	Imperial	92251
+La Brucherie Dr	El Centro	92243
+La Brucherie Dr	Imperial	92251
+La Brucherie Rd	El Centro	92243
+La Brucherie Rd	Imperial	92251
+La Brucherie Rd B	Imperial	92251
+La Brusca Way	Carlsbad	92009
+La Buena Tierra	Santa Barbara Unincorporated	93111
+La Buena Tierra Ave	Twentynine Palms	92277
+La Buena Vida	Fallbrook	92028
+La Burnum Ln	Fountain Valley	92708
+La Butte Ln	Santee	92071

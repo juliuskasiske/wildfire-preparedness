@@ -1,0 +1,149 @@
+S K	Imperial	92251
+S K Ave	Imperial	92251
+S K Rd	Imperial	92251
+S K St	Bakersfield	93304
+S K St	Bakersfield	93307
+S K St	Imperial	92251
+S K St	Lompoc	93436
+S K St	Madera	93637
+S K St	Needles	92363
+S K St	Oxnard	93030
+S K St	Oxnard	93033
+S K St	San Bernardino	92410
+S K St	Santa Barbara Unincorporated	93436
+S K Street St	Imperial	92251
+S K Way	Imperial	92251
+S Kady Ave	Reedley	93654
+S Kaiser Rd	Stockton	95215
+S Kalbaugh St	Ramona	92065
+S Kalmia St	Escondido	92025
+S Kalorama	Ventura	93001
+S Kalorama Dr	Ventura	93001
+S Kalorama St	Ventura	93001
+S Karen Ave	Fresno	93725
+S Karen Ave	Fresno	93727
+S Karen Ave	Kerman	93630
+S Karen Ave	Santa Ana	92704
+S Karen Pl	Thousand Oaks	91320
+S Kasson Rd	Manteca	95337
+S Kasson Rd	Tracy	95304
+S Kate St	Mendota	93640
+S Katherine Dr	Ventura	93003
+S Katherine Rd	Simi Valley	93063
+S Kathleen Ln	Orange	92869
+S Kathy Ln	Anaheim	92802
+S Kathy Ln	Santa Ana	92704
+S Kavenish Dr	Rancho Mirage	92270
+S Kearney Ct	Tustin	92782
+S Keats St	Anaheim	92806
+S Keeble Ave	San Jose	95126
+S Kellog Ave	Fullerton	92833
+S Kellogg Av	Goleta	93117
+S Kellogg Ave	Corona	92879
+S Kellogg Rd	Newcastle	95658
+S Kellogg St	Lake Elsinore	92530
+S Kelly Rd	American Canyon	94503
+S Kelly Rd	Napa	94558
+S Kelsey Cir	Palm Desert	92211
+S Kelsey St	Visalia	93291
+S Kelsford Ct	Thousand Oaks	91361
+S Kelso Rd	Mh	95391
+S Kelso Rd	Mountain House	95391
+S Kelso Rd	Tracy	95391
+S Kendell Pl	Mh	95391
+S Kenmore Cir	Thousand Oaks	91320
+S Kenmore St	Anaheim	92804
+S Kenmore St	Coachella	92236
+S Kennedy Rd	Los Gatos	95030
+S Kennedy St	Visalia	93292
+S Kenneth Ave	Fowler	93625
+S Kenneth Ave	Kerman	93630
+S Kenneth Rd	Burbank	91501
+S Kensington Ave	Ontario	91762
+S Kensington Rd	Orange	92869
+S Kent Ct	Visalia	93277
+S Kent St	Visalia	93277
+S Kent Way	Ontario	91762
+S Kenton Ave	National City	91950
+S Kenton Dr	Santa Ana	92704
+S Kentucky Ave	Whittier	90603
+S Kerckhoff Way	Hanford	93230
+S Kern St	Bakersfield	93307
+S Kern St	La Habra	90631
+S Kessing St	Porterville	93257
+S Kestrel Ln	Stockton	95215
+S Kettering Ave	Ontario	91761
+S Kettering Dr	Ontario	91761
+S Keystone Dr (River Club)	Tracy	95304
+S Keystone St	Burbank	91506
+S Kiama St	Anaheim	92802
+S Kibbee Ave	Whittier	90603
+S Kibbee Ave	Whittier	90604
+S Kiely Blvd	San Jose	95117
+S Kiely Blvd	San Jose	95129
+S Kihridge Ln	Encinitas	92024
+S Kilroy Rd	Turlock	95380
+S Kilson Dr	Santa Ana	92701
+S Kilson Dr	Santa Ana	92707
+S Kimball Rd	Ventura	93003
+S Kimball Rd	Ventura	93004
+S Kincaid Ave	Caruthers	93609
+S Kincaid Ave	Riverdale	93656
+S Kincaid Rd	Manteca	95337
+S Kincaid St	Bakersfield	93307
+S King Cir	Anaheim	92805
+S King Rd	San Jose	95116
+S King Rd	San Jose	95122
+S King Rd	San Jose	95122-1518
+S King St	Bakersfield	93307
+S King St	Oxnard	93030
+S King St	Santa Ana	92704
+S Kings	Reedley	93654
+S Kings Court Dr	Anaheim	92804
+S Kings Court Ln	Anaheim	92804
+S Kings Dr	Reedley	93654
+S Kings River Ln	Ontario	91761
+S Kings River Rd	Parlier	93648
+S Kingsley St	Anaheim	92806
+S Kingsmill Ct	Fontana	92336
+S Kingston Ave	Laton	93242
+S Kingston Ave	Ontario	91761
+S Kingston St	San Mateo	94401
+S Kingswood Pkwy	Reedley	93654
+S Kinney Way	Anaheim	92805
+S Kirby Ave	Hemet	92545
+S Kirby Rd	Anza	92539
+S Kirby Rd	Hemet	92545
+S Kirby St	Hemet	92545
+S Kirby St	San Jacinto	92582
+S Kirk St	Fresno	93706
+S Kirkwood Cir	Ana	92808
+S Kirkwood Cir	Anaheim	92808
+S Klein Ave	Reedley	93654
+S Kloth Ct	Visalia	93277
+S Kloth Dr	Visalia	93277
+S Knickerbocker Dr	Sunnyvale	94087
+S Knight Ave	Fresno	93706
+S Knightbridge Dr	Santa Maria	93454
+S Knightbridge Dr	Santa Maria	93455
+S Knoll Rd	Mill Valley	94941
+S Knollwood Dr	Thousand Oaks	91320
+S Knott Ave	Anaheim	92804
+S Knott Ave	Buena Park	90620
+S Knott Ave	Buena Park	92804
+S Knox Ct	San Bernardino	92408
+S Knox St	Madera	93637
+S Knox St	Madera	93638
+S Knudson St	La Habra	90631
+S Koleen Ave	Kerman	93630
+S Koleen Ct	Kerman	93630
+S Kona Ave	Fresno	93727
+S Koster Rd	Tracy	95304
+S Kouri Ln	Anaheim	92804
+S Kraemer Blvd	Bre	92821
+S Kraemer Blvd	Brea	92821
+S Kraemer Blvd	Placentia	92870
+S Kram Ct	Manteca	95336
+S Kram Dr	Manteca	95336
+S Kroeger St	Anaheim	92805
+S Kyle Pl	Manteca	95336

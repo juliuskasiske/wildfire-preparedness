@@ -1,0 +1,7 @@
+76Th Ave	Thermal	92274
+76Th Place	Los Angeles	90001
+76Th Place	Los Angeles	90045
+76Th St	Sacramento	95820
+76Th Street	Los Angeles	90003
+76Th Street	Los Angeles	90047
+76Th Street West	Lancaster	93536

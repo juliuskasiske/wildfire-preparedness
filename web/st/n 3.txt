@@ -1,0 +1,48 @@
+N 30Th St	San Diego	92104
+N 30Th St	San Jose	95116
+N 31St St	San Diego	92102
+N 31St St	San Jose	95116
+N 32Nd St	San Diego	92102
+N 32Nd St	San Jose	95116
+N 33Rd St	San Jose	95116
+N 33Rd St	San Jose	95133
+N 34Th St	San Jose	95116
+N 3Rd	Brawley	92227
+N 3Rd	El Centro	92243
+N 3Rd Ave	Barstow	92311
+N 3Rd Ave	Blythe	92225
+N 3Rd Ave	Oakdale	95361
+N 3Rd Ave	San Bernardino	92407
+N 3Rd Ave	Upland	91784
+N 3Rd Ave	Upland	91786
+N 3Rd Rd	Brawley	92227
+N 3Rd St	Banning	92220
+N 3Rd St	Biola	93606
+N 3Rd St	Blythe	92225
+N 3Rd St	Brawley	92227
+N 3Rd St	Burbank	91502
+N 3Rd St	Burbank	91504
+N 3Rd St	Campbell	95008
+N 3Rd St	Cayucos	93430
+N 3Rd St	Chowchilla	93610
+N 3Rd St	Coalinga	93210
+N 3Rd St	Colton	92324
+N 3Rd St	Concord	94519
+N 3Rd St	El Cajon	92019
+N 3Rd St	El Cajon	92021
+N 3Rd St	El Centro	92243
+N 3Rd St	Fowler	93625
+N 3Rd St	Grover Beach	93433
+N 3Rd St	Hayward	94541
+N 3Rd St	Hayward	94546
+N 3Rd St	Orange Cove	93646
+N 3Rd St	Patterson	95363
+N 3Rd St	Sacramento	95811
+N 3Rd St	San Jose	95112
+N 3Rd St	Shandon	93461
+N 3Rd St	Unincorporated Alameda County	94546
+N 3Rd St	Yermo	92398
+N 3Rd St  296 E B St	Brawley	92227
+N 3Rd St & E Arrow Hwy	Upland	91785
+N 3Rd Street	King City	93930
+N 3Rd Street	Salinas	93906

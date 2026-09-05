@@ -1,0 +1,130 @@
+Calle Ebano	Indio	92203
+Calle Ecuestre	Santa Barbara Unincorporated	93117
+Calle Edmundo	Menifee	92586
+Calle Eduardo	Murrieta	92562
+Calle El Avion	Camarillo	93010
+Calle El Baranco	Santa Clarita	91390
+Calle El Camaron	Thousand Oaks	91360
+Calle El Cameron	Thousand Oaks	91360
+Calle El Capitan	Santa Clarita	91390
+Calle El Clavelito	Santa Clarita	91390
+Calle El Condor	Camarillo	93010
+Calle El Fuente	Santa Clarita	91390
+Calle El Halcon	Camarillo	93010
+Calle El Jornado	Santa Clarita	91390
+Calle El Nino	Hemet	92544
+Calle El Padre	Los Gatos	95032
+Calle El Parado	Santa Clarita	91390
+Calle El Potrero	Pauma Valley	92061
+Calle El Potrero	Valley Center	92082
+Calle El Rosario	Salinas	93908
+Calle El Sauce	Murrieta	92562
+Calle El Sauzal	San Juan Capistrano	92675
+Calle El Segundo	Palm Springs	92262
+Calle El Sol	Coachella	92236
+Calle El Toro	La Verne	91750
+Calle El Toro Grande	Lake Forest	92630
+Calle El Toro Grande	Lake Forest	92630-0000
+Calle El Toro Grande	Lake Forest	92630-3901
+Calle El Toro Grande	Lake Forest	92630-3902
+Calle El Toro Grande	Lake Forest	92630-3903
+Calle El Toro Grande	Lake Forest	92630-4501
+Calle El Toro Grande	Lake Forest	92630-4502
+Calle El Toro Grande	Lake Forest	92630-4503
+Calle El Toro Grande	Lake Forest	92630-4504
+Calle El Volador	Camarillo	93010
+Calle Elaina	Thousand Oaks	91360
+Calle Eldarica	Coachella	92236
+Calle Elegante	Bakersfield	93314
+Calle Elegante	Lake Forest	92630
+Calle Elegante	Montecito	93108
+Calle Elegante	Rancho Cucamonga	91737
+Calle Elegante	Thousand Oaks	91360
+Calle Elegante	Vista	92083
+Calle Elena	Temecula	92590
+Calle Elenita	Temecula	92591
+Calle Elentia	Temecula	92591
+Calle Elvira	Newberry Springs	92365
+Calle Embocadura	San Clemente	92673
+Calle Emelia	Coachella	92236
+Calle Emilia	San Clemente	92673
+Calle Emiliano	Menifee	92585
+Calle Empalme	Coachella	92236
+Calle Empalme	San Clemente	92672
+Calle Emparrado	San Marcos	92069
+Calle Empinada	San Diego	92120
+Calle Empinado	Novato	94949
+Calle Encantado	Temecula	92591
+Calle Encantado	Temecula	92592
+Calle Encanto	El Cajon	92019
+Calle Encilia	Palm Springs	92264
+Calle Encilia So	Palm Springs	92264
+Calle Encinitas	Rancho Mirage	92270
+Calle Enrique	Morgan Hill	95037
+Calle Ensenada	La Quinta	92253
+Calle Ensenada	Moreno Valley	92551
+Calle Ensenada	Santa Clarita	91390
+Calle Entrada	Elk Grove	95624
+Calle Entrada	Ybl	92887
+Calle Entrada	Yorba Linda	92887
+Calle Entradero	Murrieta	92563
+Calle Entradero	San Juan Capistrano	92675
+Calle Entre	Lemon Grove	91945
+Calle Escadera	Temecula	92590
+Calle Escala	Rancho Mirage	92270
+Calle Escalon	Camarillo	93010
+Calle Escalona	Temecula	92592
+Calle Escarlata	San Dimas	91773
+Calle Escarpada	Bonita	91902
+Calle Escondido	Santa Clarita	91390
+Calle Escoral	Desert Hot Springs	92240
+Calle Escorial	Camarillo	93012
+Calle Escorial	Desert Hot Springs	92240
+Calle Escuela	Chula Vista	91913
+Calle Escuela	Chula Vista	91915
+Calle Escuela	San Clemente	92672
+Calle Esmarca	San Clemente	92672
+Calle Espada	Bakersfield	93309
+Calle Espada	La Quinta	92253
+Calle Espana	San Dimas	91773
+Calle Espejo	Cathedral City	92234
+Calle Esperanza	Cathedral City	92234
+Calle Esperanza	La Quinta	92253
+Calle Esperanza	San Jose	95120
+Calle Esperanza	San Juan Capistrano	92675
+Calle Esperanza	Santa Barbara	93105
+Calle Espinosa	Temecula	92592
+Calle Esplanade	Riverside	92503
+Calle Espolon	Rancho Santa Margarita	92688
+Calle Espuela	Riverside	92504
+Calle Espuela Dr	Riverside	92504
+Calle Essencial	Santa Clarita	91390
+Calle Estacia	Murrieta	92562
+Calle Estado	La Quinta	92253
+Calle Estancia	Murrieta	92562
+Calle Estapa	Thousand Oaks	91360
+Calle Este	Walnut Creek	94597
+Calle Esteban	San Clemente	92673
+Calle Estela	Indio	92203
+Calle Estepa	Murrieta	92562
+Calle Estepa	Thousand Oaks	91360
+Calle Estepona	San Diego	92128
+Calle Estero	Rancho Santa Margarita	92688
+Calle Estillo Nuevo	San Clemente	92673
+Calle Estilo	Mission Viejo	92691
+Calle Estito	Walnut	91789
+Calle Estncia	Murrieta	92562
+Calle Estoria	Los Gatos	95030
+Calle Estrada	La Verne	91750
+Calle Estrada	Lancaster	93536
+Calle Estrado	Chula Vista	91910
+Calle Estrella	Brawley	92227
+Calle Estrella	Coachella	92236
+Calle Estrella	La Quinta	92253
+Calle Estrella	Montebello	90640
+Calle Estrella	Oceanside	92057
+Calle Estrella	San Dimas	91773
+Calle Estrella	Temecula	92592
+Calle Estrella De Mar	San Clemente	92673
+Calle Estribo	Rancho Santa Margarita	92688
+Calle Extrano	Bakersfield	93309

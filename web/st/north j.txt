@@ -1,0 +1,68 @@
+North J Street	Dinuba	93618
+North J Street	Tulare	93274
+North Jackie Street	Visalia	93291
+North Jackson Street	Dixon	95620
+North Jackson Street	Glendale	91205
+North Jackson Street	Glendale	91206
+North Jackson Street	Glendale	91207
+North Jacob Court	Visalia	93291
+North Jacob Street	Visalia	93291
+North Jalmia Drive	Los Angeles	90046
+North Jamie Avenue	Sylmar	91342
+North Janalinda Avenue	Covina	91722
+North Jansen Avenue	San Dimas	91773
+North Jardine Avenue	Sunland	91040
+North Jasmine Court	Sylmar	91342
+North Jasmine Drive	Porterville	93257
+North Jasmine Lane	Arcadia	91006
+North Jaye Street	Porterville	93257
+North Jaymills Avenue	Long Beach	90805
+North Jefferson Street	Dixon	95620
+North Jefferson Street	Tulare	93274
+North Jeffrey Drive	Dinuba	93618
+North Jeffries Avenue	Los Angeles	90065
+North Jenifer Avenue	Covina	91724
+North Jennifer Way	Porterville	93257
+North Jennings Drive	Los Angeles	90032
+North Jerseydale Avenue	Montebello	90640
+North Jessica Court	Farmersville	93223
+North Jewett Drive	Los Angeles	90046
+North Jimson Road	Los Angeles	90041
+North Joan Street	La Habra	90631
+North Joels Place	Los Angeles	90012
+North Joeys Court	Atwater	95301
+North Johanna Avenue	Sunland	91040
+North John Avenue	Long Beach	90805
+North John S Gibson Boulevard	San Pedro	90731
+North Johnson Avenue	Castaic	91384
+North Johnson Place	Porterville	93257
+North Johnson Street	Visalia	93291
+North Johnston Street	Los Angeles	90031
+North Jonah Lane	Los Angeles	90028
+North Jordan Avenue	Canoga Park	91303
+North Jordan Avenue	Canoga Park	91304
+North Jordan Avenue	Chatsworth	91311
+North Jotham Place	Long Beach	90807
+North Joy St	Corona	92879
+North Juanita Avenue	Los Angeles	90004
+North Juanita Avenue	Redondo Beach	90277
+North Juanita Street	La Habra	90631
+North Juarez Street	Montebello	90640
+North Judge John Aiso Street	Los Angeles	90012
+North Judson St	San Diego	92111
+North Judson Street	Los Angeles	90033
+North Julie Lane West	West Hills	91307
+North Julieann Court	Visalia	93291
+North Julieann Street	Visalia	93291
+North Jumilla Avenue	Chatsworth	91311
+North Jumilla Avenue	Winnetka	91306
+North Jumping Cactus Trail	Palmdale	93550
+North June Avenue	Farmersville	93223
+North June Court	Farmersville	93223
+North June Street	Los Angeles	90004
+North June Street	Los Angeles	90028
+North June Street	Los Angeles	90038
+North Juniper Street	Dorris	96023
+North Jupiter Street	Gustine	95322
+North Justice Way	Van Nuys	91405
+North Justin Court	Porterville	93257

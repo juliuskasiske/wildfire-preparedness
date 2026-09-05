@@ -1,0 +1,89 @@
+E I	Brawley	92227
+E I Ave	Brawley	92227
+E I Dr	Brawley	92227
+E I Ln	Brawley	92227
+E I St	Brawley	92227
+E I St	Chula Vista	91910
+E I St	Encinitas	92024
+E I St	Oakdale	95361
+E I St	Ontario	91764
+E I Way	Brawley	92227
+E Ida Ave	Cabazon	92230
+E Idylwild	Bass Lake	93604
+E Ike Crow Rd	Crows Landing	95313
+E Ila Dr	Orange	92865
+E Illinois Ave	Fresno	93701
+E Illinois Ave	Fresno	93702
+E Illinois Ave	Fresno	93727
+E Illinois St	Whittier	90601
+E Imperial Ct	Palm Desert	92211
+E Imperial Hwy	Bre	 
+E Imperial Hwy	Bre	92821
+E Imperial Hwy	Bre	92823
+E Imperial Hwy	Bre	92835
+E Imperial Hwy	Brea	92821
+E Imperial Hwy	Brea	92823
+E Imperial Hwy	Ful	 
+E Imperial Hwy	Ful	90631
+E Imperial Hwy	Ful	92835
+E Imperial Hwy	Fullerton	92835
+E Imperial Hwy	La Habra	90631
+E Imperial Hwy	Pla	92870
+E Imperial Hwy	Placentia	92870
+E Imperial Hwy	Ybl	 
+E Imperial Hwy	Ybl	92886
+E Imperial Pl	Ocotillo	92259
+E Imperial View Ct	Rocklin	95677
+E Independence St	San Bernardino	92408
+E Indian Gulch Rd	Mariposa	95338
+E Indian Hills Rd	Orange	92869
+E Indian Rock Rd	Vista	92084
+E Indian School Ln	Banning	92220
+E Indian Wells Ct	Anaheim	92807
+E Indiana St	Whittier	90601
+E Indiana St	Woodbridge	95258
+E Indianapolis Ave	Fresno	93704
+E Indianapolis Ave	Fresno	93726
+E Indianapolis Ave	Fresno	93727
+E Indigo Ct	Orange	92869
+E Indnpls Ave	Fresno	93704
+E Industrial Rd	San Bernardino	92408
+E Industrial St	Simi Valley	93063
+E Inger Dr	Santa Maria	93454
+E Inglewood St	Moorpark	93021
+E Ingram St	Stockton	95204
+E Ingram St	Stockton	95207
+E Inland Empire Blvd	Ontario	91764
+E International Ave	Clovis	93619
+E International Ave	Fresno	93730
+E Inverness Pl	Orange	92869
+E Inyo Ave	Newman	95360
+E Inyo St	Avenal	93204
+E Inyo St	Fresno	93702
+E Inyo St	Fresno	93727
+E Iowa Ave	Fresno	93701
+E Iowa Ave	Fresno	93702
+E Iowa Ave	Fresno	93727
+E Iowa Ave	Sunnyvale	94086
+E Irene St	Cabazon	92230
+E Iris Av	Stockton	95210
+E Iris Ave	Visalia	93292
+E Iris Ct	Visalia	93292
+E Iris Ln	Santa Maria	93454
+E Iris St	Oxnard	93033
+E Iron Oak Pl	Mh	95391
+E Ironbark Cir	Bre	92821
+E Ironwood Ave	Orange	92869
+E Isabelita Ct	Upland	91786
+E Isham Ave	Porterville	93257
+E Isidoro Av	Mh	95391
+E  Island Ct	Elk Grove	95758
+E Islay St	Santa Barbara	93101
+E Islay St	Santa Barbara	93103
+E Itasca Ln	Mh	95391
+E Ivy Ave	Coalinga	93210
+E Ivy Ct	Upland	91784
+E Ivy Hill Ln	Orange	92867
+E Ivy St	Colton	92324
+E Ivy St	Fallbrook	92028
+E Ivy St	Hanford	93230

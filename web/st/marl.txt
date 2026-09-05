@@ -1,0 +1,337 @@
+Marl Ave	Chula Vista	91911
+Marl Ct	Chula Vista	91911
+Marl Rd	Havasu Lake	92363
+Marl Rd	Needles	92363
+Marl Way	Carmichael	95608
+Marla Ave	Bakersfield	93312
+Marla Avenue	Canoga Park	91304
+Marla Ct	Elk Grove	95758
+Marla Ct	San Jose	95124
+Marla Ct	Tahoma	96142
+Marla Dr	American Canyon	94503
+Marla Way	Elk Grove	95758
+Marland Ct	Lincoln	95648
+Marland Street	La Puente	91746
+Marlar Ln	Squaw Valley	93675
+Marlatt St	Jurupa Valley	91752
+Marlatt St	Mira Loma	91752
+Marlaw Ct	Elk Grove	95757
+Marlaw Way	Elk Grove	95757
+Marlay Ave	Fontana	92337
+Marlay Drive	West Hollywood	90069
+Marlayana Ct	Elk Grove	95758
+Marlbank Dr	Paso Robles	93446
+Marlbank Pl	Paso Robles	93446
+Marlbarough Ave	Los Altos	94024
+Marlbarough Ct	Los Altos	94024
+Marlberry St	Santa Maria	93455
+Marlboro Court	Claremont	91711
+Marlboro Ct	Concord	94521
+Marlboro Ct	San Jose	95128
+Marlboro Ct	San Ramon	94583
+Marlboro Ct	Stockton	95210
+Marlboro Ln	Bell Canyon	91307
+Marlboro Pl	Modesto	95355
+Marlboro St	La Habra	90631
+Marlboro Street	Los Angeles	90049
+Marlboro Way	Banning	92220
+Marlboro Way	San Ramon	94583
+Marlborogh Ave	Riverside	92507
+Marlborough	Riverside	92507
+Marlborough Ave	Redwood City	94063
+Marlborough Ave	Riverside	92507
+Marlborough Ave	San Diego	92105
+Marlborough Ave	San Diego	92116
+Marlborough Avenue	Inglewood	90302
+Marlborough Cir	Westminster	92683
+Marlborough Court	Canoga Park	91304
+Marlborough Dr	Goleta	93117
+Marlborough Dr	San Diego	92116
+Marlborough Ln	Cambria	93428
+Marlborough Rd	Hillsborough	94010
+Marlborough Way	Bakersfield	93312
+Marlborough Way	Carmichael	95608
+Marlee Cir	Rocklin	95677
+Marlee Ct	Rocklin	95677
+Marlee Dr	Turlock	95380
+Marlee Ln	Camarillo	93012
+Marlee Ln	Paradise	95969
+Marlee Ln	Paso Robles	93446
+Marlee Rd	Pleasant Hill	94523
+Marlee Way	Rocklin	95677
+Marlee Way #1	Rocklin	95677
+Marlee Way #10	Rocklin	95677
+Marlee Way #100	Rocklin	95677
+Marlee Way #101	Rocklin	95677
+Marlee Way #102	Rocklin	95677
+Marlee Way #103	Rocklin	95677
+Marlee Way #105	Rocklin	95677
+Marlee Way #106	Rocklin	95677
+Marlee Way #107	Rocklin	95677
+Marlee Way #108	Rocklin	95677
+Marlee Way #109	Rocklin	95677
+Marlee Way #11	Rocklin	95677
+Marlee Way #110	Rocklin	95677
+Marlee Way #111	Rocklin	95677
+Marlee Way #112	Rocklin	95677
+Marlee Way #113	Rocklin	95677
+Marlee Way #114	Rocklin	95677
+Marlee Way #115	Rocklin	95677
+Marlee Way #116	Rocklin	95677
+Marlee Way #117	Rocklin	95677
+Marlee Way #118	Rocklin	95677
+Marlee Way #119	Rocklin	95677
+Marlee Way #12	Rocklin	95677
+Marlee Way #120	Rocklin	95677
+Marlee Way #121	Rocklin	95677
+Marlee Way #122	Rocklin	95677
+Marlee Way #123	Rocklin	95677
+Marlee Way #124	Rocklin	95677
+Marlee Way #125	Rocklin	95677
+Marlee Way #126	Rocklin	95677
+Marlee Way #127	Rocklin	95677
+Marlee Way #128	Rocklin	95677
+Marlee Way #129	Rocklin	95677
+Marlee Way #13	Rocklin	95677
+Marlee Way #130	Rocklin	95677
+Marlee Way #131	Rocklin	95677
+Marlee Way #132	Rocklin	95677
+Marlee Way #14	Rocklin	95677
+Marlee Way #15	Rocklin	95677
+Marlee Way #16	Rocklin	95677
+Marlee Way #17	Rocklin	95677
+Marlee Way #18	Rocklin	95677
+Marlee Way #19	Rocklin	95677
+Marlee Way #2	Rocklin	95677
+Marlee Way #20	Rocklin	95677
+Marlee Way #21	Rocklin	95677
+Marlee Way #22	Rocklin	95677
+Marlee Way #23	Rocklin	95677
+Marlee Way #24	Rocklin	95677
+Marlee Way #25	Rocklin	95677
+Marlee Way #26	Rocklin	95677
+Marlee Way #27	Rocklin	95677
+Marlee Way #28	Rocklin	95677
+Marlee Way #29	Rocklin	95677
+Marlee Way #3	Rocklin	95677
+Marlee Way #30	Rocklin	95677
+Marlee Way #31	Rocklin	95677
+Marlee Way #32	Rocklin	95677
+Marlee Way #33	Rocklin	95677
+Marlee Way #34	Rocklin	95677
+Marlee Way #35	Rocklin	95677
+Marlee Way #36	Rocklin	95677
+Marlee Way #37	Rocklin	95677
+Marlee Way #38	Rocklin	95677
+Marlee Way #39	Rocklin	95677
+Marlee Way #4	Rocklin	95677
+Marlee Way #40	Rocklin	95677
+Marlee Way #41	Rocklin	95677
+Marlee Way #42	Rocklin	95677
+Marlee Way #43	Rocklin	95677
+Marlee Way #44	Rocklin	95677
+Marlee Way #45	Rocklin	95677
+Marlee Way #46	Rocklin	95677
+Marlee Way #47	Rocklin	95677
+Marlee Way #48	Rocklin	95677
+Marlee Way #49	Rocklin	95677
+Marlee Way #5	Rocklin	95677
+Marlee Way #50	Rocklin	95677
+Marlee Way #51	Rocklin	95677
+Marlee Way #52	Rocklin	95677
+Marlee Way #53	Rocklin	95677
+Marlee Way #54	Rocklin	95677
+Marlee Way #55	Rocklin	95677
+Marlee Way #56	Rocklin	95677
+Marlee Way #57	Rocklin	95677
+Marlee Way #58	Rocklin	95677
+Marlee Way #59	Rocklin	95677
+Marlee Way #6	Rocklin	95677
+Marlee Way #60	Rocklin	95677
+Marlee Way #61	Rocklin	95677
+Marlee Way #62	Rocklin	95677
+Marlee Way #63	Rocklin	95677
+Marlee Way #64	Rocklin	95677
+Marlee Way #65	Rocklin	95677
+Marlee Way #66	Rocklin	95677
+Marlee Way #67	Rocklin	95677
+Marlee Way #68	Rocklin	95677
+Marlee Way #69	Rocklin	95677
+Marlee Way #7	Rocklin	95677
+Marlee Way #70	Rocklin	95677
+Marlee Way #71	Rocklin	95677
+Marlee Way #72	Rocklin	95677
+Marlee Way #73	Rocklin	95677
+Marlee Way #74	Rocklin	95677
+Marlee Way #75	Rocklin	95677
+Marlee Way #76	Rocklin	95677
+Marlee Way #77	Rocklin	95677
+Marlee Way #78	Rocklin	95677
+Marlee Way #79	Rocklin	95677
+Marlee Way #8	Rocklin	95677
+Marlee Way #80	Rocklin	95677
+Marlee Way #81	Rocklin	95677
+Marlee Way #82	Rocklin	95677
+Marlee Way #83	Rocklin	95677
+Marlee Way #84	Rocklin	95677
+Marlee Way #85	Rocklin	95677
+Marlee Way #86	Rocklin	95677
+Marlee Way #87	Rocklin	95677
+Marlee Way #88	Rocklin	95677
+Marlee Way #89	Rocklin	95677
+Marlee Way #9	Rocklin	95677
+Marlee Way #90	Rocklin	95677
+Marlee Way #91	Rocklin	95677
+Marlee Way #92	Rocklin	95677
+Marlee Way #93	Rocklin	95677
+Marlee Way #94	Rocklin	95677
+Marlee Way #95	Rocklin	95677
+Marlee Way #96	Rocklin	95677
+Marlee Way #97	Rocklin	95677
+Marlee Way #98	Rocklin	95677
+Marlee Way #99	Rocklin	95677
+Marlee Way #Unit 1	Rocklin	95677
+Marlei Rd	La Habra	90631
+Marleigh Knoll Ln	Applegate	95703
+Marlemont Cir	Elk Grove	95758
+Marlen Way	La Mesa	91942
+Marlena Way	Jamul	91935
+Marlena Way	Spring Valley	91978
+Marlene Ave	Garden Grove	92841
+Marlene Ave	Imperial	92251
+Marlene Ave	Redding	96002
+Marlene Ct	Modesto	95350
+Marlene Ct	Newman	95360
+Marlene Ct	Redding	96002
+Marlene Ct	Rohnert Park	94928
+Marlene Ct	San Jose	95118
+Marlene Dr	Lafayette	94549
+Marlene Dr	Orcutt	93455
+Marlene Dr	Sacramento	95821
+Marlene Dr	San Luis Obispo	93405
+Marlene Dr	Santa Maria	93455
+Marlene Dr	Twentynine Palms	92277
+Marlene Pl	Bakersfield	93304
+Marlene St	Hemet	92544
+Marlene St	Riverside	92503
+Marlene St	Riverside	92504
+Marlene St	Ukiah	 
+Marlesta Ct	Pinole	94564
+Marlesta Dr	San Diego	92111
+Marlesta Rd	Pinole	94564
+Marlette Avenue	Yuba City	95993
+Marlette Dr	San Jose	95121
+Marlette Dr	Tahoe City	96145
+Marlette Drive	La Mirada	90638
+Marlette Way	Lincoln	95648
+Marlewood Point Court	Canyon Country	91387
+Marley Cir	Sun City	92585
+Marley Ct	Stockton	95212
+Marley Dr	Riverside	92506
+Marley Dr	Sacramento	95821
+Marley Rd	Chula Vista	91911
+Marley Way	North Hills	91343
+Marlia Court	Tarzana	91356
+Marlie Ln	Petaluma	94952
+Marlies St	Simi Valley	93063
+Marlies Street	Agoura Hills	91301
+Marlin	Aptos	95003
+Marlin	Laguna Beach	92651
+Marlin Ave	Foster City	94404
+Marlin Ave	Mill Valley	94941
+Marlin Ave	Salton City	92274
+Marlin Ave	Seal Beach	90740
+Marlin Avenue	Visalia	93291
+Marlin Avenue	Visalia	93292
+Marlin Cir	Carmichael	95608
+Marlin Cir	La Palma	90623
+Marlin Court	Yuba City	95991
+Marlin Ct	Bakersfield	93308
+Marlin Ct	Chico	95973
+Marlin Ct	Discovery Bay	94505
+Marlin Ct	Hayward	94544
+Marlin Ct	Pinole	94564
+Marlin Ct	Redwood City	94065
+Marlin Ct	Rodeo	94572
+Marlin Ct	San Francisco	94124
+Marlin Ct	Stockton	95207
+Marlin Cv	Laguna Niguel	92677
+Marlin Dr	Cottonwood	96022
+Marlin Dr	Discovery Bay	94505
+Marlin Dr	Huntington Beach	92649
+Marlin Dr	Huntington Beach	92649-3580
+Marlin Dr	Huntington Beach	92649-3582
+Marlin Dr	Pittsburg	94565
+Marlin Dr	Redwood City	94065
+Marlin Dr	Roseville	95661
+Marlin Dr	Salton City	92274
+Marlin Dr	Vista	92084
+Marlin Drive	Hornbrook	96064
+Marlin Lane	Royal Oaks	95076
+Marlin Ln	Carlsbad	92011
+Marlin Pl	Discovery Bay	94505
+Marlin Pl	Rohnert Park	94928
+Marlin Pl	San Diego	92154
+Marlin Pl	Tracy	95376
+Marlin Place	Canoga Park	91303
+Marlin Place	Van Nuys	91405
+Marlin Place	Van Nuys	91406
+Marlin Place	West Hills	91307
+Marlin Seas Ct	Sacramento	95828
+Marlin Spike Way	Sacramento	95838
+Marlin Street	West Sacramento	95691
+Marlin Way	Corona	92881
+Marlin Way	Newport Beach	92660
+Marlin Way	Oxnard	93035
+Marlin Way	Royal Oaks	95076
+Marlinda Avenue	Baldwin Park	91706
+Marlinda Way	El Cajon	92021
+Marline Ave	El Cajon	92021
+Marlinspike Dr	Dana Point	92629
+Marlinton Ct	San Jose	95120
+Marlinton Drive	Whittier	90604
+Marlis Ln	Anza	92539
+Marlita Pl	Hermosa Beach	90254
+Marlita Place	Hermosa Beach	90254
+Marlo	Aptos	95003
+Marlo Ct	Hemet	92544
+Marlo Ct	Walnut Creek	94595
+Marlo Way	Riverside	92506
+Marloma Drive	Palos Verdes Peninsula	90274
+Marloma Ln	Arroyo Grande	93420
+Marlov Rd	Cottonwood	96022
+Marlow Ave	Tustin	92782
+Marlow Avenue	Bell Gardens	90201
+Marlow Ct	Bakersfield	93308
+Marlow Ct	Carmichael	95608
+Marlow Ct	Murrieta	92563
+Marlow Ct	Santa Rosa	95403
+Marlow Lane	Chatsworth	91311
+Marlow Lane	Porter Ranch	91326
+Marlow Lane	Yreka	96097
+Marlow Ln	Hemet	92545
+Marlow Ln	Paradise	95969
+Marlow Rd	Santa Rosa	95401
+Marlow Rd	Santa Rosa	95403
+Marlow St	Modesto	95351
+Marlowe Cir	Westminster	92683
+Marlowe Court	Stevenson Ranch	91381
+Marlowe Court	Vacaville	95687
+Marlowe Ct	Palm Desert	92211
+Marlowe Ct	Stockton	95210
+Marlowe Dr	Big Bear City	92314
+Marlowe Dr	Garden Grove	92841
+Marlowe Dr	San Diego	92115
+Marlowe Dr	San Jose	95124
+Marlowe Ln	Hayward	94544
+Marlowe St	Palo Alto	94301
+Marlowe St	Thousand Oaks	91360
+Marlowe Way	Fontana	92337
+Marlton Avenue	Los Angeles	90008
+Marlton Ct	Sacramento	95831
+Marlton Dr	San Diego	92104
+Marlyce Ln	Hemet	92543
+Marlyn Court	Merced	95340
+Marlyn Way	San Jose	95125
+Marlynn Ct	Escondido	92025
+Marlynn St	Carmichael	95608

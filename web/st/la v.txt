@@ -1,0 +1,184 @@
+La Vaca St	Lake Forest	92630
+La Vaca St	Lake Forest	92630-0000
+La Vaca St	Lake Forest	92630-4440
+La Vaca St	Lake Forest	92630-4441
+La Vaca St	Lake Forest	92630-4442
+La Vaca St	Lake Forest	92630-4515
+La Vaca St	Lake Forest	92630-4520
+La Vaca St	Lake Forest	92630-4521
+La Vaca St	Lake Forest	92630-4522
+La Vaca St	Lake Forest	92630-4523
+La Vaca St	Lake Forest	92630-4524
+La Vaca Way	Hanford	93230
+La Val Ct	Carmichael	95608
+La Valencia Ct	Brawley	92227
+La Valencia Ct	Brawley	92274
+La Valencia Ct	Elk Grove	95624
+La Valencia Dr	Brawley	92227
+La Valhalla Pl	El Cajon	92019
+La Valle Plateada	Rancho Santa Fe	92067
+La Valle Street	Sylmar	91342
+La Valley Rd	Paso Robles	93446
+La Vanco Ct	Carlsbad	92009
+La Varona Pl	Escondido	92025
+La Vaughn Cir	Corona	92881
+La Vaughn Dr	Garden Grove	92844
+La Vaughn St	Garden Grove	92844
+La Veda Avenue	Canyon Country	91387
+La Vela Avenue	Whittier	90605
+La Vela Ct	Morgan Hill	95037
+La Vella Dr	Oak Park	91377
+La Vella Rd	Temecula	92590
+La Velle Ct	Danville	94526
+La Venezia Court	Altadena	91001
+La Venta	Thousand Oaks	91361
+La Venta Dr	Poway	92064
+La Venta Dr	Santa Barbara Unincorporated	93110
+La Venta Dr	Thousand Oaks	91361
+La Venta Road	Westlake Village	91361
+La Venta Way	Sacramento	95835
+La Ventana	Murrieta	92562
+La Ventana	San Clemente	92672
+La Ventana Cir	Corona	92879
+La Ventana Ct	San Marcos	92078
+La Ventana Dr	Bre	92823
+La Ventana Dr	Brea	92823
+La Ventana Dr	Corona	92879
+La Ventana Rd	Menifee	92584
+La Ventana Rd	Murrieta	92562
+La Ventana Rd	Winchester	92596
+La Veque Street	Los Angeles	90063
+La Vera Court	Vacaville	95688
+La Vera Lane	Vacaville	95688
+La Verada Ct	Camarillo	93010
+La Veranda Pl	Martinez	94553
+La Verda Ln	Moreno Valley	92551
+La Verde Dr	San Marcos	92078
+La Verde Ln	San Marcos	92078
+La Vereda	La Jolla	92037
+La Vereda	Sonora	95370
+La Vereda Dr	La Habra	90631
+La Vereda Dr	North Tustin	92705
+La Vereda Dr.	Santa Ana	92705
+La Vereda Ln	Montecito	93108
+La Vereda Rd	Berkeley	94704
+La Vereda Rd	Berkeley	94708
+La Vereda Rd	Berkeley	94709
+La Vereda Rd	Montecito	93108
+La Vereda Road	Pasadena	91105
+La Verida Ct	Victorville	92395
+La Verida Dr	Victorville	92395
+La Verne Av	Orcutt	93455
+La Verne Ave	Oceano	93445
+La Verne Ave	Santa Maria	93455
+La Verne Ave	Santa Rosa	95404
+La Verne Ave	Ventura	93003
+La Verne Avenue	Long Beach	90803
+La Verne Court	Los Banos	93635
+La Verne Ct	Highland	92346
+La Verne Dr	Los Gatos	95033
+La Verne Dr	Rancho Cucamonga	91701
+La Verne Dr	Redwood Estates	95033
+La Verne Dr	Riverside	92505
+La Verne Ln	Anderson	96007
+La Verne Place	Long Beach	90803
+La Verne Rd	Redwood Estates	95033
+La Verne St	Redlands	92373
+La Verne Way	Palm Springs	92264
+La Verne Way	Sacramento	95864
+La Verta Ct	Rancho Cordova	95670
+La Vesu Rd	Fontana	92337
+La Veta Ave	Encinitas	92023
+La Veta Ave	Encinitas	92024
+La Veta Ct	Modesto	95350
+La Veta Dr	Camarillo	93012
+La Via Azul Ct	Morgan Hill	95037
+La Via De Paz	Anza	92539
+La Via Feliz	Rancho Santa Fe	92067
+La Via Way	Sacramento	95825
+La Vida	Aptos	95003
+La Vida	Newport Beach	92660
+La Vida Cir	Vista	92083
+La Vida Ct	Chula Vista	91915
+La Vida Ct	Fontana	92337
+La Vida Dr	Laguna Niguel	92677
+La Vida Dr	Lodi	95242
+La Vida Dr	Palm Springs	92262
+La Vida Drive	Lancaster	93535
+La Vida Lane	Arcadia	91007
+La Vida Ln	Arroyo Grande	93420
+La Vida Ln	Wilton	95693
+La Vida Real	Los Altos Hills	94022
+La Vida Way	Davis	95618
+La Villa Dr	Victorville	92395
+La Villa Ln	Huntington Beach	92649
+La Villa Ln	Huntington Beach	92649-3274
+La Villa Ln	Huntington Beach	92649-3275
+La Villa Ln	Huntington Beach	92649-3276
+La Villa Ln	Huntington Beach	92649-3277
+La Villa Marina	Marina Del Rey	90292
+La Villa Rose Ct	Modesto	95350
+La Villa Street	Downey	90241
+La Villa Way	Redding	96003
+La Vina Circle	Los Banos	93635
+La Vina Ct	Hemet	92544
+La Vina Ct	Roseville	95747
+La Vina Dr	Mission Viejo	92691
+La Vina Lane	Altadena	91001
+La Vina Lane	Whittier	90604
+La Vina St	Pacheco	94553
+La Vina Trl	Yucca Valley	92284
+La Vina Way	Oakley	94561
+La Vina Way	Pasadena	91107
+La Vina Way	Sacramento	95828
+La Vine Ct	Rancho Cucamonga	91701
+La Vine Ln	Vista	92084
+La Vine St	Rancho Cucamonga	91701
+La Vineda Ct	San Luis Obispo	93401
+La Virada Way	San Luis Obispo	93405
+La Vista Ave	Carmichael	95608
+La Vista Ave	Concord	94521
+La Vista Ave	Corona	92879
+La Vista Ave	El Cajon	92020
+La Vista Ave	La Mesa	91941
+La Vista Avenue	Baldwin Park	91706
+La Vista Court	Los Angeles	90004
+La Vista Ct	Arroyo Grande	93420
+La Vista Ct	Cathedral City	92234
+La Vista Ct	Concord	94521
+La Vista Ct	Morgan Hill	95037
+La Vista Ct	Oakley	94561
+La Vista Ct	Perris	92570
+La Vista Ct	Saratoga	95070
+La Vista Ct	Walnut Creek	94598
+La Vista Del Oceano Dr	Santa Barbara	93109
+La Vista Dr	Laguna Beach	92651
+La Vista Dr	Loomis	95650
+La Vista Dr	Oakley	94561
+La Vista Dr	Saratoga	95070
+La Vista Grande	Santa Barbara	93103
+La Vista Pl	Temecula	92592
+La Vista Place	Pasadena	91103
+La Vista Rd	Santa Barbara Unincorporated	93105
+La Vista Rd	Santa Barbara Unincorporated	93110
+La Vista Rd	Walnut Creek	94598
+La Vista Terrace	Glendale	91208
+La Vista Verde Drive	Rancho Palos Verdes	90275
+La Vista Way	Danville	94506
+La Vista Way	Paso Robles	93446
+La Vista Way	Poway	92064
+La Vista Way	San Rafael	94901
+La Vita Avenue	Pomona	91768
+La Vita Court	Valencia	91355
+La Vita Ct	San Diego	92131
+La Vita Dr	Stockton	95206
+La Vita Pl	La Habra	90631
+La Vonne Ave	Fallbrook	92028
+La Vonne Dr	Campbell	95008
+La Vue	Laguna Niguel	92677
+La Vuelta	Orinda	94563
+La Vuelta	Santa Paula	93060
+La Vuelta Ave	Lagunitas	94938
+La Vuelta Pl	Santa Paula	93060
+La Vuelta Rd	Montecito	93108
+La Vuelta Street	Vallejo	94590

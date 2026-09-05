@@ -1,0 +1,303 @@
+West L Street	Benicia	94510
+West L Street	Los Banos	93635
+West L Street	Wilmington	90744
+West La Alameda Avenue	San Pedro	90731
+West La Canada Way	Sunland	91040
+West La Cresta Court	Los Angeles	90038
+West La Crosse Street	Glendora	91741
+West La Cruz Drive	Pacific Palisades	90272
+West La Fetra Drive	Glendora	91741
+West La Grange Avenue	Los Angeles	90025
+West La Habra Boulevard	La Habra	90631
+West La Junta Trail	Canoga Park	91304
+West La Loma Road	Los Angeles	90041
+West La Mirada Avenue	Los Angeles	90029
+West La Mirada Avenue	Los Angeles	90038
+West La Presa Drive	La Habra	90631
+West La Presa Drive	Los Angeles	90068
+West La Punta Drive	Los Angeles	90068
+West La Reina Way	Long Beach	90813
+West La Rocha Drive	Los Angeles	90068
+West La Rue Street	San Fernando	91340
+West La Serna Avenue	La Habra	90631
+West La Serna Drive	La Habra	90631
+West La Sierra Drive	Arcadia	91007
+West La Tuna Canyon Road	Sun Valley	91352
+West La Tuna Canyon Road	Tujunga	91042
+West La Vereda Drive	La Habra	90631
+West La Verne Avenue	Pomona	91767
+West La Verne Avenue	Pomona	91768
+West La Vida Avenue	Porterville	93257
+West La Vida Avenue	Visalia	93277
+West La Vida Court	Porterville	93257
+West La Vida Court	Visalia	93277
+West La Vida Drive	Visalia	93277
+West La Vida Lane	Porterville	93257
+West Labrador Street	Northridge	91325
+West Laconia Boulevard	Los Angeles	90044
+West Lacota Place	Sherman Oaks	91403
+West Laguna Drive	La Habra	90631
+West Lake	Watsonville	95076
+West Lake Hollywood Drive	Los Angeles	90068
+West Lake Manor Drive	Canoga Park	91304
+West Lake Mendocino Dr	Ukiah	 
+West Lake Rd	Kirkwood	 
+West Lake Rd	Kirkwood	95646
+West Lake St	Point Arena	 
+West Lake Street	Mount Shasta	96067
+West Lake Street	Weed	96094
+West Lake Vista Drive	Agoura Hills	91301
+West Lake Vista Drive	Encino	91316
+West Lakeridge Place	Los Angeles	90068
+West Lakeside Drive	Burbank	91505
+West Lakeside Street	Sylmar	91342
+West Lakeview Avenue	Woodlake	93286
+West Lakewood Court	Visalia	93291
+West Lakewood Drive	Visalia	93291
+West Lambert Road	La Habra	90631
+West Lanark Street	Canoga Park	91304
+West Lanark Street	Winnetka	91306
+West Lancaster Boulevard	Lancaster	93534
+West Lancaster Boulevard	Lancaster	93535
+West Lancaster Boulevard	Lancaster	93536
+West Lancaster Road	Lancaster	93536
+West Landa Street	Los Angeles	90026
+West Landa Street	Los Angeles	90031
+West Landa Street	Los Angeles	90039
+West Landale Street	Studio City	91604
+West Lane	Winton	95388
+West Lanfranca Drive	Santa Clarita	91350
+West Langdale Avenue	Los Angeles	90041
+West Langley Drive	San Pedro	90732
+West Lania Lane	Beverly Hills	90210
+West Lano Court	Visalia	93291
+West Lantana Street	Compton	90220
+West Larga Avenue	Los Angeles	90039
+West Larissa Drive	Los Angeles	90026
+West Lark Avenue	Visalia	93291
+West Lark Court	Visalia	93291
+West Larke Ellen Circle	Los Angeles	90035
+West Larkspur Lane	Glendora	91740
+West Las Flores Avenue	Arcadia	91007
+West Las Flores Drive	Altadena	91001
+West Las Flores Drive	Los Angeles	90041
+West Las Lomas Drive	La Habra	90631
+West Las Pilas Road	Woodland Hills	91364
+West Las Plumas Lane	Tujunga	91042
+West Las Tunas Drive	San Gabriel	91776
+West Lassen Street	Chatsworth	91311
+West Lassen Street	North Hills	91343
+West Lassen Street	Northridge	91324
+West Lassen Street	Northridge	91325
+West Lassen Street	Northridge	91330
+West Lassen Street	San Fernando	91345
+West Latchwood Lane	La Habra	90631
+West Laughlin Lane	North Hollywood	91606
+West Laura Avenue	Visalia	93277
+West Laura Court	Visalia	93277
+West Laurel Avenue	Glendora	91741
+West Laurel Avenue	Pomona	91768
+West Laurel Avenue	Porterville	93257
+West Laurel Avenue	Sierra Madre	91024
+West Laurel Avenue	Visalia	93277
+West Laurel Court	Visalia	93277
+West Laurel Drive	Altadena	91001
+West Laurel Street	Compton	90220
+West Laurel Street	Compton	90221
+West Laurel Terrace Drive	Studio City	91604
+West Laurel View Drive	West Hollywood	90069
+West Laurelcrest Drive	Studio City	91604
+West Laurelmont Drive	Los Angeles	90046
+West Lauriston Avenue	Los Angeles	90025
+West Lava Road	Burney	96057
+West Laxford Street	Glendora	91740
+West Le Conte Avenue	Los Angeles	90024
+West Le Roy Avenue	Arcadia	91007
+West Leadora Avenue	Glendora	91741
+West Leadwell Street	Van Nuys	91405
+West Leadwell Street	Van Nuys	91406
+West Leadwell Street	Winnetka	91306
+West League Avenue	Tulare	93274
+West Lecco Lane	Pacific Palisades	90272
+West Leeds Court	Los Angeles	90065
+West Leeside Street	Glendora	91741
+West Leeward Avenue	Los Angeles	90005
+West Leewood Street	West Covina	91790
+West Legacy Avenue	Visalia	93291
+West Leighson Avenue	Visalia	93291
+West Leighton Avenue	Los Angeles	90037
+West Leighton Avenue	Los Angeles	90062
+West Leland Way	Los Angeles	90028
+West Lemarsh Street	Northridge	91325
+West Lemarsh Street	San Fernando	91345
+West Lemay Street	North Hollywood	91606
+West Lemay Street	Van Nuys	91405
+West Lemay Street	Van Nuys	91406
+West Lemon Avenue	Arcadia	91007
+West Lemon Avenue	Monrovia	91016
+West Lemon Grove Avenue	Los Angeles	90029
+West Lemon Grove Avenue	Los Angeles	90038
+West Lemon Tree Court	La Habra	90631
+West Lennox Street	Yreka	96097
+West Leonardo Avenue	Harbor City	90710
+West Leonora Drive	Woodland Hills	91367
+West Lerda Avenue	Tipton	93272
+West Leroy Avenue	Arcadia	91007
+West Leslie Drive	San Gabriel	91775
+West Lewis Street	Lindsay	93247
+West Lexington Avenue	Los Angeles	90029
+West Lexington Avenue	Los Angeles	90038
+West Lexington Avenue	Pomona	91766
+West Lexington Drive	Glendale	91203
+West Lexington Drive	Glendale	91206
+West Lexington Lane	San Pedro	90732
+West Liahona Place	Woodland Hills	91364
+West Liana Court	Porter Ranch	91326
+West Liberty Avenue	Atwater	95301
+West Liberty Avenue	Montebello	90640
+West Lighthall Street	West Covina	91790
+West Lila Place	Winnetka	91306
+West Lilac Place	Los Angeles	90026
+West Lilac Rd	Bonsall	92020
+West Lilac Rd	Escondido	92026
+West Lilac Rd	Valley Center	92082
+West Lilac Terrace	Los Angeles	90026
+West Lily Crest Avenue	Los Angeles	90029
+West Lime Avenue	Monrovia	91016
+West Lime Street	Inglewood	90301
+West Lincoln Avenue	Earlimart	93219
+West Lincoln Avenue	Montebello	90640
+West Lincoln Avenue	Weed	96094
+West Lincoln Avenue	Woodland	95695
+West Lincoln Road	El Nido	95317
+West Lincoln Road	Vallejo	94590
+West Lincoln Road	Vallejo	94591
+West Lincoln Street	Long Beach	90810
+West Linda Avenue	La Habra	90631
+West Linda Rosa Avenue	Los Angeles	90041
+West Linda Vista Avenue	Alhambra	91801
+West Linda Vista Avenue	Porterville	93257
+West Lindauer Drive	La Habra	90631
+West Lindbergh Street	Van Nuys	91406
+West Linden Avenue	Burbank	91502
+West Linden Avenue	Burbank	91506
+West Linden Avenue	Visalia	93291
+West Linden Court	Burbank	91502
+West Lindenhurst Avenue	Los Angeles	90036
+West Lindenhurst Avenue	Los Angeles	90048
+West Lindmore Street	Lindsay	93247
+West Linfield Street	Glendora	91740
+West Linforth Drive	Los Angeles	90068
+West Lingard Street	Lancaster	93536
+West Linn Point	San Jacinto	92582
+West Linnea Court	Winnetka	91306
+West Linscott Place	Los Angeles	90016
+West Lipson Court	Visalia	93291
+West Lisa Lane	Porterville	93257
+West Lisendra Drive	Visalia	93277
+West Live Oak Avenue	Arcadia	91006
+West Live Oak Avenue	Arcadia	91007
+West Live Oak Avenue	Temple City	91780
+West Live Oak Street	San Gabriel	91776
+West Liverpool Way	Porter Ranch	91326
+West Livingston Way	Los Angeles	90046
+West Livorno Avenue	Visalia	93291
+West Llewellyn Street	Los Angeles	90012
+West Lloyd Avenue	Porterville	93257
+West Lloyd Place	West Hollywood	90069
+West Ln	Angwin	94508
+West Ln	Big Bear City	92314
+West Ln	Burlingame	94010
+West Ln	Del Mar	92014
+West Ln	El Cajon	92021
+West Ln	Erwin Lake	92314
+West Ln	Granite Bay	95746
+West Ln	Herald	95638
+West Ln	Hesperia	92345
+West Ln	Jackson	 
+West Ln	Jackson	95642
+West Ln	San Pablo	94806
+West Ln	Sonora	95370
+West Ln	Stockton	95204
+West Ln	Stockton	95205
+West Ln	Stockton	95208
+West Ln	Stockton	95210
+West Lochleven Street	Glendora	91741
+West Locksley Place	Los Angeles	90068
+West Lockwood Avenue	Los Angeles	90029
+West Lode Court	Beale Afb	95903
+West Logan Avenue	Visalia	93291
+West Logandale Drive	Los Angeles	90068
+West Lois Avenue	Tulare	93274
+West Loma Alta Drive	Altadena	91001
+West Loma Verde Avenue	La Habra	90631
+West Loma Vista Place	Los Angeles	90039
+West Loma Vista Street	Pomona	91768
+West Lomita Avenue	Glendale	91204
+West Lomita Avenue	Glendale	91205
+West Lomita Boulevard	Carson	90745
+West Lomita Boulevard	Harbor City	90710
+West Lomita Boulevard	Lomita	90717
+West Lomita Boulevard	Wilmington	90744
+West London Street	Los Angeles	90026
+West Longden Avenue	Arcadia	91007
+West Longford Street	Sylmar	91342
+West Longhill Drive	Monterey Park	91754
+West Longhorn Drive	Chatsworth	91311
+West Longview Lane	San Pedro	90732
+West Lookout Mountain Avenue	Los Angeles	90046
+West Loop	Madera	93637
+West Lopes Avenue	Tulare	93274
+West Lopez Canyon Road	Sylmar	91342
+West Lorae Place	Los Angeles	90068
+West Loraine Street	Glendale	91202
+West Lorella Avenue	La Habra	90631
+West Lorenzo Place	Los Angeles	90064
+West Loreto Street	Los Angeles	90065
+West Los Alimos Street	Granada Hills	91344
+West Los Amigos Avenue	Montebello	90640
+West Los Angeles Avenue	Montebello	90640
+West Los Coyotes Diagonal	Long Beach	90815
+West Los Feliz Boulevard	Los Angeles	90027
+West Los Feliz Boulevard	Los Angeles	90039
+West Los Feliz Road	Glendale	91204
+West Los Hermosos Way	Los Angeles	90027
+West Los Liones Drive	Pacific Palisades	90272
+West Los Rosas Street	Canoga Park	91304
+West Los Tilos Road	Los Angeles	90068
+West Louie Road	Gazelle	96034
+West Louisa Avenue	West Covina	91790
+West Louisa Avenue	West Covina	91791
+West Louise Avenue	Los Angeles	90066
+West Louise Street	Long Beach	90805
+West Louisiana Avenue	Los Angeles	90025
+West Louvre Street	Pacoima	91331
+West Lowen Street	Wilmington	90744
+West Loy Lane	Los Angeles	90041
+West Loyola Avenue	Visalia	93277
+West Loyola Court	Visalia	93277
+West Lucerne Avenue	Culver City	90230
+West Luchessa Ave	Gilroy	95020
+West Lucien Street	Compton	90222
+West Lucile Street	Culver City	90230
+West Lucile Street	Los Angeles	90066
+West Lucille Avenue	West Covina	91790
+West Lucille Trail	Los Angeles	90046
+West Lucky Lane	North Hollywood	91605
+West Luddington Street	Sun Valley	91352
+West Lufkin Street	West Covina	91790
+West Lugger Way	Long Beach	90813
+West Luisa Avenue	Porterville	93257
+West Lull Street	Burbank	91504
+West Lull Street	Reseda	91335
+West Lull Street	Sun Valley	91352
+West Lumber Street	Lancaster	93534
+West Lumber Street	Lancaster	93536
+West Lumina Way	Van Nuys	91401
+West Luna Park	Los Angeles	90035
+West Lutge Avenue	Burbank	91506
+West Lybarger Avenue	Porterville	93257
+West Lyle Street	Sylmar	91342
+West Lynn Avenue	Tulare	93274
+West Lynn Way	Lancaster	93536
+West Lytelle Place	Los Angeles	90065

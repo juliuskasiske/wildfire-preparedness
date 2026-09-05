@@ -1,0 +1,876 @@
+W L Ave	Calimesa	92320
+W L Moreno St	Calexico	92231
+W L St	Colton	92324
+W La Brea Av	Santa Maria	93458
+W La Brea Ave	Santa Maria	93458
+W La Cadena Dr	Riverside	92501
+W La Canada Av	Mh	95391
+W La Canada Ct	Mh	95391
+W La Canada Dr	Bre	92821
+W La Cerra Dr	Rancho Mirage	92270
+W La Chiquita Ave	Los Gatos	95032
+W La Cienega Rd	San Marcos	92069
+W La Costa Ave	Fresno	93711
+W La Costa Cir	Palm Desert	92211
+W La Deney Dr	Ontario	91762
+W La Entrada Cir	Anaheim	92801
+W La Entrada Pl	Ful	92835
+W La Entrada Pl	Fullerton	92835
+W La Flor Ln	Mh	95391
+W La Gloria Dr	Rialto	92377
+W La Grange Ave	Thousand Oaks	91320
+W La Habra Blvd	La Habra	90631
+W La Jolla Dr	Stockton	95204
+W La Jolla St	Placentia	92870
+W La Loma Ave	Somis	93066
+W La Loma Dr	Rancho Cordova	95670
+W La Loma St	Colton	92324
+W La Mesa Av	Stockton	95207
+W La Morada Dr	Rialto	92377
+W La Palma Ave	Anaheim	92801
+W La Palma Ave	Anaheim	92805
+W La Palma Ave	Anaheim	92806
+W La Palma Ave	Buena Park	90620
+W La Palma St	Anaheim	92801
+W La Paz Ct	Simi Valley	93065
+W La Paz Dr	Tracy	95304
+W La Porte Ave	San Bernardino	92405
+W La Roda Ct	Ontario	91762
+W La Rosa Ln	Mh	95391
+W La Salle Ave	San Bernardino	92407
+W La Serena Dr	Bre	92821
+W La Sierra Dr	Fresno	93706
+W La Verne Ave	Santa Ana	92704
+W La Verne Ct	Mh	95391
+W La Verne St	Anaheim	92805
+W La  Veta Av	Orange	92868
+W La Veta Ave	Orange	92866
+W La Veta Ave	Orange	92868
+W La Vida Ave	Porterville	93257
+W La Vida Ave	Visalia	93277
+W La Vida Ct	Porterville	93257
+W La Vida Ct	Visalia	93277
+W La Vida Dr	Visalia	93277
+W La Vida Ln	Porterville	93257
+W Lacey Blvd	Hanford	93230
+W Ladd Dr	Mh	95391
+W Ladds Ct	San Bernardino	92411
+W Lafayette Dr	Anaheim	92801
+W Lafayette St	Stockton	95203
+W Laguna Ave	Five Points	93624
+W Laguna Ave	Fresno	93722
+W Laguna Ave	Fresno	93723
+W Laguna Ave	Riverdale	93656
+W Laguna Canyon Way	Bre	92821
+W  Laguna Ct	Elk Grove	95758
+W Laguna Dr	Cathedral City	92234
+W Laguna Pl	Anaheim	92801
+W  Laguna Way	Elk Grove	95758
+W Lake Blvd	Homewood	96141
+W Lake Blvd	Tahoe City	96141
+W Lake Blvd	Tahoe City	96145
+W Lake Blvd	Tahoma	96142
+W Lake Blvd #1	Homewood	96141
+W Lake Blvd #1	Tahoe City	96145
+W Lake Blvd #1	Tahoma	96142
+W Lake Blvd #10	Homewood	96141
+W Lake Blvd #10	Tahoe City	96145
+W Lake Blvd #10	Tahoma	96142
+W Lake Blvd #100	Homewood	96141
+W Lake Blvd #100	Tahoe City	96145
+W Lake Blvd #101	Homewood	96141
+W Lake Blvd #101	Tahoe City	96145
+W Lake Blvd #102	Homewood	96141
+W Lake Blvd #102	Tahoe City	96145
+W Lake Blvd #103	Homewood	96141
+W Lake Blvd #103	Tahoe City	96145
+W Lake Blvd #104	Homewood	96141
+W Lake Blvd #104	Tahoe City	96145
+W Lake Blvd #105	Homewood	96141
+W Lake Blvd #105	Tahoe City	96145
+W Lake Blvd #106	Homewood	96141
+W Lake Blvd #106	Tahoe City	96145
+W Lake Blvd #107	Homewood	96141
+W Lake Blvd #107	Tahoe City	96145
+W Lake Blvd #108	Homewood	96141
+W Lake Blvd #109	Homewood	96141
+W Lake Blvd #109	Tahoe City	96145
+W Lake Blvd #11	Homewood	96141
+W Lake Blvd #11	Tahoe City	96145
+W Lake Blvd #11	Tahoma	96142
+W Lake Blvd #110	Homewood	96141
+W Lake Blvd #110	Tahoe City	96145
+W Lake Blvd #111	Homewood	96141
+W Lake Blvd #111	Tahoe City	96145
+W Lake Blvd #112	Homewood	96141
+W Lake Blvd #112	Tahoe City	96145
+W Lake Blvd #113	Homewood	96141
+W Lake Blvd #113	Tahoe City	96145
+W Lake Blvd #114	Homewood	96141
+W Lake Blvd #114	Tahoe City	96145
+W Lake Blvd #115	Homewood	96141
+W Lake Blvd #115	Tahoe City	96145
+W Lake Blvd #116	Homewood	96141
+W Lake Blvd #116	Tahoe City	96145
+W Lake Blvd #117	Homewood	96141
+W Lake Blvd #117	Tahoe City	96145
+W Lake Blvd #118	Homewood	96141
+W Lake Blvd #118	Tahoe City	96145
+W Lake Blvd #119	Homewood	96141
+W Lake Blvd #119	Tahoe City	96145
+W Lake Blvd #12	Homewood	96141
+W Lake Blvd #12	Tahoe City	96145
+W Lake Blvd #12	Tahoma	96142
+W Lake Blvd #120	Homewood	96141
+W Lake Blvd #120	Tahoe City	96145
+W Lake Blvd #121	Homewood	96141
+W Lake Blvd #121	Tahoe City	96145
+W Lake Blvd #122	Homewood	96141
+W Lake Blvd #122	Tahoe City	96145
+W Lake Blvd #123	Homewood	96141
+W Lake Blvd #123	Tahoe City	96145
+W Lake Blvd #124	Homewood	96141
+W Lake Blvd #124	Tahoe City	96145
+W Lake Blvd #125	Homewood	96141
+W Lake Blvd #125	Tahoe City	96145
+W Lake Blvd #126	Homewood	96141
+W Lake Blvd #126	Tahoe City	96145
+W Lake Blvd #127	Homewood	96141
+W Lake Blvd #127	Tahoe City	96145
+W Lake Blvd #128	Homewood	96141
+W Lake Blvd #128	Tahoe City	96145
+W Lake Blvd #129	Homewood	96141
+W Lake Blvd #129	Tahoe City	96145
+W Lake Blvd #13	Homewood	96141
+W Lake Blvd #13	Tahoe City	96145
+W Lake Blvd #13	Tahoma	96142
+W Lake Blvd #130	Homewood	96141
+W Lake Blvd #130	Tahoe City	96145
+W Lake Blvd #131	Homewood	96141
+W Lake Blvd #131	Tahoe City	96145
+W Lake Blvd #132	Homewood	96141
+W Lake Blvd #132	Tahoe City	96145
+W Lake Blvd #133	Homewood	96141
+W Lake Blvd #133	Tahoe City	96145
+W Lake Blvd #134	Homewood	96141
+W Lake Blvd #134	Tahoe City	96145
+W Lake Blvd #135	Homewood	96141
+W Lake Blvd #135	Tahoe City	96145
+W Lake Blvd #136	Homewood	96141
+W Lake Blvd #136	Tahoe City	96145
+W Lake Blvd #137	Homewood	96141
+W Lake Blvd #137	Tahoe City	96145
+W Lake Blvd #138	Homewood	96141
+W Lake Blvd #138	Tahoe City	96145
+W Lake Blvd #139	Homewood	96141
+W Lake Blvd #139	Tahoe City	96145
+W Lake Blvd #14	Homewood	96141
+W Lake Blvd #14	Tahoe City	96145
+W Lake Blvd #14	Tahoma	96142
+W Lake Blvd #140	Homewood	96141
+W Lake Blvd #141	Homewood	96141
+W Lake Blvd #141	Tahoe City	96145
+W Lake Blvd #142	Homewood	96141
+W Lake Blvd #142	Tahoe City	96145
+W Lake Blvd #143	Homewood	96141
+W Lake Blvd #143	Tahoe City	96145
+W Lake Blvd #144	Homewood	96141
+W Lake Blvd #144	Tahoe City	96145
+W Lake Blvd #145	Homewood	96141
+W Lake Blvd #145	Tahoe City	96145
+W Lake Blvd #146	Homewood	96141
+W Lake Blvd #146	Tahoe City	96145
+W Lake Blvd #147	Homewood	96141
+W Lake Blvd #147	Tahoe City	96145
+W Lake Blvd #148	Homewood	96141
+W Lake Blvd #148	Tahoe City	96145
+W Lake Blvd #149	Homewood	96141
+W Lake Blvd #149	Tahoe City	96145
+W Lake Blvd #15	Homewood	96141
+W Lake Blvd #15	Tahoe City	96145
+W Lake Blvd #15	Tahoma	96142
+W Lake Blvd #150	Homewood	96141
+W Lake Blvd #150	Tahoe City	96145
+W Lake Blvd #151	Homewood	96141
+W Lake Blvd #151	Tahoe City	96145
+W Lake Blvd #152	Homewood	96141
+W Lake Blvd #152	Tahoe City	96145
+W Lake Blvd #153	Homewood	96141
+W Lake Blvd #153	Tahoe City	96145
+W Lake Blvd #154	Homewood	96141
+W Lake Blvd #154	Tahoe City	96145
+W Lake Blvd #155	Homewood	96141
+W Lake Blvd #155	Tahoe City	96145
+W Lake Blvd #156	Homewood	96141
+W Lake Blvd #156	Tahoe City	96145
+W Lake Blvd #157	Homewood	96141
+W Lake Blvd #158	Homewood	96141
+W Lake Blvd #159	Homewood	96141
+W Lake Blvd #16	Homewood	96141
+W Lake Blvd #16	Tahoe City	96145
+W Lake Blvd #16	Tahoma	96142
+W Lake Blvd #160	Homewood	96141
+W Lake Blvd #161	Homewood	96141
+W Lake Blvd #162	Homewood	96141
+W Lake Blvd #163	Homewood	96141
+W Lake Blvd #164	Homewood	96141
+W Lake Blvd #165	Homewood	96141
+W Lake Blvd #17	Homewood	96141
+W Lake Blvd #17	Tahoe City	96145
+W Lake Blvd #17	Tahoma	96142
+W Lake Blvd #18	Homewood	96141
+W Lake Blvd #18	Tahoe City	96145
+W Lake Blvd #18	Tahoma	96142
+W Lake Blvd #19	Homewood	96141
+W Lake Blvd #19	Tahoe City	96145
+W Lake Blvd #19	Tahoma	96142
+W Lake Blvd #2	Homewood	96141
+W Lake Blvd #2	Tahoe City	96145
+W Lake Blvd #2	Tahoma	96142
+W Lake Blvd #20	Homewood	96141
+W Lake Blvd #20	Tahoe City	96145
+W Lake Blvd #20	Tahoma	96142
+W Lake Blvd #201	Tahoe City	96145
+W Lake Blvd #202	Tahoe City	96145
+W Lake Blvd #203	Tahoe City	96145
+W Lake Blvd #204	Tahoe City	96145
+W Lake Blvd #205	Tahoe City	96145
+W Lake Blvd #206	Tahoe City	96145
+W Lake Blvd #207	Tahoe City	96145
+W Lake Blvd #208	Tahoe City	96145
+W Lake Blvd #209	Tahoe City	96145
+W Lake Blvd #21	Homewood	96141
+W Lake Blvd #21	Tahoe City	96145
+W Lake Blvd #21	Tahoma	96142
+W Lake Blvd #210	Tahoe City	96145
+W Lake Blvd #211	Tahoe City	96145
+W Lake Blvd #212	Tahoe City	96145
+W Lake Blvd #213	Tahoe City	96145
+W Lake Blvd #214	Tahoe City	96145
+W Lake Blvd #215	Tahoe City	96145
+W Lake Blvd #216	Tahoe City	96145
+W Lake Blvd #217	Tahoe City	96145
+W Lake Blvd #218	Tahoe City	96145
+W Lake Blvd #219	Tahoe City	96145
+W Lake Blvd #22	Homewood	96141
+W Lake Blvd #22	Tahoe City	96145
+W Lake Blvd #22	Tahoma	96142
+W Lake Blvd #220	Tahoe City	96145
+W Lake Blvd #223	Tahoe City	96145
+W Lake Blvd #224	Tahoe City	96145
+W Lake Blvd #225	Tahoe City	96145
+W Lake Blvd #226	Tahoe City	96145
+W Lake Blvd #227	Tahoe City	96145
+W Lake Blvd #228	Tahoe City	96145
+W Lake Blvd #229	Tahoe City	96145
+W Lake Blvd #23	Homewood	96141
+W Lake Blvd #23	Tahoe City	96145
+W Lake Blvd #23	Tahoma	96142
+W Lake Blvd #230	Tahoe City	96145
+W Lake Blvd #231	Tahoe City	96145
+W Lake Blvd #232	Tahoe City	96145
+W Lake Blvd #233	Tahoe City	96145
+W Lake Blvd #234	Tahoe City	96145
+W Lake Blvd #235	Tahoe City	96145
+W Lake Blvd #236	Tahoe City	96145
+W Lake Blvd #237	Tahoe City	96145
+W Lake Blvd #239	Tahoe City	96145
+W Lake Blvd #24	Homewood	96141
+W Lake Blvd #24	Tahoe City	96145
+W Lake Blvd #24	Tahoma	96142
+W Lake Blvd #240	Tahoe City	96145
+W Lake Blvd #241	Tahoe City	96145
+W Lake Blvd #242	Tahoe City	96145
+W Lake Blvd #243	Tahoe City	96145
+W Lake Blvd #244	Tahoe City	96145
+W Lake Blvd #245	Tahoe City	96145
+W Lake Blvd #246	Tahoe City	96145
+W Lake Blvd #247	Tahoe City	96145
+W Lake Blvd #248	Tahoe City	96145
+W Lake Blvd #249	Tahoe City	96145
+W Lake Blvd #25	Homewood	96141
+W Lake Blvd #25	Tahoe City	96145
+W Lake Blvd #25	Tahoma	96142
+W Lake Blvd #250	Tahoe City	96145
+W Lake Blvd #251	Tahoe City	96145
+W Lake Blvd #252	Tahoe City	96145
+W Lake Blvd #253	Tahoe City	96145
+W Lake Blvd #254	Tahoe City	96145
+W Lake Blvd #255	Tahoe City	96145
+W Lake Blvd #256	Tahoe City	96145
+W Lake Blvd #257	Tahoe City	96145
+W Lake Blvd #258	Tahoe City	96145
+W Lake Blvd #26	Homewood	96141
+W Lake Blvd #26	Tahoe City	96145
+W Lake Blvd #26	Tahoma	96142
+W Lake Blvd #27	Homewood	96141
+W Lake Blvd #27	Tahoe City	96145
+W Lake Blvd #27	Tahoma	96142
+W Lake Blvd #28	Homewood	96141
+W Lake Blvd #28	Tahoe City	96145
+W Lake Blvd #28	Tahoma	96142
+W Lake Blvd #29	Homewood	96141
+W Lake Blvd #29	Tahoe City	96145
+W Lake Blvd #29	Tahoma	96142
+W Lake Blvd #3	Homewood	96141
+W Lake Blvd #3	Tahoe City	96145
+W Lake Blvd #3	Tahoma	96142
+W Lake Blvd #30	Homewood	96141
+W Lake Blvd #30	Tahoe City	96145
+W Lake Blvd #30	Tahoma	96142
+W Lake Blvd #31	Homewood	96141
+W Lake Blvd #31	Tahoe City	96145
+W Lake Blvd #31	Tahoma	96142
+W Lake Blvd #32	Homewood	96141
+W Lake Blvd #32	Tahoe City	96145
+W Lake Blvd #32	Tahoma	96142
+W Lake Blvd #33	Homewood	96141
+W Lake Blvd #33	Tahoe City	96145
+W Lake Blvd #33	Tahoma	96142
+W Lake Blvd #34	Homewood	96141
+W Lake Blvd #34	Tahoe City	96145
+W Lake Blvd #34	Tahoma	96142
+W Lake Blvd #35	Homewood	96141
+W Lake Blvd #35	Tahoe City	96145
+W Lake Blvd #35	Tahoma	96142
+W Lake Blvd #36	Homewood	96141
+W Lake Blvd #36	Tahoe City	96145
+W Lake Blvd #36	Tahoma	96142
+W Lake Blvd #37	Homewood	96141
+W Lake Blvd #37	Tahoe City	96145
+W Lake Blvd #37	Tahoma	96142
+W Lake Blvd #38	Homewood	96141
+W Lake Blvd #38	Tahoma	96142
+W Lake Blvd #39	Homewood	96141
+W Lake Blvd #39	Tahoe City	96145
+W Lake Blvd #39	Tahoma	96142
+W Lake Blvd #4	Homewood	96141
+W Lake Blvd #4	Tahoe City	96145
+W Lake Blvd #4	Tahoma	96142
+W Lake Blvd #40	Homewood	96141
+W Lake Blvd #40	Tahoe City	96145
+W Lake Blvd #40	Tahoma	96142
+W Lake Blvd #41	Homewood	96141
+W Lake Blvd #41	Tahoe City	96145
+W Lake Blvd #41	Tahoma	96142
+W Lake Blvd #42	Homewood	96141
+W Lake Blvd #42	Tahoe City	96145
+W Lake Blvd #42	Tahoma	96142
+W Lake Blvd #43	Homewood	96141
+W Lake Blvd #43	Tahoe City	96145
+W Lake Blvd #43	Tahoma	96142
+W Lake Blvd #44	Homewood	96141
+W Lake Blvd #44	Tahoe City	96145
+W Lake Blvd #45	Homewood	96141
+W Lake Blvd #45	Tahoe City	96145
+W Lake Blvd #46	Homewood	96141
+W Lake Blvd #46	Tahoe City	96145
+W Lake Blvd #47	Homewood	96141
+W Lake Blvd #47	Tahoe City	96145
+W Lake Blvd #48	Tahoe City	96145
+W Lake Blvd #49	Homewood	96141
+W Lake Blvd #49	Tahoe City	96145
+W Lake Blvd #5	Homewood	96141
+W Lake Blvd #5	Tahoe City	96145
+W Lake Blvd #5	Tahoma	96142
+W Lake Blvd #50	Homewood	96141
+W Lake Blvd #50	Tahoe City	96145
+W Lake Blvd #51	Homewood	96141
+W Lake Blvd #51	Tahoe City	96145
+W Lake Blvd #52	Homewood	96141
+W Lake Blvd #52	Tahoe City	96145
+W Lake Blvd #53	Homewood	96141
+W Lake Blvd #53	Tahoe City	96145
+W Lake Blvd #54	Homewood	96141
+W Lake Blvd #54	Tahoe City	96145
+W Lake Blvd #55	Homewood	96141
+W Lake Blvd #55	Tahoe City	96145
+W Lake Blvd #56	Homewood	96141
+W Lake Blvd #56	Tahoe City	96145
+W Lake Blvd #57	Homewood	96141
+W Lake Blvd #57	Tahoe City	96145
+W Lake Blvd #58	Homewood	96141
+W Lake Blvd #58	Tahoe City	96145
+W Lake Blvd #59	Homewood	96141
+W Lake Blvd #59	Tahoe City	96145
+W Lake Blvd #6	Homewood	96141
+W Lake Blvd #6	Tahoe City	96145
+W Lake Blvd #6	Tahoma	96142
+W Lake Blvd #60	Homewood	96141
+W Lake Blvd #60	Tahoe City	96145
+W Lake Blvd #61	Homewood	96141
+W Lake Blvd #61	Tahoe City	96145
+W Lake Blvd #62	Homewood	96141
+W Lake Blvd #62	Tahoe City	96145
+W Lake Blvd #63	Homewood	96141
+W Lake Blvd #63	Tahoe City	96145
+W Lake Blvd #64	Homewood	96141
+W Lake Blvd #64	Tahoe City	96145
+W Lake Blvd #65	Homewood	96141
+W Lake Blvd #65	Tahoe City	96145
+W Lake Blvd #66	Homewood	96141
+W Lake Blvd #66	Tahoe City	96145
+W Lake Blvd #67	Homewood	96141
+W Lake Blvd #67	Tahoe City	96145
+W Lake Blvd #68	Homewood	96141
+W Lake Blvd #68	Tahoe City	96145
+W Lake Blvd #69	Tahoe City	96145
+W Lake Blvd #7	Homewood	96141
+W Lake Blvd #7	Tahoe City	96145
+W Lake Blvd #7	Tahoma	96142
+W Lake Blvd #70	Homewood	96141
+W Lake Blvd #70	Tahoe City	96145
+W Lake Blvd #71	Homewood	96141
+W Lake Blvd #72	Homewood	96141
+W Lake Blvd #72	Tahoe City	96145
+W Lake Blvd #73	Homewood	96141
+W Lake Blvd #73	Tahoe City	96145
+W Lake Blvd #74	Homewood	96141
+W Lake Blvd #74	Tahoe City	96145
+W Lake Blvd #75	Homewood	96141
+W Lake Blvd #75	Tahoe City	96145
+W Lake Blvd #76	Homewood	96141
+W Lake Blvd #76	Tahoe City	96145
+W Lake Blvd #77	Homewood	96141
+W Lake Blvd #77	Tahoe City	96145
+W Lake Blvd #78	Homewood	96141
+W Lake Blvd #78	Tahoe City	96145
+W Lake Blvd #79	Homewood	96141
+W Lake Blvd #79	Tahoe City	96145
+W Lake Blvd #8	Homewood	96141
+W Lake Blvd #8	Tahoe City	96145
+W Lake Blvd #8	Tahoma	96142
+W Lake Blvd #80	Homewood	96141
+W Lake Blvd #80	Tahoe City	96145
+W Lake Blvd #81	Homewood	96141
+W Lake Blvd #81	Tahoe City	96145
+W Lake Blvd #82	Homewood	96141
+W Lake Blvd #82	Tahoe City	96145
+W Lake Blvd #83	Homewood	96141
+W Lake Blvd #83	Tahoe City	96145
+W Lake Blvd #84	Homewood	96141
+W Lake Blvd #84	Tahoe City	96145
+W Lake Blvd #85	Homewood	96141
+W Lake Blvd #85	Tahoe City	96145
+W Lake Blvd #86	Homewood	96141
+W Lake Blvd #87	Homewood	96141
+W Lake Blvd #87	Tahoe City	96145
+W Lake Blvd #88	Homewood	96141
+W Lake Blvd #88	Tahoe City	96145
+W Lake Blvd #89	Homewood	96141
+W Lake Blvd #89	Tahoe City	96145
+W Lake Blvd #9	Homewood	96141
+W Lake Blvd #9	Tahoe City	96145
+W Lake Blvd #9	Tahoma	96142
+W Lake Blvd #90	Homewood	96141
+W Lake Blvd #90	Tahoe City	96145
+W Lake Blvd #91	Homewood	96141
+W Lake Blvd #91	Tahoe City	96145
+W Lake Blvd #92	Homewood	96141
+W Lake Blvd #92	Tahoe City	96145
+W Lake Blvd #93	Homewood	96141
+W Lake Blvd #93	Tahoe City	96145
+W Lake Blvd #94	Homewood	96141
+W Lake Blvd #94	Tahoe City	96145
+W Lake Blvd #95	Homewood	96141
+W Lake Blvd #95	Tahoe City	96145
+W Lake Blvd #96	Homewood	96141
+W Lake Blvd #96	Tahoe City	96145
+W Lake Blvd #97	Homewood	96141
+W Lake Blvd #97	Tahoe City	96145
+W Lake Blvd #98	Homewood	96141
+W Lake Blvd #98	Tahoe City	96145
+W Lake Blvd #99	Homewood	96141
+W Lake Blvd #99	Tahoe City	96145
+W Lake Center Dr	Santa Ana	92704
+W Lake Clark Ln	Tracy	95304
+W Lake Ct	Antioch	94509
+W Lake Dr	Antioch	94509
+W  Lake Dr	Elk Grove	95758
+W Lake Forest Ct	San Bernardino	92407
+W Lake Mendocino Dr	Ukiah	 
+W Lake Pl	Antioch	94509
+W Lake Placid Dr	San Bernardino	92407
+W Lake Rd	Kirkwood	95646
+W Lake St	Kingsburg	93631
+W Lake St	Point Arena	 
+W Lake Street	Salinas	93901
+W Lake Street	Salinas	93907
+W Lake Van Ness Cir	Fresno	93711
+W Lakeshore Dr	Lake Elsinore	92530
+W Lakeshore Dr	San Ramon	94582
+W Lakeside Dr	Burbank	91505
+W Lakeview Drive	Salinas	93907
+W Lakeview Rd	Lakeside	92040
+W Lakewood Ct	Visalia	93291
+W Lakewood Dr	Visalia	93291
+W Lamar Street	Salinas	93906
+W Lamark Dr	Anaheim	92802
+W Lamark Ln	Anaheim	92802
+W Lambert Rd	Bre	 
+W Lambert Rd	Bre	92821
+W Lambert Rd	Brea	92821
+W Lambert Rd	La Habra	90631
+W Lammers Rd	Tracy	95304
+W Lamona Ave	Fresno	93722
+W Lamona Ave	Fresno	93728
+W Lamplighter Ln	Upland	91784
+W Lancaster Dr	Stockton	95207
+W Lancaster Rd	Banning	92220
+W Lancia St	Mh	95391
+W Land Park Dr	Sacramento	95822
+W Landon Ct	San Bernardino	92407
+W Lanerose Dr	Anaheim	92804
+W Lang St	Hanford	93230
+W Langden Dr	Fresno	93722
+W Langston St	Upland	91786
+W Lano Ct	Visalia	93291
+W Lansing Way	Fresno	93705
+W Lansing Way	Fresno	93722
+W Lansing Way	Fresno	93723
+W Lantern Ln	Anaheim	92801
+W Laramie Rd	Altu	96101
+W Laramore Ln	Santa Ana	92706
+W Larch Rd	Tracy	95304
+W Larcom St	Thousand Oaks	91360
+W Larenzo St	Mh	95391
+W Lark Ave	Visalia	93291
+W Lark Ct	Visalia	93291
+W Lark St	Colton	92324
+W Larkspur Dr	Orange	92868
+W Laroda Ct	Ontario	91762
+W Larry Sheffield Ln	Colton	92324
+W Larsen	Imperial	92251
+W Larsen Ave	Fresno	93706
+W Larsen Ct	Imperial	92251
+W Larsen Rd	Imperial	92251
+W Larsen St	Imperial	92251
+W Larson Rd	Lodi	95242
+W Las Brisas Dr	Mh	95391
+W Las Flores Way	Santa Maria	93458
+W Las Flores Wy	Santa Maria	93458
+W Las Lanas Ln	Fullerton	92833
+W Las Lomas Dr	Bre	92821
+W Las Palmas Ave	Patterson	95363
+W Las Palmas Cir	Orange	92868
+W Las Palmas Dr	Ful	92835
+W Las Palmas Dr	Fullerton	92835
+W Las Tablas Wy	Mh	95391
+W Lassen Ave	Chico	95973
+W Lassen Ct	San Bernardino	92410
+W Laster Ave	Anaheim	92802
+W Latham	Hemet	92545
+W Latham Ave	Hemet	92543
+W Latham Ave	Hemet	92545
+W Latham St	Hemet	92543
+W Lathrop Rd	Lathrop	95330
+W Lathrop Rd	Manteca	95336
+W Latimer Ave	Campbell	95008
+W Latimer Ave	San Jose	95130
+W Latta Ave	Cantua Creek	93608
+W Lauffer Rd	Thornton	95686
+W Launer Rd	Bre	92821
+W Laura Ave	Visalia	93277
+W Laura Ct	Visalia	93277
+W Laurel Av	Lompoc	93436
+W Laurel Ave	Porterville	93257
+W Laurel Ave	Visalia	93277
+W Laurel Ct	Visalia	93277
+W Laurel Drive	Salinas	93906
+W Laurel Drive Drive	Salinas	93906
+W Laurel Pl	Anaheim	92801
+W Laurel St	Colton	92324
+W Laurel St	Fort Bragg	 
+W Laurel St	Oxnard	93033
+W Laurel St	San Diego	92101
+W Laurel Valley Ave	Banning	92220
+W Laurelwood Ln	Lake Elsinore	92530
+W Laurendale Dr	Fresno	93722
+W Lautrec	Thousand Oaks	91360
+W Lautrec Ct	Thousand Oaks	91360
+W Lavender Ln	Bre	92821
+W Lawnwood Way	Oxnard	93030
+W Lawson St	Caruthers	93609
+W Le Point St	Arroyo Grande	93420
+W Le Rida Av	Santa Maria	93458
+W Le Rida Ave	Santa Maria	93458
+W Leaf Av	Stockton	95207
+W Leah Ct	Upland	91784
+W Lee	Imperial	92251
+W Lee Dr	Imperial	92251
+W Lee Dr	San Bernardino	92405
+W Lee Dr	Santa Maria	93458
+W Lee Rd	Imperial	92251
+W Leeward Ct	Tracy	95304
+W Legacy Ave	Visalia	93291
+W Legacy Dr	Mh	95391
+W Legacy Oaks Ln	Thousand Oaks	91320
+W Legion	Brawley	92227
+W Legion	El Centro	92243
+W Legion Ave	Brawley	92227
+W Legion Blvd	Brawley	92227
+W Legion Rd	Brawley	92227
+W Lehman Rd	Tracy	95304
+W Lehman Way	Anaheim	92805
+W Lehnhardt Ave	Santa Ana	92704
+W Leighson Ave	Visalia	93291
+W Leiske Dr	Rialto	92376
+W Leland Rd	Bay Point	94565
+W. Leland Rd	Pittsburg	94556
+W Leland Rd	Pittsburg	94565
+W Lemon Av	Lompoc	93436
+W Lemon Ave	Fresno	93706
+W Lemon Pl	Lompoc	93436
+W Lemon St	Bre	92821
+W Lemon St	Brea	92821
+W Lemon St	Santa Maria	93454
+W Lemon St	Santa Maria	93458
+W Lemonwood Dr	Upland	91786
+W Lennox Ct	Bre	92821
+W Lenwood Sq	Upland	91786
+W Leonora St	Anaheim	92805
+W Leslie Ct	Colton	92324
+W Leta Ln	San Bernardino	92407
+W Leucadia Blvd	Encinitas	92024
+W Levee Rd	Winterhaven	92283
+W Level Ave	Anaheim	92804
+W Levers Pl	Orange	92867
+W Lewis St	Madera	93637
+W Lewis St	Rialto	92377
+W Lewis St	San Diego	92103
+W Lewis St	Ventura	93001
+W Lewiston Ave	Riverdale	93656
+W Lexington Ave	El Cajon	92020
+W Lexington Ave	Fresno	93711
+W Liberty Ct	Gridley	95948
+W Liberty Pkwy	Fontana	92335
+W Liberty Pkwy	Fontana	92336
+W Liberty Pkwy N	Fontana	92336
+W Liberty Rd	Gridley	95948
+W Liberty St	Hanford	93230
+W Liberty St	Santa Maria	93458
+W Lido Pl	Anaheim	92801
+W Lilac Ave	Reedley	93654
+W Lilac Ave	Santa Ana	92704
+W Lilac Rd	Bonsall	92003
+W Lilac Rd	Escondido	92026
+W Lilac Rd	Valley Center	92082
+W Lilliana Dr	Palm Springs	92264
+W Lily Ave	Upland	91784
+W Lime Av	Lompoc	93436
+W Lime St	Bre	92821
+W Lime St	Santa Ana	92701
+W Limerick Av	Mh	95391
+W Limited Ave	Lake Elsinore	92530
+W Limited St	Lake Elsinore	92530
+W Lincoln	Banning	92220
+W Lincoln	Calexico	92231
+W Lincoln	El Centro	92243
+W Lincoln	San Joaquin	93660
+W Lincoln Av	Orange	92865
+W Lincoln Ave	Anaheim	92801
+W Lincoln Ave	Anaheim	92802
+W Lincoln Ave	Anaheim	92804
+W Lincoln Ave	Anaheim	92805
+W Lincoln Ave	Banning	92220
+W Lincoln Ave	Buena Park	90620
+W Lincoln Ave	Chico	95926
+W Lincoln Ave	El Centro	92243
+W Lincoln Ave	Escondido	92026
+W Lincoln Ave	Fresno	93706
+W Lincoln Ave	Kerman	93630
+W Lincoln Ave	Madera	93638
+W Lincoln Ave	Napa	94558
+W Lincoln Ave	Orange	 
+W Lincoln Ave	Orange	92865
+W Lincoln Ave	Sacramento	95818
+W Lincoln Ave	San Bernardino	92411
+W Lincoln Ave	San Joaquin	93660
+W Lincoln Ave	Tranquillity	93668
+W Lincoln Ave 1/2	Madera	93638
+W Lincoln Blvd	Anaheim	92801
+W Lincoln Center	Stockton	95207
+W Lincoln Rd	Stockton	95207
+W Lincoln St	Banning	92220
+W Lincoln St	Calexico	92231
+W Lincoln St	Oroville	95966
+W Lincoln St	San Bernardino	92411
+W Lincoln Way	Santa Ana	92703
+W Linda Ct	Colton	92324
+W Linda Mesa Ave	Danville	94526
+W Linda Vista Ave	Porterville	93257
+W Lindacita Ln	Anaheim	92804
+W Linde Vista Dr	Rialto	92377
+W Lindell Ln	Santa Ana	92704
+W Linden Ave	Burbank	91502
+W Linden Ave	Burbank	91506
+W Linden Ave	Reedley	93654
+W Linden Ave	Visalia	93291
+W Linden Ct	Burbank	91502
+W Linden Ct	Upland	91786
+W Linden Dr	Orange	92865
+W Linden Dr	Oxnard	93033
+W Linden St	Ontario	91762
+W Linden St	Riverside	92507
+W Linden Way	Bre	92821
+W Lindo Ave	Chico	95926
+W Lindquist St	Kingsburg	93631
+W Lindsay St	Stockton	95203
+W Lingan Ln	Santa Ana	92704
+W Linne Rd	Tracy	95304
+W Linne Rd	Tracy	95377
+W Linville Ln	Colton	92324
+W Linwood Ave	Crows Landing	95313
+W Linwood Ave	Crows Landing	95380
+W Linwood Ave	Turlock	95380
+W Lipson Ct	Visalia	93291
+W Lisa Ln	Porterville	93257
+W Lisa Marie Ct	Tracy	95304
+W Lisbon St	Upland	91784
+W Lisendra Dr	Visalia	93277
+W Little League Dr	San Bernardino	92407
+W Litton Ave	Colton	92324
+W Litton Ave	Grand Terrace	92313
+W Live Oak Dr	Mill Valley	94941
+W Liverpool Ln	Anaheim	92804
+W Livingston St	Banning	92220
+W Livorno Ave	Visalia	93291
+W Lloyd Ave	Porterville	93257
+W Locke Ave	Firebaugh	93622
+W Lockeford St	Lodi	95240
+W Lockeford St	Lodi	95242
+W Lockwood Valley Rd	Maricopa	93252
+W Locust	Anaheim	92802
+W Locust Av	Lompoc	93436
+W Locust Ave	Anaheim	92802
+W Locust Ave	Fresno	93650
+W Locust Ave	Fresno	93711
+W Locust Ave	Fresno	93722
+W Locust Dr	Lodi	95240
+W Locust St	Lodi	95240
+W Locust St	Lodi	95242
+W Locust St	Ontario	91762
+W Lodge Ave	Anaheim	92801
+W Lodi Av	Lodi	95240
+W Lodi Av	Lodi	95242
+W Lodi Pl	Anaheim	92804
+W Logan Ave	Visalia	93291
+W Loker Ave	Carlsbad	92010
+W Loker Ave W	Carlsbad	92010
+W Lolita Ln	Santa Maria	93458
+W Loma Dr	Ojai	93023
+W Loma Linda Ave	Fresno	93711
+W Loma Roja	Colton	92324
+W Loma Roja Dr	Colton	92324
+W Loma Verde	Colton	92324
+W Loma Verde Ave	La Habra	90631
+W Loma Vista Dr	Rialto	92377
+W Lombard Pl	Anaheim	92801
+W Lombardo Dr	Santa Ana	92704
+W Lomita Ave	Ojai	93023
+W Lomita Blvd	Carson	90745
+W Lomita Ct	San Bernardino	92405
+W Lomita Pl	Anaheim	92801
+W Lomita Rd	San Bernardino	92405
+W Lonetree Blvd	Rocklin	95765
+W Lonetree Blvd #301	Rocklin	95765
+W Lonetree Blvd #302	Rocklin	95765
+W Lonetree Blvd #303	Rocklin	95765
+W Lonetree Blvd #304	Rocklin	95765
+W Lonetree Blvd #305	Rocklin	95765
+W Long Av	Eureka	95501
+W Long Beach Dr	Colton	92324
+W Long St	Eureka	95501
+W Longview Av	Stockton	95207
+W Lookout Ct	Upland	91784
+W Loop Dr	Camarillo	93010
+W Loquat Av	Lompoc	93436
+W Loquat Ct	Lompoc	93436
+W Loramar Ln	Tracy	95304
+W Lorane Way	Anaheim	92802
+W Lorena Ave	Fresno	93706
+W Lorena Dr	Anaheim	92804
+W Lorenzen Rd	Tracy	95304
+W Loretta Av	Stockton	95207
+W Loretta Ln	Santa Ana	92706
+W Lori Ln	Santa Ana	92706
+W Lorraine Dr	Upland	91784
+W Lorraine Pl	Rialto	92376
+W Lorraine Rd	Tracy	95377
+W Lory Ave	Anaheim	92802
+W Los Altos Ave	Fresno	93704
+W Los Altos Ave	Fresno	93711
+W Los Altos Ave	Fresno	93722
+W Los Angeles	Moorpark	93021
+W Los Angeles Av	Moorpark	93021
+W Los Angeles Ave	Fillmore	93015
+W Los Angeles Ave	Moorpark	93021
+W Los Angeles Ave	Oak Park	91377
+W Los Angeles Ave	Oxnard	93035
+W Los Angeles Ave	Simi Valley	93065
+W Los Angeles Ave	Somis	93066
+W Los Angeles Dr	Vista	92083
+W Los Cocos	Rancho Mirage	92270
+W Los Felices Cir	Palm Springs	92262
+W Los Felis Av	Stockton	95210
+W Los Garcias Ln	Elverta	95626
+W Los Olivos St	Santa Barbara	93101
+W Los Olivos St	Santa Barbara	93105
+W Los Padres Dr	Tracy	95304
+W Los Positas Wy	Tracy	95304
+W Los Robles Ave	Rialto	92376
+W Los Robles Ave	San Bernardino	92410
+W Los Robles Ct	Rialto	92376
+W Lotus Ave	Thousand Oaks	91360
+W Lotus Pl	Bre	92821
+W Louise Av	Manteca	95336
+W Louise Av	Manteca	95337
+W Louise Ave	Manteca	95336
+W Louise Ave	Manteca	95337
+W Louise Pl	Fullerton	92833
+W Louise St	Colton	92324
+W Lourdes Ln	Rialto	92376
+W Lovely Rd	Tracy	95304
+W Lowell Av	Stockton	95206
+W Lowell Av	Tracy	95376
+W Lowell Av	Tracy	95377
+W Lowell St	Rialto	92377
+W Lower Jones Rd	Stockton	95206
+W Lower Lake Rd	Thousand Oaks	91361
+W Loyola Ave	Visalia	93277
+W Loyola Ct	Visalia	93277
+W Loyola Dr	Los Altos	94024
+W Loyola Dr	San Bernardino	92407
+W Lucas Dr	Fresno	93722
+W Lucas Rd	Lodi	95242
+W Lucerne Av	Tracy	95304
+W Lucero St	Thousand Oaks	91360
+W Luchessa Ave	Gilroy	95020
+W Lucile Av	Stockton	95209
+W Lucille Av	Mh	95391
+W Lucille Ave	Coalinga	93210
+W Lucita Wy	Mh	95391
+W Lucky Way	Santa Ana	92704
+W Lugaro Ln	Anaheim	92801
+W Lugonia Ave	Redlands	24000
+W Lugonia Ave	Redlands	92374
+W Lugonia Ave	Sbco	92374
+W Luis Estrada Rd	Beaumont	92223
+W Luisa Ave	Porterville	93257
+W Lullaby Ln	Anaheim	92802
+W Lullaby Ln	Anaheim	92804
+W Lullaby Ln	Stanton	92804
+W Luna Dr	Riverdale	93656
+W Luna Loca Ln	Mh	95391
+W Lupin Ln	San Bernardino	92407
+W Lurelane St	Rialto	92376
+W Lutge Ave	Burbank	91506
+W Lybarger Ave	Porterville	93257
+W Lyman Ave	Fresno	93706
+W Lynn Rd	Thousand Oaks	91320
+W Lynne Ave	Anaheim	92802
+W Lynnwood St	Thousand Oaks	91360
+W Lynrose Dr	Anaheim	92804
+W Lynwood Dr	San Bernardino	92405
+W Lynwood St	Thousand Oaks	91360
+W Lyons Dr	El Centro	92243

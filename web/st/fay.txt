@@ -1,0 +1,62 @@
+Fay Ave	Banning	92220
+Fay Ave	Culver City	90232
+Fay Ave	La Jolla	92037
+Fay Ave	Modesto	95350
+Fay Ave	Moreno Valley	92551
+Fay Ave	San Carlos	94070
+Fay Ave	San Diego	92037
+Fay Avenue	Culver City	90232
+Fay Avenue	Los Angeles	90034
+Fay Cir	Sacramento	95831
+Fay Circle	Cerritos	90703
+Fay Ct	Oakdale	95361
+Fay Ct	Union City	94587
+Fay Dr	Kentfield	94904
+Fay Drive	Atwater	95301
+Fay Drive	Glendale	91206
+Fay Place	Pasadena	91104
+Fay Rd	Hemet	92544
+Fay Ridge Court	Grass Valley	95949
+Fay Road	Grass Valley	95949
+Fay St	Redwood City	94061
+Fay St	Samoa	95564
+Fay Way	Mountain View	94043
+Fay Way	Oroville	95966
+Fayance Pl	Thousand Oaks	91362
+Fayance St	Thousand Oaks	91362
+Faye	Soquel	95073
+Faye Ave	Anaheim	92804
+Faye Ave	Garden Grove	92840
+Faye Ct	Petaluma	94952
+Faye Ct	Pleasant Hill	94523
+Faye Dr	San Marcos	92078
+Faye Lane	Redondo Beach	90277
+Faye Ln	Bakersfield	93304
+Faye Ln	Kelseyville	95451
+Faye Ln	Redding	96002
+Faye Mar Dr	Oroville	95966
+Faye Park Dr	San Jose	95136
+Faye Rd	Upper Lake	95485
+Faye St	Indio	92201
+Faye St	Stockton	95206
+Fayecroft Street	San Fernando	91340
+Fayence	Newport Beach	92657
+Fayence Dr	Murrieta	92562
+Fayette Cir	Costa Mesa	92626
+Fayette Cir	Ladera Ranch	92694
+Fayette Ct	Riverside	92504
+Fayette Dr	Mountain View	94040
+Fayette Dr	Mountain View	94040-1120
+Fayette Ln	Redding	96003
+Fayette Pl	Laguna Beach	92651
+Fayette St	El Cajon	92020
+Fayette Street	Los Angeles	90042
+Fayette Way	Folsom	95630
+Faymont Avenue	Manhattan Beach	90266
+Faysmith Avenue	Gardena	90249
+Faysmith Avenue	Torrance	90503
+Faysmith Avenue	Torrance	90504
+Faysmith Street	Torrance	90504
+Fayton Ct	Camarillo	93010
+Faywood Ave	Victorville	92392
+Faywood Street	Bellflower	90706

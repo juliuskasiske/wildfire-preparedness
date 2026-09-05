@@ -1,0 +1,437 @@
+W A	Brawley	92227
+W A Dr	Brawley	92227
+W A St	Biola	93606
+W A St	Brawley	92227
+W A St	Encinitas	92024
+W A St	Galt	95632
+W A St	Hayward	94541
+W A St	Kerman	93630
+W A St	Oakdale	95361
+W A St	Port Hueneme	93041
+W A St	San Diego	92101
+W A St	Unincorporated Alameda County	94541
+W Abbey Ln	Mh	95391
+W Acacia	Salinas	93901
+W Acacia Ave	Fresno	93705
+W Acacia Ave	Fresno	93722
+W Acacia Ave	Fresno	93723
+W Acacia Ave	Hemet	92543
+W Acacia Ave	Hemet	92545
+W Acacia Ave	Orange	92868
+W Acacia Ct	San Bernardino	92407
+W Acacia Rd	Hinkley	92347
+W Acacia Rd	Palm Springs	92262
+W Acacia St	Bre	92821
+W Acacia St	Brea	92821
+W Acacia St	Colton	92324
+W Acacia St	Stockton	95202
+W Acacia St	Stockton	95203
+W Acacia Street	Salinas	93901
+W Acacia Way	San Bernardino	92405
+W Academy Ave	Anaheim	92804
+W Acampo Rd	Acampo	95220
+W Acampo Rd	Lodi	95242
+W Acapulco Ave	Santa Ana	92704
+W Acapulco Dr	Imperial	92251
+W Acequia Ave	Visalia	93291
+W Acker Is	Stockton	95206
+W Acme Pl	Anaheim	92804
+W Acme St	Oakley	94561
+W Acre Ln	San Bernardino	92407
+W Acres Ct	Hanford	93230
+W Acres Way	Hanford	93230
+W Adams	El Centro	92243
+W Adams Ave	El Centro	92243
+W Adams Ave	Fowler	93625
+W Adams Ave	Fresno	93706
+W Adams Ave	Huntington Beach	92648
+W Adams Ave	Mendota	93640
+W Adams Ave	San Joaquin	93660
+W Adams Ave	Tranquillity	93668
+W Adams Ave & 1857 Euclid Ave	El Centro	92243
+W Adams St	Colton	92324
+W Adams St	San Bernardino	92407
+W Adams St	Santa Ana	92704
+W Adams St	Stockton	95204
+W Addisyn Ct	Visalia	93291
+W Adel Ct	Colton	92324
+W Adele St	Anaheim	92805
+W Adell St	Madera	93638
+W Adell St	San Bernardino	92410
+W Adena Ave	Fresno	93722
+W Adirondack Ct	Thousand Oaks	91362
+W Adler St	Brawley	92227
+W Admirable Ln	Mh	95391
+W Admiral Ln	Anaheim	92801
+W Admiralty St	Colton	92324
+W Adoncia Dr	Mh	95391
+W Adrian St	Thousand Oaks	91320
+W Adrian Way	Hanford	93230
+W Adriana Dr	Mh	95391
+W Adriana Way	Upland	91784
+W Adriatic Way	San Bruno	94066
+W Adrin Way	Santa Ana	92704
+W Aeroplane Blvd	Big Bear City	92314
+W Agate	Imperial	92251
+W Agate Ave	Imperial	92251
+W Agnes Av	Santa Maria	93454
+W Agnes Av	Santa Maria	93458
+W Agnes Ave	Santa Maria	93454
+W Agnes Ave	Santa Maria	93458
+W Agua Caliente Rd	Sonoma	95476
+W Agua Dulce Dr	Desert Hot Springs	92240
+W Agua Mansa Rd	Colton	92324
+W Agua Mansa Rd	Rialto	92376
+W Ahwanee Ave	Sunnyvale	94085
+W Aida Av	Mh	95391
+W Aida Ln	Anaheim	92804
+W Airport Av	Lompoc	93436
+W Airport Dr	Visalia	93277
+W Ajuga Ave	Upland	91784
+W Ajuga St	Upland	91784
+W Akron St	San Bernardino	92407
+W Al Ct	Sacramento	95838
+W Alamar Av	Santa Barbara	93105
+W Alamar St	Thousand Oaks	91360
+W Alamar St	Thousand Oaks	91361
+W Alameda Av	Burbank	91502
+W Alameda Av	Burbank	91505
+W Alameda Av	Burbank	91506
+W Alameda Av A	Burbank	91505
+W Alameda Av Pointaddress	Burbank	91506
+W Alameda Ave	Anaheim	92801
+W Alameda Ave	Burbank	91502
+W Alameda Ave	Burbank	91505
+W Alameda Ave	Burbank	91506
+W Alameda Dr	Mh	95391
+W Alameda St	Manteca	95336
+W Alamo	Calipatria	92233
+W Alamo	Seeley	92273
+W Alamo Dr	Seeley	92273
+W Alamo St	Calipatria	92233
+W Alamo St	Seeley	92273
+W Alamos Ave	Fresno	93705
+W Alamos Ave	Fresno	93722
+W Alamos Ave	Fresno	93723
+W Alana Dr	Fresno	93722
+W Alba Ct	Santa Maria	93458
+W Albert Ct	Tracy	95304
+W Albert St	Santa Maria	93458
+W Alberta St	Anaheim	92805
+W Albertoni St	Carson	90248
+W Alcala Av	Mh	95391
+W Alcala Ct	Mh	95391
+W Alcazar Wy	Stockton	95209
+W Alco Ave	Santa Ana	92703
+W Alcott	Calipatria	92233
+W Alder St	Fort Bragg	 
+W Alder St	Stockton	95204
+W Aldrich Pl	Mh	95391
+W Alejo Rd	Palm Springs	92262
+W Alexander Ave	San Bernardino	92405
+W Alexander Ct	Bre	92821
+W Alexandria	Calipatria	92233
+W Alexandria Dr	Calipatria	92233
+W Alexandria St	Calipatria	92233
+W Alexis Ave	Anaheim	92802
+W Alhambra Ave	Fresno	93722
+W Alhambra Ave	Fresno	93728
+W Alice Ann Rd	Thousand Oaks	91320
+W Alice Av	Thornton	95686
+W Alice Ave	Porterville	93257
+W Alida St	Colton	92324
+W Alisal	Salinas	93901
+W Alisal Street	Salinas	93901
+W Aliso A St	Ojai	93023
+W Aliso Pl	Anaheim	92804
+W Aliso St	Ojai	93023
+W Allan Ave	Burbank	91505
+W Allen	Brawley	92227
+W Allen Ave	Visalia	93291
+W Allen Ct	Visalia	93291
+W Allen St	Brawley	92227
+W Alluvial Ave	Fresno	93650
+W Alluvial Ave	Fresno	93711
+W Alluvial Ave	Fresno	93722
+W Allyson Ave	Kerman	93630
+W Allyson Ct	Bre	92821
+W Alma Ave	San Jose	95110
+W Alma Ave	San Jose	95125
+W Almendra Wy	Tracy	95304
+W Almendra Wy	Tracy	95377
+W Almeria Av	Santa Maria	93458
+W Almeria Ave	Santa Maria	93458
+W Almond Av	Orange	92868
+W Almond Ave	Madera	93637
+W Almond Ave	Orange	92866
+W Almond Ave	Orange	92868
+W Almond Tree Ln	Anaheim	92801
+W Almy Ave	Fresno	93706
+W Aloma Dr	Cabazon	92230
+W Alomar Ave	Anaheim	92802
+W Alomar Ave	Anaheim	92804
+W Alomar St	Ojai	93023
+W Alondra Blvd	Carson	90248
+W Alpine Av	Stockton	95204
+W Alpine Ave	Santa Ana	92707
+W Alpine St	Santa Ana	92704
+W Alpine St	Upland	91786
+W Alps Dr	Upland	91784
+W Alro Way	Anaheim	92802
+W Alru St	Bloomington	92316
+W Alru St	Rialto	92376
+W Alston Ave	Colton	92324
+W Alta Crest St	San Bernardino	92407
+W Alta Green	Port Hueneme	93041
+W Alta Mesa Dr	Bre	92821
+W Althea Ave	Firebaugh	93622
+W Alton Ave	Santa Ana	92704
+W Alton Ave	Santa Ana	92707
+W Alturas St	San Bernardino	92411
+W Alvarado St	Fallbrook	92028
+W Alvarez Ave	Orange	92868
+W Alvin Av	Santa Maria	93454
+W Alvin Av	Santa Maria	93458
+W Alvin Ave	Santa Maria	93454
+W Alvin Ave	Santa Maria	93458
+W Alvin Drive	Salinas	93906
+W Alycia Ct	Tracy	95304
+W Alyssum St	Upland	91784
+W Amado Rd	Palm Springs	92262
+W Amador St	Fresno	93706
+W Amanda Pl	Upland	91784
+W Amarita Ln	Anaheim	92802
+W Amarone Ln	Santa Maria	93458
+W Amarone Way	Santa Maria	93458
+W Amarone Wy	Santa Maria	93458
+W Ambassador Dr	Hanford	93230
+W Ambassador Way	Hanford	93230
+W Amber Ct	Upland	91786
+W Amber Harvest Dr	Hanford	93230
+W Amber Way	Hanford	93230
+W Amberwood Ct	San Bernardino	92407
+W Ambroggio St	Mh	95391
+W Ameno Dr	Palm Springs	92262
+W Ameno Ln	Mh	95391
+W American Ave	Firebaugh	93622
+W American Ave	Fresno	93706
+W American Ave	Kerman	93630
+W American Ave	Mendota	93640
+W American Ave	San Joaquin	93660
+W American Ave	Tranquillity	93668
+W American Canyon Rd	American Canyon	94503
+W Amerige Ave	Fullerton	92832
+W Amerige Ave	Fullerton	92833
+W Ames Rd	Seeley	92273
+W Amherst Ave	Fresno	93722
+W Amistad Ln	Mh	95391
+W Amy St	Upland	91784
+W Anabelle St	Santa Maria	93458
+W Anaby Ct	Upland	91786
+W Anacapa Way	Anaheim	92801
+W Anacasa Way	Anaheim	92804
+W Anaheim Shores Dr	Anaheim	92801
+W Anahurst Pl	Santa Ana	92704
+W Anahurst Pl	Santa Ana	92707
+W Anapamu St	Santa Barbara	93101
+W And B Goodman Lane	Fairfield	94533
+W Anderson St	Stockton	95206
+W Andes Dr	Upland	91784
+W Andre	Westmorland	92281
+W Andre Rd	Brawley	92227
+W Andre Rd	Westmorland	92281
+W Andrew Ln	Hanford	93230
+W Andrews Ave	Fresno	93705
+W Andrews Ave	Fresno	93722
+W Angeleno Ave	Burbank	91506
+W Angus Ave	Orange	92868
+W Angus Ave	San Bruno	94066
+W Angus Ct	Hanford	93230
+W Annadale Ave	Fresno	93706
+W Annadale Ave	Kerman	93630
+W Annadale Ave	Mendota	93640
+W Annapolis Cir	San Bernardino	92408
+W Annika Dr	Hanford	93230
+W Antelope Mountain Dr	Big Bear City	92314
+W Anthem Dr	Fresno	93711
+W Anthony Pl	Santa Maria	93458
+W Anthony Wy	Lompoc	93436
+W Antigua Te	Mh	95391
+W Antone Raymus Pa	Manteca	95337
+W Antone Raymus Pkwy	Manteca	95337
+W Anza	Calexico	92231
+W Anza Trails	Anza	92539
+W Apollo Ave	Anaheim	92802
+W Apollo St	Bre	92821
+W Apolonia	Imperial	92251
+W Apolonia Dr	Imperial	92251
+W Appalachian Ct	Thousand Oaks	91362
+W Apple Av	Lompoc	93436
+W Apple Avenue	Greenfield	93927
+W Apple Ct	Upland	91786
+W Apple Tree Ln	Fresno	93722
+W Apricot Av	Lompoc	93436
+W Aquarius Ct	Ontario	91762
+W Aquino Wy	Mh	95391
+W Aracia Rd	Palm Springs	92262
+W Araz Rd	Winterhaven	92283
+W Arbeth St	Rialto	92377
+W Arbolitos Ct	Santa Maria	93458
+W Arbor Av	Tracy	95304
+W Arbor Ave	Sunnyvale	94085
+W Arbor Dr	Fresno	93711
+W Arbor Dr	San Diego	92103
+W Arbor Way	Lafayette	94549
+W Arbor Way	Orange	92868
+W Arcade St	Stockton	95204
+W Arcadia St	Mh	95391
+W Archibald Ct	Colton	92324
+W Ardenwood Ct	Tustin	92782
+W Arenas	Palm Springs	92262
+W Arenas Rd	Palm Springs	92262
+W Arezzo Ave	Visalia	93291
+W Argonaut St	Manteca	95336
+W Ariel Pl	Anaheim	92804
+W Aries Ln	San Bernardino	92407
+W Arlen Ave	Visalia	93277
+W Arlen Ct	Visalia	93277
+W Arlington Ave	Anaheim	92801
+W Arlington St	Martinez	94553
+W Arlington Way	Martinez	94553
+W Armsley Sq	Ontario	91762
+W Armstrong Dr	Bre	92821
+W Armstrong Rd	Lodi	95242
+W Arnaudo Bl	Mh	95391
+W Arora Way	Santa Maria	93458
+W Arora Wy	Santa Maria	93458
+W Arques Ave	Sunnyvale	94085
+W Arrellaga St	Santa Barbara	93101
+W Arrieta Cir	La Mesa	91941
+W Arrow Hwy	Upland	91786
+W Arrow Rte	Upland	91786
+W Arroyo Dr	Desert Hot Springs	92240
+W Arroyo Dr	Fullerton	92833
+W Artemisa Dr	Fresno	93722
+W Artesia Ave	Holtville	92250
+W Arturo Bl	Mh	95391
+W Ascot Ave	Rio Linda	95673
+W Ascot Ave	Sacramento	95838
+W Ascot Pl	Anaheim	92804
+W Ash Av	Burbank	91502
+W Ash Ave	Burbank	91502
+W Ash Ave	Fullerton	92831
+W Ash Ave	Fullerton	92832
+W Ash Ave	Fullerton	92833
+W Ash Ave	Hanford	93230
+W Ash Ave	Upland	91784
+W Ash Dr	San Bernardino	92405
+W Ash St	Bre	92821
+W Ash St	Brea	92821
+W Ash St	San Bernardino	92407
+W Ash St	San Diego	92101
+W Ashcroft Ave	Fresno	93705
+W Ashcroft Ave	Fresno	93722
+W Ashcroft Ave	Fresno	93723
+W Ashlan Ave	Biola	93606
+W Ashlan Ave	Firebaugh	93622
+W Ashlan Ave	Fresno	93705
+W Ashlan Ave	Fresno	93722
+W Ashlan Ave	Fresno	93723
+W Ashlan Ave	Kerman	93630
+W Ashland Ave	Visalia	93277
+W Ashland Ct	Visalia	93277
+W Ashland St	Ontario	91762
+W Ashley Pl	Upland	91784
+W Ashli Ave	Kerman	93630
+W Ashton Av	Santa Maria	93458
+W Ashton Ave	Santa Maria	93458
+W Ashwood Ct	Upland	91784
+W Aspen Ave	Reedley	93654
+W Aspen Dr	Reedley	93654
+W Aster Pl	Santa Ana	92706
+W Aster St	San Bernardino	92407
+W Aster St	Upland	91786
+W Astino Pl	Mh	95391
+W Atchison St	Fresno	93706
+W Atchison St	Rialto	92376
+W Atchison St	San Bernardino	92410
+W Ateca Pl	Anaheim	92801
+W Aten	Imperial	92251
+W Aten Ave	Imperial	92251
+W Aten Blvd	Imperial	92251
+W Aten Dr	Imperial	92251
+W Aten Dr	Seeley	92273
+W Aten Rd	El Centro	92243
+W Aten Rd	Imperial	92251
+W Aten Rd Rd	Imperial	92251
+W Aten St	Imperial	92251
+W Atento Ln	Mh	95391
+W Athena Pl	Carson	90745
+W Athens Ave	Fresno	93711
+W Athens Ave	Fresno	93722
+W Atherton Dr	Manteca	95336
+W Atherton Dr	Manteca	95337
+W Atherton Island Pl	Stockton	95204
+W Athol St	Bloomington	92316
+W Athol St	San Bernardino	92401
+W Atlanta Ave	Fresno	93711
+W Atlantic Ct	Upland	91786
+W Atlas St	Bre	92821
+W Atlee St	Stockton	95204
+W Atwater Ave	Fresno	93711
+W Auburn Pl	Mh	95391
+W Auburn St	Upland	91784
+W Audre Dr	Anaheim	92802
+W Audubon Dr	Fresno	93711
+W Audubon Rd	Hanford	93230
+W Augusta Dr	San Marcos	92069
+W Augusta Dr	Valley Center	92082
+W Aurora Ave	Porterville	93257
+W Aurora Ave	Santa Ana	92707
+W Aurora Ct	Porterville	93257
+W Aurora St	Santa Ana	92704
+W Austin Way	Fresno	93722
+W Austin Way	Fresno	93723
+W Auto Center Dr	San Bernardino	92408
+W Autumn Dr	Anaheim	92805
+W Autumn Mist Dr	Rialto	92377
+W Avalon Ave	Fresno	93722
+W Avalon Ave	Santa Ana	92706
+W Avalon Dr	Pacifica	94044
+W Avenal St	Ventura	93001
+W Avenida Alessandro	San Clemente	92672
+W Avenida Cadiz	San Clemente	92672
+W Avenida Cerca	Palm Springs	92262
+W Avenida Cordoba	San Clemente	92672
+W Avenida Cornelio	San Clemente	92672
+W Avenida De Las Flores	Thousand Oaks	91360
+W Avenida De Las Montanas	Cathedral City	92234
+W Avenida De Los Arboles	Thousand Oaks	91360
+W Avenida De Los Flores	Thousand Oaks	91360
+W Avenida De Los Lobos Marinos	San Clemente	92672
+W Avenida Gaviota	San Clemente	92672
+W Avenida Junipero	San Clemente	92672
+W Avenida Magdalena	San Clemente	92672
+W Avenida Palizada	San Clemente	92672
+W Avenida Pico	San Clemente	92672
+W Avenida Ramona	San Clemente	92672
+W Avenida San Antonio	San Clemente	92672
+W Avenida San Gabriel	San Clemente	92672
+W Avenida Santiago	San Clemente	92672
+W Avenida Valencia	San Clemente	92672
+W Avenida Vista Hermosa	San Clemente	92672
+W Aventino Av	Mh	95391
+W Avenue K	Calimesa	92320
+W Avenue L	Calimesa	92320
+W Aviation Rd	Fallbrook	92028
+W Avila Dr	Fresno	93722
+W Avila Dr	Ojai	93023
+W Avola Av	Santa Maria	93458
+W Avola Ave	Santa Maria	93458
+W Avon Cir	Anaheim	92804
+W Avondale Ave	Anaheim	92801
+W Avondale Pl	Anaheim	92801
+W Avondale Rd	Hillsborough	94010
+W Azalea Cir	Palm Springs	92264
+W Azalea Ct	Upland	91784
+W Azure Ct	Upland	91786

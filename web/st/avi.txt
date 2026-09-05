@@ -1,0 +1,220 @@
+Avia Ct	Indio	92201
+Aviador Ave	Millbrae	94030
+Aviador St	Camarillo	93010
+Aviadores Way	San Luis Obispo	93401
+Avial Way	Pomona	91767
+Avian Drive	Vallejo	94591
+Avian Hill Pl	Lincoln	95648
+Avian Place	Nevada City	95959
+Avian Way	Running Springs	92382
+Avianca Dr	Redding	96002
+Aviano Av	Goleta	93117
+Aviano Ct	Chino Hills	91709
+Aviano Dr	Camarillo	93012
+Aviano Ln	Chino Hills	91709
+Aviano Pl	Goleta	93117
+Aviara Ct	Napa	94558
+Aviara Ct	San Jose	95135
+Aviara Dr	Bakersfield	93312
+Aviara Dr	Carlsbad	92011
+Aviara Ln	Oxnard	93036
+Aviara Pkwy	Carlsbad	92009
+Aviara Pkwy	Carlsbad	92011
+Aviara Pky	Carlsbad	92009
+Aviara Pl	Sacramento	95829
+Aviara Resort Dr	Carlsbad	92011
+Aviary Ave	Rancho Mission Viejo	92675
+Aviary Ct	San Diego	92131
+Aviary Dr	Rancho Cucamonga	91739
+Aviary Dr	San Diego	92131
+Aviary Way	Bakersfield	93312
+Aviary Woods Way	Elk Grove	95624
+Aviata Rd	Chula Vista	91914
+Aviation	Watsonville	95076
+Aviation Ave	San Jose	95110
+Aviation Avenue	Davis	95616
+Aviation Blvd	Hermosa Beach	90254
+Aviation Blvd	Lincoln	95648
+Aviation Blvd	Santa Rosa	95403
+Aviation Boulevard	El Segundo	90245
+Aviation Boulevard	Hawthorne	90250
+Aviation Boulevard	Hermosa Beach	90254
+Aviation Boulevard	Inglewood	90301
+Aviation Boulevard	Inglewood	90304
+Aviation Boulevard	Lawndale	90261
+Aviation Boulevard	Los Angeles	90045
+Aviation Boulevard	Manhattan Beach	90266
+Aviation Boulevard	Redondo Beach	90278
+Aviation Ct	Chino	91708
+Aviation Dr	Camarillo	93010
+Aviation Dr	Lompoc	93436
+Aviation Dr	Lompoc	93460
+Aviation Dr	Madera	93637
+Aviation Dr	Redding	96002
+Aviation Dr	Sacramento	95837
+Aviation Dr	San Diego	0
+Aviation Dr	San Diego	92114
+Aviation Dr	Stockton	95206
+Aviation Dr	Victorville	92394
+Aviation Dr	Yucca Valley	92284
+Aviation Drive	Atwater	95301
+Aviation Drive	Olivehurst	95961
+Aviation Ln	Moreno Valley	92553
+Aviation Ln	Novato	94949
+Aviation Place	Manhattan Beach	90266
+Aviation Place	Redondo Beach	90278
+Aviation Place	San Fernando	91340
+Aviation Way	Imperial	92251
+Aviation Way	Manhattan Beach	90266
+Aviation Way	Palm Springs	92262
+Aviation Way	Redondo Beach	90278
+Aviation Way	Santa Maria	93455
+Aviation Wy	Santa Maria	93455
+Aviator	Santa Cruz	95066
+Aviator	Scotts Valley	95066
+Aviator Avenue	Dos Palos	93620
+Aviator Cir	Sacramento	95835
+Aviator Ct	Winchester	92596
+Aviator Drive	Atwater	95301
+Aviator Drive	Vacaville	95688
+Aviator Ln	Redding	96002
+Aviator Ln	Tustin	92782
+Aviator Ln S	Tustin	92782
+Aviator Rd	San Diego	92154
+Avichi Knoll Dr	Novato	94947
+Avida Dr	Menifee	92584
+Aviemore Dr	Ybl	92887
+Aviemore Dr	Yorba Linda	92887
+Aviemore Ter	Costa Mesa	92627
+Avienda Velasco	La Quinta	92253
+Avignon	Irvine	92606
+Avignon	Newport Beach	92657
+Avignon Av	Foothill Ranch	92610
+Avignon Av	Foothill Ranch	92610-0000
+Avignon Av	Foothill Ranch	92610-1909
+Avignon Av	Foothill Ranch	92610-1910
+Avignon Av	Foothill Ranch	92610-1917
+Avignon Av	Foothill Ranch	92610-1918
+Avignon Ave	Lake Forest	92610
+Avignon Cir	Santa Rosa	95403
+Avignon Court	Westlake Village	91362
+Avignon Ct	Rancho Mirage	92270
+Avignon Ct	Riverside	92501
+Avignon Ct	San Jose	95138
+Avignon Ct	Winchester	92596
+Avignon Dr	Chino	91710
+Avignon Drive	Merced	95348
+Avignon Drive	Valencia	91355
+Avignon Lane	Palmdale	93551
+Avignon Ln	Modesto	95356
+Avignon Ln	Roseville	95747
+Avignon Ln	San Jose	95135
+Avignon Pl	Half Moon Bay	94019
+Avignon Way	Bakersfield	93306
+Avignon Wy	Stockton	95209
+Avila	Felton	95018
+Avila	La Verne	91750
+Avila	Santa Cruz	95062
+Avila Av	Santa Clara	95050
+Avila Ave	Carlsbad	92008
+Avila Ave	Parlier	93648
+Avila Ave	Rancho Cucamonga	91730
+Avila Ave	Santa Clara	95050
+Avila Bay Place	Davis	95616
+Avila Beach Dr	Avila Beach	93424
+Avila Beach Dr	San Luis Obispo	93401
+Avila Beach Dr	San Luis Obispo	93405
+Avila Court	Vacaville	95688
+Avila Ct	Antioch	94531
+Avila Ct	Hayward	94544
+Avila Ct	La Jolla	92037
+Avila Ct	Los Altos Hills	94022
+Avila Ct	Modesto	95354
+Avila Ct	Pacifica	94044
+Avila Ct	Rocklin	95677
+Avila Ct	San Ramon	94583
+Avila Ct	Stockton	95210
+Avila Ct	Tustin	92782
+Avila Dr	Hemet	92543
+Avila Dr	La Quinta	92253
+Avila Dr	Ojai	93023
+Avila Dr	Perris	92571
+Avila Dr	Roseville	95678
+Avila Ln	Lincoln	95648
+Avila Ln	Moraga	94556
+Avila Ln	Sacramento	95864
+Avila Ln	Sebastopol	95472
+Avila Ln	Vista	92083
+Avila Pl	Antioch	94509
+Avila Pl	El Cerrito	94530
+Avila Pl	Oxnard	93036
+Avila Ranch Dr	Petaluma	94954
+Avila Rd	Concord	94520
+Avila Rd	Essex	92332
+Avila Rd	Laguna Niguel	92677
+Avila Rd	Pittsburg	94565
+Avila Rd	San Mateo	94402
+Avila Rd	Yucca Valley	92284
+Avila Road	Moss Landing	95039
+Avila St	Bakersfield	93313
+Avila St	El Cerrito	94530
+Avila St	San Francisco	94123
+Avila St	Tracy	95376
+Avila Street	Los Angeles	90012
+Avila Valley Dr	San Luis Obispo	93405
+Avila Way	Buena Park	90621
+Avila Way	Claremont	91711
+Avila Way	Indio	92203
+Avila Way	Madera	93638
+Avila Way	Santa Maria	93455
+Avila Wy	Montecito	93108
+Avila Wy	Santa Barbara Unincorporated	93455
+Avilar Ct	San Marcos	92078
+Avilar Pl	Santa Rosa	95403
+Aviles Drive	Merced	95340
+Avilla Dr	Ojai	93023
+Avilla Ln	Huntington Beach	92647
+Avilla Ln	Huntington Beach	92647-6612
+Avilla Ln	Huntington Beach	92647-6657
+Avina Avenue	Greenfield	93927
+Avina Cir	Santa Clara	95054
+Avina Cl	Santa Clara	95054
+Avineda De Los Lobos	San Diego	92127
+Avinger Drive	Rosemead	91770
+Avington Avenue	West Covina	91790
+Avington Ct	Brentwood	94513
+Avington Way	City Of Shasta Lake	96019
+Avington Way	City Of Shasta Lake	96089
+Avinida De Arboles	Murrieta	92562
+Avion Circle	Castaic	91384
+Avion Drive	La Mirada	90638
+Avion Drive	Monterey Park	91754
+Avion Ln	Bloomington	92316
+Avion Ln	Victorville	92394
+Avion Rd	Atascadero	93422
+Avion Way	Redding	96002
+Avion Way	San Diego	92115
+Avior Ct	Murrieta	92563
+Avis	Santa Cruz	95062
+Avis Avenue	Lawndale	90260
+Avis Avenue	Torrance	90503
+Avis Avenue	Torrance	90504
+Avis Court	Salinas	93905
+Avis Court	Signal Hill	90755
+Avis Court	Torrance	90505
+Avis Ct	Moreno Valley	92557
+Avis Ct	Orinda	94563
+Avis Dr	El Cerrito	94530
+Avis Dr	San Jose	95126
+Avis Ln	Unincorporated Alameda County	94541
+Avis Rd	Berkeley	94707
+Avis Rd	Hemet	92543
+Avis St	Arroyo Grande	93420
+Avis Street	Torrance	90505
+Avis Way	Pinole	94564
+Avishan Dr	Perris	92571
+Aviston Place	Rowland Heights	91748
+Aviston Way	Rancho Cordova	95742
+Avita Cir	Temecula	92592
+Aviv Ct	Murrieta	92562
+Aviva Court	Granada Hills	91344

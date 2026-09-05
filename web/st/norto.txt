@@ -1,0 +1,45 @@
+Norton Ave	Chino	91710
+Norton Ave	Modesto	95350
+Norton Ave	Montclair	91763
+Norton Ave	National City	91950
+Norton Ave	Novato	94945
+Norton Ave	Pomona	91766
+Norton Ave	San Jose	95126
+Norton Ave	Ventura	93003
+Norton Ave	Yucaipa	92399
+Norton Avenue	Dos Palos	93620
+Norton Avenue	Glendale	91202
+Norton Avenue	Los Angeles	90008
+Norton Avenue	Los Angeles	90046
+Norton Avenue	Lynwood	90262
+Norton Court	Dixon	95620
+Norton Ct	Rocklin	95677
+Norton Dr	Concord	94519
+Norton Drive	Santa Clarita	91350
+Norton Grade Rd	Colfax	95713
+Norton Ln	Cambria	93428
+Norton Ln	Moreno Valley	92551
+Norton Ln	Redding	96003
+Norton Pl	Modesto	95350
+Norton Pl	Riverside	92506
+Norton Rd	Healdsburg	95448
+Norton Rd	Mckinleyville	95519
+Norton Rd	Saratoga	95070
+Norton Road	Dixon	95620
+Norton Sound Cmn	San Jose	95131
+Norton St	Irvine	92612
+Norton St	Napa	94558
+Norton St	Oroville	95966
+Norton St	Oxnard	93033
+Norton St	Pittsburg	94565
+Norton St	San Francisco	94112
+Norton St	San Mateo	94401
+Norton St	Ukiah	 
+Norton Street	Long Beach	90805
+Norton Street	Torrance	90503
+Norton Street	Travis Afb	94535
+Norton Way	Antioch	94509
+Norton Way	Sacramento	95820
+Nortonville Ct	Antioch	94531
+Nortonville Rd	Pittsburg	94565
+Nortonville Way	Antioch	94531

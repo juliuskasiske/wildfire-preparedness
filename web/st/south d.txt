@@ -1,0 +1,159 @@
+South D Street	Exeter	93221
+South D Street	Porterville	93257
+South D Street	Tulare	93274
+South Dablon Avenue	Carson	90745
+South Dacotah Street	Los Angeles	90023
+South Dacotah Street	Los Angeles	90063
+South Daisy Avenue	Pasadena	91107
+South Dakota Drive	Los Angeles	90034
+South Dalfsen Avenue	Carson	90746
+South Dalton Avenue	Gardena	90247
+South Dalton Avenue	Gardena	90248
+South Dalton Avenue	Los Angeles	90018
+South Dalton Avenue	Los Angeles	90047
+South Dalton Avenue	Los Angeles	90062
+South Dalton Avenue	Torrance	90501
+South Dana Place	Long Beach	90803
+South Dancove Drive	West Covina	91791
+South Danehurst Avenue	Glendora	91740
+South Danforth Drive	Los Angeles	90065
+South Dangler Avenue	Los Angeles	90022
+South Dans Street	Visalia	93277
+South Darney Avenue	West Covina	91792
+South Dartmouth Avenue	Claremont	91711
+South Darwood Avenue	San Dimas	91773
+South Date Avenue	Alhambra	91803
+South Davis Avenue	Weed	96094
+South Davis Street	Earlimart	93219
+South Dawley Avenue	West Covina	91790
+South Dawn Creek	Playa Vista	90094
+South Dayton Avenue	San Pedro	90732
+South Dayton Street	Tulare	93274
+South Dayton Street	Visalia	93277
+South De Butts Terrace	Malibu	90265
+South De La Torre Way	Los Angeles	90023
+South De Lacey Avenue	Pasadena	91105
+South De Lay Avenue	Covina	91723
+South Deanna Street	La Habra	90631
+South Debwood Place	La Habra	90631
+South Decatur Street	Los Angeles	90021
+South Defiance Avenue	Los Angeles	90002
+South Degnan Boulevard	Los Angeles	90008
+South Degnan Boulevard	Los Angeles	90018
+South Dehn Avenue	Inglewood	90303
+South Del Cerro Drive	West Covina	91791
+South Del Loma Avenue	San Gabriel	91776
+South Del Mar Avenue	San Gabriel	91775
+South Del Mar Avenue	San Gabriel	91776
+South Del Rey Avenue	Marina Del Rey	90292
+South Del Sol Lane	Diamond Bar	91765
+South Delevan Drive	Los Angeles	90065
+South Delford Avenue	Carson	90745
+South Dell Avenue	Venice	90291
+South Delta Street	San Gabriel	91776
+South Demaree Street	Visalia	93277
+South Denison Avenue	San Pedro	90731
+South Denker Avenue	Gardena	90248
+South Denker Avenue	Los Angeles	90018
+South Denker Avenue	Los Angeles	90047
+South Denker Avenue	Los Angeles	90062
+South Denker Avenue	Torrance	90501
+South Denker Avenue South	Los Angeles	90047
+South Denslow Avenue	Los Angeles	90049
+South Denton Street	Visalia	93291
+South Denver Avenue	Gardena	90248
+South Denver Avenue	Los Angeles	90044
+South Deodora Avenue	Compton	90220
+South Dequine Avenue	Rosemead	91770
+South Derek Lane	La Habra	90631
+South Derry Street	La Habra	90631
+South Detroit Street	Los Angeles	90036
+South Dewey Avenue	Los Angeles	90006
+South Dewitt Way	Yreka	96097
+South Dexford Drive	La Habra	90631
+South Dexter Street	La Habra	90631
+South Diamond Bar Boulevard	Diamond Bar	91765
+South Diamond Canyon Road	Diamond Bar	91765
+South Dianthus Street	Manhattan Beach	90266
+South Dillon Street	Los Angeles	90057
+South District Drive	Inglewood	90301
+South Ditman Avenue	Los Angeles	90023
+South Ditman Avenue	Los Angeles	90063
+South Ditwood Place	La Habra	90631
+South Divisadero Street	Visalia	93277
+South Divisadero Street	Visalia	93291
+South Dode Avenue	Farmersville	93223
+South Dodson Avenue	San Pedro	90732
+South Dodsworth Avenue	Glendora	91740
+South Doheny Drive	Beverly Hills	90211
+South Doheny Drive	Los Angeles	90035
+South Doheny Drive	Los Angeles	90048
+South Dollner Street	Visalia	93277
+South Dollner Street	Visalia	93291
+South Dolores Street	Carson	90745
+South Dolphin Avenue	San Pedro	90731
+South Dolphin Street	San Pedro	90731
+South Dolphin Street	San Pedro	90732
+South Dominguez Hills Drive	Compton	90220
+South Dommer Avenue	Walnut	91789
+South Donna Beth Avenue	Azusa	91702
+South Donna Beth Avenue	West Covina	91791
+South Dora St	Ukiah	 
+South Doree Street	Porterville	93257
+South Dorsey Street	Los Angeles	90011
+South Dorwood Avenue	La Habra	90631
+South Doty Avenue	Inglewood	90303
+South Doty Avenue	Lawndale	90260
+South Douglas Street	El Segundo	90245
+South Dover Street	Glendora	91740
+South Downey Road	Los Angeles	90023
+South Downey Road	Los Angeles	90058
+South Downey Road	Los Angeles	90063
+South Doyle Street	Porterville	93257
+South Dr	Auburn	95603
+South Dr	Big Bear City	92314
+South Dr	Freedom	95019
+South Dr	Hanford	93230
+South Dr	Mountain View	94040
+South Dr	Santa Clara	95051
+South Dr #1	Auburn	95603
+South Dr #10	Auburn	95603
+South Dr #11	Auburn	95603
+South Dr #12	Auburn	95603
+South Dr #13	Auburn	95603
+South Dr #14	Auburn	95603
+South Dr #15	Auburn	95603
+South Dr #16	Auburn	95603
+South Dr #2	Auburn	95603
+South Dr #3	Auburn	95603
+South Dr #4	Auburn	95603
+South Dr #5	Auburn	95603
+South Dr #6	Auburn	95603
+South Dr #7	Auburn	95603
+South Dr #8	Auburn	95603
+South Dr #9	Auburn	95603
+South Drifton Avenue	San Dimas	91773
+South Dryden Lane	West Covina	91792
+South Du Ray Place	Los Angeles	90016
+South Duarte Street	Los Angeles	90058
+South Dublin Avenue	Los Angeles	90008
+South Dudley Street	Pomona	91766
+South Duggan Avenue	Azusa	91702
+South Duke Street	Visalia	93277
+South Dunbarton Avenue	Los Angeles	90045
+South Dunbrooke Avenue	Carson	90746
+South Duncan Avenue	Los Angeles	90022
+South Duncan Avenue	Los Angeles	90040
+South Dunleer Place	Los Angeles	90064
+South Dunn Drive	Los Angeles	90034
+South Dunsford Avenue	Littlerock	93543
+South Dunsmuir Avenue	Los Angeles	90008
+South Dunsmuir Avenue	Los Angeles	90016
+South Dunsmuir Avenue	Los Angeles	90019
+South Dunsmuir Avenue	Los Angeles	90036
+South Dunswell Avenue	Hacienda Heights	91745
+South Dunworth Street	Visalia	93292
+South Durango Avenue	Los Angeles	90034
+South Durango Avenue	Los Angeles	90035
+South Durham Street	La Habra	90631
+South Dwight Avenue	Compton	90220

@@ -1,0 +1,483 @@
+Sol Ave	Riverside	92503
+Sol Brae Way	Orinda	94563
+Sol Ct	Hemet	92544
+Sol Ct	Stockton	95210
+Sol De Linda St	Coachella	92236
+Sol Ln	Ukiah	 
+Sol Semete Trl	Redding	96001
+Sol Sitio St	Oceanside	92057
+Sol St	Buena Park	90621
+Sol Vista	Fallbrook	92028
+Sol Vista Gln	Escondido	92025
+Sol Vista Lane	Rancho Palos Verdes	90275
+Sol Way	Citrus Heights	95621
+Sol Wood	Boulevard	91905
+Sola Ave	Blythe	92225
+Sola Ave	San Francisco	94116
+Sola Court	Atwater	95301
+Sola Ct	Sacramento	95835
+Sola Ct	San Luis Obispo	93405
+Sola Ct	Santa Rosa	95403
+Sola St	Blythe	92225
+Sola St	Cupertino	95014
+Sola St	Indio	92201
+Solace Ct	Encinitas	92024
+Solace Ct	Palm Springs	92262
+Solace Dr.	Rancho Mission Viejo	92675
+Solace Dr.	Rancho Mission Viejo	92694
+Solace Loop	San Jose	95122
+Solace Pl	Mountain View	94040
+Solace River Wy	Roseville	95747
+Solace Springs Rd	Yorkville	 
+Solace St	San Jose	95122
+Solace Vista	Fairfield	94533
+Soladera Way	Canyon Country	91351
+Solaire Dr	Roseville	95747
+Solaire Pl	Rancho Cucamonga	91730
+Solaire Way	Chino	91710
+Solama Way	Banning	92220
+Solambo Mine Rd	La Grange	95329
+Solamint Road	Canyon Country	91387
+Solana	Irvine	92612
+Solana Ave	El Centro	92243
+Solana Court	El Monte	91731
+Solana Court	Valencia	91354
+Solana Crest Trl	San Diego	92130
+Solana Ct	Barstow	92311
+Solana Ct	Belmont	94002
+Solana Ct	Grover Beach	93433
+Solana Ct	Lafayette	94549
+Solana Ct	Mountain View	94040
+Solana Ct	Santa Barbara	93109
+Solana Dr	Belmont	94002
+Solana Dr	Brentwood	94513
+Solana Dr	Del Mar	92014
+Solana Dr	Gilroy	95020
+Solana Dr	Lafayette	94549
+Solana Dr	Los Altos	94022
+Solana Dr	Mountain View	94040
+Solana Dr	Oroville	95966
+Solana Dr	Palo Alto	94306
+Solana Dr	Saratoga	95070
+Solana Dr	Solana Beach	92075
+Solana Drive	Los Banos	93635
+Solana Glen Ct	Solana Beach	92075
+Solana Gln	Escondido	92026
+Solana Hills Ct	Solana Beach	92075
+Solana Hills Dr	Solana Beach	92075
+Solana Lane	Canyon Country	91351
+Solana Lane	Nevada City	95959
+Solana Pl	Victorville	92395
+Solana Place	Cerritos	90703
+Solana Point Cir	Solana Beach	92075
+Solana Rd	Phelan	92371
+Solana Rd	Portola Valley	94028
+Solana Real	Fallbrook	92028
+Solana Ridge Dr	Vista	92084
+Solana St	San Diego	92114
+Solana St	San Jacinto	92582
+Solana Trl	Palm Springs	92262
+Solana Vista Dr	Solana Beach	92075
+Solana Way	Laguna Beach	92651
+Solana Way	Paso Robles	93446
+Solana Way	Santa Clarita	91350
+Solana Way	Temecula	92591
+Solandra Dr	Carlsbad	92011
+Solandra Ln	Spring Valley	91977
+Solandra St	Perris	92571
+Solano	El Centro	92243
+Solano	Soledad	93960
+Solano	Watsonville	95076
+Solano Ave	Avenal	93204
+Solano Ave	Bay Point	94565
+Solano Ave	Berkeley	94707
+Solano Ave	Blythe	92225
+Solano Ave	El Centro	92243
+Solano Ave	El Granada	94018
+Solano Ave	Indio	92201
+Solano Ave	Napa	94558
+Solano Ave	Richmond	94805
+Solano Ave	Sonoma	95476
+Solano Ave	Unincorporated Alameda County	94541
+Solano Ave	Yountville	94558
+Solano Avenue	Los Angeles	90012
+Solano Avenue	Tulare	93274
+Solano Avenue	Vallejo	94590
+Solano Bay Ct	Oceanside	92057
+Solano Bay Dr	Oceanside	92057
+Solano Cir	Huntington Beach	92646
+Solano Cir	Huntington Beach	92646-5695
+Solano Cir	Huntington Beach	92646-5696 
+Solano Cir	Huntington Beach	92646-8607 
+Solano Cir	Huntington Beach	92646-8608
+Solano Cir	Huntington Beach	92646-8609
+Solano Cir	Huntington Beach	92646-8610
+Solano Cir	Modesto	95355
+Solano Cir	Placentia	92870
+Solano Circle	Montebello	90640
+Solano Court	Merced	95340
+Solano Court	Vacaville	95688
+Solano Ct	Bay Point	94565
+Solano Ct	Concord	94520
+Solano Ct	El Sobrante	94803
+Solano Ct	Laguna Hills	92653
+Solano Ct	Lake Elsinore	92530
+Solano Ct	Lathrop	95330
+Solano Ct	Morgan Hill	95037
+Solano Ct	Richmond	94803
+Solano Ct	Santa Clara	95051
+Solano Ct	Sonoma	95476
+Solano Dr	Anaheim	90620
+Solano Dr	Bakersfield	93305
+Solano Dr	Buena Park	90620
+Solano Dr	Camarillo	93012
+Solano Dr	Chula Vista	91913
+Solano Dr	Hemet	92545
+Solano Dr	Jurupa Valley	92509
+Solano Dr	Lathrop	95330
+Solano Dr	Pacifica	94044
+Solano Dr	Phelan	92371
+Solano Dr	San Jose	95119
+Solano Dr	Santa Rosa	95404
+Solano Dr	Ventura	93004
+Solano Drive	Benicia	94510
+Solano Drive	Dixon	95620
+Solano Lane	Vacaville	95688
+Solano Park Circle	Davis	95616
+Solano Pl	Cathedral City	92234
+Solano Pl	Morgan Hill	95037
+Solano Place	Covina	91724
+Solano Rd	Atascadero	93422
+Solano Rd	El Centro	92243
+Solano Rd	Phelan	92371
+Solano Rd	Pinon Hills	92372
+Solano Rd	Pismo Beach	93449
+Solano Rd	Victorville	92392
+Solano River Ct	Fountain Valley	92708
+Solano Road	Fairfield	94533
+Solano Square	Benicia	94510
+Solano St	Brisbane	94005
+Solano St	Carlsbad	92009
+Solano St	Corona	92882
+Solano St	Los Osos	93402
+Solano St	Madera	93638
+Solano St	San Rafael	94901
+Solano St	Tiburon	94920
+Solano St	Ventura	93004
+Solano Street	Suisun City	94585
+Solano Street	West Sacramento	95605
+Solano Verde	Somis	93066
+Solano Verde Dr	Somis	93066
+Solano Verde Rd	Somis	93066
+Solano Way	11	94520
+Solano Way	Concord	94520
+Solano Way	Fair Oaks	95628
+Solano Way	Martinez	94553
+Solano Way	Oxnard	93033
+Solano Way	Pacheco	94553
+Solano Way	Redlands	92374
+Solano Way	Salinas	93906
+Solar	Aptos	95003
+Solar	Oxnard	93030
+Solar Ave	Ceres	95351
+Solar Ave	Salton City	92274
+Solar Bay Ln	Victorville	92394
+Solar Cir	Corona	92882
+Solar Ct	Milpitas	95035
+Solar Ct	San Rafael	94901
+Solar Dr	Oxnard	93030
+Solar Dr	Oxnard	93036
+Solar Dr	Perris	92570
+Solar Dr	Red Mountain	93558
+Solar Drive	Grass Valley	95945
+Solar Drive	Los Angeles	90046
+Solar Drive	Monterey Park	91754
+Solar Estates Dr	Chico	95928
+Solar Flare Ct	Roseville	95747
+Solar Flare Wy	Roseville	95747
+Solar Hills Drive	Vacaville	95688
+Solar Ln	San Marcos	92069
+Solar Pl	Salton City	92274
+Solar Point Dr	Roseville	95747
+Solar Rd	Lucerne Valley	92356
+Solar Rd	Perris	92570
+Solar Ridge Rd	Lower Lake	95457
+Solar St	San Diego	92110
+Solar View Dr	San Marcos	92069
+Solar Way	Barstow	92311
+Solar Way	Healdsburg	95448
+Solar Way	Pismo Beach	93449
+Solar Way	Redding	96002
+Solar Way	Sacramento	95827
+Solar Wy	Roseville	95747
+Solar Wy	Vandenberg Village	93436
+Solara Ln	Vista	92081
+Solara Pl	Lincoln	95648
+Solara Place	Santa Clarita	91350
+Solara St	Moreno Valley	92555
+Solara Way	Lincoln	95648
+Solara Way	Rialto	92376
+Solarce St	Coachella	92236
+Solardo Dr	Menifee	92585
+Solares Cir	Santa Barbara Unincorporated	93460
+Solares St	Camarillo	93010
+Solari Av	Stockton	95205
+Solari Ave	Pittsburg	94565
+Solari Pl	San Jose	95131
+Solari St	Pittsburg	94565
+Solari Way	Sacramento	95821
+Solaria Street	Tulare	93274
+Solaridge Rd	Guerneville	95446
+Solario Ln	Bakersfield	93306
+Solaris Ct	Corona	92883
+Solaris Dr	Rancho Cucamonga	91739
+Solaris Ln	Bayside	95524
+Solaro Way	Manteca	95336
+Solaro Wy	Manteca	95336
+Solazar Way	Oceanside	92056
+Solazzo Dr	Rancho Cucamonga	91730
+Soldano Avenue	Azusa	91702
+Soldano Drive	Azusa	91702
+Soldau Dr	San Diego	92154
+Soldea Rd	Phelan	92371
+Soldier Creek Rd	Junction City	96048
+Soldier Ln	Penngrove	94951
+Soldier Mountain Ct	Antioch	94531
+Soldier Mountain Rd	Fall River Mills	96028
+Soldier Oaks Ln	Valley Center	92082
+Soldier St	Perris	92571
+Soldiers Ranch Way	Plumas Lake	95961
+Soldin Ln	El Cajon	92021
+Soldin Pl	El Cajon	92021
+Soldon Court	Canyon Country	91351
+Sole Glen	Escondido	92029
+Sole Ln	Friant	93626
+Sole St	King Salmon	95503
+Sole Villa Ln	Manteca	95337
+Soleado Dr	Ceres	95307
+Soleado Ln Ln	Redding	96001
+Solecita Way	Bakersfield	93314
+Soledad	Calexico	92231
+Soledad	Mission Viejo	92691
+Soledad	Salinas	93901
+Soledad	Soledad	93960
+Soledad Av	Santa Barbara	93103
+Soledad Ave	La Jolla	92037
+Soledad Ave	Landers	92284
+Soledad Ave	Landers	92285
+Soledad Ave	Sacramento	95820
+Soledad Ave	Yucca Valley	92284
+Soledad Canyon Road	Acton	93510
+Soledad Canyon Road	Canyon Country	91351
+Soledad Canyon Road	Canyon Country	91387
+Soledad Canyon Road	Santa Clarita	91350
+Soledad Canyon Road	Santa Clarita	91390
+Soledad Canyon Road West	Acton	93510
+Soledad Ct	Bakersfield	93307
+Soledad Ct	Bre	92823
+Soledad Ct	Brea	92823
+Soledad Ct	La Jolla	92037
+Soledad Ct	Roseville	95747
+Soledad Ct	Santa Maria	93454
+Soledad Ct	Santa Maria	93455
+Soledad Dr	Apple Valley	92307
+Soledad Dr	Apple Valley	92308
+Soledad Dr	Cottonwood	96022
+Soledad Dr	Riverside	92504
+Soledad Dr	Roseville	95747
+Soledad Drive	Monterey	93940
+Soledad Fwy	San Diego	92145
+Soledad Hwy	San Diego	92145
+Soledad Ln	Hemet	92544
+Soledad Ln	San Pablo	94806
+Soledad-Metz	Soledad	93960
+Soledad Mountain Rd	La Jolla	92037
+Soledad Mountain Rd	San Diego	92109
+Soledad Pass Road	Palmdale	93550
+Soledad Pl	Coachella	92236
+Soledad Pl	Coronado	92118
+Soledad Pl	Escondido	92027
+Soledad Place	Monterey	93940
+Soledad Rancho Ct	San Diego	92109
+Soledad Rancho Rd	San Diego	92109
+Soledad Rd	Adelanto	92301
+Soledad Rd	La Jolla	92037
+Soledad Rd	Pinon Hills	92372
+Soledad Rd	San Diego	92109
+Soledad St	Gilroy	95020
+Soledad St	Laguna Niguel	92677
+Soledad Street	Canyon Country	91351
+Soledad Street	Salinas	93901
+Soledad Street	Soledad	93960
+Soledad Way	Rancho Cucamonga	91739
+Soledad Way	San Diego	92109
+Soledad Way N	La Grange	95329
+Soledad Way S	La Grange	95329
+Soleil Ct	Sacramento	95829
+Soleil Ct	San Jose	95126
+Soleil Dr	Eastvale	92880
+Soleil Way	Granite Bay	95746
+Soleil Way	Santa Rosa	95403
+Solejar Drive	La Habra	90631
+Solejar Drive	Whittier	90603
+Solell Cir	Menifee	92585
+Solem Avenue	Azusa	91702
+Solem Street	Azusa	91702
+Soler Ct	Temecula	92592
+Soler Dr	Oxnard	93036
+Solera Dr	Laguna Niguel	92677
+Solera Dr	Lodi	95240
+Solera Dr	Rancho Cordova	95670
+Solera Dr	San Jose	95135
+Solera Drive	Palmdale	93551
+Solera Lane	Diamond Bar	91765
+Solera Ln	American Canyon	94503
+Solera St	Brentwood	94513
+Solera Way	Perris	92571
+Solera Way	Poway	92064
+Solero Way	Salida	95368
+Solfrid Way	Elk Grove	95757
+Solicio Way	Indio	92203
+Solid Rock Rd	Redding	96003
+Solidago Rd	Temecula	92591
+Soliday Ct	Folsom	95630
+Solido St	Rancho Mission Viejo	92694
+Solig Ave	Kingsburg	93631
+Solig St	Kingsburg	93631
+Solimar Bch Rd	Ventura	93001
+Solimar Beach	Ventura	93001
+Solimar Beach Dr	Ventura	93001
+Solimar Beach Dr	Ventura County	93001
+Solimar Beach Rd	Ventura	93001
+Solimar Dr	Ventura	93001
+Solimar Drive	Los Banos	93635
+Solinda	Tustin	92782
+Solinsky Dr	Sonora	95370
+Solis Ct	Manteca	95337
+Solis Dr	Gilroy	95020
+Solis Dr	Roseville	95747
+Solis Rancho Dr	Gilroy	95020
+Solis Street	Merced	95348
+Solis Way	Rancho Cordova	95742
+Solita Ave	La Mesa	91942
+Solita Ave	San Diego	92115
+Solita Ct	Los Gatos	95030
+Solita Road	Pasadena	91103
+Solitaire Ct	Jurupa Valley	91752
+Solitaire Ct	Twain Harte	95383
+Solitaire Ln	Aliso Viejo	92656
+Solitaire Way	Irvine	92620
+Solitare Cir	Moreno Valley	92557
+Solitary Ln	Carmichael	95608
+Solitary Ln	Fallbrook	92028
+Solito Ct	Forestville	95436
+Solito Ct	San Jose	95123
+Solito Street	Davis	95616
+Solitude	Mammoth Lakes	93546
+Solitude Ave	Chino	91708
+Solitude Ave	Moreno Valley	92555
+Solitude Cir	Victorville	92392
+Solitude Court	Vacaville	95688
+Solitude Court	Vallejo	94591
+Solitude Ct	Antelope	95843
+Solitude Ct	Lathrop	95330
+Solitude Ct	Oakley	94561
+Solitude Ct	Rancho Cucamonga	91737
+Solitude Ct	Riverside	92506
+Solitude Ct	Rocklin	95765
+Solitude Dr	Bakersfield	93312
+Solitude Dr	Menifee	92584
+Solitude Dr	Oakley	94561
+Solitude Lane	Stevenson Ranch	91381
+Solitude Ln	Richmond	94803
+Solitude Ln	Shaver Lake	93664
+Solitude Ln	Turlock	95380
+Solitude Peak Dr	Martinez	94553
+Solitude Way	Brentwood	94513
+Solitude Way	Rocklin	95765
+Soll Ct	Sebastopol	95472
+Soller	Mission Viejo	92692
+Solliden Lane	La Canada Flintridge	91011
+Solmar Ct	Oakdale	95361
+Solmira Place	Palmdale	93551
+Solo Ln	Columbia	95310
+Solo Roble	San Marcos	92078
+Solo Roble St	San Marcos	92078
+Solo Street	Norwalk	90650
+Solo Way	Elk Grove	95757
+Solola Ave	San Diego	92113
+Solola Ave	San Diego	92114
+Soloman	Long Barn	95335
+Solomon Ave	El Cajon	92021
+Solomon Ave	Napa	94558
+Solomon Ct	Napa	94558
+Solomon Ct	San Jose	95123
+Solomon Ct	Tracy	95377
+Solomon Dr	Elk Grove	95757
+Solomon Island Road	West Sacramento	95691
+Solomon Lane	Van Nuys	91411
+Solomon Ln	Tracy	95377
+Solomon Peak Dr	Anderson	96007
+Solomon Peak Dr	Riverside	92503
+Solomon Rd	Orcutt	93455
+Solomon Rd	Santa Maria	93455
+Solomon Road	Big Springs	96064
+Solomon Road	Seaside	93955
+Solomon St	Jurupa Valley	92509
+Solomon Ter	Sunnyvale	94089
+Solomon View Rd	Orcutt	93455
+Solomon View Rd	Santa Maria	93455
+Solon Avenue	Canyon Country	91387
+Solonia St	Riverside	92503
+Solonica St	Mission Viejo	92691
+Solons Aly	Sacramento	95811
+Solons Aly	Sacramento	95816
+Solons Aly	Sacramento	95819
+Solothurn Way	Manteca	95337
+Solothurn Wy	Manteca	95337
+Solrio	Mission Viejo	92692
+Solsberry Way	Rancho Cordova	95742
+Solstice	Irvine	92602
+Solstice	The Sea Ranch	95497
+Solstice Ave	Chula Vista	91915
+Solstice Avenue	Merced	95348
+Solstice Canyon Road	Malibu	90265
+Solstice Cir	Temecula	92590
+Solstice Ct	Lake Elsinore	92530
+Solstice Ct	Oakley	94561
+Solstice Dr	Ladera Ranch	92694
+Solstice Lane	Stevenson Ranch	91381
+Solstice Ln	Redwood City	94065
+Solstice Pl	Palm Desert	92211
+Solstice Pl	Rancho Cucamonga	91730
+Solstice Pl	Rancho Cucamonga	91739
+Solstice St	Roseville	95747
+Solstice St	Winchester	92596
+Solstice Way	Bakersfield	93306
+Solstice Way	Bonsall	92003
+Solstice Way	Folsom	95630
+Solstice Way	San Diego	92126
+Solstone Wy	Roseville	95747
+Soltero	Mission Viejo	92691
+Soltero Dr	San Jose	95123
+Solterra Ln	Adelanto	92301
+Solterra Vista Pkwy	San Diego	0
+Solterra Vista Pky	San Diego	92130
+Soltierra Ct	Bakersfield	93311
+Soltierra Pl	Bakersfield	93311
+Solus Campground Rd	Lakehead	96051
+Solus Court	Weed	96094
+Solus Drive	Weed	96094
+Solus Place	Weed	96094
+Solvang Ave	Victorville	92394
+Solvang Ct	Elk Grove	95758
+Solvang Ln	Menifee	92584
+Solvang Pl	Riverside	92503
+Solvang Street	North Hollywood	91605
+Solvang Way	Truckee	96161
+Solvay Aisle	Irvine	92606
+Solvay Street	Palmdale	93552
+Solveig Dr	Walnut Creek	94596
+Solway Ct	Thousand Oaks	91362
+Solway Street	Glendale	91206
+Solymar Dr	La Jolla	92037

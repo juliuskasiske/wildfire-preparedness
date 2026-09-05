@@ -1,0 +1,391 @@
+Arc Av	Stockton	95210
+Arc Ct	Hayward	94544
+Arc Dome Ave	Bakersfield	93313
+Arc Dr	Chowchilla	93610
+Arc Way	Burlingame	94010
+Arc Way	Modesto	95350
+Arc Way	Ybl	92886
+Arc Way	Yorba Linda	92886
+Arca	La Selva Bch	95076
+Arcada Ct	Elk Grove	95624
+Arcada Dr	Mission Viejo	92691
+Arcada St	Palm Springs	92262
+Arcade	Irvine	92603
+Arcade Ave	Berkeley	94708
+Arcade Ave	San Jose	95148
+Arcade Blvd	Sacramento	95815
+Arcade Creek Way	Orangevale	95662
+Arcade Dr	Ventura	93003
+Arcade Lake Ln	Citrus Heights	95610
+Arcade Lane	Whittier	90603
+Arcade Oaks Ct	Orangevale	95662
+Arcade Place	Glendale	91206
+Arcade Rd	Atascadero	93422
+Arcade St	Ventura	93003
+Arcade Way	Redding	96002
+Arcadia Av	Santa Clara	95051
+Arcadia Ave	Apple Valley	92308
+Arcadia Ave	Hesperia	92345
+Arcadia Ave	Lemon Grove	91945
+Arcadia Ave	Loomis	95650
+Arcadia Ave	Morro Bay	93442
+Arcadia Ave	National City	91950
+Arcadia Ave	Salton City	92274
+Arcadia Ave	Santa Clara	95051
+Arcadia Ave	Unincorporated	92676
+Arcadia Ave	Vista	92084
+Arcadia Avenue	Arcadia	91007
+Arcadia Avenue	Long Beach	90803
+Arcadia Avenue	Paramount	90723
+Arcadia Avenue	San Gabriel	91775
+Arcadia Bluff Ct	San Marcos	92069
+Arcadia Ca	Arcadia	91007
+Arcadia Cir	Discovery Bay	94505
+Arcadia Circle	Salinas	93906
+Arcadia Court	Hawthorne	90250
+Arcadia Court	Salinas	93906
+Arcadia Court	Vacaville	95687
+Arcadia Court Court	Salinas	93906
+Arcadia Ct	Martinez	94553
+Arcadia Ct	Napa	94558
+Arcadia Ct	Pacifica	94044
+Arcadia Ct	Palm Springs	92262
+Arcadia Ct	Riverbank	95367
+Arcadia Ct	Temecula	92592
+Arcadia Dr	Arroyo Grande	93420
+Arcadia Dr	Big Bear City	92314
+Arcadia Dr	Citrus Heights	95610
+Arcadia Dr	Daly City	94015
+Arcadia Dr	Hayward	94541
+Arcadia Dr	Huntington Beach	92648
+Arcadia Dr	Huntington Beach	92648-6862
+Arcadia Dr	Huntington Beach	92648-6863
+Arcadia Dr	Huntington Beach	92648-6864
+Arcadia Dr	Huntington Beach	92648-6865
+Arcadia Dr	Pacifica	94044
+Arcadia Dr	San Diego	92103
+Arcadia Dr	San Jose	95117
+Arcadia Dr	Santa Rosa	95401
+Arcadia Drive	Grass Valley	95945
+Arcadia Drive	San Pedro	90731
+Arcadia Drive	Vacaville	95687
+Arcadia Ln	Menifee	92584
+Arcadia Ln	Palm Desert	92260
+Arcadia Ln	Santa Rosa	95401
+Arcadia Palms Dr	Saratoga	95070
+Arcadia Pl	Hillsborough	94010
+Arcadia Pl	Lodi	95240
+Arcadia Pl	Martinez	94553
+Arcadia Pl	National City	91950
+Arcadia Pl	Palo Alto	94303
+Arcadia Rd	Desert Hot Springs	92240
+Arcadia Rd	Encinitas	92024
+Arcadia Rd	Phelan	92371
+Arcadia Rd	Pinon Hills	92371
+Arcadia Rd	Pinon Hills	92372
+Arcadia St	Apple Valley	92308
+Arcadia St	Bakersfield	93306
+Arcadia St	Corona	92881
+Arcadia St	Eastvale	92880
+Arcadia St	Oxnard	93033
+Arcadia St	Yucaipa	92399
+Arcadia Street	Newhall	91321
+Arcadia Ter	Sunnyvale	94085
+Arcadia Ter	Sunnyvale	94087
+Arcadia Terrace	Santa Monica	90401
+Arcadia Trl	Yucca Valley	92284
+Arcadia Way	Oceanside	92056
+Arcadia Way	Rancho Cucamonga	91739
+Arcadia Way	Salinas	93906
+Arcadia Way	Walnut	91789
+Arcadian Ave	Chico	95926
+Arcadian Ave	Mission Viejo	92691
+Arcadian Ct	Cathedral City	92234
+Arcadian Dr	Turlock	95382
+Arcadian Shores Trl	Oxnard	93036
+Arcadian St	Adelanto	92301
+Arcadian St	Chowchilla	93610
+Arcady Rd	Montecito	93108
+Arcana Court	Pomona	91767
+Arcana Road	Woodland Hills	91364
+Arcane	Simi Valley	93065
+Arcane St	Simi Valley	93065
+Arcangel Ct	Fairfax	94930
+Arcangel Way	San Pablo	94806
+Arcangel Way	San Rafael	94903
+Arcangela St	Perris	92571
+Arcano Avenue	Arboga	95961
+Arcano Way	Rio Linda	95673
+Arcara St	Winchester	92596
+Arcaro Ct	Citrus Heights	95610
+Arcaro Ct	Roseville	95661
+Arcaro Dr	Riverbank	95367
+Arcaro Ln	Solana Beach	92075
+Arcata	Irvine	92602
+Arcata Ave	Lemoore	93245
+Arcata Bay Road	West Sacramento	95691
+Arcata Bay Way	Oceanside	92058
+Arcata Ct	Apple Valley	92307
+Arcata Ct	Stockton	95209
+Arcata Dr	Mission Viejo	92692
+Arcata Dr	Redlands	92374
+Arcata Ln	Apple Valley	92307
+Arcata Rd	Apple Valley	92307
+Arcata Rd	Ojai	93023
+Arcata St	Clearlake	95422
+Arcata St	Fontana	92336
+Arcata Trl	Big River	92242
+Arcata Way	Atwater	95301
+Arcay Avenue	Canyon Country	91351
+Arcdale Avenue	Rowland Heights	91748
+Arce	Watsonville	95076
+Arce Ct	San Diego	92154
+Arcel Cir	Huntington Beach	92646
+Arcel Cir	Huntington Beach	92646-7101
+Arceli Wy	Moreno Valley	92555
+Arcella Cir	Foothill Ranch	92610-2605
+Arcella Cir	Lake Forest	92610
+Arch Airport Rd	Stockton	95206
+Arch Bay	Laguna Niguel	92677
+Arch Bay Dr	Newport Beach	92660
+Arch Crest Drive	Los Angeles	90043
+Arch Ct	Brentwood	94513
+Arch Ct	Concord	94520
+Arch Drive	Studio City	91604
+Arch Hill Dr	Corona	92883
+Arch Ln	Huntington Beach	92648
+Arch Ln	Huntington Beach	92648-3765
+Arch Ln	Huntington Beach	92648-3766
+Arch Ln	San Carlos	94070
+Arch Place	Glendale	91206
+Arch Rd	Stockton	95215
+Arch Rock Rd	The Sea Ranch	95497
+Arch Rock Street	Merced	95340
+Arch St	Berkeley	94708
+Arch St	Berkeley	94709
+Arch St	Laguna Beach	92651
+Arch St	Larkspur	94939
+Arch St	Martinez	94553
+Arch St	Needles	92363
+Arch St	Redwood City	94062
+Arch St	San Diego	92116
+Arch St	San Francisco	94132
+Arch St	Somis	93066
+Arch Street	Newhall	91321
+Arch Way	Calistoga	94515
+Arch Way	Carnelian Bay	96140
+Arch Way	Chico	95973
+Arch Way	Lake Elsinore	92530
+Arch Way	Riverside	92504
+Arch Way	Riverside	92506
+Archail Court	Palmdale	93552
+Archangel Dr	San Jose	95002
+Archbow Ct	San Jose	95136
+Archbriar Ct	Mission Hills	93436
+Archbriar Way	Simi Valley	93065
+Archbury Ct	San Jose	95148
+Archcliff Ct	Hayward	94544
+Archcliffe Dr	Ceres	95307
+Archcove Ct	San Jose	95111
+Archcrest Way	Sacramento	95835
+Archdale Ct	South San Francisco	94080
+Archdale Road	Encino	91436
+Archdale St	Riverside	92506
+Archean Way	Sacramento	95823
+Archer	Ben Lomond	95005
+Archer	Salinas	93901
+Archer	Santa Cruz	95060
+Archer Av	Manteca	95337
+Archer Ave	Banning	92220
+Archer Ave	Chico	95928
+Archer Ave	Chula Vista	91913
+Archer Ave	Fair Oaks	95628
+Archer Ave	Gridley	95948
+Archer Ave	Manteca	95337
+Archer Ave	Napa	94558
+Archer Avenue	Live Oak	95953
+Archer Cir	Corona	92882
+Archer Cir	Huntington Beach	92646
+Archer Cir	Huntington Beach	92646-8017
+Archer Cir	Moraga	94556
+Archer Cir	Rocklin	95765
+Archer Cir	Shandon	93461
+Archer Court	Vallejo	94591
+Archer Ct	Anderson	96007
+Archer Ct	Campbell	95008
+Archer Ct	Lompoc	93436
+Archer Ct	San Mateo	94401
+Archer Drive	Woodland	95695
+Archer Ln	Willits	 
+Archer Pl	Willits	 
+Archer Place	Dixon	95620
+Archer Place	Weed	96094
+Archer Place	Woodland	95695
+Archer Rd	Igo	96047
+Archer Rd	Mckinleyville	95519
+Archer Rd	San Marcos	92078
+Archer Rd	Yucca Valley	92284
+Archer Road	Grass Valley	95949
+Archer Road	Moss Landing	95039
+Archer Road	Salinas	93907
+Archer Road	Weed	96094
+Archer St	Jurupa Valley	92509
+Archer St	Lompoc	93436
+Archer St	Oceanside	92058
+Archer St	San Diego	92109
+Archer St	San Jose	95002
+Archer St	San Jose	95112
+Archer St	San Luis Obispo	93401
+Archer Street	Madison	95653
+Archer Street	Monterey	93940
+Archer Street	Salinas	93901
+Archer Way	Banning	92220
+Archer Way	Campbell	95008
+Archer Way	Nipomo	93444
+Archer Way	Sebastopol	95472
+Archerwill Rd	Apple Valley	92308
+Archery Ct	El Sobrante	94803
+Archery Ct	Fontana	92336
+Archery View	Truckee	96161
+Archery Way	El Sobrante	94803
+Archery Way	Grass Valley	95949
+Archery Way	Westlake Village	91361
+Arches	Irvine	92603
+Arches Cir	Sacramento	95835
+Arches Ct	Fountain Valley	92708
+Arches Ct	Jurupa Valley	92509
+Arches Ct	Oakley	94561
+Arches Ct	Tracy	95376
+Arches Dr	Fontana	92337
+Arches Dr	Menifee	92585
+Arches Lane	Canyon Country	91387
+Arches Park	Beaumont	92223
+Arches Way	Carlsbad	92009
+Arches Way	Corona	92880
+Arches Way	Elk Grove	95757
+Arches Way	Indio	92203
+Arches Wy	Roseville	95747
+Archetta Ct	Manteca	95336
+Archfield Ct	Morgan Hill	95037
+Archfield Ln	Huntington Beach	92648
+Archfield Ln	Huntington Beach	92648-5510
+Archfield Ln	Huntington Beach	92648-5511
+Archglen Way	San Jose	95111
+Archibald Ave	Alta Loma	91737
+Archibald Ave	Carson	90745
+Archibald Ave	Eastvale	92880
+Archibald Ave	Ontario	91762
+Archibald Ave	Rancho Cucamonga	91701
+Archibald Ave	Rancho Cucamonga	91730
+Archibald Ave	Rancho Cucamonga	91737
+Archibald Ave & Foothill Blv NE	Rancho Cucamonga	91730
+Archibald Avenue	Rancho Cucamonga	91730
+Archibald Ct	Sacramento	95823
+Archibald Dr	Saratoga	95070
+Archibald Ln	Novato	94945
+Archibald St	Eastvale	92880
+Archibeck Dr	Nuevo	92567
+Archiblad Ave	Rancho Cucamonga	91730
+Archie Ave	Moreno Valley	92555
+Archie Brown Rd	Fall River Mills	96028
+Archie Moore Rd	Ramona	92065
+Archie Moore Ring	Ramona	92065
+Archie Moore Trl	Ramona	92065
+Archie Valley Ct	Calimesa	92320
+Archimedes Drive	Arboga	95961
+Archipelago Dr	Newport Beach	92657
+Architect Court	Vacaville	95687
+Archley Ct	Elk Grove	95624
+Archshire Ct	San Jose	95148
+Archstone Pl	San Diego	92131
+Archway	Irvine	92618
+Archway Ave	Rio Linda	95673
+Archway Drive	Whittier	90604
+Archway Ln	Laguna Niguel	92677
+Archway Ln	Oceanside	92057
+Archwod Ln	Simi Valley	93063
+Archwood	Simi Valley	93063
+Archwood Ave	Brea	92821
+Archwood Ave	San Diego	92120
+Archwood Cir	San Jose	95148
+Archwood Ct	Brea	92821
+Archwood Ct	Riverside	92508
+Archwood Drive	Pomona	91766
+Archwood Lane	Van Nuys	91406
+Archwood Ln	Simi Valley	93063
+Archwood Pl	Escondido	92026
+Archwood Place	Altadena	91001
+Archwood Place	North Hollywood	91606
+Archwood Rd	Sacramento	95821
+Archwood St	Simi Valley	93063
+Archwood Street	Canoga Park	91303
+Archwood Street	North Hollywood	91606
+Archwood Street	Reseda	91335
+Archwood Street	Van Nuys	91401
+Archwood Street	Van Nuys	91405
+Archwood Street	Van Nuys	91406
+Archwood Street	Van Nuys	91411
+Archwood Street	West Hills	91307
+Archwood Street	Winnetka	91306
+Archwood Way	Lancaster	93536
+Archwood Way	Palmdale	93552
+Arciero Ct	Paso Robles	93446
+Arciero Drive	Tulare	93274
+Arciero Drive	Whittier	90601
+Arciero St	Bakersfield	93312
+Arcilla	Rancho Santa Margarita	92688
+Arco Ave	Joshua Tree	92252
+Arco Ct	San Jose	95123
+Arco Del Paso Ln	Sacramento	95834
+Arco Dr	Escondido	92026
+Arco Rd	Winchester	92596
+Arco Way	San Francisco	94112
+Arcola Ave	Sacramento	95835
+Arcola Ave	San Diego	92117
+Arcola Avenue	North Hollywood	91601
+Arcola Avenue	North Hollywood	91602
+Arcola Avenue	Sun Valley	91352
+Arcola Ct	San Jose	95148
+Arcola Dr	Aguanga	92536
+Arcola Dr	Hemet	92544
+Arcona Ct	Sacramento	95829
+Arcos	Mission Viejo	92691
+Arcos Drive	Woodland Hills	91364
+Arcos Way	Elk Grove	95757
+Arcs St	Winchester	92596
+Arctic	Ceres	95351
+Arctic Av	Santa Maria	93454
+Arctic Ave	Salton City	92274
+Arctic Ave	Salton City	92275
+Arctic Ave	San Jose	95111
+Arctic Ave	Santa Maria	93454
+Arctic Ave	Vista Del Mar	92274
+Arctic Circle	Santa Fe Springs	90670
+Arctic Dr	Lake Arrowhead	92352
+Arctic Fox Ave	Eastvale	92880
+Arctic Loon Way	Rocklin	95765
+Arctic Mine Road	Nevada City	95959
+Arctic Ocean Dr	Lake Forest	92630
+Arctic Ocean Dr	Lake Forest	92630-8826
+Arctic Ocean Dr	Lake Forest	92630-8827
+Arctic Ocean Dr	Lake Forest	92630-8832
+Arctic Ocean Dr	Lake Forest	92630-8851
+Arctic Ocean Dr	Lake Forest	92630-8852
+Arctic Owl Road	Nevada City	95959
+Arctic Pl	Rancho Cucamonga	91739
+Arctic Tern Cir	Rancho Cordova	95742
+Arctic Tern Way	Rancho Cordova	95742
+Arcturus	Oxnard	93033
+Arcturus Av	Vandenberg Village	93436
+Arcturus Ave	Oxnard	93033
+Arcturus Avenue	Gardena	90249
+Arcturus Cir	Foster City	94404
+Arcturus Rd	Oxnard	93033
+Arcturus Reach	Truckee	96161
+Arcturus St	Thousand Oaks	91360
+Arcturus Way	San Diego	92126
+Arculeo Rd	Perris	92570
+Arcus Court	Santa Clarita	91350
+Arcus Ct	Beaumont	92223
+Arcy Lane	South El Monte	91733
+Arcy Ln	Pittsburg	94565

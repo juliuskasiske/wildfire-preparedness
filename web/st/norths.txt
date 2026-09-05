@@ -1,0 +1,153 @@
+Northseal Sq	Cupertino	95014
+Northshire Cir	Temecula	92592
+Northshore Dr	Bakersfield	93312
+Northshore Dr	Chula Vista	91913
+Northshore Dr	Lake Elsinore	92530
+Northshore Dr	Moreno Valley	92555
+Northshore Dr	Richmond	94804
+Northshore Ln	Thousand Oaks	91361
+Northshore Sq	Cupertino	95014
+Northshore St	Menifee	92584
+Northshore Way	Sacramento	95831
+Northside Ave	Berkeley	94702
+Northside Ave	Redwood City	94063
+Northside Ave	Sonoma	95476
+Northside Ct	Turlock	95380
+Northside Dr	San Diego	92108
+Northside Drive	Los Angeles	90022
+Northside Drive	Palmdale	93551
+Northside Row	Sacramento	95817
+Northsky Sq	Cupertino	95014
+Northslope Dr	Kelseyville	95451
+Northspur Rd	Willits	 
+Northstar	Lake Forest	92630
+Northstar	Lake Forest	92630-0000
+Northstar	Lake Forest	92630-7227
+Northstar	Lake Forest	92630-7234
+Northstar Ave	Fontana	92336
+Northstar Ave	Riverside	92508
+Northstar Ave	Victorville	92392
+Northstar Cir	Corona	92882
+Northstar Circle	Mammoth Lakes	93546
+Northstar Cove	Port Hueneme	93041
+Northstar Ct	Apple Valley	92308
+Northstar Ct	Petaluma	94954
+Northstar Ct	Roseville	95747
+Northstar Ct	Stockton	95209
+Northstar Dr	Hanford	93230
+Northstar Dr	Petaluma	94954
+Northstar Dr	Pittsburg	94565
+Northstar Dr	Riverside	92508
+Northstar Dr	Stockton	95209
+Northstar Dr	Truckee	96161
+Northstar Dr #101	Truckee	96161
+Northstar Dr #102	Truckee	96161
+Northstar Dr #103	Truckee	96161
+Northstar Dr #104	Truckee	96161
+Northstar Dr #105	Truckee	96161
+Northstar Dr #106	Truckee	96161
+Northstar Dr #107	Truckee	96161
+Northstar Dr #108	Truckee	96161
+Northstar Dr #109	Truckee	96161
+Northstar Dr #110	Truckee	96161
+Northstar Dr #111	Truckee	96161
+Northstar Dr #112	Truckee	96161
+Northstar Dr #113	Truckee	96161
+Northstar Dr #114	Truckee	96161
+Northstar Dr #115	Truckee	96161
+Northstar Dr #200	Truckee	96161
+Northstar Dr #201	Truckee	96161
+Northstar Dr #202	Truckee	96161
+Northstar Dr #203	Truckee	96161
+Northstar Dr #204	Truckee	96161
+Northstar Dr #205	Truckee	96161
+Northstar Dr #206	Truckee	96161
+Northstar Dr #207	Truckee	96161
+Northstar Dr #208	Truckee	96161
+Northstar Dr #209	Truckee	96161
+Northstar Dr #210	Truckee	96161
+Northstar Dr #211	Truckee	96161
+Northstar Dr #212	Truckee	96161
+Northstar Dr #214	Truckee	96161
+Northstar Dr #301	Truckee	96161
+Northstar Dr #302	Truckee	96161
+Northstar Dr #303	Truckee	96161
+Northstar Dr #304	Truckee	96161
+Northstar Dr #305	Truckee	96161
+Northstar Dr #306	Truckee	96161
+Northstar Dr #307	Truckee	96161
+Northstar Dr #308	Truckee	96161
+Northstar Dr #309	Truckee	96161
+Northstar Dr #310	Truckee	96161
+Northstar Dr #311	Truckee	96161
+Northstar Dr #312	Truckee	96161
+Northstar Dr #314	Truckee	96161
+Northstar Dr #401	Truckee	96161
+Northstar Dr #402	Truckee	96161
+Northstar Dr #403	Truckee	96161
+Northstar Dr #404	Truckee	96161
+Northstar Dr #405	Truckee	96161
+Northstar Dr #406	Truckee	96161
+Northstar Dr #407	Truckee	96161
+Northstar Dr #408	Truckee	96161
+Northstar Dr #409	Truckee	96161
+Northstar Dr #410	Truckee	96161
+Northstar Dr #411	Truckee	96161
+Northstar Dr #412	Truckee	96161
+Northstar Dr #501	Truckee	96161
+Northstar Dr #502	Truckee	96161
+Northstar Dr #503	Truckee	96161
+Northstar Dr #504	Truckee	96161
+Northstar Dr #505	Truckee	96161
+Northstar Dr #506	Truckee	96161
+Northstar Dr #507	Truckee	96161
+Northstar Dr #508	Truckee	96161
+Northstar Dr #509	Truckee	96161
+Northstar Dr #510	Truckee	96161
+Northstar Dr #511	Truckee	96161
+Northstar Dr #512	Truckee	96161
+Northstar Dr #513	Truckee	96161
+Northstar Dr #601	Truckee	96161
+Northstar Dr #C-006	Truckee	96161
+Northstar Dr #C-050	Truckee	96161
+Northstar Dr #C-051	Truckee	96161
+Northstar Dr #C-052	Truckee	96161
+Northstar Dr #C-053	Truckee	96161
+Northstar Dr #C-054	Truckee	96161
+Northstar Dr #C-056	Truckee	96161
+Northstar Dr #C-057	Truckee	96161
+Northstar Dr #C-058	Truckee	96161
+Northstar Dr #C-059	Truckee	96161
+Northstar Dr #C-060	Truckee	96161
+Northstar Dr #C-061	Truckee	96161
+Northstar Dr #C-063	Truckee	96161
+Northstar Dr #C-064	Truckee	96161
+Northstar Dr #C-074	Truckee	96161
+Northstar Dr #C-100	Truckee	96161
+Northstar Dr #C-103	Truckee	96161
+Northstar Dr #C-105	Truckee	96161
+Northstar Dr #C-106	Truckee	96161
+Northstar Dr #C-108	Truckee	96161
+Northstar Dr #C-110	Truckee	96161
+Northstar Dr #C-112	Truckee	96161
+Northstar Dr #C-212	Truckee	96161
+Northstar Dr #C111A	Truckee	96161
+Northstar Dr #Lobby	Truckee	96161
+Northstar Drive	Palmdale	93552
+Northstar Ln	Cloverdale	95425
+Northstar Ln	Coarsegold	93614
+Northstar Ln	Huntington Beach	92646
+Northstar Ln	Huntington Beach	92646-2631
+Northstar Ln	Madera	93614
+Northstar Ln	Menifee	92584
+Northstar Ln	Oxnard	93036
+Northstar Ln	Roseville	95747
+Northstar Mall	Marina Del Rey	90292
+Northstar Pl	Rancho Cucamonga	91701
+Northstar Place	Grass Valley	95945
+Northstar St	San Bernardino	92407
+Northstar Street	Marina Del Rey	90292
+Northstar Way	Encinitas	92024
+Northstar Way	San Bruno	94066
+Northstar Way	San Marcos	92078
+Northstead Dr	Sacramento	95833

@@ -1,0 +1,36 @@
+N 67Th St	La Mesa	91942
+N 68Th St	La Mesa	91942
+N 69Th St	La Mesa	91941
+N 69Th St	Lemon Grove	91945
+N 6Th	El Centro	92243
+N 6Th Ave	Barstow	92311
+N 6Th Ave	El Centro	92243
+N 6Th Ave	Kingsburg	93631
+N 6Th Ave	Oakdale	95361
+N 6Th Ave	Upland	91786
+N 6Th Dr	El Centro	92243
+N 6Th St	Banning	92220
+N 6Th St	Biola	93606
+N 6Th St	Blythe	92225
+N 6Th St	Brawley	92227
+N 6Th St	Burbank	91501
+N 6Th St	Burbank	91504
+N 6Th St	Chowchilla	93610
+N 6Th St	Coalinga	93210
+N 6Th St	Colton	92324
+N 6Th St	Concord	94519
+N 6Th St	El Centro	92243
+N 6Th St	Fowler	93625
+N 6Th St	Fresno	93703
+N 6Th St	Grover Beach	93433
+N 6Th St	Orange Cove	93646
+N 6Th St	Patterson	95363
+N 6Th St	Perris	92570
+N 6Th St	Redlands	92373
+N 6Th St	Redlands	92374
+N 6Th St	Sacramento	95811
+N 6Th St	San Jose	95112
+N 6Th St	Santa Paula	93060
+N 6Th St	Unincorporated Alameda County	94546
+N 6Th St  603 Park St	El Centro	92243
+N 6Th St  610 E E	Brawley	92227

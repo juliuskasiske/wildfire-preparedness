@@ -1,0 +1,20 @@
+Beyer Blvd	San Diego	92154
+Beyer Blvd	San Ysidro	0
+Beyer Blvd	San Ysidro	92173
+Beyer Ct	Elk Grove	95624
+Beyer Ct	Novato	94945
+Beyer Ln	Thousand Oaks	91362
+Beyer Park Ct	Modesto	95355
+Beyer Park Dr	Modesto	95355
+Beyer Park Dr	Modesto	95357
+Beyer St	Menifee	92585
+Beyer Way	Chula Vista	91911
+Beyer Way	San Diego	92154
+Beyer Way	San Ysidro	92173
+Beyers Av	Tracy	95377
+Beyers Lane	Grass Valley	95949
+Beyers St	Bakersfield	93312
+Beyerwood Ct	Modesto	95355
+Beymer Loop	Yuba City	95991
+Beynon St	Nice	95464
+Beythe Lane	Vacaville	95687

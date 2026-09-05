@@ -1,0 +1,132 @@
+Utah	Irvine	92606
+Utah	San Diego	92104
+Utah Ave	Buena Park	90621
+Utah Ave	Oceano	93445
+Utah Ave	Oroville	95966
+Utah Ave	Palermo	95966
+Utah Ave	Sacramento	95822
+Utah Ave	San Joaquin	93660
+Utah Ave	South San Francisco	94080
+Utah Avenue	El Monte	91731
+Utah Avenue	El Segundo	90245
+Utah Avenue	South Gate	90280
+Utah Avenue	Woodland	95695
+Utah Cir	Costa Mesa	92626
+Utah Cir	Palm Desert	92211
+Utah Circle	Fairfield	94533
+Utah Court	Claremont	91711
+Utah Court	Dixon	95620
+Utah Court	Yuba City	95991
+Utah Ct	Fontana	92336
+Utah Ct	Santa Rosa	95405
+Utah Dr	Long Barn	95335
+Utah Dr	Petaluma	94952
+Utah Dr	Richmond	94803
+Utah Ln	Phelan	92371
+Utah Road	Grass Valley	95949
+Utah St	Clearlake	95422
+Utah St	Eureka	95503
+Utah St	Mariposa	95338
+Utah St	Menifee	92587
+Utah St	Napa	94558
+Utah St	San Diego	92104
+Utah St	San Diego	92116
+Utah St	San Francisco	94103
+Utah St	San Francisco	94107
+Utah St	San Francisco	94110
+Utah St	Solana Beach	92075
+Utah Street	Fairfield	94533
+Utah Street	Los Angeles	90033
+Utah Street	Merced	95348
+Utah Trl	Twentynine Palms	92277
+Utah Way	Escondido	92025
+Ute Ave	Barstow	92311
+Ute Ct	Aguanga	92536
+Ute Ct	Fall River Mills	96028
+Ute Ct	San Jose	95123
+Ute Ct	San Ramon	94583
+Ute Dr	San Diego	92117
+Ute Dr	San Jose	95123
+Ute Drive	Truckee	96161
+Ute Ln	Ventura	93001
+Ute Pl	Riverside	92505
+Ute Rd	Apple Valley	92307
+Ute River Ct	Sacramento	95831
+Ute St	Beaumont	92223
+Ute Trail Cir	Yucca Valley	92284
+Ute Trl	Lucerne Valley	92356
+Ute Trl	Yucca Valley	92284
+Ute Way	Antelope	95843
+Ute Way	Lake Forest	92630
+Ute Way	Lake Forest	92630-3547
+Ute Way	Lake Forest	92630-3548
+Ute Way	Lake Forest	92630-3549
+Ute Way	Lake Forest	92630-3550
+Utica Ave	Avenal	93204
+Utica Ave	Huntington Beach	92648-2767
+Utica Ave	Huntington Beach	92648-2803
+Utica Ave	Huntington Beach	92648-2804
+Utica Ave	Huntington Beach	92648-2819
+Utica Ave	Huntington Beach	92648-2869
+Utica Ave	Huntington Beach	92648-2870
+Utica Ave	Huntington Beach	92648-2871
+Utica Ave	Huntington Beach	92648-2885
+Utica Ave	Huntington Beach	92648-2886
+Utica Ave	Huntington Beach	92648-2888
+Utica Ave	Huntington Beach	92648-2892
+Utica Ave	Huntington Beach	92648-3216
+Utica Ave	Huntington Beach	92648-3218
+Utica Ave	Huntington Beach	92648-3219
+Utica Ave	Huntington Beach	92648-3220
+Utica Ave	Huntington Beach	92648-3257 
+Utica Ave	Huntington Beach	92648-3258 
+Utica Ave	Huntington Beach	92648-3259 
+Utica Ave	Huntington Beach	92648-3260 
+Utica Ave	Huntington Beach	92648-3261 
+Utica Ave	Huntington Beach	92648-3262 
+Utica Ave	Huntington Beach	92648-3263 
+Utica Ave	Huntington Beach	92648-3265 
+Utica Ave	Huntington Beach	92648-3268 
+Utica Ave	Huntington Beach	92648-3272 
+Utica Ave	Kettleman City	93239
+Utica Ave	Rancho Cordova	95742
+Utica Ave	Rancho Cucamonga	91730
+Utica Ave	Ventura	93004
+Utica Ct	Sacramento	95827
+Utica Ct	San Diego	92139
+Utica Ct	San Jose	95123
+Utica Ct	Stockton	95206
+Utica Ct	Sunnyvale	94087
+Utica Dr	Borrego Springs	92004
+Utica Dr	San Diego	92139
+Utica Dr	Sunnyvale	94087
+Utica Drive	Los Angeles	90046
+Utica Ln	San Jose	95123
+Utica Mine Ct	Gold River	95670
+Utica Pl	Gilroy	95020
+Utica Pl	San Diego	92139
+Utica St	Hayward	94544
+Utica Street	Whittier	90605
+Utica Way	Bakersfield	93311
+Utica Way	Beaumont	92223
+Util Cir	Oxnard	93030
+Util Ct	Oxnard	93030
+Utility Access Rd	Needles	92363
+Utility Ave	Anderson	96007
+Utility Ct	Rohnert Park	94928
+Utility Way	Carson	90745
+Utley Road	La Crescenta	91214
+Utopia Avenue	Culver City	90230
+Utopia Court	Canyon Country	91351
+Utopia Court	Vacaville	95687
+Utopia Ct	Menifee	92584
+Utopia Pl	Lucerne	95458
+Utopia Pl	San Jose	95127
+Utopia Rd	Poway	92064
+Utopia Rd	San Diego	92128
+Utopia River Ct	Rancho Cordova	95670
+Utopia Tr	Lucerne	95458
+Utopia Way	San Diego	92128
+Utrillo Dr	Irvine	92606
+Utt Dr	Tustin	92780
+Utu Utu Road	Benton	93512

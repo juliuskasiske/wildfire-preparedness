@@ -1,0 +1,208 @@
+12 1/2 Ave	Hanford	93230
+12 3/4 Ave	Hanford	93230
+12 Auburn Street	Tulare	93274
+12 Ca-299	Mcarthur	96056
+12 E Apricot Avenue	Tulare	93274
+12 E Foster Drive	Tulare	93274
+12 E King Avenue	Tulare	93274
+12 E San Joaquin Avenue	Tulare	93274
+12 E Sequoia Avenue	Tulare	93274
+12 Mariposa Avenue	Tulare	93274
+12 N Cherry Street	Tulare	93274
+12 N E Street	Tulare	93274
+12 N F Street	Tulare	93274
+12 N G Street	Tulare	93274
+12 N Gem Street	Tulare	93274
+12 N H Street	Tulare	93274
+12 N M Street	Tulare	93274
+12 S C Street	Tulare	93274
+12 S E Street	Tulare	93274
+12 S F Street	Tulare	93274
+12 S H Street	Tulare	93274
+12 S L Street	Tulare	93274
+12 S Salida Place	Tulare	93274
+12 W Elm Avenue	Tulare	93274
+12 W King Avenue	Tulare	93274
+120½ B St	Roseville	95678
+120½ Fig St	Roseville	95678
+120Th Street	Hawthorne	90250
+120Th Street	Los Angeles	90044
+120Th Street	Los Angeles	90061
+120Th Street East	Lancaster	93535
+120Th Street East	Littlerock	93543
+120Th Street West	Lancaster	93536
+121St Street East	Lancaster	93535
+121St Street East	Littlerock	93543
+121St Street East	Palmdale	93591
+121St Street East	Pearblossom	93553
+122Nd Street	Hawthorne	90250
+122Nd Street East	Pearblossom	93553
+123½ Circuit Dr	Roseville	95678
+123½ Clinton Av	Roseville	95678
+123½ S Lincoln St	Roseville	95678
+123½ Willow Av	Roseville	95678
+123Rd Place	Hawthorne	90250
+123Rd Street	Los Angeles	90044
+123Rd Street East	Pearblossom	93553
+123St Street East	Pearblossom	93553
+123Th Street East	Pearblossom	93553
+124Th Street	Los Angeles	90044
+125Th Street East	Lancaster	93535
+125Th Street East	Pearblossom	93553
+126Th Street	Los Angeles	90061
+126Th Street East	Hawthorne	90250
+126Th Street East	Pearblossom	93553
+127Th Street	Los Angeles	90044
+127Th Street	Pearblossom	93553
+127Th Street East	Pearblossom	93553
+128½ Cedar St	Roseville	95678
+128Th Street East	Pearblossom	93553
+128Th Street West	Lancaster	93536
+128Willowrun Way	Oakley	94561
+129Th Place	Gardena	90249
+129Th Street	Gardena	90249
+129Th Street	Hawthorne	90250
+12Th	Carmel-By-The-Sea	93921
+12Th	Greenfield	93927
+12Th	Santa Cruz	95062
+12Th Ave	Clearlake	95422
+12Th Ave	Hanford	03230
+12Th Ave	Hanford	93230
+12Th Ave	Kingsburg	93631
+12Th Ave	Menlo Park	94025
+12Th Ave	Redwood City	94063
+12Th Ave	Sacramento	95817
+12Th Ave	Sacramento	95818
+12Th Ave	Sacramento	95820
+12Th Ave	San Diego	92101
+12Th Ave	San Francisco	94116
+12Th Ave	San Francisco	94118
+12Th Ave	San Francisco	94122
+12Th Ave	San Mateo	94401
+12Th Ave	San Mateo	94402
+12Th Avenue	Los Angeles	90018
+12Th Avenue	Los Angeles	90019
+12Th Avenue Byp	Sacramento	95817
+12Th Court	Manhattan Beach	90266
+12Th E St	Pittsburg	94565
+12Th Helena Drive	Los Angeles	90049
+12Th Hole Dr	Windsor	95492
+12Th Pl	Escondido	92029
+12Th Place	Los Angeles	90015
+12Th Place	Manhattan Beach	90266
+12Th Place	Merced	95341
+12Th St	Arcata	95521
+12Th St	Banning	92220
+12Th St	Beaumont	92223
+12Th St	Bloomington	92316
+12Th St	Borrego Springs	92004
+12Th St	Cayucos	93430
+12Th St	Chino	91710
+12Th St	Del Mar	92014
+12Th St	Desert Hot Springs	92240
+12Th St	Eureka	95501
+12Th St	Firebaugh	93622
+12Th St	Fortuna	95540
+12Th St	Huntington Beach	90742
+12Th St	Huntington Beach	92648
+12Th St	Huntington Beach	92648-3412
+12Th St	Huntington Beach	92648-3414
+12Th St	Huntington Beach	92648-3429
+12Th St	Huntington Beach	92648-3430
+12Th St	Huntington Beach	92648-3431
+12Th St	Huntington Beach	92648-3451 
+12Th St	Huntington Beach	92648-3452 
+12Th St	Huntington Beach	92648-3453 
+12Th St	Huntington Beach	92648-4033
+12Th St	Huntington Beach	92648-4034
+12Th St	Huntington Beach	92648-4035
+12Th St	Huntington Beach	92648-4036
+12Th St	Huntington Beach	92648-4083 
+12Th St	Huntington Beach	92648-4084 
+12Th St	Huntington Beach	92648-4518
+12Th St	Huntington Beach	92648-4519
+12Th St	Huntington Beach	92648-4521
+12Th St	Huntington Beach	92648-4549 
+12Th St	Huntington Beach	92648-4550 
+12Th St	Huntington Beach	92648-4551 
+12Th St	Huntington Beach	92648-4552
+12Th St	Huntington Beach	92648-4553 
+12Th St	Huntington Beach	92648-4554 
+12Th St	Huntington Beach	92648-4555
+12Th St	Huntington Beach	92648-4568 
+12Th St	Huntington Beach	92648-4569 
+12Th St	Huntington Beach	92648-4573 
+12Th St	Huntington Beach	92648-4574 
+12Th St	Huntington Beach	92648-4819
+12Th St	Huntington Beach	92648-4820
+12Th St	Huntington Beach	92648-4834
+12Th St	Huntington Beach	92648-4838 
+12Th St	Huntington Beach	92648-4839 
+12Th St	Huntington Beach	92648-4846 
+12Th St	Huntington Beach	92648-4847 
+12Th St	Huntington Beach	92648-4870 
+12Th St	Huntington Beach	92648-4876
+12Th St	Huron	93234
+12Th St	Imperial Beach	91932
+12Th St	Los Osos	93402
+12Th St	Mariposa	95338
+12Th St	Modesto	95353
+12Th St	Modesto	95354
+12Th St	Montara	94037
+12Th St	Moss Beach	94037
+12Th St	National City	91950
+12Th St	Newport Beach	92661
+12Th St	Nuevo	92567
+12Th St	Orange Cove	93646
+12Th St	Oroville	95965
+12Th St	Paso Robles	93446
+12Th St	Petaluma	94952
+12Th St	Ramona	92065
+12Th St	Reedley	93654
+12Th St	Richmond	94801
+12Th St	Richmond	94804
+12Th St	Riverside	92501
+12Th St	Riverside	92507
+12Th St	Sacramento	95811
+12Th St	Sacramento	95814
+12Th St	Sacramento	95818
+12Th St	Sacramento	95822
+12Th St	San Diego	92101
+12Th St	San Diego	92154
+12Th St	San Francisco	94103
+12Th St	San Joaquin	93660
+12Th St	San Miguel	93451
+12Th St	San Pablo	94806
+12Th St	Sanger	93657
+12Th St	Santa Rosa	95404
+12Th St	Seal Beach	90740
+12Th St	Sheridan	95681
+12Th St	Trona	93562
+12Th St	Union City	94587
+12Th St	Westminster	92683
+12Th St	Yucaipa	92399
+12Th Street	City Of Marysville	95901
+12Th Street	Davis	95616
+12Th Street	Greenfield	93927
+12Th Street	La Verne	91750
+12Th Street	Los Angeles	90006
+12Th Street	Los Angeles	90015
+12Th Street	Los Angeles	90019
+12Th Street	Los Angeles	90021
+12Th Street	Manhattan Beach	90266
+12Th Street	Marina	93933
+12Th Street	Newhall	91321
+12Th Street	Pacific Grove	93950
+12Th Street	Palmdale	93551
+12Th Street	Pomona	91766
+12Th Street	Santa Monica	90401
+12Th Street	Santa Monica	90402
+12Th Street	Santa Monica	90403
+12Th Street	Santa Monica	90404
+12Th Street	Vallejo	94590
+12Th Street East	Lancaster	93535
+12Th Street East	Palmdale	93550
+12Th Street West	Lancaster	93534
+12Th Street West	Palmdale	93551
+12Th Ti St	San Francisco	94130
+12Th W St	Pittsburg	94565

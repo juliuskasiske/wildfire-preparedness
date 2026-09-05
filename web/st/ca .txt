@@ -1,0 +1,42 @@
+Ca-138	Cajon	92371
+Ca 138	Crestline	92325
+Ca-138	Phelan	92371
+Ca-138	Pinon Hills	92372
+Ca-138 N	Crestline	92325
+Ca-138 S	Crestline	92325
+Ca-138 S	Crestline	92407
+Ca-138 S	Valley Of Enchantment	92407
+Ca-173	Hesperia	92345
+Ca-173 N	Lake Arrowhead	92352
+Ca-173 N	Lake Arrowhead	92407
+Ca-173 S	Lake Arrowhead	92352
+Ca-173 S	Lake Arrowhead	92407
+Ca-18	Apple Valley	92307
+Ca-18	Apple Valley	92308
+Ca-18	Arrowbear	92382
+Ca-18	Baldy Mesa	92307
+Ca-18	Blue Jay	92407
+Ca-18	Crestline	92325
+Ca-18	Lucerne Valley	92356
+Ca-18	Rim Forest	92378
+Ca-18	Rimforest	92378
+Ca-18	Running Springs	92382
+Ca-18	San Bernardino	92404
+Ca-18	Sky Forest	92385
+Ca-18	Skyforest	92385
+Ca-18	Skyforest	92407
+Ca-189	Agua Fria	92317
+Ca-189	Agua Fria	92391
+Ca-189	Blue Jay	92317
+Ca-189	Blue Jay	92391
+Ca-189	Blue Jay	92407
+Ca-189	Lake Arrowhead	92352
+Ca-189	Ridgecrest	92378
+Ca-189	Twin Peaks	92391
+Ca-189	Twin Peaks	92407
+Ca-2	Wrightwood	92397
+Ca-330	Fredalba	92359
+Ca-330	Running Springs	92314
+Ca-330	Running Springs	92382
+Ca-4 Hwy	Discovery Bay	94505
+Ca-44 Ca-44	Mcarthur	96056

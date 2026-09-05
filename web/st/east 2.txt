@@ -1,0 +1,130 @@
+East 207Th Street	Lakewood	90715
+East 208Th Street	Long Beach	90810
+East 20Th Avenue	Venice	90291
+East 20Th Street	City Of Marysville	95901
+East 20Th Street	Long Beach	90806
+East 20Th Street	Los Angeles	90011
+East 20Th Street	Los Angeles	90058
+East 20Th Street	Merced	95340
+East 20Th Street	Signal Hill	90755
+East 211Th Street	Carson	90745
+East 212Th Street	Carson	90745
+East 213Th Street	Carson	90745
+East 213Th Street	Long Beach	90810
+East 214Th Street	Carson	90745
+East 214Th Street	Hawaiian Gardens	90716
+East 215Th Place	Carson	90745
+East 215Th Street	Carson	90745
+East 216Th Street	Carson	90745
+East 218Th Place	Carson	90745
+East 218Th Place	Long Beach	90810
+East 218Th Street	Carson	90745
+East 218Th Street	Long Beach	90810
+East 219Th Place	Long Beach	90810
+East 219Th Street	Carson	90745
+East 219Th Street	Long Beach	90810
+East 21St Street	City Of Marysville	95901
+East 21St Street	Long Beach	90806
+East 21St Street	Los Angeles	90011
+East 21St Street	Los Angeles	90058
+East 21St Street	Merced	95340
+East 21St Street	Signal Hill	90755
+East 220Th Place	Long Beach	90810
+East 220Th Street	Carson	90745
+East 220Th Street	Long Beach	90810
+East 221St Place	Long Beach	90810
+East 221St Street	Carson	90745
+East 221St Street	Hawaiian Gardens	90716
+East 221St Street	Long Beach	90810
+East 222Nd Street	Carson	90745
+East 223Rd Street	Carson	90745
+East 223Rd Street	Long Beach	90810
+East 224Th Place	Carson	90745
+East 224Th Street	Carson	90745
+East 225Th Street	Carson	90745
+East 226Th Place	Carson	90745
+East 226Th Street	Carson	90745
+East 227Th Street	Carson	90745
+East 228Th Street	Carson	90745
+East 229Th Place	Carson	90745
+East 229Th Street	Carson	90745
+East 22Nd Street	City Of Marysville	95901
+East 22Nd Street	Los Angeles	90011
+East 22Nd Street	Los Angeles	90058
+East 22Nd Street	Merced	95340
+East 22Nd Street	San Pedro	90731
+East 230Th Street	Carson	90745
+East 231St Street	Carson	90745
+East 232Nd Place	Carson	90745
+East 232Nd Street	Carson	90745
+East 233Rd Street	Carson	90745
+East 234Th Place	Carson	90745
+East 234Th Street	Carson	90745
+East 234Th Walk	Carson	90745
+East 235Th Street	Carson	90745
+East 236Th Street	Carson	90745
+East 237Th Street	Carson	90745
+East 238Th Place	Carson	90745
+East 238Th Street	Carson	90745
+East 23Rd Street	Long Beach	90806
+East 23Rd Street	Long Beach	90815
+East 23Rd Street	Los Angeles	90011
+East 23Rd Street	Los Angeles	90058
+East 23Rd Street	Merced	95340
+East 23Rd Street	Signal Hill	90755
+East 244Th Street	Carson	90745
+East 245Th Street	Carson	90745
+East 246Th Place	Carson	90745
+East 246Th Street	Carson	90745
+East 246Th Street	Wilmington	90744
+East 247Th Street	Carson	90745
+East 247Th Street	Wilmington	90744
+East 248Th Street	Carson	90745
+East 248Th Street	Wilmington	90744
+East 249Th Street	Carson	90745
+East 249Th Street	Wilmington	90744
+East 24Th Street	City Of Marysville	95901
+East 24Th Street	Los Angeles	90011
+East 24Th Street	Los Angeles	90058
+East 25Th Street	City Of Marysville	95901
+East 25Th Street	Long Beach	90806
+East 25Th Street	Long Beach	90815
+East 25Th Street	Los Angeles	90011
+East 25Th Street	Los Angeles	90058
+East 25Th Street	Merced	95340
+East 25Th Street	Signal Hill	90755
+East 26Th Street	City Of Marysville	95901
+East 26Th Street	Los Angeles	90023
+East 26Th Street	Los Angeles	90040
+East 26Th Street	Los Angeles	90058
+East 26Th Street	Merced	95340
+East 27Th Street	Long Beach	90806
+East 27Th Street	Long Beach	90815
+East 27Th Street	Los Angeles	90011
+East 27Th Street	Los Angeles	90058
+East 27Th Street	Merced	95340
+East 27Th Street	Signal Hill	90755
+East 28Th Avenue	Venice	90291
+East 28Th Street	Long Beach	90806
+East 28Th Street	Long Beach	90815
+East 28Th Street	Los Angeles	90011
+East 28Th Street	Los Angeles	90058
+East 28Th Street	Signal Hill	90755
+East 29Th Street	Long Beach	90806
+East 29Th Street	Long Beach	90815
+East 29Th Street	Los Angeles	90011
+East 29Th Street	Signal Hill	90755
+East 2Nd Street	Azusa	91702
+East 2Nd Street	Benicia	94510
+East 2Nd Street	Claremont	91711
+East 2Nd Street	Dorris	96023
+East 2Nd Street	Duarte	91010
+East 2Nd Street	Long Beach	90802
+East 2Nd Street	Long Beach	90803
+East 2Nd Street	Los Angeles	90012
+East 2Nd Street	Los Angeles	90022
+East 2Nd Street	Los Angeles	90033
+East 2Nd Street	Los Angeles	90063
+East 2Nd Street	Paramount	90723
+East 2Nd Street	Pomona	91766
+East 2Nd Street	San Dimas	91773

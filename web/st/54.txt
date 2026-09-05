@@ -1,0 +1,26 @@
+54Th	Jurupa Valley	92509
+54Th	Thermal	92274
+54Th Ave	Coachella	92236
+54Th Ave	Sacramento	95822
+54Th Ave	Thermal	92274
+54Th Frontage Rd E	San Diego	92105
+54Th Frontage Rd W	San Diego	92105
+54Th Pl	San Diego	92105
+54Th Pl	San Diego	92115
+54Th Place	Long Beach	90803
+54Th St	Emeryville	94608
+54Th St	Jurupa Valley	91752
+54Th St	Jurupa Valley	92509
+54Th St	Mcclellan	95652
+54Th St	Newport Beach	92663
+54Th St	Sacramento	95817
+54Th St	Sacramento	95819
+54Th St	Sacramento	95820
+54Th St	San Diego	92105
+54Th St	San Diego	92114
+54Th St	San Diego	92115
+54Th Street	Los Angeles	90011
+54Th Street	Los Angeles	90043
+54Th Street	Los Angeles	90058
+54Th Street	Los Angeles	90062
+54Th Street	Maywood	90270

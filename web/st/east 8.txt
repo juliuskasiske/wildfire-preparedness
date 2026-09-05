@@ -1,0 +1,39 @@
+East 80Th Street	Littlerock	93543
+East 80Th Street	Los Angeles	90001
+East 80Th Street	Los Angeles	90003
+East 81St Street	Los Angeles	90001
+East 81St Street	Los Angeles	90003
+East 82Nd Place	Los Angeles	90001
+East 82Nd Place	Los Angeles	90003
+East 82Nd Street	Los Angeles	90001
+East 82Nd Street	Los Angeles	90003
+East 83Rd Street	Los Angeles	90001
+East 83Rd Street	Los Angeles	90003
+East 84Th Place	Los Angeles	90001
+East 84Th Place	Los Angeles	90003
+East 84Th Street	Los Angeles	90001
+East 84Th Street	Los Angeles	90003
+East 85Th Street	Los Angeles	90001
+East 85Th Street	Los Angeles	90002
+East 85Th Street	Los Angeles	90003
+East 87Th Place	Los Angeles	90002
+East 87Th Place	Los Angeles	90003
+East 87Th Street	Los Angeles	90002
+East 87Th Street	Los Angeles	90003
+East 88Th Place	Los Angeles	90002
+East 88Th Place	Los Angeles	90003
+East 88Th Street	Los Angeles	90002
+East 88Th Street	Los Angeles	90003
+East 89Th Street	Los Angeles	90002
+East 89Th Street	Los Angeles	90003
+East 89Th Street	Los Angeles	90044
+East 8Th Street	Azusa	91702
+East 8Th Street	Claremont	91711
+East 8Th Street	Davis	95616
+East 8Th Street	Davis	95618
+East 8Th Street	Long Beach	90804
+East 8Th Street	Long Beach	90813
+East 8Th Street	Los Angeles	90014
+East 8Th Street	Los Angeles	90021
+East 8Th Street	Los Angeles	90023
+East 8Th Street	Pomona	91766

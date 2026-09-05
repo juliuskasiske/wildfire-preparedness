@@ -1,0 +1,156 @@
+San Badger Way	Elk Grove	95624
+San Bari Wy	Goleta	93117
+San Bayas St	Fountain Valley	92708
+San Benancio	Salinas	93908
+San Benancio Canyon	Salinas	93908
+San Benancio Canyon Road	Salinas	93908
+San Benancio Rd	Salinas	93908
+San Benancio Road	Salinas	93908
+San Benancio Way	Morgan Hill	95037
+San Benanico Road	Salinas	93908
+San Benicio Court	Merced	95341
+San Benito	Aptos	95003
+San Benito	Irvine	92618
+San Benito	Palm Desert	92260
+San Benito	Rancho Santa Margarita	92688
+San Benito	Salinas	93905
+San Benito	San Lucas	93954
+San Benito	Watsonville	95076
+San Benito Ave	Atherton	94027
+San Benito Ave	Los Gatos	95030
+San Benito Ave	Menlo Park	94025
+San Benito Ave	Rancho Cucamonga	91701
+San Benito Ave	San Bernardino	92407
+San Benito Ave	San Bruno	94066
+San Benito Ave	Ventura	93004
+San Benito Cir	Palm Desert	92260
+San Benito Court	Claremont	91711
+San Benito Ct	Bakersfield	93306
+San Benito Ct	Fontana	92336
+San Benito Ct	Hayward	94544
+San Benito Ct	Solana Beach	92075
+San Benito Ct	Walnut Creek	94598
+San Benito Dr	Hemet	92545
+San Benito Dr	Morgan Hill	95037
+San Benito Dr	Pittsburg	94565
+San Benito Dr	Rohnert Park	94928
+San Benito Dr	Walnut Creek	94598
+San Benito Ln	Corona	92879
+San Benito Ln	Lake Arrowhead	92352
+San Benito Ln	Lake Arrowhead	92407
+San Benito Pl	Morgan Hill	95037
+San Benito Rd	Atascadero	93422
+San Benito Rd	Berkeley	94707
+San Benito Rd	Borrego Springs	92004
+San Benito Rd	Brisbane	94005
+San Benito St	Avenal	93204
+San Benito St	Fontana	92336
+San Benito St	Fresno	93706
+San Benito St	Fresno	93721
+San Benito St	Half Moon Bay	94019
+San Benito St	Hayward	94544
+San Benito St	Highland	92346
+San Benito St	Hollister	95023
+San Benito St	Oxnard	93033
+San Benito St	Richmond	94804
+San Benito St	San Mateo	94403
+San Benito Street	Fairfield	94533
+San Benito Street	Los Angeles	90033
+San Benito Street	Salinas	93905
+San Benito Street	San Lucas	93954
+San Benito Way	Buena Park	90620
+San Benito Way	Citrus Heights	95610
+San Benito Way	Coalinga	93210
+San Benito Way	Los Gatos	95030
+San Benito Way	Monte Sereno	95030
+San Benito Way	Novato	94945
+San Benito Way	San Francisco	94127
+San Bentio Ave	Los Gatos	95030
+San Bergamo Dr	Goleta	93117
+San Bernabe Drive	Monterey	93940
+San Bernardino Av	Ventura	93004
+San Bernardino Ave	Bloomington	92316
+San Bernardino Ave	Fontana	92316
+San Bernardino Ave	Fontana	92335
+San Bernardino Ave	Mentone	92359
+San Bernardino Ave	Newport Beach	92663
+San Bernardino Ave	Rancho Cucamonga	91739
+San Bernardino Ave	Redlands	92374
+San Bernardino Ave	Sbco	92374
+San Bernardino Ave	Spring Valley	91977
+San Bernardino Ave	Sugarloaf	92386
+San Bernardino Ave	Ventura	93004
+San Bernardino Avenue	Pomona	91767
+San Bernardino & Banana SE	Fontana	92335
+San Bernardino Blvd	Ridgecrest	93555
+San Bernardino Ct	Bay Point	94565
+San Bernardino Ct	Montclair	91763
+San Bernardino Pl	Costa Mesa	92627
+San Bernardino Rd	Rancho Cucamonga	91730
+San Bernardino Rd	Upland	91786
+San Bernardino Road	Covina	91722
+San Bernardino St	Daggett	92327
+San Bernardino St	Montclair	91763
+San Bernardino Street	Los Banos	93635
+San Bernardino Way	San Jose	95111
+San Bernardo	Mission Viejo	92692
+San Bernardo Ave	Hemet	92545
+San Bernardo Cir	Buena Park	90620
+San Bernardo Cir	Fountain Valley	92708
+San Bernardo Creek Rd	Morro Bay	93442
+San Bernardo Ln	Morgan Hill	95037
+San Bernardo Pl	Santa Barbara Unincorporated	93111
+San Bernardo Ter	San Diego	92114
+San Bittern Ln	Aliso Viejo	92656
+San Blanco Court	Salinas	93901
+San Blanco Dr	Goleta	93117
+San Blanco Drive	Salinas	93901
+San Blas	Mission Viejo	92692
+San Blas Avenue	Woodland Hills	91364
+San Blas Cir	San Diego	92126
+San Blas Ct	Modesto	95355
+San Blas Ct	Novato	94945
+San Blas Ln	Morgan Hill	95037
+San Blas Pl	San Ramon	94583
+San Blas Pl	Santa Barbara Unincorporated	93111
+San Blas Rd	Hayward	94541
+San Blas St	Fountain Valley	92708
+San Bonifacio	Rancho Santa Margarita	92688
+San Bonito Ave	Los Alamitos	90720
+San Borja St	Chula Vista	91913
+San Briso Pl	Laguna Niguel	92677
+San Bristo Way	Carlsbad	92009
+San Bristol Ct	Sacramento	95823
+San Bruno	Desert Hot Springs	92240
+San Bruno	Newport Beach	92660
+San Bruno Ave	Barstow	92311
+San Bruno Ave	Brisbane	94005
+San Bruno Ave	Hesperia	92345
+San Bruno Ave	Madera	93637
+San Bruno Ave	Madera	93638
+San Bruno Ave	Morgan Hill	95037
+San Bruno Ave	San Bruno	94066
+San Bruno Ave	San Francisco	94103
+San Bruno Ave	San Francisco	94107
+San Bruno Ave	San Francisco	94110
+San Bruno Ave	San Francisco	94134
+San Bruno Ave	San Jose	95037
+San Bruno Ave	San Jose	95141
+San Bruno Avenue	Dos Palos	93620
+San Bruno Court	Merced	95348
+San Bruno Ct	Concord	94518
+San Bruno Ct	Fontana	92336
+San Bruno Ct	Rohnert Park	94928
+San Bruno Cv	San Diego	92130
+San Bruno Dr	Buena Park	90620
+San Bruno Drive	La Mirada	90638
+San Bruno Pl	Chula Vista	91914
+San Bruno Rd	Desert Hot Springs	92240
+San Bruno St	Fountain Valley	92708
+San Bruno St	Ventura	93004
+San Bruno Street	Fairfield	94533
+San Bruno Street	Los Banos	93635
+San Bruno Way	Salinas	93901
+San Buena Ct	San Jose	95119
+San Buenaventura Way	San Francisco	94127
+San Buenaventura Way	San Miguel	93451

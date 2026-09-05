@@ -1,0 +1,8 @@
+Callecita	Los Gatos	95030
+Callecita Aquilla Norte	Chula Vista	91911
+Callecita Aquilla Sur	Chula Vista	91911
+Callecita Ct	Rohnert Park	94928
+Callecita Drive	Altadena	91001
+Callecita St	Sacramento	95815
+Callecita St	San Jose	95125
+Callecita Way	Oceanside	92056

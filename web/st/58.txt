@@ -1,0 +1,21 @@
+58 Hwy	Bakersfield	93314
+58Th Ave	La Quinta	92253
+58Th Ave	Sacramento	95831
+58Th Ave	Thermal	92274
+58Th Drive East	Los Angeles	90001
+58Th Pl	San Diego	92115
+58Th Place	Long Beach	90803
+58Th Place	Los Angeles	90043
+58Th Place	Los Angeles	90044
+58Th St	Eastvale	92880
+58Th St	Jurupa Valley	91752
+58Th St	Jurupa Valley	92509
+58Th St	Mira Loma	91752
+58Th St	Sacramento	95817
+58Th St	Sacramento	95819
+58Th St	Sacramento	95820
+58Th St	San Diego	92115
+58Th Street	Los Angeles	90011
+58Th Street	Los Angeles	90062
+58Th Street East	Palmdale	93552
+58Th Street West	Lancaster	93536

@@ -1,0 +1,290 @@
+S T Ave	National City	91950
+S T St	Lompoc	93436
+S Taaffe St	Sunnyvale	94086
+S Tablerock Pl	Anaheim	92807
+S Tahan St	Caruthers	93609
+S Tahoe Dr	Ontario	91761
+S Tahquitz Ave	Hemet	92543
+S Tahquitz Dr	Palm Springs	92262
+S Tait St	Oceanside	92054
+S Talt Ave	Anaheim	92806
+S Tamarack Ct	Visalia	93277
+S Tamarack Dr	Fullerton	92832
+S Tamarack St	Visalia	93277
+S Tamarack St	Visalia	93291
+S Tamarask Ct	Ontario	91761
+S Tamarask Rd	Ontario	91761
+S Tamarisk Ave	Rialto	92376
+S Tamarisk Dr	Anaheim	92807
+S Tanager Dr	Ontario	91761
+S Tanforan Ct	Aguanga	92536
+S Tangerine Way	Ontario	91762
+S Tantau Ave	Cupertino	95014
+S Taos Way	Anaheim	92808
+S Tapestry Way	Anaheim	92802
+S Tapies Ct	Thousand Oaks	91320
+S Tapo St	Simi Valley	93063
+S Tara Ridge Ct	Colton	92324
+S Taran Ct	Santa Maria	93454
+S Targee St	Stockton	95205
+S Tarryton Ave	Whittier	90605
+S Tassajara Dr	San Luis Obispo	93405
+S Taurus Ln	Santa Ana	92704
+S Taylor	Hemet	92543
+S Taylor Ave	Fresno	93706
+S Taylor Ave	Ontario	91761
+S Taylor Ct	Anaheim	92808
+S Taylor Pl	Ontario	91761
+S Taylor St	Hemet	92543
+S Tea Ln	Bre	92821
+S Teakwood Ave	Bloomington	92316
+S Teakwood Ave	Rialto	92376
+S Teakwood St	Cypress	90630
+S Teakwood St	Santa Ana	92707
+S Teakwood St	Visalia	93292
+S Teal Cir	Anaheim	92807
+S Tech Center Dr	Santa Ana	92705
+S Technology Cir	Anaheim	92805
+S Teddy St	Visalia	93277
+S Tegner Rd	Turlock	95380
+S Teilman Ave	Fresno	93706
+S Teilman Cir	Fresno	93706
+S Tejas Pl	Nipomo	93444
+S Temecula Pkwy	Temecula	92592
+S Temelec Cir	Sonoma	95476
+S Temescal St	Corona	92879
+S Temperance Ave	Fowler	93625
+S Temperance Ave	Fresno	93725
+S Temperance Ave	Fresno	93727
+S Temperance Ave	Fresno	93737
+S Temperance Ave	Selma	93662
+S Temple Creek Rd	Escalon	95320
+S Temple Dr	Milpitas	95035
+S Tenth St	Fresno	93702
+S Tenth St	Fresno	93725
+S Tenth St	Santa Paula	93060
+S Teri Cir	Anaheim	92804
+S Teri Ln	Orange	92869
+S Terra Cotta	Lake Elsinore	92530
+S Terra Cotta Rd	Lake Elsinore	92530
+S Terra Linda St	Visalia	93292
+S Terra Oro Ct	Mh	95391
+S Terra Verde Ct	Mh	95391
+S Terra Verde St	Mh	95391
+S Terrace Ct	Visalia	93277
+S Terrace Dr	Brawley	92227
+S Terrace Dr	Napa	94559
+S Terrace Rd	San Bernardino	92410
+S Terrace  Rdg	Orange	92869
+S Terrace St	Visalia	93277
+S Terrazo Dr	Bre	92823
+S Terri St	Visalia	93277
+S Terry Ave	Fresno	93725
+S Tesla Ct	Tracy	95377
+S Tesoro Privado	Ontario	91761
+S Texas Street	June Lake	93529
+S Texella Ct	Anaheim	92804
+S Th St	Burbank	91501
+S Th St Pointaddress	Burbank	91501
+S The City Dr	Orange	92868
+S The Highlands	Anaheim	92808
+S The Highlands Dr	Anaheim	92808
+S The Strand	Oceanside	92054
+S Thelma Av	Stockton	95215
+S Thelma St	Fortuna	95540
+S Third	Blythe	92225
+S Third Ave	Avenal	93204
+S Third Pl	Porterville	93257
+S Third St	Blythe	92225
+S Third St	Fresno	93702
+S Third St	Fresno	93725
+S Third St	Grimes	95912
+S Third St	Lompoc	93436
+S Third St	Porterville	93257
+S Third St	San Jose	95112
+S Third St	San Jose	95113
+S Third St	Tracy	95376
+S Thirteenth St	Santa Paula	93060
+S Thistle Rd	Anaheim	92804
+S Thistle Rd	Bre	92821
+S Thistle Rd	Brea	92821
+S Thomas Ave	Kerman	93630
+S Thomas Ct	Visalia	93292
+S Thomas St	Orange	92869
+S Thomas St	Visalia	93292
+S Thompson Ave	Arroyo Grande	93420
+S Thompson Ave	Fowler	93625
+S Thompson Ave	Hemet	92543
+S Thompson Ave	Nipomo	93444
+S Thompson Ave	Sanger	93657
+S Thompson Ave	Selma	93662
+S Thompson Blvd	Ventura	93001
+S Thompson Blvd	Ventura	93003
+S Thompson Rd	Lafayette	94549
+S Thompson Rd	Nipomo	93444
+S Thompson St	Coalinga	93210
+S Thompson St	Hemet	92543
+S Thor St	Turlock	95380
+S Thornburg St	Santa Maria	93454
+S Thornburg St	Santa Maria	93455
+S Thornburg St	Santa Maria	93458
+S Thorncroft Ct	Thousand Oaks	91361
+S Thorne Ave	Fresno	93706
+S Thornton Ave	Hemet	92543
+S Thornton St	Santa Ana	92704
+S Thrasher Way	Anaheim	92807
+S Three Oaks Rd	Stockton	95215
+S Thunderbolt Dr	Porterville	93257
+S Tiara Ave	Ontario	91761
+S Tiara St	Anaheim	92802
+S Tiara Way	Anaheim	92802
+S Tico	Ojai	93023
+S Tico Rd	Ojai	93023
+S Tide Rd	Ripon	95366
+S Tierra Antigua Dr	Whittier	90601
+S Tierra Blanca Dr	Whittier	90603
+S Tierra Bonita Dr	Whittier	90601
+S Tierra Encanta Dr	Whittier	90601
+S Tierra Granada Dr	Whittier	90601
+S Tierra Majorca Dr	Whittier	90601
+S Tierra Monte Dr	Whittier	90601
+S Tierra Navarra Dr	Whittier	90601
+S Tiffany Cir	Palm Springs	92262
+S Tiffany Ct	Ontario	91762
+S Tiffany Pl	Ontario	91762
+S Tigrina Ave	Whittier	90603
+S Timber Rd	Thousand Oaks	91320
+S Timber St	Santa Ana	92707
+S Timberline Dr	Madera	93637
+S Timken Rd	Ana	92808
+S Timken Rd	Anaheim	92808
+S Timmy Ave	Fresno	93725
+S Timmy Ave	Fresno	93727
+S Timothy Ct	Visalia	93277
+S Timsbury Way	Santa Maria	93455
+S Timsbury Wy	Santa Maria	93455
+S Tinnin Rd	Manteca	95337
+S Tinoco Ave	Sanger	93657
+S Tippecanoe Ave	San Bernardino	92408
+S Tippecanoe Ave	San Bernardino	92415
+S Tipton Ct	Visalia	93292
+S Tipton St	Visalia	93292
+S Tivoli Ct	Anaheim	92808
+S Tivoli Ln	Mh	95391
+S Toby Ln	Anaheim	92807
+S Todd Rd	Santa Paula	93060
+S Tola Pl	Anaheim	92804
+S Toland St	Santa Ana	92704
+S Tolbert St	Bre	92823
+S Toledo Ave	Palm Springs	92264
+S Tom Fazio	La Quinta	92253
+S Tom Fazio Ln	La Quinta	92253
+S Tom Paine Av	Tracy	95304
+S Tommy Ct	Visalia	93277
+S Tommy Ct	Visalia	93291
+S Tommy St	Visalia	93277
+S Topanga Dr	Anaheim	92804
+S Topaz Way	Ontario	91761
+S Topeka Ave	Fresno	93721
+S Topeka Ave	Selma	93662
+S Topo St	Anaheim	92804
+S Torn Ranch Rd	Lake Elsinore	92530
+S Toronto Paseo	Ontario	91761
+S Torremolinos Dr	Rancho Mirage	92270
+S Torremolinos Rd	Rancho Mirage	92270
+S Torrey Pine Dr	Colton	92324
+S Torrey Pines Cir	Anaheim	92807
+S Torrey Pines Ct	La Habra	90631
+S Torry Pl	Anaheim	92806
+S Tourmaline Ct	Anaheim	92807
+S Tower Ct	Anaheim	92806
+S Tower Dr	Ontario	91761
+S Tower St	Ontario	91761
+S Towne Centre Pl	Anaheim	92806
+S Towner St	Santa Ana	92707
+S Townsend St	Santa Ana	92703
+S Townsend St	Santa Ana	92704
+S Tracy Bl	Stockton	95206
+S Tracy Bl	Tracy	95304
+S Tracy Bl	Tracy	95376
+S Tracy Bl	Tracy	95377
+S Tracy Ct	Visalia	93292
+S Tracy Ln	Orange	92869
+S Tracy St	Visalia	93292
+S Tradition St	Mh	95391
+S Trafalgar Pl	Thousand Oaks	91361
+S Traffic Way	Arroyo Grande	93420
+S Trail Ct	Chula Vista	91914
+S Trailblazer Cir	Anaheim	92807
+S Traina Ct	Tracy	95304
+S Trancas Dr	Cathedral City	92234
+S Tranquilidad Ct	Mh	95391
+S Tranquilidad St	Mh	95391
+S Treehouse Ln	Tracy	95304
+S Tremont St	Oceanside	92054
+S Trevor St	Anaheim	92806
+S Trident St	Anaheim	92804
+S Trimble Wy	Mh	95391
+S Trinitas Way	Ontario	91761
+S Trinity	Five Points	93624
+S Trinity Ave	Five Points	93624
+S Trinity Ave	Helm	93627
+S Trinity Ave	Kerman	93630
+S Trinity Ave	San Joaquin	93660
+S Trinity Dr	Santa Maria	93458
+S Trinity St	Fresno	93706
+S Trish Ct	Anaheim	92808
+S Trisha Ct	Santa Maria	93455
+S Trisler Ct	Tracy	95376
+S Tristania Ln	Ana	92808
+S Tristania Ln	Anaheim	92808
+S Triunfo Canyon Rd	Thousand Oaks	91361
+S Trojan St	Anaheim	92804
+S Tropea Av	Santa Maria	93458
+S Tropea Ave	Santa Maria	93458
+S Tropico Ave	Whittier	90603
+S Tropico Dr	La Mesa	91941
+S Tropics Pl	Hanford	93230
+S Troy St	Anaheim	92802
+S Truckee River Ln	Ontario	91761
+S Trudie Ave	Whittier	90604
+S Tsirelas Dr	Tracy	95304
+S Tuckaway Cir	Anaheim	92807
+S Tulane Ct	Santa Maria	93458
+S Tulare Dr	Palm Springs	92264
+S Tulare St	Bakersfield	93307
+S Tulare Way	Upland	91786
+S Tulip Cir	Beaumont	92223
+S Tulip St	Escondido	92025
+S Tulip St	Fresno	93721
+S Tulip St	Lompoc	93436
+S Tully Rd	Turlock	95380
+S Tulsa Av	Stockton	95215
+S Tumbleweed Rd	Anaheim	92807
+S Tungsten Ct	San Bernardino	92408
+S Tunis St	Lakeport	95453
+S Tuolumne Ave	Cantua Creek	93608
+S Tuolumne Ave	Tranquillity	93668
+S Tuolumne Pl	Ontario	91761
+S Tupman St	Fresno	93706
+S Tupper Ct	Mh	95391
+S Turner Ave	Fullerton	92833
+S Turner Ave	Ontario	91761
+S Turner St	Los Gatos	95032
+S Turney Ave	Sanger	93657
+S Turnpike Rd	Santa Barbara Unincorporated	93111
+S Turnpike Rd	Stockton	95206
+S Turnstone Ave	Ontario	91761
+S Turquoise St	Anaheim	92805
+S Tustin St	Orange	92866
+S Tuxedo Av	Stockton	95203
+S Twelfth St	San Jose	95112
+S Twelfth St	Santa Paula	93060
+S Twilight St	Mh	95391
+S Twin Oaks Valley Rd	San Marcos	92078
+S Twin Oaks Valley Rd	San Marcos	92096
+S Twinfoot Ct	Thousand Oaks	91361
+S Twinkle Ave	Ontario	91761
+S Two Palms Way	Indio	92201
+S Two Rivers Rd	Manteca	95337
+S Tyson Xing	Santa Ana	92704

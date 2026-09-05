@@ -1,0 +1,19 @@
+67Th Ave	Mecca	92254
+67Th Ave	Sacramento	95822
+67Th Ave	Thermal	92274
+67Th Place	Long Beach	90803
+67Th St	Berkeley	94702
+67Th St	Emeryville	94608
+67Th St	La Mesa	91942
+67Th St	Sacramento	95819
+67Th St	Sacramento	95820
+67Th St	Sacramento	95824
+67Th St	San Diego	92114
+67Th St	San Diego	92115
+67Th Street	Long Beach	90805
+67Th Street	Los Angeles	90043
+67Th Street	Los Angeles	90044
+67Th Street East	Palmdale	93552
+67Th Street West	Lancaster	93536
+67Th Street West	Palmdale	93551
+67Th Street West	Palmdale	93552

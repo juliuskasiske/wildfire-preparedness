@@ -1,0 +1,58 @@
+West 40Th Ct	Clearlake	95422
+West 40Th Place	Los Angeles	90037
+West 40Th St	Clearlake	95422
+West 40Th Street	San Pedro	90731
+West 41St Drive	Los Angeles	90008
+West 41St Drive	Los Angeles	90037
+West 41St Drive	Los Angeles	90062
+West 41St Place	Los Angeles	90037
+West 41St Place	Los Angeles	90062
+West 41St Street	Los Angeles	90008
+West 41St Street	Los Angeles	90037
+West 41St Street	Los Angeles	90062
+West 42Nd Place	Los Angeles	90037
+West 42Nd Place	Los Angeles	90062
+West 42Nd Street	Los Angeles	90008
+West 42Nd Street	Los Angeles	90037
+West 42Nd Street	Los Angeles	90062
+West 43Rd Place	Los Angeles	90008
+West 43Rd Place	Los Angeles	90037
+West 43Rd Place	Los Angeles	90062
+West 43Rd Street	Los Angeles	90008
+West 43Rd Street	Los Angeles	90037
+West 43Rd Street	Los Angeles	90062
+West 45Th Street	Los Angeles	90037
+West 45Th Street	Los Angeles	90062
+West 46Th Street	Los Angeles	90037
+West 46Th Street	Los Angeles	90043
+West 46Th Street	Los Angeles	90062
+West 47Th Place	Los Angeles	90037
+West 47Th Street	Long Beach	90805
+West 47Th Street	Los Angeles	90037
+West 47Th Street	Los Angeles	90062
+West 48Th Street	Long Beach	90805
+West 48Th Street	Los Angeles	90037
+West 48Th Street	Los Angeles	90043
+West 48Th Street	Los Angeles	90062
+West 49Th Place	Los Angeles	90037
+West 49Th Street	Long Beach	90805
+West 49Th Street	Los Angeles	90037
+West 49Th Street	Los Angeles	90062
+West 4Th Street	Azusa	91702
+West 4Th Street	Benicia	94510
+West 4Th Street	Claremont	91711
+West 4Th Street	Dorris	96023
+West 4Th Street	Long Beach	90802
+West 4Th Street	Los Angeles	90013
+West 4Th Street	Los Angeles	90017
+West 4Th Street	Los Angeles	90020
+West 4Th Street	Los Angeles	90022
+West 4Th Street	Los Angeles	90036
+West 4Th Street	Los Angeles	90048
+West 4Th Street	Los Angeles	90057
+West 4Th Street	Los Angeles	90071
+West 4Th Street	Merced	95341
+West 4Th Street	Pomona	91766
+West 4Th Street	San Dimas	91773
+West 4Th Street	San Pedro	90731
+West 4Th Street	San Pedro	90732

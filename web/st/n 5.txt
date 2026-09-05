@@ -1,0 +1,35 @@
+N 5 1/2 Ave	Corcoran	93212
+N 5 1/2 Ave	Kingsburg	93631
+N 5Th	Brawley	92227
+N 5Th Ave	Barstow	92311
+N 5Th Ave	Brawley	92227
+N 5Th Ave	El Centro	92243
+N 5Th Ave	Kingsburg	93631
+N 5Th Ave	Oakdale	95361
+N 5Th Ave	Upland	91784
+N 5Th Ave	Upland	91786
+N 5Th St	Banning	92220
+N 5Th St	Biola	93606
+N 5Th St	Blythe	92225
+N 5Th St	Brawley	92227
+N 5Th St	Burbank	91501
+N 5Th St	Burbank	91504
+N 5Th St	Chowchilla	93610
+N 5Th St	Coalinga	93210
+N 5Th St	Colton	92324
+N 5Th St	Concord	94519
+N 5Th St	El Centro	92243
+N 5Th St	Fowler	93625
+N 5Th St	Grover Beach	93433
+N 5Th St	Orange Cove	93646
+N 5Th St	Patterson	95363
+N 5Th St	Redlands	92373
+N 5Th St	Redlands	92374
+N 5Th St	Sacramento	95811
+N 5Th St	San Jose	95112
+N 5Th St	Shandon	93461
+N 5Th St	Unincorporated Alameda County	94546
+N 5Th St  136 No Plaza	Brawley	92227
+N 5Th St  478 Est C St	Brawley	92227
+N 5Th St  502 E D	Brawley	92227
+N 5Th St 505 D St	Brawley	92227

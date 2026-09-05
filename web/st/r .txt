@@ -1,0 +1,38 @@
+R Ave	National City	91950
+R & B Rood	Calexico	92231
+R & B Rood Ct	Calexico	92231
+R Berry Ln	Junction City	96048
+R Bielma	Calexico	92231
+R Brodiea Pl	Ventura	93001
+R Carrillo Ct	Calexico	92231
+R & D Platero	Calexico	92231
+R & D Platero Ave	Calexico	92231
+R. F. J. Way	Forest Ranch	95942
+R Jesse St	Hayfork	96041
+R. Lee Ermey Avenue	Palmdale	93551
+R & R Pl	Colfax	95713
+R R Ranch Rd	Lincoln	95648
+R Rd	Lake Arrowhead	92352
+R Santos	Calexico	92231
+R Santos St	Calexico	92231
+R St	Arcata	95521
+R St	Bakersfield	93301
+R St	Bakersfield	93304
+R St	Eureka	95501
+R St	Eureka	95503
+R St	Firebaugh	93622
+R St	Fresno	93721
+R St	Lincoln	95648
+R St	Needles	92363
+R St	Newman	95360
+R St	Sacramento	95811
+R St	Sacramento	95816
+R St	Sacramento	95819
+R St	Ventura	93004
+R Street	Live Oak	95953
+R Street	Merced	95340
+R Street	Merced	95341
+R Street	Merced	95348
+R Street	Wilmington	90744
+R Tamayo	Calexico	92231
+R Tamayo St	Calexico	92231

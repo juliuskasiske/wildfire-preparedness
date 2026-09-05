@@ -1,0 +1,87 @@
+West 80Th Place	Los Angeles	90045
+West 80Th Street	Inglewood	90305
+West 80Th Street	Los Angeles	90003
+West 80Th Street	Los Angeles	90044
+West 80Th Street	Los Angeles	90045
+West 80Th Street	Los Angeles	90047
+West 80Th Street	Playa Del Rey	90293
+West 81St Place	Los Angeles	90044
+West 81St Street	Inglewood	90305
+West 81St Street	Los Angeles	90003
+West 81St Street	Los Angeles	90044
+West 81St Street	Los Angeles	90045
+West 81St Street	Los Angeles	90047
+West 81St Street	Playa Del Rey	90293
+West 82Nd Place	Inglewood	90305
+West 82Nd Street	Inglewood	90305
+West 82Nd Street	Los Angeles	90003
+West 82Nd Street	Los Angeles	90044
+West 82Nd Street	Los Angeles	90045
+West 82Nd Street	Los Angeles	90047
+West 82Nd Street	Playa Del Rey	90293
+West 83Rd Place	Los Angeles	90044
+West 83Rd Place	Los Angeles	90045
+West 83Rd Street	Inglewood	90302
+West 83Rd Street	Inglewood	90305
+West 83Rd Street	Los Angeles	90003
+West 83Rd Street	Los Angeles	90044
+West 83Rd Street	Los Angeles	90045
+West 83Rd Street	Los Angeles	90047
+West 83Rd Street	Playa Del Rey	90293
+West 84Th Place	Inglewood	90305
+West 84Th Place	Los Angeles	90003
+West 84Th Place	Los Angeles	90044
+West 84Th Place	Los Angeles	90045
+West 84Th Place	Los Angeles	90047
+West 84Th Street	Inglewood	90305
+West 84Th Street	Los Angeles	90003
+West 84Th Street	Los Angeles	90044
+West 84Th Street	Los Angeles	90045
+West 84Th Street	Los Angeles	90047
+West 85Th Place	Los Angeles	90003
+West 85Th Place	Los Angeles	90045
+West 85Th Street	Inglewood	90305
+West 85Th Street	Los Angeles	90001
+West 85Th Street	Los Angeles	90003
+West 85Th Street	Los Angeles	90044
+West 85Th Street	Los Angeles	90045
+West 85Th Street	Los Angeles	90047
+West 85Th Street	Playa Del Rey	90293
+West 86Th Place	Los Angeles	90003
+West 86Th Place	Los Angeles	90045
+West 87Th Place	Los Angeles	90003
+West 87Th Place	Los Angeles	90045
+West 87Th Street	Los Angeles	90003
+West 87Th Street	Los Angeles	90044
+West 87Th Street	Los Angeles	90045
+West 87Th Street	Los Angeles	90047
+West 88Th Place	Los Angeles	90003
+West 88Th Place	Los Angeles	90044
+West 88Th Place	Los Angeles	90045
+West 88Th Place	Los Angeles	90047
+West 88Th Street	Inglewood	90305
+West 88Th Street	Los Angeles	90003
+West 88Th Street	Los Angeles	90044
+West 88Th Street	Los Angeles	90045
+West 88Th Street	Los Angeles	90047
+West 89Th Street	Los Angeles	90003
+West 89Th Street	Los Angeles	90044
+West 89Th Street	Los Angeles	90045
+West 89Th Street	Los Angeles	90047
+West 8Th Avenue	San Pedro	90732
+West 8Th Place	Los Angeles	90017
+West 8Th St	Perris	92570
+West 8Th Street	Azusa	91702
+West 8Th Street	Benicia	94510
+West 8Th Street	Claremont	91711
+West 8Th Street	Davis	95616
+West 8Th Street	Long Beach	90813
+West 8Th Street	Los Angeles	90005
+West 8Th Street	Los Angeles	90014
+West 8Th Street	Los Angeles	90017
+West 8Th Street	Los Angeles	90036
+West 8Th Street	Los Angeles	90057
+West 8Th Street	Merced	95341
+West 8Th Street	Pomona	91766
+West 8Th Street	San Pedro	90731
+West 8Th Street	San Pedro	90732

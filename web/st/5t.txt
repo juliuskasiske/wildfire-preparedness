@@ -1,0 +1,245 @@
+5Th	Calexico	92231
+5Th	Carmel-By-The-Sea	93921
+5Th	Desert Hot Springs	92240
+5Th	Santa Cruz	95060
+5Th	Santa Cruz	95062
+5Th	Watsonville	95076
+5Th	Westmorland	92281
+5Th Anita Drive	Los Angeles	90049
+5Th Av	Blue Lake	95525
+5Th Av	Westhaven	95570
+5Th Ave	Blythe	92225
+5Th Ave	Calexico	92231
+5Th Ave	Chula Vista	91910
+5Th Ave	Chula Vista	91911
+5Th Ave	Clearlake	95422
+5Th Ave	Concord	94518
+5Th Ave	Corcoran	93212
+5Th Ave	Coronado	92118
+5Th Ave	Crafton	92374
+5Th Ave	Crockett	94525
+5Th Ave	El Granada	94019
+5Th Ave	Escondido	92025
+5Th Ave	Half Moon Bay	94019
+5Th Ave	Hanford	93230
+5Th Ave	Johnson Valley	92285
+5Th Ave	Kingsburg	93631
+5Th Ave	La Habra	90631
+5Th Ave	Laguna Beach	92651
+5Th Ave	Lakeport	95453
+5Th Ave	Lemoore	93245
+5Th Ave	Menlo Park	94025
+5Th Ave	Mentone	92359
+5Th Ave	Murrieta	92562
+5Th Ave	National City	91950
+5Th Ave	Newport Beach	92625
+5Th Ave	Oroville	95965
+5Th Ave	Other	94025
+5Th Ave	Pacheco	94553
+5Th Ave	Pacifica	94044
+5Th Ave	Pinole	94564
+5Th Ave	Redlands	92374
+5Th Ave	Redwood City	94025
+5Th Ave	Redwood City	94063
+5Th Ave	Rio Linda	95673
+5Th Ave	Sacramento	95817
+5Th Ave	Sacramento	95818
+5Th Ave	San Bernardino	92407
+5Th Ave	San Bruno	94066
+5Th Ave	San Diego	0
+5Th Ave	San Diego	92101
+5Th Ave	San Diego	92103
+5Th Ave	San Mateo	94402
+5Th Ave	San Rafael	94901
+5Th Ave	Sonoma	95476
+5Th Ave	Upland	91786
+5Th Ave E	Escondido	92025
+5Th Ave Unit A	Crockett	94525
+5Th Ave W	Escondido	92025
+5Th Avenue	Arcadia	91006
+5Th Avenue	Carmel	93923
+5Th Avenue	Gustine	95322
+5Th Avenue	La Crescenta	91214
+5Th Avenue	La Puente	91746
+5Th Avenue	Los Angeles	90005
+5Th Avenue	Los Angeles	90008
+5Th Avenue	Los Angeles	90018
+5Th Avenue	Los Angeles	90019
+5Th Avenue	Los Angeles	90043
+5Th Avenue	Marina	93933
+5Th Avenue	Merced	95340
+5Th Avenue	Monrovia	91016
+5Th Avenue	Venice	90291
+5Th Avenue Dr	Kingsburg	93631
+5Th Avenue East	Montague	96064
+5Th Cavalry Circle	Seaside	93955
+5Th Court	Hermosa Beach	90254
+5Th Court	Monrovia	91016
+5Th Ct	Hermosa Beach	90254
+5Th Dr	Calexico	92231
+5Th E St	Pittsburg	94565
+5Th Helena Drive	Los Angeles	90049
+5Th Ln	Big Bear City	92314
+5Th Pkwy	Sacramento	95823
+5Th Pl	Escondido	92029
+5Th Pl	Hanford	93230
+5Th Pl	Yucaipa	92399
+5Th Place	Manhattan Beach	90266
+5Th Place West	Palmdale	93551
+5Th St	Arcata	95521
+5Th St	Argus	93562
+5Th St	Avenal	93204
+5Th St	Bakersfield	93304
+5Th St	Beaumont	92223
+5Th St	Berkeley	94710
+5Th St	Big Bear City	92314
+5Th St	Biggs	95917
+5Th St	Bloomington	92316
+5Th St	Bombay Beach	92257
+5Th St	Borrego Springs	92004
+5Th St	Buena Park	90621
+5Th St	Calexico	92231
+5Th St	Calimesa	92320
+5Th St	Cayucos	93430
+5Th St	Ceres	95307
+5Th St	Chino	91710
+5Th St	Coachella	92236
+5Th St	Concord	94519
+5Th St	Coronado	92118
+5Th St	Davis	95618
+5Th St	Desert Hot Springs	92240
+5Th St	Encinitas	92024
+5Th St	Eureka	95501
+5Th St	Fallbrook	92028
+5Th St	Ferndale	95536
+5Th St	Fort Irwin	92310
+5Th St	Galt	95632
+5Th St	Gilroy	95020
+5Th St	Guerneville	95446
+5Th St	Havasu Lake	92363
+5Th St	Hayward	94541
+5Th St	Hemet	92544
+5Th St	Hermosa Beach	90254
+5Th St	Hickman	95323
+5Th St	Highland	92346
+5Th St	Hollister	95023
+5Th St	Hood	95639
+5Th St	Hughson	95326
+5Th St	Huntington Beach	90742
+5Th St	Huntington Beach	92648
+5Th St	Huntington Beach	92648-5117
+5Th St	Huntington Beach	92648-5118
+5Th St	Huntington Beach	92648-5118 
+5Th St	Huntington Beach	92648-5119
+5Th St	Huntington Beach	92648-5120
+5Th St	Huntington Beach	92648-5166
+5Th St	Huntington Beach	92648-5179
+5Th St	Huntington Beach	92648-5179 
+5Th St	Huntington Beach	92648-8178
+5Th St	Huntington Beach	92648-8187 
+5Th St	Huron	93234
+5Th St	Imperial Beach	91932
+5Th St	Isleton	95641
+5Th St	Lincoln	95648
+5Th St	Los Osos	93402
+5Th St	Mariposa	95338
+5Th St	Mecca	92254
+5Th St	Mendota	93640
+5Th St	Modesto	95351
+5Th St	Montara	94037
+5Th St	Napa	94559
+5Th St	National City	91950
+5Th St	Needles	92363
+5Th St	Niland	92257
+5Th St	Norco	92860
+5Th St	Nuevo	92567
+5Th St	Oakley	94561
+5Th St	Oceanside	92054
+5Th St	Orange Cove	93646
+5Th St	Oroville	95965
+5Th St	Paso Robles	93446
+5Th St	Petaluma	94952
+5Th St	Ramona	92065
+5Th St	Rancho Cucamonga	91730
+5Th St	Richmond	94801
+5Th St	Rio Linda	95673
+5Th St	Riverbank	95367
+5Th St	Riverside	92501
+5Th St	Riverside	92507
+5Th St	Rodeo	94572
+5Th St	Sacramento	95811
+5Th St	Sacramento	95814
+5Th St	Sacramento	95818
+5Th St	Sacramento	95838
+5Th St	San Bernardino	92410
+5Th St	San Jacinto	92583
+5Th St	San Joaquin	93660
+5Th St	San Jose	95112
+5Th St	Sanger	93657
+5Th St	Santa Rosa	95401
+5Th St	Santa Rosa	95404
+5Th St	Santee	92071
+5Th St	Saratoga	95070
+5Th St	Scotia	95565
+5Th St	Seal Beach	90740
+5Th St	Shandon	93461
+5Th St	Stratford	93266
+5Th St	Susanville	96130
+5Th St	Temecula	92590
+5Th St	Temecula	92592
+5Th St	Templeton	93465
+5Th St	Trona	93562
+5Th St	Turlock	95380
+5Th St	Union City	94587
+5Th St	Victorville	92392
+5Th St	Victorville	92395
+5Th St	Yermo	92398
+5Th St	Yucaipa	92399
+5Th St E	Sonoma	95476
+5Th St W	Sonoma	95476
+5Th Street	Alhambra	91801
+5Th Street	Azusa	91702
+5Th Street	Burbank	91501
+5Th Street	City Of Marysville	95901
+5Th Street	Davis	95616
+5Th Street	Davis	95618
+5Th Street	Downey	90241
+5Th Street	Glendale	91201
+5Th Street	Gonzales	93926
+5Th Street	Greenfield	93927
+5Th Street	Gustine	95322
+5Th Street	Hermosa Beach	90254
+5Th Street	La Puente	91744
+5Th Street	La Verne	91750
+5Th Street	Livingston	95334
+5Th Street	Long Beach	90802
+5Th Street	Los Angeles	90013
+5Th Street	Los Angeles	90017
+5Th Street	Los Angeles	90033
+5Th Street	Los Angeles	90057
+5Th Street	Los Angeles	90063
+5Th Street	Manhattan Beach	90266
+5Th Street	Marina	93933
+5Th Street	Marysville	95901
+5Th Street	Meridian	95957
+5Th Street	Newhall	91321
+5Th Street	Pacific Grove	93950
+5Th Street	Palmdale	93551
+5Th Street	San Dimas	91773
+5Th Street	San Fernando	91340
+5Th Street	San Pedro	90731
+5Th Street	San Pedro	90732
+5Th Street	Santa Monica	90401
+5Th Street	Santa Monica	90403
+5Th Street	Santa Monica	90405
+5Th Street	Soledad	93960
+5Th Street	Tulelake	96134
+5Th Street	Vallejo	94590
+5Th Street	West Sacramento	95605
+5Th Street	West Sacramento	95695
+5Th Street East	Lancaster	93535
+5Th Street East	Palmdale	93550
+5Th Street West	Lancaster	93534
+5Th Street West	Palmdale	93550
+5Th Street West	Palmdale	93551
+5Th Street West	Palmdale	93552

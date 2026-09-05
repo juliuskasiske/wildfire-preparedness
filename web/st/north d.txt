@@ -1,0 +1,188 @@
+North D Street	Exeter	93221
+North D Street	Porterville	93257
+North D Street	Tulare	93274
+North Dade Avenue	La Puente	91744
+North Dahlia Drive	Los Angeles	90041
+North Dairy Bikeway	Davis	95616
+North Daisy Avenue	Long Beach	90802
+North Daisy Avenue	Long Beach	90806
+North Daisy Avenue	Long Beach	90813
+North Daisy Avenue	Pasadena	91107
+North Dale Avenue	Sunland	91040
+North Dalhart Avenue	Compton	90222
+North Dalton Avenue	Azusa	91702
+North Daly Street	Los Angeles	90031
+North Damato Drive	Covina	91724
+North Dameron Street	Porterville	93257
+North Damon Way	Burbank	91505
+North Danehurst Avenue	Covina	91724
+North Dangler Avenue	Los Angeles	90022
+North Daniels Avenue	Vallejo	94590
+North Darby Avenue	Northridge	91325
+North Darby Avenue	Reseda	91335
+North Darcy Way	Porter Ranch	91326
+North Darfield Avenue	Covina	91724
+North Daroca Avenue	San Gabriel	91775
+North Darro Road	Woodland Hills	91364
+North Dartmouth Avenue	Claremont	91711
+North Darwood Avenue	San Dimas	91773
+North Date Street	Pomona	91768
+North Davana Road	Sherman Oaks	91423
+North Davies Drive	Beverly Hills	90210
+North Davies Way	Los Angeles	90046
+North Davis Avenue	Weed	96094
+North Davis Farms Road	Davis	95616
+North Day Road	Grass Valley	95945
+North Dayton Court	Visalia	93291
+North Dayton Street	Tulare	93274
+North Dayton Street	Visalia	93291
+North De Angelis Road	Stevinson	95374
+North De Camp Drive	Beverly Hills	90210
+North De Haven Avenue	Pacoima	91331
+North De Lacey Avenue	Pasadena	91103
+North De Lacey Avenue	Pasadena	91105
+North De Lay Avenue	Covina	91722
+North De Lay Avenue	Covina	91723
+North De Soto Avenue	Canoga Park	91303
+North De Soto Avenue	Chatsworth	91311
+North De Soto Avenue	Woodland Hills	91364
+North De Soto Avenue	Woodland Hills	91367
+North Deal Drive	Long Beach	90807
+North Dearborn Drive	Los Angeles	90068
+North Debra Avenue	Granada Hills	91344
+North Debstone Avenue	Sherman Oaks	91423
+North Deepwater Avenue	Wilmington	90744
+North Deer Avenue	Sherman Oaks	91423
+North Deer Creek Drive	Walnut	91789
+North Deer Path Lane	Valyermo	93563
+North Deerfield Avenue	San Gabriel	91775
+North Deerfield Lane	Northridge	91324
+North Deering Avenue	Canoga Park	91303
+North Deering Avenue	Canoga Park	91304
+North Del Loma Avenue	San Gabriel	91775
+North Del Loma Avenue	San Gabriel	91776
+North Del Mar Avenue	Long Beach	90806
+North Del Mar Avenue	San Gabriel	91775
+North Del Mar Avenue	San Gabriel	91776
+North Del Sol Court	Los Angeles	90033
+North Del Sol Lane	Diamond Bar	91765
+North Delancey Avenue	San Dimas	91773
+North Delay Drive	Los Angeles	90065
+North Delfern Drive	Los Angeles	90077
+North Dellmont Drive	Tujunga	91042
+North Delor Drive	Los Angeles	90032
+North Delresto Drive	Beverly Hills	90210
+North Delta Street	Porterville	93257
+North Delta Street	San Gabriel	91776
+North Delwood Street	Tulare	93274
+North Demaree Street	Visalia	93291
+North Denair Street	Tulare	93274
+North Denby Avenue	Los Angeles	90039
+North Denivelle Place	Tujunga	91042
+North Denny Avenue	North Hollywood	91601
+North Denton Court	Visalia	93291
+North Denton Street	Visalia	93291
+North Dern Avenue	Los Angeles	90059
+North Deronda Drive	Los Angeles	90068
+North Detroit Street	Los Angeles	90036
+North Detroit Street	Los Angeles	90046
+North Dewitt Way	Yreka	96097
+North Dexford Drive	La Habra	90631
+North Dexter Street	La Habra	90631
+North Dexter Street	Los Angeles	90042
+North Diamante Place	Encino	91436
+North Diamond Bar Boulevard	Diamond Bar	91765
+North Diane Street	Earlimart	93219
+North Dianthus Street	Manhattan Beach	90266
+North Dickey Avenue	Dinuba	93618
+North Dickran Drive	Tulare	93274
+North Dillon Street	Los Angeles	90026
+North Dimmick Drive	Los Angeles	90065
+North Dinuba Boulevard	Visalia	93291
+North Ditman Avenue	Los Angeles	90032
+North Ditman Avenue	Los Angeles	90063
+North Divisadero Street	Visalia	93291
+North Division Street	Los Angeles	90065
+North Division Street	Porterville	93257
+North Dixie Canyon Avenue	Sherman Oaks	91423
+North Dixie Canyon Place	Sherman Oaks	91423
+North Dixie Drive	San Dimas	91773
+North Doan Drive	Burbank	91506
+North Dobbins Drive	San Gabriel	91775
+North Dodsworth Avenue	Covina	91724
+North Doheny Drive	Beverly Hills	90210
+North Doheny Drive	Beverly Hills	90211
+North Doheny Drive	Los Angeles	90048
+North Doheny Drive	West Hollywood	90069
+North Doheny Place	West Hollywood	90069
+North Dolanna Drive	Compton	90221
+North Dollner Court	Visalia	93291
+North Dollner Street	Visalia	93291
+North Dolores Street	La Habra	90631
+North Dolores Street	Los Angeles	90065
+North Dome Court	Merced	95340
+North Dome Ct	Coarsegold	93614
+North Dome Dr	Coarsegold	93614
+North Dominguez Avenue	Wilmington	90744
+North Dominguez Place	Azusa	91702
+North Dominion Avenue	Pasadena	91104
+North Dommer Avenue	Walnut	91789
+North Don Pio Drive	Woodland Hills	91364
+North Doner Drive	Montebello	90640
+North Donhill Drive	Beverly Hills	90210
+North Donna Beth Avenue	Azusa	91702
+North Doree Place	Porterville	93257
+North Doree Street	Porterville	93257
+North Dos Robles Place	Alhambra	91801
+North Double Tree Lane	Long Beach	90815
+North Douglas Court	Porterville	93257
+North Douglas Street	El Segundo	90245
+North Douglas Street	Los Angeles	90026
+North Douglas Street	Porterville	93257
+North Doyle Drive	San Gabriel	91775
+North Doyle Place	Los Angeles	90012
+North Dr	Cedar Glen	92321
+North Dr	Clearlake Park	95424
+North Dr	Freedom	95019
+North Dr	Hanford	93230
+North Dr	Jamestown	95327
+North Dr	Lake Arrowhead	92352
+North Dr	Lower Lake	95457
+North Dr	Norco	92860
+North Dr	Nuevo	92567
+North Dr	Oceanside	92056
+North Dr	Redding	96001
+North Dr	San Francisco	94129
+North Dr	Vista	92083
+North Dronfield Avenue	Pacoima	91331
+North Dronfield Avenue	Sun Valley	91352
+North Dronfield Avenue	Sunland	91040
+North Dronfield Avenue	Sylmar	91342
+North Drucker Avenue	Los Angeles	90032
+North Drucker Street	Los Angeles	90032
+North Drysdale Avenue	Los Angeles	90032
+North Duane Avenue	San Gabriel	91775
+North Dubonnet Avenue	San Gabriel	91776
+North Dudley Street	Pomona	91768
+North Dudley Street	Visalia	93291
+North Dudley Way	Los Angeles	90032
+North Duke Court	Visalia	93291
+North Duke Street	Visalia	93291
+North Duna Drive	Covina	91722
+North Dunas Lane	Tarzana	91356
+North Dunn Avenue	Los Angeles	90063
+North Dunn Street	San Pedro	90731
+North Dunn Street	San Pedro	90732
+North Dunworth Court	Visalia	93292
+North Dunworth Street	Visalia	93292
+North Durand Drive	Los Angeles	90068
+North Durango Street	Montebello	90640
+North Durkee Avenue	Tujunga	91042
+North Durrell Avenue	Azusa	91702
+North Duxford Avenue	Azusa	91702
+North Duxford Avenue	Covina	91722
+North Dwight Avenue	Compton	90220
+North Dwight Avenue	Compton	90222
+North Dwight Avenue	Farmersville	93223
+North Dylan Court	Reseda	91335
+North Dymond Street	Burbank	91505

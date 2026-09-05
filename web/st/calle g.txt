@@ -1,0 +1,61 @@
+Calle Galacia	Murrieta	92562
+Calle Galante	San Dimas	91773
+Calle Galarza	Temecula	92592
+Calle Galeria	San Clemente	92673
+Calle Galicia	Santa Barbara	93109
+Calle Galisteo	Indio	92203
+Calle Galletas	Murrieta	92562
+Calle Ganadero	San Clemente	92673
+Calle Ganado	Menifee	92585
+Calle Ganador	Mission Viejo	92691
+Calle Garceta	Lake Elsinore	92530
+Calle Gardenia	Coachella	92236
+Calle Gatita	Bodega Bay	94923
+Calle Gaucho	San Clemente	92673
+Calle Gaulteria	San Clemente	92673
+Calle Gaupo	Indio	92203
+Calle Gavanzo	Carlsbad	92009
+Calle Gaviota	Menifee	92586
+Calle Gaviota	Murrieta	92563
+Calle Gaviota	San Diego	92139
+Calle Gaviota	San Jose	95111
+Calle Gayube	Hemet	92544
+Calle Gazapo	Rancho Santa Margarita	92688
+Calle Geranio	Coachella	92236
+Calle Girasol	Temecula	92591
+Calle Girasol St	Temecula	92591
+Calle Gladiolo	Thousand Oaks	91360
+Calle Glicina	Thousand Oaks	91360
+Calle Golondrina	San Jose	95111
+Calle Gomero	San Clemente	92673
+Calle Gomero	Thousand Oaks	91360
+Calle Gomez	San Clemente	92672
+Calle Goya	Oceanside	92056
+Calle Granada	Coachella	92236
+Calle Granada	Dana Point	92624
+Calle Granada	Duarte	91010
+Calle Granada	Morgan Hill	95037
+Calle Granada	Santa Barbara	93105
+Calle Granada	Walnut	91789
+Calle Grande	Fullerton	92835
+Calle Grande	Lake Elsinore	92530
+Calle Grande	Palmdale	93550
+Calle Grande Cir	Santa Maria	93455
+Calle Grande Vista	San Clemente	92672
+Calle Grandola	Winchester	92596
+Calle Grandon	Chula Vista	91913
+Calle Grant	Indio	92203
+Calle Gregorio	Coachella	92236
+Calle Gregorio	Menifee	92585
+Calle Gruta	Lake Forest	92630
+Calle Gruta	Lake Forest	92630-2144
+Calle Guadalajara	San Clemente	92673
+Calle Guapo	Indio	92203
+Calle Guatamala	La Quinta	92253
+Calle Guatemala	La Quinta	92253
+Calle Guaymas	La Jolla	92037
+Calle Guaymas	La Quinta	92253
+Calle Guaymas	San Clemente	92672
+Calle Guernica	San Marcos	92069
+Calle Guijarro	San Clemente	92673
+Calle Guitron	Coachella	92236

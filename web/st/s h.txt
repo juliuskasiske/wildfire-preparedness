@@ -1,0 +1,446 @@
+S H	Imperial	92251
+S H Dr	Imperial	92251
+S H Ln	Big Bear City	92314
+S H St	Arcata	95521
+S H St	Bakersfield	93304
+S H St	Bakersfield	93307
+S H St	Bakersfield	93313
+S H St	Imperial	92251
+S H St	Lompoc	93436
+S H St	Madera	93637
+S H St	Oxnard	93030
+S H St	Oxnard	93033
+S H St	Porterville	93257
+S H St	San Bernardino	92410
+S H St	Westmorland	92281
+S Habitat Ave	Fresno	93706
+S Hachman St	Coalinga	93210
+S Hacienda Pl	Anaheim	92804
+S Hacienda Rd	Santee	92071
+S Hacienda St	Anaheim	92804
+S Hagen Ct	La Habra	90631
+S Haiku Lo	Mh	95391
+S Halcyon	Arroyo Grande	93420
+S Halcyon Rd	Arroyo Grande	93420
+S Halcyon Rd	Oceano	93445
+S Hale Ave	Escondido	92029
+S Hale Ave	Fullerton	92831
+S Hale St	Escondido	92029
+S Haley St	Bakersfield	93307
+S Half Moon Dr	Bakersfield	93309
+S Hall Ave	Bloomington	92316
+S Hall Ct	Visalia	93277
+S Hall St	Visalia	93277
+S Halladay St	Santa Ana	92701
+S Halladay St	Santa Ana	92705
+S Halladay St	Santa Ana	92707
+S Halliday St	Anaheim	92804
+S Hallock	Santa Paula	93060
+S Hallock Dr	Santa Paula	93060
+S Halton Paseo	Ontario	91761
+S Ham Ln	Lodi	95240
+S Ham Ln	Lodi	95242
+S Hamilton Ave	Hemet	92543
+S Hamlin St	Orange	92869
+S Hammatt Pkwy	Anaheim	92802
+S Hamner Ave	Eastvale	91752
+S Hamner Ave	Ontario	91761
+S Hampshire Cir	Corona	92879
+S Hampstead St	Anaheim	92802
+S Hampton St	Anaheim	92804
+S Hampton Way	Ontario	91761
+S Haney Ave	Reedley	93654
+S Hanford Ave	Avenal	93204
+S Hangars Way	Visalia	93277
+S Hanlon Way	Ana	92808
+S Hanlon Way	Anaheim	92808
+S Hannalei Dr	Vista	92083
+S Hanover Ave	Thousand Oaks	91320
+S Hansen Rd	Tracy	95304
+S Hansen Rd	Tracy	95377
+S Hanson Way	Santa Maria	93458
+S Happy Way	El Cajon	92021
+S Harbison Ave	National City	91950
+S Harbor Blvd	1-Fv-1	92704
+S Harbor Blvd	Ana	92805
+S Harbor Blvd	Anaheim	92802
+S Harbor Blvd	Anaheim	92805
+S Harbor Blvd	Fountain Valley	92704
+S Harbor Blvd	Fountain Valley	92708
+S Harbor Blvd	Fullerton	92832
+S Harbor Blvd	La Habra	90631
+S Harbor Blvd	Oxnard	93035
+S Harbor Blvd	Santa Ana	92704
+S Harbor Dr	Fort Bragg	 
+S Harbor Dr	Oceanside	92054
+S Harbor View Dr	Martinez	94553
+S Harcourt Ave	Anaheim	92804
+S Harding Ave	Anaheim	92804
+S Harding Ave	Fresno	93725
+S Harding Ave	Oxnard	93030
+S Harding Ave	Ventura	93003
+S Harding Bl	Roseville	95678
+S Harding Bl Bldg B	Roseville	95678
+S Harding Bl Ste 1	Roseville	95678
+S Harding Bl Ste 2	Roseville	95678
+S Harding Bl Ste 3	Roseville	95678
+S Harding Bl Ste A	Roseville	95678
+S Harding Bl Ste B	Roseville	95678
+S Harding Bl Ste C	Roseville	95678
+S Harding Bl Ste D	Roseville	95678
+S Harding Bl Ste E	Roseville	95678
+S Harding Bl Ste F	Roseville	95678
+S Harding Bl Ste G	Roseville	95678
+S Harding Bl Ste H	Roseville	95678
+S Harding Bl Ste I	Roseville	95678
+S Harding Bl Ste J	Roseville	95678
+S Harding Bl Ste K	Roseville	95678
+S Harding Rd	Modesto	95357
+S Hardt Ave	Fresno	93706
+S Hargrave	Banning	92220
+S Hargrave St	Banning	92220
+S Harlan	Kerman	93630
+S Harlan Ln	Stockton	95215
+S Harlan Rd	French Camp	95231
+S Harlan Rd	Lathrop	95231
+S Harlan Rd	Lathrop	95330
+S Harmon St	Santa Ana	92704
+S Harold St	Fort Bragg	 
+S Harrier Ct	Stockton	95215
+S Harrington Dr	Fullerton	92831
+S Harris Av	Stockton	95206
+S Harris Ave	Fowler	93625
+S Harris Ct	Anaheim	92806
+S Harris St	Hanford	93230
+S Harrison Ave	Fresno	93706
+S Harrison Ave	Oxnard	93030
+S Harrison St	Fort Bragg	 
+S Harrison St	Stockton	95203
+S Harrison St	Stockton	95206
+S Harrold Av	Escalon	95320
+S Hart Ct	Mh	95391
+S Hart Dr	Mh	95391
+S Hart Dr	Santa Maria	93454
+S Hart Ln	Manteca	95336
+S Hart Pl	Fullerton	92831
+S Hart Rd	Modesto	95358
+S Hartford Pl	San Bernardino	92408
+S Hartley St	Patterson	95363
+S Hartson St	Napa	94559
+S Harvard Cir	Anaheim	92807
+S Harvard St	Hemet	92543
+S Harvest Ln	Anaheim	92804
+S Harvest Ln	Orange	92866
+S Harwood St	Orange	92866
+S Haskell	El Centro	92243
+S Haskell Dr	El Centro	92243
+S Haskell Ln	Escalon	95320
+S Haskell Rd	El Centro	92243
+S Haskell St	El Centro	92243
+S Haslam Ave	Riverdale	93656
+S Haslam Dr	Santa Maria	93454
+S Haslem Ave	Riverdale	93656
+S Haster St	Anaheim	92802
+S Hastings Ave	Fullerton	92833
+S Hatchery Dr	Big Bear City	92314
+S Hathaway St	Banning	92220
+S Hathaway St	Santa Ana	92701
+S Hathaway St	Santa Ana	92705
+S Haven Ave	Ontario	91761
+S Haven Dr	Anaheim	92805
+S Haven Dr	North Highlands	95660
+S Havenside	Thousand Oaks	91320
+S Havenside Ave	Thousand Oaks	91320
+S Havenwood Cir	Orange	92869
+S Haverhill Park Rd	Whittier	90602
+S Haviland Ave	Whittier	90601
+S Hawthorne Ave	Fullerton	92833
+S Hawthorne St	Lompoc	93436
+S Hayden Dr	Escondido	92027
+S Hayes	Oxnard	93030
+S Hayes Ave	Caruthers	93609
+S Hayes Ave	Fresno	93706
+S Hayes Ave	Oxnard	93030
+S Hayes Ave	Raisin City	93652
+S Hayes Ave	Riverdale	93656
+S Hayes St	Bakersfield	93307
+S Hayes St	Oxnard	93030
+S Hays Rd	Manteca	95337
+S Hayston Ave	Fresno	93702
+S Hayston Ave	Fresno	93725
+S Hayward St	Anaheim	92804
+S Hazel Ave	Riverdale	93656
+S Hazel St	La Habra	90631
+S Hazelhurst Rd	Escalon	95320
+S Hazelwood Blvd	Fresno	93702
+S Hazelwood Blvd	Fresno	93721
+S Hazelwood St	Anaheim	92802
+S Hearst Ct	Tustin	92782
+S Hearst Dr	Oxnard	93030
+S Hearst St	Oxnard	93030
+S Hearth Ln	Anaheim	92804
+S Heartwood Way	Anaheim	92801
+S Heath Rd	Bakersfield	93314
+S Heath Ter	Ana	92807
+S Heath Ter	Anaheim	92807
+S Heather Ln	Anaheim	92802
+S Heather Privado	Ontario	91761
+S Heatherglen Cir	Ana	92808
+S Heatherglen Cir	Anaheim	92808
+S Heatherstone St	Orange	92869
+S Hebbron Avenue	Salinas	93905
+S Hedin Cir	Anaheim	92807
+S Hedlund Dr	Anaheim	92804
+S Helen Ave	Ontario	91762
+S Helena St	Anaheim	92805
+S Helena St	Colton	92324
+S Helix Ave	Solana Beach	92075
+S Hellman Ave	Ontario	91761
+S Hellman Ave	Ontario	91762
+S Hellman Privado	Ontario	91761
+S Helm Ave	Fresno	93725
+S Helm Ave	Fresno	93727
+S Hema Way	Elk Grove	95757
+S Hemlock Ave	Reedley	93654
+S Hemlock Ln	Big Bear City	92314
+S Hemlock St	Ventura	93001
+S Henderson	Raisin City	93652
+S Henderson Rd	Caruthers	93609
+S Henderson Rd	Fresno	93706
+S Henderson Rd	Mh	95391
+S Henderson Rd	Mountain House	95391
+S Henderson Rd	Raisin City	93652
+S Henderson Rd	Tracy	95391
+S Henning Way	Anaheim	92807
+S Henrietta Ave	Thousand Oaks	91320
+S Henry Ave	San Jose	95117
+S Henry Rd	Escalon	95320
+S Henry Rd	Farmington	95230
+S Henry Rd	Oakdale	95361
+S Henry Rd	Ripon	95367
+S Henry Rd	Riverbank	95367
+S Hensley St	San Diego	92113
+S Heredia Ln	Santa Maria	93454
+S Hereford Rd	Thousand Oaks	91361
+S Heritage Cir	Anaheim	92804
+S Heritage Cir	Fontana	92336
+S Heritage Ct	Visalia	93277
+S Heritage Dr	Visalia	93277
+S Heritage Palm Dr	Indio	92201
+S Heritage Palms	Indio	92201
+S Heritage Palms Dr	Indio	92201
+S Heritage Paseo	Ontario	91762
+S Heritage St	Visalia	93277
+S Heritage Way	Upland	91786
+S Hermosa Ave	Banning	92220
+S Hermosa Dr	Palm Springs	92264
+S Hermosa Pso	Ontario	91761
+S Hermosa St	Hemet	92543
+S Herold Ave	Lincoln	95648
+S Hert St	Colton	92324
+S Hesperian St	Santa Ana	92703
+S Hesperian St	Santa Ana	92704
+S Hester Ave	Whittier	90603
+S Hewes St	Orange	92869
+S Hewitt Ave	San Jacinto	92583
+S Hewitt Rd	Linden	95236
+S Hewitt St	San Jacinto	92583
+S Hi Top Ln	Orange	92869
+S Hibiscus Paseo	Ontario	91761
+S Hibiscus Way	Ana	92808
+S Hibiscus Way	Anaheim	92808
+S Hickory Av	Tracy	95376
+S Hickory Ave	Ontario	91762
+S Hickory Pl	Ontario	91762
+S Hickory St	Anaheim	92805
+S Hickory St	Escondido	92025
+S Hickory St	Santa Ana	92701
+S Hickory St	Santa Ana	92707
+S Hidalgo St	Mh	95391
+S Hidden Canyon Rd	Anaheim	92807
+S Hidden Cove Ct	Colton	92324
+S Hidden Cove Ln	Colton	92324
+S Hidden Creek Cir	Ana	92808
+S Hidden Creek Cir	Anaheim	92808
+S Hidden Grove Ln	Anaheim	92807
+S Hidden Path	Anaheim	92801
+S Hidden Trails Rd	Escondido	92027
+S Hidden Valley Rd	Thousand Oaks	91361
+S Hidden Valley Trl	Indian Wells	92210
+S High St	Lakeport	95453
+S Highland Av	Ripon	95366
+S Highland Ave	Del Rey	93616
+S Highland Ave	Fontana	92336
+S Highland Ave	Fowler	93625
+S Highland Ave	Fullerton	92832
+S Highland Ave	Laton	93242
+S Highland Ave	Pla	92870
+S Highland Ave	Placentia	92870
+S Highland Ave	Sanger	93657
+S Highland Ave	Selma	93662
+S Highland Ave	Ukiah	 
+S Highland Ave	Whittier	90605
+S Highland Ave	Ybl	92886
+S Highland Dr	Palm Springs	92264
+S Highland Home Rd	Banning	92220
+S Highland Ln	Anaheim	92807
+S Highland Springs Ave	Banning	92220
+S Highland Springs Rd	Banning	92220
+S Highridge Ct	Anaheim	92808
+S Highway 1	Gualala	 
+S Highway 1	Point Arena	 
+S Highway 101	Cardiff By The Sea	92007
+S Highway 101	Encinitas	92024
+S Highway 101	Solana Beach	92075
+S Highway 245	Miramonte	93641
+S Highway 49	Ahwahnee	93601
+S Highway 49	Mariposa	95338
+S Highway 79	Aguanga	92536
+S Highway 79	Temecula	92592
+S Highway 79 Hwy	Temecula	92592
+S Highwya 79	Aguanga	92536
+S Higuera St	San Luis Obispo	93401
+S Hilda Cir	Anaheim	92806
+S Hilda Ct	Anaheim	92806
+S Hilda St	Anaheim	92806
+S Hill Ave	Fallbrook	92028
+S Hill Ave	Whittier	90601
+S Hill Blvd	Daly City	94014
+S Hill Blvd	Daly City	94112
+S Hill Ct	Colton	92324
+S Hill Dr	Brisbane	94005
+S Hill Dr	Brisbane Quarry	94005
+S Hill Rd	Ventura	93003
+S Hill St	Fallbrook	92028
+S Hill St	North Tustin	92869
+S Hill St	Orange	92869
+S Hillcrest Dr	Visalia	93292
+S Hillcrest St	Anaheim	92807
+S Hillcrest St	La Habra	90631
+S Hillcrest St	Porterville	93257
+S Hillhaven Cir	Bre	92821
+S Hillrose Ct	Thousand Oaks	91320
+S Hills Dr	Chula Vista	91915
+S Hills Valley Rd	Orange Cove	93646
+S Hills Valley Rd	Reedley	93654
+S Hills Valley Rd	Squaw Valley	93675
+S Hillsdale St	Eureka	95501
+S Hillside Ln	Whittier	90601
+S Hillside Ln	Whittier	90602
+S Hillview Dr	Milpitas	95035
+S Hillview Rd	Anaheim	92804
+S Hillview St	Tracy	95304
+S Hilton Ct	Visalia	93291
+S Hinds Pl	Santa Maria	93454
+S Hinkley Av	Stockton	95215
+S Hinton Dr	Mh	95391
+S Hockett St	Porterville	93257
+S Hofer Ranch Rd	Ontario	91761
+S Hoffman Pl	Mh	95391
+S Hogan Ave	Banning	92220
+S Hogan Ct	La Habra	90631
+S Holcomb Creek Pl	Ontario	91761
+S Holland Ct	Visalia	93292
+S Hollenbeck Rd	Stockton	95215
+S Holloway Ave	Fresno	93725
+S Holly Ave	Fresno	93706
+S Holly Ave	Ontario	91762
+S Holly Dr	Camarillo	93010
+S Holly Pl	Ontario	91762
+S Holly St	Loomis	95650
+S Hollydale Ln	Anaheim	92808
+S Hollyhock Dr	Mh	95391
+S Hollyhock Paseo	Ontario	91761
+S Holmes Ave	Ontario	91761
+S Holmes Pl	Ontario	91761
+S Holmes Rd	French Camp	95231
+S Holt Rd	Stockton	95206
+S Homage Ave	Whittier	90603
+S Homeland Ave	Whittier	90603
+S Homestead Ln	Hanford	93230
+S Homsy Ave	Fresno	93725
+S Homsy Ave	Fresno	93727
+S Honeysuckle	Ontario	91761
+S Honeysuckle Ave	Ontario	91761
+S Hoover Ave	Whittier	90601
+S Hope	El Centro	92243
+S Hope Av	Santa Barbara	93105
+S Hope Ave	El Centro	92243
+S Hope Ave	Ontario	91761
+S Hope Ave	Reedley	93654
+S Hope Pl	Ontario	91761
+S Hope St	El Centro	92243
+S Hope St	Ukiah	 
+S Hope Way	El Centro	92243
+S Hopper Canyon Rd	Fillmore	93015
+S Hopper Ln	Mh	95391
+S Hopper Rd	Modesto	95357
+S Hopper Rd	Waterford	95386
+S Horizon Cir	Hanford	93230
+S Hornby Ave	Whittier	90603
+S Horne St	Oceanside	92054
+S Horseshoe Cir	Potter Valley	 
+S Horseshoe Cir	Redwood Valley	 
+S Hortense St	Ukiah	 
+S Hotel Terrace	Santa Ana	92705
+S Hotel Way	Anaheim	92802
+S Houston Rd	Malibu	90265
+S Howard	Huron	93234
+S Howard	Ventura	93003
+S Howard Ave	Kerman	93630
+S Howard Ave	Riverdale	93656
+S Howard St	Altu	96101
+S Howard St	Corona	92879
+S Howard St	Porterville	93257
+S Howard St	Ventura	93003
+S Howe Av	Stockton	95206
+S Howland Ct	Porterville	93257
+S Howland St	Porterville	93257
+S Hudson Ave	Ontario	91761
+S Hudson St	Ontario	91761
+S Hughes Ave	Caruthers	93609
+S Hughes Ave	Fresno	93706
+S Hughes Ave	Riverdale	93656
+S Hulbert Ave	Fresno	93706
+S Humboldt Ave	Kerman	93630
+S Humboldt Dr	Santa Maria	93458
+S Humboldt St	San Mateo	94401
+S Humboldt St	San Mateo	94402
+S Humboldt St	Simi Valley	93065
+S Humboldt St	Willits	 
+S Humbolt St	Willits	95490
+S Hummingbird Ln	San Mateo	94402
+S Hummingbird Pso	Ontario	91761
+S Humor Dr	Anaheim	92804
+S Hunter St	Ramona	92065
+S Hunter St	Stockton	95202
+S Hunter St	Stockton	95203
+S Hunter St	Stockton	95206
+S Huntington Ct	Rialto	92376
+S Huntington Ct	Visalia	93292
+S Huntington St	Visalia	93292
+S Hunts Ln	Colton	92324
+S Hunts Ln	San Bernardino	92408
+S Hurley St	Santa Ana	92704
+S Huron Dr	Santa Ana	92704
+S Hurrle Ave	Bakersfield	93308
+S Hurst	Ventura	93001
+S Hurst Ave	Ventura	93001
+S Hurst St	Ventura	93001
+S Hurston Dr	Mh	95391
+S Hutchins St	Lodi	95240
+S Hwy 1	Albion	 
+S Hwy 1	Anchor Bay	 
+S Hwy 1	Elk	 
+S Hwy 1	Gualala	 
+S Hwy 1	Manchester	 
+S Hwy 1	Point Arena	 
+S Hwy 1	Santa Maria	93455
+S Hwy 101	Hopland	 
+S Hwy 101	Los Alamos	93454
+S Hwy 101	Ukiah	 
+S Hwy 79	Temecula	92592
+S Hwy 86	El Centro	92243
+S Hyche Ave	Ontario	91761
+S Hyde	Imperial	92251
+S Hydro Dr	Whittier	90606

@@ -1,0 +1,19 @@
+59Th Ave	Sacramento	95822
+59Th Ave	Thermal	92274
+59Th Place	Long Beach	90803
+59Th Place	Los Angeles	90003
+59Th Place	Los Angeles	90043
+59Th Place	Los Angeles	90044
+59Th St	Emeryville	94608
+59Th St	Jurupa Valley	92509
+59Th St	Sacramento	95817
+59Th St	Sacramento	95819
+59Th St	Sacramento	95820
+59Th St	Sacramento	95824
+59Th St	San Diego	92114
+59Th St	San Diego	92115
+59Th Street	Los Angeles	90003
+59Th Street	Los Angeles	90043
+59Th Street	Los Angeles	90044
+59Th Street	Los Angeles	90047
+59Th Street West	Lancaster	93536

@@ -1,0 +1,125 @@
+Le Ann Dr	Garden Grove	92840
+Le Ann Dr	Rancho Cordova	95670
+Le Bain Dr	San Jose	95130
+Le Baron Ct	Winchester	92596
+Le Baron Drive	Mount Shasta	96067
+Le Barron Rd	San Diego	92115
+Le Bec Ct	Lodi	95240
+Le Berthon Street	Sunland	91040
+Le Berthon Street	Tujunga	91042
+Le Blan Way	Riverside	92506
+Le Blanc Ct	Indio	92203
+Le Blanc Place	Rancho Palos Verdes	90275
+Le Blanc Way	Rancho Cordova	95742
+Le Borgne Avenue	La Puente	91746
+Le Bourget Ave	Culver City	90232
+Le Bourget Avenue	Culver City	90232
+Le Bourget Cir	Lincoln	95648
+Le Bourget Ln	Lincoln	95648
+Le Brun Ln	Redding	96002
+Le Cante Dr	San Quentin	94964
+Le Chateau Dr	Hollister	95023
+Le Clair Ave	Crescent City	95531
+Le Clair Ln	Escondido	92026
+Le Claire Ct	San Rafael	94903
+Le Claire Ln	Redding	96003
+Le Claire Place	Los Angeles	90019
+Le Compte Pl	San Jose	95122
+Le Conge Dr	Anderson	96007
+Le Conte	Laguna Niguel	92677
+Le Conte Ave	Bakersfield	93306
+Le Conte Ave	Berkeley	94709
+Le Conte Ave	Montara	94037
+Le Conte Ave	San Francisco	94124
+Le Conte Avenue	Los Angeles	90024
+Le Conte Cir	Antioch	94531
+Le Conte Cir	San Francisco	94124
+Le Conte Ct	Antioch	94531
+Le Conte Ct	Stockton	95212
+Le Conte Dr	Huntington Beach	92646
+Le Conte Dr	Huntington Beach	92646-1522
+Le Conte Dr	Riverside	92507
+Le Conte St	Oceanside	92057
+Le Conte St	San Diego	92114
+Le Conte Way	Foresta	95389
+Le Conte Way	Yosemite	95389
+Le Corbusier Ct	Stockton	95206
+Le Donne Dr	Sacramento	95823
+Le Doux Road	Los Angeles	90035
+Le Droit Drive	South Pasadena	91030
+Le Fevre Dr	San Jose	95118
+Le Fevre Ln	Bangor	95914
+Le Fevre Ln	Bangor	95966
+Le Flore Drive	La Habra	90631
+Le Flore Pl	Granite Bay	95746
+Le Floss Avenue	Downey	90241
+Le Franc Dr	San Jose	95118
+Le Gaye St	Lake Elsinore	92530
+Le Grand Ct	Indio	92201
+Le Grand Ln	Moreno Valley	92557
+Le Grand Road	Le Grand	95333
+Le Grand Road	Merced	95333
+Le Grand Road	Merced	95341
+Le Grand St	Murrieta	92563
+Le Grande Dr	Hemet	92544
+Le Grande Ln	Huntington Beach	92649
+Le Grande Ln	Huntington Beach	92649-3220
+Le Grande Ln	Huntington Beach	92649-3221
+Le Grande Ln	Huntington Beach	92649-3227
+Le Grande Ln	Huntington Beach	92649-3229
+Le Grande Ln	Huntington Beach	92649-3257
+Le Grande Ln	Huntington Beach	92649-3263
+Le Grande Ln	Huntington Beach	92649-3264
+Le Grande Ln	Huntington Beach	92649-5234
+Le Grande Ln	Huntington Beach	92649-5236
+Le Grande Ln	Huntington Beach	92649-5238
+Le Grande Terrace	San Pedro	90732
+Le Gray Avenue	Los Angeles	90042
+Le Harve Ave	Lake Elsinore	92530
+Le Harve Ln	San Jacinto	92583
+Le Havre Pl	Half Moon Bay	94019
+Le Havre Way	Citrus Heights	95621
+Le Jean Way	Walnut Creek	94597
+Le Mans	Mission Viejo	92692
+Le Mans	Newport Beach	92657
+Le Mans Av	Stockton	95210
+Le Mans Ave	Citrus Heights	95621
+Le Mans Cir	Ybl	92886
+Le Mans Cir	Yorba Linda	92886
+Le Mans Dr	Hollister	95023
+Le Mans Dr	Moreno Valley	92555
+Le Mans Ln	Modesto	95351
+Le Mans Pl	Stockton	95210
+Le Mans Way	Half Moon Bay	94019
+Le May Ave	Bakersfield	93304
+Le May Ave	San Diego	92154
+Le May Way	Hayward	94544
+Le May Way	Hemet	92543
+Le Miccine Ter	San Jose	95129
+Le Mont Way	Lake Arrowhead	92352
+Le Nailer Dr	Modesto	95355
+Le Niche	Lancaster	93535
+Le Page Ranch Road	Pearblossom	93553
+Le Parc	Chino Hills	91709
+Le Parc	Lake Forest	92630
+Le Parc	Lake Forest	92630-5923
+Le Parc	Lake Forest	92630-5949
+Le Parc	Lake Forest	92630-5950
+Le Parc Blvd	Chino Hills	91709
+Le Parc Ct	Fair Oaks	95628
+Le Park Drive	Long Beach	90807
+Le Point St	Arroyo Grande	93420
+Le Point Ter	Arroyo Grande	93420
+Le Prt	Laguna Niguel	92677
+Le Roy Ave	Berkeley	94708
+Le Roy Ave	Berkeley	94709
+Le Roy St	Hayfork	96041
+Le Sabre Ct	Morgan Hill	95037
+Le Sage Avenue	Woodland Hills	91367
+Le Sage Street	Lynwood	90262
+Le Seine Ln	Indio	92203
+Le Soleil	Laguna Niguel	92677
+Le Tourneau Lane	Grass Valley	95949
+Le Valley Rd	Mission Hills	93436
+Le Vanto	Irvine	92606
+Le Verne Street	Mammoth Lakes	93546

@@ -1,0 +1,145 @@
+Calle Babette	Temecula	92592
+Calle Bahia	San Clemente	92672
+Calle Baja	Walnut	91789
+Calle Bajar	Murrieta	92563
+Calle Balandra	San Clemente	92673
+Calle Balareza	Temecula	92592
+Calle Balboa	San Clemente	92672
+Calle Balderas	Coachella	92236
+Calle Balderas	Indio	92203
+Calle Ballentine	Temecula	92592
+Calle Balmez	Temecula	92592
+Calle Balsa	Lake Forest	92630
+Calle Balsa	Lake Forest	92630-2148
+Calle Balsa	Thousand Oaks	91360
+Calle Balsero	Menifee	92586
+Calle Bandera	San Dimas	91773
+Calle Bandido	Murrieta	92562
+Calle Bandido Rd	Murrieta	92562
+Calle Bandino	Murrieta	92562
+Calle Banuelos	Temecula	92592
+Calle Baranda	San Clemente	92673
+Calle Barbona	Temecula	92592
+Calle Barbona Cir	Temecula	92592
+Calle Barbosa	Laguna Niguel	92677
+Calle Barcaldo	Temecula	92592
+Calle Barcelona	Carlsbad	92009
+Calle Barcelona	Cathedral City	92234
+Calle Barcelona	Chino Hills	91709
+Calle Barcelona	Encinitas	92024
+Calle Barcelona	La Quinta	92253
+Calle Barcelona	Rowland Heights	91748
+Calle Barcelona	Tustin	92782
+Calle Barquero	Santa Barbara Unincorporated	93111
+Calle Barranca	Desert Hot Springs	92240
+Calle Bartizon	Temecula	92592
+Calle Bastia	Highland	92346
+Calle Batido	San Clemente	92673
+Calle Becerra	Laguna Niguel	92677
+Calle Becerra	Mecca	92254
+Calle Becerra	Walnut	91789
+Calle Begonia	Palm Springs	92262
+Calle Belcanto	Menifee	92584
+Calle Belding	Moreno Valley	92555
+Calle Belicia	San Dimas	91773
+Calle Bella	Coachella	92236
+Calle Bella	Glendale	91208
+Calle Bella	Rancho Santa Margarita	92688
+Calle Bella	Riverside	92503
+Calle Bella	Ybl	92887
+Calle Bella	Yorba Linda	92887
+Calle Bella Loma	San Clemente	92672
+Calle Bella Loma	Temecula	92592
+Calle Bella Vista	Camarillo	93010
+Calle Bellagio	Temecula	92592
+Calle Bellagio Ln	Temecula	92592
+Calle Bellevista	Pacific Palisades	90272
+Calle Belleza	Lake Forest	92630
+Calle Belleza	Rowland Heights	91748
+Calle Bello	Bakersfield	93314
+Calle Bello	Santa Barbara	93108
+Calle Bellota	Camarillo	93010
+Calle Belmonte	San Juan Capistrano	92675
+Calle Belmonte	Tustin	92782
+Calle Belvia	Temecula	92592
+Calle Benavente	Tustin	92782
+Calle Benavente	Winchester	92596
+Calle Bendita	Arroyo Grande	93420
+Calle Bernardo	Coachella	92236
+Calle Bernardo	Temecula	92590
+Calle Berro	Santa Clarita	91390
+Calle Bieldo	Rancho Santa Margarita	92688
+Calle Bienvenida	Chino Hills	91709
+Calle Bienvenido	San Clemente	92673
+Calle Bienvenido	Thousand Oaks	91360
+Calle Bienvenido	Vista	92084
+Calle Bisque	Palm Desert	92260
+Calle Blanca	Desert Hot Springs	92240
+Calle Blanca Trl	San Diego	92130
+Calle Blanco	Desert Hot Springs	92240
+Calle Boca Del Canon	Santa Barbara	93101
+Calle Bodega	Camarillo	93012
+Calle Bogota	Rowland Heights	91748
+Calle Boitano Palms	Thermal	92274
+Calle Bolero	Camarillo	93012
+Calle Bolero	Oceanside	92057
+Calle Bolero	San Juan Capistrano	92675
+Calle Bolso	Desert Hot Springs	92240
+Calle Bonita	Camarillo	93012
+Calle Bonita	Coachella	92236
+Calle Bonita	Desert Hot Springs	92240
+Calle Bonita	Escondido	92029
+Calle Bonita	Palm Springs	92262
+Calle Bonita	Palmdale	93550
+Calle Bonita	San Jose	95120
+Calle Bonita	San Juan Capistrano	92675
+Calle Bonita	Santa Barbara Unincorporated	93441
+Calle Bonita	Santa Barbara Unincorporated	93460
+Calle Bonita	Santa Clarita	91390
+Calle Bonita	Temecula	92592
+Calle Bonita	Ybl	92886
+Calle Bonita	Yorba Linda	92886
+Calle Bonita Ct	Granite Bay	95746
+Calle Bonito	San Clemente	92672
+Calle Borrego	San Clemente	92672
+Calle Borrego	San Juan Capistrano	92675
+Calle Borrego	Thousand Oaks	91360
+Calle Borrego	Walnut	91789
+Calle Bosque	Indio	92203
+Calle Botanico	San Clemente	92673
+Calle Bouganvila	Coachella	92236
+Calle Bouganvila	Thousand Oaks	91360
+Calle Bouganvilia	Coachella	92236
+Calle Bouganvilla	Thousand Oaks	91360
+Calle Boveda	San Clemente	92673
+Calle Boya	San Clemente	92673
+Calle Bravo	Palm Springs	92264
+Calle Breceda	Irwindale	91706
+Calle Bresca	Rancho Cucamonga	91730
+Calle Breve	Temecula	92592
+Calle Breve Rd	Temecula	92592
+Calle Breve St	Temecula	92592
+Calle Brillante	Chino Hills	91709
+Calle Brillante	Murrieta	92562
+Calle Brio	Temecula	92592
+Calle Brisa	Camarillo	93012
+Calle Brisa	Chino Hills	91709
+Calle Brisa	Chula Vista	91915
+Calle Brisa	La Quinta	92253
+Calle Brisa	San Clemente	92673
+Calle Brisas	Camarillo	93012
+Calle Brittany	Pacific Palisades	90272
+Calle Broadway	Redondo Beach	90277
+Calle Brusca	Thousand Oaks	91360
+Calle Buena Ventura	Oceanside	92056
+Calle Buena Vista	Morgan Hill	95037
+Calle Buena Vista	Thousand Oaks	91320
+Calle Bueno Ganar	Jamul	91935
+Calle Burro	San Clemente	92673
+Calle Burro	San Jose	95111
+Calle Busca	Lake Forest	92630
+Calle Busca	Lake Forest	92630-0000
+Calle Busca	Lake Forest	92630-2601
+Calle Busca	Lake Forest	92630-2602
+Calle Busca	Lake Forest	92630-2603
+Calle Busca	Lake Forest	92630-2604

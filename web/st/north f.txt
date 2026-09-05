@@ -1,0 +1,199 @@
+North F Street	Exeter	93221
+North F Street	Porterville	93257
+North F Street	Tulare	93274
+North Fair Avenue	North Hollywood	91601
+North Fair Avenue	North Hollywood	91606
+North Fair Avenue	Sun Valley	91352
+North Fair Oak View Terrace	Los Angeles	90039
+North Fair Oaks Avenue	Altadena	91001
+North Fair Oaks Avenue	Pasadena	91103
+North Fair Oaks Avenue North	Altadena	91001
+North Fair Place	Inglewood	90302
+North Fairchild Street	Yreka	96097
+North Fairfax Avenue	Los Angeles	90036
+North Fairfax Avenue	Los Angeles	90046
+North Fairfield Avenue	Los Angeles	90068
+North Fairvale Avenue	Covina	91722
+North Fairvale Drive	Azusa	91702
+North Fairvalley Avenue	Covina	91722
+North Fairview Street	Burbank	91504
+North Fairview Street	Burbank	91505
+North Fairway Avenue	Studio City	91604
+North Fairway Court	Visalia	93291
+North Fairway Lane	West Covina	91791
+North Fairway Street	Visalia	93291
+North Falcon Avenue	Long Beach	90805
+North Falcon Avenue	Long Beach	90807
+North Falcon Avenue	Signal Hill	90755
+North Falcon Avenue	Winton	95388
+North Falcon Street	Wilmington	90744
+North Fallbrook Avenue	Woodland Hills	91367
+North Fallbrook Drive	Los Banos	93635
+North Fallenleaf Street	La Habra	90631
+North Fanning Street	Los Angeles	90026
+North Farber Avenue	Covina	91724
+North Fareholm Court	Los Angeles	90046
+North Faring Road	Los Angeles	90077
+North Faris Lane	Woodland Hills	91364
+North Farmdale Avenue	North Hollywood	91606
+North Farmersville Boulevard	Farmersville	93221
+North Farmersville Boulevard	Farmersville	93223
+North Farmersville Boulevard	Farmersville	93292
+North Farmington Avenue	Sunland	91040
+North Farolito Avenue	Long Beach	90815
+North Farragut Avenue	Wilmington	90744
+North Farralone Avenue	Canoga Park	91304
+North Farralone Avenue	Chatsworth	91311
+North Farrington Drive	La Habra	90631
+North Feather Avenue	La Puente	91746
+North Felicity Place	Sun Valley	91352
+North Fellows Avenue	Sylmar	91342
+North Fellowship Park Way	Los Angeles	90039
+North Fenimore Avenue	Azusa	91702
+North Fenimore Avenue	Covina	91722
+North Fenimore Avenue	Covina	91723
+North Fenton Avenue	Sylmar	91342
+North Fern Dell Drive	Los Angeles	90068
+North Fernbush Lane	Los Angeles	90077
+North Ferncroft Avenue	San Gabriel	91775
+North Ferne Street	Visalia	93291
+North Fernglen Avenue	Tujunga	91042
+North Fickett Street	Los Angeles	90033
+North Field Avenue	Inglewood	90302
+North Field Rd	San Francisco International	94128
+North Field Rd	South San Francisco	94128
+North Fifth Street	Dixon	95620
+North Fifth Street	Rio Vista	94571
+North Fig Street	Porterville	93257
+North Figueroa Street	Glendale	91206
+North Figueroa Street	Los Angeles	90012
+North Figueroa Street	Los Angeles	90041
+North Figueroa Street	Los Angeles	90042
+North Figueroa Street	Los Angeles	90065
+North Figueroa Street	Pasadena	91105
+North Figueroa Street	Wilmington	90744
+North Figueroa Terrace	Los Angeles	90012
+North Filbert Avenue	Exeter	93221
+North Filbert Road	Exeter	93221
+North Filion Street	Los Angeles	90065
+North Fillmore Place	Pomona	91768
+North Finch Court	Porter Ranch	91326
+North Findlay Avenue	Montebello	90640
+North Fir Avenue	Inglewood	90301
+North Fir Street	Porterville	93257
+North Fir Way	Porterville	93257
+North Fircroft Avenue	Covina	91722
+North Firmin Street	Los Angeles	90026
+North First Avenue	Arcadia	91006
+North First Street	Dixon	95620
+North First Street	Los Banos	93635
+North Firth Avenue	Los Angeles	90049
+North Fitch Drive	Los Angeles	90068
+North Flamingo Way	La Habra	90631
+North Fletcher Drive	Los Angeles	90039
+North Fletcher Drive	Los Angeles	90065
+North Flint Avenue	Wilmington	90744
+North Flintrock Road	Palmdale	93551
+North Floral Street	Visalia	93291
+North Floral Street	Visalia	93292
+North Florence Court	La Habra	90631
+North Florence Street	Burbank	91505
+North Florence Walk	Long Beach	90803
+North Flores Street	Los Angeles	90048
+North Flores Street	West Hollywood	90069
+North Floret Drive	Compton	90222
+North Florham Avenue	San Dimas	91773
+North Florish	Compton	90222
+North Florish Drive	Compton	90222
+North Flower Street	Inglewood	90301
+North Floyd Terrace	Los Angeles	90068
+North Fonda Street	La Habra	90631
+North Fontana Court	Visalia	93291
+North Fontana Street	Visalia	93291
+North Foose Road	Malibu	90265
+North Foote Avenue	Wilmington	90744
+North Foothill Avenue	Lindsay	93247
+North Foothill Drive	Yreka	96097
+North Foothill Road	Beverly Hills	90210
+North Forbes Avenue	Claremont	91711
+North Ford Boulevard	Los Angeles	90022
+North Ford Street	Burbank	91505
+North Forest Avenue	Los Angeles	90033
+North Forest Knoll Drive	West Hollywood	90069
+North Forest Lawn Drive	Los Angeles	90068
+North Forest Park Drive	Los Angeles	90032
+North Forest Place	Farmersville	93223
+North Forest Street	Inglewood	90302
+North Forest Trail	Sylmar	91342
+North Forestdale Avenue	Covina	91723
+North Forestglen Lane	San Dimas	91773
+North Fork Ave	Anderson	96007
+North Fork Ave	Carlsbad	92010
+North Fork Bennett Ln	Calistoga	94515
+North Fork Cir	Menifee	92584
+North Fork Cutoff	Trinity Center	96091
+North Fork Dr	Comptche	 
+North Fork Drive	Three Rivers	93271
+North Fork Drive	Woodlake	93286
+North Fork Lp	Gasquet	95543
+North Fork Pl	Emigrant Gap	95715
+North Fork Rd	Annapolis	95412
+North Fork Rd	Bitterwater	93930
+North Fork Rd	Friant	93626
+North Fork Rd	Gasquet	95543
+North Fork Rd	Hayfork	96041
+North Fork Rd	Highland	92346
+North Fork Rd	Petrolia	95536
+North Fork Rd	San Lucas	93954
+North Fork Way	Linda	95901
+North Fork Way	Menifee	92586
+North Formosa Avenue	Los Angeles	90036
+North Formosa Avenue	Los Angeles	90046
+North Formosa Fusion Way	Northridge	91324
+North Formosa Lane	Los Angeles	90046
+North Forty Rd	Lincoln	95648
+North Forty Rd	Lincoln	95658
+North Forty Tr	Upper Lake	95485
+North Fourth Street	Dixon	95620
+North Fourth Street	Porterville	93257
+North Fourth Street	Rio Vista	94571
+North Fox Street	San Fernando	91340
+North Foxdale Avenue	West Covina	91790
+North France Avenue	Tujunga	91042
+North Francis Avenue	Exeter	93221
+North Francisca Avenue	Redondo Beach	90277
+North Frank Street	Visalia	93291
+North Franklin Avenue	San Gabriel	91775
+North Franklin Canyon Drive	Beverly Hills	90210
+North Franklin Place	Long Beach	90802
+North Franklin Road	Atwater	95348
+North Frederic Street	Burbank	91504
+North Frederic Street	Burbank	91505
+North Fredonia Drive	Los Angeles	90068
+North Freedom Street	Visalia	93291
+North Freeman Avenue	Long Beach	90804
+North Freeman Avenue	Signal Hill	90755
+North Fremont Avenue	Alhambra	91801
+North Fremont Avenue	Los Angeles	90012
+North Fremont Drive	Lindsay	93247
+North Fresno Street	Los Angeles	90063
+North Fries Avenue	Wilmington	90744
+North Frigate Avenue	Wilmington	90744
+North Frijo Avenue	Covina	91722
+North Frijo Street	West Covina	91790
+North Front Road	Earlimart	93219
+North Front Street	Burbank	91502
+North Front Street	Rio Vista	94571
+North Front Street	San Pedro	90731
+North Frontenac Avenue	Los Angeles	90065
+North Fulcher Avenue	North Hollywood	91601
+North Fulgham Court	Visalia	93291
+North Fulgham Street	Visalia	93291
+North Fuller Avenue	Los Angeles	90036
+North Fuller Avenue	Los Angeles	90046
+North Fuller Lane	Los Angeles	90046
+North Fulton Avenue	North Hollywood	91605
+North Fulton Avenue	Sherman Oaks	91423
+North Fulton Avenue	Van Nuys	91401
+North Funchal Road	Los Angeles	90077
+North Furness Avenue	Los Angeles	90042

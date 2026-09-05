@@ -1,0 +1,19 @@
+Soquel	Aptos	95003
+Soquel	Santa Cruz	95060
+Soquel	Santa Cruz	95062
+Soquel	Santa Cruz	95065
+Soquel	Soquel	95073
+Soquel Avenue	Atwater	95301
+Soquel Canyon Pkwy	Chino Hills	91709
+Soquel Court	Tulare	93274
+Soquel Creek	Soquel	95073
+Soquel Ct	Madera	93638
+Soquel Dr	Modesto	95355
+Soquel Ln	Stockton	95206
+Soquel San Jose	Los Gatos	95030
+Soquel San Jose	Los Gatos	95033
+Soquel San Jose	Soquel	95073
+Soquel Way	Citrus Heights	95610
+Soquel Way	Sunnyvale	94085
+Soquel Wharf	Capitola	95010
+Soquel Wharf	Soquel	95073

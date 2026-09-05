@@ -1,0 +1,5 @@
+Rr 1	Byron	94514
+Rr 1	Delano	93215
+Rr 1	Earlimart	93219
+Rr 1	Oakley	94561
+Rr 2	Delano	93215

@@ -1,0 +1,399 @@
+La Paenda Way	Orangevale	95662
+La Paix St	Grand Terrace	92313
+La Paix St	Rancho Cucamonga	91701
+La Paja Ln	Mission Viejo	92691
+La Pala Ct	Morgan Hill	95037
+La Pala Ct	San Jose	95127
+La Pala Dr	San Jose	95127
+La Pala Ln	Carpinteria	93013
+La Pala Ln	Mission Viejo	92691
+La Pala Pl	San Jose	95127
+La Palma	Rancho Santa Fe	92067
+La Palma	Thousand Oaks	91320
+La Palma Ave	Anaheim	92801
+La Palma Ave	Buena Park	90620
+La Palma Ave	La Palma	90623
+La Palma Ave	Pla	92870
+La Palma Ave	Ybl	 
+La Palma Ave	Ybl	92887
+La Palma Ave	Yorba Linda	92887
+La Palma Avenue	Merced	95348
+La Palma Avenue	Palmdale	93550
+La Palma Cir	Corona	92879
+La Palma Court	Valencia	91355
+La Palma Court	Yuba City	95993
+La Palma Dr	Bre	92823
+La Palma Dr	Brea	92823
+La Palma Dr	Chino	91710
+La Palma Dr	Fallbrook	92028
+La Palma Dr	Huntington Beach	92646
+La Palma Dr	Huntington Beach	92646-1630
+La Palma Dr	Huntington Beach	92646-1632
+La Palma Dr	Huntington Beach	92646-1655
+La Palma Dr	Huntington Beach	92646-1664
+La Palma Dr	La Quinta	92253
+La Palma Dr	Modesto	95354
+La Palma Dr	Oroville	95965
+La Palma Lane	San Gabriel	91775
+La Palma Pl	Milpitas	95035
+La Palma St	Blythe	92225
+La Palma St	San Diego	92109
+La Palma Way	Moreno Valley	92555
+La Palmita Dr	Chula Vista	91913
+La Paloma	Dana Point	92629
+La Paloma	Desert Hot Springs	92240
+La Paloma	San Clemente	92672
+La Paloma	Santa Cruz	95062
+La Paloma	Thousand Oaks	91360
+La Paloma Av	Santa Barbara Unincorporated	93105
+La Paloma Ave	Fountain Valley	92708
+La Paloma Ave	Pismo Beach	93449
+La Paloma Ave	Pla	92870
+La Paloma Ave	Placentia	92870
+La Paloma Ave	San Jacinto	92582
+La Paloma Ave	Santa Rosa	95404
+La Paloma Ave	Saratoga	95070
+La Paloma Avenue	Alhambra	91803
+La Paloma Avenue	Wilmington	90744
+La Paloma Cir	Thousand Oaks	91360
+La Paloma Court	Davis	95618
+La Paloma Court	Tulare	93274
+La Paloma Ct	Atascadero	93422
+La Paloma Ct	El Sobrante	94803
+La Paloma Dr	Carpinteria	93013
+La Paloma Dr	Coachella	92236
+La Paloma Dr	Cupertino	95014
+La Paloma Dr	Homeland	92548
+La Paloma Dr	Irvine	92620
+La Paloma Dr	Palm Springs	92264
+La Paloma Drive	Springville	93265
+La Paloma Drive	Tulare	93274
+La Paloma Glen	Escondido	92026
+La Paloma Ln	Desert Hot Springs	92240
+La Paloma Ln	Fallbrook	92028
+La Paloma Ln	Oceanside	92057
+La Paloma Pl	El Sobrante	94803
+La Paloma Rd	El Sobrante	94803
+La Paloma Rd	Hornitos	95325
+La Paloma Rd	Los Altos Hills	94022
+La Paloma Road	Merced	95325
+La Paloma St	Carlsbad	92009
+La Paloma St	Hemet	92545
+La Paloma St	Redlands	92373
+La Paloma St	San Diego	92107
+La Paloma St	Turlock	95382
+La Paloma Street	Alhambra	91801
+La Paloma Street	Alhambra	91803
+La Paloma Way	Gilroy	95020
+La Paloma Way	Redding	96001
+La Paloma Way	Rocklin	95677
+La Paloma Way	Sacramento	95825
+La Pamela Way	Sacramento	95823
+La Pantera	Laguna Niguel	92677
+La Panto Rd	Victorville	92392
+La Panza Av	Ventucopa	93252
+La Panza Av	Ventucopa	93254
+La Panza Rd	Creston	93432
+La Para	Palo Alto	94306
+La Para Ave	Palo Alto	94306
+La Pasada	San Rafael	94903
+La Pasaita Court	Rowland Heights	91748
+La Pasita	San Juan Capistrano	92675
+La Pat Ct	Westminster	92683
+La Pat Pl	Westminster	92683
+La Pata St	Westminster	92683
+La Patera Canyon Rd	Santa Barbara Unincorporated	93117
+La Patera Ct	Camarillo	93010
+La Patera Dr	Camarillo	93010
+La Patera Pl	Goleta	93117
+La Paz	Ojai	93023
+La Paz	Rancho Mirage	92270
+La Paz	Temecula	92592
+La Paz	Watsonville	95076
+La Paz Av	Santa Barbara	93101
+La Paz Ave	Dana Point	92629
+La Paz Ave	Hemet	92545
+La Paz Ave	San Ramon	94583
+La Paz Canyon Rd	Fallbrook	92028
+La Paz Cir	Arroyo Grande	93420
+La Paz Cir	Corona	92879
+La Paz Cir	Santa Maria	93454
+La Paz Cir	Santa Maria	93455
+La Paz Cir	Ybl	92886
+La Paz Cir	Yorba Linda	92886
+La Paz Court	Merced	95340
+La Paz Court	Soledad	93960
+La Paz Ct	Adelanto	92301
+La Paz Ct	Bakersfield	93314
+La Paz Ct	Carlsbad	92010
+La Paz Ct	La Quinta	92253
+La Paz Ct	Modesto	95355
+La Paz Ct	Morgan Hill	95037
+La Paz Ct	Palo Cedro	96073
+La Paz Ct	Rancho Cucamonga	91701
+La Paz Ct	Roseville	95747
+La Paz Ct	Salton City	92274
+La Paz Ct	San Jose	95118
+La Paz Ct	San Ramon	94583
+La Paz Ct	Simi Valley	93065
+La Paz Ct	Victorville	92395
+La Paz Ct	Yucaipa	92399
+La Paz Ct	Yucca Valley	92284
+La Paz Dr	Helendale	92342
+La Paz Dr	Huntington Beach	92647
+La Paz Dr	Huntington Beach	92647-3905
+La Paz Dr	Huntington Beach	92647-3906
+La Paz Dr	Huntington Beach	92647-3908
+La Paz Dr	Huntington Beach	92647-3932
+La Paz Dr	Huntington Beach	92647-3939
+La Paz Dr	Huntington Beach	92647-3987
+La Paz Dr	Imperial	92251
+La Paz Dr	Ojai	93023
+La Paz Dr	Oroville	95965
+La Paz Dr	Pittsburg	94565
+La Paz Dr	San Diego	92113
+La Paz Dr	San Diego	92114
+La Paz Dr	Sonoma	95476
+La Paz Dr	Victorville	92395
+La Paz Drive	Claremont	91711
+La Paz Drive	Davis	95618
+La Paz Drive	Los Angeles	90039
+La Paz Drive	Pasadena	91107
+La Paz Drive	San Marino	91108
+La Paz Lane	Diamond Bar	91765
+La Paz Lane	Lancaster	93535
+La Paz Lane	Malibu	90265
+La Paz Ln	Atascadero	93422
+La Paz Ln	La Palma	90623
+La Paz Ln	Palm Desert	92260
+La Paz Ln	Perris	92571
+La Paz Ln	Riverside	92501
+La Paz Ln	Santa Rosa	95404
+La Paz Pl	Victorville	92395
+La Paz Rd	Aliso Viejo	92656
+La Paz Rd	Laguna Hills	92653
+La Paz Rd	Laguna Niguel	92677
+La Paz Rd	Mission Viejo	92691
+La Paz Rd	Mission Viejo	92692
+La Paz Rd	Montecito	93108
+La Paz Rd	Placentia	92870
+La Paz Rd	Rancho Mirage	92270
+La Paz Rd	Temecula	92592
+La Paz Road	Altadena	91001
+La Paz Road	Whittier	90603
+La Paz St	Adelanto	92301
+La Paz St	Oceanside	92054
+La Paz St	Temecula	92592
+La Paz Street	Long Beach	90803
+La Paz Street	Macdoel	96058
+La Paz Street	Vacaville	95687
+La Paz Street	Vallejo	94591
+La Paz Way	Hayward	94541
+La Paz Way	Palm Desert	92260
+La Paz Way	Palm Springs	92264
+La Paz Way	Sacramento	95821
+La Paz Way	Saratoga	95070
+La Peer	Beverly Hills	90211
+La Pena Avenue	La Mirada	90638
+La Pera Cir	Danville	94526
+La Pera Ct	Danville	94526
+La Pera Ct	Sacramento	95823
+La Perdiz Ct	San Rafael	94903
+La Peresa Dr	Thousand Oaks	91362
+La Pergola Dr	Brentwood	94513
+La Perla	Foothill Ranch	92610
+La Perla	Foothill Ranch	92610-1714
+La Perla	Foothill Ranch	92610-1715
+La Perla	Foothill Ranch	92610-1716
+La Perla	Foothill Ranch	92610-1717
+La Perla	Foothill Ranch	92610-1761
+La Perla	Lake Forest	92610
+La Perla Ave	Fountain Valley	92708
+La Perla Avenue	Long Beach	90815
+La Perla Dr	Modesto	95357
+La Perla Ln	Madera	93638
+La Perla Way	La Mesa	91941
+La Perle Ln	Costa Mesa	92627
+La Perle Pl	Costa Mesa	92627
+La Petite Avenue	Lancaster	93536
+La Piedra Dr	Menifee	92584
+La Piedra Pl	Antelope	95843
+La Piedra Rd	Menifee	92584
+La Piedra Rd	Winchester	92596
+La Pina Dr	Menifee	92587
+La Pinata Way	Oceanside	92057
+La Pinta Maria Dr	Bakersfield	93307
+La Pinta Way	San Jose	95129
+La Pintoresca Drive	Pasadena	91103
+La Pintura Dr	La Jolla	92037
+La Pintura Ln	Napa	94558
+La Pita Pl	Buellton	93427
+La Place Ct	Carlsbad	92008
+La Place Lane	Dobbins	95919
+La Placentia	San Clemente	92672
+La Placida Ave	Big Bear Lake	92315
+La Placita Ct	Novato	94945
+La Placita Ct	Sonoma	95476
+La Placita Dr	Rancho Cordova	95670
+La Placita Way	Chico	95928
+La Plancha Ln	Carlsbad	92009
+La Plata	San Diego	92127
+La Plata	Santa Barbara	93109
+La Plata Avenue	Hacienda Heights	91745
+La Plata Ct	Ramona	92065
+La Plata Dr	Camarillo	93010
+La Plata Dr	Laguna Niguel	92677
+La Plata Plz	Campbell	95008
+La Plata Rd	Apple Valley	92308
+La Plata Way	Sacramento	95838
+La Playa	San Francisco	94121
+La Playa	San Francisco	94122
+La Playa Ave	San Diego	92109
+La Playa Avenue	Monterey	93940
+La Playa Avenue	Seaside	93955
+La Playa Cir	Fountain Valley	92708
+La Playa Court	Merced	95348
+La Playa Ct	Chico	95928
+La Playa Ct	Cupertino	95014
+La Playa Ct	Lafayette	94549
+La Playa Ct	Loomis	95650
+La Playa Ct	Manteca	95336
+La Playa Dr	Hayward	94545
+La Playa Dr	Lafayette	94549
+La Playa Dr N	Costa Mesa	92627
+La Playa Dr S	Costa Mesa	92627
+La Playa Drive	Davis	95618
+La Playa Ln	Hemet	92545
+La Playa Ln	Modesto	95355
+La Playa Pl	Hayward	94545
+La Playa St	Coachella	92236
+La Playa Way	Sacramento	95864
+La Playa Way	San Rafael	94903
+La Plaza	Cotati	94931
+La Plaza	Dana Point	92629
+La Plaza	Ojai	93023
+La Plaza Ct	La Habra	90631
+La Plaza Dr	Bre	92823
+La Plaza Dr	Brea	92823
+La Plaza Dr	La Habra	90631
+La Plaza Dr	Orinda	94563
+La Plaza Dr	San Marcos	92078
+La Plaza Ln	Bre	92823
+La Pluma	Santa Cruz	95062
+La Pluma Ct	Antelope	95843
+La Pluma Ct	San Marcos	92078
+La Pluma Drive	La Mirada	90638
+La Pluma Ln	Carlsbad	92009
+La Plumosa	Laguna Niguel	92677
+La Pointe Rd	Eureka	95503
+La Pomelo Road	La Mirada	90638
+La Ponderosa Dr	Coachella	92236
+La Porta Pt	San Diego	92130
+La Portada Street	South Pasadena	91030
+La Portalada Dr	Carlsbad	92010
+La Porte Ave	Hayward	94545
+La Porte Ave	San Jose	95122
+La Porte Ct	Morgan Hill	95037
+La Porte Drive	La Canada Flintridge	91011
+La Porte Rd	Bangor	95901
+La Porte Rd	Bangor	95914
+La Porte Rd	Bangor	95966
+La Porte Rd	Clipper Mills	95925
+La Porte Rd	Clipper Mills	95930
+La Porte Rd	Clipper Mills	95941
+La Porte Rd	Forbestown	95941
+La Porte Rd	Honcut	95901
+La Porte Rd	Honcut	95966
+La Porte Road	Brownsville	95919
+La Porte Road	Brownsville	95941
+La Porte Road	Challenge	95925
+La Porte Road	Challenge	95941
+La Porte Road	Clipper Mills	95930
+La Porte Road	Rackerby	95914
+La Porte Road	Rackerby	95918
+La Porte Road	Rackerby	95919
+La Porte Road	Rackerby	95972
+La Porte Road	Strawberry Valley	95930
+La Porte Road	Strawberry Valley	95981
+La Porte Road North	Strawberry Valley	95981
+La Porte Road South	Strawberry Valley	95981
+La Porte Street	Arcadia	91006
+La Posada	Rancho Mirage	92270
+La Posada	San Luis Obispo	93401
+La Posada Dr	Borrego Springs	92004
+La Posada Dr	Oakdale	95361
+La Posada Drive	Salinas	93906
+La Posada St	National City	91950
+La Posada Way	Julian	92036
+La Posta Cir	Pine Valley	91962
+La Posta Ct	Corona	92883
+La Posta Rd	Campo	91906
+La Posta Rd	Pine Valley	91962
+La Posta St	Bakersfield	93307
+La Posta Trl	Pine Valley	91962
+La Posta Truck Trl	Pine Valley	91962
+La Poza Ct	Citrus Heights	95621
+La Prada	Los Angeles	90042
+La Prada Ct	Elk Grove	95624
+La Prada Way	Menifee	92586
+La Pradera	Laguna Niguel	92677
+La Pradera	Ybl	92886
+La Pradera	Yorba Linda	92886
+La Pradera Dr	Campbell	95008
+La Pradera Lane	Carmel	93923
+La Pradera Ln	Escondido	92026
+La Pradera Rd	Atascadero	93422
+La Pradera Rd	Carlsbad	92010
+La Pradera Way	Eastvale	92880
+La Praix Ct	Highland	92346
+La Praix St	Highland	92346
+La Prenda	Millbrae	94030
+La Prenda Avenue	Benicia	94510
+La Prenda Ct	Morgan Hill	95037
+La Prenda Rd	Los Altos	94024
+La Presa Ave	Spring Valley	91977
+La Presa Avenue	Rosemead	91770
+La Presa Avenue	San Gabriel	91776
+La Presa Dr	La Habra	90631
+La Presa Drive	Los Angeles	90068
+La Presa Drive	Pasadena	91107
+La Presa Drive	San Gabriel	91775
+La Presa Loop	Temecula	92592
+La Presa Way	Rancho Cordova	95670
+La Primavera Dr	Bonsall	92003
+La Primavera Dr	Vista	92084
+La Primavera St	Temecula	92592
+La Primavera Way	Gilroy	95020
+La Promesa	Rancho Santa Margarita	92688
+La Puebla	Mission Viejo	92692
+La Puebla Avenue	Whittier	90605
+La Puente Dr	Bakersfield	93309
+La Puente Drive	West Covina	91792
+La Puente Road	La Puente	91744
+La Puente Road	Walnut	91789
+La Puente Road	West Covina	91792
+La Puerta Ave	Oxnard	93030
+La Puerta Del Sol	Palm Springs	92262
+La Puerta Dr	Homeland	92548
+La Puerta Dr	San Pablo	94806
+La Puerta Rd	San Pablo	94806
+La Puerta Street	Los Angeles	90023
+La Puesta Del Sol	Palm Springs	92262
+La Puesta Del Sol	Pismo Beach	93449
+La Puma Ct	Camarillo	93012
+La Punta	Orinda	94563
+La Punta Drive	Los Angeles	90068
+La Purishma Way	Oceanside	92057
+La Purisima	Guadalupe	93434
+La Purisima	Guadalupe	93454
+La Purisima	Rancho Santa Margarita	92688
+La Purisima	Soledad	93960
+La Purisima Ave	Morro Bay	93442
+La Purisima Court	Merced	95341
+La Purisima Ct	San Miguel	93451
+La Purisima St	Guadalupe	93434
+La Purisima Street	Merced	95341
+La Purisma Ct	San Miguel	93451
+La Purisma Street	Los Banos	93635
+La Purisma Way	Oceanside	92057
+La Purissima Way	Sacramento	95819

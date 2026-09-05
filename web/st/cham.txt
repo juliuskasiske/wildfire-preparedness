@@ -1,0 +1,310 @@
+Chama Drive	Lancaster	93535
+Chama Rd	Apple Valley	92308
+Chamaerop Palm Ln	Indio	92201
+Chamalea Dr	Mission Viejo	92691
+Chamas St	Twentynine Palms	92277
+Chambeau Way	Elk Grove	95624
+Chamber Avenue	La Verne	91750
+Chamber Ct	Elk Grove	95758
+Chamber Ln	Apple Valley	92307
+Chamber St	Riverside	92503
+Chamberer Dr	San Jose	95135
+Chamberlain Ave	Anaheim	92804
+Chamberlain Ave	Auburn	95603
+Chamberlain Ave	Bakersfield	93305
+Chamberlain Ave	El Cajon	92020
+Chamberlain Ave	Novato	94947
+Chamberlain Avenue	East Garrison	93933
+Chamberlain Avenue	Los Banos	93635
+Chamberlain Court	Woodland	95776
+Chamberlain Ct	Groveland	95321
+Chamberlain Ct	Mill Valley	94941
+Chamberlain Ct	Novato	94947
+Chamberlain Ct	Walnut Creek	94598
+Chamberlain Dr	4-An-7	92804
+Chamberlain Dr	Anaheim	92804
+Chamberlain Dr	San Jose	95121
+Chamberlain Dr	Victorville	92394
+Chamberlain Drive	Fairfield	94533
+Chamberlain Lane	Reseda	91335
+Chamberlain Pl	Escondido	92025
+Chamberlain Rd	Lincoln	95648
+Chamberlain Rd	Midpines	95345
+Chamberlain Rd	Soda Springs	95728
+Chamberlain Road	El Nido	95317
+Chamberlain Road	Merced	95341
+Chamberlain Road	Pasadena	91103
+Chamberlain Run	Chico	95973
+Chamberlain St	Antioch	94531
+Chamberlain St	Lakehead	96051
+Chamberlain St	Stockton	95212
+Chamberlain St	Ventura	93004
+Chamberlain Street	Salinas	93901
+Chamberlain Street	San Fernando	91340
+Chamberlain Street	San Fernando	91345
+Chamberlain Way	Carmichael	95608
+Chamberlaine Way	Adelanto	92301
+Chamberland Dr	Tahoma	96142
+Chamberlin Cir	Elk Grove	95757
+Chamberlin Court	Nevada City	95959
+Chamberlin Creek Way	Perris	92571
+Chamberlin Ct	Campbell	95008
+Chambers	Holtville	92250
+Chambers Ave	Hemet	92543
+Chambers Ave	Hemet	92544
+Chambers Ave	Menifee	92585
+Chambers Ave	Menifee	92586
+Chambers Bay Avenue	Tulare	93274
+Chambers Cir	Brentwood	94513
+Chambers Court	Lakewood	90712
+Chambers Ct	Fullerton	92833
+Chambers Ct	Hughson	95326
+Chambers Ct	Tracy	95377
+Chambers Dr	Lincoln	95648
+Chambers Dr	San Jose	95118
+Chambers Drive	Happy Camp	96039
+Chambers Lane	Carmel Valley	93924
+Chambers Lane Ave	Holtville	92250
+Chambers Lane Dr	Holtville	92250
+Chambers Lane Ln	Holtville	92250
+Chambers Ln	Gridley	95948
+Chambers Ln	Holtville	92250
+Chambers Ln	Simi Valley	93065
+Chambers Lodge Rd	Tahoma	96142
+Chambers Rd	Menifee	92586
+Chambers Rd	Petrolia	95558
+Chambers Rd	Tustin	92780
+Chambers St	El Cajon	92020
+Chambers St	Escondido	92029
+Chambers St	Hayward	94545
+Chambers St	Hemet	92543
+Chambers St	Hemet	92544
+Chambers St	Perris	92571
+Chambers Street	Los Angeles	90058
+Chambersburg Rd	Fillmore	93015
+Chambersburg Way	Folsom	95630
+Chambertin Dr	San Jose	95118
+Chambery Ct	San Jose	95127
+Chambery Pl	Chula Vista	91913
+Chamblee Avenue	Cerritos	90703
+Chamblee Court	Delhi	95315
+Chambord	Newport Beach	92657
+Chambord Ct	Oceanside	92054
+Chambord Ct	Sacramento	95828
+Chambord Ct	San Jose	95127
+Chambord Dr	Lake Elsinore	92532
+Chambord Dr	Rancho Cucamonga	91737
+Chambord Dr	Stockton	95210
+Chambord Drive	Acton	93510
+Chambord Pl	Stockton	95210
+Chambord St	Lake Elsinore	92532
+Chambord St	Winchester	92596
+Chambord Way	San Diego	92130
+Chambord Wy	Roseville	95678
+Chambosse Dr	Hayward	94544
+Chambray Ct	Elk Grove	95624
+Chambray Dr	Moreno Valley	92557
+Chambray Dr	Murrieta	92563
+Chambray Pl	Rancho Cucamonga	91739
+Chambray Rd	Elk Grove	95624
+Chameleon Rd	Hemet	92544
+Chamera Lane	Topanga	90290
+Chamerop Palm Ln	Indio	92201
+Chames Ct	Oroville	95966
+Chaminade	Newport Beach	92657
+Chaminade	Santa Cruz	95065
+Chaminade Avenue	Canoga Park	91304
+Chaminade Court	Claremont	91711
+Chamisal Ave	Los Altos	94022
+Chamisal Ct	Carlsbad	92011
+Chamisal Ln	Arroyo Grande	93420
+Chamisal Pass	Carmel	93923
+Chamisal Pl	San Diego	92121
+Chamisal St	Adelanto	92301
+Chamisal St	El Mirage	92301
+Chamisal Way	Pebble Beach	93953
+Chamise	Salinas	93905
+Chamise Ave	Clovis	93619
+Chamise Cir	Corona	92882
+Chamise Circle	Salinas	93905
+Chamise Court	Fairfield	94533
+Chamise Ct	Hemet	92545
+Chamise Ct	Orangevale	95662
+Chamise Ct	San Marcos	92069
+Chamise Ct	Simi Valley	93063
+Chamise Dr	Modesto	95354
+Chamise Dr	Twain Harte	95383
+Chamise Drive	Salinas	93905
+Chamise Ln	Murrieta	92563
+Chamise Ln	San Luis Obispo	93405
+Chamise Loop Rd	Palo Verde	95542
+Chamise Place	Stevenson Ranch	91381
+Chamise St	Lakehead	96051
+Chamise St	Temecula	92591
+Chamise Vista Ln	San Diego	92130
+Chamise Way	Hemet	92545
+Chamise Way	Jamul	91935
+Chamise Way	Redding	96002
+Chamiso Dr	Los Alamos	93440
+Chamiso St	Victorville	92392
+Chamizo Calle	Santa Clarita	91390
+Chamois Cir	Cypress	90630
+Chamois Ct	Brentwood	94513
+Chamois Dr	Crestline	92325
+Chamois Dr	Twin Peaks	92391
+Chamois Ln	Corona	92883
+Chamois St	Ventura	93003
+Chamoise Ln	Anza	92539
+Chamomile	Irvine	92604
+Chamomile Cir	Moreno Valley	92557
+Chamomile Ct	Elk Grove	95624
+Chamomile Ct	San Bernardino	92407
+Chamomile Ct	San Ramon	94582
+Chamomile Glen	Escondido	92025
+Chamomile Ln	Brentwood	94513
+Chamomile Ln	Half Moon Bay	94019
+Chamomile Rd	Corona	92883
+Chamomile Rd	Roseville	95747
+Chamomile St	Murrieta	92562
+Chamomile Way	Bakersfield	93306
+Chamomile Wkwy	San Jose	95133
+Chamomile Ww	San Jose	95133
+Chamonix	Laguna Niguel	92677
+Chamonix Cir	Menifee	92585
+Chamonix Ct	Antelope	95843
+Chamonix Ct	Palm Desert	92260
+Chamonix Pl	Olympic Valley	96146
+Chamonix Place	Mammoth Lakes	93546
+Chamonix Rd	Tahoe City	96145
+Chamonix Road	Truckee	96161
+Chamonix Way	Antelope	95843
+Chamoune Ave	San Diego	92105
+Chamoune Ave	San Diego	92115
+Champ Ave	Modesto	95355
+Champa St	Vista	92083
+Champagne	Escondido	92026
+Champagne Ave	Ontario	91761
+Champagne Avenue	Coleville	96133
+Champagne Blvd	Escondido	92026
+Champagne Blvd	Valley Center	92082
+Champagne Canyon Ct	Palm Desert	92211
+Champagne Ci	Roseville	95747
+Champagne Cir	3-Yl-2	92886
+Champagne Cir	Hemet	92544
+Champagne Cir	Irvine	92604
+Champagne Cir	Oco	92886
+Champagne Cir	Rancho Mirage	92270
+Champagne Cir	Yorba Linda	92886
+Champagne Court	Fairfield	94533
+Champagne Court	Los Banos	93635
+Champagne Court	Tulare	93274
+Champagne Court	Westlake Village	91362
+Champagne Ct	Brentwood	94513
+Champagne Ct	Chula Vista	91913
+Champagne Ct	Lodi	95242
+Champagne Ct	Loomis	95650
+Champagne Ct	Modesto	95351
+Champagne Ct	Riverside	92505
+Champagne Ct	Sacramento	95829
+Champagne Dr	Calimesa	92320
+Champagne Dr	Stockton	95210
+Champagne Dr	Yountville	94599
+Champagne E	Calistoga	94515
+Champagne Lane	Grass Valley	95949
+Champagne Lane	Newhall	91321
+Champagne Ln	Manteca	95337
+Champagne Ln	Modesto	95351
+Champagne Ln	Palm Desert	92211
+Champagne Ln	Paso Robles	93446
+Champagne Ln	San Jose	95132
+Champagne N	Calistoga	94515
+Champagne Pl	Petaluma	94954
+Champagne Place	Coleville	96133
+Champagne Rd	Rancho Cucamonga	91737
+Champagne S	Calistoga	94515
+Champagne Street	Tulare	93274
+Champagne W	Calistoga	94515
+Champagne Way	Apple Valley	92308
+Champagne Way	Atwater	95301
+Champagne Way	Bakersfield	93306
+Champagne Way	Gonzales	93926
+Champagne Way	Winchester	92596
+Champali Ct	Indio	92201
+Champanel Rd	Apple Valley	92308
+Champart Cir	Elk Grove	95757
+Champart Way	Elk Grove	95757
+Champer Court	Valencia	91354
+Champion	Lake Elsinore	92530
+Champion Ave	Lake Elsinore	92530
+Champion Ave	Westminster	92683
+Champion Circle	Walnut	91789
+Champion Ct	Indio	92201
+Champion Ct	Menifee	92586
+Champion Ct	San Jose	95134
+Champion Dr	Beaumont	92223
+Champion Dr	Canyon Lake	92587
+Champion Ln	Chula Vista	91915
+Champion Ln	Deer Park	94576
+Champion Ln	Huntington Beach	92648
+Champion Ln	Huntington Beach	92648-5508
+Champion Ln	Huntington Beach	92648-5509
+Champion Oaks Dr	Roseville	95661
+Champion Oaks Dr Unit 1	Roseville	95661
+Champion Oaks Dr Unit 2	Roseville	95661
+Champion Oaks Dr Unit 3	Roseville	95661
+Champion Oaks Dr Unit 4	Roseville	95661
+Champion Place	Alhambra	91801
+Champion Place	Vacaville	95687
+Champion Road	Nevada City	95959
+Champion St	Chino Hills	91709
+Champion St	Lemoore	93245
+Champion St	San Diego	92105
+Champion Way	Eastvale	92880
+Champion Way	Merced	95340
+Champion Way	Palmdale	93551
+Champion Way	Tustin	92782
+Champions Ave	Bakersfield	93312
+Champions Cir	Temecula	92591
+Champions Dr	Beaumont	92223
+Champions Dr	Canyon Lake	92587
+Champions Dr	Menifee	92584
+Champions Ln	Cypress	90720
+Champions Ln	Nipomo	93444
+Champions Way	La Quinta	92253
+Champions Way	Santa Clara	95050
+Champions Wy	Santa Clara	95050
+Championship Dr	Moorpark	93021
+Championship Dr	Moreno Valley	92555
+Championship Dr	Sonora	95370
+Championship Dr	Yorba Linda	92886
+Championship Ln	Templeton	93465
+Championship Rd	Oceanside	92057
+Championship Way	Bakersfield	93314
+Champlain	Irvine	92620
+Champlain	Lake Forest	92630
+Champlain	Lake Forest	92630-7048
+Champlain	Lake Forest	92630-7049
+Champlain Ave	Cloverdale	95425
+Champlain Ave	Murrieta	92562
+Champlain Ave	Ventura	93004
+Champlain Avenue	Pasadena	91103
+Champlain Ct	Fontana	92336
+Champlain Ct	Union City	94587
+Champlain Dr	Corona	92880
+Champlain Drive	Claremont	91711
+Champlain Ln	Carmichael	95608
+Champlain Rd	Laguna Hills	92653
+Champlain St	Hayward	94544
+Champlain St	Lake Elsinore	92532
+Champlain St	Moreno Valley	92557
+Champlain St	Oceanside	92056
+Champlain Terrace	Los Angeles	90026
+Champlain Way	Chico	95973
+Champlain Way	San Diego	92117
+Champlain Way	Union City	94587
+Champlin Creek Ln	Sonoma	95476
+Champlin Pl	Bakersfield	93311
+Champney Pl	Laguna Niguel	92677
+Champoux Ct	Temecula	92592
+Champs De Elysses	Forestville	95436
+Champs Elysee Blvd	Half Moon Bay	94019

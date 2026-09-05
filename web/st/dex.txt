@@ -1,0 +1,33 @@
+Dexter Ave	Lake Elsinore	92532
+Dexter Ave	Redwood City	94063
+Dexter Cir	North Highlands	95660
+Dexter Cir	Rohnert Park	94928
+Dexter Court	Merced	95348
+Dexter Ct	Unincorporated Alameda County	94541
+Dexter Dr	Cupertino	95014
+Dexter Dr	Riverside	92501
+Dexter Dr	San Jose	95123
+Dexter Dr	Santa Barbara Unincorporated	93110
+Dexter Drive	Salinas	93906
+Dexter Drive	Santa Clarita	91350
+Dexter Ln	Apple Valley	92307
+Dexter Ln	Clearlake	95422
+Dexter Ln	Coulterville	95311
+Dexter Park Road	Sylmar	91342
+Dexter Pl	Escondido	92029
+Dexter Pl	Lake Elsinore	92532
+Dexter Pl	Millbrae	94030
+Dexter Pl	San Ramon	94583
+Dexter Rd	Coulterville	95311
+Dexter Rd	Lake Elsinore	92532
+Dexter St	Camarillo	93010
+Dexter St	Chino	91708
+Dexter St	Palm Desert	92211
+Dexter St	Santa Rosa	95404
+Dexter Street	Baldwin Park	91706
+Dexter Street	Covina	91723
+Dexter Street	Los Angeles	90042
+Dexter Street	Yreka	96097
+Dexter View	Mariposa	95338
+Dexter Way	Redlands	92374
+Dexter Way	Unincorporated Alameda County	94541

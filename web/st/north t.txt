@@ -1,0 +1,176 @@
+North Tacoma Avenue	Los Angeles	90065
+North Tajauta Avenue	Compton	90220
+North Talbot Lane	Los Angeles	90026
+North Talmadge Dr	San Diego	92116
+North Talmadge Street	Los Angeles	90027
+North Tam O Shanter Drive	Azusa	91702
+North Tam Oshanter Drive	Azusa	91702
+North Tamarack Drive	Bridgeport	93517
+North Tamarack Drive	Visalia	93291
+North Tamarack Street	Visalia	93291
+North Tamarind Avenue	Compton	90220
+North Tamarind Avenue	Compton	90222
+North Tamarind Avenue	Los Angeles	90028
+North Tamatina Avenue	Compton	90222
+North Tampa Avenue	Porter Ranch	91326
+North Tampa Avenue	Reseda	91335
+North Tampa Avenue	Tarzana	91356
+North Tampico Avenue	Los Angeles	90032
+North Taper Avenue	San Pedro	90731
+North Tareco Drive	Los Angeles	90068
+North Taylor Avenue	Montebello	90640
+North Taylor Court	West Covina	91790
+North Taylor Way	Porterville	93257
+North Teakwood Court	Visalia	93292
+North Teakwood Road	Los Angeles	90049
+North Teakwood Street	Visalia	93292
+North Tealwood Street	Tulare	93274
+North Teazle Canyon Road	Sunland	91040
+North Teddy Court	Visalia	93291
+North Teddy Street	Visalia	93291
+North Tegner Road	Turlock	95380
+North Tehama Avenue	Farmersville	93223
+North Telfair Avenue	Pacoima	91331
+North Telfair Avenue	Sun Valley	91352
+North Telfair Avenue	Sylmar	91342
+North Tellem Drive	Pacific Palisades	90272
+North Temescal Canyon Road	Pacific Palisades	90272
+North Temple Avenue	Long Beach	90806
+North Temple Avenue	Signal Hill	90755
+North Tendilla Avenue	Woodland Hills	91364
+North Ter	Tiburon	94920
+North Terecita Road	Tujunga	91042
+North Terhune Avenue	Sunland	91040
+North Termino Avenue	Long Beach	90803
+North Termino Avenue	Long Beach	90804
+North Termino Avenue	Long Beach	90814
+North Termino Avenue	Long Beach	90815
+North Terrace 49	Los Angeles	90042
+North Terrace Court	Visalia	93291
+North Terrace Lane	Agoura Hills	91301
+North Terrace Park Street	Tulare	93274
+North Terrace Street	Visalia	93291
+North Terraine Avenue	Long Beach	90815
+North Terry Place	Los Angeles	90031
+North Terry Way	La Habra	90631
+North Test Cell Court	Atwater	95301
+North Texas Street	Fairfield	94533
+North Texas Street	June Lake	93529
+North Thames Street	Los Angeles	90046
+North The Old Road	Newhall	91321
+North Theodora Drive	Covina	91724
+North Theodore Court	Tulare	93274
+North Third Street	Dixon	95620
+North Third Street	Los Banos	93635
+North Third Street	Porterville	93257
+North Third Street	Rio Vista	94571
+North Thomas Court	Visalia	93292
+North Thomas Lane	Los Angeles	90038
+North Thomas Street	Los Angeles	90031
+North Thomas Street	Pomona	91768
+North Thomas Street	Visalia	93292
+North Thompson Road	Earlimart	93219
+North Thompson Road	Tipton	93272
+North Thorn St	San Diego	92105
+North Thornlake Avenue	Long Beach	90808
+North Thornton Street	Los Angeles	90063
+North Thorson Avenue	Compton	90221
+North Thurston Avenue	Los Angeles	90049
+North Tierno Lane	Los Angeles	90038
+North Tierra Subida Avenue	Palmdale	93551
+North Tiffin Way	Claremont	91711
+North Tigertail Road	Los Angeles	90049
+North Tilden Avenue	Van Nuys	91401
+North Tilden Court	Visalia	93291
+North Tilden Street	Visalia	93291
+North Tinker Avenue	Tujunga	91042
+North Tipton Street	Visalia	93292
+North Tipton Terrace	Los Angeles	90042
+North Tobias Avenue	Panorama City	91402
+North Todd Avenue	Azusa	91702
+North Todd Avenue	Duarte	91010
+North Todd Street	Visalia	93291
+North Toland Avenue	West Covina	91790
+North Toland Way	Los Angeles	90065
+North Tolbert Avenue	Long Beach	90807
+North Toledo Street	Los Angeles	90042
+North Toledo Walk	Long Beach	90813
+North Toltec Way	Los Angeles	90042
+North Toluca Park Drive	Burbank	91505
+North Toluca Street	Los Angeles	90026
+North Tommy Court	Visalia	93291
+North Tommy Street	Visalia	93291
+North Topanga Boulevard	Topanga	90290
+North Topanga Canyon Boulevard	Canoga Park	91303
+North Topanga Canyon Boulevard	Canoga Park	91304
+North Topanga Canyon Boulevard	Chatsworth	91311
+North Topanga Canyon Boulevard	Topanga	90290
+North Topanga Canyon Boulevard	Woodland Hills	91364
+North Topanga Canyon Boulevard	Woodland Hills	91367
+North Torreon Drive	Woodland Hills	91364
+North Torrey Pines Ct	La Jolla	92037
+North Torrey Pines Rd	La Jolla	92037
+North Torrey Pines Rd	La Jolla	92093
+North Torrey Pines Rd	San Diego	92121
+North Torreyson Place	Los Angeles	90046
+North Tortuoso Way	Los Angeles	90077
+North Tosca Road	Woodland Hills	91364
+North Tower Grove Drive	Beverly Hills	90210
+North Tower Road	Beverly Hills	90210
+North Tower Road	Merced	95340
+North Tower Road	Merced	95341
+North Tower Street	Visalia	93292
+North Towne Avenue	Claremont	91711
+North Towne Avenue	Pomona	91766
+North Towne Avenue	Pomona	91767
+North Townsend Avenue	Los Angeles	90041
+North Townsend Avenue	Los Angeles	90063
+North Township Road	Live Oak	95953
+North Township Road	Live Oak	95993
+North Township Road	Yuba City	95993
+North Tracy Street	Visalia	93292
+North Trail	Sylmar	91342
+North Trail	Topanga	90290
+North Trail Canyon Road	Tujunga	91042
+North Trail Ct	Chula Vista	91914
+North Trayer Avenue	Glendora	91741
+North Traymore Avenue	Covina	91722
+North Treadwell Street	Los Angeles	90065
+North Treanor Avenue	Covina	91724
+North Treanor Avenue	Glendora	91741
+North Tremont Street	Los Angeles	90033
+North Trently Lane	Beverly Hills	90210
+North Tribune Court	Long Beach	90813
+North Trimble Court	Long Beach	90814
+North Trinidad Road	Woodland Hills	91364
+North Trino Way	Pacific Palisades	90272
+North Triunfo Place	Agoura Hills	91301
+North Troost Avenue	North Hollywood	91605
+North Troost Avenue	North Hollywood	91606
+North Tropicana Way	La Habra	90631
+North Trotwood Avenue	San Pedro	90732
+North Troy Drive	Los Angeles	90068
+North Trujillo Drive	Covina	91722
+North Truman Avenue	Sylmar	91342
+North Tuallitan Road	Los Angeles	90049
+North Tujunga Avenue	North Hollywood	91601
+North Tujunga Avenue	North Hollywood	91602
+North Tujunga Avenue	North Hollywood	91605
+North Tujunga Avenue	North Hollywood	91606
+North Tujunga Avenue	Studio City	91604
+North Tujunga Avenue	Sun Valley	91352
+North Tujunga Canyon Boulevard	Tujunga	91042
+North Tulane Road	Claremont	91711
+North Tularosa Drive	Los Angeles	90026
+North Tuller Road	Los Angeles	90032
+North Tuolumne Drive	Walnut	91789
+North Turnbow Drive	Sunland	91040
+North Turner Court	Visalia	93291
+North Turner Street	Visalia	93291
+North Tuxedo Terrace	Los Angeles	90068
+North Twin Palms Drive	San Gabriel	91775
+North Twintree Avenue	Azusa	91702
+North Tyburn Street	Los Angeles	90065
+North Tyrone Avenue	Sherman Oaks	91423
+North Tyrone Avenue	Van Nuys	91401
+North Tyrone Avenue	Van Nuys	91405

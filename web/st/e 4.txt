@@ -1,0 +1,46 @@
+E 40Th Ave	San Mateo	94403
+E 40Th St	San Bernardino	92404
+E 41St Pl	San Mateo	94403
+E 41St St	San Bernardino	92404
+E 42Nd Pl	San Bernardino	92404
+E 42Nd St	San Bernardino	92404
+E 43Rd St	San Bernardino	92404
+E 44Th St	San Bernardino	92404
+E 45Th St	San Bernardino	92404
+E 46Th St	San Bernardino	92404
+E 47Th St	San Bernardino	92404
+E 48Th St	San Bernardino	92404
+E 49Th St	San Bernardino	92404
+E 49Th St	San Bernardino	92407
+E 4Th	Holtville	92250
+E 4Th Ave	Calexico	92231
+E 4Th Ave	Chico	95926
+E 4Th Ave	Escondido	92025
+E 4Th Ave	La Habra	90631
+E 4Th Ave	San Mateo	94401
+E 4Th Ave	San Mateo	94402
+E 4Th Dr	Calexico	92231
+E 4Th & N Grove NE	Ontario	91764
+E 4Th St	Bakersfield	93307
+E 4Th St	Beaumont	92223
+E 4Th St	Calexico	92231
+E 4Th St	Calimesa	92320
+E 4Th St	Chico	95928
+E 4Th St	Cloverdale	95425
+E 4Th St	Corona	92879
+E 4Th St	Holtville	92250
+E 4Th St	Imperial	92251
+E 4Th St	Madera	93637
+E 4Th St	Madera	93638
+E 4Th St	Morgan Hill	95037
+E 4Th St	National City	91950
+E 4Th St	Niland	92257
+E 4Th St	Ontario	91764
+E 4Th St	Parlier	93648
+E 4Th St	Perris	92570
+E 4Th St	Pittsburg	94565
+E 4Th St	San Bernardino	92410
+E 4Th St	San Bernardino	92415
+E 4Th St	Santa Ana	92701
+E 4Th St	Santa Ana	92705
+E 4Th Street	Gonzales	93926

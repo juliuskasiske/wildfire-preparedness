@@ -1,0 +1,186 @@
+E 10Th	Heber	92249
+E 10Th	Holtville	92250
+E 10Th	Imperial	92251
+E 10Th Ave	Blythe	92225
+E 10Th Ave	Chico	95926
+E 10Th Ave	Escondido	92025
+E 10Th Ave	Holtville	92250
+E 10Th Ct	Heber	92249
+E 10Th Rd	Holtville	92250
+E 10Th St	Bakersfield	93307
+E 10Th St	Beaumont	92223
+E 10Th St	Chico	95928
+E 10Th St	Corona	92879
+E 10Th St	Gilroy	95020
+E 10Th St	Hayward	94544
+E 10Th St	Heber	92249
+E 10Th St	Holtville	92250
+E 10Th St	Imperial	92251
+E 10Th St	Lincoln	95648
+E 10Th St	Madera	93638
+E 10Th St	National City	91950
+E 10Th St	Perris	92570
+E 10Th St	Pittsburg	94565
+E 10Th St	San Bernardino	92410
+E 10Th St	Santa Ana	92701
+E 11Th	Heber	92249
+E 11Th	Imperial	92251
+E 11Th Ave	Blythe	92225
+E 11Th Ave	Escondido	92025
+E 11Th St	Arcata	95521
+E 11Th St	Bakersfield	93307
+E 11Th St	Beaumont	92223
+E 11Th St	Chico	95928
+E 11Th St	Corona	92879
+E 11Th St	Hayward	94544
+E 11Th St	Heber	92249
+E 11Th St	Imperial	92251
+E 11Th St	Lincoln	95648
+E 11Th St	Madera	93638
+E 11Th St	National City	91950
+E 11Th St	Perris	92570
+E 11Th St	Pittsburg	94565
+E 11Th St	Reedley	93654
+E 11Th St	San Bernardino	92410
+E 11Th St	San Miguel	93451
+E 11Th St	Santa Ana	92701
+E 11Th St	Upland	91786
+E 12 St	Chico	95928
+E 12Th St	Arcata	95521
+E 12Th St	Beaumont	92223
+E 12Th St	Chico	95928
+E 12Th St	Desert Hot Springs	92240
+E 12Th St	Hayward	94544
+E 12Th St	Lincoln	95648
+E 12Th St	Madera	93638
+E 12Th St	National City	91950
+E 12Th St	Pittsburg	94565
+E 12Th St	Santa Ana	92701
+E 12Th St 400 No P	Imperial	92251
+E 13Th Ave	Escondido	92025
+E 13Th St	Antioch	94509
+E 13Th St	Arcata	95521
+E 13Th St	Beaumont	92223
+E 13Th St	Cayucos	93430
+E 13Th St	Chico	95928
+E 13Th St	Escondido	92025
+E 13Th St	Hayward	94544
+E 13Th St	Madera	93638
+E 13Th St	National City	91950
+E 13Th St	San Bernardino	92404
+E 13Th St	Upland	91786
+E 14 Th St	Heber	92249
+E 14Th	Heber	92249
+E 14Th Ave	Blythe	92225
+E 14Th Ave	Escondido	92025
+E 14Th St	Antioch	94509
+E 14Th St	Arcata	95521
+E 14Th St	Beaumont	92223
+E 14Th St	Blythe	92225
+E 14Th St	Chico	95928
+E 14Th St	Eureka	95501
+E 14Th St	Imperial	92251
+E 14Th St	Madera	93638
+E 14Th St	National City	91950
+E 14Th St	Pittsburg	94565
+E 14Th St	San Bernardino	92404
+E 14Th St	Santa Ana	92701
+E 14Th St	Upland	91786
+E 15Th	Imperial	92251
+E 15Th Ave	Escondido	92025
+E 15Th Rd	Imperial	92251
+E 15Th St	Antioch	94509
+E 15Th St	Arcata	95521
+E 15Th St	Beaumont	92223
+E 15Th St	Chico	95928
+E 15Th St	Costa Mesa	92627
+E 15Th St	Hayward	94544
+E 15Th St	National City	91950
+E 15Th St	Newport Beach	92663
+E 15Th St	Pittsburg	94565
+E 15Th St	San Bernardino	92404
+E 15Th St	Santa Ana	92701
+E 15Th St	Upland	91786
+E 162Nd St	Carson	90248
+E 163Rd St	Carson	90248
+E 163Rd St	Carson	90746
+E 169Th St	Carson	90746
+E 16Th Ave	San Mateo	94402
+E 16Th St	Antioch	94509
+E 16Th St	Arcata	95521
+E 16Th St	Chico	95928
+E 16Th St	Costa Mesa	92627
+E 16Th St	Hayward	94544
+E 16Th St	National City	91950
+E 16Th St	Newport Beach	92663
+E 16Th St	Pittsburg	94565
+E 16Th St	San Bernardino	92404
+E 16Th St	Santa Ana	92701
+E 16Th St	Santa Ana	92705
+E 16Th St	Upland	91784
+E 17Th Ave	Escondido	92025
+E 17Th Ave	Escondido	92027
+E 17Th Pl	Costa Mesa	92627
+E 17Th St	Arcata	95521
+E 17Th St	Chico	95928
+E 17Th St	Costa Mesa	92627
+E 17Th St	Highland	92346
+E 17Th St	National City	91950
+E 17Th St	North Tustin	92705
+E 17Th St	North Tustin	92780
+E 17Th St	Pittsburg	94565
+E 17Th St	San Bernardino	92404
+E 17Th St	Santa Ana	92701
+E 17Th St	Santa Ana	92705
+E 17Th St	Santa Ana	92706
+E 17Th St	Tustin	92705
+E 17Th St	Upland	91784
+E 181St St	Carson	90746
+E 182Nd St	Carson	90746
+E 184Th St	Carson	90746
+E 185Th St	Carson	90746
+E 186Th St	Carson	90746
+E 189Th St	Carson	90746
+E 18Th Ave	Blythe	92225
+E 18Th St	Altu	96101
+E 18Th St	Antioch	94509
+E 18Th St	Bakersfield	93305
+E 18Th St	Chico	95928
+E 18Th St	Costa Mesa	92627
+E 18Th St	National City	91950
+E 18Th St	San Bernardino	92404
+E 18Th St	Santa Ana	92705
+E 18Th St	Santa Ana	92706
+E 18Th St	Upland	91784
+E 192Nd St	Carson	90746
+E 19Th St	Antioch	94509
+E 19Th St	Bakersfield	93305
+E 19Th St	Chico	95928
+E 19Th St	Costa Mesa	92627
+E 19Th St	National City	91950
+E 19Th St	San Bernardino	92404
+E 19Th St	Santa Ana	92705
+E 19Th St	Santa Ana	92706
+E 19Th St	Upland	91784
+E 1St	Calexico	92231
+E 1St	Westmorland	92281
+E 1St Ave	Chico	95926
+E 1St Ave	La Habra	90631
+E 1St Ave	Lah	90631
+E 1St St	Beaumont	92223
+E 1St St	Chico	95928
+E 1St St	Cloverdale	95425
+E 1St St	Madera	93638
+E 1St St	Morgan Hill	95037
+E 1St St	Morgan Hill	95037-3652
+E 1St St	Napa	94559
+E 1St St	National City	91950
+E 1St St	Niland	92257
+E 1St St	Niland	92275
+E 1St St	Perris	92570
+E 1St St	Rialto	92376
+E 1St St	San Jacinto	92583
+E 1St St	Santa Ana	92701
+E 1St St	Santa Ana	92705
+E 1St St	Tustin	92780
+E 1St St	Westmorland	92281

@@ -1,0 +1,29 @@
+San Eduardo Ter	Sunnyvale	94085
+San Elijo	Rancho Santa Fe	92067
+San Elijo Ave	Cardiff	92007
+San Elijo Ave	Cardiff By The Sea	92007
+San Elijo Ave	Solana Beach	92075
+San Elijo Ct	Antioch	94531
+San Elijo Rd	Carlsbad	92009
+San Elijo Rd	Encinitas	92024
+San Elijo Rd	San Marcos	92078
+San Elijo Rd N	San Marcos	92078
+San Elijo Rd S	San Marcos	92078
+San Elijo St	San Diego	92106
+San Eljay	Cathedral City	92234
+San Eljay Ave	Cathedral City	92234
+San Eljay St	Cathedral City	92234
+San Emidio Ct	Bakersfield	93241
+San Emidio Ct	Hanford	93230
+San Emidio Dr	Ventucopa	93252
+San Emidio St	Bakersfield	93241
+San Emidio St	Bakersfield	93304
+San Esteban Ave	Bakersfield	93314
+San Esteban Ci	Roseville	95747
+San Esteban Ct	San Pablo	94806
+San Esteban Dr	Mission Viejo	92691
+San Esteban Drive	La Mirada	90638
+San Estevan Drive	Gustine	95322
+San Eugenio	San Diego	92154
+San Eugenio St	San Diego	92154
+San Evaristo	Chico	95973

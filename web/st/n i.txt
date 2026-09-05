@@ -1,0 +1,128 @@
+N I	Westmorland	92281
+N I-5	Westley	95387
+N I Dr	Westmorland	92281
+N I St	Lompoc	93436
+N I St	Madera	93637
+N I St	Oxnard	93030
+N I St	San Bernardino	92405
+N I St	San Bernardino	92407
+N I St	San Bernardino	92410
+N I St	San Bernardino	92411
+N I St	Westmorland	92281
+N I St	Westmorland	92283
+N Ian Ct	Lockeford	95237
+N Idaho Av	Stockton	95204
+N Idaho St	La Habra	90631
+N Idaho St	San Mateo	94401
+N Idyllwild Ave	Rialto	92376
+N Idyllwild Ave	Rialto	92377
+N Idyllwild Dr	San Jacinto	92582
+N Ila Ave	Fresno	93705
+N Ila Ave	Fresno	93711
+N Iliff Ln	Santa Maria	93458
+N Illinois Ave	Colton	92324
+N Illinois St	Lake Elsinore	92530
+N Imp	Brawley	92227
+N Imp Ave	Brawley	92227
+N Imperial	Brawley	92227
+N Imperial	Calexico	92231
+N Imperial	Calipatria	92233
+N Imperial	El Centro	92243
+N Imperial	Imperial	92251
+N Imperial Ave	Brawley	92227
+N Imperial Ave	Calexico	92231
+N Imperial Ave	Calipatria	92233
+N Imperial Ave	El Centro	92243
+N Imperial Ave	El Centro	92251
+N Imperial Ave	Imperial	92251
+N Imperial Ave	Ontario	91764
+N Imperial Blvd	Imperial	92251
+N Imperial Dr	Brawley	92227
+N Imperial Dr	El Centro	92243
+N Imperial Dr	Imperial	92251
+N Imperial Hwy	Anaheim	92807
+N Imperial Hwy	Calipatria	92233
+N Imperial Hwy	Ocotillo	92259
+N Imperial Rd	Brawley	92227
+N Imperial Rd	El Centro	92243
+N Imperial Rd	Imperial	92251
+N Imperial St	Brawley	92227
+N Imperial St	Imperial	92251
+N Imperial St	Oxnard	93030
+N Imperial Terrace Ln	Ana	92807
+N Inca Trl	Landers	92285
+N Incline Ave	Fresno	93722
+N Indian Ave	Palm Springs	92262
+N Indian Canyon Ct	Highland	92346
+N Indian Canyon Dr	Desert Hot Springs	92240
+N Indian Canyon Dr	Desert Hot Springs	92258
+N Indian Canyon Dr	North Palm Springs	92258
+N Indian Canyon Dr	Palm Springs	92262
+N Indian Canyon Dr	White Water	92282
+N Indian Cyn Dr	Palm Springs	92262
+N Indiana Ave	Modesto	95357
+N Indiana Ave	Vista	92084
+N Indiana St	Porterville	93257
+N Indianola Ave	Clovis	93619
+N Indianola Ave	Sanger	93657
+N Indianola Ave	Sanger	C
+N Indigo Ave	San Bernardino	92407
+N Industrial	Calipatria	92233
+N Industrial Pkwy	San Bernardino	92407
+N Industrial Way	San Jacinto	92582
+N Industry Way	Upland	91786
+N Inez Ave	Hemet	92543
+N Inez Ave	Landers	92285
+N Inez St	Hemet	92543
+N Ingram Ave	Fresno	93650
+N Ingram Ave	Fresno	93711
+N Inland Dr	Stockton	95206
+N Inspiration Dr	Fresno	93711
+N Institution Rd	San Bernardino	92407
+N Intake Ave	Blythe	92225
+N Intake Blvd	Blythe	92225
+N International	Calipatria	92233
+N International Pa	Tracy	95377
+N International St	Calipatria	92233
+N Interocean Ave	San Bernardino	92410
+N Interstate 5 W Frontage Rd	Lodi	95242
+N Interstate 5 W Frontage Rd	Stockton	95219
+N Inverary Ln	Fresno	93730
+N Inyo St	Bakersfield	93305
+N Ione Ave	Fresno	93720
+N Ione St	Ione	95640
+N Ione St	Linden	95236
+N Iowa Ave	Colton	92324
+N Irene Pl	Anaheim	92801
+N Iris Ave	Rialto	92376
+N Iris Ave	Rialto	92377
+N Iris Ct	Ontario	91762
+N Iris Ln	Bre	92821
+N Iris Ln	Escondido	92026
+N Iris Way	Upland	91786
+N Irma St	Visalia	93292
+N Iron Horse Cir	Colton	92324
+N Ironbark Ct	Oxnard	93030
+N Ironbark Dr	Oxnard	93036
+N Ironpike Cir	Anaheim	92807
+N Ironstone St	Woodbridge	95258
+N Ironwood Ave	Rialto	92376
+N Ironwood Ave	Rialto	92377
+N Ironwood St	San Bernardino	92404
+N Iroquois Ave	Anaheim	92801
+N Irritec Way	Fresno	93703
+N Irwin St	Hanford	93230
+N Isabella Ave	Sanger	93657
+N Isadora Way	Ontario	91764
+N Isla Ct	Camarillo	93010
+N Isla Dr	Fresno	93727
+N Island Vw	Clovis	93619
+N Island Waterpark Dr	Fresno	93722
+N Isle Royale Cir	Orange	92867
+N Isle Royale St	Moorpark	93021
+N Ivanhoe Ave	Fresno	93722
+N Ivory Ave	El Cajon	92019
+N Ivory Palm Ln	Anaheim	92801
+N Ivy Ln	Anaheim	92801
+N Ivy St	Escondido	92025
+N Ivy St	Escondido	92026

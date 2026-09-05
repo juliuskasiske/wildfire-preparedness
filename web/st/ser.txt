@@ -1,0 +1,520 @@
+Sera Moon Dr	Beaumont	92223
+Serafin Wy	Toro Canyon	93013
+Serafina Ln	San Diego	92128
+Serafina Way	Perris	92571
+Serafino Ct	Elk Grove	95624
+Serafix Rd	Alamo	94507
+Seranade Dr	Turlock	95382
+Seranata Drive	Whittier	90603
+Serang Pl	Costa Mesa	92626
+Serano Court	Merced	95341
+Serano Rd	Banning	92220
+Serano Street	Merced	95341
+Serape Court	Moss Landing	95039
+Serape Court	Seaside	93955
+Serape Ct	Yucaipa	92399
+Serape Dr	Yucaipa	92399
+Serape Pl	Camarillo	93010
+Seraphina Ct	Galt	95632
+Seraphina Dr	Tracy	95377
+Seraphina Rd	Murrieta	92563
+Seraphina Rd	Temecula	92591
+Seraphina St	Galt	95632
+Serapis Avenue	Downey	90240
+Serapis Avenue	Pico Rivera	90660
+Seraspi Ct	Sacramento	95834
+Seratt Place	Valley Village	91607
+Serbian Pl	San Diego	92117
+Serdonis St	Temecula	92592
+Serena	Mission Viejo	92692
+Serena Av	Toro Canyon	93013
+Serena Ave	Modesto	95355
+Serena Ave	Oceanside	92056
+Serena Cir	Chula Vista	91910
+Serena Cir	Palm Springs	92262
+Serena Circle	Tarzana	91356
+Serena Court	Palmdale	93551
+Serena Court	Yuba City	95993
+Serena Ct	Atascadero	93422
+Serena Ct	Carmichael	95608
+Serena Ct	Mission Viejo	92691
+Serena Ct	Mountain View	94043
+Serena Ct	Newport Beach	92663
+Serena Ct	Perris	92570
+Serena Ct	Rancho Mirage	92270
+Serena Ct	San Jose	95126
+Serena Ct	Sonora	95370
+Serena Ct	South San Francisco	94080
+Serena Dr	Pacifica	94044
+Serena Dr	Palm Desert	92260
+Serena Dr	San Jacinto	92583
+Serena Drive	Valencia	91355
+Serena Drive	Yuba City	95993
+Serena Gdns	Walnut Creek	94596
+Serena Hills Dr	Ramona	92065
+Serena Ln	Danville	94526
+Serena Ln	Lakeside	92040
+Serena Ln	Oxnard	93033
+Serena Pl	American Canyon	94503
+Serena Pl	Rancho Cucamonga	91737
+Serena Rd	Lakeside	92040
+Serena Rd	Santa Barbara	93105
+Serena St	Denair	95316
+Serena St	Newberry Springs	92365
+Serena St	Perris	92570
+Serena St	Redding	96002
+Serena St	San Bernardino	92404
+Serena St	Simi Valley	93063
+Serena St	Yermo	92365
+Serena View	El Cajon	92021
+Serena Vista Ct	Monte Sereno	95030
+Serena Way	Hollister	95023
+Serena Way	Lake Elsinore	92530
+Serena Way	San Marcos	92078
+Serena Way	Santa Clara	95051
+Serena Way	Stanton	90680
+Serena Wy	Santa Clara	95051
+Serenade	Thousand Palms	92276
+Serenade Ct	San Jose	95111
+Serenade Dr	Bakersfield	93311
+Serenade Dr	Eastvale	92880
+Serenade Ln	Fontana	92336
+Serenade Ln	Huntington Beach	92647
+Serenade Ln	Huntington Beach	92647-3535
+Serenade Ln	Huntington Beach	92647-3536
+Serenade Ln	Huntington Beach	92647-3537
+Serenade Ln	Huntington Beach	92647-3538
+Serenade Ln	Huntington Beach	92647-3539
+Serenade Ln	Huntington Beach	92647-3540
+Serenade Ln	Huntington Beach	92647-3541
+Serenade Ln	Huntington Beach	92647-3542
+Serenade Ln	Huntington Beach	92647-3567
+Serenade Ln	Huntington Beach	92647-3576
+Serenade Ln	Sacramento	95828
+Serenade Ln	Stockton	95207
+Serenade Ridge	Murrieta	92562
+Serenade St	Hemet	92545
+Serenade Ter	Newport Beach	92625
+Serenade Way	San Jose	95111
+Serenata	Santa Cruz	95065
+Serenata Ct	La Quinta	92253
+Serenata Ct	Sacramento	95835
+Serenata Dr	Mission Viejo	92691
+Serenata Pl	San Diego	92130
+Serenata St	Colton	92324
+Serenata Way	Sacramento	95835
+Serendipity	Jurupa Valley	92509
+Serendipity Dr	Jurupa Valley	92509
+Serendipity Dr	Roseville	95747
+Serendipity Lane	Nevada City	95959
+Serendipity Ln	Anderson	96007
+Serendipity Ln	Coarsegold	93614
+Serendipity Ln	Cohasset	95973
+Serendipity Ln	Fontana	92335
+Serendipity Rd	Jurupa Valley	92509
+Serendipity Rd	Miranda	95553
+Serendipity Way	Napa	94558
+Serendipity Way	Palmdale	93552
+Serene Acres Dr	Sonora	95370
+Serene Ave	Chino	91710
+Serene Ave	Tahoe Vista	96148
+Serene Avenue	Lancaster	93536
+Serene Canyon Rd	Rancho Santa Margarita	92688
+Serene Court	Fairfield	94533
+Serene Ct	Brentwood	94513
+Serene Ct	Chino	91710
+Serene Ct	Danville	94526
+Serene Ct	Garden Grove	92841
+Serene Ct	Morgan Hill	95037
+Serene Ct	Richmond	94803
+Serene Ct	Roseville	95678
+Serene Ct	Santa Rosa	95403
+Serene Ct	Tracy	95377
+Serene Dr	Corona	92880
+Serene Dr	Hollister	95023
+Serene Dr	Huntington Beach	92649
+Serene Dr	Huntington Beach	92649-4832
+Serene Dr	Huntington Beach	92649-4833
+Serene Dr	Huntington Beach	92649-4834
+Serene Dr	Huntington Beach	92649-4835
+Serene Dr	Huntington Beach	92649-4836
+Serene Dr	Huntington Beach	92649-4848
+Serene Dr	Morgan Hill	95037
+Serene Dr	Rancho Cucamonga	91730
+Serene Dr	Redding	96001
+Serene Estates Ln	Lincoln	95648
+Serene Hill Court	Auburn	95602
+Serene Lake Pl	Sacramento	95835
+Serene Ln	Ceres	95307
+Serene Ln	Crestline	92325
+Serene Ln	Oroville	95965
+Serene Ln	Santa Rosa	95403
+Serene Oak Dr	Bakersfield	93313
+Serene Pl	Danville	94526
+Serene Place	Studio City	91604
+Serene Rd	Oceanside	92057
+Serene Rd	Soda Springs	95728
+Serene Rd	Vista	92084
+Serene Skies Ct	Jurupa Valley	92509
+Serene Valley Ct	San Jose	95120
+Serene Valley Dr	Palm Desert	92211
+Serene View Rd	Granite Bay	95746
+Serene View Way	Palo Cedro	96073
+Serene Way	Jamul	91935
+Serene Way	Nevada City	95959
+Serene Way	San Jose	95120
+Serengeti Dr	Murrieta	92562
+Serenidad Pl	Goleta	93117
+Serenidad Pl	Oak View	93022
+Serenity	Irvine	92618
+Serenity	Newport Beach	92657
+Serenity Ave	Indio	92201
+Serenity Court	Delhi	95315
+Serenity Court	Fairfield	94534
+Serenity Court	Lancaster	93534
+Serenity Court	Lancaster	93535
+Serenity Court	Nevada City	95959
+Serenity Ct	Cloverdale	95425
+Serenity Ct	El Cajon	92021
+Serenity Ct	Modesto	95355
+Serenity Ct	San Jose	95120
+Serenity Dr	Igo	96047
+Serenity Dr	Rancho Cucamonga	91730
+Serenity Dr	Sacramento	95823
+Serenity Drive	Rio Vista	94571
+Serenity Falls Rd	Eastvale	92880
+Serenity Falls Way	Menifee	92585
+Serenity Hills Drive	Vacaville	95688
+Serenity Hills Road	Vacaville	95688
+Serenity Ln	Ahwahnee	93601
+Serenity Ln	Alamo	94507
+Serenity Ln	Alta	95701
+Serenity Ln	Arroyo Grande	93420
+Serenity Ln	Crescent City	95531
+Serenity Ln	Eureka	95503
+Serenity Ln	Fontana	92335
+Serenity Ln	Laguna Niguel	92677
+Serenity Ln	Lake Elsinore	92530
+Serenity Ln	Murrieta	92563
+Serenity Ln	Oakley	94561
+Serenity Ln	Orangevale	95662
+Serenity Ln	Palo Cedro	96073
+Serenity Ln	San Diego	92127
+Serenity Ln	Santa Barbara Unincorporated	93111
+Serenity Ln	Twentynine Palms	92277
+Serenity Path	Valley Center	92082
+Serenity Pl	Milpitas	95035
+Serenity Place	Clearlake	95422
+Serenity Rd	Cathedral City	92234
+Serenity Ridge Dr	Palm Desert	92211
+Serenity St	Hemet	92545
+Serenity St.	Rancho Mission Viejo	92694
+Serenity St	Riverside	92508
+Serenity Trl	Chino	91710
+Serenity Trl	Palm Springs	92262
+Serenity Trl E	Chino	91710
+Serenity Valley Dr	Pescadero	94060
+Serenity Way	Chico	95928
+Serenity Way	Corona	92883
+Serenity Way	San Jose	95120
+Serenity Way	Santa Rosa	95404
+Sereno	Mission Viejo	92691
+Sereno	Tustin	92780
+Sereno Ave	Ventura	93003
+Sereno Ct	Carlsbad	92009
+Sereno Ct	Cupertino	95014
+Sereno Ct	Monte Sereno	95030
+Sereno Ct	Sonoma	95476
+Sereno Dr	Calexico	92231
+Sereno Dr	Manteca	95337
+Sereno Dr	Temecula	92592
+Sereno Drive	Paramount	90723
+Sereno Drive	Temple City	91780
+Sereno Drive	Vacaville	95687
+Sereno Drive	Vallejo	94589
+Sereno Drive	Vallejo	94590
+Sereno Ln	Chino Hills	91709
+Sereno Ln	Palm Desert	92211
+Sereno Pl	Camarillo	93010
+Sereno Place	Vallejo	94589
+Sereno View Ln	Encinitas	92024
+Sereno View Rd	Encinitas	92024
+Sereno Vista Way	San Jose	95116
+Sereno Way	Novato	94945
+Serento	Thousand Oaks	91360
+Serento Cir	Thousand Oaks	91360
+Serfas Club Dr	Corona	92882
+Serge Ave	San Jose	95130
+Sergeant John V Young St	San Francisco	94112
+Sergio Cir	Huntington Beach	92647
+Sergio Cir	Huntington Beach	92647-6950
+Sergio Cir	Huntington Beach	92647-6963
+Sergio Cir	Huntington Beach	92647-6984
+Sergio Cir	Huntington Beach	92647-6988
+Sergio Cir	Huntington Beach	92647-6989
+Sergio Cir	Huntington Beach	92647-6990
+Sergio Cir	Huntington Beach	92647-6991
+Sergio Cir	Huntington Beach	92647-6992
+Sergio Cir	Huntington Beach	92647-6996
+Sergio Cir	Huntington Beach	92647-8902
+Sergio Cir	Huntington Beach	92647-8903
+Sergio Cir	Huntington Beach	92647-8912
+Sergio Cir	Huntington Beach	92647-8913
+Sergio Cir	Huntington Beach	92647-8914
+Sergio Ct	Bakersfield	93311
+Sergio Way	Sacramento	95829
+Sergis Ct	Ceres	95307
+Sergis Ct	Lincoln	95648
+Seri Ct	Jurupa Valley	92509
+Seri St	San Diego	92117
+Seriana	Laguna Niguel	92677
+Seriana Ct	Union City	94587
+Seriana Dr	Bakersfield	93311
+Seriana Pl	Union City	94587
+Seriana Way	Union City	94587
+Serif Place	Stevenson Ranch	91381
+Serigraph Ct	Oceanside	92057
+Serin Dr	Yucca Valley	92284
+Serio Way	Elk Grove	95758
+Serio Way	Sacramento	95758
+Serissa Ct	Murrieta	92563
+Serles St	Eureka	95501
+Serna	Rancho Santa Margarita	92688
+Serna Ave	Orange Cove	93646
+Serna Dr	Sacramento	95837
+Seron Ave	Irvine	92606
+Seronello Dr	Hayfork	96041
+Serpa	Watsonville	95076
+Serpa Canyon Rd	Coarsegold	93614
+Serpa Dr	Milpitas	95035
+Serpa Dr	San Jose	95148
+Serpa Lane	Dixon	95620
+Serpa Lane	Fort Jones	96032
+Serpa Ranch Rd	San Luis Obispo	93401
+Serpa Ranch Rd	Tracy	95377
+Serpa Way	Folsom	95630
+Serpens Ct	Eastvale	91752
+Serpens Ct	Menifee	92586
+Serpentine Court	Vallejo	94589
+Serpentine Ct	Gold River	95670
+Serpentine Ct	Morgan Hill	95037
+Serpentine Dr	Antioch	94509
+Serpentine Dr	Big Bear City	92314
+Serpentine Dr	Del Mar	92014
+Serpentine Dr	Lake Arrowhead	92352
+Serpentine Dr	Los Alamitos	90720
+Serpentine Dr	Redlands	92373
+Serpentine Drive	Vallejo	94589
+Serpentine Farm Lane	Grass Valley	95949
+Serpentine Lane	6	94513
+Serpentine Lane	Fort Jones	96032
+Serpentine Ln	Burney	96013
+Serpentine Ln	San Luis Obispo	93405
+Serpentine Rd	Mariposa	95338
+Serpentine St	Manteca	95336
+Serpentine Street	Redondo Beach	90277
+Serpentine Way	Auburn	95602
+Serpentine Way	Coachella	92236
+Serpentine Way	Moreno Valley	92555
+Serpentine Way	Nevada City	95959
+Serpentine Way	Santa Rosa	95404
+Serpertine Dr	Del Mar	92014
+Serpilio Dr	Sonoma	95476
+Serpilio Way	Petaluma	94954
+Serpolla Dr	Toro Canyon	93013
+Serr Avenue	Livingston	95334
+Serr Court	Livingston	95334
+Serr Court	Tulare	93274
+Serr Ct	Modesto	95356
+Serr Dr	Turlock	95380
+Serra	Santa Cruz	95060
+Serra Av	Santa Clara	95050
+Serra Ave	Atascadero	93422
+Serra Ave	Carmel	93923
+Serra Ave	Chino	91710
+Serra Ave	Millbrae	94030
+Serra Ave	Santa Clara	95050
+Serra Avenida	Morgan Hill	95037
+Serra Bella Ct	Elk Grove	95758
+Serra Court	Fairfield	94534
+Serra Court	Vallejo	94590
+Serra Ct	Antioch	94509
+Serra Ct	Atascadero	93422
+Serra Ct	Los Gatos	95030
+Serra Ct	Los Gatos	95032
+Serra Ct	Morgan Hill	95037
+Serra Ct	Novato	94949
+Serra Ct	San Bruno	94066
+Serra Ct	San Mateo	94401
+Serra Ctr	Milpitas	95035
+Serra Dr	Carson	90745
+Serra Dr	Morgan Hill	95037
+Serra Dr	Newport Beach	92625
+Serra Dr	Pacifica	94044
+Serra Dr	South San Francisco	94080
+Serra Drive	Carson	90745
+Serra Drive	Pomona	91766
+Serra Lane	Valencia	91355
+Serra Ln	Daly City	94015
+Serra Ln	Hercules	94547
+Serra Mall	Stanford	94305
+Serra Meadows Rd	San Luis Obispo	93401
+Serra Monte Dr	Oroville	95965
+Serra Monte Dr	Oroville	95966
+Serra Pl	Morgan Hill	95037
+Serra Rd	Apple Valley	92308
+Serra Rd	Hinkley	92347
+Serra Road	Malibu	90265
+Serra San Bruno	Mountain View	94043
+Serra St	Camarillo	93010
+Serra St	Corte Madera	94925
+Serra St	Cupertino	95014
+Serra St	Phelan	92371
+Serra St	Stanford	94305
+Serra Vista	Lake Forest	92630
+Serra Vista	Lake Forest	92630-0000
+Serra Vista Ln	Santa Barbara	93103
+Serra Way	Antioch	94509
+Serra Way	Costa Mesa	92626
+Serra Way	Fairfield	94534
+Serra Way	Milpitas	95035
+Serra Way	Palmdale	93552
+Serra Way	Paso Robles	93446
+Serra Way	Ramona	92065
+Serra Way	Sacramento	95816
+Serra Way	San Pablo	94806
+Serra Way	San Rafael	94903
+Serrai Ct	Murrieta	92562
+Serramont Ct	Carmichael	95608
+Serramonte Blvd	Colma	94014
+Serramonte Blvd	Daly City	94015
+Serramonte Ct	Danville	94526
+Serramonte Ctr	Daly City	94015
+Serramonte Dr	Los Gatos	95030
+Serramonte St	Denair	95316
+Serrana Ct	Pittsburg	94565
+Serrana Rd	Perris	92570
+Serrania Avenue	Woodland Hills	91364
+Serrania Avenue	Woodland Hills	91367
+Serrano Ave	Anaheim	92808
+Serrano Ave	Fontana	92336
+Serrano Ave	Hanford	93230
+Serrano Ave	Hesperia	92345
+Serrano Ave	Newport Beach	92661
+Serrano Ave	San Jose	95127
+Serrano Ave	Villa Park	92861
+Serrano Avenue	Los Angeles	90004
+Serrano Avenue	Los Angeles	90005
+Serrano Avenue	Los Angeles	90006
+Serrano Avenue	Los Angeles	90010
+Serrano Avenue	Los Angeles	90027
+Serrano Avenue	Los Angeles	90029
+Serrano Boulder Ln	Corona	92883
+Serrano Cir	San Luis Obispo	93405
+Serrano Court	Fairfield	94533
+Serrano Creek Rd	Lake Forest	92630
+Serrano Creek Rd	Lake Forest	92630-6447
+Serrano Creek Rd	Lake Forest	92630-6448
+Serrano Creek Rd	Lake Forest	92630-6449
+Serrano Creek Rd	Lake Forest	92630-6450
+Serrano Ct	Big River	92242
+Serrano Ct	Chico	95928
+Serrano Ct	Citrus Heights	95621
+Serrano Ct	Lafayette	94549
+Serrano Ct	Lake Forest	92630
+Serrano Ct	Lake Forest	92630-0000
+Serrano Ct	Rancho Cucamonga	91730
+Serrano Dr	29 Palms	92277
+Serrano Dr	Atherton	94027
+Serrano Dr	Carlsbad	92009
+Serrano Dr	Corona	92879
+Serrano Dr	Joshua Tree	92252
+Serrano Dr	Mira Loma	91752
+Serrano Dr	San Francisco	94132
+Serrano Dr	San Luis Obispo	93405
+Serrano Dr	Twentynine Palms	92277
+Serrano Dr	Yucaipa	92399
+Serrano Dr	Yucca Valley	92284
+Serrano Drive	Fairfield	94533
+Serrano Drive	Mount Shasta	96067
+Serrano Heights Dr	San Luis Obispo	93405
+Serrano Hts	San Luis Obispo	93405
+Serrano Ln	Chula Vista	91910
+Serrano Oaks Rd	Jurupa Valley	92509
+Serrano Pl	Fullerton	92833
+Serrano Pl	Hanford	93230
+Serrano Pl	Hemet	92544
+Serrano Pl	Redding	96003
+Serrano Pl	Riverside	92504
+Serrano Pl	San Diego	92115
+Serrano Place	Canyon Country	91351
+Serrano Place	Los Angeles	90029
+Serrano Place	Pomona	91767
+Serrano Place	Soledad	93960
+Serrano Rd	Apple Valley	92307
+Serrano Rd	Banning	92220
+Serrano Rd	Lake Forest	92630
+Serrano Rd	Lake Forest	92630-2534
+Serrano Rd	Lake Forest	92630-3554
+Serrano Rd	Malibu	90265
+Serrano Rd	Pioneertown	92268
+Serrano Rd	San Bernardino	92405
+Serrano Rd	Sonora	95370
+Serrano Rd	Wrightwood	92397
+Serrano St	Martinez	94553
+Serrano St	Oceanside	92054
+Serrano St	Rancho Mirage	92270
+Serrano Summit Dr	Lake Forest	92630
+Serrano Terrace	Davis	95618
+Serrano Trl	Highland	92346
+Serrano Way	Monterey	93940
+Serrano Way	Pittsburg	94565
+Serrano Way	Rancho Mirage	92270
+Serrano Way	Sylmar	91342
+Serrano Wy	Kelseyville	95451
+Serrano Wy	Stockton	95207
+Serranos Ct	Fallbrook	92028
+Serranos Ct	Roseville	95747
+Serrant Ct	Bakersfield	93311
+Serraoaks Ct	Saratoga	95070
+Serravilla Way	Elk Grove	95758
+Serravista Ave	Daly City	94015
+Serrell	Santa Cruz	95065
+Serrena Ln	San Diego	92154
+Serreno Ln	Temecula	92590
+Serreno Rd	Temecula	92590
+Serrente Plz	Ybl	92886
+Serrente Plz	Yorba Linda	92886
+Serrento Dr	Murrieta	92563
+Serrento Ln	Murrieta	92563
+Serres Dr	Sonoma	95476
+Serreta	Mission Viejo	92692
+Serria Verde Ln	Valley Center	92082
+Serriano Rd	Hemet	92544
+Serrijon Rd	Atascadero	93422
+Serta Ct	Elk Grove	95757
+Sertoma Wy	Buellton	93427
+Serval Way	Palmdale	93551
+Servando Ave	San Diego	92154
+Servando Ln	Fontana	92336
+Serve Ln	Bakersfield	93308
+Server Avenue	Los Angeles	90022
+Servia Drive	Santa Clarita	91350
+Service Cir	Oroville	95966
+Service Ct	Riverside	92507
+Service Ct	Santa Rosa	95403
+Service Pl	Vista	92084
+Service Rd	Antioch	94509
+Service Rd	Ceres	95307
+Service Rd	Salton City	92271
+Service Rd	Salton City	92274
+Service Rd	Tustin	92780
+Service Road	Los Angeles	90045
+Service St	Oroville	95966
+Service St	San Francisco	94123
+Service St	San Jose	95112
+Service Street	Los Angeles	90063
+Services Lane	Merced	95340
+Servilla Place	Castaic	91384
+Servin Ln	Menifee	92584
+Serviss St	Durham	95938

@@ -1,0 +1,69 @@
+S 20Th St	Richmond	94804
+S 20Th St	San Diego	92102
+S 20Th St	San Jose	95116
+S 20Th St	San Jose	95116-2215
+S 21St	El Centro	92243
+S 21St St	El Centro	92243
+S 21St St	Richmond	94801
+S 21St St	Richmond	94804
+S 21St St	San Diego	92102
+S 21St St	San Jose	95116
+S 21St St	San Jose	95116-2219
+S 22Nd	El Centro	92243
+S 22Nd St	Banning	92220
+S 22Nd St	El Centro	92243
+S 22Nd St	Richmond	94804
+S 22Nd St	San Diego	92102
+S 22Nd St	San Jose	95112
+S 22Nd St	San Jose	95116
+S 23Rd	El Centro	92243
+S 23Rd St	Banning	92220
+S 23Rd St	El Centro	92243
+S 23Rd St	Richmond	94804
+S 23Rd St	San Jose	95113
+S 23Rd St	San Jose	95116
+S 24Th	El Centro	92243
+S 24Th St	El Centro	92243
+S 24Th St	Richmond	94804
+S 24Th St	San Jose	95116
+S 25Th St	Richmond	94804
+S 26Th St	Richmond	94804
+S 26Th St	San Diego	92113
+S 26Th St	San Jose	95116
+S 27Th St	Richmond	94804
+S 27Th St	San Diego	92113
+S 28Th St	Richmond	94804
+S 28Th St	San Diego	92113
+S 28Th St	San Diego	92136
+S 28Th St	San Jose	95116
+S 29Th St	Richmond	94804
+S 29Th St	San Diego	92113
+S 2Nd	Brawley	92227
+S 2Nd	El Centro	92243
+S 2Nd Ave	El Centro	92243
+S 2Nd Ave	Oakdale	95361
+S 2Nd Ave	Upland	91786
+S 2Nd Ct	Brawley	92227
+S 2Nd Dr	El Centro	92243
+S 2Nd Hwy	El Centro	92243
+S 2Nd Pl	Calimesa	92320
+S 2Nd Rd	Brawley	92227
+S 2Nd St	Banning	92220
+S 2Nd St	Blythe	92225
+S 2Nd St	Brawley	92227
+S 2Nd St	Calimesa	92320
+S 2Nd St	Campbell	95008
+S 2Nd St	Campbell	95008-2920
+S 2Nd St	Chowchilla	93610
+S 2Nd St	El Cajon	92019
+S 2Nd St	El Centro	92243
+S 2Nd St	Fowler	93625
+S 2Nd St	Kerman	93630
+S 2Nd St	Patterson	95363
+S 2Nd St	Richmond	94804
+S 2Nd St	San Jose	95112
+S 2Nd St	San Jose	95113
+S 2Nd St	San Jose	95113-2503
+S 2Nd St	Shandon	93461
+S 2Nd Street	King City	93930
+S 2Oth St	San Jose	95116

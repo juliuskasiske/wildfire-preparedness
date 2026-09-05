@@ -1,0 +1,605 @@
+Hal Dr	Aguanga	92536
+Hal Ln	Fontana	92336
+Hal St	Bakersfield	93308
+Hal St	San Diego	92102
+Hala Way	Garden Grove	92843
+Hala Way	San Diego	92126
+Halabuk Court	Vallejo	94591
+Halaga Circle	La Verne	91750
+Halas Ct	Elk Grove	95757
+Halawa Dr	Huntington Beach	92646
+Halawa Dr	Huntington Beach	92646-2901
+Halawa Dr	Huntington Beach	92646-2902
+Halawa Dr	Huntington Beach	92646-2903
+Halawa Dr	Huntington Beach	92646-2904
+Halawa Ln	Cypress	90630
+Halberns Blvd	Santee	92071
+Halberta Cir	Calimesa	92320
+Halberta Way	Calimesa	92320
+Halbreath Ct	San Jose	95121
+Halbrent Ave	Oak Hills	92334
+Halbrent Ave	Oak Hills	92344
+Halbrent Ave	White Water	92282
+Halbrent Avenue	San Fernando	91345
+Halbrent Avenue	Sherman Oaks	91403
+Halbrent Avenue	Van Nuys	91405
+Halbrent Avenue	Van Nuys	91411
+Halbrite Avenue	Long Beach	90808
+Halbrite Way	Sacramento	95828
+Halbrook Ln	Bloomington	92316
+Halbrook Ter	Jurupa Valley	92509
+Halco Dunes Way	Rancho Mirage	92270
+Halcom Avenue	Lancaster	93536
+Halcon	Mission Viejo	92691
+Halcon Crest Court	Grass Valley	95949
+Halcon Ct	Calexico	92231
+Halcon Place	Davis	95618
+Halcon Rd	Atascadero	93422
+Halcon Rd	Calexico	92231
+Halcon St	Oxnard	93030
+Halcourt Avenue	Downey	90241
+Halcourt Avenue	Norwalk	90650
+Halcyon	The Sea Ranch	95497
+Halcyon Ct	Berkeley	94705
+Halcyon Ct	Menifee	92584
+Halcyon Ln	Aliso Viejo	92656
+Halcyon Ln	Santa Barbara	93101
+Halcyon Rd	Arroyo Grande	93420
+Halcyon Rd	Encinitas	92024
+Halcyon Way	Pomona	91767
+Haldane Ct	Hayward	94544
+Haldane Street	Whittier	90603
+Haldeman Ct	Sacramento	95829
+Haldeman Road	Pacific Palisades	90272
+Haldeman Road	Santa Monica	90402
+Haldeman Street	San Gabriel	91775
+Haldeman Way	Sacramento	95829
+Halden Way	Modesto	95350
+Halderman Street	Los Angeles	90066
+Haldis Way	Sacramento	95822
+Haldon St	Bakersfield	93308
+Haldor Dr	Jurupa Valley	91752
+Haldor Dr	Mira Loma	91752
+Haldor Pl	Buena Park	90620
+Hale Aloha Way	Ceres	95307
+Hale Ave	Arbuckle	95912
+Hale Ave	Clearlake	95422
+Hale Ave	Corcoran	93212
+Hale Ave	Escondido	92029
+Hale Ave	Garden Grove	92844
+Hale Ave	Irvine	92606
+Hale Ave	Morgan Hill	95037
+Hale Ave S	Escondido	92029
+Hale Avenue	La Verne	91750
+Hale Cir	Garden Grove	92844
+Hale Creek Rd	Mad River	95552
+Hale Creek Rd	Santa Margarita	93453
+Hale Creek Ridge Rd	Mad River	95552
+Hale Ct	El Cajon	92020
+Hale Ct	Martinez	94553
+Hale Ct	Sacramento	95819
+Hale Dome Ct	Murrieta	92562
+Hale Dr	Alpine	91901
+Hale Dr	Big Bear City	92314
+Hale Dr	Burlingame	94010
+Hale Dr	Concord	94518
+Hale Dr	Morgan Hill	95037
+Hale Ln	Banning	92220
+Hale Pl	Chula Vista	91914
+Hale Pl	Cupertino	95014
+Hale Ranch Ln	Fair Oaks	95628
+Hale Ranch Road	Fairfield	94534
+Hale Rd	Fiddletown	95629
+Hale Rd	Lodi	95240
+Hale Rd	Newman	95360
+Hale Rd	Sonoma	95476
+Hale Rd	Volcano	 
+Hale Rd	Volcano	95689
+Hale Road	Linda	95901
+Hale St	Auburn	95603
+Hale St	Bakersfield	93307
+Hale St	Chula Vista	91910
+Hale St	Clearlake	95422
+Hale St	Lower Lake	95457
+Hale St	Palo Alto	94301
+Hale St	Riverside	92501
+Hale St	San Francisco	94134
+Hale Street	Vallejo	94591
+Haleakala Ave	Redding	96001
+Haleakala St	Concord	94519
+Haleakala St	Concord	94520
+Haleblain	Menifee	92584
+Haleblain Rd	Menifee	92584
+Haleblian Rd	Menifee	92584
+Halecrest Dr	Chula Vista	91910
+Halecrest Dr	Escondido	92025
+Haledon Avenue	Downey	90240
+Haledon Avenue	Downey	90241
+Haleh Lane	Sylmar	91342
+Halekulani Dr	Garden Grove	92841
+Halelani Way	Garden Grove	92840
+Halen Street	Palmdale	93552
+Hales Ave	Murrieta	92562
+Hales Dr	Joshua Tree	92252
+Hales Dr	Twentynine Palms	92277
+Hales Drive	Gustine	95322
+Hales Grove Way	Rancho Cordova	95742
+Hales Ln	Carpinteria	93013
+Hales Ln	Murrieta	92562
+Halescorner Road	Rancho Palos Verdes	90275
+Halesia Ln	Oxnard	93030
+Halesworth Ct	Citrus Heights	95610
+Halesworth Dr	Roseville	95747
+Halevy St	Ventura	93003
+Haley	Watsonville	95076
+Haley Cir	Elk Grove	95757
+Haley Ct	Aliso Viejo	92656
+Haley Ct	Oakley	94561
+Haley Ct	San Jose	95123
+Haley Ct	Tracy	95377
+Haley Dr	Granite Bay	95746
+Haley Ln	Crescent City	95531
+Haley Ln	La Mesa	91941
+Haley Ln	Redding	96003
+Haley Ln	Round Mountain	96084
+Haley Ln	Yorba Linda	92886
+Haley Rd	Calipatria	92233
+Haley Road	Gustine	95322
+Haley'S Flight Dr	Sun City	92586
+Haley St	Bakersfield	93305
+Haley St	Ramona	92065
+Haley Street	Sun Valley	91352
+Haley Talbert Dr	Corona	92881
+Haley Tr	Lucerne	95458
+Haley Way	Hemet	92543
+Haley Way	Madera	93638
+Haley Way	Manhattan Beach	90266
+Half Circle Eleven Drive	California Hot Springs	93207
+Half Circle Rd	Norco	92860
+Half Crown Ln	San Jose	95132
+Half Dome	Mariposa	95338
+Half Dome Court	Merced	95340
+Half Dome Ct	Elk Grove	95758
+Half Dome Ct	Groveland	95321
+Half Dome Ct	Jurupa Valley	92509
+Half Dome Ct	Madera	93637
+Half Dome Ct	Murrieta	92562
+Half Dome Ct	Roseville	95747
+Half Dome Ct	Stockton	95212
+Half Dome Dr	Fontana	92336
+Half Dome Dr	Manteca	95337
+Half Dome Pl	Carlsbad	92010
+Half Dome Pl	Newport Beach	92660
+Half Dome St	Antioch	94531
+Half Dome Way	Bakersfield	93304
+Half Dome Way	Chico	95928
+Half Dome Way	Perris	92570
+Half League Dr	Huntington Beach	92646
+Half League Dr	Huntington Beach	92646-6308
+Half Mile Dr	San Diego	92130
+Half Mile Rd	Tuolumne	95379
+Half Moon Ave	Redlands	92374
+Half Moon Bay Circle	West Sacramento	95691
+Half Moon Bay Ct	Grover Beach	93433
+Half Moon Bay Dr	Chula Vista	91915
+Half Moon Bay Dr	Del Mar	92014
+Half Moon Bay Dr	Indio	92201
+Half Moon Bay Dr	Menifee	92585
+Half Moon Bay Dr	Newport Beach	92625
+Half Moon Bay Way	Oceanside	92058
+Half Moon Bend	Coronado	92118
+Half Moon Cir	Murrieta	92563
+Half Moon Cir	Victorville	92392
+Half Moon Ct	Apple Valley	92308
+Half Moon Ct	Discovery Bay	94505
+Half Moon Ct	Indio	92201
+Half Moon Ct	Moreno Valley	92551
+Half Moon Ct	Norco	92860
+Half Moon Ct	Riverside	92503
+Half Moon Ct	Sacramento	95838
+Half Moon Ct	San Jose	95111
+Half Moon Dr	Lake Elsinore	92530
+Half Moon Dr	Modesto	95350
+Half Moon Lane	Walnut	91789
+Half Moon Ln	Beaumont	92223
+Half Moon Ln	Daly City	94015
+Half Moon Place	Santa Clarita	91390
+Half Moon Rd	Novato	94947
+Half Moon St	Sonoma	95476
+Half Moon Trl	Ladera Ranch	92694
+Half Moon Trl	Pine Valley	91962
+Half Moon Way	Antioch	94531
+Half Moon Way	Corona	92882
+Half Moon Way	Nevada City	95959
+Half Moon Way	Victorville	92392
+Half Pence Ct	San Jose	95132
+Half Pence Way	San Jose	95132
+Half Rd	Morgan Hill	95037
+Half Rd	Morgan Hill	95037-2905
+Half Way Rd	Silverado Canyon	92676
+Halfbeak Way	San Diego	92124
+Halfinger Way	Jurupa Valley	92509
+Halfmoon	Irvine	92614
+Halfmoon Bay Way	Oceanside	92058
+Halfmoon Ct	Banning	92220
+Halfmoon Ct	Concord	94518
+Halfmoon Ct	Lincoln	95648
+Halfmoon Ct	San Juan Capistrano	92675
+Halfmoon Dr	Lake Elsinore	92530
+Halfmoon Drive	Palmdale	93550
+Halfmoon Ln	Concord	94518
+Halfoak Ter	San Diego	92128
+Halford Av	Santa Clara	95051
+Halford Ave	Santa Clara	95050
+Halford Ave	Santa Clara	95051
+Halford Ct	Bakersfield	93309
+Halford Street	San Gabriel	91775
+Halford Street	Sylmar	91342
+Halfway Av	Mckinleyville	95519
+Halfway Ct	Elk Grove	95624
+Halfway Dr	Palm Desert	92260
+Halfway Rd	Elk Grove	95624
+Halfway Rock Ave	Bakersfield	93313
+Halgar Rd	Rancho Mirage	92270
+Halgon St	Oxnard	93030
+Halgrim Ct	San Jose	95132
+Halia Ct	Encinitas	92024
+Haliburton Ct	Citrus Heights	95610
+Haliburton Way	Coalinga	93210
+Halibut Av	Eureka	95503
+Halibut Ct	San Francisco	94130
+Halibut St	Foster City	94404
+Halibut Way	Hornbrook	96064
+Halidon Way	Folsom	95630
+Halidon Way	Sacramento	95829
+Halie Ct	Chico	95973
+Halifax Ave	Ventura	93004
+Halifax Ave	Westminster	92683
+Halifax Avenue	Davis	95616
+Halifax Cir	Cypress	90630
+Halifax Cir	Fontana	92336
+Halifax Ct	Ventura	93004
+Halifax Dr	Cypress	90630
+Halifax Dr	Huntington Beach	92647
+Halifax Dr	Huntington Beach	92647-2603
+Halifax Dr	Huntington Beach	92647-2604
+Halifax Dr	Huntington Beach	92647-2605
+Halifax Dr	Huntington Beach	92647-2606
+Halifax Dr	Huntington Beach	92647-2658
+Halifax Dr	Huntington Beach	92647-2751
+Halifax Dr	Lake Arrowhead	92352
+Halifax Dr	Riverside	92506
+Halifax Dr	San Jose	95130
+Halifax Ln	Modesto	95350
+Halifax Ln	Oxnard	93035
+Halifax Ln	Pomona	91766
+Halifax Ln	Winchester	92596
+Halifax Pl	Hayward	94542
+Halifax Pl	Irvine	92602
+Halifax Road	Arcadia	91007
+Halifax Road	El Monte	91731
+Halifax Road	Temple City	91780
+Halifax St	Bakersfield	93309
+Halifax St	Citrus Heights	95621
+Halifax St	San Diego	92120
+Halifax St	Ventura	93004
+Halifax Street	Palmdale	93550
+Halifax Way	Concord	94520
+Halifax Way	Rocklin	95765
+Halifax Way	San Ramon	94582
+Halifax Wy	Roseville	95747
+Halika St	Clearlake	95422
+Halinor Avenue	Baldwin Park	91706
+Halinor Lane	Baldwin Park	91706
+Halinor St	Hesperia	92345
+Halisan Court	Merced	95341
+Halison Place	Torrance	90503
+Halison Street	Torrance	90503
+Halite Ct	Chino Hills	91709
+Halite Drive	Los Banos	93635
+Halite Pl	Carlsbad	92009
+Halite Way	Antioch	94509
+Halkeep Way	Sacramento	95823
+Halkett Avenue	Rosemead	91770
+Halkin Ln	Berkeley	94708
+Halkins Dr	San Jose	95124
+Halkirk St	Santa Barbara Unincorporated	93110
+Halkirk Street	Studio City	91604
+Halkirk Way	Sacramento	95829
+Hall	Santa Cruz	95062
+Hall Av	Eureka	95503
+Hall Ave	Bloomington	92316
+Hall Ave	Corcoran	93212
+Hall Ave	Eastvale	92880
+Hall Ave	Hollister	95023
+Hall Ave	Jurupa Valley	92509
+Hall Ave	Richmond	94804
+Hall Ave	Riverside	92509
+Hall Ave	San Ysidro	92173
+Hall Ave #A	Richmond	94804
+Hall Avenue	Lindsay	93247
+Hall Boulevard	Winton	95388
+Hall Canyon Drive	La Canada Flintridge	91011
+Hall Canyon Rd	Ventura	93001
+Hall Cir	Tustin	92780
+Hall Circle	King City	93930
+Hall Court	Benicia	94510
+Hall Court	City Of Marysville	95901
+Hall Court	Redondo Beach	90278
+Hall Court	Woodland	95776
+Hall Ct	Chino	91710
+Hall Ct	Cupertino	95014
+Hall Ct	Napa	94558
+Hall Dr	Orinda	94563
+Hall Dr	Oroville	95966
+Hall Drive	Live Oak	95953
+Hall Lane	Suisun City	94585
+Hall Ln	Carmichael	95608
+Hall Ln	Kelseyville	95451
+Hall Ln	Lafayette	94549
+Hall Ln	Pla	92870
+Hall Ln	Placentia	92870
+Hall Ln	Santa Rosa	95401
+Hall Ln	Squaw Valley	93675
+Hall Ln	Twentynine Palms	92277
+Hall Ln	Walnut Creek	94597
+Hall Meadow Cir	Shaver Lake	93664
+Hall Meadow Rd	San Diego	92131
+Hall Ranch	Santa Cruz	95065
+Hall Ranch Rd	San Bernardino	92407
+Hall Rd	Bakersfield	93241
+Hall Rd	Denair	95316
+Hall Rd	Hayward	94545
+Hall Rd	Hemet	92544
+Hall Rd	Hickman	95323
+Hall Rd	Imperial	92251
+Hall Rd	Modesto	95358
+Hall Rd	Santa Paula	93060
+Hall Rd	Santa Rosa	95401
+Hall Road	Downey	90241
+Hall Road	Royal Oaks	95076
+Hall St	Arbuckle	95912
+Hall St	Folsom	95630
+Hall St	Hanford	93230
+Hall St	Jurupa Valley	91571
+Hall St	San Carlos	94070
+Hall St	Susanville	96130
+Hall Street	Bradley	93426
+Hall Street	City Of Marysville	95901
+Hall Street	Los Angeles	90032
+Hall Street	Tulare	93274
+Hall Way	Highland	92346
+Hall Way	Old Station	96071
+Hall Way	Weaverville	96093
+Hallack Avenue	Northridge	91324
+Halladale Ct	Sacramento	95829
+Halladale Ct	San Jose	95135
+Halladay Ave	Riverside	92503
+Halladay St	Jurupa Valley	92505
+Halladay St	Jurupa Valley	92509
+Hallam St	San Francisco	94103
+Hallberg Ave	Winchester	92596
+Hallberg Rd	Lakeport	95453
+Hallberry Dr	Riverside	92507
+Hallboro Ct	Sacramento	95828
+Hallbrook Dr	San Jose	95118
+Hallbrook Dr	San Jose	95124
+Hallcrest Dr	Ladera Ranch	92694
+Hallcrest Dr	San Jose	95118
+Hallcroft Ln	Huntington Beach	92647
+Hallcroft Ln	Huntington Beach	92647-6400
+Hallcroft Ln	Huntington Beach	92647-6449
+Hallcroft Ln	Huntington Beach	92647-6450
+Hallcroft Ln	Huntington Beach	92647-6468
+Halldale Avenue	Gardena	90247
+Halldale Avenue	Gardena	90249
+Halldale Avenue	Harbor City	90710
+Halldale Avenue	Los Angeles	90018
+Halldale Avenue	Los Angeles	90047
+Halldale Avenue	Los Angeles	90062
+Halldale Avenue	Torrance	90501
+Halle Way	San Diego	92128
+Halleck Dr	San Jose	95123
+Halleck Pl	Stockton	95219
+Halleck Road	Monterey	93944
+Halleck St	Emeryville	94608
+Halleck St	San Francisco	94129
+Hallee Rd	Joshua Tree	92252
+Halleluiah St	Bakersfield	93307
+Hallelujah Ct	Carmichael	95608
+Hallelujah Lane	Grass Valley	95945
+Hallelujah Tr	Lakeport	95453
+Hallen Dr	Arcata	95521
+Hallenoak Ln	Orangevale	95662
+Haller Ct	Concord	94520
+Haller Ct	Elk Grove	95757
+Haller Ct	Ripon	95366
+Haller Ln	Anderson	96007
+Haller St	San Diego	92104
+Hallett Avenue	Los Angeles	90065
+Hallett St	Perris	92570
+Halley	Irvine	92603
+Halley Avenue	Merced	95341
+Halley Ct	Chula Vista	91911
+Halley Ct	Escondido	92026
+Halley Ct	Patterson	95363
+Halley Ct	San Diego	92154
+Halley Ct	Windsor	95492
+Halley Dr	Tustin	92782
+Halley Glen Dr	Roseville	95678
+Halley Road	Dixon	95620
+Halley Road	Winters	95694
+Halley St	San Diego	92154
+Halleys Ct	Petaluma	94954
+Hallgreen Drive	Walnut	91789
+Halli Way	Elk Grove	95624
+Halliana Ct	Bakersfield	93311
+Halliburton Road	Hacienda Heights	91745
+Halliday Avenue	Los Angeles	90049
+Halliday Street	Vallejo	94590
+Hallidee Way	Gold River	95670
+Hallie Ln	Wildomar	92595
+Hallie St	Wildomar	92595
+Halliford Ct	Roseville	95661
+Hallin Dr	Santa Rosa	95409
+Hallington Ct	Laguna Niguel	92677
+Hallisey Ct	Bakersfield	93309
+Hallisey St	Bakersfield	93309
+Hallissy Dr	Roseville	95678
+Hallman Ln	Oakdale	95361
+Hallmark	Irvine	92620
+Hallmark Cir	Menlo Park	94025
+Hallmark Circle	Homeland	92548
+Hallmark Court	Fairfield	94534
+Hallmark Ct	American Canyon	94503
+Hallmark Ct	Santa Rosa	95403
+Hallmark Dr	Belmont	94002
+Hallmark Dr	Redding	96001
+Hallmark Dr	Sacramento	95825
+Hallmark Lane	Cerritos	90703
+Hallmark Ln	American Canyon	94503
+Hallmark Ln	San Jose	95124
+Hallmark Ln	Victorville	92394
+Hallmark Pkwy	San Bernardino	92407
+Hallmark Pl	Escondido	92029
+Hallmark Place	Vallejo	94591
+Hallmark St	Riverside	92505
+Hallmark & University NW	San Bernardino	92407
+Hallmark Way	Brentwood	94513
+Hallmark Way	Modesto	95356
+Hallock Dr	Santa Paula	93060
+Halloran Ct	Brentwood	94513
+Halloran Springs Rd	Barstow	92311
+Halloran Summit Rd	Baker	92309
+Halloran Summit Rd	Nipton	92364
+Hallow Root St	Fontana	92336
+Hallowell Avenue	Arcadia	91007
+Hallowell Avenue	Temple City	91780
+Hallowell Ct	Sacramento	95835
+Hallowell Rd	Newman	95360
+Hallrich Street	La Puente	91744
+Halls Alley	Weaverville	96093
+Halls City Creek Rd	Wildwood	96076
+Halls Court	Penn Valley	95946
+Halls Grade Rd	Banning	92220
+Halls Gulch	Coffee Creek	96091
+Halls Ln	Anderson	96007
+Halls Ln	Coffee Creek	96091
+Halls Valley Rd	Antioch	94531
+Hallsboro Ct	Modesto	95357
+Hallsons	Ben Lomond	95005
+Hallsworth Cir	Villa Park	92861
+Hallwood	Irvine	92602
+Hallwood Ave	Riverside	92506
+Hallwood Avenue	Pomona	91767
+Hallwood Boulevard	Hallwood	95901
+Hallwood Ct	Menifee	92584
+Hallwood Ct	Sacramento	95823
+Hallwood Drive	Baldwin Park	91706
+Hallwood Drive	El Monte	91732
+Hallwood Drive	Temple City	91780
+Hallwood Lane	Nevada City	95959
+Hallwood Place	Grass Valley	95949
+Hallyard Dr	Mecca	92254
+Halm Avenue	Los Angeles	90034
+Halma Ct	Perris	92571
+Halma Street	Lancaster	93535
+Halmar Ln	Lathrop	95330
+Halo	Irvine	92618
+Halo Av	Manteca	95337
+Halo Ave	Manteca	95337
+Halo Ave	Sacramento	95835
+Halo Cir	La Mesa	91941
+Halo Ct	Hayward	94544
+Halo Drive	Lynwood	90262
+Halo Pl	Manteca	95337
+Halo St	Riverside	92507
+Halo St	San Diego	92154
+Halona St	Victorville	92394
+Halper Lake Dr	Rancho Mirage	92270
+Halper Rd	Poway	92064
+Halper Street	Encino	91436
+Halpern Ct	Sun City	92585
+Halpin Ln	Palermo	95965
+Halray Avenue	Whittier	90606
+Halsbury Ct	Thousand Oaks	91361
+Halsell Trl	Corona	92883
+Halsey Ave	Corcoran	93212
+Halsey Ave	Laguna Niguel	92677
+Halsey Ave	Petaluma	94952
+Halsey Ave	Redwood City	94063
+Halsey Ave	San Jose	95128
+Halsey Ave	Twentynine Palms	92277
+Halsey Avenue	Arcadia	91006
+Halsey Avenue	Yuba City	95993
+Halsey Blvd	Foster City	94404
+Halsey Circle	Davis	95618
+Halsey Court	Dixon	95620
+Halsey Court	West Covina	91791
+Halsey Ct	Hercules	94547
+Halsey Ct	Pittsburg	94565
+Halsey Drive	Monterey	93940
+Halsey Pl	Riverside	92503
+Halsey Pl	Sacramento	95835
+Halsey Rd	San Diego	92106
+Halsey Road	Topanga	90290
+Halsey St	Chula Vista	91910
+Halsey St	Porterville	93257
+Halsey St	Redlands	92373
+Halsey Street	Granada Hills	91344
+Halsey Street	Porterville	93257
+Halsey Street	Vallejo	94590
+Halsey Way	Fort Bragg	 
+Halsey Way	Oxnard	93033
+Halsey Way	Pittsburg	94565
+Halsing Ct	Carlsbad	92011
+Halstead Ave	Rancho Cucamonga	91701
+Halstead Rd	Hinkley	92347
+Halstead Ter	Irvine	92603
+Halstead Way	Hemet	92545
+Halsted Ave	Carmichael	95608
+Halsted Ave	Rancho Cucamonga	91701
+Halsted Ave	Rancho Cucamonga	91737
+Halsted Circle	Alhambra	91801
+Halsted St	Riverside	92503
+Halsted St	San Diego	92123
+Halsted Street	Chatsworth	91311
+Halsted Street	North Hills	91343
+Halsted Street	Northridge	91324
+Halsted Street	Northridge	91325
+Halten Ct	Pleasant Hill	94523
+Halter Ct	Bakersfield	93306
+Halter Ct	Bakersfield	93307
+Halter Ct	Fontana	92336
+Halter Ct	Sacramento	95821
+Halter Ct	Santa Rosa	95401
+Halter Ln	Riverside	92504
+Halter Pl	San Marcos	92069
+Halter St	Victorville	92392
+Halterio Ct	Bakersfield	93309
+Halterman	Santa Cruz	95062
+Haltern Street	Glendora	91740
+Halton	Watsonville	95076
+Halton Ct	Galt	95632
+Halton Street	Encino	91316
+Halvern Drive	Los Angeles	90049
+Halverson Ct	Folsom	95630
+Halverson Dr	Elk Grove	95624
+Halverson Way	Brownsville	95919
+Halverson Wy	Roseville	95661
+Halvey Way	Dobbins	95935
+Halwood Ct	Santa Rosa	95407
+Halwood Drive	El Monte	91732
+Halworth	Irvine	92618
+Halyard	Newport Beach	92663
+Halyard Ct	Lake Elsinore	92530
+Halyard Dr	Dana Point	92629
+Halyard Dr	Santa Rosa	95401
+Halyard Drive	West Sacramento	95691
+Halyard Ln	Foster City	94404
+Halyard Pl	Carlsbad	92011
+Halyard St	Port Hueneme	93041
+Halyard Way	Discovery Bay	94505
+Halyard Way	Elk Grove	95758
+Halyburton Ct	San Francisco	94130
+Halyyard Ct	Stockton	95206

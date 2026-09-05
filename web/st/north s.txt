@@ -1,0 +1,552 @@
+North Sacramento Street	Tulare	93274
+North Saddle Court	Porter Ranch	91326
+North Saddleback Rd	Valley Center	92082
+North Sadring Avenue	Woodland Hills	91367
+North Sage Lane	Santa Monica	90402
+North Sage Street	Davis	95616
+North Sage Street	Dorris	96023
+North Saint Albans Road	San Gabriel	91775
+North Saint Cloud Road	Los Angeles	90077
+North Saint Malo Avenue	Covina	91722
+North Saint Mary'S Court	Long Beach	90813
+North Saint Pierre Avenue	Altadena	91001
+North Saint Pierre Road	Los Angeles	90077
+North Sale Avenue	West Hills	91307
+North Sale Avenue	Woodland Hills	91364
+North Salierno Court	Visalia	93291
+North Salinas Avenue	Los Angeles	90059
+North Salisbury Drive	Porterville	93257
+North Salisbury Place	Porterville	93257
+North Salisbury Street	Porterville	93257
+North Sallee Court	Visalia	93291
+North Sallee Street	Visalia	93291
+North Saloma Avenue	Sherman Oaks	91403
+North Saltair Avenue	Los Angeles	90049
+North Saltillo Street	Woodland Hills	91364
+North Samoa Avenue	Tujunga	91042
+North Sampson Avenue	Wilmington	90744
+North Sampson Street	Tulare	93274
+North San Antonio	Carmel-By-The-Sea	93921
+North San Antonio Avenue	Pomona	91766
+North San Antonio Avenue	Pomona	91767
+North San Benito Court	Claremont	91711
+North San Blas Avenue	Woodland Hills	91364
+North San Carlos Street	Porterville	93257
+North San Dimas Avenue	San Dimas	91773
+North San Dimas Canyon Road	La Verne	91750
+North San Dimas Canyon Road	San Dimas	91773
+North San Fernando Boulevard	Burbank	91502
+North San Fernando Boulevard	Burbank	91504
+North San Fernando Boulevard	Burbank	91505
+North San Fernando Road	Burbank	91505
+North San Fernando Road	Glendale	91201
+North San Fernando Road	Glendale	91202
+North San Fernando Road	Glendale	91203
+North San Fernando Road	Glendale	91204
+North San Fernando Road	Granada Hills	91344
+North San Fernando Road	Los Angeles	90031
+North San Fernando Road	Los Angeles	90039
+North San Fernando Road	Los Angeles	90065
+North San Fernando Road	Pacoima	91331
+North San Fernando Road	San Fernando	91340
+North San Fernando Road	Sun Valley	91352
+North San Fernando Road	Sylmar	91342
+North San Gabriel Avenue	Azusa	91702
+North San Gabriel Boulevard	Pasadena	91107
+North San Gabriel Boulevard	Rosemead	91770
+North San Gabriel Boulevard	San Gabriel	91775
+North San Gabriel Boulevard	San Marino	91108
+North San Gabriel Canyon Road	Azusa	91702
+North San Joaquin Drive	Atwater	95301
+North San Joaquin Road	Covina	91724
+North San Jose Drive	Glendora	91741
+North San Lorenzo Street	Santa Monica	90402
+North San Marco Drive	Los Angeles	90068
+North San Marino Avenue	Pasadena	91107
+North San Marino Avenue	San Gabriel	91775
+North San Marino Avenue	San Gabriel	91776
+North San Martinez Road	Castaic	91384
+North San Pablo Street	Los Angeles	90033
+North San Pascual Avenue	Los Angeles	90042
+North San Pedro Street	Los Angeles	90012
+North San Rafael Avenue	Pasadena	91105
+North San Remo Drive	Long Beach	90803
+North San Sebastian Drive	Woodland Hills	91364
+North San Vicente Avenue	Long Beach	90815
+North San Vicente Boulevard	Beverly Hills	90211
+North San Vicente Boulevard	Los Angeles	90048
+North San Vicente Boulevard	West Hollywood	90069
+North San Ysidro Drive	Beverly Hills	90210
+North Sanborn Avenue	Los Angeles	90027
+North Sanborn Avenue	Los Angeles	90029
+North Sanchez Street	Montebello	90640
+North Sandalwood Avenue	La Puente	91744
+North Sandlewood Lane	Porter Ranch	91326
+North Sanford Avenue	Wilmington	90744
+North Santa Ana Avenue	Bellflower	90706
+North Santa Ana Street	Los Banos	93635
+North Santa Anita Avenue	Altadena	91001
+North Santa Anita Avenue	Arcadia	91006
+North Santa Anita Avenue	Arcadia	91007
+North Santa Anita Avenue	Sierra Madre	91024
+North Santa Anita Avenue	Temple City	91780
+North Santa Anita Street	San Gabriel	91775
+North Santa Anita Street	San Gabriel	91776
+North Santa Clara Street	Los Banos	93635
+North Santa Clara Street	Tulare	93274
+North Santa Fe Ave	Oceanside	92057
+North Santa Fe Avenue	Compton	90221
+North Santa Fe Avenue	Compton	90222
+North Santa Fe Avenue	Los Angeles	90012
+North Santa Fe Avenue	Lynwood	90262
+North Santa Fe Drive	Atwater	95388
+North Santa Fe Street	Visalia	93291
+North Santa Fe Street	Visalia	93292
+North Santa Inez Street	Los Banos	93635
+North Santa Monica Boulevard	Beverly Hills	90210
+North Santa Monica Boulevard	Beverly Hills	90212
+North Santa Monica Street	Los Banos	93635
+North Santa Paula Street	Los Banos	93635
+North Santa Rita Street	Los Banos	93635
+North Santa Rosa Street	Los Banos	93635
+North Santa Venetia Street	Los Banos	93635
+North Saratoga Street	Los Angeles	90033
+North Sarbonne Road	Los Angeles	90077
+North Sargent Court	Los Angeles	90026
+North Satsuma Avenue	North Hollywood	91601
+North Savannah Street	Los Angeles	90033
+North Savona Walk	Long Beach	90803
+North Sazarac Lane	Nevada City	95959
+North Scadlock Lane	Sherman Oaks	91403
+North Scandia Way	Los Angeles	90065
+North Scenic Drive	Porterville	93257
+North Schley Avenue	Wilmington	90744
+North Scholl Canyon Road	Los Angeles	90041
+North School Street	Bridgeport	93517
+North School Street	Clarksburg	95612
+North School Street	Grass Valley	95945
+North School Street	Pixley	93256
+North Schrader Boulevard	Los Angeles	90028
+North Scott Avenue	Montebello	90640
+North Scoville Avenue	Sunland	91040
+North Screenland Drive	Burbank	91505
+North Sea Cir	Lake Forest	92630-8806
+North Sea Court	Visalia	93292
+North Sea Isle Drive	Long Beach	90803
+North Seabright Place	Beverly Hills	90210
+North Seaglass Circle	Playa Vista	90094
+North Seaview Trail	Los Angeles	90046
+North Sebren Avenue	Long Beach	90808
+North Second Street	Dixon	95620
+North Second Street	Los Banos	93635
+North Second Street	Porterville	93257
+North Second Street	Rio Vista	94571
+North Security Avenue	Burbank	91504
+North Sedro Street	Tulare	93274
+North Segovia Avenue	San Gabriel	91775
+North Seigneur Avenue	Los Angeles	90032
+North Selina Court	Visalia	93292
+North Selva Court	Visalia	93291
+North Selva Street	Visalia	93291
+North Senda De Hannah	Sylmar	91342
+North Sepulveda Boulevard	El Segundo	90245
+North Sepulveda Boulevard	Granada Hills	91344
+North Sepulveda Boulevard	Lawndale	90260
+North Sepulveda Boulevard	Los Angeles	90049
+North Sepulveda Boulevard	Manhattan Beach	90266
+North Sepulveda Boulevard	North Hills	91343
+North Sepulveda Boulevard	Panorama City	91402
+North Sepulveda Boulevard	San Fernando	91345
+North Sepulveda Boulevard	Sherman Oaks	91403
+North Sepulveda Boulevard	Van Nuys	91405
+North Sepulveda Boulevard	Van Nuys	91411
+North Sepulveda Place	Panorama City	91402
+North Sequoia Lane	Azusa	91702
+North Serrano Avenue	Los Angeles	90004
+North Serrano Avenue	Los Angeles	90027
+North Serrano Avenue	Los Angeles	90029
+North Sesnon Boulevard	Porter Ranch	91326
+North Seven Oaks Lane	Stevenson Ranch	91381
+North Seward Street	Los Angeles	90038
+North Shade Tree Lane	West Hills	91307
+North Shadow Oak Drive	Chatsworth	91311
+North Shadowood Place	Porterville	93257
+North Shadowood Street	Porterville	93257
+North Shady Court	Visalia	93291
+North Shady Street	Visalia	93291
+North Shadybrook Drive	Beverly Hills	90210
+North Shadydale Avenue	Covina	91722
+North Shadydale Avenue	West Covina	91790
+North Shadyglade Avenue	Studio City	91604
+North Shadyglen Drive	Covina	91724
+North Shadypark Drive	Long Beach	90808
+North Shadyspring Place	Burbank	91504
+North Shaftesbury Avenue	San Dimas	91773
+North Shallow Creek Road	Santa Clarita	91390
+North Shamrock Avenue	Monrovia	91016
+North Shanks Road	Delhi	95315
+North Sharp Avenue	Pacoima	91331
+North Sharp Avenue	San Fernando	91345
+North Sharp Avenue	Sun Valley	91352
+North Sharpless Street	La Habra	90631
+North Shasta Avenue	Farmersville	93223
+North Shasta Ranch Road	Mount Shasta	96067
+North Sheffield Avenue	Los Angeles	90032
+North Shelburn Court	Los Angeles	90065
+North Shelburne Street	La Habra	90631
+North Shellman Avenue	San Dimas	91773
+North Shelton Street	Burbank	91506
+North Shenandoah Court	Visalia	93291
+North Shenandoah Street	Los Angeles	90034
+North Shenandoah Street	Los Angeles	90035
+North Sherbourne Drive	Los Angeles	90034
+North Sherbourne Drive	Los Angeles	90048
+North Sherbourne Drive	West Hollywood	90069
+North Sheridge Drive	Sherman Oaks	91403
+North Sheriff Road	Los Angeles	90063
+North Sherman Grove Avenue	Sunland	91040
+North Sherman Oaks Avenue	Sherman Oaks	91403
+North Sherman Place	Long Beach	90804
+North Shipman Avenue	La Puente	91744
+North Shirk Road	Visalia	93291
+North Shirk Street	Visalia	93291
+North Shirley Avenue	Northridge	91324
+North Shirley Avenue	Tarzana	91356
+North Shirlmar Avenue	San Dimas	91773
+North Shore	Indio	92203
+North Shore	Lake Arrowhead	92352
+North Shore Blvd	Kings Beach	96143
+North Shore Blvd	Tahoe Vista	96148
+North Shore Blvd	Truckee	96161
+North Shore Ct	Hidden Valley Lake	95467
+North Shore Dr	Big Bear City	92314
+North Shore Dr	Fawnskin	92333
+North Shore Dr	Hidden Valley Lake	95467
+North Shore Dr	Indio	92203
+North Shore Dr	Lake Arrowhead	92352
+North Shore Dr	Mecca	92254
+North Shore Dr	Solana Beach	92075
+North Shore Drive	Indio	92203
+North Shore Ln	Fawnskin	92333
+North Shore Pl	Lake Arrowhead	92352
+North Shore Rd	Fawnskin	92333
+North Shore Rd	Lake Arrowhead	92352
+North Shore Road	Mount Shasta	96067
+North Shore Road	Wilmington	90744
+North Shore St	Thousand Palms	92276
+North Shore Way	Tahoe Vista	96148
+North Short Avenue	Compton	90221
+North Short Way	Los Angeles	90042
+North Shoshone Avenue	Granada Hills	91344
+North Shoup Avenue	Chatsworth	91311
+North Shoup Avenue	Woodland Hills	91367
+North Sichel Street	Los Angeles	90031
+North Sicilian Walk	Long Beach	90803
+North Side Rd	Lucerne Valley	92356
+North Sidney Court	Visalia	93291
+North Sidney Street	Visalia	93291
+North Siena Court	Visalia	93291
+North Siena Drive	Long Beach	90803
+North Siena Street	Visalia	93291
+North Siena Way	Los Angeles	90077
+North Sierra Bonita Avenue	Los Angeles	90036
+North Sierra Bonita Avenue	Los Angeles	90046
+North Sierra Bonita Avenue	Pasadena	91104
+North Sierra Bonita Avenue	Pasadena	91106
+North Sierra Drive	Beverly Hills	90210
+North Sierra Highway	Lancaster	93534
+North Sierra Highway	Sylmar	91342
+North Sierra Madre Boulevard	Pasadena	91107
+North Sierra Place	Beverly Hills	90210
+North Sierra Street	Los Angeles	90031
+North Sierra Street	Porterville	93257
+North Sierra Vista Avenue	Monterey Park	91755
+North Sierra Vista Drive	La Habra	90631
+North Sierra Vista Street	Monterey Park	91755
+North Sierra Vista Street	Porterville	93257
+North Siesta Avenue	La Puente	91746
+North Signal Drive	Pomona	91767
+North Sigsbee Avenue	Wilmington	90744
+North Silent Ranch Drive	Glendora	91741
+North Silver Lake Boulevard	Los Angeles	90004
+North Silver Lake Boulevard	Los Angeles	90026
+North Silver Lake Boulevard	Los Angeles	90039
+North Silver Lake Court	Los Angeles	90039
+North Silver Maple Place	Porterville	93257
+North Silver Maple Street	Porterville	93257
+North Silver Maple Way	Porterville	93257
+North Silver Oaks Drive	Sylmar	91342
+North Silver Ridge Avenue	Los Angeles	90039
+North Silver Spur Court	Porter Ranch	91326
+North Silver Willow Lane	Nevada City	95959
+North Silvervale Court	Visalia	93291
+North Silvervale Drive	Visalia	93291
+North Silvervale Street	Visalia	93291
+North Silverwood Terrace	Los Angeles	90026
+North Simon Court	Visalia	93292
+North Simon Street	Visalia	93292
+North Simpson Avenue	North Hollywood	91605
+North Sinarle Place	Porterville	93257
+North Sinclair Street	Bridgeport	93517
+North Sitka Court	Claremont	91711
+North Sixth Street	Rio Vista	94571
+North Skirball Center Drive	Los Angeles	90049
+North Skyewiay Road	Los Angeles	90049
+North Slater Avenue	Compton	90222
+North Sloan Avenue	Compton	90221
+North Sloan Canyon Road	Castaic	91384
+North Sloat Street	Los Angeles	90063
+North Slope Dr	Redding	96001
+North Slope Lane	Pomona	91766
+North Slope Ln	Oakhurst	93644
+North Slope Ter	Spring Valley	91977
+North Slope Trail	Challenge	95919
+North Small Road	Palmdale	93550
+North Smead Way	San Dimas	91773
+North Smith Avenue	Dinuba	93618
+North Smith Road	Tipton	93272
+North Sol Court	Visalia	93292
+North Sol Street	Visalia	93292
+North Sol Vista Way	Walnut	91789
+North Solaria Street	Tulare	93274
+North Soldano Avenue	Azusa	91702
+North Sonora Place	La Habra	90631
+North Sophia Avenue	Van Nuys	91406
+North Soto Street	Los Angeles	90032
+North Soto Street	Los Angeles	90033
+North South Axis	Stanford	94305
+North South Place	Porterville	93257
+North South Street	Porterville	93257
+North Southerland Avenue	Wilmington	90744
+North Sowell Court	Visalia	93291
+North Sowell Street	Visalia	93291
+North Sparks Street	Burbank	91504
+North Sparks Street	Burbank	91506
+North Spaulding Avenue	Los Angeles	90036
+North Spaulding Avenue	Los Angeles	90046
+North Spaulding Place	Altadena	91001
+North Spring Avenue	Compton	90221
+North Spring Road	Earlimart	93219
+North Spring Street	Compton	90221
+North Spring Street	Dunsmuir	96025
+North Spring Street	Los Angeles	90012
+North Spring Street	Los Angeles	90031
+North Springdale Drive	Long Beach	90810
+North Spruce Avenue	Lindsay	93247
+North Spruce Road	Exeter	93221
+North Spruce Street	Montebello	90640
+North Spruce Street	Tulare	93274
+North Spruce Street	Visalia	93292
+North Spur Trail Avenue	Walnut	91789
+North St	Anderson	96007
+North St	Arcata	95521
+North St	Bay Point	94565
+North St	Ben Lomond	95005
+North St	Berkeley	94703
+North St	Ceres	95307
+North St	Cloverdale	95425
+North St	Dillon Beach	94929
+North St	Escalon	95320
+North St	Eureka	95501
+North St	Healdsburg	95448
+North St	Hollister	95023
+North St	Jackson	95642
+North St	Lakeport	95453
+North St	Los Olivos	93441
+North St	Maxwell	95955
+North St	Pescadero	94060
+North St	Pittsburg	94565
+North St	Raymond	93653
+North St	Redding	96001
+North St	Rio Dell	95562
+North St	San Bernardino	92404
+North St	San Juan Bautista	95045
+North St	San Martin	95046
+North St	Santa Rosa	95404
+North St	Sausalito	94965
+North St	Selma	93662
+North St	Smith River	95567
+North St	Somis	93066
+North St	Susanville	96130
+North St	Walnut Grove	95690
+North St	Weaverville	96093
+North St	Williams	95987
+North St	Willits	 
+North St	Willits	95490
+North St Andrews Place	Los Angeles	90004
+North St Andrews Place	Los Angeles	90028
+North St Andrews Place	Los Angeles	90038
+North St Andrews Place	Los Angeles	90068
+North St Clair Avenue	North Hollywood	91606
+North St Clair Avenue	Studio City	91604
+North St John Avenue	Pasadena	91103
+North St Johns Parkway	Visalia	93292
+North St Louis Street	Los Angeles	90033
+North Stadium Way	Los Angeles	90012
+North Staley Lane	Los Angeles	90042
+North Stanford Avenue	Lindsay	93247
+North Stanford Avenue	Los Angeles	90059
+North Stanley Avenue	Los Angeles	90036
+North Stanley Avenue	Los Angeles	90046
+North Stanley Drive	Beverly Hills	90211
+North Stanley Drive	Tulare	93274
+North Stanley Hills Drive	Los Angeles	90046
+North Star Ave	Jurupa Valley	91752
+North Star Ave	Twentynine Palms	92277
+North Star Cir	San Jose	95131
+North Star Close	The Sea Ranch	95497
+North Star Ct	Post Mountain	96041
+North Star Ct	San Jose	95131
+North Star Ct	Sutter Creek	95685
+North Star Ct	Temecula	92592
+North Star Dr	Big Bear Lake	92315
+North Star Dr	Hanford	93230
+North Star Dr	Millville	96062
+North Star Dr	Redding	96003
+North Star Dr	San Diego	92117
+North Star Dr	Santa Rosa	95407
+North Star Drive	Grass Valley	95949
+North Star Drive	Palmdale	93552
+North Star Ln	Menifee	92584
+North Star Ln	Paso Robles	93446
+North Star Mine Road	Grass Valley	95949
+North Star Pl	San Jose	95131
+North Star Place	Davis	95616
+North Star St	Rocklin	95677
+North Star Trl	Morongo	92256
+North Star Trl	Morongo Valley	92256
+North Star Way	Modesto	95356
+North Star Way	Orangevale	95662
+North Star Way	Valley Center	92082
+North Starcross Dr	Desert Hot Springs	92240
+North Starglen Drive	Covina	91724
+North Starland Street	La Habra	90631
+North State Highway 3	Etna	96027
+North State Highway 3	Etna	96032
+North State Highway 3	Fort Jones	96032
+North State Highway 3	Fort Jones	96037
+North State St	Ukiah	 
+North State St A B	Ukiah	 
+North State Street	Earlimart	93219
+North State Street	Los Angeles	90033
+North Staten Drive	Reseda	91335
+North Station Drive	Vacaville	95688
+North Stedman Place	Monrovia	91016
+North Steele Avenue	Los Angeles	90063
+North Stephen S Wise Drive	Los Angeles	90077
+North Stephora Avenue	Covina	91724
+North Stevely Avenue	Long Beach	90808
+North Steven Avenue	Farmersville	93223
+North Stevenson Street	Visalia	93291
+North Stichman Avenue	La Puente	91746
+North Stillwell Avenue	Los Angeles	90032
+North Stimson Avenue	Hacienda Heights	91745
+North Stimson Avenue	La Puente	91744
+North Stockbridge Avenue	Los Angeles	90032
+North Stokes Court	Visalia	93291
+North Stokes Street	Visalia	93291
+North Stone Canyon Avenue	Sherman Oaks	91403
+North Stone Canyon Road	Los Angeles	90077
+North Stone Gate Way	Porter Ranch	91326
+North Stone Street	Los Angeles	90063
+North Stoneacre Avenue	Compton	90221
+North Stoneacre Avenue	Lynwood	90262
+North Stonegate Cove Drive	Porterville	93257
+North Stonehurst Avenue	Sunland	91040
+North Stoneman Avenue	Alhambra	91801
+North Stonewood Drive	Sherman Oaks	91403
+North Stonewood Street	La Habra	90631
+North Stoney Hill Road	Los Angeles	90049
+North Story Place	Alhambra	91801
+North Stover Court	Visalia	93292
+North Stover Street	Visalia	93292
+North Stradella Road	Los Angeles	90077
+North Strand	Oceanside	92054
+North Stratford Circle	Los Angeles	90077
+North Strathmore Avenue	Lindsay	93247
+North Street	Gonzales	93926
+North Street	Los Angeles	90046
+North Street	Los Banos	93635
+North Street	Mammoth Lakes	93546
+North Street	Mccloud	96057
+North Street	Monterey	93943
+North Street	San Ardo	93450
+North Street	Soledad	93960
+North Street	Woodland	95695
+North Street	Yreka	96097
+North Strohm Avenue	North Hollywood	91601
+North Studebaker Road	Long Beach	90808
+North Studebaker Road	Long Beach	90815
+North Sultana Avenue	San Gabriel	91775
+North Sumac Drive	Sherman Oaks	91403
+North Summers Court	Visalia	93291
+North Summers Street	Visalia	93291
+North Summit Avenue	Pasadena	91103
+North Summit Pl	Truckee	96161
+North Summit Pointe Drive	Topanga	90290
+North Summit Ridge Circle	Chatsworth	91311
+North Summitridge Drive	Beverly Hills	90210
+North Sumter Court	Visalia	93292
+North Sumter Street	Visalia	93292
+North Sun Mun Way	Los Angeles	90012
+North Sun Street	Gustine	95322
+North Sunbeam Drive	Los Angeles	90065
+North Sundown Drive	Los Angeles	90065
+North Sundown Ln	Oceanside	92056
+North Sunflower Avenue	Covina	91724
+North Sunkist Avenue	West Covina	91790
+North Sunland Boulevard	Sun Valley	91352
+North Sunland Boulevard	Sunland	91040
+North Sunland Place	Sunland	91040
+North Sunland Way	Sunland	91040
+North Sunnybrook Drive	La Habra	90631
+North Sunnycrest Drive	Los Angeles	90065
+North Sunnyhill Drive	Los Angeles	90065
+North Sunnyside Avenue	Sierra Madre	91024
+North Sunnyside Street	Porterville	93257
+North Sunnyslope Avenue	Pasadena	91107
+North Sunnyslope Avenue	Sherman Oaks	91423
+North Sunnyslope Avenue	Van Nuys	91401
+North Sunol Drive	Los Angeles	90063
+North Sunset Avenue	Azusa	91702
+North Sunset Avenue	La Puente	91744
+North Sunset Avenue	West Covina	91790
+North Sunset Boulevard	Pacific Palisades	90272
+North Sunset Canyon Drive	Burbank	91501
+North Sunset Canyon Drive	Burbank	91504
+North Sunset Heights Drive	Los Angeles	90046
+North Sunset Place	Monrovia	91016
+North Sunset Plaza Drive	West Hollywood	90069
+North Sunset Ridge Court	West Hills	91307
+North Sunset Ridge Road	Altadena	91001
+North Sunset Street	La Habra	90631
+North Sunswept Drive	Studio City	91604
+North Sunwood Street	Porterville	93257
+North Susan Lane	La Habra	90631
+North Sutter Avenue	Pacoima	91331
+North Sutter Court	Visalia	93291
+North Sutton Court	Tulare	93274
+North Suzanne Court	Dinuba	93618
+North Swall Drive	Beverly Hills	90211
+North Swall Drive	Los Angeles	90048
+North Swarthmore Avenue	Pacific Palisades	90272
+North Sweet Brier Avenue	Lindsay	93247
+North Sweetbriar Lane	Azusa	91702
+North Sweetwater Court	Chatsworth	91311
+North Sweetzer Avenue	Los Angeles	90046
+North Sweetzer Avenue	Los Angeles	90048
+North Sweetzer Avenue	West Hollywood	90069
+North Sycamore Avenue	Los Angeles	90028
+North Sycamore Avenue	Los Angeles	90036
+North Sycamore Avenue	Los Angeles	90038
+North Sycamore Avenue	Los Angeles	90068
+North Sycamore Drive	Dinuba	93618
+North Sycamore Drive	San Gabriel	91775
+North Sycamore Street	Porterville	93257
+North Sycamore Terrace	Los Angeles	90042
+North Sycamore Way	Porterville	93257
+North Sydney Avenue	Los Angeles	90022
+North Sydney Drive	Los Angeles	90022
+North Sylmar Avenue	Van Nuys	91401
+North Sylvia Avenue	Tarzana	91356
+North Syracuse Walk	Long Beach	90803

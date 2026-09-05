@@ -1,0 +1,116 @@
+S I St	Bakersfield	93304
+S I St	Lompoc	93436
+S I St	Madera	93637
+S I St	Oxnard	93030
+S I St	Oxnard	93033
+S I St	Reedley	93654
+S I St	San Bernardino	92410
+S Idaho St	La Habra	90631
+S Idaho St	San Mateo	94401
+S Idaho St	San Mateo	94402
+S Ideal Pa	Manteca	95336
+S Idyllwild Ave	Bloomington	92316
+S Idyllwild Ave	Rialto	92316
+S Idyllwild Ave	Rialto	92376
+S Ila Ave	Fresno	93706
+S Illinois St	Anaheim	92805
+S Illinois St	Lake Elsinore	92530
+S Imp Ave	Brawley	92227
+S Imp Dr	Brawley	92227
+S Imp St	Brawley	92227
+S Imp St	Imperial	92251
+S Imperial	Brawley	92227
+S Imperial	Calipatria	92233
+S Imperial	El Centro	92243
+S Imperial	Imperial	92251
+S Imperial Ave	Brawley	92227
+S Imperial Ave	Calipatria	92233
+S Imperial Ave	El Centro	92243
+S Imperial Ave	Imperial	92251
+S Imperial Ave Or 741 Dogw	Brawley	92227
+S Imperial Ct	El Centro	92243
+S Imperial Dr	Brawley	92227
+S Imperial Dr	El Centro	92243
+S Imperial Dr	Imperial	92251
+S Imperial Hwy	Anaheim	92807
+S Imperial Pl	Ontario	91761
+S Imperial St	Brawley	92227
+S Imperial St	El Centro	92243
+S Imperial St	Imperial	92251
+S Indian Ave	Palm Springs	92262
+S Indian Ave	Palm Springs	92264
+S Indian Canyon Dr	Palm Springs	92262
+S Indian Canyon Dr	Palm Springs	92264
+S Indian Trl	Anaheim	92807
+S Indian Trl	Palm Springs	92264
+S Indian Wells Ct	Ripon	95366
+S Indian Wells Rd	Banning	92220
+S Indiana Ave	Modesto	95357
+S Indiana Ave	Vista	92084
+S Indiana Ave	Waterford	95386
+S Indiana St	Anaheim	92805
+S Indiana St	Porterville	93257
+S Indianola Ave	Del Rey	93616
+S Indianola Ave	Kingsburg	93631
+S Indianola Ave	Sanger	93657
+S Indianola Ave	Selma	93662
+S Industrial	Calipatria	92233
+S Industrial Av	Ripon	95366
+S Industrial Ave	Calipatria	92233
+S Industrial Dr	Bloomington	92316
+S Industrial Dr	Rialto	92376
+S Industrial St	Calipatria	92233
+S Industrial Way	Kerman	93630
+S Industry	El Centro	92243
+S Industry Ave	El Centro	92243
+S Industry Blvd	El Centro	92243
+S Industry Rd	El Centro	92243
+S Industry Way	El Centro	92243
+S Inez St	Hemet	92543
+S Inez Way	Anaheim	92802
+S Inglenook Ave	San Jacinto	92583
+S Inglenook Way	Ontario	91761
+S Inheritance Wy	Manteca	95336
+S Inidana St	Porterville	93257
+S Inland Center Dr	San Bernardino	92408
+S Inland Center Dr	San Bernardino	92410
+S Inland Dr	Stockton	35206
+S Inland Dr	Stockton	95206
+S Innovation	Carson	90746
+S Intake Ave	Blythe	92225
+S Intake Blvd	Blythe	92225
+S International	Calipatria	92233
+S International Ave	Calipatria	92233
+S International Blvd	Calipatria	92233
+S International Pa	Tracy	95377
+S International St	Calipatria	92233
+S Inverness Ct	Ontario	91761
+S Inverness Way	Fresno	93727
+S Ione St	Ione	95640
+S Iowa Ave	Colton	92324
+S Ira Ct	Anaheim	92804
+S Iris Ave	Bloomington	92316
+S Iris Ave	Rialto	92376
+S Iris Ln	Escondido	92026
+S Iris St	Anaheim	92805
+S Iris St	San Bernardino	92410
+S Irma Ct	Visalia	93292
+S Irma St	Visalia	93292
+S Iron Horse Ln	Anaheim	92807
+S Ironwood Ave	Bloomington	92316
+S Ironwood Ave	Ontario	91761
+S Ironwood Ave	Rialto	92376
+S Irvine St	Mh	95391
+S Irving Dr	Oxnard	93030
+S Irving Ln	Santa Maria	93458
+S Irving Pl	Mh	95391
+S Irving St	Oxnard	93030
+S Irving Way	Upland	91786
+S Irwin St	Hanford	93230
+S Irwin St	San Bernardino	92408
+S Ivanhoe St	Anaheim	92804
+S Ivory Ave	El Cajon	92019
+S Ivory St	Mh	95391
+S Ivy Ave	Fresno	93706
+S Ivy Ave	Ontario	91762
+S Ivy St	Escondido	92025

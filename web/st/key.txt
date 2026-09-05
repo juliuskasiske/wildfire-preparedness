@@ -1,0 +1,150 @@
+Key Av	Ripon	95366
+Key Ave	San Francisco	94124
+Key Bay	Newport Beach	92625
+Key Blvd	El Cerrito	94530
+Key Blvd	Richmond	94805
+Key Cir	Temecula	92592
+Key Court	Browns Valley	95918
+Key Court	Lancaster	93536
+Key Court	Santa Clarita	91390
+Key Ct	Loomis	95650
+Key Ct	Rocklin	95765
+Key Dr	Pla	92870
+Key Dr	Placentia	92870
+Key Largo	Aliso Viejo	92656
+Key Largo Ave	Indio	92201
+Key Largo Course	Corte Madera	94925
+Key Largo Court	West Sacramento	95691
+Key Largo Ct	Antelope	95843
+Key Largo Ct	Oak Park	91377
+Key Largo Cv	Corte Madera	94925
+Key Largo Dr	Hollister	95023
+Key Largo Dr	Indio	92201
+Key Largo Pl	El Cajon	92021
+Key Largo Rd	Vista	92081
+Key Largo Street	West Sacramento	95691
+Key Lime Blvd	Riverside	92503
+Key Lime Way	Escondido	92027
+Key Ln	El Cajon	92021
+Key Pointe Dr	Hesperia	92345
+Key Polo Way	Bakersfield	93312
+Key Route Blvd	Berkeley	94706
+Key St	Walnut Grove	95690
+Key Street	Los Angeles	90035
+Key Street	Salinas	93905
+Key Vista Drive	Sierra Madre	91024
+Key Vw	Newport Beach	92625
+Key W	Laguna Niguel	92677
+Key W	Newport Beach	92625
+Key Way	Desert Hot Springs	92240
+Key West Avenue	Porter Ranch	91326
+Key West Ct	Discovery Bay	94505
+Key West Ct	Oxnard	93030
+Key West Dr	Bakersfield	93313
+Key West Dr	Redding	96002
+Key West Dr	Riverside	92503
+Key West Ln	Modesto	95350
+Key West Loop	Chico	95973
+Key West Street	San Gabriel	91776
+Key West Street	Temple City	91780
+Key West Way	Discovery Bay	94505
+Key West Way	Sacramento	95826
+Keya Ct	Apple Valley	92308
+Keyboard Ct	Menifee	92585
+Keyes Aly	San Francisco	94133
+Keyes Ave	Angwin	94508
+Keyes Ave	San Francisco	94129
+Keyes Court	Suisun City	94585
+Keyes Ct	Bakersfield	93311
+Keyes Dr	Banning	92220
+Keyes Lane	Suisun City	94585
+Keyes Rd	Denair	95316
+Keyes Rd	Hughson	95326
+Keyes Rd	Modesto	95328
+Keyes Rd	Ramona	92065
+Keyes Road	Denair	95316
+Keyes Road	Snelling	95369
+Keyes St	Arcata	95521
+Keyes St	Manila	95521
+Keyes St	San Jose	95112
+Keyes St	Sutter Creek	95685
+Keyesport Way	Citrus Heights	95610
+Keyesport Way	Discovery Bay	94505
+Keylod St	Redding	96002
+Keymar Dr	San Jose	95123
+Keynote St	Roseville	95747
+Keyntel St	Citrus Heights	95621
+Keypointe Place	La Mirada	90638
+Keyport St	Oceanside	92057
+Keys Blvd	Clearlake Oaks	95423
+Keys Creek	Valley Center	92082
+Keys Creek Rd	Valley Center	92082
+Keys Ct	Riverside	92503
+Keys Ct	Tracy	95377
+Keys Ct	Walnut Creek	94597
+Keys Pl	Hayward	94545
+Keys Pl	Vista	92081
+Keys Rd	Pioneertown	92268
+Keys Rd	Pleasant Grove	95668
+Keys Road	Pleasant Grove	95668
+Keys Wy	Tracy	95377
+Keyser Ct	Ramona	92065
+Keyser Dr	Stockton	95212
+Keyser Drive	City Of Wheatland	95692
+Keyser Rd	Ramona	92065
+Keyser Rondo	Camarillo	93010
+Keysor Dr	Stockton	95212
+Keystone	Paradise Park	95060
+Keystone	Santa Cruz	95062
+Keystone	Simi Valley	93063
+Keystone Alley	Amador City	95601
+Keystone Av	Santa Clara	95051
+Keystone Ave	Culver City	90232
+Keystone Ave	Morgan Hill	95037
+Keystone Ave	Sacramento	95841
+Keystone Ave	Santa Clara	95051
+Keystone Avenue	Culver City	90232
+Keystone Avenue	Los Angeles	90034
+Keystone Avenue	Pomona	91767
+Keystone Blvd	Patterson	95363
+Keystone Cir	Corona	92882
+Keystone Cir	Oceanside	92056
+Keystone Court	Vacaville	95687
+Keystone Ct	Banning	92220
+Keystone Ct	Chico	95973
+Keystone Ct	Chino Hills	91709
+Keystone Ct	Rancho Cucamonga	91737
+Keystone Ct	Redding	96003
+Keystone Ct	Riverside	92508
+Keystone Ct	Rocklin	95677
+Keystone Ct	San Diego	92126
+Keystone Ct	San Jose	95132
+Keystone Ct	San Rafael	94903
+Keystone Ct	Santa Rosa	95405
+Keystone Ct	Simi Valley	93063
+Keystone Dr	Chowchilla	93610
+Keystone Dr	Ladera Ranch	92694
+Keystone Dr	Perris	92570
+Keystone Ln	Santa Maria	93454
+Keystone Loop	Discovery Bay	94505
+Keystone Loop	Stevenson Ranch	91381
+Keystone Pacific Pkwy	Patterson	95363
+Keystone Pl	Bakersfield	93314
+Keystone Pl	Mentone	92359
+Keystone Point Rd	Big Bear Lake	92315
+Keystone Rd	Brawley	92227
+Keystone St	Simi Valley	93063
+Keystone Street	Pasadena	91106
+Keystone Street	Pasadena	91107
+Keystone Trail	Dobbins	95935
+Keystone Way	Banning	92220
+Keystone Way	Brentwood	94513
+Keystone Way	Fontana	92336
+Keystone Way	Modesto	95354
+Keystone Way	San Francisco	94112
+Keystone Way	San Francisco	94127
+Keystone Way	Vista	92081
+Keyt Way	Cotati	94931
+Keyway Ct	Jurupa Valley	91752
+Keywest Street	San Gabriel	91776
+Keywood Ct	Concord	94521

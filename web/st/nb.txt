@@ -1,0 +1,13 @@
+Nb 215 Btw 2Nd / 5Th	San Bernardino	92410
+Nb 215 Btw Baseline / 259 Ichg	San Bernardino	92405
+Nb 215 Btw Baseline / Highland	San Bernardino	92405
+Nb 215 Btw Iowa / Barton	Colton	92324
+Nb 215 Btw Mill / 2Nd	San Bernardino	92410
+Nb 280	Other	94010
+Nb 280	Other	94402
+Nb 5 Disney Wy Off Ramp (Hov)	Orange	92868
+Nb 5 Gene Autry Wy Off Ramp (Hov)	Orange	92868
+Nb 5 No State College Blvd	Orange	92868
+Nb 5 So N State College Blvd	Orange	92868
+Nb 5 So Orangewood Ave	Orange	92868
+Nb 99 Sr	Fresno	93722

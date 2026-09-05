@@ -1,0 +1,14 @@
+09Th Ave	San Diego	92101
+09Th Ave	San Diego	92103
+09Th Ave	San Francisco	94116
+09Th Ave	San Francisco	94118
+09Th Ave	San Francisco	94122
+09Th St	Coronado	92118
+09Th St	Del Mar	92014
+09Th St	Encinitas	92024
+09Th St	Imperial Beach	91932
+09Th St	Poway	92064
+09Th St	Ramona	92065
+09Th St	San Francisco	94103
+09Th St	San Marcos	92078
+09Th Ti St	San Francisco	94130

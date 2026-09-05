@@ -1,0 +1,31 @@
+Southall Lane	Bell Gardens	90201
+Southall Ter	Irvine	92603
+Southam Rd	Colusa	95932
+Southam Rd	Princeton	95970
+Southampton	Irvine	92620
+Southampton	Santa Cruz	95062
+Southampton Ave	Berkeley	94707
+Southampton Blvd	Bakersfield	93311
+Southampton Ct	Menifee	92584
+Southampton Ct	Newport Beach	92660
+Southampton Ct	Rancho Cucamonga	91730
+Southampton Ct	Richmond	94806
+Southampton Ct	Riverside	92503
+Southampton Ct	San Jose	95148
+Southampton Dr	Cypress	90630
+Southampton Dr	Palo Alto	94303
+Southampton Dr	Windsor	95492
+Southampton Ln	Modesto	95350
+Southampton Pl	Lafayette	94549
+Southampton Pl	Oxnard	93035
+Southampton Rd	Carlsbad	92010
+Southampton Road	Benicia	94510
+Southampton St	Roseville	95747
+Southampton St	San Diego	92117
+Southampton St	San Marcos	92078
+Southampton Way	Placentia	92870
+Southampton Way	Sacramento	95823
+Southampton Way	San Mateo	94403
+Southampyon Ct	Menifee	92584
+Southard Ct	Moraga	94556
+Southard Pl	San Francisco	94133

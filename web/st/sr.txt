@@ -1,0 +1,15 @@
+Sr-1	Malibu	90265
+Sr 128	Philo	 
+Sr-66	Pomona	91767
+Sr 67	Ramona	92065
+Sr 73	Unincorporated	92651
+Sr-79	Aguanga	92536
+Sr 79	Descanso	91916
+Sr-79	Julian	92036
+Sr-79	Warner Springs	92086
+Sr-94	Boulevard	91905
+Sr 94	Campo	91906
+Sr-94	Dulzura	91917
+Sr 94	Potrero	91963
+Sragoza Ct	Indio	92203
+Sramek	Scotts Valley	95066

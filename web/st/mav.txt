@@ -1,0 +1,54 @@
+Mavenwood Pl	Fontana	92336
+Maverick	Felton	95018
+Maverick	Irvine	92602
+Maverick	Palm Springs	92264
+Maverick Cir	Corona	92881
+Maverick Cir	Laguna Hills	92653
+Maverick Circle	La Verne	91750
+Maverick Circle	Pomona	91766
+Maverick Court	Vacaville	95687
+Maverick Ct	Calimesa	92320
+Maverick Ct	Fair Oaks	95628
+Maverick Ct	Lafayette	94549
+Maverick Ct	Lake Elsinore	92532
+Maverick Ct	Modesto	95355
+Maverick Ct	Poway	92064
+Maverick Ct	Roseville	95661
+Maverick Ct	San Martin	95046
+Maverick Ct	San Ramon	94582
+Maverick Ct	Santa Rosa	95404
+Maverick Dr	Adelanto	92301
+Maverick Dr	Chico	95973
+Maverick Dr	Shasta	96087
+Maverick Drive	Plumas Lake	95961
+Maverick Drive	San Dimas	91773
+Maverick Drive	Springville	93265
+Maverick Drive	Vacaville	95687
+Maverick Gln	Escondido	92027
+Maverick Lane	Grass Valley	95949
+Maverick Lane	Palos Verdes Peninsula	90274
+Maverick Lane	Vacaville	95688
+Maverick Ln	Bell Canyon	91307
+Maverick Ln	Jurupa Valley	92509
+Maverick Ln	Lake Arrowhead	92352
+Maverick Ln	Lincoln	95648
+Maverick Ln	North Tustin	92705
+Maverick Ln	Poway	92064
+Maverick Ln	Temecula	92591
+Maverick Pl	Bonita	91902
+Maverick Pl	Victorville	92394
+Maverick Place	Stevenson Ranch	91381
+Maverick Rd	Aguanga	92536
+Maverick St	Modesto	95355
+Maverick Street	Banning	92220
+Maverick Way	Paso Robles	93446
+Mavericks Ln	Lathrop	95330
+Mavin Dr	Santee	92071
+Mavis Ave	Orangevale	95662
+Mavis Avenue	Whittier	90601
+Mavis Ct	Modesto	95350
+Mavis Drive	Los Angeles	90065
+Mavis Pl	San Ramon	94583
+Mavis Rd	Apple Valley	92307
+Mavis St	Grand Terrace	92313
+Mavoy Rd	Lucerne	95458

@@ -1,0 +1,20 @@
+Souza Ave	Ceres	95351
+Souza Ave	Garden Grove	92844
+Souza Bl	Manteca	95336
+Souza Blvd	Manteca	95336
+Souza Cir	Sacramento	95831
+Souza Court	Atwater	95301
+Souza Ct	Hayward	94541
+Souza Ct	Newman	95360
+Souza Dr	Nipomo	93444
+Souza Ln	Columbia	95310
+Souza Ranch Rd	Weaverville	96093
+Souza Rd	Ruth	95526
+Souza Road	Los Banos	93635
+Souza St	Orange Cove	93646
+Souza St	Turlock	95380
+Souza Way	Folsom	95630
+Souza Way	Harmony	93435
+Souza Way	Salinas	93906
+Souza Way	Vallejo	94589
+Souza Wy	Tracy	95377

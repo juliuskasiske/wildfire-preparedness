@@ -1,0 +1,49 @@
+S 40Th St	Richmond	94804
+S 40Th St	San Diego	92113
+S 41St St	Richmond	94804
+S 41St St	San Diego	92113
+S 42Nd St	Richmond	94804
+S 42Nd St	San Diego	92113
+S 43Rd St	Richmond	94804
+S 43Rd St	San Diego	92113
+S 44Th St	Richmond	94804
+S 44Th St	Richmond	94805
+S 44Th St	San Diego	92102
+S 44Th St	San Diego	92113
+S 45Th St	Richmond	94804
+S 45Th St	San Diego	92102
+S 45Th St	San Diego	92113
+S 46Th St	Richmond	94804
+S 46Th St	San Diego	92113
+S 47Th St	Richmond	94804
+S 47Th St	San Diego	92102
+S 47Th St	San Diego	92113
+S 48Th St	San Diego	92113
+S 49Th St	Richmond	94804
+S 49Th St	San Diego	92113
+S 4Th	Calimesa	92320
+S 4Th	El Centro	92243
+S 4Th Ave	El Centro	92243
+S 4Th Ave	Oakdale	95361
+S 4Th Ct	El Centro	92243
+S 4Th Dr	El Centro	92243
+S 4Th Ln	El Centro	92243
+S 4Th Pl	El Centro	92243
+S 4Th Rd	El Centro	92243
+S 4Th St	Banning	92220
+S 4Th St	Blythe	92225
+S 4Th St	Calimesa	92320
+S 4Th St	Campbell	95008
+S 4Th St	Chowchilla	93610
+S 4Th St	Coalinga	93210
+S 4Th St	Colton	92324
+S 4Th St	El Centro	92243
+S 4Th St	Fowler	93625
+S 4Th St	Grover Beach	93433
+S 4Th St	Kerman	93630
+S 4Th St	Oceano	93445
+S 4Th St	Patterson	95363
+S 4Th St	Redlands	92373
+S 4Th St	Richmond	94804
+S 4Th St	San Jose	95112
+S 4Th St	Shandon	93461

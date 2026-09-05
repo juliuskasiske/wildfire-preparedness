@@ -1,0 +1,205 @@
+Via Tabara	La Jolla	92037
+Via Tafalla	Temecula	92592
+Via Taffia	Murrieta	92563
+Via Taffia Ave	Murrieta	92563
+Via Taffia Dr	Murrieta	92563
+Via Taffia Rd	Murrieta	92563
+Via Tala	Fallbrook	92028
+Via Talavera	La Quinta	92253
+Via Talavera	Mission Viejo	92691
+Via Talavera	San Diego	92130
+Via Talavera	San Diego	92137
+Via Talavera	Ybl	92887
+Via Talavera	Yorba Linda	92887
+Via Taliana	Rancho Santa Margarita	92688
+Via Tampa	Lomita	90717
+Via Tanara	Valencia	91355
+Via Taormina	Monterey	93940
+Via Tapadero	Murrieta	92562
+Via Tapaste	Ybl	92886
+Via Tapaste	Yorba Linda	92886
+Via Tapia	Malibu	90265
+Via Tapia	Spring Valley	91977
+Via Tapis	La Quinta	92253
+Via Taquita	Ramona	92065
+Via Tarara	Ybl	92887
+Via Tarara	Yorba Linda	92887
+Via Tarifa	San Diego	92128
+Via Tarragona	Ybl	92887
+Via Tarragona	Yorba Linda	92887
+Via Tascana	Corona	92879
+Via Tavira	Encinitas	92024
+Via Tavito	San Diego	92128
+Via Taz	Malibu	90265
+Via Tazon	San Diego	92127
+Via Teca	Carlsbad	92009
+Via Teca	San Clemente	92673
+Via Teca	Thousand Oaks	91320
+Via Tecolote	Calabasas	91302
+Via Tecolote	Watsonville	95076
+Via Tehago	Valencia	91355
+Via Tejon	Palos Verdes Peninsula	90274
+Via Tejon Ave	Moreno Valley	92551
+Via Telesio	Temecula	92592
+Via Telesio Ct	Temecula	92592
+Via Telino	Valencia	91355
+Via Temprano	Murrieta	92563
+Via Temprano	San Diego	92124
+Via Tenis	Palm Springs	92262
+Via Tenorio	Ybl	92887
+Via Tenorio	Yorba Linda	92887
+Via Teodocio	Ybl	92887
+Via Teodocio	Yorba Linda	92887
+Via Tepeyac	Coachella	92236
+Via Tequila	Lake Forest	92630
+Via Tequila	Lake Forest	92630-2002
+Via Tequila	Lake Forest	92630-2046
+Via Tequila	Lake Forest	92630-2047
+Via Tequila	Lake Forest	92630-2048
+Via Tequila	Lake Forest	92630-2049
+Via Tequila	Lake Forest	92630-2050
+Via Tequila	Lake Forest	92630-2051
+Via Tequila	Lake Forest	92630-2052
+Via Tequila	Lake Forest	92630-2053
+Via Tequila	Lake Forest	92630-2054
+Via Teramo	Escondido	92026
+Via Tercero	Mission Viejo	92691
+Via Tercero	Oceanside	92056
+Via Tercero	San Ysidro	92173
+Via Terceto	San Diego	92130
+Via Terecina	Chula Vista	91910
+Via Teresa	Laguna Niguel	92677
+Via Teresa	Los Gatos	95030
+Via Teresa	San Marcos	92069
+Via Teresa	Santee	92071
+Via Terra Nova	La Quinta	92253
+Via Terracaleta	Coto De Caza	92679
+Via Terracina	La Quinta	92253
+Via Terracina	Laguna Niguel	92677
+Via Terrado	Camarillo	93010
+Via Terrano	Rancho Santa Margarita	92688
+Via Terrasol	Camarillo	93010
+Via Terrassa	Encinitas	92024
+Via Terraza	Santa Clarita	91350
+Via Terrazzo	Santa Barbara Unincorporated	93110
+Via Terreno	Modesto	95357
+Via Terreno	Riverside	92506
+Via Terrracina	La Quinta	92253
+Via Tesoro	Alpine	91901
+Via Tesoro	Chino Hills	91709
+Via Tesoro	La Quinta	92253
+Via Tesoro Ct	Saratoga	95070
+Via Tesoro Dr	Rancho Cucamonga	91739
+Via Tesoro Ln	La Quinta	92253
+Via Thomas Drive	Walnut	91789
+Via Tiama	Murrieta	92562
+Via Tiberio	Rancho Mirage	92270
+Via Tiempo	Cardiff	92007
+Via Tiempo	Cardiff By The Sea	92007
+Via Tierra	Encinitas	92024
+Via Tierra Del Ray	Winchester	92596
+Via Tiglio	Lakeside	92040
+Via Tigra	Rancho Santa Margarita	92688
+Via Timon	San Clemente	92673
+Via Timoteo	Spring Valley	91978
+Via Tina	La Palma	90623
+Via Tioga	Riverside	92506
+Via Tirso	Mission Viejo	92692
+Via Tivoli	Burbank	91504
+Via Tivoli	Costa Mesa	92626
+Via Tizon	Oceanside	92057
+Via Toledo	La Verne	91750
+Via Toledo	Ybl	92887
+Via Toledo	Yorba Linda	92887
+Via Tolentino	Morgan Hill	95037
+Via Tolosa	La Quinta	92253
+Via Toluca	San Clemente	92672
+Via Tomas	Camarillo	93010
+Via Tomas	Valencia	91355
+Via Tomas	Ybl	92887
+Via Tomas	Yorba Linda	92887
+Via Tonada	Lake Forest	92630
+Via Tonada	Lake Forest	92630-0000
+Via Tonada	Lake Forest	92630-2026
+Via Tonada	Lake Forest	92630-2027
+Via Tonada	Lake Forest	92630-2028
+Via Tonada	Lake Forest	92630-2029
+Via Tonada	Lake Forest	92630-2030
+Via Tonada	Murrieta	92562
+Via Tonada	San Juan Capistrano	92675
+Via Tonala	Carlsbad	92010
+Via Tonga	San Diego	92154
+Via Tonga Ct	San Diego	92154
+Via Topacio	Carlsbad	92010
+Via Topacio	Rancho Santa Margarita	92688
+Via Tore	Vista	92083
+Via Torina	Del Mar	92014
+Via Torina	San Clemente	92673
+Via Torino	Irvine	92603
+Via Torino Pl	Santa Clara	95051
+Via Tornada Rd	Temecula	92590
+Via Tornado	Temecula	92590
+Via Tornasol	Aptos	95003
+Via Torralba	Ybl	92887
+Via Torralba	Yorba Linda	92887
+Via Torre	Rancho Santa Margarita	92688
+Via Torrino	Burbank	91504
+Via Tortola	Riverside	92503
+Via Tortona	Burbank	91504
+Via Tortuga	Atascadero	93422
+Via Tortuga	Rancho Santa Margarita	92688
+Via Tortuga Rd	Atascadero	93422
+Via Toscana	Chula Vista	91910
+Via Toscana	Corona	92879
+Via Toscana St	Corona	92879
+Via Tovita	Unincorporated Alameda County	94580
+Via Tramonte	Palm Desert	92260
+Via Tramonti	Palm Desert	92260
+Via Tramonto	Palm Desert	92260
+Via Tranqilo	Palmdale	93551
+Via Tranquila	Aliso Viejo	92656
+Via Tranquila	Hope Ranch	93110
+Via Tranquila	La Quinta	92253
+Via Tranquila	Rancho Santa Margarita	92688
+Via Tranquilas	Carlsbad	92009
+Via Tranquillo	Palm Springs	92264
+Via Tranquilo	Palm Springs	92264
+Via Tranquilo	Rowland Heights	91748
+Via Tranquilo	San Diego	92122
+Via Trato	Carlsbad	92009
+Via Trentino	Costa Mesa	92626
+Via Trento	Goleta	93117
+Via Trepadora	Hope Ranch	93110
+Via Tres Vista	San Diego	92129
+Via Tresca	San Diego	92129
+Via Trevi	Lakeside	92040
+Via Treville	Rancho Santa Fe	92067
+Via Treviso	American Canyon	94503
+Via Treviso	Palm Desert	92260
+Via Treviso St	Palm Desert	92260
+Via Trevizio	Corona	92879
+Via Trieste	Chula Vista	91911
+Via Trieste	La Quinta	92253
+Via Trieste	Newport Beach	92663
+Via Trinidad	Corona	92882
+Via Trinidad	Ybl	92886
+Via Trinidad	Yorba Linda	92886
+Via Trinita	Aptos	95003
+Via Trompeta	Rancho Santa Margarita	92688
+Via Tronido	Rancho Santa Margarita	92688
+Via Tropico	Santa Maria	93454
+Via Trovador	Ybl	92887
+Via Trovador	Yorba Linda	92887
+Via Trueno	Alpine	91901
+Via Tulipan	Carlsbad	92010
+Via Tulipan	San Clemente	92673
+Via Tunas	San Clemente	92673
+Via Turin	Indio	92201
+Via Turina	Mission Viejo	92692
+Via Turina	Valencia	91355
+Via Turqueza	San Clemente	92673
+Via Tusa	Santa Barbara	93105
+Via Tuscany	La Quinta	92253
+Via Tuscany	Laguna Niguel	92677
+Via Tuscany	Rancho Mirage	92270
+Via Tuscany	Riverside	92503

@@ -1,0 +1,232 @@
+16 1/2 Ave	Lemoore	93245
+16 De Septembre	Ventura	93004
+16 N 03 Rd	Upper Lake	95485
+16 N 06 Rd	Lucerne	95458
+16 N 07 Rd	Lucerne	95458
+16 N 19 Rd	Upper Lake	95485
+16 N 22 Rd	Lucerne	95458
+16 N 29 Rd	Upper Lake	95485
+16 N 30 Rd	Upper Lake	95485
+16 N 34 Rd	Upper Lake	95485
+16 N 35 Rd	Upper Lake	95485
+16 N 41 Rd	Lucerne	95458
+16 N 43 Rd	Lucerne	95458
+16 N 48 Rd	Upper Lake	95485
+-160 Arreba St	Martinez	94553
+160½ Nevada Av	Roseville	95678
+160Th Street	Lawndale	90260
+160Th Street	Norwalk	90650
+160Th Street	Redondo Beach	90278
+160Th Street East	Lancaster	93535
+160Th Street East	Llano	93544
+160Th Street West	Lancaster	93536
+161½ Nevada Av	Roseville	95678
+161St Street	Lawndale	90260
+161St Street	Norwalk	90650
+161St Street East	Lancaster	93535
+161St Street East	Llano	93544
+161St Street East	Palmdale	93591
+162Nd Street	Gardena	90247
+162Nd Street	Lawndale	90260
+162Nd Street	Norwalk	90650
+162Nd Street East	Lancaster	93535
+162Nd Street East	Palmdale	93591
+163½ Donner Av	Roseville	95678
+16313 Coastal Ct	Bakersfield	93314
+163Rd Street	Lawndale	90260
+163Rd Street	Norwalk	90650
+163Rd Street East	Lancaster	93535
+163Rd Street East	Llano	93544
+163Rd Street East	Palmdale	93591
+164Th Street	Lawndale	90260
+164Th Street	Norwalk	90650
+164Th Street East	Palmdale	93591
+165Th Place	Gardena	90247
+165Th Street	Lawndale	90260
+165Th Street	Norwalk	90650
+165Th Street	Torrance	90504
+165Th Street East	Lancaster	93535
+165Th Street East	Llano	93544
+165Th Street East	Palmdale	93591
+166Th Place	Torrance	90504
+166Th Street	Artesia	90701
+166Th Street	Cerritos	90703
+166Th Street	Gardena	90247
+166Th Street	Lawndale	90260
+166Th Street	Torrance	90504
+166Th Street East	Lancaster	93535
+166Th Street East	Llano	93544
+166Th Street East	Palmdale	93591
+167Th Street	Artesia	90701
+167Th Street	Lawndale	90260
+167Th Street	Torrance	90504
+167Th Street East	Llano	93544
+167Th Street East	Palmdale	93591
+167Th Street West	Lancaster	93536
+168Th Street	Artesia	90701
+168Th Street	Gardena	90249
+168Th Street	Lawndale	90260
+168Th Street East	Lancaster	93535
+168Th Street East	Llano	93544
+168Th Street East	Palmdale	93591
+169Elworthy Ranch Dr	Danville	94526
+169Th Place	Torrance	90504
+169Th Street	Artesia	90701
+169Th Street	Lawndale	90260
+169Th Street	Torrance	90504
+169Th Street East	Lancaster	93535
+169Th Street East	Palmdale	93591
+16Th	Brawley	92227
+16Th	Santa Cruz	95062
+16Th Ave	Blythe	92225
+16Th Ave	Clearlake	95422
+16Th Ave	Desert Center	92239
+16Th Ave	Desert Hot Springs	92241
+16Th Ave	Hanford	93230
+16Th Ave	Kingsburg	93631
+16Th Ave	Lemoore	93230
+16Th Ave	Lemoore	93245
+16Th Ave	Menlo Park	94025
+16Th Ave	North Palm Springs	92258
+16Th Ave	Parlier	93648
+16Th Ave	Redwood City	94063
+16Th Ave	Sacramento	95820
+16Th Ave	Sacramento	95822
+16Th Ave	San Francisco	94116
+16Th Ave	San Francisco	94118
+16Th Ave	San Francisco	94122
+16Th Ave	San Mateo	94402
+16Th Ave	Stratford	93266
+16Th Ave	White Water	92282
+16Th Avenue	Carmel	93923
+16Th Court	Hermosa Beach	90254
+16Th Ct	Hermosa Beach	90254
+16Th Ct	Kerman	93630
+16Th E St	Pittsburg	94565
+16Th Helena Drive	Los Angeles	90049
+16Th Hole Dr	Windsor	95492
+16Th Pl	Costa Mesa	92627
+16Th Place	Los Angeles	90019
+16Th Place	Manhattan Beach	90266
+16Th Place East	Palmdale	93550
+16Th Place West	Lancaster	93534
+16Th Rd	Lemoore	93245
+16Th (Sb) St	San Diego	92154
+16Th St	Arcata	95521
+16Th St	Bakersfield	93301
+16Th St	Banning	92220
+16Th St	Brawley	92227
+16Th St	Cayucos	93430
+16Th St	Chico	95928
+16Th St	Desert Hot Springs	92240
+16Th St	Elverta	95626
+16Th St	Eureka	95501
+16Th St	Firebaugh	93622
+16Th St	Fortuna	95540
+16Th St	Garden Grove	92843
+16Th St	Hermosa Beach	90254
+16Th St	Huntington Beach	90742
+16Th St	Huntington Beach	92648
+16Th St	Huntington Beach	92648-4013
+16Th St	Huntington Beach	92648-4014
+16Th St	Huntington Beach	92648-4015
+16Th St	Huntington Beach	92648-4016
+16Th St	Huntington Beach	92648-4080
+16Th St	Huntington Beach	92648-4081
+16Th St	Huntington Beach	92648-4205
+16Th St	Huntington Beach	92648-4207
+16Th St	Huntington Beach	92648-4208
+16Th St	Huntington Beach	92648-4232 
+16Th St	Huntington Beach	92648-4237 
+16Th St	Huntington Beach	92648-4239
+16Th St	Huntington Beach	92648-4240 
+16Th St	Huntington Beach	92648-4247 
+16Th St	Huntington Beach	92648-4248 
+16Th St	Huntington Beach	92648-4249 
+16Th St	Huntington Beach	92648-4268 
+16Th St	Huntington Beach	92648-4269 
+16Th St	Huntington Beach	92648-4270 
+16Th St	Huntington Beach	92648-4271 
+16Th St	Huntington Beach	92648-4273 
+16Th St	Huntington Beach	92648-4274
+16Th St	Huntington Beach	92648-4274 
+16Th St	Huntington Beach	92648-4275 
+16Th St	Huntington Beach	92648-4276 
+16Th St	Huntington Beach	92648-4277 
+16Th St	Huntington Beach	92648-4278 
+16Th St	Huntington Beach	92648-4279 
+16Th St	Huntington Beach	92648-4280 
+16Th St	Huntington Beach	92648-4281 
+16Th St	Huntington Beach	92648-4284 
+16Th St	Huntington Beach	92648-4415
+16Th St	Huntington Beach	92648-4438 
+16Th St	Huntington Beach	92648-4439
+16Th St	Huntington Beach	92648-4439 
+16Th St	Huntington Beach	92648-4440 
+16Th St	Huntington Beach	92648-4441 
+16Th St	Huntington Beach	92648-4443 
+16Th St	Huntington Beach	92648-4444 
+16Th St	Huntington Beach	92648-4462 
+16Th St	Huntington Beach	92648-4463 
+16Th St	Huntington Beach	92648-4464 
+16Th St	Huntington Beach	92648-8413 
+16Th St	Huntington Beach	92648-8414 
+16Th St	Huntington Beach	92648-8415 
+16Th St	Huntington Beach	92648-8416 
+16Th St	Huntington Beach	92648-8417 
+16Th St	Huntington Beach	92648-8418 
+16Th St	Huntington Beach	92648-8419 
+16Th St	Huntington Beach	92648-8424 
+16Th St	Huntington Beach	92648-8431 
+16Th St	Kerman	93630
+16Th St	Los Osos	93402
+16Th St	Modesto	95354
+16Th St	Montara	94037
+16Th St	Montara	94038
+16Th St	National City	91950
+16Th St	Oceano	93445
+16Th St	Oroville	95965
+16Th St	Paso Robles	93446
+16Th St	Ramona	92065
+16Th St	Redlands	92373
+16Th St	Reedley	93654
+16Th St	Richmond	94801
+16Th St	Rio Linda	95673
+16Th St	Sacramento	95811
+16Th St	Sacramento	95814
+16Th St	Sacramento	95818
+16Th St	Sacramento	95822
+16Th St	San Diego	92101
+16Th St	San Diego	92113
+16Th St	San Diego	92154
+16Th St	San Francisco	94103
+16Th St	San Francisco	94107
+16Th St	San Francisco	94114
+16Th St	San Francisco	94116
+16Th St	San Francisco	94158
+16Th St	San Miguel	93451
+16Th St	San Pablo	94806
+16Th St	Santa Rosa	95404
+16Th St	Seal Beach	90740
+16Th St	Westminster	92683
+16Th St	Yucaipa	92399
+16Th St & Laurel Avenue	Pacific Grove	93950
+16Th Street	Beale Afb	95903
+16Th Street	City Of Marysville	95901
+16Th Street	Hermosa Beach	90254
+16Th Street	Los Angeles	90015
+16Th Street	Los Angeles	90021
+16Th Street	Los Angeles	90023
+16Th Street	Manhattan Beach	90266
+16Th Street	Merced	95348
+16Th Street	Newhall	91321
+16Th Street	Pacific Grove	93950
+16Th Street	Santa Monica	90402
+16Th Street	Santa Monica	90403
+16Th Street	Santa Monica	90404
+16Th Street	Santa Monica	90405
+16Th Street	West Sacramento	95691
+16Th Street East	Lancaster	93535
+16Th Street East	Palmdale	93550
+16Th Street West	Lancaster	93534
+16Th Street West	Palmdale	93551

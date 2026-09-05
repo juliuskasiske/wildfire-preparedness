@@ -1,0 +1,21 @@
+S 8Th	Brawley	92227
+S 8Th	El Centro	92243
+S 8Th Ave	El Centro	92243
+S 8Th Ct	El Centro	92243
+S 8Th Dr	Brawley	92227
+S 8Th Dr	El Centro	92243
+S 8Th Rd	El Centro	92243
+S 8Th St	Banning	92220
+S 8Th St	Brawley	92227
+S 8Th St	Chowchilla	93610
+S 8Th St	Colton	92324
+S 8Th St	El Centro	92243
+S 8Th St	Fowler	93625
+S 8Th St	Grover Beach	93433
+S 8Th St	Kerman	93630
+S 8Th St	Patterson	95363
+S 8Th St	Richmond	94804
+S 8Th St	San Jose	95112
+S 8Th St	San Jose	95112-3947
+S 8Th St	Shandon	93461
+S 8Th St  811 817 W Bright	El Centro	92243

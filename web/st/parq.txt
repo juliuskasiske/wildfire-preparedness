@@ -1,0 +1,13 @@
+Parque Cabana	Rohnert Park	94928
+Parque Dr	Chico	95926
+Parque Dr	San Francisco	94134
+Parque Fuente	Rohnert Park	94928
+Parque Margarita	Rohnert Park	94928
+Parque Playa	Rohnert Park	94928
+Parque Recrero	Rohnert Park	94928
+Parque Vanowen Way	Van Nuys	91406
+Parque Vista Way	Carmichael	95608
+Parque Way	Sacramento	95835
+Parquet Ct	San Jose	95124
+Parquet St	Sebastopol	95472
+Parquet Way	Turlock	95382

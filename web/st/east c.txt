@@ -1,0 +1,412 @@
+East C Street	Dixon	95620
+East C Street	Wilmington	90744
+East Cable Avenue	Earlimart	93219
+East Cade Street	Long Beach	90805
+East Cadwell Street	La Puente	91744
+East Cajon Circle	West Covina	91791
+East Calabria Drive	Glendora	91741
+East Calaveras Street	Altadena	91001
+East Calbas Street	Carson	90745
+East Calderwood Street	Long Beach	90815
+East Caldwell Avenue	Visalia	93277
+East Caldwell Avenue	Visalia	93292
+East Caldwell Street	Compton	90220
+East Caldwell Street	Compton	90221
+East Calico Drive	West Covina	91791
+East Califon Street	Carson	90745
+East California Avenue	Glendale	91203
+East California Avenue	Glendale	91206
+East California Avenue	Venice	90291
+East California Boulevard	Pasadena	91101
+East California Boulevard	Pasadena	91105
+East California Boulevard	Pasadena	91106
+East California Boulevard	Pasadena	91107
+East California Boulevard	Pasadena	91125
+East California Boulevard	Pasadena	91126
+East California Boulevard	San Marino	91108
+East Callahan Road	Etna	96014
+East Callahan Road	Etna	96027
+East Calle Aurora	Rowland Heights	91748
+East Calle Baja Drive	West Covina	91792
+East Callita Street	San Gabriel	91775
+East Calora Street	Covina	91722
+East Calora Street	Covina	91724
+East Calstock Street	Carson	90746
+East Cambridge Avenue	Visalia	93277
+East Cambridge Avenue	Visalia	93292
+East Cambridge Court	Visalia	93292
+East Cambridge Street	Long Beach	90805
+East Camden Street	Glendora	91740
+East Camelia Avenue	Earlimart	93219
+East Cameo Vista Drive	West Covina	91791
+East Cameron Avenue	Covina	91724
+East Cameron Avenue	Visalia	93277
+East Cameron Avenue	Visalia	93292
+East Cameron Avenue	West Covina	91790
+East Cameron Avenue	West Covina	91791
+East Cameron Place	Long Beach	90807
+East Camino Bello	Rowland Heights	91748
+East Camino Grove Avenue	Arcadia	91006
+East Camino Real	Arcadia	91006
+East Camino Real	Duarte	91010
+East Camino Real	Los Angeles	90065
+East Camino Real	Monrovia	91016
+East Camino Real Avenue	Arcadia	91006
+East Camino Real Avenue	Arcadia	91007
+East Camino Real Street	Duarte	91010
+East Camp Rd	Williams	95987
+East Camper Drive	West Covina	91792
+East Campo Walk	Long Beach	90803
+East Campton Street	West Covina	91792
+East Campus Court	Visalia	93292
+East Cancion Court	Los Angeles	90033
+East Candace Lane	La Habra	90631
+East Candler Court	Walnut	91789
+East Cannery Street	San Pedro	90731
+East Cannon Avenue	Earlimart	93219
+East Cannon Avenue	San Dimas	91773
+East Cantel Street	Long Beach	90815
+East Canterbury Dr	San Diego	92116
+East Canton Street	Long Beach	90806
+East Canton Street	Long Beach	90815
+East Canton Street	Signal Hill	90755
+East Canyon Ct	Wrightwood	92397
+East Canyon Dr	Wrightwood	92397
+East Canyon Ridge Lane	Walnut	91789
+East Capella Avenue	La Habra	90631
+East Carburton Street	Long Beach	90808
+East Cardella Road	Merced	95340
+East Cardinal Avenue	Earlimart	93219
+East Cardinal Street	Los Angeles	90031
+East Cardoza Avenue	Tulare	93274
+East Carita Street	Long Beach	90808
+East Carleton Avenue	Los Angeles	90065
+East Carlin Avenue	Compton	90221
+East Carlin Avenue	Compton	90222
+East Carlin Avenue	Lynwood	90262
+East Carlisle Road	Westlake Village	91361
+East Carlota Boulevard	Los Angeles	90042
+East Carlton Avenue	West Covina	91790
+East Carmel Valley Road	Carmel Valley	93924
+East Carmela Lane	La Habra	90631
+East Carmelo Avenue	Tulare	93274
+East Carnegie Street	Los Angeles	90032
+East Carol Avenue	Pixley	93256
+East Carrington Drive	La Mirada	90638
+East Carroll Avenue	Glendora	91741
+East Carson Avenue	Tulare	93274
+East Carson Mesa Road	Palmdale	93550
+East Carson Plaza Court	Carson	90746
+East Carson Plaza Drive	Carson	90746
+East Carson Street	Carson	90745
+East Carson Street	Culver City	90232
+East Carson Street	Lakewood	90712
+East Carson Street	Lakewood	90713
+East Carson Street	Long Beach	90807
+East Carson Street	Long Beach	90808
+East Carson Street	Long Beach	90810
+East Carson Street	Torrance	90502
+East Cartagena Street	Long Beach	90807
+East Carter Avenue	Sierra Madre	91024
+East Carter Drive	Glendora	91740
+East Carter Drive	Los Angeles	90032
+East Cartmill Avenue	Tulare	93274
+East Casa Grande Drive	West Covina	91791
+East Casa Linda Drive	West Covina	91791
+East Casad Avenue	Covina	91723
+East Casad Avenue	West Covina	91790
+East Cashdan Street	Carson	90746
+East Cashdan Street	Compton	90220
+East Casita Street	Azusa	91702
+East Cassatt Street	Los Angeles	90032
+East Cassidy Street	Carson	90746
+East Cast Avenue	Visalia	93292
+East Castle Street	Mount Shasta	96067
+East Castlebar Drive	Rowland Heights	91748
+East Castlecrest Drive	Visalia	93292
+East Castleman Avenue	Los Angeles	90032
+East Castleview Drive	Visalia	93292
+East Catalina Lane	Carson	90745
+East Catalpa Street	Los Angeles	90032
+East Cathie Court	Visalia	93292
+East Cato Street	Los Angeles	90032
+East Cavanagh Road	Los Angeles	90032
+East Cazador Street	Los Angeles	90065
+East Cecelia Street	West Covina	91792
+East Cecil Avenue	Visalia	93292
+East Cecil Court	Visalia	93292
+East Cedar Avenue	Burbank	91501
+East Cedar Avenue	Burbank	91502
+East Cedar Avenue	Earlimart	93219
+East Cedar Avenue	Tulare	93274
+East Cedar Street	Compton	90220
+East Cedar Street	Exeter	93221
+East Cedar Street	Lynwood	90262
+East Cedar Turn Street	Long Beach	90805
+East Cedarbrook Street	West Covina	91790
+East Cedarcreek Lane	Cerritos	90703
+East Center Avenue	Earlimart	93219
+East Center Avenue	Visalia	93291
+East Center Avenue	Visalia	93292
+East Center Court	Visalia	93292
+East Center Street	Covina	91723
+East Center Street	Pomona	91767
+East Center Street	Yreka	96097
+East Centerview Drive	Carson	90746
+East Central Ave	Morgan Hill	95037
+East Central Avenue	Irwindale	91010
+East Central Avenue	Monrovia	91016
+East Central Avenue	San Gabriel	91776
+East Centralia Street	Lakewood	90715
+East Centralia Street	Long Beach	90808
+East Century Boulevard	Los Angeles	90002
+East Century Boulevard	Los Angeles	90003
+East Cerritos Avenue	Glendale	91205
+East Cerritos Avenue	Tulare	93274
+East Cervato Street	Long Beach	90815
+East Cesar E Chavez Avenue	Los Angeles	90012
+East Cesar E Chavez Avenue	Los Angeles	90022
+East Cesar E Chavez Avenue	Los Angeles	90033
+East Cesar E Chavez Avenue	Los Angeles	90063
+East Chadley Street	Covina	91722
+East Chadmont Street	Covina	91722
+East Chanda Court	Long Beach	90813
+East Chandler Street	Wilmington	90744
+East Channel Road	Benicia	94510
+East Channel Road	Santa Monica	90402
+East Chapman Avenue	Tulare	93274
+East Charles Willard Street	Carson	90746
+East Charles Willard Street	Compton	90220
+East Charlinda Street	West Covina	91790
+East Charlinda Street	West Covina	91791
+East Charlotte Street	Los Angeles	90033
+East Charron Place	Compton	90220
+East Chase Avenue	Porterville	93257
+East Chase Dr	Corona	92881
+East Chavez Avenue	Visalia	93291
+East Chelsea Court	Visalia	93292
+East Cheriton Drive	Carson	90746
+East Cherry Avenue	Monrovia	91016
+East Cherry Avenue	Visalia	93292
+East Cherry Blossom Lane	La Puente	91744
+East Cherry Court	Visalia	93277
+East Cherry Industrial Circle	Long Beach	90805
+East Cheryl Lane	Tulare	93274
+East Chester Road	Covina	91723
+East Chestnut Avenue	Monrovia	91016
+East Chestnut Avenue	Pixley	93256
+East Chestnut Avenue	San Gabriel	91776
+East Chestnut Avenue	Tulare	93274
+East Chestnut Avenue	Visalia	93292
+East Chestnut Court	Visalia	93277
+East Chestnut Court	Visalia	93292
+East Chestnut Court	Walnut	91789
+East Chestnut Street	Dixon	95620
+East Chestnut Street	Exeter	93221
+East Chestnut Street	Glendale	91204
+East Chestnut Street	Glendale	91205
+East Chevy Chase Circle	Tulare	93274
+East Chevy Chase Drive	Glendale	91204
+East Chevy Chase Drive	Glendale	91205
+East Chevy Chase Drive	Glendale	91206
+East Chevy Chase Drive	Los Angeles	90039
+East Chevy Chase Drive	Tulare	93274
+East Childs Avenue	Le Grand	95333
+East Childs Avenue	Merced	95340
+East Childs Avenue	Merced	95341
+East Childs Avenue	Planada	95365
+East Christy Street	Cerritos	90703
+East Church Street	Los Angeles	90042
+East Churchill Street	Montague	96064
+East Cienega Avenue	Covina	91722
+East Cienega Avenue	Covina	91724
+East Cincinnati Street	Los Angeles	90033
+East Citrus Drive	Farmersville	93221
+East Citrus Drive	Farmersville	93223
+East Citrus Place	La Puente	91744
+East Citrus Street	Lindsay	93247
+East City View Avenue	Los Angeles	90033
+East Claiborne Drive	Long Beach	90807
+East Claiborne Place	Long Beach	90807
+East Claraday Street	Glendora	91740
+East Claremont Street	Pasadena	91103
+East Claremont Street	Pasadena	91104
+East Clarence Street	Exeter	93221
+East Clarendon Street	Los Angeles	90022
+East Clarion Drive	Carson	90745
+East Clarion Street	Carson	90745
+East Clarkgrove Street	Hacienda Heights	91745
+East Claude Street	Carson	90746
+East Clausen Road	Turlock	95380
+East Clay Avenue	Earlimart	93219
+East Cleland Avenue	Los Angeles	90065
+East Cleland Place	Los Angeles	90065
+East Clementina St	San Francisco	94105
+East Clemmer Drive	Compton	90221
+East Cleo Avenue	Porterville	93257
+East Clermont Street	Los Angeles	90065
+East Cleveland Avenue	Montebello	90640
+East Cleveland Avenue	Porterville	93257
+East Cleveland Road	El Nido	95317
+East Cliff	Santa Cruz	95062
+East Clifton Street	Los Angeles	90031
+East Climber Drive	Walnut	91789
+East Clinton Avenue	Atwater	95301
+East Cloverbrook Street	Carson	90745
+East Cloverdale Avenue	Los Angeles	90016
+East Cloverland Drive	Covina	91724
+East Clovermead Street	Covina	91722
+East Cloverton Street	Covina	91724
+East Cochran Rd	Mckinleyville	95519
+East Cocoa Street	Compton	90220
+East Cocoa Street	Compton	90221
+East Coelho Avenue	Tulare	93274
+East Cog Hill Drive	Whittier	90601
+East Colden Avenue	Los Angeles	90002
+East Colden Avenue	Los Angeles	90003
+East Coleridge Drive	Pasadena	91107
+East Colfax Court	La Habra	90631
+East Collamer Drive	Carson	90746
+East Colleen Court	Tulare	93274
+East College Avenue	Porterville	93257
+East College Avenue	Tulare	93274
+East College Avenue	Visalia	93292
+East College Court	Visalia	93292
+East College Lane	Dinuba	93618
+East College Plaza	Pomona	91766
+East College Street	Covina	91723
+East College Street	Los Angeles	90012
+East College Way	Claremont	91711
+East Colombero Drive	Mccloud	96057
+East Colon Street	Wilmington	90744
+East Colonia De Las Rosas	Los Angeles	90022
+East Colonia De Los Pinos	Los Angeles	90022
+East Colonial Circle	Tulare	93274
+East Colorado Avenue	Glendora	91740
+East Colorado Boulevard	Arcadia	91006
+East Colorado Boulevard	Monrovia	91016
+East Colorado Boulevard	Pasadena	91101
+East Colorado Boulevard	Pasadena	91103
+East Colorado Boulevard	Pasadena	91105
+East Colorado Boulevard	Pasadena	91106
+East Colorado Boulevard	Pasadena	91107
+East Colorado Street	Fairfield	94533
+East Colorado Street	Glendale	91205
+East Colorado Street	Long Beach	90803
+East Colorado Street	Long Beach	90814
+East Columbia Avenue	Pomona	91767
+East Columbia Street	Long Beach	90806
+East Columbia Way	Lancaster	93535
+East Colver Place	Covina	91724
+East Comet Road	Gustine	95322
+East Comity Circle	La Habra	90631
+East Commercial Street	Los Angeles	90012
+East Commercial Street	Pomona	91767
+East Commercial Street	Pomona	91768
+East Commercial Street	San Dimas	91773
+East Commercial Way	La Habra	90631
+East Commonwealth Avenue	Alhambra	91801
+East Commonwealth Avenue	Venice	90291
+East Compton Avenue	Pixley	93256
+East Compton Boulevard	Compton	90220
+East Compton Boulevard	Compton	90221
+East Compton Boulevard	Gardena	90248
+East Compton Boulevard	Paramount	90723
+East Comstock Avenue	Glendora	91741
+East Conant Street	Long Beach	90808
+East Concord Avenue	Los Angeles	90032
+East Cone Avenue	Merced	95341
+East Connelly Avenue	Visalia	93292
+East Continental Avenue	Tulare	93274
+East Converse Street	Los Angeles	90032
+East Conway Court	Visalia	93292
+East Coolidge Street	Long Beach	90805
+East Cooper Avenue	Los Angeles	90042
+East Cooper Avenue	Tipton	93272
+East Copper Avenue	Visalia	93292
+East Copper Court	Visalia	93292
+East Copper Hill Road	Hacienda Heights	91745
+East Coralite Street	Long Beach	90808
+East Coringa Drive	Los Angeles	90042
+East Corso Di Napoli	Long Beach	90803
+East Corson Street	Pasadena	91101
+East Corson Street	Pasadena	91106
+East Corson Street	Pasadena	91107
+East Cortez Street	Macdoel	96058
+East Cortez Street	West Covina	91791
+East Corto Place	Long Beach	90803
+East Cossacks Place	Glendora	91741
+East Costa Blanca Avenue	La Habra	90631
+East Costner Street	Farmersville	93223
+East Cottonwood Street	Farmersville	93223
+East Country Avenue	Visalia	93277
+East Country Avenue	Visalia	93292
+East Country Court	Visalia	93292
+East Country Hills Drive	Fullerton	92835
+East Country Hills Drive	La Habra	90631
+East Country Hollow Drive	Walnut	91789
+East Country Lane	La Habra	90631
+East County Dr	El Cajon	92021
+East County Road	Pomona	91766
+East Court	Dixon	95620
+East Court Avenue	Pixley	93256
+East Court Dr	Twentynine Palms	92277
+East Court Street	Visalia	93292
+East Cove Pl	Encinitas	92024
+East Covell Boulevard	Davis	95616
+East Covell Boulevard	Davis	95618
+East Covina Boulevard	Covina	91722
+East Covina Boulevard	Covina	91724
+East Covina Hills Road	Covina	91724
+East Crabtree Avenue	Porterville	93257
+East Craiglee Circle	West Covina	91791
+East Cramer Street	Long Beach	90808
+East Crary Street	Pasadena	91104
+East Crary Street	Pasadena	91107
+East Crawford Ranch Rd	Hopland	 
+East Creek Ct	Eastvale	92880
+East Creekside Circle	Dixon	95620
+East Crescent Street	Los Angeles	90042
+East Crest Circle	Long Beach	90808
+East Crest Lane	Walnut	91789
+East Crest Road	Palos Verdes Peninsula	90274
+East Cresta Verde Drive	Whittier	90601
+East Crestline Drive	Walnut	91789
+East Creston Avenue	Signal Hill	90755
+East Crestwood Avenue	Woodlake	93286
+East Crestwood Way	Los Angeles	90042
+East Criss Road	Macdoel	96058
+East Cristi Lane	La Habra	90631
+East Crocus Drive	La Puente	91744
+East Cross Avenue	Tulare	93274
+East Cruces Street	Wilmington	90744
+East Crystal Court	Arcadia	91006
+East Crystal Cove Ter	San Francisco	94134
+East Ct	Gilroy	95020
+East Ct	Novato	94945
+East Ct	Petaluma	94952
+East Ct	Richmond	94806
+East Ct	San Anselmo	94960
+East Ct	San Jose	95116
+East Culver Boulevard	Los Angeles	90066
+East Culver Boulevard	Playa Del Rey	90293
+East Cummings Lane	Long Beach	90805
+East Curry Street	Long Beach	90805
+East Curtis Court	Glendora	91741
+East Cypress Ave	Tulare	93274
+East Cypress Avenue	Burbank	91501
+East Cypress Avenue	Burbank	91502
+East Cypress Avenue	Glendora	91741
+East Cypress Avenue	Monrovia	91016
+East Cypress Avenue	Tulare	93274
+East Cypress Avenue	Visalia	93277
+East Cypress Avenue	Visalia	93292
+East Cypress Street	Compton	90220
+East Cypress Street	Compton	90221
+East Cypress Street	Covina	91722
+East Cypress Street	Covina	91723
+East Cypress Street	Covina	91724
+East Cypress Street	Glendale	91205
+East Cypress Street	Irwindale	91706
+East Cyrene Drive	Carson	90746
+East Cyrene Street	Carson	90746

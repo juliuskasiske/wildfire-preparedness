@@ -1,0 +1,22 @@
+N 7 1/2 Ave	Kingsburg	93631
+N 7Th	Brawley	92227
+N 7Th	El Centro	92243
+N 7Th & 689 691 El C Dr	El Centro	92243
+N 7Th Ave	Barstow	92311
+N 7Th Ave	Kingsburg	93631
+N 7Th St	Banning	92220
+N 7Th St	Biola	93606
+N 7Th St	Blythe	92225
+N 7Th St	Brawley	92227
+N 7Th St	Burbank	91501
+N 7Th St	Chowchilla	93610
+N 7Th St	Coalinga	93210
+N 7Th St	Colton	92324
+N 7Th St	El Centro	92243
+N 7Th St	Fowler	93625
+N 7Th St	Fresno	93703
+N 7Th St	Grover Beach	93433
+N 7Th St	Patterson	95363
+N 7Th St	Sacramento	95811
+N 7Th St	San Jose	95112
+N 7Th Way	El Centro	92243

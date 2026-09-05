@@ -1,0 +1,84 @@
+La Ladera Rd	Hope Ranch	93110
+La Ladera Rd	Menifee	92584
+La Lanne Ct	Los Altos Hills	94022
+La Lanza Ct	Rancho Cucamonga	91701
+La Larga Vista	Spring Valley	91977
+La Lata Dr	Buellton	93427
+La Lata Pl	Buellton	93427
+La Leeta Ct	Sacramento	95864
+La Leita Ct	Chico	95928
+La Lema Ct	Rancho Cucamonga	91701
+La Lena	Felton	95018
+La Lila Ln	Fountain Valley	92708
+La Lima St	Fountain Valley	92708
+La Lima Way	Sacramento	95833
+La Limonar Rd	North Tustin	92705
+La Linda Ave	Fountain Valley	92708
+La Linda Cir	Garden Grove	92841
+La Linda Ct	Newport Beach	92660
+La Linda Ct	Turlock	95380
+La Linda Dr	San Marcos	92078
+La Linda Drive	Long Beach	90806
+La Linda Drive	Long Beach	90807
+La Linda Ln	Chico	95926
+La Linda Pl	Newport Beach	92660
+La Lindura Drive	Whittier	90603
+La Linia Ave	Atascadero	93422
+La Lita Ln	Mission Viejo	92692
+La Lita Ln	Santa Barbara	93105
+La Lita Ln	Temecula	92592
+La Loma	Somis	93066
+La Loma Ave	Berkeley	94708
+La Loma Ave	Berkeley	94709
+La Loma Ave	Modesto	95354
+La Loma Ave	Morro Bay	93442
+La Loma Ave	Somis	93066
+La Loma Avenue	Palmdale	93551
+La Loma Ct	Los Altos Hills	94022
+La Loma Ct	Roseville	95678
+La Loma Ct	San Luis Obispo	93405
+La Loma Ct	San Rafael	94901
+La Loma Dr	Los Altos	94022
+La Loma Dr	Los Altos Hills	94022
+La Loma Dr	Menlo Park	94025
+La Loma Dr	Nipomo	93444
+La Loma Dr	North Tustin	92705
+La Loma Dr	Rancho Cordova	95670
+La Loma Dr	Redlands	92373
+La Loma Dr	Sacramento	95670
+La Loma Dr	San Marcos	92078
+La Loma Dr	Somis	93066
+La Loma Ln	Burlingame	94010
+La Loma Ln	Corona	92879
+La Loma Pl	Ful	92835
+La Loma Pl	Fullerton	92835
+La Loma Pl	Riverside	92503
+La Loma Rd	North Tustin	92705
+La Loma Road	Glendale	91206
+La Loma Road	Los Angeles	90041
+La Loma Road	Merced	95340
+La Loma Road	Pasadena	91105
+La Loma Serena	Vista	92084
+La Loma Way	Oroville	95966
+La Loma Way	Palermo	95966
+La Loma Wy	Santa Barbara Unincorporated	93110
+La Lomita	Thousand Oaks	91320
+La Lomita Dr	Escondido	92026
+La Lomita Way	San Luis Obispo	93401
+La Londe Ln	Napa	94558
+La Luna	Ojai	93023
+La Luna Ave	Fountain Valley	92708
+La Luna Ave	Murrieta	92563
+La Luna Ave	Ojai	93023
+La Luna Ave	Twentynine Palms	92277
+La Luna Cir	Fontana	92337
+La Luna Ct	Citrus Heights	95621
+La Luna Ct	Rancho Cucamonga	91701
+La Luna Ct	San Luis Obispo	93405
+La Luna Dr	La Palma	90623
+La Luna Dr	Ojai	93023
+La Luna Rd	Ojai	93023
+La Luna Way	Pomona	91767
+La Lune Ave	Murrieta	92563
+La Luz Rd	Atascadero	93422
+La Luz Terrace	Palmdale	93551

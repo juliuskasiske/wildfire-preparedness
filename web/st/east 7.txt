@@ -1,0 +1,45 @@
+East 70Th Street	Long Beach	90805
+East 70Th Street	Los Angeles	90001
+East 70Th Street	Los Angeles	90003
+East 70Th Street	Paramount	90723
+East 70Th Way	Long Beach	90805
+East 71St Street	Long Beach	90805
+East 71St Street	Los Angeles	90001
+East 71St Street	Los Angeles	90003
+East 71St Way	Long Beach	90805
+East 72Nd Street	Long Beach	90805
+East 72Nd Street	Paramount	90723
+East 73Rd Street	Los Angeles	90001
+East 73Rd Street	Los Angeles	90003
+East 74Th Street	Los Angeles	90001
+East 74Th Street	Los Angeles	90003
+East 75Th Street	Los Angeles	90001
+East 75Th Street	Los Angeles	90003
+East 76Th Place	Los Angeles	90001
+East 76Th Place	Los Angeles	90003
+East 76Th Street	Los Angeles	90001
+East 76Th Street	Los Angeles	90003
+East 77Th Place	Los Angeles	90001
+East 77Th Place East	Los Angeles	90001
+East 77Th Street	Los Angeles	90001
+East 77Th Street	Los Angeles	90003
+East 78Th Street	Los Angeles	90001
+East 78Th Street	Los Angeles	90003
+East 79Th Place	Los Angeles	90001
+East 79Th Street	Los Angeles	90001
+East 79Th Street	Los Angeles	90003
+East 7Th Place	Los Angeles	90021
+East 7Th Street	Benicia	94510
+East 7Th Street	Claremont	91711
+East 7Th Street	Long Beach	90802
+East 7Th Street	Long Beach	90803
+East 7Th Street	Long Beach	90804
+East 7Th Street	Long Beach	90813
+East 7Th Street	Long Beach	90814
+East 7Th Street	Long Beach	90815
+East 7Th Street	Long Beach	90822
+East 7Th Street	Long Beach	90840
+East 7Th Street	Los Angeles	90014
+East 7Th Street	Los Angeles	90021
+East 7Th Street	Los Angeles	90023
+East 7Th Street	Pomona	91766

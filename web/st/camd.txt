@@ -1,0 +1,99 @@
+Camdem Dr	Indio	92203
+Camden	Irvine	92620
+Camden	Lake Forest	92630
+Camden	Lake Forest	92630-0000
+Camden	Lake Forest	92630-6591
+Camden	Mission Viejo	92692
+Camden	Soquel	95065
+Camden Ave	Campbell	95008
+Camden Ave	Campbell	95124
+Camden Ave	Chino Hills	91709
+Camden Ave	Lakeport	95453
+Camden Ave	San Jose	95008
+Camden Ave	San Jose	95118
+Camden Ave	San Jose	95120
+Camden Ave	San Jose	95124
+Camden Ave	San Mateo	94403
+Camden Avenue	Los Angeles	90025
+Camden Avenue	Los Angeles	90064
+Camden Avenue	South Pasadena	91030
+Camden Cir	Carlsbad	92008
+Camden Cir	Citrus Heights	95621
+Camden Cir	La Palma	90623
+Camden Cir	Murrieta	92563
+Camden Cir	San Diego	92127
+Camden Cir	Villa Park	92861
+Camden Court	Beale Afb	95903
+Camden Court	Benicia	94510
+Camden Court	Fairfield	94533
+Camden Court	Palmdale	93551
+Camden Court	Palmdale	93552
+Camden Court	Vacaville	95687
+Camden Court	Vallejo	94591
+Camden Ct	Anderson	96007
+Camden Ct	Brentwood	94513
+Camden Ct	Carmichael	95608
+Camden Ct	Chico	95973
+Camden Ct	Corona	92879
+Camden Ct	El Cajon	92020
+Camden Ct	Fontana	92336
+Camden Ct	Granite Bay	95746
+Camden Ct	Hemet	92545
+Camden Ct	Laguna Niguel	92677
+Camden Ct	Lemoore	93245
+Camden Ct	Moorpark	93021
+Camden Ct	Newport Beach	92657
+Camden Ct	Perris	92571
+Camden Ct	Redlands	92374
+Camden Ct	San Ramon	94582
+Camden Ct	Santa Rosa	95405
+Camden Ct	Simi Valley	93065
+Camden Ct	Temecula	92591
+Camden Ct	Yorba Linda	92887
+Camden Dr	Cypress	90630
+Camden Dr	Indio	92203
+Camden Dr	Madera	93638
+Camden Dr	Modesto	95355
+Camden Dr	Newport Beach	92625
+Camden Dr	North Tustin	92705
+Camden Dr	Pla	92870
+Camden Dr	Placentia	92870
+Camden Dr	Santee	92071
+Camden Dr	Vista	92081
+Camden Lake Way	Elk Grove	95624
+Camden Lane	Cerritos	90703
+Camden Ln	Corona	92882
+Camden Ln	Hercules	94547
+Camden Ln	Santa Maria	93454
+Camden Ln	Ventura	93001
+Camden Ln	Victorville	92392
+Camden Mdws	Garden Grove	92844
+Camden Oak Ct	Bakersfield	93311
+Camden Oaks Ct	San Jose	95124
+Camden Parkway	South Pasadena	91030
+Camden Pl	Fullerton	92833
+Camden Pl	Goleta	93117
+Camden Pl	Laguna Beach	92651
+Camden Pl	Manteca	95336
+Camden Pl	San Diego	92131
+Camden Pl	San Marcos	92069
+Camden Place	Rowland Heights	91748
+Camden Place	Valencia	91354
+Camden Rd	Rocklin	95765
+Camden Rd	San Jacinto	92582
+Camden St	Apple Valley	92308
+Camden St	Bakersfield	93306
+Camden St	Hollister	95023
+Camden St	Riverside	92506
+Camden Village Cir	San Jose	95124
+Camden Village Ct	San Jose	95124
+Camden Village Way	San Jose	95124
+Camden Vista Ct	Simi Valley	93065
+Camden Way	Lancaster	93536
+Camden Way	Madera	93637
+Camden Way	Menifee	92586
+Camden Way	Salinas	93901
+Camden Way	Stanton	90680
+Camden Way	Tustin	92782
+Camden Way	Yuba City	95991
+Camden Yards Way	El Cajon	92020

@@ -1,0 +1,200 @@
+Tay Way	Sacramento	95826
+Tayberry Ln	Brentwood	94513
+Tayles Point Rd	Big Bear Lake	92315
+Taylop Dr	Palm Springs	92262
+Taylor	Ben Lomond	95005
+Taylor	Calexico	92231
+Taylor	Felton	95018
+Taylor	Irvine	92620
+Taylor	Lake Elsinore	92530
+Taylor	Palm Desert	92260
+Taylor	Santa Cruz	95060
+Taylor	Santa Cruz	95062
+Taylor	Watsonville	95076
+Taylor Ave	Bloomington	92316
+Taylor Ave	Corona	92882
+Taylor Ave	Durham	95938
+Taylor Ave	Escondido	92027
+Taylor Ave	Fontana	92335
+Taylor Ave	Hayward	94544
+Taylor Ave	Hesperia	92344
+Taylor Ave	Morgan Hill	95037
+Taylor Ave	Palm Desert	92260
+Taylor Ave	Salton City	92274
+Taylor Ave	San Bruno	94066
+Taylor Ave	Santa Rosa	95407
+Taylor Ave	Woodacre	94973
+Taylor Avenue	Le Grand	95333
+Taylor Avenue	Vallejo	94591
+Taylor Avenue	Yreka	96097
+Taylor Blvd	Lafayette	94549
+Taylor Blvd	Millbrae	94030
+Taylor Blvd	Pleasant Hill	94523
+Taylor Canyon Pl	Rancho Cucamonga	91739
+Taylor Cir	Garden Grove	92845
+Taylor Court	Santa Clarita	91390
+Taylor Court	Torrance	90504
+Taylor Court Ct	Imperial	92251
+Taylor Court Rd	Imperial	92251
+Taylor Creek Road	Forks Of Salmon	96031
+Taylor Crossing Road	Grass Valley	95949
+Taylor Ct	Arcata	95521
+Taylor Ct	Brea	92821
+Taylor Ct	Imperial	92251
+Taylor Ct	Lake Elsinore	92530
+Taylor Ct	Mountain View	94043
+Taylor Ct	Rancho Cucamonga	91701
+Taylor Ct	Redlands	92374
+Taylor Ct	Thousand Oaks	91360
+Taylor Ct	Turlock	95382
+Taylor Ct	Victorville	92392
+Taylor Dr	Beaumont	92223
+Taylor Dr	Brentwood	94513
+Taylor Dr	Fairfax	94930
+Taylor Dr	Huntington Beach	92646
+Taylor Dr	Huntington Beach	92646-1548
+Taylor Dr	Huntington Beach	92646-1549
+Taylor Dr	Huntington Beach	92646-1550
+Taylor Dr	Huntington Beach	92646-1551
+Taylor Dr	Huntington Beach	92648
+Taylor Dr	Huntington Beach	92648-1444
+Taylor Dr	Huntington Beach	92648-1445
+Taylor Dr	Huntington Beach	92648-1446
+Taylor Dr	Huntington Beach	92648-1460
+Taylor Dr	Huntington Beach	92648-1461
+Taylor Dr	Lemoore	93245
+Taylor Dr	Milpitas	95035
+Taylor Dr	Newman	95360
+Taylor Dr	Oceanside	92056
+Taylor Dr	Palm Springs	92262
+Taylor Dr	South San Francisco	94080
+Taylor Dr	Ukiah	 
+Taylor Drive	Claremont	91711
+Taylor Drive	Monterey Park	91755
+Taylor Jean Avenue	Atwater	95301
+Taylor Lane	Dixon	95620
+Taylor Lane	Gardena	90248
+Taylor Lane	Macdoel	96023
+Taylor Ln	Auburn	95603
+Taylor Ln	Barstow	92311
+Taylor Ln	Byron	94514
+Taylor Ln	Colfax	95713
+Taylor Ln	Corte Madera	94925
+Taylor Ln	Fillmore	93015
+Taylor Ln	Larkspur	94939
+Taylor Ln	Madera	93636
+Taylor Ln	Madera	93637
+Taylor Ln	Murrieta	92563
+Taylor Ln	Nuevo	92567
+Taylor Ln	Occidental	95465
+Taylor Ln	Paradise	95969
+Taylor Ln	Placentia	92870
+Taylor Ln	Redding	96001
+Taylor Ln	Temecula	92592
+Taylor Ln	Twentynine Palms	92277
+Taylor Morgan Way	Sacramento	95838
+Taylor Mountain Ct	Oakhurst	93644
+Taylor Mountain Pl	Santa Rosa	95404
+Taylor Mountain Rd	Oakhurst	93644
+Taylor Oak Pl	Fair Oaks	95628
+Taylor Park Rd	Lagunitas	94938
+Taylor Pl	Arroyo Grande	93420
+Taylor Pl	Bethel Island	94511
+Taylor Pl	Escondido	92027
+Taylor Pl	Indio	92203
+Taylor Pl	Laguna Niguel	92677
+Taylor Rd	Bethel Island	94511
+Taylor Rd	Lodi	95242
+Taylor Rd	Loomis	95650
+Taylor Rd	Mckinleyville	95519
+Taylor Rd	Newcastle	95658
+Taylor Rd	Penryn	95663
+Taylor Rd	Perris	92570
+Taylor Rd	Plymouth	95669
+Taylor Rd	Rocklin	95677
+Taylor Rd	Roseville	95661
+Taylor Rd	Roseville	95678
+Taylor Rd	San Francisco	94129
+Taylor Rd	Thousand Palms	92276
+Taylor Rd	Tiburon	94920
+Taylor Rd #A	Loomis	95650
+Taylor Rd #B	Loomis	95650
+Taylor Rd Bldg A	Roseville	95678
+Taylor Rd Bldg B	Roseville	95678
+Taylor Rd Bldg C	Roseville	95678
+Taylor Rd #C	Loomis	95650
+Taylor Rd #D	Loomis	95650
+Taylor Rd Ste 100	Roseville	95661
+Taylor Rd Ste 100	Roseville	95678
+Taylor Rd Ste 110	Roseville	95661
+Taylor Rd Ste 120	Roseville	95661
+Taylor Rd Ste 130	Roseville	95661
+Taylor Rd Ste 150	Roseville	95661
+Taylor Rd Ste 180	Roseville	95678
+Taylor Ridge Rd	North Fork	93643
+Taylor Road	Carmel	93923
+Taylor Road	Strathmore	93267
+Taylor Road	Yuba City	95993
+Taylor St	Adelanto	92301
+Taylor St	Bakersfield	93309
+Taylor St	Bodega Bay	94923
+Taylor St	Buena Park	90621
+Taylor St	Chico	95973
+Taylor St	Crescent City	95531
+Taylor St	Folsom	95630
+Taylor St	Garden Grove	92845
+Taylor St	Indio	92201
+Taylor St	Loma Linda	92350
+Taylor St	Loma Linda	92354
+Taylor St	Madera	93638
+Taylor St	Murrieta	92562
+Taylor St	Napa	94559
+Taylor St	Nord	95973
+Taylor St	Perris	92570
+Taylor St	Riverside	92503
+Taylor St	Roseville	95678
+Taylor St	Sacramento	95838
+Taylor St	San Anselmo	94960
+Taylor St	San Diego	92103
+Taylor St	San Diego	92110
+Taylor St	San Francisco	94102
+Taylor St	San Francisco	94108
+Taylor St	San Francisco	94109
+Taylor St	San Francisco	94133
+Taylor St	San Jose	95002
+Taylor St	San Mateo	94403
+Taylor St	San Rafael	94901
+Taylor St	Ventura	93003
+Taylor St	Vista	92084
+Taylor St	Weaverville	96093
+Taylor St	Winchester	92596
+Taylor St Unit A	Roseville	95678
+Taylor St Unit B	Roseville	95678
+Taylor Street	Fairfield	94533
+Taylor Street	Long Beach	90805
+Taylor Street	Mammoth Lakes	93546
+Taylor Street	Monrovia	91016
+Taylor Street	Monterey	93940
+Taylor Street	Monterey	93944
+Taylor Street	Salinas	93906
+Taylor Street	Winters	95694
+Taylor View Dr	Santa Rosa	95404
+Taylor Village Dr	Loomis	95650
+Taylor Way	Antioch	94531
+Taylor Way	Challenge	95925
+Taylor Way	Costa Mesa	92626
+Taylor Way	El Cajon	92019
+Taylor Way	Phelan	92371
+Taylor Way	Sacramento	95819
+Taylor Way	San Carlos	94070
+Taylor Way	San Diego	92129
+Taylor Way	Tustin	92782
+Taylor Wy	Blue Lake	95521
+Taylor Wy	Tracy	95377
+Taylormade Way	Elk Grove	95757
+Taylors Rd	Thousand Palms	92276
+Taylorville Road	Grass Valley	95949
+Taylynn Ct	Coto De Caza	92679
+Taymouth Way	Gilroy	95020
+Tayside Ct	San Jose	95135
+Taywood Ct	Laguna Niguel	92677

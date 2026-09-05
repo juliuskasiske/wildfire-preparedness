@@ -1,0 +1,161 @@
+E J	Brawley	92227
+E J Ave	Brawley	92227
+E J Blvd	Brawley	92227
+E J Ct	Brawley	92227
+E J Rd	Brawley	92227
+E J St	Brawley	92227
+E J St	Chula Vista	91910
+E J St	Encinitas	92024
+E J St	Oakdale	95361
+E J St	Ontario	91764
+E Jacaranda Ave	Orange	92867
+E Jacaranda Ct	San Bernardino	92404
+E Jacaranda Pl	Mh	95391
+E Jacinto View Rd	Banning	92220
+E Jack Pine Ln	Orange	92869
+E Jackson Ave	Anaheim	92806
+E Jackson Ave	Orange	92867
+E Jackson St	Carson	90810
+E Jackson St	Ione	95640
+E Jackson St	Rialto	92376
+E Jackson St	San Jose	95112
+E Jackson St	Stockton	95205
+E Jackson St	Stockton	95206
+E Jackson St	Whittier	90602
+E Jacob Ln	Santa Maria	93454
+E Jacobs Ct	Oak Park	91377
+E Jacobson Pso	Ontario	91761
+E Jaguar Way	Ontario	91764
+E Jahant Rd	Acampo	95220
+E Jahant Rd	Galt	95632
+E Jala Ct	Santa Maria	93454
+E Jamacha Pl	Whittier	90603
+E James Ct	Chula Vista	91910
+E James Rd	Villa Park	92867
+E James St	Chula Vista	91910
+E James St	Rialto	92376
+E Jameson Rd	Manteca	95336
+E Jamestown Dr	Fresno	93720
+E Jamestown St	Stockton	95207
+E Jamie Ave	La Habra	90631
+E Jamie Ave	Lah	90631
+E Jamie Ct	Acampo	95220
+E Jamie Ct	South San Francisco	94080
+E Jamison St	Anaheim	92806
+E Jane Ct	Upland	91786
+E Jane St	San Bernardino	92404
+E Janelli Ct	Visalia	93292
+E Janine Dr	Whittier	90603
+E Janine Dr	Whittier	90605
+E Janis St	Carson	90746
+E Janison Dr	Whittier	90603
+E Janss Rd	Thousand Oaks	91360
+E Janss Rd	Thousand Oaks	91362
+E Jarvis St	Perris	92571
+E Jasmine Cir	Santa Rosa	95407
+E Jasmine South Dr	Porterville	93257
+E Jason Dr	Anaheim	92805
+E Jason St	Encinitas	92024
+E Jasper Rd	Calexico	92231
+E Jasper Rd	Heber	92249
+E Jasper St	Calexico	92231
+E Java Dr	Sunnyvale	94089
+E Javelin St	Carson	90745
+E Jay St	Carson	90745
+E Jay St	Ontario	91764
+E Jeane Rd	Manteca	95336
+E Jeanette Ln	Santa Ana	92705
+E Jefferson Ave	Del Rey	93616
+E Jefferson Ave	Fresno	93706
+E Jefferson Ave	Fresno	93725
+E Jefferson Ave	Orange	92866
+E Jefferson Ave	Reedley	93654
+E Jefferson Ct	Reedley	93654
+E Jefferson St	Carson	90810
+E Jefferson St	Ontario	91761
+E Jefferson St	Orange	92866
+E Jefferson St	Stockton	95205
+E Jefferson St	Stockton	95206
+E Jefferson Way	Simi Valley	93065
+E Jefferson Wy Way	Simi Valley	93065
+E Jenkins Dr	Whittier	90604
+E Jenny Ave	Fresno	93720
+E Jensen Ave	Fresno	93706
+E Jensen Ave	Fresno	93725
+E Jensen Ave	Fresno	93727
+E Jensen Ave	Fresno	93737
+E Jensen Ave	Fresno	93745
+E Jensen Ave	Sanger	93657
+E Jeronimo Way	Anaheim	92808
+E Jerry Ln	Santa Maria	93454
+E Jersey St	Stockton	95205
+E Jessica St	Thousand Oaks	91320
+E Jewel St	Santa Maria	93454
+E Jimson Ct	Orange	92869
+E Joan D Arc Cir	Orange	92869
+E Joana Dr	Santa Ana	92705
+E Joana Dr	Santa Ana	92706
+E Joaquin Pl	Fresno	93726
+E Jocher Rd	Acampo	95220
+E Jocotal Ave	Villa Park	92867
+E Joel St	Carson	90745
+E John Ball Way	Anaheim	92806
+E John Bangs Dr	Ontario	91761
+E John Matich Dr	Colton	92324
+E John St	Banning	92220
+E John St	Stockton	95205
+E Johns Pl	Mh	95391
+E Johnston	Hemet	92543
+E Johnston Ave	Hemet	92543
+E Johnston Ave	Hemet	92544
+E Johnstown Cir	Anaheim	92807
+E Joiner Pkwy	Lincoln	95648
+E Jojoba Rd	Aguanga	92536
+E Jolson Ave	Fresno	93706
+E Jon Dr	Fresno	93720
+E Jones Rd	Escalon	95320
+E Jones St	Santa Barbara Unincorporated	93454
+E Jones St	Santa Maria	93454
+E Jonquil Rd	Santa Ana	92705
+E Jordan Ave	Fresno	93720
+E Jordan Ave	Orange	92869
+E Joseph Leon Ln	Stockton	95215
+E Joseph Privado	Ontario	91761
+E Josh Ave	Fresno	93706
+E Joshua St	Oak Park	91377
+E Joshua Tree Ave	Orange	92867
+E Joshua Tree Cir	Villa Park	92861
+E Joshua Tree Cir	Villa Park	92867
+E Joshua Tree St	Ontario	91761
+E Journal Privado	Ontario	91764
+E Joy Ave	Fresno	93706
+E Joyal Ct	Fresno	93710
+E Joyce Dr	Fresno	93703
+E Joyce Dr	Palm Springs	92262
+E Joyce Dr	Port Hueneme	93041
+E Juaneno Ave	Orange	92867
+E Juanita Ct	Upland	91786
+E Julia Cir	Hanford	93230
+E Julia Ct	Upland	91784
+E Julia St	San Bernardino	92408
+E Julia Way	Hanford	93230
+E Julian St	San Jose	95110
+E Julian St	San Jose	95112
+E Julian St	San Jose	95112-4074
+E Julian St	San Jose	95112-4082
+E Julian St	San Jose	95116
+E Julianna St	Anaheim	92801
+E Julie Ave	Orange	92869
+E Juliet Rd	Stockton	95205
+E Junction Dr	Manteca	95336
+E June Lake Ln	Fresno	93730
+E Juneglo Dr	Fresno	93727
+E Juniper Av	Lockeford	95237
+E Juniper Ave	Orange	92867
+E Juniper Rd (River Club)	Tracy	95304
+E Juniper St	Oxnard	93033
+E Junipero Serra Blvd	South San Francisco	94080
+E Junipero St	Santa Barbara	93105
+E Jupiter St	Whittier	90603
+E Jurupa St	Ontario	91761
+E Justice Cir	Orange	92869

@@ -1,0 +1,153 @@
+Lexann Ave	San Jose	95121
+Lexar Dr	Ceres	95307
+Lexford	Irvine	92618
+Lexford Ave	San Jose	95124
+Lexham Avenue	South El Monte	91733
+Lexi Ct	San Marcos	92078
+Lexi Ln	Beaumont	92223
+Lexi Ln	Eureka	95503
+Lexi Ln	Redding	96001
+Lexi Ln	Wildomar	92595
+Lexia Ct	Rancho Cordova	95670
+Lexicon Avenue	Sylmar	91342
+Lexicon Place	Sylmar	91342
+Lexie Cir	Huntington Beach	92648
+Lexie Cir	Huntington Beach	92648-5589
+Lexie Ct	Sonora	95370
+Lexington	Irvine	92620
+Lexington	San Diego	92105
+Lexington	Ventura	93003
+Lexington Av	Goleta	93117
+Lexington Av	Manteca	95336
+Lexington Av	San Jose	95123
+Lexington Av	Stockton	95204
+Lexington Ave	Bakersfield	93306
+Lexington Ave	Chino	91710
+Lexington Ave	El Cerrito	94530
+Lexington Ave	Garden Grove	92844
+Lexington Ave	Hayward	94544
+Lexington Ave	Hemet	92545
+Lexington Ave	Indio	92201
+Lexington Ave	Madera	93636
+Lexington Ave	Manteca	95336
+Lexington Ave	Redwood City	94062
+Lexington Ave	San Diego	92105
+Lexington Ave	San Jose	95123
+Lexington Ave	San Mateo	94402
+Lexington Ave	Turlock	95380
+Lexington Ave	Yucca Valley	92284
+Lexington Avenue	Dos Palos	93620
+Lexington Avenue	El Monte	91731
+Lexington Avenue	Los Angeles	90029
+Lexington Avenue	Los Angeles	90038
+Lexington Avenue	Los Angeles	90046
+Lexington Avenue	Los Banos	93635
+Lexington Avenue	Merced	95340
+Lexington Avenue	Montebello	90640
+Lexington Avenue	Pomona	91766
+Lexington Avenue	South Dos Palos	93665
+Lexington Avenue	South El Monte	91733
+Lexington Cir	Carlsbad	92010
+Lexington Cir	Lake Forest	92630
+Lexington Cir	Lake Forest	92630-5835
+Lexington Cir	Loomis	95650
+Lexington Cir	Newport Beach	92660
+Lexington Cir	Oceanside	92057
+Lexington Circle	Cerritos	90703
+Lexington Court	Long Beach	90803
+Lexington Court	Los Banos	93635
+Lexington Court	Marina	93933
+Lexington Court	Palmdale	93552
+Lexington Court	Vacaville	95687
+Lexington Court	Woodland	95695
+Lexington Court	Yuba City	95993
+Lexington Crossing Ln	Sacramento	95842
+Lexington Ct	Antioch	94509
+Lexington Ct	Brentwood	94513
+Lexington Ct	Camarillo	93010
+Lexington Ct	Chino	91710
+Lexington Ct	Crescent City	95531
+Lexington Ct	Hemet	92544
+Lexington Ct	Laguna Niguel	92677
+Lexington Ct	Lincoln	95648
+Lexington Ct	Mckinleyville	95519
+Lexington Ct	Menifee	92586
+Lexington Ct	Napa	94559
+Lexington Ct	Oceanside	92057
+Lexington Ct	San Luis Obispo	93401
+Lexington Ct	Santa Rosa	95401
+Lexington Ct	Saratoga	95070
+Lexington Dr	Chico	95973
+Lexington Dr	Corona	92880
+Lexington Dr	Fullerton	92835
+Lexington Dr	Lodi	95242
+Lexington Dr	Los Alamitos	90720
+Lexington Dr	Menlo Park	94025
+Lexington Dr	Modesto	95350
+Lexington Dr	Monte Sereno	95030
+Lexington Dr	San Jose	95117
+Lexington Dr	Sunnyvale	94087
+Lexington Dr	Ventura	93003
+Lexington Dr	Vista	92084
+Lexington Drive	Castaic	91384
+Lexington Drive	Salinas	93906
+Lexington Drive	Vallejo	94591
+Lexington Gallat Road	South El Monte	91733
+Lexington-Gallatin Road	Pico Rivera	90660
+Lexington-Gallatin Road	South El Monte	91733
+Lexington Hills Dr	Camarillo	93012
+Lexington Hills Rd	Camarillo	93012
+Lexington Lane	Santa Clarita	91350
+Lexington Ln	Costa Mesa	92626
+Lexington Ln	Huntington Beach	92646
+Lexington Ln	Huntington Beach	92646-3700
+Lexington Ln	Huntington Beach	92646-3734
+Lexington Ln	Huntington Beach	92646-3755
+Lexington Ln	Huntington Beach	92646-3756
+Lexington Ln	Huntington Beach	92646-4300
+Lexington Ln	Huntington Beach	92646-4318
+Lexington Ln	Huntington Beach	92646-4322
+Lexington Ln	Huntington Beach	92646-4323
+Lexington Ln	Huntington Beach	92646-4324
+Lexington Ln	Huntington Beach	92646-4334
+Lexington Ln	Redding	96003
+Lexington Ln	Redlands	92374
+Lexington Pl	Gilroy	95020
+Lexington Pl	Rancho Cucamonga	91701
+Lexington Pl	Riverside	92506
+Lexington Pl	San Ramon	94583
+Lexington Pl	Walnut Creek	94597
+Lexington Rd	Concord	94520
+Lexington Rd	Kensington	94707
+Lexington Rd	Temecula	92591
+Lexington Road	Beverly Hills	90210
+Lexington Road	Downey	90241
+Lexington Road	Pico Rivera	90660
+Lexington St	Adelanto	92301
+Lexington St	Brentwood	94513
+Lexington St	Cypress	90630
+Lexington St	Hemet	92545
+Lexington St	Milpitas	95035
+Lexington St	Petaluma	94954
+Lexington St	Sacramento	95815
+Lexington St	San Francisco	94110
+Lexington St	Santa Clara	95050
+Lexington St	Santa Clara	95053
+Lexington St	Stanton	90680
+Lexington St	Tustin	92782
+Lexington Way	Antioch	94509
+Lexington Way	Burlingame	94010
+Lexington Way	Coto De Caza	92679
+Lexington Way	Fairfield	94534
+Lexington Way	Grass Valley	95945
+Lexington Way	Moreno Valley	92555
+Lexington Way	San Bernardino	92407
+Lexington Way	San Bruno	94066
+Lexington Way	Westlake Village	91361
+Lexington Way	Woodland	95695
+Lexington Way	Yuba City	95993
+Lexus Ln	Chico	95926
+Lexus Ln	Fontana	92335
+Lexus Way	Sacramento	95828
+Lexy Ln	Fortuna	95540
+Lexy Street	West Sacramento	95691

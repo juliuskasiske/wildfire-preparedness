@@ -1,0 +1,65 @@
+San Taela Court	Woodland Hills	91364
+San Telmo	Santa Maria	93454
+San Telmo	Santa Maria	93455
+San Telmo Cir	Thousand Oaks	91320
+San Thomas Ct	Murrieta	92562
+San Thomas Ct	Rancho Cucamonga	91739
+San Thomas St	Moreno Valley	92557
+San Thomas Way	Danville	94526
+San Timeteo Cyn Rd	Redlands	92373
+San Timoteo	La Quinta	92253
+San Timoteo	Rancho Santa Margarita	92688
+San Timoteo	Redlands	92373
+San Timoteo Canyon	Redlands	92373
+San Timoteo Canyon Rd	Beaumont	92223
+San Timoteo Canyon Rd	Moreno Valley	92555
+San Timoteo Canyon Rd	Redlands	92373
+San Timoteo Canyon Rd	Sbco	92373
+San Timoteo Cny	Redlands	92373
+San Timoteo Cyn	Calimesa	92320
+San Timoteo Cyn	Redlands	92373
+San Timoteo Cyn Rd	Redlands	92373
+San Timoteo Rd	Redlands	92373
+San Timoteo St	La Quinta	92253
+San Timoteo Walk	Sacramento	95816
+San Tomas	Rancho Santa Margarita	92688
+San Tomas	Watsonville	95076
+San Tomas Aquino Pkwy	San Jose	95117
+San Tomas Aquino Pkwy	San Jose	95130
+San Tomas Aquino Rd	Campbell	95008
+San Tomas Aquino Rd	San Jose	95008
+San Tomas Aquino Rd	San Jose	95117
+San Tomas Aquino Rd	San Jose	95130
+San Tomas Ct	Pittsburg	94565
+San Tomas Ct	San Diego	92128
+San Tomas Ct	San Jose	95130
+San Tomas Ct	San Pablo	94806
+San Tomas Dr	Citrus Heights	95621
+San Tomas Dr	Oceanside	92056
+San Tomas Dr	Pittsburg	94565
+San Tomas Dr	San Diego	92128
+San Tomas Ex	Santa Clara	95050
+San Tomas Ex	Santa Clara	95051
+San Tomas Expy	Santa Clara	95050
+San Tomas Expy	Santa Clara	95051
+San Tomas Ln	Morgan Hill	95037
+San Tomas Pl	San Diego	92128
+San Tomas Pl	San Ramon	94583
+San Tomas St	Desert Hot Springs	92240
+San Tomas St	Sunnyvale	94085
+San Tomas Street	Davis	95618
+San Tomas Street	Fairfield	94533
+San Tomas Way	Salinas	93901
+San Torini Rd	Mission Viejo	92692
+San Tropez Cir	Oxnard	93035
+San Tropez Ct	Chino Hills	91709
+San Tropez Ct	Fontana	92336
+San Tropez Ct	Laguna Beach	92651
+San Tropez Ct	Mission Viejo	92692
+San Tropez Dr	Hollister	95023
+San Tropez Dr	Jurupa Valley	92509
+San Tropez Dr	Salida	95368
+San Tropez Pl	Moorpark	93021
+San Tropez Rd	Jurupa Valley	92509
+San Tropeze Dr	Yucca Valley	92284
+San Tropico Ct	San Jose	95135

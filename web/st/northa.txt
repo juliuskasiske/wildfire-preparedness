@@ -1,0 +1,35 @@
+Northam Ave	San Carlos	94070
+Northam Ave	Thousand Oaks	91320
+Northam Ct	Hemet	92545
+Northam Dr	Antelope	95843
+Northam Dr	Fullerton	92833
+Northam Street	La Mirada	90638
+Northam Street	La Puente	91744
+Northam Street	West Covina	91792
+Northampton Ave	Bakersfield	93314
+Northampton Ave	Berkeley	94707
+Northampton Ave	Cathedral City	92234
+Northampton Ave	Westminster	92683
+Northampton Avenue	Claremont	91711
+Northampton Court	Vacaville	95687
+Northampton Ct	Newman	95360
+Northampton Ct	Newport Beach	92660
+Northampton Ct	Saratoga	95070
+Northampton Dr	American Canyon	94503
+Northampton Dr	Carmichael	95608
+Northampton Dr	Palo Alto	94303
+Northampton Dr	Rancho Cucamonga	91737
+Northampton Dr	San Jose	95124
+Northampton Dr	Saratoga	95070
+Northampton Dr	Windsor	95492
+Northampton Drive	Vacaville	95687
+Northampton Ln	Belmont	94002
+Northampton Ln	Modesto	95356
+Northampton Pl	Coto De Caza	92679
+Northampton St	Cambria	93428
+Northampton Street	Walnut	91789
+Northampton Way	Fullerton	92833
+Northampton Way	Newman	95360
+Northaven Ave	San Diego	92110
+Northaven Dr	Daly City	94015
+Northaven Lane	Altadena	91001

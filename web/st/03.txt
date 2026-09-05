@@ -1,0 +1,19 @@
+03Rd Ave	Chula Vista	91910
+03Rd Ave	Chula Vista	91911
+03Rd Ave	San Diego	92101
+03Rd Ave	San Diego	92103
+03Rd Ave	San Francisco	94118
+03Rd Ave	San Francisco	94122
+03Rd Pl	Escondido	92029
+03Rd St	Coronado	92118
+03Rd St	Encinitas	92024
+03Rd St	Imperial Beach	91932
+03Rd St	Julian	92036
+03Rd St	La Mesa	91941
+03Rd St	Ramona	92065
+03Rd St	San Francisco	94103
+03Rd St	San Francisco	94105
+03Rd St	San Francisco	94107
+03Rd St	San Francisco	94124
+03Rd St	San Francisco	94158
+03S123 Road	Mammoth Lakes	93546

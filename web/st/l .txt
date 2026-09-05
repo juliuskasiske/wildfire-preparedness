@@ -1,0 +1,65 @@
+L Aloutte Way	Sacramento	95831
+L'Ambiance Rd	Indio	92203
+L Arbre Way	Sacramento	95831
+L Ave	National City	91950
+L County	Stockton	95231
+L Ct	Oxnard	93030
+L. Dowe Ct	Calexico	92231
+L Ellenburg St	Vallejo	94590
+L Ellenburg Street	Vallejo	94590
+L K Wood Bl	Arcata	95521
+L K Wood Ct	Arcata	95521
+L Ln	Stanford	94305
+L M Legaspi Ave	Calexico	92231
+L P Ranch Rd	Templeton	93465
+L Pkwy	Sacramento	95823
+L Place	Seaside	93955
+L Porter Ct	Calexico	92231
+L Rd	San Miguel	93451
+L. Ron Hubbard Way	Los Angeles	90027
+L St	Antioch	94509
+L St	Arcata	95521
+L St	Bakersfield	93301
+L St	Bakersfield	93304
+L St	Barstow	92311
+L St	Biggs	95917
+L St	Caruthers	93609
+L St	Chula Vista	91911
+L St	Crescent City	95531
+L St	Eureka	95501
+L St	Eureka	95503
+L St	Fortuna	95540
+L St	Fresno	93721
+L St	Havasu Lake	92363
+L St	Huron	93234
+L St	Imperial	92251
+L St	Lathrop	95330
+L St	Lincoln	95648
+L St	Mendota	93640
+L St	Mi-Wuk	95346
+L St	Modesto	95354
+L St	Needles	92363
+L St	Newman	95360
+L St	Newport Beach	92661
+L St	Oxnard	93030
+L St	Patterson	95363
+L St	Reedley	93654
+L St	Rio Linda	95673
+L St	Sacramento	95811
+L St	Sacramento	95814
+L St	Sacramento	95816
+L St	Sacramento	95819
+L St	San Diego	92101
+L St	San Diego	92102
+L St	San Miguel	93451
+L St	Sanger	93657
+L St N	San Diego	92102
+L Street	Davis	95616
+L Street	Dos Palos	93620
+L Street	Harbor City	90710
+L Street	Live Oak	95953
+L Street	Los Banos	93635
+L Street	South Dos Palos	93665
+L Street	Vallejo	94592
+L Street	Wilmington	90744
+L Way	Lake Arrowhead	92352

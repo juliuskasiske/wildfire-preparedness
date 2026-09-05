@@ -1,0 +1,282 @@
+W G	Brawley	92227
+W G	Winterhaven	92283
+W G Ave	Winterhaven	92283
+W G Dr	Winterhaven	92283
+W G Rd	Brawley	92227
+W G Rd	Winterhaven	92283
+W G St	Biola	93606
+W G St	Brawley	92227
+W G St	Colton	92324
+W G St	Encinitas	92024
+W G St	Kerman	93630
+W G St	Oakdale	95361
+W G St	Ontario	91762
+W G St	San Diego	92101
+W G St	Tracy	95304
+W G St	Winterhaven	92283
+W Gabilan Street	Salinas	93901
+W Gaffery Rd	Tracy	95304
+W Gaffery Rd	Tracy	95377
+W Gage Ave	Fullerton	92832
+W Gage Ave	Fullerton	92833
+W Gainsborough	Thousand Oaks	91360
+W Gainsborough Rd	Thousand Oaks	91360
+W Galavan St	Carson	90745
+W Galaxy Ave	Fresno	93722
+W Gale Ave	Coalinga	93210
+W Gale Ave	Huron	93234
+W Galen Dr	La Habra	90631
+W Gallo Wy	Mh	95391
+W Galway St	Rialto	92377
+W Gannon Pl	Escondido	92025
+W Garden Ave	Porterville	93257
+W Garden Ct	Porterville	93257
+W Garden Green	Port Hueneme	93041
+W Garden Green Ave	Port Hueneme	93041
+W Garden Grove Blvd	Orange	92868
+W Garden Ln	Porterville	93257
+W Garden Pl	Porterville	93257
+W Gardena Blvd	Carson	90248
+W Gardenia Ct	Upland	91786
+W Garfield St	San Bernardino	92407
+W Garland Ave	Fresno	93705
+W Garland Ave	Fresno	93722
+W Garland Ter	Sunnyvale	94086
+W Garnet Ave	Palm Springs	92262
+W Garrett Ave	Fresno	93706
+W Garry Ave	Santa Ana	92704
+W Garry Ave	Santa Ana	92707
+W Garzas Road	Carmel Valley	93924
+W Gaspara Dr	Mh	95391
+W Gateway Blvd	Kerman	93630
+W Gateway Dr	Palm Springs	92262
+W Gatewood Ct	Bre	92821
+W Geary St	Fresno	93706
+W Geary St	Stockton	95204
+W Gemma Ct	Mh	95391
+W Generoso Av	Mh	95391
+W Gentry Ave	Kerman	93630
+W George St	Banning	92220
+W Georgia St	Colton	92324
+W Georgine St	Santa Ana	92703
+W Gerry Cir	Porterville	93257
+W Gerry Ct	Porterville	93257
+W Gerry Ln	Porterville	93257
+W Gertrude Ave	Richmond	94801
+W Gettysburg Ave	Firebaugh	93622
+W Gettysburg Ave	Fresno	93705
+W Gettysburg Ave	Fresno	93722
+W Gettysburg Ave	Fresno	93723
+W Gettysburg Ave	Kerman	93630
+W Geyer Ct	Ontario	91762
+W Gibbons Ave	Porterville	93257
+W Gibson Ave	Fresno	93722
+W Gibson Ave	Fresno	93723
+W Gibson Ave	Porterville	93257
+W Gibson St	Stockton	95204
+W Gila Ct	Thousand Oaks	91320
+W Gilbert J. Adame Ct	Colton	92324
+W Gilbert St	San Bernardino	92411
+W Gillespie	Calipatria	92233
+W Gillett Al	Tracy	95376
+W Gillman St	Banning	92220
+W Gilman	Banning	92220
+W Gilman St	Banning	92220
+W Gina Ct	Upland	91784
+W Gingko Ct	Santa Maria	93458
+W Gist Ave	Visalia	93277
+W Glacier Ave	Oxnard	93033
+W Gladiola St	Oxnard	93036
+W Gladys Ave	Raisin City	93652
+W Glaucus St	Encinitas	92024
+W Glaucus St	Leucadia	92024
+W Glaucust St	Encinitas	92024
+W Glen Abbey Way	Banning	92220
+W Glen Ave	Anaheim	92801
+W Glen Dr	Anaheim	92801
+W Glen Holly Dr	Anaheim	92804
+W Glen Ivy Ln	Anaheim	92804
+W Glen Lake Ave	Bre	92821
+W Glen Way	Woodside	94062
+W Glencannon St	Stockton	95210
+W Glencrest Ave	Anaheim	92801
+W Glendale Ave	Hanford	93230
+W Glendale Ave	Lemoore	93245
+W Glendale Ave	Visalia	93291
+W Glendale Ct	Santa Ana	92707
+W Glendale Rd	Upland	91784
+W Glendenning Way	San Bernardino	92404
+W Glendon Cir	Santee	92071
+W Glendora Av	Mh	95391
+W Glenfair Ln	San Bernardino	92407
+W Glenhaven Ave	Anaheim	92801
+W Glenhaven Ct	Visalia	93291
+W Glenn Abbey Way	Banning	92220
+W Glenn Ave	Coalinga	93210
+W Glenn Ave	Porterville	93257
+W Glenn Ct	Porterville	93257
+W Glenoaks Ave	Anaheim	92801
+W Glenoaks St	Bre	92821
+W Glenroy Ave	Anaheim	92804
+W Glenwood Ave	Fullerton	92832
+W Glenwood Ave	Turlock	95380
+W Glenwood Cir	Fullerton	92832
+W Glenwood Ct	San Bernardino	92407
+W Glenwood Dr	Fullerton	92832
+W Glenwood Pl	Santa Ana	92704
+W Glenwood Pl	Santa Ana	92707
+W Glenwood St	Colton	92324
+W Glenwood Ter	Fullerton	92832
+W Gobbi St	Ukiah	 
+W Gobbi St Unit 1	Ukiah	95482
+W Gobbi St Unit 2	Ukiah	95482
+W Gobbi St Unit 3	Ukiah	95482
+W Gobbi St Unit 4	Ukiah	95482
+W Gobbi St Unit 5	Ukiah	95482
+W Gobbi St Unit 6	Ukiah	95482
+W Gobbi St Unit 7	Ukiah	95482
+W Gobbi St Unit 8	Ukiah	95482
+W Golden Rain St	Upland	91786
+W Golden Spike Dr	Colton	92324
+W Golden West Ave	Anaheim	92804
+W Golf Ci	Manteca	95337
+W Gonzales Rd	Oxnard	93030
+W Gonzales Rd	Oxnard	93036
+W Gonzales St	Oxnard	93030
+W Good Ave	Visalia	93277
+W Goodhue Ave	Anaheim	92802
+W Goodhue Ave	Anaheim	92804
+W Goodlett St	San Bernardino	92411
+W Goodman Dr	Santa Ana	92704
+W Goodrich Ave	Huron	93234
+W Goodrich Rd	Coalinga	93210
+W Gordon Pl	Anaheim	92801
+W Goshen Ave	Visalia	93291
+W Goux Ave	Fresno	93722
+W Grace Ct	Anaheim	92804
+W Grace St	Barstow	92311
+W Graciosa Ln	Anaheim	92804
+W Graf Rd	Hollister	95023
+W Grafton Pl	Anaheim	92805
+W Gragnani Ave	Kerman	93630
+W Graham	Lake Elsinore	92530
+W Graham	Seeley	92273
+W Graham Ave	Lake Elsinore	92530
+W Graham Rd	El Centro	92243
+W Graham Rd	El Centro	92273
+W Graham Rd	Seeley	92273
+W Graham St	Hanford	93230
+W Graham St	Lake Elsinore	92530
+W Gramercy Ave	Anaheim	92801
+W Granada Ct	Ontario	91762
+W Granada St	Bloomington	92316
+W Granada St	Rialto	92376
+W Granada St	Santa Maria	93458
+W Granada St	Upland	91784
+W Grand Ave	Corona	92882
+W Grand Ave	Escondido	92025
+W Grand Ave	Grover Beach	93433
+W Grand Ave	Lake Elsinore	92530
+W Grand Ave	Porterville	93257
+W Grand Bahama Dr	Palm Springs	92264
+W Grand Blvd	Corona	92878
+W Grand Blvd	Corona	92882
+W Grand Terrace Rd	Grand Terrace	92313
+W Grande Ave	Arroyo Grande	93420
+W Grandview Dr	Barstow	92311
+W Grandview St	Upland	91784
+W Granger Ave	Modesto	95350
+W Granger Ave	Modesto	95358
+W Granger St	Caruthers	93609
+W Grangeville Blvd	Hanford	93230
+W Grangleville Blvd	Hanford	93230
+W Granite Avenue	June Lake	93529
+W Granite Ct	Lincoln	95648
+W Granite Dr	Granite Bay	95746
+W Granite Mountain View Rd	Julian	92036
+W Grant	Calexico	92231
+W Grant Ave	Colton	92324
+W Grant Ave	San Bernardino	92410
+W Grant Line Rd	Mh	95391
+W Grant Line Rd	Mountain House	95391
+W Grant Line Rd	Tracy	95304
+W Grant Line Rd	Tracy	95376
+W Grant Line Rd	Tracy	95377
+W Grant Line Rd	Tracy	95391
+W Grant Pl	San Mateo	94402
+W Grant St	Calexico	92231
+W Grant St	Eureka	95501
+W Grant St	Healdsburg	95448
+W Grant St	Rialto	92376
+W Grant St	Santa Maria	93458
+W Grant St	Upland	91784
+W Grantline Ave	Riverdale	93656
+W Grape St	San Diego	92101
+W Grass Valley St	Colfax	95713
+W Gravino Dr	Mh	95391
+W Gray Pine Ct	San Bernardino	92407
+W Gray St	Colton	92324
+W Graycliff Av	Mh	95391
+W Grayson Ave	Anaheim	92801
+W Grayson Rd	Grayson	95387
+W Grayson Rd	Modesto	95351
+W Grayson Rd	Modesto	95358
+W Grayson Rd	Patterson	95363
+W Grayson Rd	Westley	95387
+W Great Sandy Trl	Julian	92036
+W Great Smokey Ct	Thousand Oaks	91362
+W Greeley Wy	Stockton	95207
+W Green	Beverly Hills	90210
+W Green Acres Dr	Porterville	93257
+W Green Acres Dr	Visalia	93291
+W Green Glade Ct	Camarillo	93010
+W Green Oaks Dr	Visalia	93277
+W Green St	Martinez	94553
+W Green Vale Dr	Camarillo	93010
+W Greenacre Ave	Anaheim	92801
+W Greenbriar St	Colton	92324
+W Greenbrier Ave	Anaheim	92801
+W Greenfield	El Cajon	92020
+W Greenfield Ct	Upland	91786
+W Greenhouse Ave	Visalia	93277
+W Greenleaf Ave	Anaheim	92801
+W Greentree	Somis	93066
+W Greentree Cir	Anaheim	92804
+W Greentree Dr	Somis	93066
+W Greentree Rd	Somis	93066
+W Greenvale Cir	Upland	91784
+W Greenway Ave	Orange	92865
+W Greenway Ave	Turlock	95380
+W Greenwich Ave	Santa Ana	92704
+W Greenwich Pl	Palo Alto	94303
+W Greenwood Ave	La Habra	90631
+W Greenwood St	San Bernardino	92410
+W Gretchen Way	Anaheim	92805
+W Grevillea St	Ontario	91762
+W Griffith St	Carson	90248
+W Griffith Way	Fresno	93705
+W Griffith Way	Fresno	93722
+W Griffith Way	Fresno	93723
+W Grimes Rd	Tracy	95304
+W Grivey Ave	Anaheim	92804
+W Groshen	El Centro	92243
+W Grossmont Rd	San Bernardino	92407
+W Grove Ave	Fresno	93706
+W Grove Ave	Orange	92865
+W Grove Ave	Richmond	94801
+W Grove Ave	Visalia	93291
+W Grove Cir	Lake Forest	92630
+W Grove Ct	Visalia	93291
+W Grove St	Rialto	92376
+W Grovewood Ave	Bloomington	92316
+W Grovewood St	Bloomington	92316
+W Guava	Oxnard	93033
+W Guava Av	Lompoc	93436
+W Guava St	Oxnard	93033
+W Guiberson	Fillmore	93015
+W Guiberson Rd	Fillmore	93015
+W Guinida Ln	Anaheim	92804
+W Guinida Ln	Anaheim	92805
+W Gunner St	Santa Maria	93458
+W Gusty Way	Banning	92220
+W Gutierrez St	Santa Barbara	93101

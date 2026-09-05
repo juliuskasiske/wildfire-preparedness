@@ -1,0 +1,258 @@
+Via Babera	Rancho Santa Margarita	92688
+Via Bacchus	Aliso Viejo	92656
+Via Badalona	Palm Desert	92211
+Via Badalona	Ybl	92887
+Via Badalona	Yorba Linda	92887
+Via Bahia	Mission Viejo	92691
+Via Bahia	San Marcos	92069
+Via Bahia St	Hesperia	92345
+Via Baja	Lafayette	94549
+Via Baja	Ventura	93003
+Via Baja Dr	Milpitas	95035
+Via Bajada	Thousand Oaks	91360
+Via Bajamar	Hemet	92545
+Via Bajo Cerro	Laguna Niguel	92677
+Via Balboa	Laguna Hills	92653
+Via Balboa	Palos Verdes Peninsula	90274
+Via Balboa	Placentia	92870
+Via Balboa Cir	Buena Park	90620
+Via Balcon	San Clemente	92673
+Via Balderama	Temecula	92592
+Via Baldona	Oceanside	92056
+Via Ballena	San Clemente	92672
+Via Balsa	Mission Viejo	92691
+Via Banco	San Diego	92126
+Via Bandada	Rancho Santa Margarita	92688
+Via Bande	Temecula	92592
+Via Banderas	San Juan Capistrano	92675
+Via Bandini	Palos Verdes Peninsula	90274
+Via Bandita	Menifee	92585
+Via Bandita	Oceanside	92057
+Via Bandita	San Clemente	92672
+Via Bandolero	Arroyo Grande	93420
+Via Barba	Mission Hills	93436
+Via Barbara	Lancaster	93536
+Via Barbera	Gustine	95322
+Via Barberini	Chula Vista	91910
+Via Barcaza	Coto De Caza	92679
+Via Barcelona	Dana Point	92629
+Via Barcelona	Hemet	92545
+Via Barcelona	La Verne	91750
+Via Barcelona	Moraga	94556
+Via Barcelona	Newport Beach	92663
+Via Barcelona	Palos Verdes Peninsula	90274
+Via Barcelona	Rancho Santa Margarita	92688
+Via Barcelona	Redlands	92374
+Via Barcelona Rd	Yucaipa	92399
+Via Barletta	La Jolla	92037
+Via Barletta	Murrieta	92562
+Via Barlovento	San Marcos	92078
+Via Baroda	Rancho Santa Fe	92067
+Via Baroda	San Diego	92130
+Via Baron	Compton	90220
+Via Baron	Rancho Palos Verdes	90275
+Via Baron	Thousand Oaks	91320
+Via Barona	Carlsbad	92009
+Via Barquero	San Marcos	92069
+Via Barra	Valencia	91355
+Via Barracuda	San Clemente	92673
+Via Barranca	Calexico	92231
+Via Barranca	Greenbrae	94904
+Via Barranca	La Jolla	92037
+Via Barranca	La Quinta	92253
+Via Barranca	Perris	92570
+Via Barranca	San Jose	95139
+Via Barranca	Temecula	92590
+Via Barranca Del Zorro	Rancho Santa Fe	92067
+Via Barranca Rd	Perris	92570
+Via Barranca Rd	Temecula	92590
+Via Barranca St	Perris	92570
+Via Barrance	Perris	92570
+Via Barraza	Temecula	92592
+Via Barri	Palos Verdes Peninsula	90274
+Via Barrida	San Juan Capistrano	92675
+Via Barrozo	Temecula	92592
+Via Bartolo	San Diego	92111
+Via Basilicata	Gustine	95322
+Via Bassano Dr	Bakersfield	93306
+Via Baya	Murrieta	92562
+Via Bayona	Mission Viejo	92691
+Via Becerra	Rancho Santa Margarita	92688
+Via Beeler	Newhall	91321
+Via Beguine	Valencia	91355
+Via Bejarano	Temecula	92592
+Via Belardes	San Juan Capistrano	92675
+Via Belardo	Greenbrae	94904
+Via Belarmino	Ybl	92887
+Via Belarmino	Yorba Linda	92887
+Via Belfiore	San Diego	92129
+Via Beliz	Santa Maria	93454
+Via Bella	Dana Point	92624
+Via Bella	Oakdale	95361
+Via Bella	Rancho Mirage	92270
+Via Bella	San Jose	95139
+Via Bella	San Juan Capistrano	92675
+Via Bella	Thousand Oaks	91320
+Via Bella Donna	San Marcos	92078
+Via Bella Maria	San Marcos	92078
+Via Bella Monica	San Marcos	92078
+Via Bella Vis	Kenwood	95452
+Via Bella Vista	Ybl	92886
+Via Bella Vista	Yorba Linda	92886
+Via Bella Vita	Friant	93626
+Via Bella Vita	Temecula	92591
+Via Bellagio	American Canyon	94503
+Via Bellagio	Friant	93626
+Via Bellagio	La Quinta	92253
+Via Bellago	La Quinta	92253
+Via Bellano	Bakersfield	93306
+Via Bellarado	San Diego	92129
+Via Bellas Artes	San Clemente	92672
+Via Bellaza	Laguna Niguel	92677
+Via Bellazza	Stevenson Ranch	91381
+Via Belleza	Murrieta	92563
+Via Belleza	San Clemente	92673
+Via Belleza	San Marcos	92069
+Via Belleza	Ybl	92886
+Via Belleza	Yorba Linda	92886
+Via Bello	Mission Viejo	92692
+Via Bello	San Diego	92111
+Via Bellorita	Rancho Santa Margarita	92688
+Via Bellota	San Clemente	92673
+Via Belmonte	Fallbrook	92028
+Via Belmonte	Rancho Santa Margarita	92688
+Via Belmonte	San Jose	95135
+Via Belorado	San Clemente	92673
+Via Belota	Alpine	91901
+Via Belterra	Valencia	91354
+Via Beltran	San Diego	92117
+Via Benabarre	Temecula	92592
+Via Benavente	Mission Viejo	92692
+Via Bendita	Hope Ranch	93110
+Via Bendita	La Quinta	92253
+Via Benicia	Cathedral City	92234
+Via Benito	San Diego	92111
+Via Bensa	Oak Park	91377
+Via Bergamo	San Diego	92127
+Via Bergundy	Temecula	92592
+Via Bernard	Burbank	91504
+Via Bernardo	Corona	92882
+Via Bernardo	Oceanside	92056
+Via Bernardo	Ybl	92887
+Via Bernardo	Yorba Linda	92887
+Via Bernardo Cir	Ybl	92887
+Via Bernardo Cir	Yorba Linda	92887
+Via Bernini	Rancho Murieta	95683
+Via Berrendo	Rancho Santa Margarita	92688
+Via Berros	Arroyo Grande	93420
+Via Beso Del Sol	Temecula	92591
+Via Bettona	San Diego	92127
+Via Bianca	Olivehurst	95961
+Via Bilbao	San Clemente	92672
+Via Bilbao	Ybl	92887
+Via Bilbao	Yorba Linda	92887
+Via Bissolotti	Chula Vista	91910
+Via Blairo	Corona	92879
+Via Blairo Cir	Corona	92879
+Via Blanc Ct	Saratoga	95070
+Via Blanca	Oceanside	92054
+Via Blanca	San Dimas	91773
+Via Blanca	San Jose	95139
+Via Blanco	San Clemente	92673
+Via Bocas	Carlsbad	92010
+Via Boccioni	Rancho Murieta	95683
+Via Bocina	Valencia	91355
+Via Bodega	Palos Verdes Peninsula	90274
+Via Bogota	Vista	92081
+Via Bolero	La Quinta	92253
+Via Bolero Rd	Temecula	92590
+Via Bolivia	Vista	92081
+Via Bolsa	El Cajon	92019
+Via Boltana	San Diego	92129
+Via Bolzano	Goleta	93111
+Via Bolzano	Goleta	93117
+Via Bolzano	Santa Barbara Unincorporated	93111
+Via Bonalde	Mission Viejo	92692
+Via Bondad	Rancho Santa Margarita	92688
+Via Bonica	Lake Elsinore	92530
+Via Bonilla	Temecula	92592
+Via Bonita	Alamo	94507
+Via Bonita	Fontana	92337
+Via Bonita	Laguna Niguel	92677
+Via Bonita	Monte Sereno	95030
+Via Bonita	Rancho Santa Margarita	92688
+Via Bonita	Redondo Beach	90277
+Via Bonita	Thousand Oaks	91320
+Via Bonito	Camarillo	93012
+Via Bordeaux	Valencia	91355
+Via Borgia	Del Mar	92014
+Via Borica	Palos Verdes Peninsula	90274
+Via Borica	Rancho Palos Verdes	90275
+Via Boronada	Palos Verdes Peninsula	90274
+Via Borrego	Hemet	92545
+Via Borregos	Carlsbad	92009
+Via Borrelli	Gustine	95322
+Via Boscana	Valencia	91355
+Via Botero	Oceanside	92056
+Via Botticelli	Porter Ranch	91326
+Via Boyero	Rancho Santa Margarita	92688
+Via Brasa	Valencia	91355
+Via Brava	Thousand Oaks	91320
+Via Brava	Valencia	91355
+Via Bravo	San Juan Capistrano	92675
+Via Bravo	Villa Park	92861
+Via Bravo	Ybl	92887
+Via Bravo	Yorba Linda	92887
+Via Brenda	La Palma	90623
+Via Breve	Mission Viejo	92691
+Via Breve	Montebello	90640
+Via Breve	San Clemente	92672
+Via Breve	Ybl	92886
+Via Breve	Yorba Linda	92886
+Via Brezza	Modesto	95357
+Via Brezza	Newport Beach	92657
+Via Brezzo	San Jose	95120
+Via Brida	Rancho Santa Margarita	92688
+Via Brigitte	Santa Barbara Unincorporated	93111
+Via Brillante	San Diego	92122
+Via Briones	Murrieta	92562
+Via Brisa	Temecula	92592
+Via Brisa Del Lago	San Marcos	92078
+Via Brisa Rd	Temecula	92592
+Via Brisas	Oxnard	93030
+Via Brittney	Lakeside	92040
+Via Briza Ct	Paso Robles	93446
+Via Brocha	Santa Barbara Unincorporated	93110
+Via Broma	Rancho Santa Fe	92091
+Via Bronca	San Juan Capistrano	92675
+Via Broza	Temecula	92592
+Via Brumosa	Ybl	92886
+Via Brumosa	Yorba Linda	92886
+Via Buen Corazon	San Clemente	92673
+Via Buena	La Verne	91750
+Via Buena	Palos Verdes Peninsula	90274
+Via Buena	San Juan Capistrano	92675
+Via Buena Dr	Yucaipa	92399
+Via Buena Suerte	Ybl	92887
+Via Buena Suerte	Yorba Linda	92887
+Via Buena Ventura	Redondo Beach	90277
+Via Buena Ventura Pl	Arroyo Grande	93420
+Via Buena Vida	Ybl	92886
+Via Buena Vida	Yorba Linda	92886
+Via Buena Vista	Laguna Woods	92637
+Via Buena Vista	Monterey	93940
+Via Buena Vista	Rancho Mirage	92270
+Via Buena Vista	San Juan Capistrano	92675
+Via Buena Vista	San Marcos	92078
+Via Buena Vista	Unincorporated Alameda County	94580
+Via Bufano	San Francisco	94133
+Via Buho	Coto De Caza	92679
+Via Burgandy	Temecula	92592
+Via Burgos	Mission Viejo	92691
+Via Burgos	Ybl	92887
+Via Burgos	Yorba Linda	92887
+Via Burgundy	Temecula	92592
+Via Burriana	Mission Viejo	92691
+Via Burrone	Newport Beach	92657
+Via Burtin	North Tustin	92705
+Via Burton St	Fullerton	92831

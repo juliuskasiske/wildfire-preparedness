@@ -1,0 +1,35 @@
+Co Co Ln	Palermo	95966
+Co Rd 1	Ceda	96104
+Co Rd 1	Eagl	96110
+Co Rd 23	Ceda	96104
+Co Rd 25 #3	Ceda	96104
+Co Rd 44	Davi	96108
+Co Rd 70	Altu	96101
+Co Rd 75	Altu	96101
+Co Rd 76	Altu	96101
+Co Rd 97	Tule	96134
+Co Rd1	Ceda	96104
+Co Rd1	Eagl	96110
+Co Rd1	Lake	96115
+Co Rd133C	Davi	96108
+Co Rd134	Davi	96108
+Co Rd145	Davi	96108
+Co Rd192   Spicer Ln	Altu	96101
+Co Rd215	Canb	96015
+Co Rd267    Tce	Altu	96101
+Co Rd269 Bobcat	Altu	96101
+Co Rd269 Bobcat Ln Mre	Altu	96101
+Co Rd33	Ceda	96104
+Co Rd54	Altu	96101
+Co Rd54 Centerville	Altu	96101
+Co Rd57	Altu	96101
+Co Rd59A	Altu	96101
+Co Rd71   Cp	Altu	96101
+Co Rd75	Altu	96101
+Co Rd76	Altu	96101
+Co Rd77	Altu	96101
+Co Rd78 Lucilane	Altu	96101
+Co Rd85	Canb	96015
+Co Rd87	Adin	96006
+Co Rd90	Look	96054
+Co Rd91A	Look	96054

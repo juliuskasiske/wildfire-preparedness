@@ -1,0 +1,60 @@
+Determine Drive	Atwater	95301
+Determine Lane	Monterey	93940
+Determined Ct	Fair Oaks	95628
+Detert	Jackson	95642
+Detert Ln	Jackson	95642
+Detlow Rd	Concow	95965
+Detour Drive	Los Angeles	90068
+Detra Ln	Garden Grove	92840
+Detrick Way	Julian	92036
+Detroit Av	Concord	94520
+Detroit Av #1	Concord	94520
+Detroit Av #10	Concord	94520
+Detroit Av #11	Concord	94520
+Detroit Av #12	Concord	94520
+Detroit Av #13	Concord	94520
+Detroit Av #14	Concord	94520
+Detroit Av #15	Concord	94520
+Detroit Av #16	Concord	94520
+Detroit Av #17	Concord	94520
+Detroit Av #18	Concord	94520
+Detroit Av #19	Concord	94520
+Detroit Av #2	Concord	94520
+Detroit Av #20	Concord	94520
+Detroit Av #21	Concord	94520
+Detroit Av #22	Concord	94520
+Detroit Av #23	Concord	94520
+Detroit Av #3	Concord	94520
+Detroit Av #4	Concord	94520
+Detroit Av #5	Concord	94520
+Detroit Av #7	Concord	94520
+Detroit Av #8	Concord	94520
+Detroit Av #9	Concord	94520
+Detroit Ave	Concord	94518
+Detroit Ave	Concord	94520
+Detroit Ave	Huntington Beach	92648
+Detroit Ave	Huntington Beach	92648-5218
+Detroit Ave	Huntington Beach	92648-5219
+Detroit Ave	Huntington Beach	92648-5222
+Detroit Ave	Huntington Beach	92648-5234 
+Detroit Ave	Huntington Beach	92648-5235
+Detroit Ave	Huntington Beach	92648-5236 
+Detroit Ave	Huntington Beach	92648-5838 
+Detroit Ave	Huntington Beach	92648-5839 
+Detroit Ave	Huntington Beach	92648-5841
+Detroit Ave	Huntington Beach	92648-5841 
+Detroit Ave #3	Concord	94520
+Detroit Ave #6	Concord	94520
+Detroit Blvd	Sacramento	95832
+Detroit Ct	Chino	91710
+Detroit Ct	San Jose	95133
+Detroit Dr	Oxnard	93036
+Detroit Dr	San Mateo	94404
+Detroit Pl	San Diego	92114
+Detroit St	Norco	92860
+Detroit St	San Francisco	94131
+Detroit Street	Los Angeles	90036
+Detroit Street	Los Angeles	90046
+Detwiler Rd	Escondido	92029
+Detwiler Rd	Mariposa	95338
+Detwiler Rd	Rancho Santa Fe	92067

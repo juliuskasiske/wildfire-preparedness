@@ -1,0 +1,140 @@
+East F St	Oakdale	95361
+East F Street	Benicia	94510
+East F Street	Dixon	95620
+East F Street	Wilmington	90744
+East Factory Place	Los Angeles	90013
+East Fairbrook Street	Long Beach	90815
+East Fairfield Drive	Claremont	91711
+East Fairgrove Avenue	La Puente	91744
+East Fairgrove Avenue	West Covina	91792
+East Fairhaven Court	Porterville	93257
+East Fairmount Road	Burbank	91501
+East Fairmount Street	Los Angeles	90033
+East Fairmount Street	Los Angeles	90063
+East Fairview Avenue	El Monte	91732
+East Fairview Avenue	Glendale	91207
+East Fairview Avenue	San Gabriel	91775
+East Fairview Avenue	San Gabriel	91776
+East Fairview Avenue	Tulare	93274
+East Fairview Boulevard	Inglewood	90302
+East Falcon Park Street	Long Beach	90808
+East Fallcreek Lane	Cerritos	90703
+East Falls View Dr	San Diego	92115
+East Fallston Street	Los Angeles	90042
+East Farland Street	Covina	91724
+East Farquhar Street	Los Angeles	90032
+East Farrar Street	Los Angeles	90040
+East Farrington Lane	Los Angeles	90042
+East Farview Lane	West Covina	91791
+East Feemster Avenue	Visalia	93292
+East Feemster Court	Visalia	93292
+East Fenn Street	Los Angeles	90031
+East Ferguson Avenue	Visalia	93291
+East Ferguson Avenue	Visalia	93292
+East Ferguson Court	Visalia	93292
+East Fern Avenue	Rosemead	91770
+East Fernfield Drive	Monterey Park	91755
+East Fernleaf Avenue	Pomona	91766
+East Fernrock Street	Carson	90746
+East Ferrara Street	Los Angeles	90042
+East Ferro Street	Long Beach	90815
+East Ferry Rd	Ferndale	95536
+East Fiat Street	Carson	90745
+East Field Street	Mount Shasta	96067
+East Fig Avenue	Monrovia	91016
+East Figueroa Street	Los Angeles	90042
+East Filion Street	Los Angeles	90065
+East Financial Way	Glendora	91741
+East Financial Wy	Glendora	91741
+East Finch Avenue	Tulare	93274
+East Finni Court	Visalia	93292
+East Fir Avenue	Atwater	95301
+East Fir Street	Lindsay	93247
+East Firebaugh Avenue	Exeter	93221
+East Firestone Boulevard	Los Angeles	90001
+East First Avenue	La Habra	90631
+East First Street	Lee Vining	93541
+East Flagstone Street	Long Beach	90808
+East Flora Avenue	Los Angeles	90031
+East Floral Avenue	Arcadia	91006
+East Floral Avenue	Dinuba	93618
+East Floral Avenue	Orosi	93647
+East Floral Avenue	Reedley	93654
+East Floral Drive	Monterey Park	91755
+East Florence Avenue	Bell Gardens	90201
+East Florence Avenue	Downey	90240
+East Florence Avenue	Huntington Park	90255
+East Florence Avenue	Inglewood	90301
+East Florence Avenue	Inglewood	90302
+East Florence Avenue	La Habra	90631
+East Florence Avenue	Los Angeles	90001
+East Florence Avenue	Los Angeles	90003
+East Florence Avenue	Los Angeles	90047
+East Florence Avenue	West Covina	91790
+East Florence Place	Bell Gardens	90201
+East Florence Street	Los Angeles	90001
+East Florida Street	Long Beach	90802
+East Florida Street	Long Beach	90814
+East Florizel Street	Los Angeles	90032
+East Flower Avenue	Venice	90291
+East Folsom Street	Los Angeles	90033
+East Folsom Street	Los Angeles	90063
+East Fondale Street	Azusa	91702
+East Foothill Boulevard	Arcadia	91006
+East Foothill Boulevard	Azusa	91702
+East Foothill Boulevard	Claremont	91711
+East Foothill Boulevard	Glendora	91740
+East Foothill Boulevard	Glendora	91741
+East Foothill Boulevard	Monrovia	91016
+East Foothill Boulevard	Pasadena	91107
+East Foothill Boulevard	Pomona	91767
+East Foothill Boulevard	San Dimas	91773
+East Forest Avenue	Arcadia	91006
+East Forhan Street	Long Beach	90805
+East Fork Indian Creek Road	Happy Camp	96039
+East Fork Indian Creek Road	Happy Camp	96086
+East Fork Rd	Coffee Creek	96091
+East Fork Rd	Ettersburg	95542
+East Fork Rd	French Gulch	96033
+East Fork Rd	Hayfork	96041
+East Fork Rd	Helena	96048
+East Fork Road	Azusa	91702
+East Forrester Court	Porterville	93257
+East Fort Bowie Drive	Walnut	91789
+East Fortuna Avenue	Atwater	95301
+East Fortune Place	Rowland Heights	91748
+East Foster Drive	Tulare	93274
+East Foundation Avenue	La Habra	90631
+East Fountain Street	Long Beach	90804
+East Four Creeks Avenue	Visalia	93292
+East Four Creeks Court	Visalia	93292
+East Fourth Avenue	La Habra	90631
+East Fowler Street	Los Angeles	90063
+East Fox Run Way	San Diego	92111
+East Frances Avenue	Tulare	93274
+East Francis Avenue	La Habra	90631
+East Francisquito Avenue	La Puente	91744
+East Francisquito Avenue	West Covina	91790
+East Francisquito Avenue	West Covina	91791
+East Frandsen Street	San Gabriel	91776
+East Franke Street	Carson	90746
+East Franklin Avenue	El Segundo	90245
+East Franklin Avenue	Pixley	93256
+East Franklin Avenue	Pomona	91766
+East Frantz Avenue	La Habra	90631
+East Franzen Way	Dinuba	93618
+East Freeden Street	Carson	90746
+East Freeland Street	Long Beach	90807
+East Fremont Square	Montebello	90640
+East Fresno Street	Dinuba	93618
+East Frieda Court	Lancaster	93535
+East Front Street	Covina	91723
+East Front Street	Farmersville	93223
+East Front Street	Rowland Heights	91748
+East Frontage Road	South Gate	90280
+East Frontenac Avenue	Los Angeles	90065
+East Fuero Drive	Walnut	91789
+East Fulton Avenue	Tulare	93274
+East Furtado Road	El Nido	95317
+East Future Place	Los Angeles	90065
+East Future Street	Los Angeles	90065

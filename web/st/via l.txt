@@ -1,0 +1,408 @@
+Via L'Antico	Rancho Mirage	92270
+Via La Barranca	Arroyo Grande	93420
+Via La Barranca Pl	Arroyo Grande	93420
+Via La Blanco	Temecula	92592
+Via La Brea	Palos Verdes Peninsula	90274
+Via La Brisa	Larkspur	94939
+Via La Brisa Ln	Corona	92882
+Via La Calma	Murrieta	92563
+Via La Cantera	San Diego	92129
+Via La Carta	San Juan Capistrano	92675
+Via La Casa	Valencia	91354
+Via La Charca	Carlsbad	92009
+Via La Cienega	Montebello	90640
+Via La Cima	Rancho Palos Verdes	90275
+Via La Cima	Thousand Oaks	91320
+Via La Circula	Redondo Beach	90277
+Via La Colina	Murrieta	92563
+Via La Colina Ave	Murrieta	92563
+Via La Colina Rd	Murrieta	92563
+Via La Colorada	Temecula	92592
+Via La Coruna	Mission Viejo	92691
+Via La Costa	Pacific Palisades	90272
+Via La Cresta	Chino Hills	91709
+Via La Cresta	El Cajon	92021
+Via La Cresta	Rancho Palos Verdes	90275
+Via La Cresta Road	Rancho Palos Verdes	90275
+Via La Cuesta	Chula Vista	91913
+Via La Cuesta	Escondido	92029
+Via La Cuesta	Palos Verdes Peninsula	90274
+Via La Cumbre	Greenbrae	94904
+Via La Cumbre	Lafayette	94549
+Via La Espalda	Murrieta	92563
+Via La Estrella	Carmel Valley	93924
+Via La Gardenia	Poway	92064
+Via La Gitana	Carmel Valley	93924
+Via La Gitano	Poway	92064
+Via La Granja	Ybl	92886
+Via La Granja	Yorba Linda	92886
+Via La Izquierda	Poway	92064
+Via La Jolla	Aptos	95003
+Via La Jolla	Newbury Park	91320
+Via La Jolla	Oceanside	92057
+Via La Jolla	San Clemente	92672
+Via La Jolla	San Juan Capistrano	92675
+Via La Jolla	Thousand Oaks	91320
+Via La Jolla	Unincorporated Alameda County	94580
+Via La Loma	Chino Hills	91709
+Via La Luna Ln	Sacramento	95828
+Via La Madera	Bakersfield	93314
+Via La Mancha	Alpine	91901
+Via La Mancha	Laguna Niguel	92677
+Via La Mancha	Ybl	92886
+Via La Mancha	Yorba Linda	92886
+Via La Merced	Bakersfield	93314
+Via La Mesa	Chino Hills	91709
+Via La Mesa	Laguna Woods	92637
+Via La Mesa	San Clemente	92672
+Via La Mirada	San Juan Capistrano	92675
+Via La Mirada	Valley Center	92082
+Via La Mission	San Clemente	92672
+Via La Montanita	Cambria	93428
+Via La Mora	San Juan Capistrano	92675
+Via La Morra	American Canyon	94503
+Via La Naranga	Carmel Valley	93924
+Via La Naranja	Ybl	92886
+Via La Naranja	Yorba Linda	92886
+Via La Orilla	Fallbrook	92028
+Via La Paloma	Chula Vista	91910
+Via La Paloma	Murrieta	92563
+Via La Paloma	Rancho Palos Verdes	90275
+Via La Paloma	Riverside	92507
+Via La Paloma Rd	Murrieta	92563
+Via La Paz	Burbank	91501
+Via La Paz	Chico	95928
+Via La Paz	Greenbrae	94904
+Via La Paz	Larkspur	94904
+Via La Paz	Napa	94558
+Via La Paz	San Luis Obispo	93401
+Via La Paz	San Marcos	92069
+Via La Paz	San Pedro	90732
+Via La Paz	Stevenson Ranch	91381
+Via La Plata	San Juan Capistrano	92675
+Via La Plaza	Murrieta	92563
+Via La Plaza	San Marcos	92078
+Via La Pluma	San Juan Capistrano	92675
+Via La Posada	Los Gatos	95032
+Via La Presa	Hemet	92545
+Via La Primavera	Thousand Oaks	91360
+Via La Primavera	Ybl	92886
+Via La Primavera	Yorba Linda	92886
+Via La Quinta	Hemet	92544
+Via La Quinta	Ybl	92886
+Via La Quinta	Yorba Linda	92886
+Via La Ranchita	San Marcos	92069
+Via La Rocca	Rancho Palos Verdes	90275
+Via La Rueda	Murrieta	92563
+Via La Ruedo	Murrieta	92563
+Via La Scala	Morongo Valley	92256
+Via La Selva	Palos Verdes Peninsula	90274
+Via La Selva	Redondo Beach	90277
+Via La Selva	Santa Ynez	93460
+Via La Sencilla	Temecula	92592
+Via La Sencilla St	Temecula	92592
+Via La Senda	Del Mar	92014
+Via La Senda	San Juan Capistrano	92675
+Via La Serena	La Quinta	92253
+Via La Sierra Ln	San Jacinto	92582
+Via La Silva	Camarillo	93010
+Via La Soledad	Redondo Beach	90277
+Via La Sombrilla	Valencia	91354
+Via La Tranquila	Temecula	92592
+Via La Venta	San Marcos	92069
+Via La Ventana	San Diego	92131
+Via La Vida	Temecula	92591
+Via La Vieja	Ybl	92887
+Via La Vieja	Yorba Linda	92887
+Via Labrada	Valencia	91355
+Via Lactea	San Diego	92129
+Via Ladera	Escondido	92029
+Via Ladera	Fallbrook	92028
+Via Ladera	La Habra	90631
+Via Ladera	Monterey	93940
+Via Ladera	Rancho Cucamonga	91730
+Via Ladera	Rancho Santa Margarita	92688
+Via Ladera	Valencia	91355
+Via Ladeta	La Jolla	92037
+Via Lado	San Clemente	92672
+Via Lado	Torrance	90505
+Via Lago	Indian Wells	92210
+Via Lago	Los Gatos	95032
+Via Lago	Perris	92570
+Via Lago Azul	Rancho Santa Fe	92067
+Via Lago St	Hesperia	92345
+Via Lagos	Dana Point	92629
+Via Lagos	Loma Linda	92354
+Via Laguna	Hope Ranch	93110
+Via Laguna	Laguna Niguel	92677
+Via Laguna	San Jose	95135
+Via Laguna	San Mateo	94404
+Via Laguna	Thousand Oaks	91320
+Via Laguna	Winchester	92596
+Via Laguna Vista	San Luis Obispo	93405
+Via Lagunaria	Laguna Niguel	92677
+Via Lakistas	Lake Elsinore	92530
+Via Lakistas Ave	Lake Elsinore	92530
+Via Lampara	Rancho Santa Margarita	92688
+Via Lampara	San Clemente	92673
+Via Landeta	Palos Verdes Peninsula	90274
+Via Landini	San Diego	92127
+Via Lantana	Aptos	95003
+Via Lantana	Palm Desert	92260
+Via Lantana	Paso Robles	93446
+Via Lantana	Rancho Santa Margarita	92688
+Via Lapiz	San Diego	92122
+Via Lar	Murrieta	92563
+Via Lara	Mission Viejo	92691
+Via Lara	Santa Barbara Unincorporated	93111
+Via Lara	Thousand Oaks	91320
+Via Larga	Alamo	94507
+Via Larga	Laguna Niguel	92677
+Via Larga Vista	Bonsall	92003
+Via Largavista	Palos Verdes Peninsula	90274
+Via Largo	Cypress	90630
+Via Largo	Morgan Hill	95037
+Via Largo	Oceanside	92056
+Via Largo Ct	Morgan Hill	95037
+Via Larrea	Mission Viejo	92692
+Via Las Aguilas	Arroyo Grande	93420
+Via Las Brisas	San Marcos	92069
+Via Las Brisas	Santa Barbara Unincorporated	93110
+Via Las Brisas	Thousand Oaks	91320
+Via Las Brisas	Ybl	92887
+Via Las Brisas	Yorba Linda	92887
+Via Las Casitas	Templeton	93465
+Via Las Chacras	Temecula	92591
+Via Las Colina	Murrieta	92563
+Via Las Colinas	Rancho Mirage	92270
+Via Las Colinas	Temecula	92592
+Via Las Cruces	Orinda	94563
+Via Las Cumbres	San Diego	92111
+Via Las Encinas	Carmel Valley	93924
+Via Las Faldas	Jamul	91935
+Via Las Flores	Murrieta	92563
+Via Las Flores	Rancho Mirage	92270
+Via Las Flores Rd	Murrieta	92563
+Via Las Junitas	Murrieta	92562
+Via Las Laderas	Murrieta	92562
+Via Las Lenas	San Diego	92129
+Via Las Lomas	Murrieta	92562
+Via Las Lupes	Concow	95965
+Via Las Mayas	San Diego	92129
+Via Las Nubes	Riverside	92506
+Via Las Palmas	Laguna Niguel	92677
+Via Las Palmas	Murrieta	92563
+Via Las Palmas	National City	91950
+Via Las Palmas	Palm Springs	92262
+Via Las Palmas	San Juan Capistrano	92675
+Via Las Palmas	Thousand Palms	92276
+Via Las Plamas	Murrieta	92563
+Via Las Posadas	San Diego	92129
+Via Las Quintas	Murrieta	92562
+Via Las Ramblas	Temecula	92592
+Via Las Rolas	Temecula	92590
+Via Las Rosas	Carmel Valley	93924
+Via Las Rosas	Laguna Niguel	92677
+Via Las Rosas	Oceanside	92054
+Via Las Rosas Rd	Menifee	92596
+Via Las Sintras	Murrieta	92562
+Via Las Tonadas	San Ysidro	92173
+Via Las Vegas	Palos Verdes Peninsula	90274
+Via Las Villas	Oceanside	92056
+Via Las Villas	Ybl	92887
+Via Las Villas	Yorba Linda	92887
+Via Lastre	Montebello	90640
+Via Latigo	Rancho Santa Margarita	92688
+Via Latina	Burbank	91504
+Via Latina	Del Mar	92014
+Via Latina	San Diego	92014
+Via Latina	Santa Barbara Unincorporated	93013
+Via Latina Dr	Camarillo	93012
+Via Lato	Mission Hills	93436
+Via Laton	Oroville	95966
+Via Laura	Jamul	91935
+Via Lavendera	Rancho Santa Margarita	92688
+Via Lazo	Palm Springs	92264
+Via Lazo	Palos Verdes Peninsula	90274
+Via Leal	Camarillo	93010
+Via Lechusa	Rancho Santa Fe	92067
+Via Lee	Santa Barbara Unincorporated	93111
+Via Lemora	Santa Barbara Unincorporated	93117
+Via Lenardo	Ybl	92887
+Via Lenardo	Yorba Linda	92887
+Via Lenita	Dana Point	92629
+Via Leon	Palos Verdes Peninsula	90274
+Via Leon	San Clemente	92673
+Via Leon	Thousand Palms	92276
+Via Leona	Olivehurst	95961
+Via Leona	San Juan Capistrano	92675
+Via Leonardo	Calabasas	91302
+Via Leonardo	Palm Desert	92260
+Via Lerida	Greenbrae	94904
+Via Lerida	Ybl	92887
+Via Lerida	Yorba Linda	92887
+Via Leslie	Santee	92071
+Via Levantar Rd	Temecula	92592
+Via Liago	Perris	92570
+Via Liago Dr	Perris	92570
+Via Liago St	Perris	92570
+Via Libertad	Carlsbad	92010
+Via Lido	Laguna Niguel	92677
+Via Lido	Loma Linda	92354
+Via Lido	Moreno Valley	92555
+Via Lido	Newport Beach	92663
+Via Lido Nord	Newport Beach	92663
+Via Lido Place	Pomona	91767
+Via Lido Soud	Newport Beach	92663
+Via Liebre	Rancho Santa Margarita	92688
+Via Lilia	Temecula	92592
+Via Lima	Fallbrook	92028
+Via Limon	San Juan Capistrano	92675
+Via Linares	Mission Viejo	92691
+Via Linares	Ybl	92887
+Via Linares	Yorba Linda	92887
+Via Linda	Castroville	95012
+Via Linda	Cypress	90630
+Via Linda	Escondido	92029
+Via Linda	Fullerton	92833
+Via Linda	La Quinta	92253
+Via Linda	Malibu	90265
+Via Linda	Mission Viejo	92691
+Via Linda	Rancho Santa Margarita	92688
+Via Linda	Thousand Oaks	91320
+Via Linda Avenue	Whittier	90605
+Via Linda Ct	Carmichael	95608
+Via Linda Ct	Yucaipa	92399
+Via Linda Del Sur	Encinitas	92024
+Via Linda Dr	Hemet	92545
+Via Linda Dr	Palo Cedro	96073
+Via Linda St	Apple Valley	92308
+Via Linda Vista	Redondo Beach	90277
+Via Linda Vista	Spring Valley	91978
+Via Lindo	Tustin	92780
+Via Lindosa	Laguna Niguel	92677
+Via Lisa	Poway	92064
+Via Lisboa	Camarillo	93012
+Via Livorno	Indian Wells	92210
+Via Livorno	La Quinta	92253
+Via Livorno	Palm Springs	92262
+Via Llano	Mission Viejo	92691
+Via Llano	Murrieta	92562
+Via Lobato	Temecula	92592
+Via Lobato St	Temecula	92592
+Via Lobo	Lake Forest	92630
+Via Lobo	Lake Forest	92630-2637
+Via Lobo	Lake Forest	92630-2638
+Via Lobo	Lake Forest	92630-2639
+Via Lobo	Lake Forest	92630-2640
+Via Lobo	San Marcos	92078
+Via Logrono	Mission Viejo	92691
+Via Lola	Palm Springs	92262
+Via Loma	Fallbrook	92028
+Via Loma	Laguna Niguel	92677
+Via Loma	Morgan Hill	95037
+Via Loma	Riverside	92506
+Via Loma	Walnut Creek	94598
+Via Loma Dr	Poway	92064
+Via Loma Linda	Ybl	92886
+Via Loma Linda	Yorba Linda	92886
+Via Loma St	Camarillo	93012
+Via Loma Vista	El Cajon	92019
+Via Loma Vista	Escondido	92029
+Via Lomas	Laguna Hills	92653
+Via Lomas	San Jose	95139
+Via Lomas De Yorba	Ybl	92887
+Via Lomas De Yorba E	Yorba Linda	92887
+Via Lomas Vista	Temecula	92592
+Via Lombardy	Gustine	95322
+Via Lomita	Escondido	92027
+Via Lomita	Monte Sereno	95030
+Via Lopez	Dana Point	92624
+Via Lopez	Mission Viejo	92692
+Via Lopez	Palos Verdes Peninsula	90274
+Via Lopez Ct	Ramona	92065
+Via Lorado	Rancho Palos Verdes	90275
+Via Lorca	La Quinta	92253
+Via Lorca	Mission Viejo	92692
+Via Lorca	Newport Beach	92663
+Via Lorca Dr	Moreno Valley	92551
+Via Lorente	Camarillo	93012
+Via Lorenzo	Rancho Palos Verdes	90275
+Via Loreta	Desert Hot Springs	92240
+Via Loreto	Chino Hills	91709
+Via Loreto	Desert Hot Springs	92240
+Via Loro	San Clemente	92672
+Via Los Altos	Laguna Woods	92637
+Via Los Altos	Rancho Mirage	92270
+Via Los Altos	Redondo Beach	90277
+Via Los Altos	Temecula	92591
+Via Los Altos	Thousand Oaks	91320
+Via Los Altos	Tiburon	94920
+Via Los Andes	Claremont	91711
+Via Los Arboles	Chico	95928
+Via Los Arboles	San Juan Capistrano	92675
+Via Los Arcos	San Marcos	92069
+Via Los Caballeros	Riverside	92504
+Via Los Colorados	Lafayette	94549
+Via Los Coyotes	San Juan Capistrano	92675
+Via Los Encinas	Carmel Valley	93924
+Via Los Farolitos	Rancho Santa Fe	92067
+Via Los Fideos	Temecula	92590
+Via Los Flores	Murrieta	92563
+Via Los Laureles	Murrieta	92562
+Via Los Miradores	Redondo Beach	90277
+Via Los Narcisos	San Diego	92129
+Via Los Ninos	Walnut Creek	94597
+Via Los Nopales	Rancho Santa Fe	92067
+Via Los Padres	Oceanside	92057
+Via Los Padres	Santa Barbara Unincorporated	93111
+Via Los Palmas	Thousand Palms	92276
+Via Los Rosas	Menifee	92584
+Via Los Rosas	Menifee	92596
+Via Los Santos	San Dimas	91773
+Via Los Santos	San Juan Capistrano	92675
+Via Los Santos	Santa Barbara Unincorporated	93111
+Via Los Tilos	San Clemente	92673
+Via Los Trancos	Unincorporated Alameda County	94541
+Via Los Trancos	Unincorporated Alameda County	94580
+Via Los Tulares	Carmel Valley	93924
+Via Los Ventos	Temecula	92590
+Via Los Vientos	Temecula	92590
+Via Los Zorros	Carmel Valley	93924
+Via Lourdes	Ybl	92886
+Via Lourdes	Yorba Linda	92886
+Via Loyola	Mission Viejo	92691
+Via Lucca	Bakersfield	93307
+Via Lucca	Indian Wells	92210
+Via Lucca	Irvine	92612
+Via Lucena	San Clemente	92673
+Via Lucero	Oceanside	92056
+Via Lucero	Santa Barbara	93110
+Via Lucia	Alamo	94507
+Via Lucia	La Jolla	92037
+Via Lucia	Montebello	90640
+Via Lucia	Temecula	92592
+Via Lucia	Ybl	92886
+Via Lucia	Yorba Linda	92886
+Via Lucido	Temecula	92592
+Via Lucio	Tustin	92780
+Via Lugano	Bakersfield	93312
+Via Lugano	Corona	92879
+Via Lugano	San Jose	95120
+Via Lugo	Temecula	92590
+Via Lugo	Ybl	92887
+Via Lugo	Yorba Linda	92887
+Via Lugones	Mission Viejo	92692
+Via Luis	Laguna Niguel	92677
+Via Luisa	Mission Viejo	92691
+Via Luisa	Temecula	92592
+Via Luiseno	Alpine	91901
+Via Lujosa	Escondido	92025
+Via Luna	Chula Vista	91910
+Via Luna	Dana Point	92629
+Via Luna	Rancho Santa Fe	92067
+Via Luna Drive	La Habra	90631
+Via Lunado	Moreno Valley	92551
+Via Luneto	Montebello	90640
+Via Lupona	Valencia	91355
+Via Lusso	Palm Springs	92264

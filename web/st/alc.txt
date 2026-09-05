@@ -1,0 +1,145 @@
+Alcacer Del Sol	San Diego	92128
+Alcade Drive	Glendale	91207
+Alcade Street	La Puente	91746
+Alcajapa Ln	Napa	94558
+Alcala Ct	Chula Vista	91915
+Alcala Ct	Morgan Hill	95037
+Alcala Ct	Pacifica	94044
+Alcala Ct	Sacramento	95823
+Alcala Ct	San Diego	92111
+Alcala Knolls Dr	San Diego	92111
+Alcala Ln	Montecito	93108
+Alcala Pl	San Diego	92111
+Alcala St	Antioch	94509
+Alcala Way	Palm Springs	92262
+Alcala Way	Riverside	92505
+Alcalde Avenue	Monterey	93940
+Alcalde Ct	San Diego	92127
+Alcalde Dr	Laguna Hills	92653
+Alcalde Drive	Glendale	91207
+Alcalde Extension	Grass Valley	95949
+Alcalde Ln	Temecula	92590
+Alcalde Rd	Coalinga	93210
+Alcalde Rd	Cupertino	95014
+Alcalde St	Santa Clara	95054
+Alcalde Way	Glendale	91207
+Alcamo	Irvine	92614
+Alcamo Ave	Modesto	95351
+Alcamo Ln	Cypress	90630
+Alcamo Pl	Santa Barbara	93105
+Alcamo Rd	San Diego	92126
+Alcan Ct	Groveland	95321
+Alcanon Ct	Sacramento	95833
+Alcantar Cir	Sacramento	95834
+Alcantara Ave	Atascadero	93422
+Alcante Dr	San Jose	95129
+Alcapulco Ct	Oxnard	93035
+Alcaras Ct	Oceanside	92057
+Alcatraz Ave	Belvedere	94920
+Alcatraz Ave	Berkeley	94702
+Alcatraz Ave	Berkeley	94703
+Alcatraz Ave	Berkeley	94705
+Alcatraz Ave	Half Moon Bay	94019
+Alcatraz Ave	Tiburon	94920
+Alcazar Ave	Bakersfield	93311
+Alcazar Ave	Cupertino	95014
+Alcazar Ave	Hayward	94544
+Alcazar Ave	Riverside	92503
+Alcazar Court	Suisun City	94585
+Alcazar Ct	Danville	94526
+Alcazar Dr	Burlingame	94010
+Alcazar Dr	Dana Point	92629
+Alcazar Dr	Menifee	92584
+Alcazar Dr	San Jose	95123
+Alcazar Dr	Santa Maria	93455
+Alcazar Ln	Huntington Beach	92648
+Alcazar Ln	Huntington Beach	92648-5373
+Alcazar Ln	Huntington Beach	92648-5375
+Alcazar Street	Los Angeles	90033
+Alcedo Cir	Sacramento	95823
+Alcedo Ct	Chino	91710
+Alcedo St	San Diego	92114
+Alcester St	Westminster	92683
+Alchemy Way	Napa	94558
+Alchemy Way	Redding	96001
+Alchester Street	Cerritos	90703
+Alcima Avenue	Pacific Palisades	90272
+Alcira	Irvine	92614
+Alcira Nunez St	Stockton	95206
+Alcita	Cathedral City	92234
+Alcita Rd	Cathedral City	92234
+Alclad Avenue	Whittier	90605
+Alcoa Avenue	Los Angeles	90058
+Alcoa Cir	Corona	92880
+Alcoba	Irvine	92614
+Alcoba Dr	Mission Viejo	92691
+Alcoba Dr	Temecula	92592
+Alcocer Way	Indio	92203
+Alcola Cir	Palm Desert	92211
+Alcon Drive	Santa Clarita	91350
+Alcona St	San Diego	92139
+Alcona Street	Rowland Heights	91748
+Alconbury Street	Cerritos	90703
+Alconbury Way	Novato	94949
+Alcor Av	Vandenberg Village	93436
+Alcor Street	Lomita	90717
+Alcorn Dr	Moreno Valley	92557
+Alcorn Dr	Victorville	92392
+Alcorn Drive	La Canada Flintridge	91011
+Alcorn Ln	Irvine	92603
+Alcorn Pl	San Diego	92115
+Alcorn St	San Diego	92154
+Alcosta Blvd	San Ramon	94583
+Alcosta Ct	San Ramon	94583
+Alcosta Dr	Milpitas	95035
+Alcosta Pl	Pittsburg	94565
+Alcosta Way	Sacramento	95827
+Alcot Cir	Palm Desert	92211
+Alcotan Ln	Atascadero	93422
+Alcott Av	Lompoc	93436
+Alcott Ave	Chico	95928
+Alcott Ave	Pla	92870
+Alcott Ave	Placentia	92870
+Alcott Avenue	Pomona	91766
+Alcott Cir	Bethel Island	94511
+Alcott Court	Stevenson Ranch	91381
+Alcott Ct	Bethel Island	94511
+Alcott Ct	Hemet	92543
+Alcott Ct	Irvine	92617
+Alcott Ct	Modesto	95355
+Alcott Ct	Roseville	95747
+Alcott Ct	San Diego	92106
+Alcott Dr	Bakersfield	93311
+Alcott Dr	Riverside	92506
+Alcott Dr	Sacramento	95820
+Alcott Ln	Willits	 
+Alcott Pl	Laguna Niguel	92677
+Alcott Pl	Tracy	95376
+Alcott Pl	Willits	 
+Alcott Rd	Niland	92257
+Alcott Rd	San Bruno	94066
+Alcott St	Ladera Ranch	92694
+Alcott St	San Diego	92106
+Alcott St	Victorville	92392
+Alcott Street	Los Angeles	90035
+Alcott Street	Tulare	93274
+Alcott Ter	Willits	 
+Alcott Union Dr	Murrieta	92563
+Alcott Way	Saratoga	95070
+Alcove Avenue	North Hollywood	91605
+Alcove Avenue	North Hollywood	91606
+Alcove Avenue	Studio City	91604
+Alcove Avenue	Valley Village	91607
+Alcove Ln	Menifee	92584
+Alcove Pl	Moreno Valley	92557
+Alcove Pl	Perris	92570
+Alcove Way	Madera	93636
+Alcove Way	Sacramento	95833
+Alcove Way	Vacaville	95688
+Alcoy Court	Lancaster	93536
+Alcoy Dr	Ceres	95307
+Alcross Street	Covina	91722
+Alcudia	Mission Viejo	92692
+Alcudia Rd	Hinkley	92347
+Alcyon Ct	Carlsbad	92011
+Alcyona Drive	Los Angeles	90068

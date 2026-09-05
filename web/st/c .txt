@@ -1,0 +1,146 @@
+C Anderholt	Holtville	92250
+C Anna Sparks Wy	Mckinleyville	95519
+C Av	Mckinleyville	95519
+C Ave	Auburn	95603
+C Ave	Banning	92220
+C Ave	Bombay Beach	92257
+C Ave	Brawley	92227
+C Ave	Coronado	92118
+C Ave	Hesperia	92345
+C Ave	National City	91950
+C Ave	Perris	92570
+C Ave	Yucca Valley	92284
+C & D Blvd	Blythe	92225
+C Edgebrook Dr	Modesto	95354
+C Happy Camp Rd	Stonyford	95979
+C Higgins St	Eureka	95503
+C Hwy 86	El Centro	92243
+C I St	Arcata	95521
+C. K. Clarke St	Calexico	92231
+C Kay Ct	Cottonwood	96022
+C Klose Way	Richmond	94806
+C Ln	Big Bear City	92314
+C Ln	Lake Arrowhead	92352
+C Lopez Jr Way	Elk Grove	95757
+C M Spring Rd	Coalinga	93210
+C Myrtle Av	Eureka	95501
+C N Perry	Calexico	92231
+C N Perry Ave	Calexico	92231
+C N Perry Rd	Calexico	92231
+C N Perry St	Calexico	92231
+C Olive	El Centro	92243
+C Olive Ave	El Centro	92243
+C Painted Gorge Rd	Ocotillo	92259
+C Pkwy	Sacramento	95823
+C Quiroz St	Calexico	92231
+C Rd	Big Lagoon	95570
+C Rd	Brawley	92227
+C Rd	Kettenpom	95595
+C Richmond Ct	Richmond	94801
+C Sanchez	Calexico	92231
+C St	2	94509
+C St	Anderson	96007
+C St	Antioch	94509
+C St	Arcata	95521
+C St	Armona	93202
+C St	Bakersfield	93301
+C St	Bakersfield	93304
+C St	Banning	92220
+C St	Biggs	95917
+C St	Blue Lake	95525
+C St	Borrego Springs	92004
+C St	Brawley	92227
+C St	Cathedral City	92234
+C St	Chico	95928
+C St	Chino	91710
+C St	Chula Vista	91910
+C St	Colma	94014
+C St	Concord	94518
+C St	Crescent City	95531
+C St	Daggett	92327
+C St	El Cerrito	94530
+C St	Empire	95319
+C St	Empire	95357
+C St	Encinitas	92024
+C St	Eureka	95501
+C St	Eureka	95503
+C St	Fields Landing	95503
+C St	Fillmore	93015
+C St	Fresno	93706
+C St	Fulton	95439
+C St	Galt	95632
+C St	Havasu Lake	92363
+C St	Hayward	94541
+C St	Hemet	92544
+C St	Hollister	95023
+C St	Isleton	95641
+C St	Julian	92036
+C St	Lakeport	95453
+C St	Lemoore	93245
+C St	Lincoln	95648
+C St	Lower Lake	95457
+C St	Martinez	94553
+C St	Mckinleyville	95519
+C St	Menifee	92587
+C St	Modesto	95354
+C St	Monte Rio	95462
+C St	Murrieta	92562
+C St	Napa	94559
+C St	National City	91950
+C St	Needles	92363
+C St	Novato	94949
+C St	Orange Cove	93646
+C St	Oroville	95966
+C St	Oxnard	93030
+C St	Oxnard	93036
+C St	Pala	92059
+C St	Patterson	95363
+C St	Perris	92570
+C St	Petaluma	94952
+C St	Point Reyes Station	94956
+C St	Redding	96002
+C St	Redwood City	94063
+C St	Reedley	93654
+C St	Richmond	94801
+C St	Rio Linda	95673
+C St	Rocklin	95677
+C St	Roseville	95678
+C St	Sacramento	95811
+C St	Sacramento	95814
+C St	Sacramento	95816
+C St	Sacramento	95819
+C St	San Diego	92101
+C St	San Diego	92102
+C St	San Rafael	94901
+C St	Selma	93662
+C St	South San Francisco	94080
+C St	Temecula	92592
+C St	Trona	93562
+C St	Turlock	95380
+C St	Union City	94587
+C St	Victorville	92395
+C St	Walnut Grove	95690
+C St	Waterford	95386
+C St	Williams	95987
+C St	Windsor	95492
+C St & 1113 Welcome St	Brawley	92227
+C St & 1520 B St	Brawley	92227
+C Stagecoach Rd	Trinidad	95570
+C Street	Atwater	95301
+C Street	City Of Marysville	95901
+C Street	City Of Wheatland	95692
+C Street	Davis	95616
+C Street	Gonzales	93926
+C Street	Grass Valley	95945
+C Street	La Verne	91750
+C Street	Livingston	95334
+C Street	Los Banos	93635
+C Street	Salinas	93905
+C Street	Salinas	93955
+C Street	Travis Afb	94535
+C Street	Tulelake	96134
+C Street	Vallejo	94590
+C Street	West Sacramento	95605
+C Street	Wilmington	90744
+C Street	Woodland	95776
+C Street	Yuba City	95991

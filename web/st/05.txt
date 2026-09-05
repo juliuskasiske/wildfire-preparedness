@@ -1,0 +1,16 @@
+05Th Ave	Chula Vista	91910
+05Th Ave	Chula Vista	91911
+05Th Ave	San Diego	92101
+05Th Ave	San Diego	92102
+05Th Ave	San Diego	92103
+05Th Ave	San Francisco	94118
+05Th Ave	San Francisco	94122
+05Th Pl	Escondido	92029
+05Th St	Coronado	92118
+05Th St	Encinitas	92024
+05Th St	Fallbrook	92028
+05Th St	Imperial Beach	91932
+05Th St	Ramona	92065
+05Th St	Rancho Santa Fe	92067
+05Th St	San Francisco	94103
+05Th St	San Francisco	94107

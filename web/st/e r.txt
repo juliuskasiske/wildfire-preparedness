@@ -1,0 +1,713 @@
+E Race Ave	Visalia	93291
+E Race Ave	Visalia	93292
+E Rachel Dr	Santa Maria	93454
+E Raco Ave	Fresno	93702
+E Raco Ave	Fresno	93727
+E Racquet Club	Palm Springs	92262
+E Racquet Club Rd	Palm Springs	92262
+E Radar Ave	Ridgecrest	93555
+E Radbard St	Carson	90746
+E Radcliffe Ave	Ana	92806
+E Radcliffe Ave	Anaheim	92806
+E Railroad Ave	Cotati	94931
+E Railroad Ave	Orange Cove	93646
+E Railroad Ave	Penngrove	94951
+E Railroad Ave	Rohnert Park	94928
+E Railroad St	Sacramento	95826
+E Rainbow Blvd	Big Bear City	92314
+E Rainbow Dr	Santa Maria	93454
+E Rainbow Dr	Santa Maria	93455
+E Rainbow Dr (River Club)	Tracy	95304
+E Rainbow Ln	Bre	92821
+E Rainbow Ln	Highland	92346
+E Rainier Ave	Orange	92865
+E Raintree Dr	Bre	92821
+E Rainview Ct	Anaheim	92808
+E Ralph	Imperial	92251
+E Ralph Av	Stockton	95206
+E Ralph Rd	Imperial	92251
+E Ralston Ave	San Bernardino	92404
+E Ralston St	Ontario	91761
+E Ramon Dr	Palm Springs	92262
+E Ramon Rd	Cathedral City	92234
+E Ramon Rd	Palm Springs	92262
+E Ramon Rd	Palm Springs	92264
+E Ramon Rd	Thousand Palms	92276
+E Ramona Ave	Fresno	93727
+E Ramona Dr	Rialto	92376
+E Ramona Dr	Whittier	90602
+E Ramona Dr	Whittier	90605
+E Ramona Expwy	Perris	92571
+E Ramona Expy	Perris	92571
+E Ramona St	Ventura	93001
+E Ramona Way	Fresno	93704
+E Ramona Way	Fresno	93727
+E Ramona Way	Fresno	93737
+E Ramsey Dr	Mh	95391
+E Ramsey St	Banning	92220
+E Ranch Gate Rd	Anaheim	92807
+E Ranch Rd	Sacramento	95825
+E Ranchero Rd	Bell Canyon	91307
+E Ranchero Rd	Clements	95227
+E Rancho Dr	Fresno	93727
+E Rancho Estates Pl	Rancho Cucamonga	91739
+E Rancho Rd	Corona	92879
+E Randall Ave	Rialto	92376
+E Randall St	Orange	92869
+E Randall St	Orange Park Acres	92869
+E Randolph St	Eureka	95503
+E Randy Ave	Anaheim	92806
+E Ranger Ct	Upland	91784
+E Ranger St	Upland	91784
+E Rankins Ln	San Bernardino	92404
+E Raquet Club Rd	Palm Springs	92262
+E Raspberry Ln	Ontario	91762
+E Ratto Rd	Stockton	95212
+E Raven Ct	Orange	92869
+E Ravencrest Dr	Bre	92821
+E Ravenna Ave	Newberry Springs	92365
+E Ravenswood Way	Clovis	93619
+E Rayburn Ave	Fresno	93727
+E Raymond Ct	Stockton	95212
+E Raymond St	Oak View	93022
+E Raymond St	Ontario	91764
+E Raymond St	Upland	91786
+E Raymond Way	Anaheim	92801
+E Raywood Ln	Whittier	90603
+E Rd	Palm Springs	92264
+E Rd	Winterhaven	92283
+E Realty Rd	Lodi	95240
+E Realty St	Carson	90745
+E Red Barn Rd	Camarillo	93012
+E Red Beaut Ave	Reedley	93654
+E Red Beaut Cir	Reedley	93654
+E Red Oak Dr	Sunnyvale	94086
+E Red Oak Pl	Camarillo	93010
+E Red Tail Ct	Stockton	95215
+E Redberry Pl	Mh	95391
+E Redbud St	Bre	92821
+E Redgold Dr	Fresno	93727
+E Redlands Ave	Fresno	93726
+E Redlands Ave	Fresno	93727
+E Redlands Ave	Fresno	93737
+E Redlands Blvd	Loma Linda	92354
+E Redlands Blvd	Redlands	92373
+E Redlands Blvd	Redlands	92374
+E Redlands Blvd	San Bernardino	92408
+E Redondo Ave	Del Rey	93616
+E Redwood Ave	Anaheim	92805
+E Redwood Ave	Fort Bragg	 
+E Redwood Ave	Orange	92865
+E Redwood Dr (River Club)	Tracy	95304
+E Redwood Rd	Ceres	95307
+E Redwood Rd	Denair	95316
+E Redwood Rd	Hughson	95326
+E Redwood St	Hanford	93230
+E Reed St	San Jose	95112
+E Reese Ave	Visalia	93277
+E Reese Ave	Visalia	93292
+E Regal Dr	Fresno	93730
+E Regal Park Dr	Anaheim	92806
+E Regency Ave	Orange	92867
+E Regency Circle	Villa Park	92867
+E Regent St	Camarillo	93010
+E Reid Ave	Porterville	93257
+E Reliance	Carson	90746
+E Remington Ave	Ontario	91762
+E Remington Dr	Sunnyvale	94086
+E Remington Dr	Sunnyvale	94087
+E Renette Ave	El Cajon	92020
+E Reno Ave	Clovis	93619
+E Renton St	Carson	90745
+E Replier	Banning	92220
+E Repplier Rd	Banning	92220
+E Research Dr	Palm Springs	92262
+E Reseda Pl	Anaheim	92806
+E Rev Chester Riggins Ave	Fresno	93706
+E Revell Cir	Buena Park	90620
+E Revere Rd	Fresno	93720
+E Revere St	Upland	91784
+E Revis Ln	Coarsegold	93614
+E Rialto Ave	Fresno	93704
+E Rialto Ave	Fresno	93726
+E Rialto Ave	Rialto	92376
+E Rialto Ave	San Bernardino	92407
+E Rialto Ave	San Bernardino	92408
+E Rialto Ave	San Bernardino	92415
+E Rialto Ave	Sanger	93657
+E Rice Ranch Rd	Orcutt	93455
+E Rice Ranch Rd	Santa Barbara Unincorporated	93455
+E Rice Ranch Rd	Santa Maria	93455
+E Rice Rd	Oxnard	93033
+E Rice St	Blythe	92225
+E Richard Ave	Porterville	93257
+E Richert Ave	Fresno	93704
+E Richert Ave	Fresno	93726
+E Richert Ave	Sanger	93657
+E Richland Ave	Orange	92865
+E Richland St	Ontario	91764
+E Richland St	Upland	91786
+E Richmind Ct	Santa Maria	93455
+E Richmond Ave	Clovis	93619
+E Richmond Ave	Fresno	93720
+E Richmond Ave	Richmond	94801
+E Richmond St	Ontario	91761
+E Rick Av	Stockton	95215
+E Ricker Way	Anaheim	92806
+E Ricotta Ct	Mh	95391
+E Riddering St	Santa Maria	93454
+E Rideout Pl	Whittier	90601
+E Rideout Way	Whittier	90601
+E Rider Ave	Perris	92571
+E Rider St	Perris	92571
+E Ridge Ct	Danville	94506
+E Ridge Gate Rd	Anaheim	92807
+E Ridge Glen Rd	Anaheim	92807
+E Ridge Loop	Oxnard	93036
+E Ridge Trl	Oxnard	93036
+E Ridge View Ct	Upland	91784
+E Ridgecrest Dr	Fresno	93730
+E Ridgefield Ave	Carlsbad	92010
+E Ridgemont Ct	Orange	92869
+E Ridgeview Cir	Villa Park	92867
+E Ridgeview Rd	Villa Park	92867
+E Ridgeway Rd	Orange	92867
+E Ridgewood Ct	Anaheim	92807
+E Ridgewood Ct	Stockton	95212
+E Ridgewood Ln	Fresno	93730
+E Ridgewood Ln	Villa Park	92867
+E Riding Way	Orange	92867
+E Rienstra St	Chula Vista	91911
+E Riesling Dr	Fresno	93727
+E Riles Cir	Anaheim	92806
+E Rimcrest Rd	Bre	92821
+E Rimwood Dr	Whittier	90603
+E Rincon Ave	Campbell	95008
+E Rincon Dr	Whittier	90606
+E Rincon Privado	Ontario	91761
+E Rincon St	Corona	92879
+E Rincon St	Ontario	91761
+E Ringwood St	Simi Valley	93063
+E Rio Bonito Rd	Biggs	95917
+E Rio Florida Dr	Whittier	90603
+E Rio Grande Dr	Ana	92807
+E Rio Grande Dr	Anaheim	92807
+E Rio Vista Ave	Porterville	93257
+E Riodosa Trl	Oak Park	91377
+E Rios Ct	Santa Maria	93454
+E Risley St	Whittier	90603
+E Risso Ct	Linden	95236
+E Rivani Wy	Mh	95391
+E River	Brawley	92227
+E River Ave	Orange	92866
+E River Ave	Porterville	93257
+E River Dr	Brawley	92227
+E River Meadows Dr	Woodbridge	95258
+E River Park Cir	Fresno	93720
+E River Park Pl E	Fresno	93720
+E River Park Pl W	Fresno	93720
+E River Pkwy	Santa Clara	95054
+E River Rd	Escalon	95320
+E River Rd	Modesto	95351
+E River Rd	Oakdale	95361
+E River Rd	Ripon	95366
+E River Rd N	Oceanside	92057
+E River St	Brawley	92227
+E River Valley Trl	Anaheim	92807
+E Rivera Ave	Calexico	92231
+E Rivera Pl	Chula Vista	91911
+E Rivera Rd	Whittier	90606
+E Riverbend Ct	Visalia	93291
+E Riverboat Way	Orange	92865
+E Riverdale Ave	Anaheim	92807
+E Riverdale Ave	Laton	93242
+E Riverdale Ave	Orange	92865
+E Rivermark Pkwy	Santa Clara	95054
+E Riversdie Dr	Ontario	91761
+E Riverside Ave	Colton	92324
+E Riverside Dr	Madera	93637
+E Riverside Dr	Madera	93638
+E Riverside Dr	Ontario	91761
+E Riverside Dr	Woodbridge	95258
+E Riverside Dr 1/2	Madera	93638
+E Riverside & S Archibald SE	Ontario	91761
+E Riverview Ave	Orange	92865
+E Riverview Ci	Ripon	95366
+E Riverview Dr	Redlands	92374
+E Riverview Dr	San Bernardino	92408
+E Riverview Ln	Lockeford	95237
+E Riverway Ave	Visalia	93291
+E Riverwood St	Colton	92324
+E Riviera Ct	Woodbridge	95258
+E Roadrunner Dr	Bre	92823
+E Roan St	Ontario	91761
+E Robbie Cir	Villa Park	92867
+E Robbins Ct	Anaheim	92806
+E Robert Ave	Oxnard	93033
+E Robert Dr	Point Reyes Station	94956
+E Roberta Ct	Stockton	95212
+E Roberta Dr	Orange	92869
+E Roberta Pl	Stockton	95212
+E Roberts Ave	Fresno	93710
+E Roberts Ln	Bakersfield	93308
+E Robertson Blvd	Chowchilla	93610
+E Robertson St	Stockton	95205
+E Robin Ave	Visalia	93291
+E Robin Ln	Fresno	93730
+E Robin Way	Villa Park	92867
+E Robindale Av	Stockton	95205
+E Robinhood Dr	Stockton	95207
+E Robinson	Holtville	92250
+E Robinson	Imperial	92251
+E Robinson Ave	Fresno	93704
+E Robinson Ave	Fresno	93726
+E Robinson Ave	Fresno	93727
+E Robinson Ave	Fresno	93737
+E Robinson Ave	Sanger	93657
+E Robinson Rancheria Rd	Upper Lake	95485
+E Robinson Rd	Imperial	92251
+E Robinson Rd Or Hwy 111 Way	Imperial	92251
+E Robinson St	Imperial	92251
+E Robinwood Ln	Fresno	93710
+E Robles Ave	Santa Rosa	95407
+E Roblin St	Carson	90746
+E Roby Ave	Porterville	93257
+E Rochelle Rd	Palm Springs	92262
+E Rock Creek Dr	Orange	92866
+E Rock Creek Ln	Fresno	93730
+E Rockaway Dr	Pla	92870
+E Rockaway Dr	Placentia	92870
+E Rocking Horse Way	Orange	92869
+E Rocking Horse Wy	Orange	92869
+E Rockingham Ct	Fresno	93720
+E Rockland Dr	Fresno	93720
+E Rocklite Rd	Ventura	93001
+E Rockridge Ln	Bre	92821
+E Rockvale Ln	Anaheim	92808
+E Rockwell Dr	Fresno	93720
+E Rocky Point Rd	Anaheim	92807
+E Rodbell Ln	Mh	95391
+E Rode Rd	Acampo	95220
+E Rodeo Dr	Clements	95227
+E Roemer Way	Santa Maria	93454
+E Rogers Dr	Orange Park Acres	92869
+E Rogue Dr	Anaheim	92807
+E Rolling Green Ln	Orange	92867
+E Rolling Hills Dr	Anaheim	92807
+E Rolling Hills Dr	Ful	92835
+E Rolling Hills Dr	Fullerton	92835
+E Rolling Oaks Dr	Thousand Oaks	91361
+E Romelle Ave	Orange	92869
+E Romero Ct	Mh	95391
+E Romero Dr	Whittier	90605
+E Romie	Salinas	93901
+E Romie Court	Salinas	93901
+E Romie Lane	Salinas	93901
+E Romneya Dr	Anaheim	92805
+E Romneya Dr	Anaheim	92806
+E Roosevelt Ave	Visalia	93292
+E Roosevelt Ct	Visalia	93292
+E Roosevelt St	Coalinga	93210
+E Roosevelt St	Stockton	95205
+E Rootwood Pl	Mh	95391
+E Roquefort Ct	Mh	95391
+E Rorden Ave	Selma	93662
+E Rosa St	Rialto	92376
+E Rosanne Cir	Villa Park	92867
+E Rosarito Way	Palm Springs	92262
+E Rose	Holtville	92250
+E Rose Av	Bay Point	94565
+E Rose Av	Orange	92867
+E Rose Av	Santa Maria	93454
+E Rose Ave	Bay Point	94565
+E Rose Ave	Fresno	93725
+E Rose Ave	Kingsburg	93631
+E Rose Ave	La Habra	90631
+E Rose Ave	Lah	90631
+E Rose Ave	Orange	92867
+E Rose Ave	Reedley	93654
+E Rose Ave	Santa Maria	93454
+E Rose Ave	Selma	93662
+E Rose Ave	Visalia	93277
+E Rose Ave	Visalia	93292
+E Rose Cir	Los Altos	94022
+E Rose Cir	Los Altos	94024
+E Rose Clover Ln	Linden	95236
+E Rose Ct	Visalia	93277
+E Rose Ct	Visalia	93292
+E Rose Dr	Whittier	90601
+E Rose Dr	Whittier	90606
+E Rose Hedge Dr	Whittier	90606
+E Rose Lilian Ct	Mh	95391
+E Rose Lilian Ct	Mountain House	95391
+E Rose Lilian St	Mh	95391
+E Rose Petal Way	Ontario	91762
+E Rose Pl	Santa Maria	93454
+E Rose St	Holtville	92250
+E Rose St	Stockton	95202
+E Rose Valley Rd	Ojai	93023
+E Roseburg Ave	Modesto	95350
+E Rosecrans Ct	Bre	92821
+E Rosecrans Ct	Brea	92821
+E Rosecrest Ave	La Habra	90631
+E Rosedale Ln	Orange	92869
+E Roseland Dr	La Jolla	92037
+E Rosemary Ln	Campbell	95008
+E Rosemary St	San Jose	95112
+E Rosemont Ln	Fresno	93730
+E Rosenau Cir	Villa Park	92867
+E Rosenau Dr	Villa Park	92867
+E Roseville Pkwy	Granite Bay	95746
+E Roseville Pw	Roseville	95661
+E Roseville Pw	Roseville	95746
+E Roseville Pw Apt 1011	Roseville	95661
+E Roseville Pw Apt 1012	Roseville	95661
+E Roseville Pw Apt 1013	Roseville	95661
+E Roseville Pw Apt 1014	Roseville	95661
+E Roseville Pw Apt 1015	Roseville	95661
+E Roseville Pw Apt 1016	Roseville	95661
+E Roseville Pw Apt 1017	Roseville	95661
+E Roseville Pw Apt 1018	Roseville	95661
+E Roseville Pw Apt 1021	Roseville	95661
+E Roseville Pw Apt 1022	Roseville	95661
+E Roseville Pw Apt 1023	Roseville	95661
+E Roseville Pw Apt 1024	Roseville	95661
+E Roseville Pw Apt 1025	Roseville	95661
+E Roseville Pw Apt 1026	Roseville	95661
+E Roseville Pw Apt 1027	Roseville	95661
+E Roseville Pw Apt 1028	Roseville	95661
+E Roseville Pw Apt 1032	Roseville	95661
+E Roseville Pw Apt 1033	Roseville	95661
+E Roseville Pw Apt 1036	Roseville	95661
+E Roseville Pw Apt 1037	Roseville	95661
+E Roseville Pw Apt 111	Roseville	95661
+E Roseville Pw Apt 1111	Roseville	95661
+E Roseville Pw Apt 1112	Roseville	95661
+E Roseville Pw Apt 1113	Roseville	95661
+E Roseville Pw Apt 1114	Roseville	95661
+E Roseville Pw Apt 1115	Roseville	95661
+E Roseville Pw Apt 1116	Roseville	95661
+E Roseville Pw Apt 1117	Roseville	95661
+E Roseville Pw Apt 1118	Roseville	95661
+E Roseville Pw Apt 112	Roseville	95661
+E Roseville Pw Apt 1121	Roseville	95661
+E Roseville Pw Apt 1122	Roseville	95661
+E Roseville Pw Apt 1123	Roseville	95661
+E Roseville Pw Apt 1124	Roseville	95661
+E Roseville Pw Apt 1125	Roseville	95661
+E Roseville Pw Apt 1126	Roseville	95661
+E Roseville Pw Apt 1127	Roseville	95661
+E Roseville Pw Apt 1128	Roseville	95661
+E Roseville Pw Apt 113	Roseville	95661
+E Roseville Pw Apt 114	Roseville	95661
+E Roseville Pw Apt 121	Roseville	95661
+E Roseville Pw Apt 1211	Roseville	95661
+E Roseville Pw Apt 1212	Roseville	95661
+E Roseville Pw Apt 1213	Roseville	95661
+E Roseville Pw Apt 1214	Roseville	95661
+E Roseville Pw Apt 1215	Roseville	95661
+E Roseville Pw Apt 1216	Roseville	95661
+E Roseville Pw Apt 1217	Roseville	95661
+E Roseville Pw Apt 1218	Roseville	95661
+E Roseville Pw Apt 122	Roseville	95661
+E Roseville Pw Apt 1221	Roseville	95661
+E Roseville Pw Apt 1222	Roseville	95661
+E Roseville Pw Apt 1223	Roseville	95661
+E Roseville Pw Apt 1224	Roseville	95661
+E Roseville Pw Apt 1225	Roseville	95661
+E Roseville Pw Apt 1226	Roseville	95661
+E Roseville Pw Apt 1227	Roseville	95661
+E Roseville Pw Apt 1228	Roseville	95661
+E Roseville Pw Apt 123	Roseville	95661
+E Roseville Pw Apt 124	Roseville	95661
+E Roseville Pw Apt 1311	Roseville	95661
+E Roseville Pw Apt 1312	Roseville	95661
+E Roseville Pw Apt 1313	Roseville	95661
+E Roseville Pw Apt 1314	Roseville	95661
+E Roseville Pw Apt 1315	Roseville	95661
+E Roseville Pw Apt 1316	Roseville	95661
+E Roseville Pw Apt 1317	Roseville	95661
+E Roseville Pw Apt 1318	Roseville	95661
+E Roseville Pw Apt 1321	Roseville	95661
+E Roseville Pw Apt 1322	Roseville	95661
+E Roseville Pw Apt 1323	Roseville	95661
+E Roseville Pw Apt 1324	Roseville	95661
+E Roseville Pw Apt 1325	Roseville	95661
+E Roseville Pw Apt 1326	Roseville	95661
+E Roseville Pw Apt 1327	Roseville	95661
+E Roseville Pw Apt 1328	Roseville	95661
+E Roseville Pw Apt 1331	Roseville	95661
+E Roseville Pw Apt 1332	Roseville	95661
+E Roseville Pw Apt 1333	Roseville	95661
+E Roseville Pw Apt 1334	Roseville	95661
+E Roseville Pw Apt 1335	Roseville	95661
+E Roseville Pw Apt 1336	Roseville	95661
+E Roseville Pw Apt 1337	Roseville	95661
+E Roseville Pw Apt 1338	Roseville	95661
+E Roseville Pw Apt 1411	Roseville	95661
+E Roseville Pw Apt 1412	Roseville	95661
+E Roseville Pw Apt 1413	Roseville	95661
+E Roseville Pw Apt 1414	Roseville	95661
+E Roseville Pw Apt 1415	Roseville	95661
+E Roseville Pw Apt 1416	Roseville	95661
+E Roseville Pw Apt 1417	Roseville	95661
+E Roseville Pw Apt 1418	Roseville	95661
+E Roseville Pw Apt 1421	Roseville	95661
+E Roseville Pw Apt 1422	Roseville	95661
+E Roseville Pw Apt 1423	Roseville	95661
+E Roseville Pw Apt 1424	Roseville	95661
+E Roseville Pw Apt 1425	Roseville	95661
+E Roseville Pw Apt 1426	Roseville	95661
+E Roseville Pw Apt 1427	Roseville	95661
+E Roseville Pw Apt 1428	Roseville	95661
+E Roseville Pw Apt 1431	Roseville	95661
+E Roseville Pw Apt 1432	Roseville	95661
+E Roseville Pw Apt 1433	Roseville	95661
+E Roseville Pw Apt 1434	Roseville	95661
+E Roseville Pw Apt 1435	Roseville	95661
+E Roseville Pw Apt 1436	Roseville	95661
+E Roseville Pw Apt 1437	Roseville	95661
+E Roseville Pw Apt 1438	Roseville	95661
+E Roseville Pw Apt 1511	Roseville	95661
+E Roseville Pw Apt 1512	Roseville	95661
+E Roseville Pw Apt 1513	Roseville	95661
+E Roseville Pw Apt 1514	Roseville	95661
+E Roseville Pw Apt 1515	Roseville	95661
+E Roseville Pw Apt 1516	Roseville	95661
+E Roseville Pw Apt 1517	Roseville	95661
+E Roseville Pw Apt 1518	Roseville	95661
+E Roseville Pw Apt 1521	Roseville	95661
+E Roseville Pw Apt 1522	Roseville	95661
+E Roseville Pw Apt 1523	Roseville	95661
+E Roseville Pw Apt 1524	Roseville	95661
+E Roseville Pw Apt 1525	Roseville	95661
+E Roseville Pw Apt 1526	Roseville	95661
+E Roseville Pw Apt 1527	Roseville	95661
+E Roseville Pw Apt 1528	Roseville	95661
+E Roseville Pw Apt 1611	Roseville	95661
+E Roseville Pw Apt 1612	Roseville	95661
+E Roseville Pw Apt 1613	Roseville	95661
+E Roseville Pw Apt 1614	Roseville	95661
+E Roseville Pw Apt 1615	Roseville	95661
+E Roseville Pw Apt 1616	Roseville	95661
+E Roseville Pw Apt 1617	Roseville	95661
+E Roseville Pw Apt 1618	Roseville	95661
+E Roseville Pw Apt 1621	Roseville	95661
+E Roseville Pw Apt 1622	Roseville	95661
+E Roseville Pw Apt 1623	Roseville	95661
+E Roseville Pw Apt 1624	Roseville	95661
+E Roseville Pw Apt 1625	Roseville	95661
+E Roseville Pw Apt 1626	Roseville	95661
+E Roseville Pw Apt 1627	Roseville	95661
+E Roseville Pw Apt 1628	Roseville	95661
+E Roseville Pw Apt 1632	Roseville	95661
+E Roseville Pw Apt 1633	Roseville	95661
+E Roseville Pw Apt 1636	Roseville	95661
+E Roseville Pw Apt 1637	Roseville	95661
+E Roseville Pw Apt 1711	Roseville	95661
+E Roseville Pw Apt 1712	Roseville	95661
+E Roseville Pw Apt 1713	Roseville	95661
+E Roseville Pw Apt 1714	Roseville	95661
+E Roseville Pw Apt 1715	Roseville	95661
+E Roseville Pw Apt 1716	Roseville	95661
+E Roseville Pw Apt 1717	Roseville	95661
+E Roseville Pw Apt 1718	Roseville	95661
+E Roseville Pw Apt 1721	Roseville	95661
+E Roseville Pw Apt 1722	Roseville	95661
+E Roseville Pw Apt 1723	Roseville	95661
+E Roseville Pw Apt 1724	Roseville	95661
+E Roseville Pw Apt 1725	Roseville	95661
+E Roseville Pw Apt 1726	Roseville	95661
+E Roseville Pw Apt 1727	Roseville	95661
+E Roseville Pw Apt 1728	Roseville	95661
+E Roseville Pw Apt 1811	Roseville	95661
+E Roseville Pw Apt 1812	Roseville	95661
+E Roseville Pw Apt 1813	Roseville	95661
+E Roseville Pw Apt 1814	Roseville	95661
+E Roseville Pw Apt 1815	Roseville	95661
+E Roseville Pw Apt 1816	Roseville	95661
+E Roseville Pw Apt 1817	Roseville	95661
+E Roseville Pw Apt 1818	Roseville	95661
+E Roseville Pw Apt 1821	Roseville	95661
+E Roseville Pw Apt 1822	Roseville	95661
+E Roseville Pw Apt 1823	Roseville	95661
+E Roseville Pw Apt 1824	Roseville	95661
+E Roseville Pw Apt 1825	Roseville	95661
+E Roseville Pw Apt 1826	Roseville	95661
+E Roseville Pw Apt 1827	Roseville	95661
+E Roseville Pw Apt 1828	Roseville	95661
+E Roseville Pw Apt 211	Roseville	95661
+E Roseville Pw Apt 212	Roseville	95661
+E Roseville Pw Apt 213	Roseville	95661
+E Roseville Pw Apt 214	Roseville	95661
+E Roseville Pw Apt 221	Roseville	95661
+E Roseville Pw Apt 222	Roseville	95661
+E Roseville Pw Apt 223	Roseville	95661
+E Roseville Pw Apt 224	Roseville	95661
+E Roseville Pw Apt 311	Roseville	95661
+E Roseville Pw Apt 312	Roseville	95661
+E Roseville Pw Apt 313	Roseville	95661
+E Roseville Pw Apt 314	Roseville	95661
+E Roseville Pw Apt 321	Roseville	95661
+E Roseville Pw Apt 322	Roseville	95661
+E Roseville Pw Apt 323	Roseville	95661
+E Roseville Pw Apt 324	Roseville	95661
+E Roseville Pw Apt 411	Roseville	95661
+E Roseville Pw Apt 412	Roseville	95661
+E Roseville Pw Apt 413	Roseville	95661
+E Roseville Pw Apt 414	Roseville	95661
+E Roseville Pw Apt 415	Roseville	95661
+E Roseville Pw Apt 416	Roseville	95661
+E Roseville Pw Apt 417	Roseville	95661
+E Roseville Pw Apt 418	Roseville	95661
+E Roseville Pw Apt 421	Roseville	95661
+E Roseville Pw Apt 422	Roseville	95661
+E Roseville Pw Apt 423	Roseville	95661
+E Roseville Pw Apt 424	Roseville	95661
+E Roseville Pw Apt 425	Roseville	95661
+E Roseville Pw Apt 426	Roseville	95661
+E Roseville Pw Apt 427	Roseville	95661
+E Roseville Pw Apt 428	Roseville	95661
+E Roseville Pw Apt 431	Roseville	95661
+E Roseville Pw Apt 432	Roseville	95661
+E Roseville Pw Apt 433	Roseville	95661
+E Roseville Pw Apt 434	Roseville	95661
+E Roseville Pw Apt 435	Roseville	95661
+E Roseville Pw Apt 436	Roseville	95661
+E Roseville Pw Apt 437	Roseville	95661
+E Roseville Pw Apt 438	Roseville	95661
+E Roseville Pw Apt 511	Roseville	95661
+E Roseville Pw Apt 512	Roseville	95661
+E Roseville Pw Apt 513	Roseville	95661
+E Roseville Pw Apt 514	Roseville	95661
+E Roseville Pw Apt 521	Roseville	95661
+E Roseville Pw Apt 522	Roseville	95661
+E Roseville Pw Apt 523	Roseville	95661
+E Roseville Pw Apt 524	Roseville	95661
+E Roseville Pw Apt 611	Roseville	95661
+E Roseville Pw Apt 612	Roseville	95661
+E Roseville Pw Apt 613	Roseville	95661
+E Roseville Pw Apt 614	Roseville	95661
+E Roseville Pw Apt 615	Roseville	95661
+E Roseville Pw Apt 616	Roseville	95661
+E Roseville Pw Apt 617	Roseville	95661
+E Roseville Pw Apt 618	Roseville	95661
+E Roseville Pw Apt 621	Roseville	95661
+E Roseville Pw Apt 622	Roseville	95661
+E Roseville Pw Apt 623	Roseville	95661
+E Roseville Pw Apt 624	Roseville	95661
+E Roseville Pw Apt 625	Roseville	95661
+E Roseville Pw Bldg 1	Roseville	95661
+E Roseville Pw Bldg 10	Roseville	95661
+E Roseville Pw Bldg 11	Roseville	95661
+E Roseville Pw Bldg 12	Roseville	95661
+E Roseville Pw Bldg 13	Roseville	95661
+E Roseville Pw Bldg 14	Roseville	95661
+E Roseville Pw Bldg 15	Roseville	95661
+E Roseville Pw Bldg 16	Roseville	95661
+E Roseville Pw Bldg 17	Roseville	95661
+E Roseville Pw Bldg 18	Roseville	95661
+E Roseville Pw Bldg 2	Roseville	95661
+E Roseville Pw Bldg 3	Roseville	95661
+E Roseville Pw Bldg 4	Roseville	95661
+E Roseville Pw Bldg 5	Roseville	95661
+E Roseville Pw Bldg 6	Roseville	95661
+E Roseville Pw Bldg 7	Roseville	95661
+E Roseville Pw Bldg 8	Roseville	95661
+E Roseville Pw Bldg 9	Roseville	95661
+E Roseville Pw Bldg A	Roseville	95661
+E Roseville Pw Bldg B	Roseville	95661
+E Roseville Pw Bldg C	Roseville	95661
+E Roseville Pw Ste 1	Roseville	95661
+E Roseville Pw Ste 100	Roseville	95661
+E Roseville Pw Ste 101	Roseville	95661
+E Roseville Pw Ste 110	Roseville	95661
+E Roseville Pw Ste 120	Roseville	95661
+E Roseville Pw Ste 130	Roseville	95661
+E Roseville Pw Ste 140	Roseville	95661
+E Roseville Pw Ste 150	Roseville	95661
+E Roseville Pw Ste 151	Roseville	95661
+E Roseville Pw Ste 155	Roseville	95661
+E Roseville Pw Ste 160	Roseville	95661
+E Roseville Pw Ste 170	Roseville	95661
+E Roseville Pw Ste 175	Roseville	95661
+E Roseville Pw Ste 180	Roseville	95661
+E Roseville Pw Ste 190	Roseville	95661
+E Roseville Pw Ste 2	Roseville	95661
+E Roseville Pw Ste 200	Roseville	95661
+E Roseville Pw Ste 210	Roseville	95661
+E Roseville Pw Ste 220	Roseville	95661
+E Roseville Pw Ste 230	Roseville	95661
+E Roseville Pw Ste 300	Roseville	95661
+E Roseville Pw Ste 400	Roseville	95661
+E Roseville Pw Ste 500	Roseville	95661
+E Rosewood Ave	Anaheim	92805
+E Rosewood Ave	Orange	92866
+E Rosewood Ct	Ontario	91764
+E Rosewood Dr	San Bernardino	92408
+E Rosewood St	Colton	92324
+E Rosewood St	Rialto	92376
+E Rosita Rd	Camarillo	93012
+E Ross	El Centro	92243
+E Ross	Holtville	92250
+E Ross 1203 Industry Dr	El Centro	92243
+E Ross Ave	El Centro	92243
+E Ross Ave	Holtville	92250
+E Ross Ct	El Centro	92243
+E Ross Dr	El Centro	92243
+E Ross Dr	Holtville	92250
+E Ross Rd	El Centro	92243
+E Ross St	El Centro	92243
+E Rossi Street	Salinas	93901
+E Rossier Rd	Escalon	95320
+E Rosslynn Ave	Fullerton	92831
+E Rosslynn Ave	Fullerton	92832
+E Roth Rd	French Camp	95231
+E Roth Rd	Lathrop	95231
+E Roth Rd	Lathrop	95330
+E Roth Rd	Manteca	95336
+E Roughneck Pl	Bre	92821
+E Roughneck Pl	Brea	92821
+E Roundtree Ct	Orange	92867
+E Roundup Way	Orange	92869
+E Roussanne Dr	Lockeford	95237
+E Rowland Ave	Camarillo	93010
+E Rowland Dr	Santa Maria	93454
+E Royal Ave	Simi Valley	93065
+E Royal Dornoch	Indio	92201
+E Royal Dornoch Ave	Fresno	93730
+E Royce Ct	Camarillo	93010
+E Ruby Ct	Santa Maria	93454
+E Ruby King Rd	Stonyford	95979
+E Ruby St	Oakley	94561
+E Rumble Rd	Modesto	95350
+E Rumble Rd	Modesto	95355
+E Running Springs Dr	Ana	92808
+E Running Springs Dr	Anaheim	92808
+E Rural Ridge Cir	Anaheim	92807
+E Ruscitto Ln	Placentia	92870
+E Rush Ave	Fresno	93730
+E Rush Ave	Vista	92084
+E Rush St	Madera	93638
+E Rushford St	Whittier	90603
+E Russell Ave	Santa Ana	92707
+E Russell Ave	Visalia	93292
+E Russell St	La Habra	90631
+E Russell St	Whittier	90602
+E Russell St	Whittier	90603
+E Russell St	Whittier	90605
+E Rustic Ct	Bre	92821
+E Rustic Rd	Escondido	92025
+E Rusty Harbor Dr	Fresno	93730
+E Rutger Cir	Moorpark	93021
+E Rutgers Dr	Anaheim	92807
+E Ruth Pl	Orange	92869
+E Rutherford	El Centro	92243
+E Rutherford Dr	Ontario	91761
+E Rutherford Rd	Brawley	92227
+E Rutherford Rd	El Centro	92243
+E Rutherford St	El Centro	92243
+E Rutherglen St	Whittier	90603
+E Ryals Ln	4-Or-16	92869
+E Ryals Ln	Orange	92869
+E Ryan Ln	Fresno	93720

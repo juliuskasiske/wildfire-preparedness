@@ -1,0 +1,137 @@
+S N	Imperial	92251
+S N Rd	Imperial	92251
+S N St	Bakersfield	93304
+S N St	Imperial	92251
+S N St	Lompoc	93436
+S N St	Madera	93637
+S N St	Oxnard	93033
+S N St 1/2	Madera	93637
+S Naglee Rd	Tracy	95304
+S Nakoma Dr	Santa Ana	92704
+S Nancy Ct	Visalia	93277
+S Nancy Emilia Ct	Tracy	95304
+S Nancy St	Visalia	93277
+S Napa Ave	Cantua Creek	93608
+S Napa Ave	Helm	93627
+S Napa Ave	San Joaquin	93660
+S Napa Ct	Fullerton	92833
+S Napa Junction Rd	American Canyon	94503
+S Napoli	Oxnard	93035
+S Napoli Dr	Oxnard	93035
+S Nardo Ave	Solana Beach	92075
+S Natali Rd	Stockton	95206
+S Natalie Ln	Anaheim	92808
+S Nature Way	Orange	92866
+S Nautical St	Anaheim	92802
+S Navajo Dr	Palm Springs	92264
+S Navajo Wy	Manteca	95336
+S Navano St	Colton	92324
+S Navarra	Scotts Valley	95066
+S Navelencia Ave	Reedley	93654
+S Nebraska St	Lake Elsinore	92530
+S Nedra Pl	Anaheim	92804
+S Neece St	Corona	92879
+S Neeley St	Visalia	93291
+S Neighbors Blvd	Blythe	92225
+S Neighbours Blvd	Blythe	92225
+S Nelson Ct	La Habra	90631
+S Nelson Rd	Stockton	95215
+S Neptune Pl	Anaheim	92804
+S Neptune St	Anaheim	92804
+S Netherton Av	Stockton	95205
+S Nevada St	Oceanside	92054
+S Neveen Ln	Anaheim	92804
+S Nevis Ct	Anaheim	92802
+S New	El Centro	92243
+S New Ave	Anaheim	92806
+S New Britain Ln	Huntington Beach	92646
+S New Britain Ln	Huntington Beach	92646-4437
+S New Britain Ln	Huntington Beach	92646-4438
+S New Britain Ln	Huntington Beach	92646-4439
+S New Britain Ln	Huntington Beach	92646-4440
+S New Haven Dr	Ontario	91761
+S New London Cmn	Santa Ana	92704
+S New St	El Centro	92243
+S New St  242 W State St	El Centro	92243
+S New Water Ln	Stockton	95215
+S Newburg Rd	Fortuna	95540
+S Newbury Ln	Santa Maria	93458
+S Newbury Ln	Thousand Oaks	91320
+S Newcastle Dr	Anaheim	92804
+S Newcastle Dr	Whittier	90605
+S Newcastle Rd	Manteca	95336
+S Newcastle Rd	Stockton	95215
+S Newcomb Ave	Mendota	93640
+S Newcomb Ave	Whittier	90603
+S Newcomb St	Porterville	93257
+S Newell Ave	Fullerton	92832
+S Newhaven Dr	Orange	92869
+S Newhope St	Santa Ana	92703
+S Newhope St	Santa Ana	92704
+S Newlin Ave	Whittier	90601
+S Newlin Ave	Whittier	90602
+S Newman Ave	Fresno	93706
+S Newmark Ave	Parlier	93648
+S Newmark Ave	Sanger	93657
+S Newport Ave	San Bernardino	92408
+S Newport Dr	Napa	94559
+S Newton Ave	Ontario	91761
+S Nexa Paseo	Ontario	91761
+S Niagara St	Burbank	91505
+S Nicholas Ave	Fresno	93706
+S Nicholson Av	Santa Maria	93454
+S Nicholson Ave	Santa Maria	93454
+S Nicklett Ave	Fullerton	92833
+S Nicole Way	Anaheim	92808
+S Night Star Way	Anaheim	92808
+S Nightshade Ln	Santa Maria	93455
+S Nile Ave	Sanger	93657
+S Nina Pl	Anaheim	92804
+S Ninth St	Anaheim	92802
+S Ninth St	Fresno	93702
+S Ninth St	Fresno	93725
+S Ninth St	Oxnard	93030
+S Nipoti Ranch Rd	Mh	95391
+S Niverth Pl	Santa Maria	93454
+S Niverth Pl	Santa Maria	93455
+S Noble Fir Pl	Mh	95391
+S Noeline Way	San Diego	92114
+S Nogal Ave	Whittier	90606
+S Nohl Canyon Rd	Anaheim	92807
+S Nohl Ranch Rd	Anaheim	92807
+S Nordica Ln	Anaheim	92806
+S Nordica St	Anaheim	92806
+S Norfolk Ln	Anaheim	92802
+S Norfolk St	San Mateo	94401
+S Norfolk St	San Mateo	94403
+S Norma Ln	Anaheim	92802
+S Norma St	La Habra	90631
+S Norman Ave	Fullerton	92831
+S Normandy Ct	Anaheim	92806
+S Normandy Ter	Corona	92882
+S Noroeste Av	Santa Maria	93458
+S Noroeste Ave	Santa Maria	93458
+S Norse Cir	Anaheim	92806
+S Norseman Ct	Oxnard	93030
+S North Ripon Rd	Ripon	95366
+S North Shore Dr	Ontario	91761
+S North Shores Dr	Ontario	91761
+S North Shores Pl	Ontario	91761
+S Northpointe Dr	Fresno	93725
+S Northstar Ave	Colfax	95713
+S Norwalk Blvd	Whittier	90601
+S Norwalk Blvd	Whittier	90606
+S Norwood St	Orange	92869
+S Notre Dame Ave	Orange	92869
+S Notre Dame St	Orange	92869
+S Nottingham Ave	Santa Ana	92703
+S Nottingham Dr	Loma Linda	92354
+S Novato Blvd	Novato	94947
+S Novato Ct	Oxnard	93035
+S Novato Dr	Oxnard	93035
+S Noyes Ct	Visalia	93277
+S Noyes St	Visalia	93277
+S Nurmi Ave	Reedley	93654
+S Nutmeg Ln	Santa Maria	93454
+S Nutwood St	Anaheim	92804
+S Nutwood St	Orange	92869

@@ -1,0 +1,237 @@
+North G Street	Exeter	93221
+North G Street	Porterville	93257
+North G Street	Tulare	93274
+North Gabriel Garcia Marquez Street	Los Angeles	90033
+North Gabriela Court	Porter Ranch	91326
+North Gaffey Place	San Pedro	90731
+North Gaffey Street	San Pedro	90731
+North Gaffey Street	San Pedro	90732
+North Gage Avenue	Los Angeles	90063
+North Gainsborough Drive	Pasadena	91107
+North Gainsborough Drive	San Marino	91108
+North Galanto	Azusa	91702
+North Galanto Avenue	Glendora	91741
+North Gale Drive	Beverly Hills	90211
+North Gale Hill Avenue	Lindsay	93247
+North Galen Drive	La Habra	90631
+North Galena Street	Los Angeles	90032
+North Galendo Street	Woodland Hills	91364
+North Gallardo Street	Los Angeles	90033
+North Galloping Court	Castaic	91384
+North Gallup Court	Porter Ranch	91326
+North Ganymede Drive	Los Angeles	90065
+North Garbo Lane	Los Angeles	90038
+North Garcia Street	Visalia	93291
+North Garden Court	Visalia	93291
+North Garden Drive	Dinuba	93618
+North Garden Street	Visalia	93291
+North Gardner Avenue	Merced	95340
+North Gardner Street	Los Angeles	90036
+North Gardner Street	Los Angeles	90046
+North Gareloch Avenue	Azusa	91702
+North Garey Avenue	Claremont	91711
+North Garey Avenue	La Verne	91750
+North Garey Avenue	Pomona	91766
+North Garey Avenue	Pomona	91767
+North Garey Street	Los Angeles	90012
+North Garfield Avenue	Alhambra	91801
+North Garfield Avenue	Altadena	91001
+North Garfield Avenue	Montebello	90640
+North Garfield Avenue	Monterey Park	91754
+North Garfield Avenue	Pasadena	91101
+North Garfield Avenue	Pasadena	91104
+North Garsden Avenue	Covina	91724
+North Gary Street	Porterville	93257
+North Gate Dr	Bakersfield	93306
+North Gate Ln	Murrieta	92563
+North Gate Rd	San Francisco	94130
+North Gate Rd	Seal Beach	90740
+North Gate Rd	Walnut Creek	94598
+North Gate Road	Fairfield	94535
+North Gate Road	Travis Afb	94535
+North Gates Street	Los Angeles	90031
+North Gateway Street	Visalia	93291
+North Gaviota Avenue	Granada Hills	91344
+North Gaviota Avenue	Long Beach	90805
+North Gaviota Avenue	Long Beach	90806
+North Gaviota Avenue	Long Beach	90807
+North Gaviota Avenue	Long Beach	90813
+North Gaviota Avenue	Signal Hill	90755
+North Gaviota Court	Encino	91436
+North Gay Street	Inglewood	90302
+North Gay Street	Los Angeles	90065
+North Geary Court	Visalia	93291
+North Gem Street	Tulare	93274
+North Gene Avenue	Farmersville	93223
+North General Kearny Rd	Temecula	92591
+North Genesee Avenue	Los Angeles	90036
+North Genesee Avenue	Los Angeles	90046
+North Geneva Street	Glendale	91207
+North Geneva Walk	Long Beach	90803
+North Genevieve Avenue	Los Angeles	90041
+North Gentry Avenue	North Hollywood	91606
+North George De La Torre Jr Avenue	Wilmington	90744
+North George Washington Boulevard	Yuba City	95993
+North Gerald Avenue	Encino	91436
+North Gerona Avenue	San Gabriel	91775
+North Gerry Street	La Habra	90631
+North Gertruda Avenue	Redondo Beach	90277
+North Gibbs Street	Pomona	91767
+North Giddings Ranch Road	Altadena	91001
+North Giddings Street	Visalia	93291
+North Gifford Avenue	Los Angeles	90063
+North Gila Drive	Covina	91724
+North Gilcrest Drive	Beverly Hills	90210
+North Gill Road	Exeter	93221
+North Gilmer Court	Visalia	93291
+North Gilroy Street	Los Angeles	90039
+North Ginevra Walk	Long Beach	90803
+North Giralda Walk	Long Beach	90803
+North Gladstone Avenue	Sylmar	91342
+North Gladys Avenue	Dinuba	93618
+North Gladys Avenue	Long Beach	90804
+North Gladys Avenue	San Gabriel	91775
+North Gladys Avenue	San Gabriel	91776
+North Gladys Avenue	Signal Hill	90755
+North Glasner Lane	West Hills	91307
+North Gledhill Avenue	West Linda	95961
+North Glen Arbor Avenue	Los Angeles	90041
+North Glen Arden Avenue	Covina	91724
+North Glen Green	Los Angeles	90068
+North Glen-O-Peace Parkway	Tujunga	91042
+North Glenalbyn Drive	Los Angeles	90065
+North Glencoe Way	Los Angeles	90068
+North Glendale Avenue	Glendale	91205
+North Glendale Avenue	Glendale	91206
+North Glendale Boulevard	Los Angeles	90026
+North Glendale Boulevard	Los Angeles	90039
+North Glendora Avenue	Covina	91724
+North Glendora Avenue	Glendora	91741
+North Glendower Avenue	Los Angeles	90027
+North Glendower Road	Los Angeles	90027
+North Glenfinnan Avenue	Azusa	91702
+North Glenfinnan Avenue	Covina	91722
+North Glenfinnan Avenue	Covina	91723
+North Glenoaks Boulevard	Burbank	91502
+North Glenoaks Boulevard	Burbank	91504
+North Glenoaks Boulevard	Pacoima	91331
+North Glenoaks Boulevard	San Fernando	91340
+North Glenoaks Boulevard	Sun Valley	91352
+North Glenoaks Boulevard	Sylmar	91342
+North Glenridge Drive	Sherman Oaks	91423
+North Glenrose Avenue	Altadena	91001
+North Glenroy Avenue	Los Angeles	90049
+North Glenvina Avenue	Covina	91722
+North Glenwall Street	Santa Clarita	91390
+North Glenwood Avenue	Glendora	91741
+North Glenwood Place	Burbank	91506
+North Gless Street	Los Angeles	90033
+North Gloaming Way	Beverly Hills	90210
+North Gloria Avenue	Van Nuys	91406
+North Goddard Street	Visalia	93292
+North Gold Star Drive	Long Beach	90810
+North Gold Street	Yreka	96097
+North Golden Avenue	Long Beach	90802
+North Golden Avenue	Long Beach	90806
+North Golden Gate Avenue	Los Angeles	90026
+North Golden Mall	Burbank	91502
+North Golden Oaks Avenue	Tujunga	91042
+North Golden State Freeway	Castaic	91384
+North Golden State Highway	Castaic	91384
+North Golden State Road	Sylmar	91342
+North Golden West Avenue	Arcadia	91007
+North Golf Link Road	Turlock	95380
+North Golondrina Place	Woodland Hills	91364
+North Goodhope Avenue	San Pedro	90732
+North Goodland Avenue	Studio City	91604
+North Goodrich Avenue	Wilmington	90744
+North Goodview Trail	Los Angeles	90068
+North Goodway Drive	Azusa	91702
+North Gordon Street	Los Angeles	90028
+North Gordon Street	Los Angeles	90038
+North Gordon Street	Pomona	91768
+North Gowdy Street	Visalia	93292
+North Gower Street	Los Angeles	90004
+North Gower Street	Los Angeles	90028
+North Gower Street	Los Angeles	90038
+North Gower Street	Los Angeles	90068
+North Grace Court	West Covina	91790
+North Grafton Street	Esparto	95627
+North Graham Avenue	Compton	90222
+North Graham Road	Tipton	93272
+North Gramercy Place	Los Angeles	90004
+North Gramercy Place	Los Angeles	90028
+North Gramercy Place	Los Angeles	90038
+North Gramercy Place	Los Angeles	90068
+North Granada Avenue	Alhambra	91801
+North Granada Avenue	Long Beach	90803
+North Granada Avenue	Long Beach	90804
+North Granada Avenue	Long Beach	90815
+North Granada Court	La Habra	90631
+North Granada Drive	La Habra	90631
+North Grand Avenue	Covina	91724
+North Grand Avenue	Glendora	91741
+North Grand Avenue	Long Beach	90803
+North Grand Avenue	Long Beach	90804
+North Grand Avenue	Long Beach	90814
+North Grand Avenue	Long Beach	90815
+North Grand Avenue	Los Angeles	90012
+North Grand Avenue	Monrovia	91016
+North Grand Avenue	Pasadena	91103
+North Grand Avenue	San Pedro	90731
+North Grand Avenue	Walnut	91789
+North Grand Avenue	West Covina	91791
+North Grand Avenue	Woodland	95695
+North Grand Court	Visalia	93292
+North Grand Oaks Avenue	Altadena	91001
+North Grand Oaks Avenue	Pasadena	91104
+North Grand Oaks Avenue	Pasadena	91107
+North Grandee Avenue	Compton	90220
+North Grandee Avenue	Compton	90222
+North Grandeur Avenue	Altadena	91001
+North Grandview Avenue	Covina	91722
+North Grandview Avenue	Covina	91723
+North Grape Avenue	Compton	90222
+North Gray Fox Court	Chatsworth	91311
+North Green Ct	Carmichael	95608
+North Green Street	Visalia	93292
+North Green View Court	Visalia	93291
+North Green Vista Drive	Encino	91436
+North Greenberry Avenue	Covina	91722
+North Greenberry Avenue	West Covina	91790
+North Greenbrier Road	Long Beach	90808
+North Greenbrier Road	Long Beach	90815
+North Greencraig Road	Los Angeles	90049
+North Greencroft Avenue	Glendora	91741
+North Greenfield Drive	Porterville	93257
+North Greenfield Street	Porterville	93257
+North Greenpark Avenue	Covina	91724
+North Greentree Lane	La Habra	90631
+North Greenview Drive	La Habra	90631
+North Greenway Terrace	La Habra	90631
+North Greenwood Avenue	Montebello	90640
+North Greenwood Avenue	Pasadena	91107
+North Greenwood Drive	Porter Ranch	91326
+North Greenwood Street	Tulare	93274
+North Greg Avenue	Sun Valley	91352
+North Grenola Street	Pacific Palisades	90272
+North Grevilla Place	Porterville	93257
+North Grevillea Avenue	Inglewood	90301
+North Greycastle Avenue	Montebello	90640
+North Greycloud Lane	Diamond Bar	91765
+North Griffin Avenue	Los Angeles	90031
+North Griffith Park Boulevard	Los Angeles	90026
+North Griffith Park Boulevard	Los Angeles	90039
+North Griffith Park Drive	Burbank	91506
+North Griffith Park Drive	Los Angeles	90027
+North Grifols Way	Los Angeles	90032
+North Grimes Place	Encino	91316
+North Grove Street	Sierra Madre	91024
+North Groveland Drive	Los Angeles	90046
+North Guadalupe Avenue	Redondo Beach	90277
+North Guardia Avenue	Los Angeles	90032
+North Gulf Avenue	Wilmington	90744
+North Gull Court	Visalia	93291
+North Gunston Drive	Los Angeles	90049
+North Gurr Road	Atwater	95301
+North Gutierrez Lane	Panorama City	91402

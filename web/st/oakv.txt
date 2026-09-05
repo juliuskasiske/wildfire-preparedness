@@ -1,0 +1,74 @@
+Oakvale Ave	Berkeley	94705
+Oakvale Ave	Oroville	95966
+Oakvale Cir	Eastvale	92880
+Oakvale Ct	Murrieta	92562
+Oakvale Ct	North Highlands	95660
+Oakvale Ct	Oroville	95966
+Oakvale Ct	Walnut Creek	94597
+Oakvale Ln	Lakehead	96051
+Oakvale Rd	Escondido	92027
+Oakvale Rd	Walnut Creek	94596
+Oakvale Rd	Walnut Creek	94597
+Oakvale Ter	Walnut Creek	94597
+Oakvale Way	Vacaville	95687
+Oakview	Carmel Valley	93924
+Oakview Ave	Hayward	94541
+Oakview Circle	Yreka	96097
+Oakview Ct	Fallbrook	92028
+Oakview Ct	Oroville	95966
+Oakview Ct	Santa Rosa	95403
+Oakview Dr	Granite Bay	95746
+Oakview Dr	Hanford	93230
+Oakview Dr	Ione	95640
+Oakview Dr	Redding	96002
+Oakview Dr	Roseville	95661
+Oakview Dr	San Carlos	94070
+Oakview Dr Unit A	Roseville	95661
+Oakview Drive	Azusa	91702
+Oakview Drive	Yuba City	95991
+Oakview Estates Drive	Stevenson Ranch	91381
+Oakview Lane	Palmdale	93551
+Oakview Ln	Carmichael	95608
+Oakview Ln	Chino Hills	91709
+Oakview Ln	Cupertino	95014
+Oakview Ln	Lake Elsinore	92530
+Oakview Ln	Lake Forest	92679
+Oakview Ln	Martinez	94553
+Oakview Ln	Trabuco Canyon	92679
+Oakview Ln	Trabuco Canyon	92679-0000
+Oakview Ln	Trabuco Canyon	92679-1011
+Oakview Ln	Trabuco Canyon	92679-1012
+Oakview Ln	Trabuco Canyon	92679-1013
+Oakview Ln	Trabuco Canyon	92679-1014
+Oakview Pl	Perris	92570
+Oakview Place	Salinas	93908
+Oakview Rd	San Jose	95121
+Oakview St	Burney	96013
+Oakview Ter	Orinda	94563
+Oakview Way	Lake Elsinore	92530
+Oakview Way	Redwood City	94062
+Oakview Way	San Diego	92128
+Oakview Way	San Diego	92131
+Oakville	Lake Forest	92630
+Oakville	Lake Forest	92630-7000
+Oakville	Lake Forest	92630-7052
+Oakville	Lake Forest	92630-7072
+Oakville	Lake Forest	92630-7074
+Oakville	Lake Forest	92630-7075
+Oakville Ave	Cupertino	95014
+Oakville Court	Porter Ranch	91326
+Oakville Cross Rd	Napa	94558
+Oakville Ct	Bakersfield	93313
+Oakville Ct	Brentwood	94513
+Oakville Ct	Temecula	92592
+Oakville Dr	Buellton	93427
+Oakville Grade Rd	Napa	94558
+Oakville Ln	Rancho Murieta	95683
+Oakville Pl	Rancho Cucamonga	91730
+Oakville Ridge Rd	Napa	94558
+Oakville St	Fontana	92336
+Oakvista Court	Agoura Hills	91301
+Oakvue Ct	Pleasant Hill	94523
+Oakvue Ln	Pleasant Hill	94523
+Oakvue Rd	Pleasant Hill	94523
+Oakvue Rd	Shingletown	96088

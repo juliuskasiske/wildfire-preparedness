@@ -1,0 +1,236 @@
+1S98B	Benton	93512
+1St	Calexico	92231
+1St	Carmel-By-The-Sea	93921
+1St	Davenport	95017
+1St	Santa Cruz	95060
+1St	Santa Cruz	95062
+1St	Watsonville	95076
+1St	Westmorland	92281
+1St	Winterhaven	92283
+1St Anita Drive	Los Angeles	90049
+1St Av	Blue Lake	95521
+1St Av	Blue Lake	95525
+1St Av	Rio Dell	95562
+1St Av	Westhaven	95570
+1St Ave	Barstow	92311
+1St Ave	Chula Vista	91910
+1St Ave	Chula Vista	91911
+1St Ave	Clearlake	95422
+1St Ave	Coronado	92118
+1St Ave	Crockett	94525
+1St Ave	Daly City	94014
+1St Ave	Elk Grove	95624
+1St Ave	Half Moon Bay	94019
+1St Ave	Hanford	93230
+1St Ave	Imperial Beach	91932
+1St Ave	Lakeport	95453
+1St Ave	Murrieta	92562
+1St Ave	Napa	94558
+1St Ave	Napa	94559
+1St Ave	Newport Beach	92625
+1St Ave	Niland	92257
+1St Ave	Oakdale	95361
+1St Ave	Oroville	95965
+1St Ave	Pacheco	94553
+1St Ave	Pacifica	94044
+1St Ave	Pleasant Hill	94523
+1St Ave	Redwood City	94063
+1St Ave	Sacramento	95817
+1St Ave	Sacramento	95818
+1St Ave	San Bruno	94066
+1St Ave	San Diego	92101
+1St Ave	San Diego	92103
+1St Ave	San Mateo	94401
+1St Ave	Sonoma	95476
+1St Ave	Victorville	92395
+1St Ave	Walnut Creek	94597
+1St Ave	Walnut Grove	95690
+1St Ave	Winterhaven	92283
+1St Avenue	Arcadia	91006
+1St Avenue	Arcadia	91007
+1St Avenue	Gustine	95322
+1St Avenue	La Crescenta	91214
+1St Avenue	La Mirada	90638
+1St Avenue	Lynwood	90262
+1St Avenue	Marina	93933
+1St Avenue	Merced	95340
+1St Avenue	Salinas	93905
+1St Avenue	Sutter	95982
+1St Avenue	Weed	96094
+1St Avenue	Whittier	90603
+1St Avenue	Whittier	90604
+1St Avenue Ct	Walnut Creek	94597
+1St  Cor Of 1St & Blair	Calexico	92231
+1St Court	Hermosa Beach	90254
+1St Ct	Hermosa Beach	90254
+1St Ct	San Joaquin	93660
+1St Ct	Westmorland	92281
+1St Dr	Niland	92257
+1St Drive	Cutler	93615
+1St & E St	Calipatria	92233
+1St Fork	Los Gatos	95033
+1St Helena Drive	Los Angeles	90049
+1St Ln	Big Bear City	92314
+1St Ln	South San Francisco	94080
+1St Pkwy	Sacramento	95823
+1St Pl	Escondido	92029
+1St Pl	Hanford	93230
+1St Pl	Hermosa Beach	90254
+1St Place	Hermosa Beach	90254
+1St Place	Manhattan Beach	90266
+1St S St	Brawley	92227
+1St St	Antioch	94509
+1St St	Auburn	95603
+1St St	Avila Beach	93424
+1St St	Bakersfield	93304
+1St St	Beaumont	92223
+1St St	Big Bear City	92314
+1St St	Biggs	95917
+1St St	Bombay Beach	92257
+1St St	Borrego Springs	92004
+1St St	Brawley	92227
+1St St	Brentwood	94513
+1St St	Byron	94514
+1St St	Calexico	92231
+1St St	Calipatria	92233
+1St St	Calistoga	94515
+1St St	Camp Meeker	95419
+1St St	Campbell	95008
+1St St	Cathedral City	92234
+1St St	Coachella	92236
+1St St	Concord	94519
+1St St	Corcoran	93212
+1St St	Coronado	92118
+1St St	Daggett	92327
+1St St	Desert Hot Springs	92240
+1St St	El Cajon	92021
+1St St	Empire	95319
+1St St	Empire	95357
+1St St	Encinitas	92024
+1St St	Eureka	95501
+1St St	Foresta	95389
+1St St	Forestville	95436
+1St St	Fort Irwin	92310
+1St St	Fortuna	95540
+1St St	Galt	95632
+1St St	Gilroy	95020
+1St St	Guerneville	95446
+1St St	Havasu Lake	92363
+1St St	Hayward	94541
+1St St	Hemet	92544
+1St St	Hermosa Beach	90254
+1St St	Hollister	95023
+1St St	Hughson	95326
+1St St	Huntington Beach	92648
+1St St	Huntington Beach	92648-5156
+1St St	Huntington Beach	92648-5303
+1St St	Huntington Beach	92648-5321
+1St St	Huntington Beach	92648-5322
+1St St	Huntington Beach	92648-5366
+1St St	Huron	93234
+1St St	Imperial Beach	91932
+1St St	Isleton	95641
+1St St	Joshua Tree	92252
+1St St	Knightsen	94548
+1St St	Ladera Ranch	92694
+1St St	Lafayette	94549
+1St St	Lincoln	95648
+1St St	Los Altos	94022
+1St St	Los Altos	94022-3630
+1St St	Los Osos	93402
+1St St	Mcarthur	96056
+1St St	Mecca	92254
+1St St	Menifee	92585
+1St St	Modesto	95351
+1St St	Montara	94037
+1St St	Monte Rio	95462
+1St St	Murrieta	92562
+1St St	Napa	94558
+1St St	Napa	94559
+1St St	Niland	92257
+1St St	Niland	92275
+1St St	Norco	92860
+1St St	Occidental	95465
+1St St	Oro Grande	92368
+1St St	Palo Verde	92266
+1St St	Parlier	93648
+1St St	Paso Robles	93446
+1St St	Petaluma	94952
+1St St	Rancho Cucamonga	91730
+1St St	Redlands	92373
+1St St	Represa	95630
+1St St	Represa	95671
+1St St	Richmond	94801
+1St St	Riverbank	95367
+1St St	Riverside	92501
+1St St	Riverside	92507
+1St St	Rodeo	94572
+1St St	San Diego	92101
+1St St	San Jacinto	92583
+1St St	San Joaquin	93660
+1St St	San Jose	95112
+1St St	San Jose	95134
+1St St	San Rafael	94901
+1St St	Santa Rosa	95401
+1St St	Santa Rosa	95404
+1St St	Santee	92071
+1St St	Seal Beach	90740
+1St St	Sebastopol	95472
+1St St	Selma	93662
+1St St	Shandon	93461
+1St St	South San Francisco	94080
+1St St	Stanton	90680
+1St St	Stratford	93266
+1St St	Susanville	96130
+1St St	Temecula	92590
+1St St	Templeton	93465
+1St St	Trona	93562
+1St St	Victorville	92395
+1St St	Waterford	95386
+1St St	Westley	95387
+1St St	Westmorland	92281
+1St St	Yermo	92398
+1St St	Yosemite	95389
+1St St	Yucaipa	92399
+1St St E	Joshua Tree	92252
+1St St E	Sonoma	95476
+1St St N	El Cajon	92021
+1St St S	Joshua Tree	92252
+1St St W	Joshua Tree	92252
+1St St W	Sonoma	95476
+1St St & Yucaipa Blvd NE	Yucaipa	92399
+1St Street	Acton	93510
+1St Street	Azusa	91702
+1St Street	Benicia	94510
+1St Street	City Of Marysville	95901
+1St Street	Claremont	91711
+1St Street	Covina	91723
+1St Street	Davis	95616
+1St Street	Duarte	91010
+1St Street	Exeter	93221
+1St Street	Gonzales	93926
+1St Street	Gustine	95322
+1St Street	Hermosa Beach	90254
+1St Street	Irwindale	91706
+1St Street	King City	93930
+1St Street	La Puente	91744
+1St Street	La Verne	91750
+1St Street	Lindsay	93247
+1St Street	Livingston	95334
+1St Street	Los Angeles	90004
+1St Street	Los Angeles	90012
+1St Street	Los Angeles	90033
+1St Street	Los Angeles	90063
+1St Street	Manhattan Beach	90266
+1St Street	Marina	93933
+1St Street	Monterey Park	91754
+1St Street	Pacific Grove	93950
+1St Street	Paramount	90723
+1St Street	Rancho Palos Verdes	90275
+1St Street	San Fernando	91340
+1St Street	Seaside	93955
+1St Street	Sutter	95982
+1St Street	Travis Afb	94535
+1St Street	Tulelake	96134
+1St Street	Winters	95694
+1St Trail	Sylmar	91342

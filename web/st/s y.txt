@@ -1,0 +1,34 @@
+S Y Pl	Lompoc	93436
+S Y St	Lompoc	93436
+S Yale Ave	Fullerton	92831
+S Yale St	Hemet	92544
+S Yale St	Santa Ana	92704
+S Yale St	Visalia	93277
+S Yana Dr	Anaheim	92804
+S Yarrow Paseo	Ontario	91761
+S Ybarra Av	Santa Maria	93458
+S Ybarra Ave	Santa Maria	93458
+S Yellowstone Way	Anaheim	92808
+S Yerba Buena Ct	Mh	95391
+S Yermo Dr	Palm Springs	92262
+S Yolo Ave	Helm	93627
+S Yolo Wy	Tracy	95304
+S Yorba St	North Tustin	92705
+S Yorba St	Orange	92866
+S Yorba St	Orange	92869
+S York Ave	Whittier	90602
+S York Ct	San Bernardino	92408
+S Yorkshire Cir	Ana	92808
+S Yorkshire Cir	Anaheim	92808
+S Yosemite Ave	Oakdale	95361
+S Yosemite St	Stockton	95203
+S Yosemite St	Stockton	95206
+S Young Ct	San Bernardino	92408
+S Yuba Ave	Kerman	93630
+S Yuba Ave	San Joaquin	93660
+S Yuba Dr	Norden	95728
+S Yuba River Dr	Ontario	91761
+S Yucatan Pl	Mh	95391
+S Yucca Ave	Bloomington	92316
+S Yucca Ave	Rialto	92316
+S Yucca Ave	Rialto	92376

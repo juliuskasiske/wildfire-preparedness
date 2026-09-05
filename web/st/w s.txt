@@ -1,0 +1,787 @@
+W Sable Pl	Hanford	93230
+W Sabrina Ct	Santa Maria	93458
+W Sacramento Ave	Chico	95926
+W Sacramento Ave	Chico	95928
+W Sacramento Ave	Chico	95973
+W Sacramento St	Coalinga	93210
+W Sady Ave	Visalia	93291
+W Sady Ct	Visalia	93291
+W Safford Ave	Visalia	93291
+W Saffron St	Hanford	93230
+W Sage Brush Way	Hanford	93230
+W Sage St	Victorville	92392
+W Sage Tree Rd	Colton	92324
+W Saginaw Ave	Caruthers	93609
+W Saginaw Ave	Fresno	93706
+W Saginaw Way	Fresno	93705
+W Saginaw Way	Fresno	93722
+W Saginaw Way	Fresno	93723
+W Sago Palm Rd	Colton	92324
+W Sailer Dr	San Mateo	94403
+W Saint Andrew Pl	Santa Ana	92704
+W Saint Andrew Pl	Santa Ana	92707
+W Saint Andrews Ave	La Habra	90631
+W Saint Andrews Ln	Tracy	95377
+W Saint Andrews St	Ontario	91762
+W Saint Anne Pl	Santa Ana	92704
+W Saint Anne Pl	Santa Ana	92707
+W Saint Francis Av	Mh	95391
+W Saint Gertrude Pl	Santa Ana	92704
+W Saint Gertrude Pl	Santa Ana	92707
+W Sallie Ln	Anaheim	92802
+W Sallie Ln	Anaheim	92804
+W Saltillo Ln	Mh	95391
+W Salveson Rd	Bre	92821
+W Samoha Ct	Thornton	95686
+W Sample Ave	Fresno	93704
+W Sample Ave	Fresno	93711
+W Sample Ave	Fresno	93722
+W Sample Ave	Fresno	93723
+W Sampson St	Imperial	92251
+W San Andres Cir	Thousand Oaks	91360
+W San Antonio Pl	Upland	91786
+W San Benito Cir	Palm Desert	92260
+W San Bernardino Ave	Bloomington	92316
+W San Bernardino Ave	Colton	92324
+W San Bernardino Ave	Redlands	92374
+W San Bernardino Ave	Redlands	92408
+W San Bernardino Ave	Rialto	92376
+W San Bernardino Ave	Sbco	92374
+W San Bernardo Ave	Hemet	92545
+W San Bruno Ave	Fresno	93704
+W San Bruno Ave	Fresno	93711
+W San Bruno Ave	Fresno	93722
+W San Bruno Ave	Fresno	93723
+W San Bruno Ave	San Bruno	94066
+W San Bruno Cir	Fresno	93711
+W San Carlo Ct	San Bernardino	92407
+W San Carlos Ave	Fresno	93704
+W San Carlos Ave	Fresno	93711
+W San Carlos Ave	Fresno	93723
+W San Carlos St	San Jose	95110
+W San Carlos St	San Jose	95113
+W San Carlos St	San Jose	95126
+W San Carlos St	San Jose	95128
+W San Clemente Cir	Palm Desert	92260
+W San Clemente Way	Camarillo	93010
+W San Diego Dr	Mh	95391
+W San Doval	Thousand Oaks	91360
+W San Doval Pl	Thousand Oaks	91360
+W San Fernando St	San Jose	95110
+W San Fernando St	San Jose	95113
+W San Fernando St	San Jose	95126
+W San Francisco Ave	Willits	 
+W San Francisco Dr	Mh	95391
+W San Gabriel Ave	Fresno	93705
+W San Gabriel Ave	Fresno	93722
+W San Gabriel Ave	Fresno	93723
+W San Gabriel Cir	Cathedral City	92234
+W San Gabriel Wy	Stockton	95209
+W San Jacinto Ave	Perris	92570
+W San Jacinto St	Perris	92570
+W San Jacquin Dr	Canyon Lake	92587
+W San Joaquin Ave	Kerman	93630
+W San Joaquin Ct	Visalia	93277
+W San Joaquin Dr	Canyon Lake	92587
+W San Joaquin Dr	Sun City	92587
+W San Joaquin Dr	Visalia	93277
+W San Joaquin St	Avenal	93204
+W San Joaquin St	Fresno	93706
+W San Joaquin Street	Salinas	93901
+W San Jose Ave	Fresno	93704
+W San Jose Ave	Fresno	93711
+W San Jose Ave	Fresno	93722
+W San Jose Ave	Fresno	93723
+W San Jose Ave	Kerman	93630
+W San Juan Ct	Mh	95391
+W San Juan Dr	Mh	95391
+W San Lorenzo Ave	Santa Ana	92704
+W San Lucia Ave	Porterville	93257
+W San Lucia Ct	Porterville	93257
+W San Lucia Ln	Porterville	93257
+W San Luis	Salinas	93901
+W San Luis Street	Salinas	93901
+W San Luis Wy	Stockton	95209
+W San Madele Ave	Fresno	93704
+W San Madele Ave	Fresno	93711
+W San Madele Ave	Fresno	93722
+W San Madele Ave	Fresno	93723
+W San Marcos Blvd	San Marcos	92069
+W San Marcos Blvd	San Marcos	92078
+W San Marcos Blvd	Vista	92081
+W San Martin Ave	San Martin	95046
+W San Martin Pl	Thousand Oaks	91360
+W San Mateo St	Avenal	93204
+W San Miguel Dr	Chula Vista	91911
+W San Rafael Dr	Palm Springs	92262
+W San Ramon Ave	Fresno	93704
+W San Ramon Ave	Fresno	93711
+W San Ramon Ave	Fresno	93722
+W San Ramon Ave	Fresno	93723
+W San Tomas Aquino Rd	Campbell	95008
+W San Ysidro Blvd	San Diego	92173
+W San Ysidro Blvd	San Ysidro	92173
+W San Ysidro Cir	Palm Desert	92260
+W Sand Castle Wy	Manteca	95336
+W Sand St	Victorville	92392
+W Sanders Ave	Visalia	93291
+W Sandia Creek Ter	Fallbrook	92028
+W Sandpiper Ct	Palm Desert	92260
+W Sandpiper Way	Oxnard	93035
+W Sandra Ave	Porterville	93257
+W Sandra Cir	Porterville	93257
+W Sandra Ct	Bre	92821
+W Sandra Ct	Porterville	93257
+W Sandra Ct	Upland	91786
+W Sandra Ln	Oroville	95966
+W Sandra Ln	Porterville	93257
+W Sandstone Ct	Hanford	93230
+W Sandstone Dr	Hanford	93230
+W Sandy St	Caruthers	93609
+W Santa Ana Ave	Bloomington	92316
+W Santa Ana Ave	Fresno	93705
+W Santa Ana Ave	Fresno	93722
+W Santa Ana Ave	Fresno	93723
+W Santa Ana Ave	Rialto	92376
+W Santa Ana Blvd	Oak View	93022
+W Santa Ana Blvd	Santa Ana	92701
+W Santa Ana Blvd	Santa Ana	92703
+W Santa Ana Dr	Ojai	93023
+W Santa Ana St	Anaheim	92802
+W Santa Ana St	Anaheim	92805
+W Santa Ana St	Ojai	93023
+W Santa Anita Av	Burbank	91502
+W Santa Anita Ave	Burbank	91502
+W Santa Barbara	Santa Paula	93060
+W Santa Barbara Dr	Fresno	93722
+W Santa Barbara Privado	Ontario	91762
+W Santa Barbara St	Santa Paula	93060
+W Santa Barbara St St	Santa Paula	93060
+W Santa Barbara Wy	Mh	95391
+W Santa Catalina Rd	Palm Springs	92262
+W Santa Clara Ave	Santa Ana	92706
+W Santa Clara Cir	Santa Ana	92706
+W Santa Clara Dr	Mh	95391
+W Santa Clara St	Avenal	93204
+W Santa Clara St	San Jose	95110
+W Santa Clara St	San Jose	95110-1707
+W Santa Clara St	San Jose	95112
+W Santa Clara St	San Jose	95113
+W Santa Clara St	Ventura	93001
+W Santa Cruz St	Santa Paula	93060
+W Santa Cruz Way	Fresno	93722
+W Santa Cruz Wy	Mh	95391
+W Santa Elena Rd	Palm Springs	92262
+W Santa Fe Ave	Fullerton	92832
+W Santa Fe Ave	Pittsburg	94565
+W Santa Fe Ave	Placentia	92870
+W Santa Inez Ave	Hillsborough	94010
+W Santa Inez Ave	Hillsborough	94402
+W Santa Inez Ave	San Mateo	94402
+W Santa Inez Ct	Mh	95391
+W Santa Maria Ave	Porterville	93257
+W Santa Maria Ct	Porterville	93257
+W Santa Maria St	Santa Paula	93060
+W Santa Paula St	Santa Paula	93060
+W Santa Rosa Dr	Palm Springs	92262
+W Santa Rosa Wy	Stockton	95209
+W Santolinas St	Rialto	92376
+W Santos Av	Ripon	95366
+W Sapphire Ave	Kerman	93630
+W Sapphire Dr	Fresno	93722
+W Sarah St	Burbank	91505
+W Saratoga Ct	Hanford	93230
+W Saratoga Pl	Hanford	93230
+W Saratoga St	Manteca	95336
+W Saratoga Way	San Bernardino	92407
+W Sargent Rd	Lodi	95242
+W Sasaki Ave	Reedley	93654
+W Sausal Ln	Healdsburg	95448
+W Savanna St	Anaheim	92804
+W Savona Dr	Sacramento	95829
+W Savoy Pl	Anaheim	92804
+W Sawtooth Pl	Hanford	93230
+W Sawtooth Way	Hanford	93230
+W Scaggs Ave	Tranquillity	93668
+W Scarlet Oak Ave	Porterville	93257
+W Schallert St	Rialto	92376
+W Schilling Ave	Riverdale	93656
+W Scholar Ln	Palm Desert	92211
+W School Ave	Porterville	93257
+W School Ave	Visalia	93291
+W School Ct	Porterville	93257
+W School Ct	Visalia	93291
+W School St	Amador City	95601
+W School St	Cotati	94931
+W Schrimpf Rd	Calipatria	92233
+W Schulte Rd	Tracy	95304
+W Schulte Rd	Tracy	95376
+W Schulte Rd	Tracy	95377
+W Scott Ave	Fresno	93704
+W Scott Ave	Fresno	93711
+W Scott Ave	Fresno	93723
+W Scott St	Rialto	92376
+W Scotts Av	Stockton	95203
+W Scranton Ave	Porterville	93257
+W Scrivener St	Lake Elsinore	92530
+W Sea View Ave	San Rafael	94901
+W Seaboard Ct	Upland	91786
+W Seabreeze Way	Oxnard	93035
+W Sealane Way	Oxnard	93035
+W Seashell Ct	Ontario	91762
+W Seaview Cir	Placentia	92870
+W Seaward Ave	San Ysidro	92173
+W Seco Dr	San Bernardino	92407
+W Second St	Corona	92882
+W Second St	Hanford	93230
+W Second St	Hollister	95023
+W Second St	Oxnard	93030
+W Second St	Perris	92570
+W Second St	San Jacinto	92583
+W Second St	Stockton	95206
+W Second St	Tracy	95376
+W Secrest Way	Santa Ana	92704
+W Sedan Av	Manteca	95337
+W Sedan Ave	Manteca	95337
+W Sedona Ave	Visalia	93291
+W Seeger Ave	Visalia	93277
+W Seeger Ct	Visalia	93277
+W Segerstrom Ave	Santa Ana	92704
+W Selby Ln	Redwood City	94061
+W Semillon St	Hanford	93230
+W Semolina Ln	Mh	95391
+W Sepulveda Blvd	Carson	90745
+W Sepulveda Rd	Palm Springs	92262
+W Sequoia Ave	Anaheim	92801
+W Sequoia Ave	Bloomington	92316
+W Sequoia Ave	Orange	92868
+W Sequoia Ave	Rialto	92316
+W Sequoia Ave	Rialto	92376
+W Sequoia Ave	Visalia	93277
+W Sequoia Cir	Porterville	93257
+W Sequoia Cir	Reedley	93654
+W Sequoia St	San Bernardino	92407
+W Serenity Dr	Sacramento	95823
+W Sereno Pl	Anaheim	92804
+W Sergio Wy	Mh	95391
+W Serrano Sq	Yucaipa	92399
+W Service Rd	Modesto	95358
+W Seventh St	Corona	92882
+W Seventh St	Gilroy	95020
+W Seventh St	Hanford	93230
+W Seventh St	Oxnard	93030
+W Seventh St	Oxnard	93035
+W Seventh St	San Jacinto	92582
+W Seventh St	Stockton	95206
+W Seventh St	Tracy	95376
+W Seventh St	Westmorland	92281
+W Seville Av	Stockton	95209
+W Seville St	Colton	92324
+W Seward Wy	Stockton	95207
+W Sexton Rd	Sebastopol	95472
+W Shadow Cir	Upland	91784
+W Shadow Hills Dr	San Bernardino	92407
+W Shadow Ln	Anaheim	92801
+W Shadowgrove St	Bre	92821
+W Shadwell St	Carson	90745
+W Shady Creek Dr	San Bernardino	92407
+W Shady Grove Dr	Riverside	92507
+W Shady Mill Rd	Corona	92882
+W Shaffer Ct	Bre	92821
+W Shamrock St	Rialto	92376
+W Shane Ct	Upland	91784
+W Shannon Pkwy	Visalia	93291
+W Shannon St	Upland	91784
+W Sharon Rd	Redlands	92374
+W Sharon Rd	Santa Ana	92706
+W Shasta Ave	Chico	95973
+W Shaw	Mendota	93640
+W Shaw Ave	Biola	93606
+W Shaw Ave	Firebaugh	93622
+W Shaw Ave	Fresno	93704
+W Shaw Ave	Fresno	93711
+W Shaw Ave	Fresno	93722
+W Shaw Ave	Fresno	93723
+W Shaw Ave	Kerman	93630
+W Shaw Ave	Mendota	93640
+W Shaw Ln	Fresno	93711
+W Sheila Ct	Upland	91784
+W Sheila Ln	Santa Maria	93458
+W Sheldon St	Caruthers	93609
+W Shell Rd	Ventura	93001
+W Shell Rd	Ventura County	93001
+W Shell St	Martinez	94553
+W Shelly Ct	Orange	92868
+W Shelly Ln	Porterville	93257
+W Shelton Way	Santa Maria	93458
+W Shelton Wy	Santa Maria	93458
+W Shenandoah St	Thousand Oaks	91360
+W Shepherd Ln	San Bernardino	92407
+W Sheri Ct	Kerman	93630
+W Sheri St	Kerman	93630
+W Sheridan	Calexico	92231
+W Sheridan Rd	San Bernardino	92407
+W Sheridan St	Upland	91786
+W Sheridan Wy	Stockton	95207
+W Sheridan Wy	Stockton	95219
+W Sheringham Ave	Orange	92868
+W Sherman	Calexico	92231
+W Sherman Ave	Calexico	92231
+W Sherman Island Rd	Rio Vista	94571
+W Sherman St	Calexico	92231
+W Sherringham Ave	Orange	92868
+W Sherwood Blvd	Big Bear City	92314
+W Sherwood Dr	Hanford	93230
+W Sherwood Ln	Santa Ana	92706
+W Sherwood Way	Madera	93638
+W Sheryl Cir	Carson	90745
+W Shetland Hills	Fallbrook	92028
+W Shiba Ct	Upland	91786
+W Shields Ave	Firebaugh	93622
+W Shields Ave	Fresno	93705
+W Shields Ave	Fresno	93722
+W Shields Ave	Fresno	93723
+W Shields Ave	Kerman	93630
+W Shields Ave	Mendota	93640
+W Shirley Ct	Colton	92324
+W Shoemake Ave	Reedley	93654
+W Shore Dr	Sacramento	95831
+W Shoreview Dr	San Ramon	94582
+W Short St	Oak View	93022
+W Shorter St	San Bernardino	92407
+W Shoshone St	Ventura	93001
+W Showcase Dr N	San Bernardino	92408
+W Shull Pl	Stockton	95209
+W Sidhand St	Mh	95391
+W Sidhant St	Mh	95391
+W Sidlee St	Thousand Oaks	91360
+W Sidonia St	Hanford	93230
+W Sienna Cir	Coachella	92236
+W Sierra Ave	Cotati	94931
+W Sierra Ave	Firebaugh	93622
+W Sierra Ave	Fresno	93704
+W Sierra Ave	Fresno	93711
+W Sierra Ave	Fresno	93722
+W Sierra Ave	Kingsburg	93631
+W Sierra Ave	Mendota	93640
+W Sierra Ave	Reedley	93654
+W Sierra Ave	Visalia	93291
+W Sierra Dr	Santa Ana	92707
+W Sierra Dr	Thousand Oaks	91362
+W Sierra Madre Ave	Fresno	93705
+W Sierra Madre Ave	Fresno	93722
+W Sierra Nevada Way	Orange	92865
+W Sierra Palm Ln	Anaheim	92801
+W Sierra Pl	Anaheim	92801
+W Sierra View Dr	Jackson	95642
+W Sierra View St	San Bernardino	92407
+W Sierra Vista Rd	Altu	96101
+W Siesta Ave	Thousand Oaks	91360
+W Siesta Ct	Tracy	95304
+W Siesta Ct	Tracy	95377
+W Siino Ave	Bay Point	94565
+W Silaxo Ave	Firebaugh	93622
+W Silver Cloud Dr	Thousand Oaks	91360
+W Silver Cloud St	Thousand Oaks	91360
+W Silver Dr	Santa Ana	92703
+W Silver Eagle Rd	Sacramento	95834
+W Silver Fox Ct	Lodi	95242
+W Silver Lake Pl	Bre	92821
+W Silverado Av	Santa Maria	93454
+W Silverado Av	Santa Maria	93455
+W Silverado Ave	Santa Maria	93454
+W Silverado Ave	Santa Maria	93455
+W Silverhill Ln	Fresno	93711
+W Silveria	Tranquillity	93668
+W Silveria Ave	Tranquillity	93668
+W Sim Pl	Anaheim	92802
+W Simmons Ave	Anaheim	92802
+W Simmons Ave	Orange	92868
+W Simmons Rd	Crows Landing	95313
+W Simpson	Ventura	93001
+W Simpson Ave	Fresno	93705
+W Simpson Ave	Fresno	93722
+W Simpson St	Eureka	95501
+W Simpson St	Ventura	93001
+W Sims St	Banning	92220
+W Simsburry Cmn	Santa Ana	92704
+W Sinclair	Calipatria	92233
+W Sinclair Dr	Calipatria	92233
+W Sinclair (Midway Sf I ) Rd	Calipatria	92233
+W Sinclair Rd	Calipatria	92233
+W Sinclair St	Caruthers	93609
+W Sirius Ave	Anaheim	92802
+W Sirius Ave	Orange	92868
+W Sisson Ave	Santa Ana	92704
+W Siva Ave	Anaheim	92804
+W Sixth St	Corona	92882
+W Sixth St	Fillmore	93015
+W Sixth St	Gilroy	95020
+W Sixth St	Hanford	93230
+W Sixth St	Ontario	91762
+W Sixth St	Oxnard	93030
+W Sixth St	San Jacinto	92583
+W Sixth St	Stockton	95206
+W Sixth St	Tracy	95376
+W Skelton Canyon Cir	Thousand Oaks	91362
+W Skelton Canyon Cr	Thousand Oaks	91362
+W Skelton Canyon Rd	Thousand Oaks	91362
+W Sky Lake Ave	Bre	92821
+W Skyler Way	Bre	92821
+W Skyline Way	Upland	91784
+W Skywood Cir	Anaheim	92804
+W Skywood Pl	Anaheim	92804
+W Skywood St	Bre	92821
+W Slaughter Ave	Porterville	93257
+W Slauson Ave	Los Angeles	90256
+W Sloop Ave	Anaheim	92804
+W Slover Ave	Bloomington	92316
+W Smith Ct	La Habra	90631
+W Smith St	Ukiah	 
+W Smoke Tree Ave	Ocotillo	92259
+W Smoketree	El Centro	92243
+W Smoketree Dr	El Centro	92243
+W Snead Pl	Tustin	92782
+W Snead St	La Habra	90631
+W Sneed Rd	French Camp	95231
+W Socap Walk	Sacramento	95811
+W Soda Rock Ln	Healdsburg	95448
+W Sola St	Santa Barbara	93101
+W Solana Cir	Solana Beach	92075
+W Solano Dr	Anaheim	92804
+W Solano St	Upland	91784
+W Solar Ct	Indio	92201
+W Solar Dr	Hanford	93230
+W Solista Cir	Colton	92324
+W Solo Way	Hanford	93230
+W Solvita Way	Elk Grove	95757
+W Sombra Wy	Mh	95391
+W Sombrero Way	Santa Maria	93458
+W Sombrero Wy	Santa Maria	93458
+W  Sondiesa Ct	Elk Grove	95758
+W Songbird Cir	Colton	92324
+W Sonoma Av	Stockton	95204
+W Sonoma Ct	Ontario	91762
+W Sonoma St	Eureka	95501
+W Sonora St	Stockton	95203
+W Sonya Ln	Santa Maria	93454
+W Sonya Ln	Santa Maria	93458
+W Sosa Ln	Colton	92324
+W South Ave	Fresno	93706
+W South Ave	Redlands	92373
+W South Ave	Reedley	93654
+W South Ave	Tranquillity	93668
+W South St	Anaheim	92802
+W South St	Anaheim	92805
+W South St	Hanford	93230
+W South St	Madera	93638
+W South St	Rialto	92376
+W South St	Tracy	95376
+W South Tuxedo Av	Stockton	95204
+W Southern Ave	Blythe	92225
+W Southern Ave	Orange	92865
+W Southgate Ave	Fullerton	92832
+W Southgate Ave	Fullerton	92833
+W Southridge Dr	Bre	92821
+W Southwood Ln	Upland	91786
+W Spaatz Ave	Fresno	93722
+W Spain St	Anaheim	92804
+W Spain St	Sonoma	95476
+W Spalding Dr	Hanford	93230
+W Spanish Moss Pl	Camarillo	93010
+W Sparkleberry Ave	Orange	92865
+W Sparrow	Heber	92249
+W Sparrow St	Heber	92249
+W Spazier Ave	Burbank	91502
+W Spazier Ave	Burbank	91506
+W Spikes Rd	Needles	92363
+W Split Mountain Ln	San Bernardino	92407
+W Spring Ln	Lemoore	93245
+W Spring Mountain Trl	San Bernardino	92410
+W Spring Pl	Banning	92220
+W Spring Pl	Lemoore	93245
+W Spring St	Anaheim	92805
+W Spring St	Riverside	92507
+W Springcrest St	Hanford	93230
+W Springer Dr	Turlock	95382
+W Springfield Ave	Fresno	93706
+W Springfield Ave	Huntington Beach	92648
+W Springfield Ave	Raisin City	93652
+W Springfield Ave	San Joaquin	93660
+W Springfield St	Upland	91786
+W Springville Ave	Porterville	93257
+W Spruce Ave	Fresno	93650
+W Spruce Ave	Fresno	93711
+W Spruce Ave	Fresno	93722
+W Spruce Ave	Lemoore	93245
+W Spruce Ave	Orange	92868
+W Spruce Ct	Ontario	91762
+W Spruce Pl	Lemoore	93245
+W Spruce St	Fort Bragg	 
+W Spruce St	Ontario	91762
+W Spruce St	Oxnard	93033
+W Spruce St	Rialto	92376
+W Spruce St	San Bernardino	92410
+W Spruce St	San Bernardino	92411
+W Spruce St	San Diego	92103
+W Spud Is	Stockton	95206
+W Spyglass Trl	Oxnard	93036
+W Srevens Rd	Palm Springs	92262
+W St	Eureka	95501
+W St	Eureka	95503
+W St	Sacramento	95817
+W St	Sacramento	95818
+W St	Ventura	93004
+W St. Andrews St	Ontario	91762
+W St Dr	Ojai	93023
+W St Elmo Dr	Rialto	92376
+W St Elmo Dr	San Bernardino	92410
+W St James St	San Jose	95110
+W St John St	San Jose	95110
+W St John St	San Jose	95113
+W St. Tropez St	Upland	91784
+W Stacie Ave	Porterville	93257
+W Stadco Dr	Anaheim	92804
+W Stadium Dr	Stockton	95204
+W Stadium Ln	Sacramento	95834
+W Stafford Rd	Thousand Oaks	91361
+W Stafford Rd	Westlake Village	91361
+W Stalnacker	Winterhaven	92283
+W Stalnacker Dr	Winterhaven	92283
+W Stalnacker Rd	Winterhaven	92283
+W Stan Reynolds Pkwy	Corona	92882
+W Standley Ave	Ukiah	 
+W Standley St	Ukiah	 
+W Stanford Ave	Coalinga	93210
+W Stanford Ranch Rd	Rocklin	95765
+W Stanford Rd	Tracy	95377
+W Stanford St	San Bernardino	92407
+W Stanford St	Santa Ana	92704
+W Stanford St	Santa Ana	92707
+W Stanislaus Ave	Avenal	93204
+W Stanislaus Ave	Kerman	93630
+W Stanislaus Rd	Westley	95387
+W Stanislaus St	Avenal	93204
+W Stanislaus St	Fresno	93706
+W Stanley Ave	Anaheim	92801
+W Stanley Ave	Reedley	93654
+W Stanley Ave	Ventura	93001
+W Stanley Pl	Anaheim	92801
+W Stanton Wy	Stockton	95207
+W Star Ln	Fresno	93722
+W Star Rd	Borrego Springs	92004
+W Starcrest St	Bre	92821
+W Starcross Dr	Desert Hot Springs	92240
+W Stark St	Caruthers	93609
+W Starr St	Stanton	90680
+W State	El Centro	92243
+W State Ave	El Centro	92243
+W State Ct	El Centro	92243
+W State Hwy 20	Upper Lake	95485
+W State Hwy 20	Witter Springs	95493
+W State Rd	El Centro	92243
+W State Route 12	Lodi	95219
+W State Route 12	Lodi	95242
+W State Route 12	Stockton	95219
+W State Route 132	Tracy	95304
+W State Route 4	Stockton	95206
+W State St	El Centro	92243
+W State St	El Centro	92251
+W State St	Ontario	91762
+W State St	Redlands	92373
+W State St  217 S 10Th	El Centro	92243
+W Stathem St	Riverdale	93656
+W Stay Ct	Orange	92868
+W Steamboat Cir	San Bernardino	92407
+W Stearman Dr	Tracy	95377
+W Steele Ln	Santa Rosa	95403
+W Steffan Wy	Acampo	95220
+W Steiner Wy	Orange	92868
+W Stella Ave	Anaheim	92802
+W Stella Ct	Colton	92324
+W Stemwood Dr	Santa Maria	93458
+W Stephanie Ave	San Bernardino	92407
+W Stephen Ave	Colton	92324
+W Stephenson St	Ukiah	 
+W Stetson	Hemet	92545
+W Stetson Ave	Hemet	92543
+W Stetson Ave	Hemet	92545
+W Stetson Ct	Upland	91786
+W Steven	Brawley	92227
+W Steven St	Brawley	92227
+W Stevens Ave	Santa Ana	92707
+W Stevens Rd	Palm Springs	92262
+W Stevenson St	Colton	92324
+W Steward Dr	Orange	92868
+W Stewart Ave	Visalia	93291
+W Stewart Ct	Visalia	93291
+W Stewart Dr	Orange	92868
+W Stiles Ln	Mh	95391
+W Stillwater Rd	Corona	92882
+W Stockton Ave	Anaheim	92801
+W Stockton Ave	San Jose	95126
+W Stockton Blvd	Elk Grove	95624
+W  Stockton Blvd	Elk Grove	95757
+W  Stockton Blvd	Elk Grove	95758
+W Stockton Blvd	Elk Grove	95823
+W Stockton Blvd	Galt	95632
+W  Stockton Blvd	Sacramento	95757
+W Stockton Blvd	Sacramento	95823
+W Stockton St	Thornton	95686
+W Stonehurst Dr	Rialto	92377
+W Stoneman Pl	Anaheim	92802
+W Stonepine Ln	Anaheim	92804
+W Stoneridge Ct	Ontario	91762
+W Stoneridge Dr	Tracy	95304
+W Stoney Park Ln	Santa Maria	93458
+W Stonybrook Dr	Anaheim	92804
+W Story St	Nipomo	93444
+W Stowell Rd	Santa Barbara Unincorporated	93458
+W Stowell Rd	Santa Maria	93458
+W Strauss Dr	Mh	95391
+W Strawberry Ct	Upland	91786
+W Strawberry Ln	Santa Ana	92706
+W Street	Merced	95340
+W Street	Merced	95341
+W Strother Ave	Fresno	93706
+W Stroube St	Oxnard	93036
+W Stroud Ave	Caruthers	93609
+W Stroud Ave	Kingsburg	93631
+W Struck Av	Orange	92867
+W Struck Ave	Ora	92821
+W Struck Ave	Orange	92867
+W Stuart Ave	Fresno	93704
+W Stuart Ave	Fresno	93711
+W Stuart Ave	Fresno	93722
+W Stuart Ave	Fresno	93723
+W Stuart Ave	Redlands	92373
+W Stuart Ave	Redlands	92374
+W Stueckle Ave	Anaheim	92805
+W Stuhr Rd	Newman	95360
+W Sue Ave	Visalia	93277
+W Sugar Pine Cir	Banning	92220
+W Sugar Pine Dr	Oakhurst	93644
+W Sugar Rd	Tracy	95304
+W Sugarloaf Blvd	Big Bear City	92314
+W Sullivan St	Upland	91784
+W Sulphur St	Lake Elsinore	92530
+W Sumac Ln	Anaheim	92802
+W Sumac Ln	Anaheim	92804
+W Summer Ave	Lake Elsinore	92530
+W Summer Blossom Way	Hanford	93230
+W Summer Lake Cir	Bre	92821
+W Summer St	Lake Elsinore	92530
+W Summer St	Ojai	93023
+W Summer Wind	Santa Ana	92704
+W Summerfield Cir	Anaheim	92802
+W Summerfield Ct	Oakley	94561
+W Summerset Dr	Rialto	92377
+W Summit Ave	Rialto	92377
+W Summit Crest Ct	San Bernardino	92405
+W Summit Ct	Upland	91784
+W Summit Dr	Redwood City	94062
+W Summit Trl	Santa Rosa	95404
+W Summit View Dr	Meadow Vista	95722
+W Summner Ave	Lake Elsinore	92530
+W Sumner	Kerman	93630
+W Sumner Ave	Firebaugh	93622
+W Sumner Ave	Fresno	93706
+W Sumner Ave	Lake Elsinore	92530
+W Sumner Ave	San Joaquin	93660
+W Sumner Ave	Tranquillity	93668
+W Sumner St	Bakersfield	93301
+W Sumner St	Lake Elsinore	92530
+W Sun Ave	Redlands	92374
+W Sun Canyon St	Riverside	92503
+W Sun River St	Upland	91784
+W Sunbrook Dr	San Bernardino	92407
+W Suncrest Cir	San Bernardino	92407
+W Sundance Cir	Palm Springs	92262
+W Sundown Crest Dr	La Quinta	92253
+W Sunflower Ave	San Bernardino	92407
+W Sunflower Ave	Santa Ana	92704
+W Sunflower Ave	Santa Ana	92707
+W Sunflower Ave	Santa Ana	92799
+W Sunflower Cir	Palm Springs	92262
+W Sunflower Ct	Upland	91786
+W Sunkist St	Ontario	91762
+W Sunny Dunes Rd	Palm Springs	92264
+W Sunny Hills Rd	Ful	92835
+W Sunny Hills Rd	Fullerton	92835
+W Sunnyoaks Ave	Campbell	95008
+W Sunnyside Ave	Visalia	93277
+W Sunnyside Ct	Visalia	93277
+W Sunnyside Dr	Visalia	93277
+W Sunnyview Ave	Visalia	93291
+W Sunnyview Ct	Visalia	93291
+W Sunnyview Dr	Rialto	92377
+W Sunridge Pl	Escondido	92026
+W Sunrise Ave	Anaheim	92801
+W Sunrise Ave	Rialto	92377
+W Sunrise Dr	Rialto	92377
+W Sunrise Way	Escondido	92029
+W Sunset Av	Santa Maria	93458
+W Sunset Ave	Anaheim	92801
+W Sunset Ave	Kerman	93630
+W Sunset Ave	Santa Maria	93458
+W Sunset Bl	Ventura County	90027
+W Sunset Blvd	Unincorporated Alameda County	94541
+W Sunset Ct	Upland	91784
+W Sunset Dr	Los Altos Hills	94022
+W Sunset Dr	Redlands	92373
+W Sunset Dr	Redlands	92374
+W Sunset Dr	Visalia	93291
+W Sunset Ln	Hanford	93230
+W Sunset Ln	San Bernardino	92407
+W Sunset Ln	San Jacinto	92583
+W Sunset St	Kingsburg	93631
+W Sunset Way	Hanford	93230
+W Sunshine Cir	Palm Springs	92264
+W Sunsong Ct	Ontario	91762
+W Sunswept Ave	Santa Ana	92703
+W Sunveiw Ave	Palm Springs	92262
+W Sunview Ave	Palm Springs	92262
+W Sunview Dr	Anaheim	92804
+W Sunwood Ct	Rocklin	95677
+W Superior Ave	Caruthers	93609
+W Surf Dr	Anaheim	92801
+W Surfside	Ventura	93001
+W Surfside St	Ventura	93001
+W Surfside St	Ventura County	93001
+W Surrey Cir	Santa Ana	92704
+W Susan Ave	Kerman	93630
+W Susan Ln	Hemet	92543
+W Sussex Way	Fresno	93705
+W Sussex Way	Fresno	93722
+W Sussex Way	Fresno	93723
+W Sutter Crest	Sutter Creek	95685
+W Sutter Island Cross Rd	Courtland	95615
+W Sutter Rd	Paradise	95969
+W Sutter Walk	Sacramento	95816
+W Sutton Pl	Palm Desert	92211
+W Suzyq Rd	Hawkins Bar	95527
+W Swain B Ct	Stockton	95207
+W Swain Rd	Stockton	95207
+W Swain Rd	Stockton	95219
+W Swanson Ave	Caruthers	93609
+W Swanson Ave	Riverdale	93656
+W Swearingen Ave	Porterville	93257
+W Sweet Ave	Visalia	93291
+W Sweet Ct	Visalia	93291
+W Sweet Dr	Visalia	93291
+W Sweetbay Ct	Anaheim	92804
+W Swift Ave	Fresno	93705
+W Swift Ave	Fresno	93722
+W Swift Ave	Fresno	93723
+W Swift Ave	Fresno	93727
+W Switzer Ave	Visalia	93291
+W Sycamore Ave	Orange	92866
+W Sycamore Ave	Orange	92868
+W Sycamore Ave	Reedley	93654
+W Sycamore Ct	Reedley	93654
+W Sycamore Rd	Fillmore	93015
+W Sycamore St	Anaheim	92805
+W Sycamore St	San Bernardino	92407
+W Sycamore St	Santa Maria	93458
+W Sylvia Ct	Upland	91786
+W Syracuse Ave	Turlock	95380

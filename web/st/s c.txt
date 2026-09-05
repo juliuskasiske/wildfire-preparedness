@@ -1,0 +1,1046 @@
+S C E Dixon St	Stockton	95206
+S C St	Fillmore	93015
+S C St	Imperial	92251
+S C St	Lompoc	93436
+S C St	Madera	93637
+S C St	Madera	93638
+S C St	Oxnard	93030
+S C St	Oxnard	93033
+S C St	Perris	92570
+S C St	Porterville	93257
+S C St	Santa Barbara Unincorporated	93436
+S C St	Stockton	95205
+S C St	Tracy	95376
+S C St	Tustin	92780
+S C St	Westmorland	92281
+S C St 1/2	Madera	93638
+S Caballo St	Mh	95391
+S Cabe Rd	Tracy	95304
+S Cabernet Cir	Anaheim	92804
+S Cabrillo St	Whittier	90603
+S Cabrini Ln	Santa Maria	93458
+S Cactus Ave	Bloomington	92316
+S Cactus Ave	Rialto	92316
+S Cactus Ave	Rialto	92376
+S Cadbury Rd	Whittier	90601
+S Cadiz Ct	Oxnard	93035
+S Caesar Ave	Fresno	93727
+S Cahuilla Rd	Palm Springs	92262
+S Cahuilla St	Colton	92324
+S Cain Ct	Visalia	93292
+S Cain St	Visalia	93292
+S Cajon Dr	La Habra	90631
+S Cal El Segundo	Palm Springs	92262
+S Calac Ln	Valley Center	92082
+S Calaveras Ave	Cantua Creek	93608
+S Calaveras Ave	Coalinga	93210
+S Calaveras Ave	Tranquillity	93668
+S Calaveras Pl	Ontario	91761
+S Calavo St	Santa Paula	93060
+S Calderon Dr	Santa Maria	93454
+S Caldwell Ave	Ontario	91761
+S Caldwell Ave	Whittier	90602
+S Caldwell Cir	Anaheim	92805
+S Caldwell Pl	Ontario	91761
+S Calico Cir	Anaheim	92804
+S Caliente Ct	Aguanga	92536
+S Caliente Ct	Pla	92870
+S Caliente Ct	Placentia	92870
+S Caliente Dr	Palm Springs	92264
+S Caliente Rd	Palm Springs	92264
+S California Ave	Beaumont	92223
+S California Ave	Calimesa	92320
+S California Ave	Hemet	92545
+S California Ave	Palo Alto	94306
+S California Ave	Whittier	90602
+S California Ave	Whittier	90605
+S California Blvd	Walnut Creek	94596
+S California Pl	Whittier	90602
+S California St	Burbank	91505
+S California St	Calimesa	92320
+S California St	La Habra	90631
+S California St	Lake Elsinore	92530
+S California St	Lodi	95240
+S California St	Maxwell	95955
+S California St	Maxwell	95987
+S California St	Orange	92866
+S California St	Santa Paula	93060
+S California St	Stockton	95202
+S California St	Stockton	95203
+S California St	Stockton	95206
+S California St	Ventura	93001
+S Calistoga Ave	Ontario	91761
+S Calla Dr	Manteca	95336
+S Calle Ajo	Palm Springs	92264
+S Calle Cesar Chavez	Santa Barbara	93101
+S Calle Cesar Chavez	Santa Barbara	93103
+S Calle Da Gama	Anaheim	92807
+S Calle Dana	Anaheim	92807
+S Calle De Casas	Anaheim	92807
+S Calle De Maria	Palm Springs	92264
+S Calle Del Mar	Anaheim	92802
+S Calle Del Sol	Anaheim	92802
+S Calle Diaz	Anaheim	92807
+S Calle El Segundo	Palm Springs	92262
+S Calle Encilia	Palm Springs	92262
+S Calle Encilia	Palm Springs	92264
+S Calle Grande	Lake Elsinore	92530
+S Calle Grande	Orange	92869
+S Calle La Guerra	Camarillo	93010
+S Calle Las Brisas	Palm Desert	92211
+S Calle Luna Nueva	Bre	92823
+S Calle Marcus	Palm Springs	92264
+S Calle Mirasol	Santa Maria	93458
+S Calle Palo Fierro	Palm Springs	92264
+S Calle Paul	Palm Springs	92264
+S Calle Rolph	Palm Springs	92264
+S Calle Serena	Santa Maria	 
+S Calle Serena	Santa Maria	93454
+S Calle Serena	Santa Maria	93455
+S Calle Seville	San Clemente	92672
+S Calle Soledad	Santa Ana	92704
+S Calle Thomas	Palm Springs	92264
+S Calle Tomas	Palm Springs	92264
+S Calle Venado	Anaheim	92807
+S Callecita	Laguna Beach	92651
+S Calletomas	Palm Springs	92264
+S Callisch St	Fresno	93721
+S Calmada Ave	Whittier	90602
+S Calmada Ave	Whittier	90605
+S Calmosa Ave	Whittier	90602
+S Calmosa Ave	Whittier	90605
+S Calpack Rd	Stockton	95206
+S Calvin Ave	Fresno	93725
+S Camberwell Pl	Thousand Oaks	91361
+S Cambridge Ct	Palm Springs	92264
+S Cambridge Dr	Lemoore	93245
+S Cambridge Dr	Lodi	95242
+S Cambridge Dr	Ontario	91761
+S Cambridge St	Anaheim	92805
+S Cambridge St	Orange	92866
+S Camden Ave	Caruthers	93609
+S Camden Ave	Laton	93242
+S  Camden Way	Elk Grove	95624
+S Camden Way	Madera	93637
+S Camelback Ave	Carson	90745
+S Camellia St	Anaheim	92804
+S Camellia St	Porterville	93257
+S Cameo Way	Bre	92823
+S Camerford Ln	Ana	92808
+S Camerford Ln	Anaheim	92808
+S Cameron St	Colton	92324
+S Camille Cir	Orange	92868
+S Camille Ct	Ojai	93023
+S Camilo Real	Palm Springs	92264
+S Camino Arroyo	Palm Desert	92260
+S Camino Cielo Rd	Ojai	93023
+S Camino De Fresas	Anaheim	92807
+S Camino De Naranjas	Anaheim	92807
+S Camino De Ninos	Anaheim	92807
+S Camino De Paz	Anaheim	92807
+S Camino Del Rio	San Diego	92108
+S Camino Grande	Anaheim	92807
+S Camino Los Banos	San Jacinto	92583
+S Camino Los Banos Ave	San Jacinto	92583
+S Camino Real	Palm Springs	92264
+S Camino Real	San Bernardino	92408
+S Camino St	Anaheim	92802
+S Campbell Av	Escalon	95320
+S Campbell Dr	Anaheim	92804
+S Camphor Av	Newbury Park	91320
+S Camphor Ave	Thousand Oaks	91320
+S Camphor Cir	Bre	92821
+S Camphor Cir	Thousand Oaks	91320
+S Camphor St	Anaheim	92805
+S Campton Ave	Anaheim	92805
+S Campton Ave	Anaheim	92806
+S Campus Ave	Ontario	91761
+S Campus Ave	Upland	91786
+S Camrose St	Anaheim	92802
+S Camrose Way	Anaheim	92802
+S Canada Ct	Lake Forest	92630
+S Canada St	Santa Barbara	93103
+S Canal St	South San Francisco	94080
+S Canal Way	Ontario	91761
+S Candia Dr	Whittier	90603
+S Canobie Ave	Whittier	90601
+S Canoga Pl	Anaheim	92804
+S Canoga St	Anaheim	92804
+S Canopy Dr	Santa Maria	93458
+S Cantabrian Ct	Whittier	90601
+S Cantamar St	Visalia	93292
+S Canterbury Cir	Anaheim	92802
+S Canterbury Trl	Ontario	91761
+S Cantona Paseo	Ontario	91762
+S Cantos Paseo	Ontario	91761
+S Canvas Pl	Mh	95391
+S Canyon Cir	Palm Springs	92264
+S Canyon Crest Dr	Ana	92808
+S Canyon Crest Dr	Anaheim	92808
+S Canyon Crest Rd	Whittier	90602
+S Canyon Ct	Orangevale	95662
+S Canyon Dr	Colton	92324
+S Canyon Dr	Menifee	92587
+S Canyon Dr	Whittier	90602
+S Canyon Garden Ln	Ana	92808
+S Canyon Garden Ln	Anaheim	92808
+S Canyon Heights Dr	Ana	92808
+S Canyon Heights Dr	Anaheim	92808
+S Canyon Lake Dr	Canyon Lake	92587
+S Canyon Mist Ln	Ana	92808
+S Canyon Mist Ln	Anaheim	92808
+S Canyon Ridge Dr	Anaheim	92807
+S Canyon View Ln	Colton	92324
+S Canyon Woods Rd	Ana	92807
+S Canyon Woods Rd	Anaheim	92807
+S Cape Tenez Dr	Whittier	90601
+S Capella Ct	Costa Mesa	92626
+S Capital Ct	Hanford	93230
+S Capitol Av	San Jose	95127
+S Capitol Ave	San Jose	95127
+S Capitol Dr	Santa Maria	93454
+S Capitola St	Santa Maria	93458
+S Caplan St	Anaheim	92802
+S Capulet Ave	Whittier	90603
+S Carbona Ct	Tracy	95376
+S Carbona Ct	Tracy	95377
+S Cardiff St	Anaheim	92806
+S Cardinal Av	Stockton	95215
+S Cardinale Privado	Ontario	91762
+S Caribou Pl	Ontario	91761
+S Carl Pl	San Bernardino	92408
+S Carl St	Anaheim	92806
+S Carley Ave	Whittier	90601
+S Carlo St	Mh	95391
+S Carlos Ave	Ontario	91761
+S Carlton Ave	Blythe	92225
+S Carmalita St	Hemet	92543
+S Carmel Ave	Del Rey	93616
+S Carmel Hills Drive	Carmel	93923
+S Carmel Rd	San Marcos	92078
+S Carmel Way	Hanford	93230
+S Carmelita St	Hemet	92543
+S Carmen Cir	Orange	92868
+S Carmenita Ct	Santa Maria	93458
+S Carnegie Dr	San Bernardino	92408
+S Carnelian St	Anaheim	92802
+S Carneros Ave	Ontario	91761
+S Carnoustie Ct	Ontario	91761
+S Carole Ln	Orange	92869
+S Caroleen Ln	Anaheim	92804
+S Carolet Ln	Orange	92869
+S Carolina Dr	Bre	92823
+S Carolyn Ln	Reedley	93654
+S Carousel St	Anaheim	92806
+S Carpenter Rd	Ceres	95307
+S Carpenter Rd	Crows Landing	95313
+S Carpenter Rd	Modesto	95351
+S Carpenter Rd	Modesto	95358
+S Carriage Ave	Fresno	93727
+S Carriage Cir	Anaheim	92807
+S Carrillo Pl	Porterville	93257
+S Carroll Av	Stockton	95215
+S Carrolton Rd	Escalon	95320
+S Carrolton Rd	Ripon	95366
+S Carson Ct	Rialto	92376
+S Carson Way	Gold River	95670
+S Carver Ave	Fresno	93706
+S Casa Rey Dr	1-Fv-1	92704
+S Casa Vista St	Anaheim	92802
+S Casablanca St	Visalia	93292
+S Cascade Ln	Ana	92808
+S Cascade Ln	Anaheim	92808
+S Cascade Palm Dr	Anaheim	92802
+S Cascade Ter	Sunnyvale	94087
+S Cascades Trl	Ontario	91761
+S Caselli Way	Santa Maria	93455
+S Caselli Wy	Santa Maria	93455
+S Cashmere Ter	Sunnyvale	94087
+S Casita St	Anaheim	92805
+S Caspar Dr	Mendocino	 
+S Casper Way	Anaheim	92808
+S Cassatt Ln	Mh	95391
+S Castanya Way	Portola Valley	94028
+S Castellana	Palm Desert	92260
+S Castelotte Ct	Whittier	90601
+S Castile Dr	Whittier	90603
+S Castle Cir	Orange	92868
+S Castle Harbour Ave	Ontario	91761
+S Castle Harbour Pl	Ontario	91761
+S Castle Ln	Ontario	91762
+S Castle Rd	Manteca	95336
+S Castlegate Ln	Bre	92821
+S Castlerock Ln	Santa Maria	 
+S Castlerock Ln	Santa Maria	93454
+S Castlerock Ln	Santa Maria	93455
+S Castlerock Ter	Sunnyvale	94087
+S Castro Ave	Laton	93242
+S Castro St	Laton	93242
+S Castro St	Martinez	94553
+S Catalina	Ventura	93001
+S Catalina Ave	Whittier	90602
+S Catalina Ave	Whittier	90605
+S Catalina Dr	Oak View	93022
+S Catalina St	Ventura	93001
+S Catalpa Ave	Bre	92821
+S Catamaran	Oxnard	93035
+S Catamaran Cir	Pittsburg	94565
+S Catamaran St	Oxnard	93035
+S Cather Pl	Mh	95391
+S Catherine Way	Santa Ana	92705
+S Cavin Rd	Fillmore	93015
+S Cawelti Rd	Camarillo	93012
+S Cawston	Hemet	92545
+S Cawston Ave	Hemet	92545
+S Cays Ct	Coronado	92118
+S Cecelia Dr	San Jacinto	92583
+S Cecilia Dr	San Jacinto	92583
+S Cedar Av	Tracy	95304
+S Cedar Ave	Bloomington	92316
+S Cedar Ave	Bre	92821
+S Cedar Ave	Fresno	93702
+S Cedar Ave	Fresno	93725
+S Cedar Ave	Fullerton	92833
+S Cedar Ave	Reedley	93654
+S Cedar Ave	Rialto	92376
+S Cedar Ct	Colton	92324
+S Cedar Ct	Visalia	93292
+S Cedar Dr	Camarillo	93010
+S Cedar Ln	Pine Grove	95665
+S Cedar Point Dr	Ana	92808
+S Cedar Point Dr	Anaheim	92808
+S Cedar Rd (River Club)	Tracy	95304
+S Cedar Ridge Pl	Ontario	91761
+S Cedar St	Colton	92324
+S Cedar St	Escondido	92025
+S Cedar St	Santa Ana	92701
+S Cedar St	Santa Ana	92707
+S Cedar St	Visalia	93292
+S Cedargrove Ave	Whittier	90605
+S Cedarhaven Way	Anaheim	92807
+S Cedarwood Ln	Anaheim	92806
+S Cedarwood St	Orange	92869
+S Cedros Ave	Solana Beach	92075
+S Cedros St	Solana Beach	92075
+S Celebration Ave	Ontario	91762
+S Cellars Way	Ontario	91761
+S Cenpla Way	Anaheim	92806
+S Centennial Cir	Ontario	91762
+S Center	Turlock	95380
+S Center	Westmorland	92281
+S Center Ave	Del Rey	93616
+S Center Dr	Colton	92324
+S Center Rd	Westmorland	92281
+S Center St	Del Rey	93616
+S Center St	Orange	92866
+S Center St	Redlands	92373
+S Center St	Santa Ana	92703
+S Center St	Santa Ana	92704
+S Center St	Stockton	95202
+S Center St	Stockton	95203
+S Center St	Stockton	95206
+S Center St	Turlock	95380
+S Center St	Westmorland	92281
+S Center Street	Gonzales	93926
+S Center Way	Westmorland	92281
+S Central Av	Lodi	95240
+S Central Av	Tracy	95376
+S Central Ave	Campbell	95008
+S Central Ave	Crows Landing	95313
+S Central Ave	Ontario	91762
+S Central Ave	Sonoma	95476
+S Central Ave	Turlock	95313
+S Central Ave	Turlock	95380
+S Central Ave	Whittier	90602
+S Central Pa	Mh	95391
+S Central Park Ave E	Anaheim	92802
+S Central Park Ave W	Anaheim	92802
+S Central St	Visalia	93277
+S Central St	Visalia	93291
+S Centre City Pkwy	Escondido	92025
+S Centre City Pky	Escondido	92025
+S Centre City Pky	Escondido	92029
+S Centurion Pl	Ontario	91761
+S Centurion Way	Ontario	91761
+S Century Oak Road	Salinas	93907
+S Ceratonia St	Mh	95391
+S Cerritos Dr	Palm Springs	92262
+S Cerritos Dr	Palm Springs	92264
+S Cerro Vista Way	Anaheim	92807
+S Cesar Chavez	Brawley	92227
+S Cesar Chavez Dr	Brawley	92227
+S Cesar Chavez Rd	Brawley	92227
+S Cesar Chavez Rd	French Camp	95231
+S Cesar Chavez St	Brawley	92227
+S Chablis Ave	Kerman	93630
+S Chablis Ave	Ontario	91761
+S Chadsey Dr	Whittier	90603
+S Chaffin Ave	Kerman	93630
+S Chamberlain Dr	Anaheim	92804
+S Champagne Ave	Ontario	91761
+S Champion St	Lemoore	93245
+S Champlain Cir	Anaheim	92807
+S Chance Ave	Fresno	93702
+S Chance Ave	Fresno	93725
+S Chandler Ct	Selma	93662
+S Channel Rd	Sanger	93657
+S Channing Way	Fresno	93706
+S Channing Wy	Mh	95391
+S Chanterella Dr	San Ramon	94582
+S Chantilly St	Anaheim	92806
+S Chanto Dr	Whittier	90603
+S Chaparral Ct	Ana	92808
+S Chaparral Ct	Anaheim	92808
+S Chaparral Ct	Pioneer	95666
+S Chaparral Rd   Cp	Altu	96101
+S Chappell Rd	Hollister	95023
+S Chappo Ave	Cantua Creek	93608
+S Charlotte Ave	Ontario	91762
+S Charpak Pl	Mh	95391
+S Charter Oak Ct	Visalia	93292
+S Chateau Cir	Indian Wells	92210
+S Chateau Fresno Ave	Caruthers	93609
+S Chateau Fresno Ave	Fresno	93706
+S Chateau Fresno Ave	Riverdale	93656
+S Chatham Cir	Anaheim	92806
+S Chatham St	Visalia	93277
+S Chaucer St	Anaheim	92806
+S Chavez St	Burbank	91506
+S Cheever Pl	Mh	95391
+S Cherokee Cir	Banning	92220
+S Cherokee Ln	Lodi	95240
+S Cherry Ave	Caruthers	93609
+S Cherry Ave	Fresno	93706
+S Cherry Ave	Fresno	93721
+S Cherry Ave	Fresno	93725
+S Cherry Ave	Ontario	91761
+S Cherry Ln	Rio Dell	95562
+S Cherry Pl	Ontario	91761
+S Cherry St	Anaheim	92805
+S Cherry Way	Ontario	91761
+S Cheshire Ct	Santa Maria	93458
+S Chesnut St	Lake Elsinore	92530
+S Chess Terrace Pl	Porterville	93257
+S Chess Terrace St	Porterville	93257
+S Chester Ave	Bakersfield	93304
+S Chester Ave	Bakersfield	93307
+S Chester St	Bakersfield	93304
+S Chestnut Ave	Bre	92821
+S Chestnut Ave	Fresno	93702
+S Chestnut Ave	Fresno	93725
+S Chestnut Ave	Selma	93662
+S Chestnut Rd (River Club)	Tracy	95304
+S Chestnut St	Mendota	93640
+S Chestnut St	Porterville	93257
+S Chestnut St	Ventura	93001
+S Cheswick Pl	Thousand Oaks	91361
+S Chetle Ave	Whittier	90606
+S Cheyenne Cir	Banning	92220
+S Chianti Ln	Santa Maria	93458
+S Chickasaw Wy	Manteca	95336
+S Chimayo Dr	Cathedral City	92234
+S Chinchilla St	La Habra	90631
+S Chinowth St	Visalia	93277
+S Chinowth St	Visalia	93291
+S Chipwood St	Orange	92869
+S Chowchilla Blvd	Chowchilla	93610
+S Chris Ln	Anaheim	92805
+S Chrisalta Way	Anaheim	92807
+S Chrisman Ave	Ventura	93001
+S Chrisman Rd	Tracy	95304
+S Chrisman Rd	Tracy	95377
+S Christina Ct	Riverdale	93656
+S Chuchupate Trl	Frazier Park	93225
+S Church Ave	Bloomington	92316
+S Church Ave	Reedley	93654
+S Church St	3-Or-14	92869
+S Church St	Ione	95640
+S Church St	Lodi	95240
+S Church St	Orange	92869
+S Church St	Redlands	92374
+S Church St	Visalia	93277
+S Church St	Visalia	93291
+S Cielo Vista Dr	Whittier	90605
+S Cinda St	Anaheim	92806
+S Cindee Ln	Colton	92324
+S Cindy Ave	Fresno	93725
+S Cindy Ct	Visalia	93277
+S Cindy Ln	Coalinga	93210
+S Cindy Pl	Anaheim	92802
+S Cindy St	Visalia	93277
+S Cinnamon Ridge Rd	Bre	92821
+S Cinnamon Way	Orange	92866
+S Cirby Wy	Roseville	95661
+S Cirby Wy Apt 1	Roseville	95661
+S Cirby Wy Apt 10	Roseville	95661
+S Cirby Wy Apt 100	Roseville	95661
+S Cirby Wy Apt 101	Roseville	95661
+S Cirby Wy Apt 102	Roseville	95661
+S Cirby Wy Apt 103	Roseville	95661
+S Cirby Wy Apt 104	Roseville	95661
+S Cirby Wy Apt 105	Roseville	95661
+S Cirby Wy Apt 106	Roseville	95661
+S Cirby Wy Apt 107	Roseville	95661
+S Cirby Wy Apt 108	Roseville	95661
+S Cirby Wy Apt 109	Roseville	95661
+S Cirby Wy Apt 11	Roseville	95661
+S Cirby Wy Apt 110	Roseville	95661
+S Cirby Wy Apt 111	Roseville	95661
+S Cirby Wy Apt 112	Roseville	95661
+S Cirby Wy Apt 113	Roseville	95661
+S Cirby Wy Apt 114	Roseville	95661
+S Cirby Wy Apt 115	Roseville	95661
+S Cirby Wy Apt 116	Roseville	95661
+S Cirby Wy Apt 117	Roseville	95661
+S Cirby Wy Apt 118	Roseville	95661
+S Cirby Wy Apt 119	Roseville	95661
+S Cirby Wy Apt 12	Roseville	95661
+S Cirby Wy Apt 120	Roseville	95661
+S Cirby Wy Apt 121	Roseville	95661
+S Cirby Wy Apt 122	Roseville	95661
+S Cirby Wy Apt 123	Roseville	95661
+S Cirby Wy Apt 124	Roseville	95661
+S Cirby Wy Apt 125	Roseville	95661
+S Cirby Wy Apt 126	Roseville	95661
+S Cirby Wy Apt 127	Roseville	95661
+S Cirby Wy Apt 128	Roseville	95661
+S Cirby Wy Apt 129	Roseville	95661
+S Cirby Wy Apt 13	Roseville	95661
+S Cirby Wy Apt 130	Roseville	95661
+S Cirby Wy Apt 131	Roseville	95661
+S Cirby Wy Apt 132	Roseville	95661
+S Cirby Wy Apt 133	Roseville	95661
+S Cirby Wy Apt 134	Roseville	95661
+S Cirby Wy Apt 135	Roseville	95661
+S Cirby Wy Apt 136	Roseville	95661
+S Cirby Wy Apt 137	Roseville	95661
+S Cirby Wy Apt 138	Roseville	95661
+S Cirby Wy Apt 139	Roseville	95661
+S Cirby Wy Apt 14	Roseville	95661
+S Cirby Wy Apt 140	Roseville	95661
+S Cirby Wy Apt 141	Roseville	95661
+S Cirby Wy Apt 142	Roseville	95661
+S Cirby Wy Apt 143	Roseville	95661
+S Cirby Wy Apt 144	Roseville	95661
+S Cirby Wy Apt 145	Roseville	95661
+S Cirby Wy Apt 146	Roseville	95661
+S Cirby Wy Apt 147	Roseville	95661
+S Cirby Wy Apt 148	Roseville	95661
+S Cirby Wy Apt 149	Roseville	95661
+S Cirby Wy Apt 15	Roseville	95661
+S Cirby Wy Apt 150	Roseville	95661
+S Cirby Wy Apt 151	Roseville	95661
+S Cirby Wy Apt 152	Roseville	95661
+S Cirby Wy Apt 153	Roseville	95661
+S Cirby Wy Apt 154	Roseville	95661
+S Cirby Wy Apt 155	Roseville	95661
+S Cirby Wy Apt 156	Roseville	95661
+S Cirby Wy Apt 157	Roseville	95661
+S Cirby Wy Apt 158	Roseville	95661
+S Cirby Wy Apt 159	Roseville	95661
+S Cirby Wy Apt 16	Roseville	95661
+S Cirby Wy Apt 160	Roseville	95661
+S Cirby Wy Apt 161	Roseville	95661
+S Cirby Wy Apt 162	Roseville	95661
+S Cirby Wy Apt 163	Roseville	95661
+S Cirby Wy Apt 164	Roseville	95661
+S Cirby Wy Apt 165	Roseville	95661
+S Cirby Wy Apt 166	Roseville	95661
+S Cirby Wy Apt 167	Roseville	95661
+S Cirby Wy Apt 168	Roseville	95661
+S Cirby Wy Apt 17	Roseville	95661
+S Cirby Wy Apt 18	Roseville	95661
+S Cirby Wy Apt 19	Roseville	95661
+S Cirby Wy Apt 2	Roseville	95661
+S Cirby Wy Apt 20	Roseville	95661
+S Cirby Wy Apt 21	Roseville	95661
+S Cirby Wy Apt 22	Roseville	95661
+S Cirby Wy Apt 23	Roseville	95661
+S Cirby Wy Apt 24	Roseville	95661
+S Cirby Wy Apt 25	Roseville	95661
+S Cirby Wy Apt 26	Roseville	95661
+S Cirby Wy Apt 27	Roseville	95661
+S Cirby Wy Apt 28	Roseville	95661
+S Cirby Wy Apt 29	Roseville	95661
+S Cirby Wy Apt 3	Roseville	95661
+S Cirby Wy Apt 30	Roseville	95661
+S Cirby Wy Apt 31	Roseville	95661
+S Cirby Wy Apt 32	Roseville	95661
+S Cirby Wy Apt 33	Roseville	95661
+S Cirby Wy Apt 34	Roseville	95661
+S Cirby Wy Apt 35	Roseville	95661
+S Cirby Wy Apt 36	Roseville	95661
+S Cirby Wy Apt 37	Roseville	95661
+S Cirby Wy Apt 38	Roseville	95661
+S Cirby Wy Apt 39	Roseville	95661
+S Cirby Wy Apt 4	Roseville	95661
+S Cirby Wy Apt 40	Roseville	95661
+S Cirby Wy Apt 41	Roseville	95661
+S Cirby Wy Apt 42	Roseville	95661
+S Cirby Wy Apt 43	Roseville	95661
+S Cirby Wy Apt 44	Roseville	95661
+S Cirby Wy Apt 45	Roseville	95661
+S Cirby Wy Apt 46	Roseville	95661
+S Cirby Wy Apt 47	Roseville	95661
+S Cirby Wy Apt 48	Roseville	95661
+S Cirby Wy Apt 49	Roseville	95661
+S Cirby Wy Apt 5	Roseville	95661
+S Cirby Wy Apt 50	Roseville	95661
+S Cirby Wy Apt 51	Roseville	95661
+S Cirby Wy Apt 52	Roseville	95661
+S Cirby Wy Apt 53	Roseville	95661
+S Cirby Wy Apt 54	Roseville	95661
+S Cirby Wy Apt 55	Roseville	95661
+S Cirby Wy Apt 56	Roseville	95661
+S Cirby Wy Apt 57	Roseville	95661
+S Cirby Wy Apt 58	Roseville	95661
+S Cirby Wy Apt 59	Roseville	95661
+S Cirby Wy Apt 6	Roseville	95661
+S Cirby Wy Apt 60	Roseville	95661
+S Cirby Wy Apt 61	Roseville	95661
+S Cirby Wy Apt 62	Roseville	95661
+S Cirby Wy Apt 63	Roseville	95661
+S Cirby Wy Apt 64	Roseville	95661
+S Cirby Wy Apt 65	Roseville	95661
+S Cirby Wy Apt 66	Roseville	95661
+S Cirby Wy Apt 67	Roseville	95661
+S Cirby Wy Apt 68	Roseville	95661
+S Cirby Wy Apt 69	Roseville	95661
+S Cirby Wy Apt 7	Roseville	95661
+S Cirby Wy Apt 70	Roseville	95661
+S Cirby Wy Apt 71	Roseville	95661
+S Cirby Wy Apt 72	Roseville	95661
+S Cirby Wy Apt 73	Roseville	95661
+S Cirby Wy Apt 74	Roseville	95661
+S Cirby Wy Apt 75	Roseville	95661
+S Cirby Wy Apt 76	Roseville	95661
+S Cirby Wy Apt 77	Roseville	95661
+S Cirby Wy Apt 78	Roseville	95661
+S Cirby Wy Apt 79	Roseville	95661
+S Cirby Wy Apt 8	Roseville	95661
+S Cirby Wy Apt 80	Roseville	95661
+S Cirby Wy Apt 81	Roseville	95661
+S Cirby Wy Apt 82	Roseville	95661
+S Cirby Wy Apt 83	Roseville	95661
+S Cirby Wy Apt 84	Roseville	95661
+S Cirby Wy Apt 85	Roseville	95661
+S Cirby Wy Apt 86	Roseville	95661
+S Cirby Wy Apt 87	Roseville	95661
+S Cirby Wy Apt 88	Roseville	95661
+S Cirby Wy Apt 89	Roseville	95661
+S Cirby Wy Apt 9	Roseville	95661
+S Cirby Wy Apt 90	Roseville	95661
+S Cirby Wy Apt 91	Roseville	95661
+S Cirby Wy Apt 92	Roseville	95661
+S Cirby Wy Apt 93	Roseville	95661
+S Cirby Wy Apt 94	Roseville	95661
+S Cirby Wy Apt 95	Roseville	95661
+S Cirby Wy Apt 96	Roseville	95661
+S Cirby Wy Apt 97	Roseville	95661
+S Cirby Wy Apt 98	Roseville	95661
+S Cirby Wy Apt 99	Roseville	95661
+S Cirby Wy Bldg 1	Roseville	95661
+S Cirby Wy Bldg 10	Roseville	95661
+S Cirby Wy Bldg 11	Roseville	95661
+S Cirby Wy Bldg 12	Roseville	95661
+S Cirby Wy Bldg 13	Roseville	95661
+S Cirby Wy Bldg 14	Roseville	95661
+S Cirby Wy Bldg 15	Roseville	95661
+S Cirby Wy Bldg 16	Roseville	95661
+S Cirby Wy Bldg 17	Roseville	95661
+S Cirby Wy Bldg 18	Roseville	95661
+S Cirby Wy Bldg 19	Roseville	95661
+S Cirby Wy Bldg 2	Roseville	95661
+S Cirby Wy Bldg 20	Roseville	95661
+S Cirby Wy Bldg 3	Roseville	95661
+S Cirby Wy Bldg 4	Roseville	95661
+S Cirby Wy Bldg 5	Roseville	95661
+S Cirby Wy Bldg 6	Roseville	95661
+S Cirby Wy Bldg 7	Roseville	95661
+S Cirby Wy Bldg 8	Roseville	95661
+S Cirby Wy Bldg 9	Roseville	95661
+S Cirby Wy Unit 1	Roseville	95661
+S Cirby Wy Unit 2	Roseville	95661
+S Cirby Wy Unit 3	Roseville	95661
+S Cirby Wy Unit 4	Roseville	95661
+S Circle Dr	Idyllwild	92549
+S Circulo Lazo	Anaheim	92807
+S Circulo Miro	Anaheim	92807
+S Cisco St	Colton	92324
+S Citadel Ln	Anaheim	92806
+S Citadell Ln	Anaheim	92806
+S Citigate Dr	Whittier	90602
+S Citron St	Anaheim	92805
+S Citrus Ave	Escondido	92027
+S Citrus Ave	Fullerton	92833
+S Citrus Ave	Vista	92084
+S Citrus Ave	Whittier	90601
+S Citrus Ct	Santa Maria	93458
+S Citrus Ct	Visalia	93292
+S Citrus Grove Pl	Whittier	90601
+S Citrus St	Orange	92868
+S Civic Dr	Palm Springs	92262
+S Clairmont Ave	National City	91950
+S Clancy Ln	Rancho Mirage	92270
+S Clara Ave	Fresno	93706
+S Clara St	Anaheim	92804
+S Clara St	Santa Ana	92703
+S Clara St	Santa Ana	92704
+S Claremont Ave	Fowler	93625
+S Claremont Ave	Fresno	93727
+S Claremont Ave	San Jose	95127
+S Claremont Dr	Ontario	91761
+S Claremont St	Anaheim	92805
+S Claremont St	San Mateo	94401
+S Claremont St	San Mateo	94402
+S Clarence St	Anaheim	92806
+S Claridge Pl	Whittier	90603
+S Clark Ave	Los Altos	94022
+S Clark Ave	Los Altos	94024
+S Clark Ct	Visalia	93292
+S Clark Rd	Shandon	93461
+S Clark St	Orange	92868
+S Clark St	Visalia	93292
+S Clarke Rd	El Centro	92243
+S Claudina St	Anaheim	92805
+S Claudina Way	Anaheim	92805
+S Clay St	Anaheim	92806
+S Clayford Ave	Thousand Oaks	91361
+S Clayford Ct	Thousand Oaks	91361
+S Clear Creek Pl	Danville	94526
+S Clementine Ln	Rialto	92376
+S Clementine St	Anaheim	92802
+S Clementine St	Anaheim	92805
+S Clementine St	Oceanside	92054
+S Cleome Paseo	Ontario	91761
+S Cleveland Ave	Ontario	91761
+S Cleveland St	Oceanside	92054
+S Clevenger Dr	San Bernardino	92408
+S Cliff Cir	Desert Hot Springs	92240
+S Clifford Ave	Rialto	92376
+S Cliffrose St	Anaheim	92805
+S Clifpark Ave	Anaheim	92805
+S Clifpark Cir	Anaheim	92805
+S Clifton Ave	Ontario	91761
+S Clifton St	La Habra	90631
+S Clover Ave	Campbell	95008
+S Clover Ave	Fresno	93727
+S Clover Ave	Ontario	91761
+S Clover Ave	San Jose	95128
+S Clover Ln	Ontario	91761
+S Clover Pl	Ontario	91761
+S Clover St	Visalia	93277
+S Clover Way	Ontario	91761
+S Clovercrest Ln	San Ramon	94582
+S Cloverdale Blvd	Cloverdale	95425
+S Cloverdale Dr	Ana	92808
+S Cloverdale Dr	Anaheim	92808
+S Cloverdale Way	Ontario	91761
+S Cloverleaf St	Porterville	93257
+S Clovis Ave	Fowler	93625
+S Clovis Ave	Fresno	93725
+S Clovis Ave	Fresno	93727
+S Clovis Ave	Laton	93242
+S Clovis Ave	Selma	93662
+S Club View Dr	Lytle Creek	92358
+S Club Way	San Bernardino	92408
+S Cluff Av	Lodi	95240
+S Clydesdale Cir	Paso Robles	93446
+S Clydesdale Ln	Mh	95391
+S Coachman Ave	Whittier	90605
+S Coalinga Fresno	Huron	93234
+S Coalinga St	Coalinga	93210
+S Coast Blvd	La Jolla	92037
+S Coast Dr	Costa Mesa	92626
+S Coast Highway 101	Cardiff By The Sea	92007
+S Coast Highway 101	Encinitas	92024
+S Coast Highway 101	Solana Beach	92075
+S Coast Hwy	Encinitas	92024
+S Coast Hwy	Laguna Beach	92651
+S Coast Hwy	Oceanside	92054
+S Coast Hwy 101	Solana Beach	92075
+S  Coast Ln	Elk Grove	95758
+S Coast St	Willits	 
+S Coate Rd	Orange	92869
+S Cobb St	Porterville	93257
+S Cobblestone Ln	Anaheim	92807
+S Cobblestone Ln	Ontario	91762
+S Coconino Dr (River Club)	Tracy	95304
+S Cody Ln	Pleasant Hill	94523
+S Colbow St	3-Or-14	92869
+S Colbow St	Orange	92869
+S Cold Springs Pl	Ontario	91761
+S Cole Rd	Whittier	90603
+S Colfax St	La Habra	90631
+S Colfax St	Lah	90631
+S Colima Rd	Whittier	90603
+S Colima Rd	Whittier	90605
+S Colin Ct	Anaheim	92808
+S Colleen St	La Habra	90631
+S College Ave	Whittier	90602
+S College Ave	Whittier	90605
+S College Dr	Santa Maria	93454
+S College Dr	Santa Maria	93455
+S College St	La Habra	90631
+S College St	Lah	90631
+S College St	Santa Maria	93454
+S Coloma St	Loma Linda	92354
+S Colombo Ln	Tustin	92780
+S Colonial Ave	Ontario	91761
+S Colorado	Tranquillity	93668
+S Colorado Rd	Helm	93627
+S Colorado River Rd	Blythe	92225
+S Colt St	Anaheim	92806
+S Columbia Ave	Reedley	93654
+S Columbia St	Hemet	92544
+S Columbus Ct	Visalia	93277
+S Columbus Way	Anaheim	92807
+S Colusa Ave	Five Points	93624
+S Colusa Ave	San Joaquin	93660
+S Colvin Dr	Loomis	95650
+S Comanche Dr	Bakersfield	93307
+S Comconex Rd	Manteca	95336
+S Comet Ave	Upland	91786
+S Cometa Rd	Oakdale	95361
+S Commerce St	Stockton	95202
+S Commerce St	Stockton	95203
+S Commerce St	Stockton	95206
+S Commercenter Cir	San Bernardino	92408
+S Commercenter E	San Bernardino	92408
+S Commercenter W	San Bernardino	92408
+S Commercial	Blythe	92225
+S Commercial	Calipatria	92233
+S Commercial Ave	Calipatria	92233
+S Commercial Ave	Oxnard	93030
+S Commercial St	Blythe	92225
+S Commercial St	Calipatria	92233
+S Commerical	Blythe	92225
+S Commerical St	Blythe	92225
+S Commons Rd	Turlock	95380
+S Compadre Rd	Palm Springs	92264
+S Compass Cir	Chula Vista	91914
+S Comstock Ave	Whittier	90601
+S Comstock Ave	Whittier	90602
+S Comunidad St	Mh	95391
+S Concepcion Av	Santa Maria	93454
+S Concepcion Ave	Santa Maria	93454
+S Conchita Av	Santa Maria	93458
+S Conchita Ave	Santa Maria	93458
+S Concord Av	Stockton	95215
+S Concord Ave	Ontario	91761
+S Concord Pl	Anaheim	92805
+S Concord Pl	Ontario	91761
+S Concord Rd	Stockton	95215
+S Condor Creek Ln	Ontario	91761
+S Conejo Ave	Modesto	95354
+S Conejo School Rd	Thousand Oaks	91362
+S Congress Ave	Kerman	93630
+S Conley St	Porterville	93257
+S Conner St	Porterville	93257
+S Connie Cir	Anaheim	92806
+S Constance Ave	Parlier	93648
+S Contour Rd	Moreno Valley	92555
+S Contra Costa Rd	Tranquillity	93668
+S Conyer Ct	Visalia	93277
+S Conyer St	Visalia	93277
+S Cook Ct	Tustin	92782
+S Cooks Cor	Ana	92808
+S Cooks Cor	Anaheim	92808
+S Cooks Corner	Anaheim	92808
+S Cool Oak Way	Bre	92821
+S Cooley Ct	San Bernardino	92408
+S Cooley Dr E	Colton	92324
+S Coolidge Av	Stockton	95215
+S Coombs St	Napa	94559
+S Cooper St	Santa Ana	92704
+S Cooperation St	Mh	95391
+S Copper Ct	Ontario	91762
+S Copper Ln	San Bernardino	92408
+S Copper Privado	Ontario	91762
+S Cora Way	Ontario	91762
+S Coral Ct	Discovery Bay	94505
+S Coral Paseo	Ontario	91761
+S Coral Way	Upland	91786
+S Corbina Dr	Santa Maria	93458
+S Corcoran Ave	Avenal	93204
+S Cordero Rd	Whittier	90605
+S Cordillera Ave	Colton	92324
+S Cordoba Ave	Spring Valley	91977
+S Cordoban Ln	Santa Maria	93455
+S Cordon Gln	Escondido	92025
+S Cordova Ave	Colton	92324
+S Cordova St	Burbank	91505
+S Corella Ave	Whittier	90603
+S Corinth Av	Lodi	95242
+S Corinthian Wy	Mh	95391
+S Cork Privado	Ontario	91761
+S Cornelia Ave	Caruthers	93609
+S Cornelia Ave	Fresno	93609
+S Cornelia Ave	Fresno	93706
+S Cornelia Ave	Riverdale	93656
+S Cornell Ave	Fullerton	92831
+S Cornell St	Hemet	92544
+S Cornell St	Porterville	93257
+S Corner St	Anaheim	92804
+S Cornwall Dr	Anaheim	92804
+S Corona Dr	Porterville	93257
+S Corona Mall	Corona	92879
+S Coronado	Coachella	92236
+S Coronado	Ventura	93001
+S Coronado Rd (River Club)	Tracy	95304
+S Coronado St	Coachella	92236
+S Coronado St	Ventura	93001
+S Corral Ct	Coarsegold	93614
+S Corral Hollow Rd	Tracy	95304
+S Corral Hollow Rd	Tracy	95376
+S Corral Hollow Rd	Tracy	95377
+S Corry St	Fort Bragg	 
+S Corta Dr	Santa Ana	92704
+S Cortadillo St	Mh	95391
+S Cortez Ln	Tustin	92780
+S Corto Ave	Parlier	93648
+S Cortona Dr	Whittier	90603
+S Corwin Ct	Santa Ana	92704
+S Cosenza St	Mh	95391
+S Costa Glen Ave	Whittier	90603
+S Costa Ranch Rd	Tracy	95304
+S Costo Ln	Hemet	92543
+S Cota Ave	Corona	92882
+S Cotharin Rd	Malibu	90265
+S Cotta Ct	Visalia	93292
+S Cotta St	Visalia	93292
+S Cottage Av	Manteca	95336
+S Cottage Garden Way	Ontario	91762
+S Cottage Ln	Santa Maria	93454
+S Cottage Ln	Santa Maria	93455
+S Cottage Pl	Porterville	93257
+S Cottage St	Porterville	93257
+S Cottle Ave	Sanger	93657
+S Cottontail Ln	Ana	92808
+S Cottontail Ln	Anaheim	92808
+S Cottonwood	El Centro	92243
+S Cottonwood Ave	El Centro	92243
+S Cottonwood Ct	Visalia	93277
+S Cottonwood Ct	Visalia	93291
+S Cottonwood Dr	El Centro	92243
+S Cottonwood Ln	Blythe	92225
+S Cottonwood St	Burney	96013
+S Cottonwood St	Visalia	93277
+S Country Club Dr	Banning	92220
+S Country Club Dr	Bre	92821
+S Country Club Dr	Desert Hot Springs	92241
+S Country Club Ln	Fresno	93727
+S Country Glen Way	Ana	92808
+S Country Glen Way	Anaheim	92808
+S Country Glenn Way	Anaheim	92808
+S Country Hill Rd	Ana	92808
+S Country Hill Rd	Anaheim	92808
+S Country Rd	Stockton	95215
+S Country Way	La Habra	90631
+S Country Way	Sacramento	95828
+S Countrywood	La Habra	90631
+S County Center Dr	Visalia	93277
+S Courson Dr	Anaheim	92804
+S Court Ave	Whittier	90601
+S Court St	Los Osos	93402
+S Court St	Visalia	93277
+S Court St	Visalia	93291
+S Courtland St	Arroyo Grande	93420
+S Courtney Ave	Fullerton	92833
+S Courtney Pl	Fullerton	92833
+S Courtright Ave	Hanford	93230
+S Courtright St	Anaheim	92804
+S Cove Dr	Indian Wells	92210
+S Cove Dr	Sacramento	95831
+S Coventry Cir	Whittier	90605
+S Coventry Dr	Anaheim	92804
+S Covered Wagon Trl	Anaheim	92807
+S Covington Ave	Thousand Oaks	91361
+S Covington Ct	Visalia	93277
+S Cow Creek Rd	Whitmore	96096
+S Cow Ct	Mh	95391
+S Coyote Dr	Colton	92324
+S Coyote Ln	Ana	92808
+S Coyote Ln	Anaheim	92808
+S Cozy Ct	Tracy	95304
+S Cozy Wood Ct	Whittier	90601
+S Cragmont Ave	San Jose	95127
+S Craig Dr	Orange	92869
+S Craig Dr	Santa Paula	93060
+S Cranbrook Privado	Ontario	91761
+S Crater Dr S	Shingletown	96088
+S Crawford Ave	Dinuba	93618
+S Crawford Avenue	June Lake	93529
+S Crawford Canyon Rd	County	92869
+S Crawford Canyon Rd	Orange	92869
+S Crawford Ct	Mh	95391
+S Crawford Dr	Mh	95391
+S Crawford Gln	Santa Ana	92704
+S Cree Ct	Manteca	95336
+S Creek Side Dr	Chula Vista	91915
+S Creekside Ct	Half Moon Bay	94019
+S Creekside Ct	Visalia	93277
+S Creekside Dr	Chula Vista	91915
+S Creekside Pl	Porterville	93257
+S Creekside St	Porterville	93257
+S Creekside St	Visalia	93277
+S Creekview Ln	Ana	92808
+S Creekview Ln	Anaheim	92808
+S Crenshaw Ct	Visalia	93277
+S Crenshaw Dr	Visalia	93277
+S Crenshaw St	Visalia	93277
+S Crenshaw St	Visalia	93291
+S Crescent Av	Lodi	95240
+S Crescent Ave	San Bernardino	92410
+S Crescent Dr	Desert Hot Springs	92240
+S Crescent St	Desert Hot Springs	92240
+S Cress Ct	Mh	95391
+S Crest Ave	Martinez	94553
+S Crest Rd	Orange	92868
+S Crestview St	Porterville	93257
+S Crew Dr	Anaheim	92804
+S Crimea Ct	Santa Maria	93458
+S Crimea St	Ventura	93001
+S Cristal Springs Ct	Bre	92821
+S Crocker Ave	Ventura	93004
+S Crocker Rd	Stockton	95206
+S Croddy Way	Santa Ana	92704
+S Cromwell Pl	Thousand Oaks	91361
+S Cross Creek Rd	Orange	92869
+S Crossbow Ln	Anaheim	92804
+S Crowe St	Visalia	93277
+S Crown Pointe Dr	Anaheim	92807
+S Crownview Way	Anaheim	92808
+S Crumal St	Visalia	93292
+S Crystal Ave	Fresno	93706
+S Crystal Springs Pl	Ontario	91761
+S Cucamonga Ave	Ontario	91761
+S Cuerno Largo Way	Paso Robles	93446
+S Cullman Ave	Whittier	90603
+S Culver Ave	Orange	92866
+S Culver Rd	Victorville	92394
+S Culver St	Orange	92866
+S Cumberland Dr	Lake Arrowhead	92352
+S Curioso St	Mh	95391
+S Currier Dr	Tracy	95304
+S Curryer St	Santa Maria	93458
+S Curtis Rd	Ripon	95366
+S Curtis St	Loma Linda	92354
+S Cutty Way	Anaheim	92802
+S Cypress	El Centro	92243
+S Cypress Av	San Jose	95117
+S Cypress Ave	El Centro	92243
+S Cypress Ave	Fresno	93727
+S Cypress Ave	Ontario	91762
+S Cypress Ave	San Jose	95117
+S Cypress Ave	San Jose	95117-1532
+S Cypress Ave	Santa Ana	92701
+S Cypress Ave	Santa Ana	92707
+S Cypress Dr	El Centro	92243
+S Cypress Point Dr	Ontario	91761
+S Cypress Point Dr	Ripon	95366
+S Cypress Point Pl	Ontario	91761
+S Cypress St	La Habra	90631
+S Cypress St	Lah	90631
+S Cypress St	Orange	92866
+S Cyrier Ave	Reedley	93654

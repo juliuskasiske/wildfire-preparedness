@@ -1,0 +1,90 @@
+Mono	Bass Lake	93604
+Mono Ave	El Cerrito	94530
+Mono Ave	Fairfax	94930
+Mono Ave	Oroville	95965
+Mono Circle	La Verne	91750
+Mono Court	Fairfield	94534
+Mono Court	Seaside	93955
+Mono Court	Tulare	93274
+Mono Ct	Adelanto	92301
+Mono Ct	Big River	92242
+Mono Ct	Grover Beach	93433
+Mono Ct	Mariposa	95338
+Mono Ct	Stockton	95219
+Mono Ct	Ventura	93003
+Mono Dr	Hesperia	92345
+Mono Dr	Long Barn	95335
+Mono Dr	Martinez	94553
+Mono Dr	Modesto	95354
+Mono Dr	Riverside	92506
+Mono Dr	Santa Barbara Unincorporated	93111
+Mono Dr	Santa Rosa	95403
+Mono Dr	Twain Harte	95383
+Mono Drive	June Lake	93529
+Mono Drive	Vacaville	95687
+Mono Inn Road	Lee Vining	93541
+Mono Lake Avenue	Lee Vining	93541
+Mono Lake Avenue	Merced	95341
+Mono Lake Court	Merced	95341
+Mono Lake Court	Mono City	93541
+Mono Lake Ct	San Jose	95123
+Mono Lake Dr	San Diego	92119
+Mono Ln	Avenal	93204
+Mono Ln	Fairfax	94930
+Mono Ln	San Anselmo	94960
+Mono Pass	Twain Harte	95383
+Mono Pl	Orcutt	93455
+Mono Pl	Santa Maria	93455
+Mono Pl	Westminster	92683
+Mono Place	Davis	95618
+Mono Place	Tulare	93274
+Mono Rd	Phelan	92371
+Mono Rd	Pinon Hills	92372
+Mono Rd	Victorville	92371
+Mono Rd	Victorville	92392
+Mono Rd W	Long Barn	95335
+Mono St	Avenal	93204
+Mono St	Brisbane	94005
+Mono St	Fresno	93706
+Mono St	Fresno	93721
+Mono St	Hayward	94541
+Mono St	Madera	93638
+Mono St	Manteca	95337
+Mono St	Oxnard	93036
+Mono St	Richmond	94801
+Mono St	San Francisco	94114
+Mono Street	Los Angeles	90033
+Mono Street	Mammoth Lakes	93546
+Mono Street	Vallejo	94590
+Mono Trl	Long Barn	95335
+Mono Vista Rd N	Sonora	95370
+Mono Vista Rd S	Sonora	95370
+Mono Vista Rd S	Soulsbyville	95372
+Mono Vista Way	Lee Vining	93541
+Mono Way	Antelope	95843
+Mono Way	Atwater	95301
+Mono Way	Mill Valley	94941
+Mono Way	Sonora	95370
+Mono Wind Way	North Fork	93643
+Monocott Dr	Madera	93637
+Monogram Avenue	Granada Hills	91344
+Monogram Avenue	Lakewood	90713
+Monogram Avenue	Long Beach	90808
+Monogram Avenue	Long Beach	90815
+Monogram Avenue	North Hills	91343
+Monogram Ct	Turlock	95382
+Monogram Dr	Sacramento	95842
+Monokai Ave	Salton City	92274
+Monolith Rd	Lucerne Valley	92356
+Monolith St	Lucerne Valley	92356
+Monolith Trl	Perris	92570
+Monomoy Wy	Stockton	95219
+Monon Street	Los Angeles	90027
+Monona Dr	Corte Madera	94925
+Monona Dr	La Mesa	91942
+Monongahela St	San Diego	92117
+Monopoly Ct	Rocklin	95677
+Monopoly Ln	Crescent City	95531
+Monostory Ct	Pittsburg	94565
+Monovale Drive	Los Angeles	90077
+Monowood Dr	Folsom	95630

@@ -1,0 +1,60 @@
+Baja	Irvine	92620
+Baja	Newport Beach	92660
+Baja Ave	La Habra	90631
+Baja Avenue	Davis	95616
+Baja Avenue	La Puente	91744
+Baja Cerro Cir	San Diego	92109
+Baja Circle	Salinas	93905
+Baja Court	Palmdale	93551
+Baja Ct	Brentwood	94513
+Baja Ct	Camarillo	93010
+Baja Ct	Chico	95928
+Baja Ct	Corte Madera	94925
+Baja Ct	Lake Elsinore	92532
+Baja Ct	Pittsburg	94565
+Baja Ct	Sacramento	95833
+Baja Ct	San Diego	92115
+Baja Ct	Santa Rosa	95409
+Baja Ct	Stockton	95206
+Baja Dr	Bakersfield	93307
+Baja Dr	San Diego	92115
+Baja Ln	Walnut Creek	94595
+Baja Loma Ct	Danville	94526
+Baja Mar	La Jolla	92037
+Baja Mar	Lake Forest	92630
+Baja Mar	Lake Forest	92630-0000
+Baja Mar	Lake Forest	92630-7028
+Baja Mar	Lake Forest	92630-7029
+Baja Mar	Lake Forest	92630-7846
+Baja Mission Rd	Fallbrook	92028
+Baja Panorama	North Tustin	92705
+Baja Rose St	Milpitas	95035
+Baja Sol	Scotts Valley	95066
+Baja St	Laguna Beach	92651
+Baja Vista	Somis	93066
+Baja Vista Dr	Fallbrook	92028
+Baja Vista Dr	Oceanside	92058
+Baja Vista Dr	Somis	93066
+Baja Vista Rd	Somis	93066
+Baja Vista Way	Camarillo	93010
+Baja Way	Coachella	92236
+Baja Way	Fairfax	94930
+Baja Way	San Marcos	92078
+Bajada	Santa Barbara	93109
+Bajada Ave	Atascadero	93422
+Bajada Ct	Victorville	92392
+Bajada Drive	Valencia	91355
+Bajada Grande	Santa Barbara	93109
+Bajada Ln	Hope Ranch	93110
+Bajada Ln	Sacramento	95842
+Bajada Rd	San Diego	92128
+Bajada Trl	Palm Desert	92260
+Bajado Ct	Rancho Cucamonga	91730
+Bajamont Way	Carmichael	95608
+Bajer St	San Diego	92122
+Bajia Ct	Sacramento	95831
+Bajio Court	Encino	91436
+Bajio Road	Encino	91436
+Bajo Agua	Camarillo	93010
+Bajo Ct	Carlsbad	92009
+Bajo Ct	Chula Vista	91910

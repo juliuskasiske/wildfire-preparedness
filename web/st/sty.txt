@@ -1,0 +1,6 @@
+Style Dr	Aliso Viejo	92656
+Style Dr	Garden Grove	92840
+Styles Ln	Paradise	95969
+Styles Street	Woodland Hills	91367
+Stylus Dr	San Diego	92108
+Stylus St	Chula Vista	91915

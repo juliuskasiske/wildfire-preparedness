@@ -1,0 +1,391 @@
+Dovary Rd	Chula Vista	91910
+Dove	Heber	92249
+Dove	Watsonville	95076
+Dove Ave	Barstow	92311
+Dove Ave	Heber	92249
+Dove Canyon Ct	La Quinta	92253
+Dove Canyon Dr	Oxnard	93036
+Dove Canyon Dr	Rancho Santa Margarita	92679
+Dove Canyon Dr	Riverside	92503
+Dove Canyon Rd	Buellton	93427
+Dove Canyon Rd	Riverside	92503
+Dove Canyon Rd	San Diego	92127
+Dove Canyon Way	Bakersfield	93312
+Dove Canyon Way	Rancho Cucamonga	91739
+Dove Cir	Banning	92220
+Dove Cir	Fountain Valley	92708
+Dove Cir	Huntington Beach	92646
+Dove Cir	Huntington Beach	92646-7246
+Dove Cir	La Palma	90623
+Dove Cir	Vista	92083
+Dove Court	Atwater	95301
+Dove Court	Canyon Country	91351
+Dove Court	Carmel	93923
+Dove Court	Exeter	93221
+Dove Court	Merced	95340
+Dove Court	Pasadena	91107
+Dove Court	Vacaville	95687
+Dove Court	West Sacramento	95691
+Dove Court	Yuba City	95993
+Dove Creek Ct	Chico	95926
+Dove Creek Ct	Murrieta	92562
+Dove Creek Ct	Sacramento	95828
+Dove Creek Dr	Bakersfield	93312
+Dove Creek Lane	Pasadena	91107
+Dove Creek Ln	Danville	94506
+Dove Creek Rd	San Diego	92127
+Dove Creek Trail	Vacaville	95688
+Dove Creek Trl	Hesperia	92344
+Dove Crest Pl	Chula Vista	91914
+Dove Ct	Adelanto	92301
+Dove Ct	Antioch	94509
+Dove Ct	Arroyo Grande	93420
+Dove Ct	Berry Creek	95966
+Dove Ct	Big Bear Lake	92315
+Dove Ct	Brentwood	94513
+Dove Ct	Chino	91710
+Dove Ct	Coarsegold	93614
+Dove Ct	Corona	92882
+Dove Ct	Fillmore	93015
+Dove Ct	Fortuna	95540
+Dove Ct	Garden Grove	92840
+Dove Ct	Gilroy	95020
+Dove Ct	Granite Bay	95746
+Dove Ct	Hayward	94545
+Dove Ct	Heber	92249
+Dove Ct	Hercules	94547
+Dove Ct	Hidden Valley Lake	95467
+Dove Ct	Lincoln	95648
+Dove Ct	Lodi	95240
+Dove Ct	Modesto	95350
+Dove Ct	Napa	94558
+Dove Ct	Paso Robles	93446
+Dove Ct	Pine Grove	95665
+Dove Ct	Pleasant Hill	94523
+Dove Ct	San Diego	92103
+Dove Ct	San Jacinto	92582
+Dove Ct	Santa Paula	93060
+Dove Ct	Twain Harte	95383
+Dove Ct	Victorville	92394
+Dove Ct	Yucaipa	92399
+Dove Dr	Aguanga	92536
+Dove Dr	Campo	91906
+Dove Dr	Cobb	95426
+Dove Dr	Fair Oaks	95628
+Dove Dr	Perris	92570
+Dove Dr	Tracy	95376
+Dove Drive	Arboga	95961
+Dove Drive	Beale Afb	95903
+Dove Drive	Los Angeles	90065
+Dove Drive	Woodland	95695
+Dove Hill Ct	Banning	92220
+Dove Hill Dr	Santee	92071
+Dove Hill Rd	San Jose	95121
+Dove Hollow Rd	Encinitas	92024
+Dove Hollow Rd	Olivenhain	92024
+Dove Lane	Stevenson Ranch	91381
+Dove Lane	Yreka	96097
+Dove Ln	Adelanto	92301
+Dove Ln	Carlsbad	92009
+Dove Ln	Carlsbad	92011
+Dove Ln	Fontana	92337
+Dove Ln	Foster City	94404
+Dove Ln	Fullerton	92833
+Dove Ln	Ione	95640
+Dove Ln	Lompoc	93436
+Dove Ln	Petaluma	94954
+Dove Ln	Richmond	94803
+Dove Ln	Riverside	92506
+Dove Ln	Running Springs	92382
+Dove Ln	Sunnyvale	94087
+Dove Ln	Windsor	95492
+Dove Ln	Ybl	92886
+Dove Ln	Yorba Linda	92886
+Dove Loop	Penn Valley	95946
+Dove Loop	San Francisco	94129
+Dove Meadow Ct	Elk Grove	95624
+Dove Meadow Ct	Roseville	95661
+Dove Meadow Ln	Santa Ynez	93463
+Dove Meadow Rd	Ballard	93463
+Dove Meadow Rd	Santa Ynez	93463
+Dove Oak Ct	Cupertino	95014
+Dove Pl	Novato	94949
+Dove Place	Chatsworth	91311
+Dove Pond Rd	Templeton	93465
+Dove Rd	Indian Wells	92210
+Dove Rd	San Jose	95111
+Dove Road	Earlimart	93219
+Dove Road	Grass Valley	95949
+Dove Run Cir	Palm Desert	92211
+Dove Run Rd	Encinitas	92024
+Dove Run Rd	Olivenhain	92024
+Dove Shell Way	Elk Grove	95757
+Dove Song Ct	Paradise	95969
+Dove Song Way	Encinitas	92024
+Dove Song Way	Olivenhain	92024
+Dove Springs Drive	Grass Valley	95949
+Dove Springs Drive	Palmdale	93550
+Dove St	Aliso Viejo	92656
+Dove St	Corona	92883
+Dove St	El Cajon	92020
+Dove St	Fillmore	93015
+Dove St	Grand Terrace	92313
+Dove St	Indio	92201
+Dove St	Newport Beach	92660
+Dove St	Redding	96001
+Dove St	San Diego	92103
+Dove St	Ventura	93003
+Dove Street	Los Banos	93635
+Dove Tail Dr	Encinitas	92024
+Dove Tail Dr	San Marcos	92078
+Dove Tail Ter	San Diego	92128
+Dove Terrace	Truckee	96161
+Dove Tree Ct	Tustin	92780
+Dove Tree Dr	Rancho Cucamonga	91739
+Dove Tree Ln	Elk Grove	95758
+Dove Tree Ln	Fontana	92336
+Dove Tree Ln	Lake Forest	92630
+Dove Tree Ln	Lake Forest	92630-0000
+Dove Tree Ln	Lake Forest	92630-3209
+Dove Tree Ln	Lake Forest	92630-3210
+Dove Valley Ave	Eastvale	92880
+Dove Valley Ct	Fontana	92336
+Dove Valley Way	Eastvale	92880
+Dove Way	Carnelian Bay	96140
+Dove Way	Fairfield	94533
+Dove Way	Hayward	94545
+Dove Way	Upland	91784
+Dove Willow Street	Canyon Country	91387
+Dove Wood Dr	Rancho Cucamonga	91739
+Dove Wy	Roseville	95661
+Dove Wy	Tracy	95376
+Dovecoat Way	Corona	92883
+Dovecote Lane	Carson	90745
+Dovecote Ln	Carson	90745
+Dovecotes Ct	Bakersfield	93312
+Dovecreek	Irvine	92618
+Dovecrest	Irvine	92620
+Dovecrest Ct	Spring Valley	91977
+Dovecrest Pl	Chula Vista	91914
+Dovedale Ave	Cambria	93428
+Doveflower Way	San Diego	92115
+Dovehill Dr	Riverside	92503
+Dovehouse Ct	Modesto	95355
+Dovehouse Ln	Modesto	95355
+Dovehouse Street	Canyon Country	91387
+Dovehurst St	Moreno Valley	92553
+Dovehurst Way	Fontana	92336
+Dovekie Cir	Laguna Niguel	92677
+Dovekie Ct	Rancho Cordova	95742
+Dovela Ct	Citrus Heights	95621
+Dovela Way	San Jose	95118
+Dovenshire Dr	Tracy	95376
+Dover	Hercules	94547
+Dover	Irvine	92604
+Dover	Rancho Santa Margarita	92679
+Dover	Santa Cruz	95065
+Dover Ave	Brea	92821
+Dover Ave	Hanford	93230
+Dover Ave	Modesto	95358
+Dover Ave	Sacramento	95819
+Dover Ave	San Pablo	94806
+Dover Ave	Thousand Oaks	91360
+Dover Avenue	Fairfield	94533
+Dover Canyon Court	Tulare	93274
+Dover Canyon Drive	Tulare	93274
+Dover Canyon Place	Tulare	93274
+Dover Canyon Rd	Paso Robles	93446
+Dover Canyon Rd	Templeton	93465
+Dover Cir	Brea	92821
+Dover Cir	Corona	92880
+Dover Cir	Cypress	90630
+Dover Cir	Westminster	92683
+Dover Circle	Benicia	94510
+Dover Circle	Salinas	93906
+Dover Circle	Suisun City	94585
+Dover Court	Rowland Heights	91748
+Dover Court	Vallejo	94591
+Dover Ct	Brentwood	94513
+Dover Ct	Chula Vista	91910
+Dover Ct	Daly City	94015
+Dover Ct	Danville	94506
+Dover Ct	Grover Beach	93433
+Dover Ct	Highland	92346
+Dover Ct	Indio	92203
+Dover Ct	Lake Arrowhead	92352
+Dover Ct	Lincoln	95648
+Dover Ct	Los Altos	94022
+Dover Ct	Los Gatos	95032
+Dover Ct	Murrieta	92562
+Dover Ct	Orinda	94563
+Dover Ct	Pittsburg	94565
+Dover Ct	Rancho Mirage	92270
+Dover Ct	Redlands	92374
+Dover Ct	Riverside	92504
+Dover Ct	San Bruno	94066
+Dover Ct	San Carlos	94070
+Dover Ct	San Diego	92109
+Dover Ct	San Jacinto	92583
+Dover Ct	Saratoga	95070
+Dover Ct	Skyforest	92352
+Dover Ct	Walnut Creek	94598
+Dover Ct N	Santa Rosa	95403
+Dover Ct S	Santa Rosa	95403
+Dover Dr	Anderson	96007
+Dover Dr	Galt	95632
+Dover Dr	Granite Bay	95746
+Dover Dr	Huntington Beach	92647
+Dover Dr	Huntington Beach	92647-2448
+Dover Dr	La Habra	90631
+Dover Dr	La Palma	90623
+Dover Dr	Lodi	95242
+Dover Dr	Moreno Valley	92555
+Dover Dr	Newport Beach	92660
+Dover Dr	Newport Beach	92663
+Dover Dr	San Bernardino	92407
+Dover Dr	Stockton	95209
+Dover Dr	Walnut Creek	94598
+Dover Drive	Hilmar	95324
+Dover Drive	Palmdale	93551
+Dover Hill Dr	Bakersfield	93311
+Dover Hill Rd	Santa Barbara	93103
+Dover Isle Ct	Roseville	95747
+Dover Ln	Big Bear Lake	92315
+Dover Ln	Cambria	93428
+Dover Ln	Foster City	94404
+Dover Ln	Lincoln	95648
+Dover Ln	Petaluma	94954
+Dover Ln	Sacramento	95842
+Dover Ln	Santa Barbara	93103
+Dover Ln	Tracy	95377
+Dover Ln	Unincorporated Alameda County	94541
+Dover Ln	Ventura	93001
+Dover Ln	Victorville	92392
+Dover Ln	Yorba Linda	92887
+Dover Pl	Bakersfield	93306
+Dover Pl	Laguna Niguel	92677
+Dover Pl	Unincorporated Alameda County	94541
+Dover Place	Los Angeles	90039
+Dover Place	Manhattan Beach	90266
+Dover Place	Pomona	91766
+Dover Rd	Apple Valley	92308
+Dover Rd	Lucerne	95458
+Dover Rd	Menifee	92584
+Dover Rd	Point Reyes Station	94956
+Dover Rd	Redwood City	94061
+Dover Rd	Santa Barbara	93103
+Dover Road	Covina	91722
+Dover Road	La Canada Flintridge	91011
+Dover St	Berkeley	94609
+Dover St	Chino	91710
+Dover St	Los Gatos	95032
+Dover St	Napa	94558
+Dover St	Oakland	94609
+Dover St	Oceanside	92057
+Dover St	Oxnard	93030
+Dover Street	Glendora	91740
+Dover Street	Los Angeles	90039
+Dover Street	West Sacramento	95691
+Dover Tr	Lucerne	95458
+Dover Way	Campbell	95008
+Dover Way	Concord	94518
+Dover Way	Monterey Park	91754
+Dover Way	Oroville	95965
+Dover Way	Pittsburg	94565
+Dover Way	Placentia	92870
+Dover Way	Rancho Cucamonga	91730
+Dover Way	San Jose	95127
+Dover Way	Stanton	90680
+Dover Way	Vacaville	95687
+Dover Way	Victorville	92392
+Dovercourt Cir	Carmichael	95608
+Doverdale Avenue	La Puente	91744
+Doverfield Avenue	Hacienda Heights	91745
+Doverfield Dr	Angelus Oaks	92305
+Doverfield Dr	Placentia	92870
+Doverglen Way	Hacienda Heights	91745
+Doverham Way	Bakersfield	93311
+Doverhill Rd	San Diego	92131
+Doverlee Dr	Orcutt	93455
+Doverlee Dr	Santa Maria	93455
+Doverridge Drive	Rancho Palos Verdes	90275
+Doverton Ct	Santa Rosa	95404
+Doverton Dr	Huntington Beach	92649
+Doverton Dr	Huntington Beach	92649-3663
+Doverton Dr	Huntington Beach	92649-3664
+Doverton Dr	Stockton	95219
+Doverton Sq	Mountain View	94040
+Doverton Way	Chino Hills	91709
+Doverwood	Irvine	92620
+Doverwood Court	Lancaster	93536
+Doverwood Court	Westlake Village	91361
+Doverwood Dr	Culver City	90230
+Doverwood Dr	Riverside	92505
+Doverwood Drive	Culver City	90230
+Doverwood Drive	Glendale	91207
+Doverwood Pl	Hemet	92544
+Doverwood St	Corona	92880
+Dovetail	Irvine	92603
+Dovetail Ct	Chula Vista	91915
+Dovetail Ct	San Jose	95135
+Dovetail Ct	Thousand Oaks	91360
+Dovetail Dr #3011	Rocklin	95677
+Dovetail Dr #3012	Rocklin	95677
+Dovetail Dr #3013	Rocklin	95677
+Dovetail Dr #3014	Rocklin	95677
+Dovetail Dr #3015	Rocklin	95677
+Dovetail Dr #3016	Rocklin	95677
+Dovetail Dr #3017	Rocklin	95677
+Dovetail Dr #3018	Rocklin	95677
+Dovetail Dr #3021	Rocklin	95677
+Dovetail Dr #3022	Rocklin	95677
+Dovetail Dr #3023	Rocklin	95677
+Dovetail Dr #3024	Rocklin	95677
+Dovetail Dr #3025	Rocklin	95677
+Dovetail Dr #3026	Rocklin	95677
+Dovetail Dr #3027	Rocklin	95677
+Dovetail Dr #3028	Rocklin	95677
+Dovetail Dr #3033	Rocklin	95677
+Dovetail Dr #3034	Rocklin	95677
+Dovetail Dr #3035	Rocklin	95677
+Dovetail Dr #3036	Rocklin	95677
+Dovetail Dr #3211	Rocklin	95677
+Dovetail Dr #3212	Rocklin	95677
+Dovetail Dr #3213	Rocklin	95677
+Dovetail Dr #3214	Rocklin	95677
+Dovetail Dr #3221	Rocklin	95677
+Dovetail Dr #3222	Rocklin	95677
+Dovetail Dr #3223	Rocklin	95677
+Dovetail Dr #3224	Rocklin	95677
+Dovetail Drive	Agoura Hills	91301
+Dovetail Lane	Duarte	91008
+Dovetail Ln	Healdsburg	95448
+Dovetail Way	Gilroy	95020
+Dovetree Dr	Murrieta	92563
+Doveview Ct	Spring Valley	91977
+Doveweed Way	Santa Clarita	91350
+Doveweed Way	Shingletown	96088
+Dovewood	Aptos	95003
+Dovewood Cir	Reedley	93654
+Dovewood Court	Salinas	93908
+Dovewood Ct	Antioch	94531
+Dovewood Ct	Coalinga	93210
+Dovewood Ct	Orangevale	95662
+Dovewood Ct	Poway	92064
+Dovewood Dr	Huntington Beach	92649
+Dovewood Dr	Huntington Beach	92649-1405
+Dovewood Dr	Huntington Beach	92649-1406
+Dovewood Dr	Huntington Beach	92649-1407
+Dovewood Dr	Huntington Beach	92649-1442
+Dovewood Dr	Huntington Beach	92649-1443
+Dovewood Dr	Manteca	95336
+Dovewood Ln	Oakhurst	93644
+Dovewood St	Bakersfield	93309
+Dovewood St	Stockton	95210
+Dovewood Way	Madera	93637
+Dovey Avenue	Whittier	90601
+Dovey Drive	Long Beach	90808
+Dovie Ln	Cottonwood	96022
+Doville Ranch Rd	Fallbrook	92028
+Doving Ln	Riverside	92508
+Dovovan Cir	Mecca	92254

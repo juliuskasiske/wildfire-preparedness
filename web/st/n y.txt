@@ -1,0 +1,33 @@
+N Y St	Lompoc	93436
+N Yale Ave	Fullerton	92831
+N Yale Ave	Moorpark	93021
+N Yale St	Hemet	92544
+N Yale Way	Hanford	93230
+N Yardarm Ave	Port Hueneme	93041
+N Yellowstone Blvd	Orange	92867
+N Yermo Dr	Palm Springs	92262
+N Yolo Way	Avenal	93204
+N York St	Porterville	93257
+N Yorktown Dr	Fresno	93720
+N Yosemite Ave	Fresno	93701
+N Yosemite Ave	Fresno	93721
+N Yosemite Ave	Fresno	93728
+N Yosemite Ave	Oakdale	95361
+N Yosemite Ave	Simi Valley	93063
+N Yosemite Dr	San Bernardino	92407
+N Yosemite St	Stockton	95203
+N Yosemite St	Stockton	95204
+N Yoshida Dr	Santa Maria	93454
+N Yost Dr	Santa Ana	92703
+N Young	San Jacinto	92582
+N Young St	San Jacinto	92582
+N Young St	Stockton	95205
+N Youngstown Ln	San Bernardino	92407
+N Yuba Ave	Kerman	93630
+N Yucca Ave	Barstow	92311
+N Yucca Ave	Rialto	92376
+N Yucca Ave	Rialto	92377
+N Yucca Ave	San Bernardino	92407
+N Yuma Dr	Highland	92346
+N Yurok St	Orange	92867
+N Yvonne Pl	Anaheim	92801

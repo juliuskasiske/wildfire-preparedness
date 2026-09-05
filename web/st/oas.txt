@@ -1,0 +1,61 @@
+Oasis	Irvine	92620
+Oasis Ave	Ceres	95307
+Oasis Ave	Chula Vista	91911
+Oasis Ave	Garden Grove	92844
+Oasis Ave	Twentynine Palms	92277
+Oasis Ave	Westminster	92683
+Oasis Ct	Cupertino	95014
+Oasis Ct	Hayward	94544
+Oasis Ct	Palm Desert	92260
+Oasis Ct	Redding	96003
+Oasis Ct	Sacramento	95838
+Oasis Ct	San Jacinto	92582
+Oasis Dr	Barstow	92311
+Oasis Dr	Chico	95973
+Oasis Dr	Concord	94518
+Oasis Dr	Desert Hot Springs	92240
+Oasis Dr	Escondido	92026
+Oasis Dr	Santa Rosa	95407
+Oasis Dr	Vista	92083
+Oasis Drive	Torrance	90502
+Oasis Ln	Landers	92285
+Oasis Ln	Loma Linda	92373
+Oasis Ln	Patterson	95363
+Oasis Ln	Twentynine Palms	92277
+Oasis Ln	Vista	92083
+Oasis Ln	Yucca Valley	92284
+Oasis Palm Ave	Coachella	92236
+Oasis Pkwy	Twentynine Palms	92277
+Oasis Pl	Rohnert Park	94928
+Oasis Rd	Adelanto	92301
+Oasis Rd	Bakersfield	93307
+Oasis Rd	Desert Center	92239
+Oasis Rd	El Mirage	92301
+Oasis Rd	Hinkley	92347
+Oasis Rd	Landers	92285
+Oasis Rd	Madera	93636
+Oasis Rd	Murrieta	92563
+Oasis Rd	Palm Springs	92262
+Oasis Rd	Phelan	92371
+Oasis Rd	Pinon Hills	92371
+Oasis Rd	Pinon Hills	92372
+Oasis Rd	Redding	96003
+Oasis Rd	Twentynine Palms	92277
+Oasis Rd	Victorville	92392
+Oasis Road	King City	93930
+Oasis Road	Pebble Beach	93953
+Oasis Road	San Lucas	93954
+Oasis Spring Ln	Palm Desert	92211
+Oasis St	Fontana	92336
+Oasis St	Imperial	92251
+Oasis St	Indio	92201
+Oasis St	Joshua Tree	92252
+Oasis St	Thermal	92274
+Oasis St	Yermo	92398
+Oasis Trl	Palm Desert	92260
+Oasis Valley Court	Fairfield	94534
+Oasis Vie Cir	Menifee	92584
+Oasis View Cir	Menifee	92584
+Oasis Village Ct	Blythe	92225
+Oasisview Cir	Menifee	92584
+Oass St	Thermal	92274

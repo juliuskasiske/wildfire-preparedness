@@ -1,0 +1,251 @@
+South H Street	Exeter	93221
+South H Street	Porterville	93257
+South H Street	Tulare	93274
+South Haas Avenue	Los Angeles	90047
+South Hacienda Avenue	Glendora	91741
+South Hacienda Boulevard	Hacienda Heights	91745
+South Hacienda Boulevard	La Puente	91744
+South Hacienda Road	La Habra	90631
+South Hackley Avenue	West Covina	91792
+South Hageman Road	Meridian	95957
+South Hagen Street	La Habra	90631
+South Haigler Drive	Carson	90746
+South Halinor Avenue	West Covina	91790
+South Hall Court	Visalia	93277
+South Hall Street	Visalia	93277
+South Halldale Avenue	Los Angeles	90018
+South Halldale Avenue	Los Angeles	90047
+South Halldale Avenue	Los Angeles	90062
+South Halldale Avenue	Torrance	90501
+South Halm Avenue	Los Angeles	90034
+South Halm Avenue	Los Angeles	90056
+South Halm Avenue South	Los Angeles	90056
+South Halo Drive	Compton	90221
+South Halstead Street	Pasadena	91107
+South Hambledon Avenue	La Puente	91744
+South Hamel Drive	Beverly Hills	90211
+South Hamel Road	Los Angeles	90048
+South Hamilton Avenue	Gardena	90248
+South Hamilton Avenue	San Pedro	90732
+South Hamilton Avenue	Torrance	90502
+South Hamilton Boulevard	Pomona	91766
+South Hamilton Boulevard	Pomona	91768
+South Hamilton Drive	Beverly Hills	90211
+South Hamlin Road	Tipton	93272
+South Hammond Road	Montague	96064
+South Hampden Terrace	Alhambra	91801
+South Hampton Cir	Santa Rosa	95401
+South Hampton Drive	Venice	90291
+South Hanford Avenue	San Pedro	90732
+South Hangars Way	Visalia	93277
+South Hanger Road	Montague	96064
+South Hanover Avenue	Los Angeles	90022
+South Hansom Avenue	Carson	90745
+South Harbor Boulevard	Fullerton	92835
+South Harbor Boulevard	La Habra	90631
+South Harbor Boulevard	Rowland Heights	91748
+South Harbor Boulevard	San Pedro	90731
+South Harbor Scenic Drive	Long Beach	90822
+South Harbor View Avenue	Long Beach	90810
+South Harbor View Avenue	San Pedro	90732
+South Harbor Village Place	Harbor City	90710
+South Harcourt Avenue	Los Angeles	90016
+South Harcourt Avenue	Los Angeles	90043
+South Harding Avenue	Los Angeles	90066
+South Harlan Avenue	Carson	90746
+South Harlan Avenue	Compton	90220
+South Harlem Place	Los Angeles	90012
+South Harper Avenue	Los Angeles	90048
+South Harriett Street	Los Angeles	90058
+South Harris Avenue	Compton	90221
+South Hart Place	Long Beach	90802
+South Harter Drive	Visalia	93292
+South Hartford Avenue	Los Angeles	90017
+South Harvard Avenue	Lindsay	93247
+South Harvard Boulevard	Gardena	90247
+South Harvard Boulevard	Gardena	90248
+South Harvard Boulevard	Los Angeles	90004
+South Harvard Boulevard	Los Angeles	90005
+South Harvard Boulevard	Los Angeles	90006
+South Harvard Boulevard	Los Angeles	90018
+South Harvard Boulevard	Los Angeles	90020
+South Harvard Boulevard	Los Angeles	90047
+South Harvard Boulevard	Los Angeles	90062
+South Harvard Boulevard	Torrance	90501
+South Harwick Court	Carson	90746
+South Harwill Avenue	Carson	90746
+South Haskins Avenue	Compton	90220
+South Haskins Lane	Carson	90746
+South Hatcher Avenue	Rowland Heights	91748
+South Hauser Boulevard	Los Angeles	90016
+South Hauser Boulevard	Los Angeles	90019
+South Hauser Boulevard	Los Angeles	90036
+South Hawthorne Avenue	Hawthorne	90250
+South Hawthorne Boulevard	Inglewood	90304
+South Hawthorne Way	Hawthorne	90250
+South Hay Avenue	Los Angeles	90022
+South Hayworth Avenue	Los Angeles	90035
+South Hayworth Avenue	Los Angeles	90048
+South Hazel Street	La Habra	90631
+South Heartwood Drive	San Pedro	90732
+South Heathdale Avenue	Covina	91722
+South Heathdale Avenue	Covina	91723
+South Heather Heights Avenue	Arcadia	91006
+South Heather Lane	West Covina	91791
+South Heffner Hill Road	Covina	91724
+South Helberta Avenue	Redondo Beach	90277
+South Heliotrope Avenue	Monrovia	91016
+South Hemlock Street	Los Angeles	90021
+South Hemlock Street	Tulare	93274
+South Hempstead Cir	San Diego	92116
+South Hendricks Avenue	Los Angeles	90022
+South Hepner Avenue	Covina	91723
+South Herbert Avenue	Los Angeles	90023
+South Herbert Avenue	Los Angeles	90063
+South Herbert Avenue	San Pedro	90731
+South Heritage Court	Visalia	93277
+South Heritage Drive	Visalia	93277
+South Heritage Pal Dr	Indio	92201
+South Heritage Street	Visalia	93277
+South Hermosa Avenue	Sierra Madre	91024
+South Herrin Street	Manhattan Beach	90266
+South Hewitt Street	Los Angeles	90012
+South Hewitt Street	Los Angeles	90013
+South Hi Point Street	Los Angeles	90035
+South Hickory Street	Los Angeles	90002
+South Hickory Street	Los Angeles	90059
+South Hicks Avenue	Los Angeles	90023
+South Hicks Avenue	Los Angeles	90063
+South Hidalgo Avenue	Alhambra	91801
+South Hidden Valley Drive	West Covina	91791
+South Highland Avenue	Los Angeles	90004
+South Highland Avenue	Los Angeles	90010
+South Highland Avenue	Los Angeles	90016
+South Highland Avenue	Los Angeles	90019
+South Highland Avenue	Los Angeles	90036
+South Highland Drive	Los Angeles	90016
+South Highland Way	Carson	90745
+South Highway 1	Gualala	 
+South Highway 1	Manchester	 
+South Highway 33	Dos Palos	93620
+South Highway 33	Gustine	95322
+South Highway 33	Newman	95360
+South Highway 59	El Nido	95317
+South Highway 59	Merced	95341
+South Highway 59 South	El Nido	95341
+South Highway 99	Merced	95341
+South Hilgard Avenue	Los Angeles	90024
+South Hill Avenue	Pasadena	91106
+South Hill Avenue	Pasadena	91125
+South Hill Blvd	San Francisco	94112
+South Hill Court	Vallejo	94591
+South Hill Ct	Daly City	94014
+South Hill Street	Los Angeles	90007
+South Hill Street	Los Angeles	90012
+South Hill Street	Los Angeles	90013
+South Hill Street	Los Angeles	90014
+South Hill Street	Los Angeles	90015
+South Hill Street	Los Angeles	90037
+South Hillborn Avenue	West Covina	91791
+South Hillcrest Drive	Los Angeles	90008
+South Hillcrest Drive	Los Angeles	90016
+South Hillcrest Drive	Los Angeles	90043
+South Hillcrest Drive	Visalia	93292
+South Hillcrest Street	La Habra	90631
+South Hillcrest Street	Porterville	93257
+South Hillford Avenue	Carson	90746
+South Hillford Avenue	Compton	90220
+South Hillford Avenue	Compton	90222
+South Hillrise Drive	Walnut	91789
+South Hills Ct	Folsom	95630
+South Hills Dr	Folsom	95630
+South Hills Drive	West Covina	91791
+South Hills Valley Road	Orange Cove	93646
+South Hills Way	Fontana	92336
+South Hillstone Lane	San Pedro	90732
+South Hillview Avenue	Los Angeles	90022
+South Hillward Avenue	West Covina	91791
+South Hilton Court	Visalia	93291
+South Hindry Avenue	Inglewood	90301
+South Hindry Avenue	Los Angeles	90045
+South Hindry Place	Los Angeles	90045
+South Hobart Boulevard	Gardena	90248
+South Hobart Boulevard	Los Angeles	90004
+South Hobart Boulevard	Los Angeles	90005
+South Hobart Boulevard	Los Angeles	90006
+South Hobart Boulevard	Los Angeles	90018
+South Hobart Boulevard	Los Angeles	90020
+South Hobart Boulevard	Los Angeles	90047
+South Hobart Boulevard	Los Angeles	90062
+South Hobart Boulevard	Torrance	90501
+South Hockett Street	Porterville	93257
+South Hogan Court	La Habra	90631
+South Holdrege Avenue	Los Angeles	90016
+South Holland Court	Visalia	93292
+South Hollenbeck Avenue	Covina	91723
+South Hollenbeck Street	West Covina	91791
+South Hollencrest Drive	West Covina	91791
+South Holliston Avenue	Pasadena	91106
+South Holliston Avenue	Pasadena	91125
+South Holly Avenue	Compton	90221
+South Holly Avenue	Monrovia	91016
+South Holly Oak Place	West Covina	91791
+South Holly Place	West Covina	91790
+South Holly Street	Inglewood	90301
+South Holmes Avenue	Los Angeles	90002
+South Holmes Avenue	Los Angeles	90058
+South Holt Avenue	Los Angeles	90034
+South Holt Avenue	Los Angeles	90035
+South Holt Avenue	Los Angeles	90048
+South Holt Avenue	Los Angeles	90056
+South Homage Avenue	Whittier	90604
+South Homerest Avenue	Covina	91722
+South Homerest Avenue	West Covina	91791
+South Honduras Street	Los Angeles	90011
+South Hooper Avenue	Los Angeles	90011
+South Hooper Avenue	Los Angeles	90021
+South Hooper Avenue	Los Angeles	90059
+South Hoover Boulevard	Los Angeles	90089
+South Hoover Street	Gardena	90247
+South Hoover Street	Gardena	90248
+South Hoover Street	Los Angeles	90004
+South Hoover Street	Los Angeles	90005
+South Hoover Street	Los Angeles	90006
+South Hoover Street	Los Angeles	90007
+South Hoover Street	Los Angeles	90020
+South Hoover Street	Los Angeles	90037
+South Hoover Street	Los Angeles	90044
+South Hoover Street	Los Angeles	90057
+South Hoover Street	Los Angeles	90089
+South Hoover Way	Wawona	95389
+South Hope Street	Los Angeles	90007
+South Hope Street	Los Angeles	90012
+South Hope Street	Los Angeles	90015
+South Hope Street	Los Angeles	90017
+South Hope Street	Los Angeles	90071
+South Houser Drive	Covina	91722
+South Howard Road	Earlimart	93219
+South Howard Street	Porterville	93257
+South Howard Street	Tulare	93274
+South Howland Court	Porterville	93257
+South Howland Street	Porterville	93257
+South Hudson Avenue	Los Angeles	90004
+South Hudson Avenue	Los Angeles	90005
+South Hudson Avenue	Los Angeles	90019
+South Hudson Avenue	Los Angeles	90020
+South Hudson Avenue	Pasadena	91101
+South Hudson Avenue	Pasadena	91106
+South Hudson Place	Los Angeles	90004
+South Huggins Drive	Carson	90746
+South Hughes Way	El Segundo	90245
+South Humane Way	Pomona	91766
+South Humboldt St	Willits	 
+South Humphrey Road	Yuba City	95993
+South Humphreys Avenue	Los Angeles	90022
+South Hunt Road	Gustine	95322
+South Huntington Court	Visalia	93292
+South Huntington Street	Pomona	91766
+South Huntington Street	San Fernando	91340
+South Huntington Street	Visalia	93292
+South Hwy 1	Elk	 
+South Hyacinth Avenue	Covina	91722

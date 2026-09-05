@@ -1,0 +1,38 @@
+W 6Th	Calexico	92231
+W 6Th	Holtville	92250
+W 6Th	Imperial	92251
+W 6Th	Westmorland	92281
+W 6Th Ave	Blythe	92225
+W 6Th Ave	Chico	95926
+W 6Th Ave	Escondido	92025
+W 6Th Ave	Imperial	92251
+W 6Th Blvd	Westmorland	92281
+W 6Th Dr	Holtville	92250
+W 6Th St	Antioch	94509
+W 6Th St	Beaumont	92223
+W 6Th St	Chico	95926
+W 6Th St	Chico	95928
+W 6Th St	Chowchilla	93610
+W 6Th St	Corona	92882
+W 6Th St	Desert Hot Springs	92240
+W 6Th St	Escondido	92025
+W 6Th St	Eureka	95501
+W 6Th St	Gilroy	95020
+W 6Th St	Holtville	92250
+W 6Th St	Imperial	92251
+W 6Th St	Madera	93637
+W 6Th St	Ontario	91762
+W 6Th St	Perris	92570
+W 6Th St	Pittsburg	94565
+W 6Th St	Rialto	92376
+W 6Th St	Rio Linda	95673
+W 6Th St	San Bernardino	92376
+W 6Th St	San Bernardino	92401
+W 6Th St	San Bernardino	92410
+W 6Th St	San Bernardino	92411
+W 6Th St	San Jacinto	92583
+W 6Th St	Santa Ana	92703
+W 6Th St	Santa Rosa	95401
+W 6Th St	Tustin	92780
+W 6Th St	Westmorland	92281
+W 6Th St  206 To Blvd	Imperial	92251

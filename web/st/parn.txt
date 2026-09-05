@@ -1,0 +1,32 @@
+Parnassus Ave	San Francisco	94117
+Parnassus Ave	San Francisco	94122
+Parnassus Ave	San Francisco	94131
+Parnassus Cir	Oceanside	92054
+Parnassus Ct	Hayward	94542
+Parnassus Ct E	Berkeley	94708
+Parnassus Ct W	Berkeley	94708
+Parnassus Dr	Rancho Cordova	95742
+Parnassus Dr	Whispering Pines	95461
+Parnassus Rd	Berkeley	94708
+Parnel Way	Galt	95632
+Parnell	Santa Cruz	95062
+Parnell Ave	Daly City	94015
+Parnell Ave	Turlock	95380
+Parnell Avenue	Los Angeles	90025
+Parnell Avenue	Los Angeles	90064
+Parnell Ct	Bakersfield	93307
+Parnell Ct	Lake Elsinore	92532
+Parnell Ct	Roseville	95747
+Parnell Ct	Sacramento	95835
+Parnell Ct	Walnut Creek	94597
+Parnell Dr	San Jose	95121
+Parnell Lane	Covina	91722
+Parnell Ln	Menifee	92584
+Parnell Pl	Costa Mesa	92626
+Parnell Pl	Rancho Cucamonga	91739
+Parnell Pl	Sunnyvale	94087
+Parnell Rd	Fulton	95439
+Parnell Way	Altadena	91001
+Parnell Way	Pasadena	91103
+Parnevik Ct	Sacramento	95829
+Parnevik Dr	Hemet	92545

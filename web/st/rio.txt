@@ -1,0 +1,447 @@
+Rio	Carmel-By-The-Sea	93921
+Rio Adelanto Ct	Sacramento	95834
+Rio Aliso Dr	Lake Forest	92630
+Rio Aliso Dr	Lake Forest	92630-5511
+Rio Aliso Dr	Lake Forest	92630-5512
+Rio Aliso Dr	Lake Forest	92630-5514
+Rio Arapaho Rd	Cathedral City	92234
+Rio Arapho Rd	Cathedral City	92234
+Rio Arenoso	La Quinta	92253
+Rio Ave	Reedley	93654
+Rio Avenue	Carmel	93923
+Rio Avenue	Long Beach	90805
+Rio Azul Way	Oceanside	92057
+Rio Barco Way	Sacramento	95831
+Rio Barranca Ct	San Jose	95116
+Rio Blanco Ct	Atascadero	93422
+Rio Blanco Dr	Concord	94521
+Rio Blanco Dr	Rancho Murieta	95683
+Rio Blanco Road	La Mirada	90638
+Rio Blanco Street	Montebello	90640
+Rio Blanco Trl	Moreno Valley	92555
+Rio Boca	Watsonville	95076
+Rio Bolsa Rd	Cathedral City	92234
+Rio Bonita St	Bakersfield	93306
+Rio Bonito Court	Merced	95340
+Rio Bonito Dr	Carmichael	95608
+Rio Bonito Drive	Rowland Heights	91748
+Rio Bonito Rd	Biggs	95917
+Rio Bonito Way	San Diego	92108
+Rio Bosque Drive	Valencia	91354
+Rio Branca Drive	Hacienda Heights	91745
+Rio Brava Ct	Jamul	91935
+Rio Bravo Ave	Chino	91710
+Rio Bravo Ave	Eastvale	92880
+Rio Bravo Cir	Lake Forest	92630
+Rio Bravo Cir	Lake Forest	92630-5728
+Rio Bravo Cir	Lake Forest	92630-5729
+Rio Bravo Cir	Sacramento	95826
+Rio Bravo Ct	Menifee	92584
+Rio Bravo Ct	Mira Loma	91752
+Rio Bravo Ct	Moorpark	93021
+Rio Bravo Dr	Bakersfield	93309
+Rio Bravo Dr	Banning	92220
+Rio Bravo Dr	Chico	95973
+Rio Bravo Dr	San Jose	95148
+Rio Bravo Rd	Moreno Valley	92553
+Rio Brazos Way	Sacramento	95837
+Rio Bueno Court	Valencia	91354
+Rio Camino	Lakeside	92040
+Rio Camino Ct	Fontana	92337
+Rio Camino Ct	Sacramento	95834
+Rio Camino Ct	Windsor	95492
+Rio Camino St	Auburn	95603
+Rio Campo Ct	Sacramento	95834
+Rio Casa Dr	Oakdale	95361
+Rio Cavado Way	Elk Grove	95757
+Rio Chico Dr	San Jose	95111
+Rio Chico Drive	Valencia	91354
+Rio Chico Way	Chico	95928
+Rio Cidade Way	Sacramento	95831
+Rio Cir	Rancho Murieta	95683
+Rio Clara Drive	Valencia	91354
+Rio Claro Ct	Oceanside	92057
+Rio Claro Drive	Hacienda Heights	91745
+Rio Corto Dr	Lakeside	92040
+Rio Cosumnes Cir	Elk Grove	95624
+Rio Court	Rowland Heights	91748
+Rio Court	Visalia	93292
+Rio Cresta Way	Sacramento	95834
+Rio Ct	Burlingame	94010
+Rio Ct	Corona	92880
+Rio Ct	Paso Robles	93446
+Rio Ct	Poway	92064
+Rio Ct	Rocklin	95677
+Rio Ct	San Francisco	94127
+Rio Ct	San Jose	95134
+Rio Cuarto Ct	Citrus Heights	95621
+Rio De Esmeralda	San Jose	95121
+Rio De Janeiro Ave	Bakersfield	93313
+Rio De Janeiro Ct	Bakersfield	93313
+Rio De Joyas	San Jose	95121
+Rio De Lata	San Jose	95121
+Rio De Onar Way	Elk Grove	95757
+Rio De Oro	San Jose	95121
+Rio De Oro Dr	Ybl	92886
+Rio De Oro Dr	Yorba Linda	92886
+Rio De Oro Drive	West Covina	91791
+Rio De Oro Way	Sacramento	95826
+Rio De Perla	San Jose	95121
+Rio De Plata	San Jose	95121
+Rio De Plata Dr	Ybl	92886
+Rio De Plata Dr	Yorba Linda	92886
+Rio De Plomo	San Jose	95121
+Rio Del Colorado Mhp	Earp	92242
+Rio Del Ct	Danville	94526
+Rio Del Mar	American Canyon	94503
+Rio Del Mar	Aptos	95003
+Rio Del Mar Dr	Bakersfield	93311
+Rio Del Mar St E	American Canyon	94503
+Rio Del Norte St	Bakersfield	93308
+Rio Del Oro Ln	Sacramento	95825
+Rio Del Oro Way	Plumas Lake	95961
+Rio Del Pajaro	Watsonville	95076
+Rio Del Sol	Montebello	90640
+Rio Del Sol	Rancho Mirage	92270
+Rio Del Sol Avenue	Montebello	90640
+Rio Del Sol Pl	Rancho Cucamonga	91730
+Rio Del Sol Rd	Thousand Palms	92276
+Rio Del Sol Way	Palo Verde	92266
+Rio Dell Av	Rio Dell	95562
+Rio Dell Ct	Forestville	95436
+Rio Dell Street	Rosemead	91770
+Rio Dixon Road	Dixon	95620
+Rio Dr	Calistoga	94515
+Rio Dr	Crescent City	95531
+Rio Dulce Rd	Cathedral City	92234
+Rio Encanto Ct	Roseville	95747
+Rio Estrada Way	Sacramento	95831
+Rio Flora Place	Downey	90241
+Rio Florida Drive	Whittier	90603
+Rio Fondo	Lakeside	92040
+Rio Frio Dr	Bakersfield	93306
+Rio Frio Dr	Bakersfield	93308
+Rio Frio St	Mendota	93640
+Rio Gabriel St	Riverbank	95367
+Rio Garza Drive	Valencia	91354
+Rio Grand Ct	Morgan Hill	95037
+Rio Grande	American Canyon	94503
+Rio Grande	Beaumont	92223
+Rio Grande	Jamul	91935
+Rio Grande	Plumas Lake	95961
+Rio Grande	Pomona	91766
+Rio Grande Ave	Baker	92309
+Rio Grande Ave	Firebaugh	93622
+Rio Grande Ave	Indio	92201
+Rio Grande Ave	Laguna Hills	92653
+Rio Grande Ave	Modesto	95351
+Rio Grande Ave	Placentia	92870
+Rio Grande Cir	Lake Forest	92630
+Rio Grande Cir	Lake Forest	92630-5730
+Rio Grande Cir	Lake Forest	92630-5731
+Rio Grande Cir	Thousand Oaks	91360
+Rio Grande Court	Sacramento	95837
+Rio Grande Ct	Antioch	94509
+Rio Grande Ct	Brentwood	94513
+Rio Grande Ct	Coalinga	93210
+Rio Grande Ct	Fountain Valley	92708
+Rio Grande Ct	San Ramon	94582
+Rio Grande Dr	Antioch	94509
+Rio Grande Dr	Chico	95973
+Rio Grande Dr	Eastvale	91752
+Rio Grande Dr	Moreno Valley	92551
+Rio Grande Dr	Moreno Valley	92553
+Rio Grande Dr	San Jose	95136
+Rio Grande Dr	Temecula	92591
+Rio Grande Dr	Tracy	95377
+Rio Grande Drive	Plumas Lake	95961
+Rio Grande Drive	Sacramento	95837
+Rio Grande Drive	Vacaville	95687
+Rio Grande Ln	Bakersfield	93313
+Rio Grande Ln	Chowchilla	93610
+Rio Grande Ln	Riverside	92503
+Rio Grande Pl	San Ramon	94582
+Rio Grande Rd	Baker	92309
+Rio Grande St	Fillmore	93015
+Rio Grande St	Firebaugh	93622
+Rio Grande St	Ventura	93004
+Rio Grande St	Westminster	92683
+Rio Grande Street	Davis	95616
+Rio Grande Street	Tulare	93274
+Rio Grande Way	Gilroy	95020
+Rio Grande Way	Oxnard	93036
+Rio Grande Way	Sacramento	95826
+Rio Grande Wy	Oxnard	93036
+Rio Grange St	Ventura	93004
+Rio Guacimal Ct	San Jose	95116
+Rio Gusto Court	Valencia	91354
+Rio Hacienda Way	Palo Verde	92266
+Rio Hato	Somis	93066
+Rio Hato Ct	Camarillo	93010
+Rio Hondo Avenue	El Monte	91731
+Rio Hondo Avenue	Rosemead	91770
+Rio Hondo Avenue	Temple City	91780
+Rio Hondo Cir	Lake Forest	92630
+Rio Hondo Cir	Lake Forest	92630-0000
+Rio Hondo Cir	Lake Forest	92630-5732
+Rio Hondo Cir	Lake Forest	92630-5733
+Rio Hondo Circle	La Mirada	90638
+Rio Hondo Cv	Fort Irwin	92310
+Rio Hondo Dr	Moreno Valley	92553
+Rio Hondo Dr	San Jose	95120
+Rio Hondo Drive	Downey	90241
+Rio Hondo Parkway	El Monte	91732
+Rio Hondo Parkway	South El Monte	91733
+Rio Hondo Place	Downey	90241
+Rio Ivanhoe Way	Jamul	91935
+Rio Lado	Atascadero	93422
+Rio Lago Ln	Healdsburg	95448
+Rio Largo Rd	Cathedral City	92234
+Rio Largo Way	Sacramento	95834
+Rio Lempa Drive	Hacienda Heights	91745
+Rio Linda	Temecula	92590
+Rio Linda Blvd	Elverta	95626
+Rio Linda Blvd	Rio Linda	95673
+Rio Linda Blvd	Sacramento	95815
+Rio Linda Blvd	Sacramento	95838
+Rio Linda Dr	Bakersfield	93305
+Rio Linda Drive	Rancho Palos Verdes	90275
+Rio Linda Rd	Temecula	92590
+Rio Linda Rd	Temecula	92592
+Rio Lindo	San Clemente	92672
+Rio Lindo Ave	Chico	95926
+Rio Lindo Ave	Healdsburg	95448
+Rio Lindo Dr	San Diego	92114
+Rio Ln	Bay Point	94565
+Rio Ln	Sacramento	95822
+Rio Lobo Cir	Eastvale	92880
+Rio Lobo Dr	San Jose	95136
+Rio Lobo Ln	Bakersfield	93313
+Rio Lobo Way	Valencia	91354
+Rio Lobos Road	Diamond Bar	91765
+Rio Loma Way	Sacramento	95834
+Rio Madre Dr	Cathedral City	92234
+Rio Madre Ln	Jamul	91935
+Rio Madre Rd	Cathedral City	92234
+Rio Maria	Lakeside	92040
+Rio Maria Rd	Lakeside	92040
+Rio Mesa Cir	San Miguel	93451
+Rio Mesa Ct	Galt	95632
+Rio Mesa Dr	Bakersfield	93308
+Rio Mesa Dr	Big River	92242
+Rio Mesa Rd	Big River	92242
+Rio Mesa Way	Galt	95632
+Rio Mirada Dr	Bakersfield	93308
+Rio Mondego Dr	Sacramento	95831
+Rio Monte Ct	Carmichael	95608
+Rio Monte Ct	City Of Shasta Lake	96019
+Rio Moon Dr	Roseville	95747
+Rio Naches Rd	Cathedral City	92234
+Rio Nedo	Temecula	92590
+Rio Nedo Rd	Temecula	92590
+Rio Nedo St	Temecula	92590
+Rio Nido Ct	Petaluma	94954
+Rio Nido Rd	Guerneville	95446
+Rio Nido Way	Petaluma	94954
+Rio Norte Drive	Valencia	91354
+Rio Norte Way	Sacramento	95834
+Rio Oro Ct	Morgan Hill	95037
+Rio Oso Dr	Cathedral City	92234
+Rio Oso Dr	Rancho Murieta	95683
+Rio Oso Rd	Auburn	95602
+Rio Oso Rd	Cathedral City	92234
+Rio Oso Road	Rio Oso	95674
+Rio Pacifica Way	Sacramento	95834
+Rio Pecos Dr	Cathedral City	92234
+Rio Pecos Drive	Valencia	91354
+Rio Pecos Rd	Cathedral City	92234
+Rio Plata Dr	Oceanside	92057
+Rio Plata Rd	Cathedral City	92234
+Rio Plato Ct	San Diego	92114
+Rio Plaza Rd	Madera	93636
+Rio Porto Ct	Sacramento	95831
+Rio Prado Drive	Valencia	91354
+Rio Ramaza Drive	Sacramento	95837
+Rio Ranch Rd	Corona	92882
+Rio Ranch Way	Valencia	91354
+Rio Rancho	San Diego	92127
+Rio Rancho Ct	Coachella	92236
+Rio Rancho Dr	Anderson	96007
+Rio Rancho Road	Pomona	91766
+Rio Rancho Way	Riverside	92504
+Rio Rd	Arroyo Grande	93420
+Rio Rd	Carmel	93923
+Rio Rd	Jurupa Valley	92509
+Rio Rd	Temecula	92592
+Rio Reyes Court	Valencia	91354
+Rio Rita Rd	Atascadero	93422
+Rio Rita Way	San Jose	95129
+Rio Road	Carmel	93923
+Rio Road	Carmel By The Sea	93921
+Rio Robles	San Jose	95134
+Rio Robles Ave	Sacramento	95838
+Rio Robles E	San Jose	95134
+Rio Roca Ct	Antelope	95843
+Rio Rosa Way	Sacramento	95834
+Rio Rosalia Dr	Cathedral City	92234
+Rio Royal Way	Sacramento	95834
+Rio Ruso Dr	Windsor	95492
+Rio Samba Way	Bakersfield	93311
+Rio San Diego Dr	San Diego	92108
+Rio School Ln	Oxnard	93036
+Rio Seco	La Quinta	92253
+Rio Seco Ct	Adelanto	92301
+Rio Seco Ct	Chula Vista	91915
+Rio Seco Ct	Oakdale	95361
+Rio Seco Dr	Pittsburg	94565
+Rio Seco Drive	Rowland Heights	91748
+Rio Senda	Rancho Santa Fe	92067
+Rio Serena Ave	Campbell	95008
+Rio Sombra Ct	Oakdale	95361
+Rio Sombra Dr	Oakdale	95361
+Rio St	Redding	96001
+Rio Street	La Verne	91750
+Rio Tajo Court	Valencia	91354
+Rio Tamega Dr	Elk Grove	95757
+Rio Tejo Way	Elk Grove	95757
+Rio Tierra Ave	Sacramento	95833
+Rio Tierra Ave	Sacramento	95834
+Rio Tinto Ave	Sacramento	95821
+Rio Valle Dr	Bonsall	92003
+Rio Veracruz Rd	Cathedral City	92234
+Rio Verde	Bay Point	94565
+Rio Verde	Lake Forest	92630
+Rio Verde	Lake Forest	92630-2620
+Rio Verde	Lake Forest	92630-2622
+Rio Verde	Lake Forest	92630-2623
+Rio Verde	Suisun City	94585
+Rio Verde Cir	Bay Point	94565
+Rio Verde Cir	Pittsburg	94565
+Rio Verde Ct	Bay Point	94565
+Rio Verde Ct	Pittsburg	94565
+Rio Verde Ct	San Jose	95118
+Rio Verde Dr	Bakersfield	93311
+Rio Verde Dr	La Habra	90631
+Rio Verde Dr	Pittsburg	94565
+Rio Verde Dr	Ramona	92065
+Rio Verde Dr	Riverbank	95367
+Rio Verde Dr	San Jose	95118
+Rio Verde Drive	Gustine	95322
+Rio Verde Drive	Salinas	93901
+Rio Verde Drive	West Covina	91791
+Rio Verde Pl	Milpitas	95035
+Rio Verde St	Daly City	94014
+Rio Verde St	Daly City	94134
+Rio Verde St	San Francisco	94134
+Rio Verde Way	Camptonville	95922
+Rio Verde Way	North Highlands	95660
+Rio Via	Oak View	93022
+Rio Via St	Oak View	93022
+Rio Viale Ct	Sacramento	95831
+Rio Vida Ln	Sebastopol	95472
+Rio Viejo Dr	Bakersfield	93313
+Rio Viejo Dr	Pittsburg	94565
+Rio Viento Ct	Oceanside	92057
+Rio Vis	Los Gatos	95032
+Rio Vis	Orinda	94563
+Rio Vis	Seeley	92273
+Rio Vista	Atascadero	93422
+Rio Vista	Cathedral City	92234
+Rio Vista	King City	93930
+Rio Vista	Needles	92363
+Rio Vista	Seeley	92273
+Rio Vista	Solvang	93463
+Rio Vista Ave	Parlier	93648
+Rio Vista Ave	Sacramento	95821
+Rio Vista Ave	San Jose	95129
+Rio Vista Ave	Seeley	92273
+Rio Vista Avenue	Los Angeles	90023
+Rio Vista Circle	King City	93930
+Rio Vista Court	King City	93930
+Rio Vista Court	Sacramento	95837
+Rio Vista Ct	Oakley	94561
+Rio Vista Ct	Simi Valley	93065
+Rio Vista Dr	Auburn	95603
+Rio Vista Dr	Bakersfield	93306
+Rio Vista Dr	Big River	92242
+Rio Vista Dr	Bonita	91902
+Rio Vista Dr	Cathedral City	92234
+Rio Vista Dr	Fallbrook	92028
+Rio Vista Dr	Goleta	93117
+Rio Vista Dr	Hemet	92544
+Rio Vista Dr	Hesperia	92345
+Rio Vista Dr	Huntington Beach	92647
+Rio Vista Dr	Huntington Beach	92647-6660
+Rio Vista Dr	Menifee	92586
+Rio Vista Dr	Modesto	95355
+Rio Vista Dr	Napa	94558
+Rio Vista Dr	Oceanside	92058
+Rio Vista Dr	Pacifica	94044
+Rio Vista Dr	Palm Springs	92262
+Rio Vista Dr	Truckee	96161
+Rio Vista Drive	Carmel	93923
+Rio Vista Drive	King City	93930
+Rio Vista Drive	Sacramento	95837
+Rio Vista Drive	Springville	93265
+Rio Vista Ln	Atascadero	93422
+Rio Vista Ln	Rio Dell	95562
+Rio Vista Ln	Rohnert Park	94928
+Rio Vista Ln	Ukiah	 
+Rio Vista Pl	Bonita	91902
+Rio Vista Pl	Oakley	94561
+Rio Vista Pl	San Miguel	93451
+Rio Vista Rd	El Centro	92243
+Rio Vista Rd	Forestville	95436
+Rio Vista Rd	Nipomo	93444
+Rio Vista Rd	San Diego	92127
+Rio Vista Rd	Seeley	92273
+Rio Vista St	Havasu	92363
+Rio Vista St	Hayward	94541
+Rio Vista St	Needles	92363
+Rio Vista St	Seeley	92273
+Rio Vista St	Victorville	92395
+Rio Vista Ter	Monte Rio	95462
+Rio Vista Way	Palo Verde	92266
+Rio Vista Way	Petaluma	94952
+Rio Vista Way	Yuba City	95993
+Rio Way	Buena Park	90620
+Rio Way	Coarsegold	93614
+Rio Way	Spring Valley	91977
+Rio Way	Vista	92081
+Riodosa Ln	Paso Robles	93446
+Riodosa Trl	Oak Park	91377
+Rioja	San Clemente	92673
+Rioja Court	Palmdale	93550
+Rioja Ct	Danville	94506
+Rioja St	Danville	94506
+Rioja St	Roseville	95747
+Rioja Way	Brentwood	94513
+Riojo Way	Rancho Cordova	95670
+Riolani Pl	Norco	92860
+Rion Wy	Stockton	95209
+Riopel Ave	Denair	95316
+Riopelle Ct	Thousand Oaks	91320
+Riordan Dr	San Jose	95130
+Riordan Ln	Napa	94558
+Riordan Pl	Menlo Park	94025
+Riordan Rd	Maxwell	95955
+Riorden Ter	Sunnyvale	94087
+Rios Ave	Chula Vista	91911
+Rios Ave	Perris	92570
+Rios Ave	San Diego	92154
+Rios Ave	Solana Beach	92075
+Rios Ave N	Solana Beach	92075
+Rios Ave S	Solana Beach	92075
+Rios Canyon Ln	El Cajon	92021
+Rios Canyon Rd	El Cajon	92021
+Rios Ct	Santa Maria	93454
+Rios Ct	Solana Beach	92075
+Rios Rd	Hemet	92545
+Rios Rd	Poway	92064
+Rios Rd	San Diego	92128
+Rios St	Bakersfield	93307
+Rios St	Mendota	93640
+Rios Street	Woodland Hills	91364
+Rios Way	Valley Center	92082
+Riosa Rd	Lincoln	95648
+Riosa Rd	Sheridan	95681

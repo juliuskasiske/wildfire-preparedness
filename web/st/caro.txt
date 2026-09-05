@@ -1,0 +1,371 @@
+Caro Ln	Orinda	94563
+Caro Street	Paramount	90723
+Carob	Irvine	92612
+Carob Ave	Chino Hills	91709
+Carob Ave	Fontana	92335
+Carob Ave	Rancho Cucamonga	91739
+Carob Cir	Fountain Valley	92708
+Carob Court	Delhi	95315
+Carob Court	Palmdale	93550
+Carob Ct	Antioch	94509
+Carob Ct	Carmichael	95608
+Carob Ct	Chino	91710
+Carob Ct	Gilroy	95020
+Carob Ct	Hemet	92545
+Carob Ct	Indio	92201
+Carob Ct	Palm Desert	92260
+Carob Ct	Petaluma	94954
+Carob Dr	Thousand Oaks	91320
+Carob Drive	Los Angeles	90046
+Carob Ln	Borrego Springs	92004
+Carob Ln	Fontana	92335
+Carob Ln	Hemet	92544
+Carob Ln	Los Altos	94024
+Carob Ln	Mission Viejo	92691
+Carob Ln	Norco	92860
+Carob Pl	Banning	92220
+Carob Place	Davis	95616
+Carob St	Antioch	94509
+Carob St	Brea	92821
+Carob St	Cypress	90630
+Carob St	Fontana	92335
+Carob St	Hesperia	92345
+Carob St	Lake Elsinore	92530
+Carob St	Newport Beach	92660
+Carob St	Oxnard	93035
+Carob St	Redlands	92373
+Carob St	Victorville	92394
+Carob Street	Compton	90220
+Carob Tree Cir	Menifee	92584
+Carob Tree Ln	El Cajon	92021
+Carob Way	Coronado	92118
+Carob Way	Montebello	90640
+Carob Way	Novato	94945
+Carob Way	Oceanside	92057
+Carob Way	Pacheco	94553
+Carob Way	Riverside	92505
+Carob Way	Tustin	92782
+Carobe Ct	Union City	94587
+Carobwood Ct	San Jose	95132
+Carobwood Ln	San Jose	95132
+Carobwood Way	Riverside	92506
+Carodean Rd	Twentynine Palms	92277
+Carogold Ln	Manteca	95337
+Carol	Aptos	95003
+Carol	Santa Cruz	95065
+Carol Ann Ct	Roseville	95661
+Carol Ann Ct	Tracy	95377
+Carol Ann Dr	Newberry Springs	92365
+Carol Ann Dr	Tracy	95377
+Carol-Ann Ln	Forest Ranch	95942
+Carol Ann Ln	Redding	96003
+Carol Ann Ln	Temecula	92592
+Carol Anns Ct	Hollister	95023
+Carol Av	Santa Barbara Unincorporated	93110
+Carol Ave	Burlingame	94010
+Carol Ave	Chico	95928
+Carol Ave	Citrus Heights	95610
+Carol Ave	Mountain View	94040
+Carol Ave	Rancho Cucamonga	91701
+Carol Ave	Sanger	93657
+Carol Avenue	Dos Palos	93620
+Carol Avenue	Merced	95341
+Carol Court	Hallwood	95901
+Carol Court	Santa Clarita	91390
+Carol Ct	Alamo	94507
+Carol Ct	Culver City	90232
+Carol Ct	El Cerrito	94530
+Carol Ct	San Marcos	92069
+Carol Dr	Desert Hot Springs	92240
+Carol Dr	Fullerton	92833
+Carol Dr	Galt	95632
+Carol Dr	Napa	94558
+Carol Dr	San Jose	95125
+Carol Dr	Sebastopol	95472
+Carol Dr	Ventura	93003
+Carol Dr	Yucaipa	92399
+Carol Drive	Grass Valley	95945
+Carol Drive	Hilmar	95324
+Carol Drive	Lancaster	93535
+Carol Drive	Pomona	91767
+Carol Drive	Salinas	93905
+Carol Drive	Torrance	90505
+Carol Drive	West Hollywood	90069
+Carol Glen Ct	San Diego	92130
+Carol Jean Ct	Redding	96002
+Carol Lane	Palmdale	93551
+Carol Lane	Sylmar	91342
+Carol Leaf Ct	San Jose	95148
+Carol Lee Ct	Chico	95928
+Carol Lee Dr	Cupertino	95014
+Carol Lee Ln	Escondido	92026
+Carol Lee Ln	Oakley	94561
+Carol Lee Ln	San Diego	92127
+Carol Ln	Ceres	95358
+Carol Ln	Garden Grove	92840
+Carol Ln	Lafayette	94549
+Carol Ln	Laguna Hills	92653
+Carol Ln	Menifee	92584
+Carol Ln	Miranda	95554
+Carol Ln	Oakley	94561
+Carol Ln	Perris	92570
+Carol Ln	Ramona	92065
+Carol Ln	Roseville	95747
+Carol Ln	Santa Rosa	95404
+Carol Ln	Saratoga	95070
+Carol Ln	Tuolumne	95379
+Carol Louise Ln	Tracy	95376
+Carol Park Place	Montrose	91020
+Carol Pine Lane	Arcadia	91007
+Carol Pl	Arroyo Grande	93420
+Carol Pl	Bakersfield	93304
+Carol Pl	Carlsbad	92008
+Carol Pl	Moreno Valley	92555
+Carol Pl	National City	91950
+Carol Pl	Unincorporated Alameda County	94541
+Carol Place	Carmel	93923
+Carol Place	Granada Hills	91344
+Carol Rd	Hemet	92544
+Carol St	Manteca	95336
+Carol St	Modesto	95354
+Carol St	Pinole	94564
+Carol St	San Diego	92115
+Carol St	San Diego	92154
+Carol Sue Ct	Bakersfield	93308
+Carol Sue Lane	Santa Clarita	91350
+Carol View Dr	Cardiff By The Sea	92007
+Carol Way	Hemet	92543
+Carol Way	Jurupa Valley	92509
+Carol Way	North Tustin	92705
+Carol Way	Santa Ana	92705
+Carol Way	Spring Valley	91977
+Carol Way	Sylmar	91342
+Carola Ave	San Jose	95130
+Carola Ct	San Jose	95130
+Carola Drive	Carmel Valley	93924
+Carolan Ave	Burlingame	94010
+Carolann Street	Pomona	91766
+Carolbee Ln	Temecula	92592
+Caroldale Ave	Carson	90745
+Caroldale Ln	Goleta	93117
+Caroldale Pl	Goleta	93117
+Caroldale Row	La Jolla	92037
+Caroldeen St	Oakdale	95361
+Carole Cir	Pla	92870
+Carole Cir	Placentia	92870
+Carole Ct	Colton	92324
+Carole Ct	East Palo Alto	94303
+Carole Ct	Jackson	 
+Carole Ct	Jackson	95642
+Carole Dr	Perris	92570
+Carole Ln	Crescent City	95531
+Carole Meadows Ct	Danville	94506
+Carole Ridge Court	Fairfield	94534
+Carole Way	Redwood City	94061
+Carolee Ave	Moreno Valley	92551
+Carolee Ave	San Diego	92129
+Carolee Ct	Redding	96002
+Caroleen Ln	Garden Grove	92841
+Caroleigh Way	Yuba City	95993
+Caroli Lane	La Canada Flintridge	91011
+Carolie Lane	Walnut	91789
+Carolina Ave	Moreno Valley	92551
+Carolina Ave	Redwood City	94061
+Carolina Ave	San Anselmo	94960
+Carolina Ave	Sunnyvale	94085
+Carolina Ave	Twentynine Palms	92277
+Carolina Ave	Victorville	92394
+Carolina Avenue	West Sacramento	95691
+Carolina Avenue	Yuba City	95991
+Carolina Ci	Stockton	95219
+Carolina Cir	Buena Park	90620
+Carolina Cir	Corona	92882
+Carolina Court	Travis Afb	94535
+Carolina Ct	Hemet	92543
+Carolina Ct	Indio	92203
+Carolina Ct	Modesto	95356
+Carolina Dr	Brea	92823
+Carolina Dr	Concord	94521
+Carolina Drive	Benicia	94510
+Carolina Drive	Merced	95340
+Carolina Ln	Atherton	94027
+Carolina Ln	Palo Alto	94306
+Carolina Ln	San Diego	92102
+Carolina Pl	San Diego	92102
+Carolina Place	Los Angeles	90022
+Carolina Place	San Pedro	90731
+Carolina Rd	Del Mar	92014
+Carolina St	Imperial Beach	91932
+Carolina St	Napa	94558
+Carolina St	San Francisco	94103
+Carolina St	San Francisco	94107
+Carolina Street	Fairfield	94533
+Carolina Street	San Pedro	90731
+Carolina Street	Vallejo	94590
+Carolina Street	Vallejo	94591
+Carolina Way	Elk Grove	95757
+Carolina Way	Pla	92870
+Carolina Way	Placentia	92870
+Carolinas Ln	Eastvale	92880
+Carolinda Dr	Granite Bay	95746
+Caroline Av	Mckinleyville	95519
+Caroline Ave	Culver City	90232
+Caroline Ave	Galt	95632
+Caroline Ave	Simi Valley	93063
+Caroline Avenue	Culver City	90232
+Caroline Avenue	Mount Shasta	96067
+Caroline Ct	Bakersfield	93307
+Caroline Ct	Banning	92220
+Caroline Ct	Hemet	92544
+Caroline Ct	Palm Desert	92211
+Caroline Ct	Paso Robles	93446
+Caroline Ct	Riverside	92506
+Caroline Ct	Rocklin	95765
+Caroline Dr	Cupertino	95014
+Caroline Dr	Oroville	95966
+Caroline Dr	San Diego	92115
+Caroline Lane	Nevada City	95959
+Caroline Ln	Fallbrook	92028
+Caroline Ln	Gilroy	95020
+Caroline Ln	Santee	92071
+Caroline Ln	Twentynine Palms	92277
+Caroline Marie Cir	Riverside	92507
+Caroline Marie Ct	Riverside	92507
+Caroline St	Adelanto	92301
+Caroline St	Fontana	92336
+Caroline St	Montclair	91763
+Caroline Way	Arcadia	91007
+Caroline Way	Daly City	94014
+Caroline Way	Escondido	92025
+Caroline Way	Grass Valley	95949
+Caroline Way	March Air Reserve Base	92518
+Caroline Way	Nevada City	95959
+Caroline Way	Riverside	92506
+Caroline Way	San Jose	95124
+Carolines Ridge Road	Salinas	93907
+Carolmark Ct	Durham	95938
+Carolos Dr	Pacheco	94553
+Carols View Ln	Forestville	95436
+Carolside Avenue	Lancaster	93535
+Carolside Avenue	Palmdale	93550
+Carolton Ln	Fallbrook	92028
+Carolus Drive	Los Angeles	90068
+Carolwood	Lake Forest	92630
+Carolwood	Lake Forest	92630-0000
+Carolwood	Lake Forest	92630-3201
+Carolwood	Lake Forest	92630-3203
+Carolwood	Lake Forest	92630-3204
+Carolwood Dr	San Diego	92139
+Carolwood Drive	Arcadia	91006
+Carolwood Lane	Torrance	90505
+Carolyn	Watsonville	95076
+Carolyn Av	Escalon	95320
+Carolyn Ave	Apple Valley	92308
+Carolyn Ave	Hanford	93230
+Carolyn Ave	Kingsburg	93631
+Carolyn Ave	Modesto	95350
+Carolyn Ave	Modesto	95354
+Carolyn Ave	Moreno Valley	92553
+Carolyn Ave	San Jose	95125
+Carolyn Ave	Santa Rosa	95409
+Carolyn Cir	La Palma	90623
+Carolyn Cir	Oceanside	92054
+Carolyn Cir	Villa Park	92861
+Carolyn Court	Exeter	93221
+Carolyn Ct	Antioch	94509
+Carolyn Ct	Eureka	95503
+Carolyn Ct	Gilroy	95020
+Carolyn Ct	Lafayette	94549
+Carolyn Ct	Nipomo	93444
+Carolyn Ct	Orinda	94563
+Carolyn Ct	Perris	92570
+Carolyn Ct	Pioneer	95666
+Carolyn Ct	Rancho Mirage	92270
+Carolyn Ct	Redlands	92374
+Carolyn Ct	Roseville	95747
+Carolyn Dr	American Canyon	94503
+Carolyn Dr	Chula Vista	91913
+Carolyn Dr	Cobb	95426
+Carolyn Dr	Pittsburg	94565
+Carolyn Dr	Pleasant Hill	94523
+Carolyn Dr	San Luis Obispo	93405
+Carolyn Dr	Santa Clara	95050
+Carolyn Dr	Turlock	95382
+Carolyn Drive	Gustine	95322
+Carolyn Drive	Palmdale	93551
+Carolyn Drive	Yuba City	95993
+Carolyn Lane	Rackerby	95966
+Carolyn Ln	Huntington Beach	92646
+Carolyn Ln	Huntington Beach	92646-1911
+Carolyn Ln	Mill Valley	94941
+Carolyn Pl	Encinitas	92024
+Carolyn Pl	Olivenhain	92024
+Carolyn Place	Cerritos	90703
+Carolyn Place	Rowland Heights	91748
+Carolyn St	Auburn	95603
+Carolyn St	Ukiah	 
+Carolyn Street	Cerritos	90703
+Carolyn Street	Farmersville	93223
+Carolyn Vista Ln	Bonita	91902
+Carolyn Way	Beverly Hills	90210
+Carolyn Way	La Crescenta	91214
+Carolyn Way	Novato	94945
+Carolyn Way	Pioneer	95666
+Carolyn Way	Redding	96003
+Carolyn Way	Sacramento	95818
+Carolyn Weston Bl	Stockton	95206
+Carolyne Way	Santa Maria	93455
+Carolyne Wy	Orcutt	93455
+Caron Cir	Carson	90746
+Caron Circle	Carson	90746
+Caron Ct	Perris	92571
+Caron Ct	San Jose	95121
+Caron Rd	Twentynine Palms	92277
+Caron Way	Atwater	95301
+Caron Way	Madera	93636
+Caroncho Rd	Temecula	92590
+Carondelet Ct	Concord	94518
+Carondelet Ln	Sacramento	95828
+Carondelet Street	Los Angeles	90006
+Carondelet Street	Los Angeles	90026
+Carondelet Street	Los Angeles	90057
+Caronette Ct	Hanford	93230
+Caronette Ln	Hanford	93230
+Caroni St	Walnut Creek	94597
+Carosam Rd	Bakersfield	93314
+Carosam Rd	Hope Ranch	93110
+Carot Ct	Ybl	92887
+Carot Ct	Yorba Linda	92887
+Carot Rd	Joshua Tree	92252
+Carot Rd	Twentynine Palms	92277
+Carousel Av	Tracy	95377
+Carousel Ci	Stockton	95219
+Carousel Cir	Garden Grove	92845
+Carousel Circle	Palmdale	93552
+Carousel Ct	San Ramon	94583
+Carousel Ct	Stockton	95219
+Carousel Dr	Hollister	95023
+Carousel Dr	Modesto	95356
+Carousel Dr	Perris	92570
+Carousel Dr	Redding	96001
+Carousel Dr	San Jose	95111
+Carousel Drive	Vallejo	94589
+Carousel Ln	Del Mar	92014
+Carousel Ln	Huntington Beach	92649
+Carousel Ln	Huntington Beach	92649-2115
+Carousel Ln	Huntington Beach	92649-2116
+Carousel Ln	Huntington Beach	92649-2117
+Carousel Ln	Huntington Beach	92649-2118
+Carousel Ln	Huntington Beach	92649-2119
+Carousel Ln	Huntington Beach	92649-2120
+Carousel Ln	Murrieta	92563
+Carousel Ln	Ukiah	 
+Carousel Mall	San Bernardino	92401
+Carousel Pl	San Ramon	94583
+Carousel Rd	Lake Arrowhead	92352
+Carousel Way	Paradise	95969
+Carousel Way	Vacaville	95688
+Carova Beach Pl	Sacramento	95835
+Caroway Ct	El Cajon	92019
+Carowind Ln	San Diego	92131
+Caroylee Court	Atwater	95301

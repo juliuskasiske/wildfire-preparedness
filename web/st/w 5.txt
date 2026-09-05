@@ -1,0 +1,47 @@
+W 50Th St	San Bernardino	92407
+W 51St St	San Bernardino	92407
+W 52Nd St	San Bernardino	92407
+W 53Rd St	San Bernardino	92407
+W 54Th St	San Bernardino	92407
+W 54Th St	San Diego	92114
+W 55Th St	San Bernardino	92407
+W 56Th St	San Bernardino	92407
+W 57Th St	San Bernardino	92407
+W 58Th St	Jurupa Valley	91752
+W 58Th St	San Bernardino	92407
+W 59Th St	San Bernardino	92407
+W 5Th	Calexico	92231
+W 5Th	Holtville	92250
+W 5Th	Imperial	92251
+W 5Th	Westmorland	92281
+W 5Th Ave	Chico	95926
+W 5Th Ave	Escondido	92025
+W 5Th Ave	Imperial	92251
+W 5Th Ave	San Mateo	94402
+W 5Th Ave	Westmorland	92281
+W 5Th Ln	Imperial	92251
+W 5Th Rd	Holtville	92250
+W 5Th St	Antioch	94509
+W 5Th St	Beaumont	92223
+W 5Th St	Calexico	92231
+W 5Th St	Calimesa	92320
+W 5Th St	Chico	95926
+W 5Th St	Chico	95928
+W 5Th St	Corona	92882
+W 5Th St	Crows Landing	95313
+W 5Th St	Eureka	95501
+W 5Th St	Holtville	92250
+W 5Th St	Imperial	92251
+W 5Th St	Madera	93637
+W 5Th St	Morgan Hill	95037
+W 5Th St	Ontario	91762
+W 5Th St	Perris	92570
+W 5Th St	San Bernardino	92401
+W 5Th St	San Bernardino	92402
+W 5Th St	San Bernardino	92410
+W 5Th St	San Bernardino	92411
+W 5Th St	San Bernardino	92415
+W 5Th St	San Jacinto	92583
+W 5Th St	Santa Ana	92701
+W 5Th St	Santa Ana	92703
+W 5Th St	Westmorland	92281

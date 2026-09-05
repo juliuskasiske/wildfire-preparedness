@@ -1,0 +1,804 @@
+S S Franklin St	Hemet	92543
+S S Kincaid St	Bakersfield	93307
+S Sabina Drive	Salinas	93907
+S Sabre Ave	Fresno	93727
+S Sacramento Ave	Ontario	91761
+S Sacramento Ave	Tranquillity	93668
+S Sacramento Pl	Ontario	91761
+S Sacramento St	Ione	95640
+S Sacramento St	Lodi	95240
+S Sacramento St	Stockton	95206
+S Saddleback Ct	Santa Ana	92704
+S Saddleback Ln	Ana	92808
+S Saddleback Ln	Anaheim	92808
+S Saddleback Pl	Hanford	93230
+S Saddlewood St	Colton	92324
+S Sadie Ln	Escalon	95320
+S Sadie Way	Santa Maria	93454
+S Sadie Wy	Santa Maria	93454
+S Sage Ave	Rialto	92376
+S Sage Ct	Sunnyvale	94087
+S Sage Hills Rd	Orange	92869
+S Sage Paseo	Ontario	91761
+S Sage St	Lompoc	93436
+S Sagebrush Rd	Palm Springs	92264
+S Sagewood Ln	Ontario	91762
+S Sagewood St	Orange	92869
+S Sail St	Santa Ana	92704
+S Saint Tropez Ave	Anaheim	92808
+S Saint Tropez Dr	Ontario	91761
+S Salado Ave	Patterson	95363
+S Salem Ct	San Bernardino	92408
+S Salem St	Anaheim	92802
+S Salinas St	Santa Barbara	93103
+S Salisbury Way	Ontario	91762
+S Sallee Ct	Visalia	93277
+S Sallee St	Visalia	93277
+S Salt Creek Rd	Hayfork	96041
+S Salta St	Santa Ana	92704
+S Salton Dr	Salton City	92274
+S Salvation Pl	Anaheim	92805
+S San Anselmo Ave	Colton	92324
+S San Anselmo Ave	San Bernardino	92410
+S San Antonio Ave	Ontario	91762
+S San Antonio Ave	Upland	91786
+S San Antonio Rd	Los Altos	94022
+S San Antonio Rd	Mountain View	94040
+S San Antonio Rd	Petaluma	94952
+S San Antonio Rd	Santa Barbara Unincorporated	93110
+S San Antonio Rd	Santa Barbara Unincorporated	93111
+S San Benito Ave	Colton	92324
+S San Carlo Ave	Colton	92324
+S San Clemente Ave	Ventura	93001
+S San Clemente St	Ventura	93001
+S San Cristoval Cir	Palm Desert	92260
+S San Diego	Mendota	93640
+S San Diego Ave	Mendota	93640
+S San Diego Ave	Ontario	91761
+S San Dimas Ave	Bloomington	92316
+S San Elijo Rd S	San Marcos	92078
+S San Felipe Rd	San Bernardino	92408
+S San Fernando Blvd	Burbank	91502
+S San Francisco Dr	South San Francisco	94080
+S San Francisco St	Maxwell	95955
+S San Gorgonio Ave	Banning	92220
+S San Goronio Ave	Banning	92220
+S San Jacinto	San Jacinto	92583
+S San Jacinto Ave	Hemet	92543
+S San Jacinto Ave	San Jacinto	92583
+S San Jacinto Dr	Palm Springs	92262
+S San Jacinto Dr	San Diego	92114
+S San Jacinto St	Hemet	92543
+S San Jacinto St	Hemet	92544
+S San Jacinto St	San Jacinto	92582
+S San Jacinto St	San Jacinto	92583
+S San Joaquin Ave	Coalinga	93210
+S San Joaquin Ct	Visalia	93277
+S San Joaquin Dr	Palm Springs	92264
+S San Joaquin Dr	Visalia	93277
+S San Joaquin St	Stockton	95202
+S San Joaquin St	Stockton	95203
+S San Joaquin St	Stockton	95206
+S San Joaquin St	Visalia	93277
+S San Jose Rd	Tracy	95304
+S San Jose St	Stockton	95203
+S San Juan Ave	Del Rey	93616
+S San Lorenzo	King City	93930
+S San Lorenzo Avenue	King City	93930
+S San Lorenzo Drive	King City	93930
+S San Lucas Dr	Whittier	90605
+S San Marcos Rd	Santa Barbara Unincorporated	93111
+S San Marino Way	Anaheim	92808
+S San Mateo Ave	Cantua Creek	93608
+S San Mateo Ave	Ventura	93004
+S San Mateo Dr	San Mateo	94401
+S San Mateo St	Redlands	92373
+S San Miguel Privado	Ontario	91762
+S San Miguel St	Santa Maria	93454
+S San Miguel St	Santa Maria	93455
+S San Pasqual Rd	Valley Center	92082
+S San Pedro St	San Jose	95113
+S San Remo Way	Anaheim	92808
+S San Tomas Aquino Rd	Campbell	95008
+S San Tomas Aquino Rd	San Jose	95008
+S San Tomas Aquino Rd	San Jose	95130
+S San Vicente Ln	Anaheim	92807
+S Sanborn	Salinas	93905
+S Sanborn Road	Salinas	93901
+S Sanborn Road	Salinas	93905
+S Sand Palm Dr	Anaheim	92802
+S Sandalwood Ave	Bloomington	92316
+S Sandalwood Ave	Rialto	92376
+S Sanders Ct	La Habra	90631
+S Sandersdon Ave	Hemet	92545
+S Sanderson Ave	Anaheim	92806
+S Sanderson Ave	Hemet	92545
+S Sanderson Ave	San Jacinto	92582
+S Sanderson St	Hemet	92545
+S Sanderson St	San Jacinto	92582
+S Sanderson Way	Fort Bragg	 
+S Sandpiper Ave	Ontario	91761
+S Sandpiper Pl	Ontario	91761
+S Sanger Ave	Sanger	93657
+S Sangria Privado	Ontario	91761
+S Santa Ana Av	Stockton	95215
+S Santa Ana Ave	Modesto	95354
+S Santa Barbara Dr	Santa Maria	93454
+S Santa Barbara Dr	Santa Maria	93455
+S Santa Barbara St	Santa Maria	93455
+S Santa Clara Ave	Cantua Creek	93608
+S Santa Clara Privado	Ontario	91762
+S Santa Cruz	Anaheim	92805
+S Santa Cruz	Ventura	93001
+S Santa Cruz Ave	Los Gatos	95030
+S Santa Cruz Ave	Modesto	95354
+S Santa Cruz St	Anaheim	92805
+S Santa Cruz St	Ventura	93001
+S Santa Fe	Hemet	92543
+S Santa Fe	San Jacinto	92583
+S Santa Fe Ave	Del Mar	92014
+S Santa Fe Ave	Denair	95316
+S Santa Fe Ave	Empire	95319
+S Santa Fe Ave	Empire	95357
+S Santa Fe Ave	Hughson	95326
+S Santa Fe Ave	Modesto	95357
+S Santa Fe Ave	San Jacinto	92583
+S Santa Fe Ave	San Marcos	92069
+S Santa Fe Ave	Vista	92081
+S Santa Fe Ave	Vista	92083
+S Santa Fe Ave	Vista	92084
+S Santa Fe Ln	Colton	92324
+S Santa Fe Rd	Escalon	95320
+S Santa Fe Rd	Riverbank	95320
+S Santa Fe Rd	Riverbank	95367
+S Santa Fe Springs Rd	Whittier	90602
+S Santa Fe Springs Rd	Whittier	90605
+S Santa Fe Springs Rd	Whittier	90606
+S Santa Fe St	Hemet	92543
+S Santa Fe St	San Jacinto	92583
+S Santa Fe St	Santa Ana	92705
+S Santa Fe St	Visalia	93277
+S Santa Fe St	Visalia	93292
+S Santa Fe Village Dr	Santa Ana	92704
+S Santa Gertrudes Ave	Whittier	90603
+S Santa Gertrudes Ave	Whittier	90604
+S Santa Ines Privado	Ontario	91762
+S Santa Lucia Ct	Escalon	95320
+S Santa Maria Privado	Ontario	91762
+S Santa Maria St	Orange	92869
+S Santa Maria St	Santa Paula	93060
+S Santa Maria Way	Santa Maria	93455
+S Santa Rosa Ave	Modesto	95353
+S Santa Rosa Ave	Modesto	95354
+S Santa Rosa St	Santa Maria	93454
+S Santa Rosa St	Santa Maria	93455
+S Santa Rosa St	Ventura	93001
+S Santa Teresita	Irvine	92606
+S Sante Fe Ave	San Jacinto	92583
+S Sante Fe St	Hemet	92543
+S Sante Fe St	San Jacinto	92583
+S Santiago Way	Anaheim	92807
+S Santillan Av	Santa Maria	93458
+S Santillan Ave	Santa Maria	93458
+S Santo Antonio Dr	Colton	92324
+S Santos Ct	Tracy	95304
+S Sapphire Ct	Colton	92324
+S Sapphire Ln	Anaheim	92807
+S Sara Ct	Linden	95236
+S Sara Lyda Ct	Mh	95391
+S Sara Lyda Ct	Mountain House	95391
+S Sarah St	Fresno	93706
+S Sarah St	Fresno	93721
+S Sarah Way	Anaheim	92805
+S Saratoga Ave	San Jose	95129
+S Saratoga Dr	San Mateo	94403
+S Saratoga Rd (River Club)	Tracy	95304
+S Saratoga St	Oxnard	93035
+S Sarazen Ct	La Habra	90631
+S Sargent Ave	Whittier	90602
+S Sargent Ave	Whittier	90605
+S Sargent Pl	Mh	95391
+S Saticoy Ave	Ventura	93004
+S Saturmino Dr	Palm Springs	92262
+S Sauvignon St	Mh	95391
+S Savannah Ct	Visalia	93277
+S Savannah St	Visalia	93277
+S Saviers Rd	Oxnard	93030
+S Saviers Rd	Oxnard	93033
+S Savoy Dr	Santa Maria	93454
+S Savoy Dr	Santa Maria	93455
+S Saw Mill Dr	Big Bear City	92314
+S Sawgrass Ct	La Habra	90631
+S Sawtooth Ct	Thousand Oaks	91362
+S Scarborough Ln	Anaheim	92804
+S Scenic Dr	San Bernardino	92408
+S Schafer Av	Manteca	95336
+S Schmidt Privado	Ontario	91761
+S Schnoor Ave	Madera	93637
+S School Ave	Tranquillity	93668
+S School St	Lodi	95240
+S School St	Santa Maria	93454
+S School St	Ukiah	 
+S School St	Willits	 
+S Schug St	Orange	92869
+S Schulte Rd	Tracy	95377
+S Schultz Ter	Porterville	93257
+S Scott Ave	Whittier	90603
+S Scott Ave	Whittier	90604
+S Scott Dr	Santa Maria	93454
+S Scott Ln	Anaheim	92804
+S Scott Way	Ontario	91762
+S Scottsdale  Dr	Carson	90745
+S Scout Trl	Anaheim	92807
+S Scripps Cir	Anaheim	92807
+S Scrivener St	Lake Elsinore	92530
+S Sea Breeze	Santa Ana	92704
+S Sea Clf	Santa Ana	92704
+S Sea Island Pl	Ontario	91761
+S Sea Island Trl	Ontario	91761
+S Seacrest Avenue	Marina	93933
+S Seagull Ave	Ontario	91761
+S Seal Ct	Shelter Cove	95589
+S Seaward	Ventura	93001
+S Seaward	Ventura	93003
+S Seaward Ave	Ventura	93001
+S Seaward Ave	Ventura	93003
+S Sebastian Ct	Visalia	93277
+S Sebold Ln	Mh	95391
+S Second Av	Fortuna	95540
+S Second Ave	Avenal	93204
+S Second Ave	Barstow	92311
+S Second St	Blythe	92225
+S Second St	El Centro	92243
+S Second St	Fortuna	95540
+S Second St	Fresno	93702
+S Second St	Fresno	93706
+S Second St	Grimes	95950
+S Second St	Lompoc	93436
+S Second St	Porterville	93257
+S Second St	San Jose	95113
+S Secret Garden Ln	Ontario	91762
+S Security Wy	Stockton	95215
+S Sedona Ln	Ana	92808
+S Sedona Ln	Anaheim	92808
+S Seidner Av	Escalon	95320
+S Seminary St	Napa	94559
+S Seminole Ct	Banning	92220
+S Seminole Wy	Manteca	95336
+S Seneca Cir	Anaheim	92805
+S Sequoia Av	Rio Dell	95562
+S Sequoia Ave	Bre	92821
+S Sequoia Ave	Palm Springs	92262
+S Sequoia Dr	Palm Springs	92262
+S Sequoia Lake Vw	Dunlap	93621
+S Sequoia Lake Vw	Miramonte	93641
+S Sequoia Rd (River Club)	Tracy	95304
+S Sequoia St	Rio Dell	95562
+S Seranado St	Orange	92869
+S Seranata Dr	Whittier	90603
+S Serra Ln	Tustin	92780
+S Serra Way	Paso Robles	93446
+S Serrano Ave	Anaheim	92808
+S Serrano Sq	Yucaipa	92399
+S Service Rd	Stanford	94305
+S Sespe Rd	Fillmore	93015
+S Sespe St	Fillmore	93015
+S Seventh Ave	Avenal	93204
+S Seventh St	Fresno	93702
+S Seventh St	Lompoc	93436
+S Seventh St	Lompoc	93456
+S Seventh St	Santa Paula	93060
+S Seventh St	Tracy	95304
+S Seventh Street	King City	93930
+S Sevilla Ct	Whittier	90601
+S Sexton Rd	Escalon	95320
+S Seymour St	Napa	94559
+S Shadow Hills Bl	Santa Barbara Unincorporated	93105
+S Shadow Oaks Ln	Granite Bay	95746
+S Shadow Pines Rd	Orange	92869
+S Shady Ct	Visalia	93277
+S Shady Glen Ln	San Bernardino	92408
+S Shady Oak Way	Anaheim	92807
+S Shady Point Dr	Whittier	90603
+S Shady St	Visalia	93277
+S Shaffer St	Orange	92866
+S Shaft Ave	Selma	93662
+S Shakespeare St	Anaheim	92806
+S Shale Ave	Ontario	91761
+S Shanada Ct	Anaheim	92807
+S Shane Dr	Colton	92324
+S Shannon St	Anaheim	92807
+S Shannon St	Santa Ana	92704
+S Sharon Cir	Anaheim	92804
+S Sharon Ct	Tracy	95304
+S Shasta Av	Stockton	95205
+S Shasta Ave	Kerman	93630
+S Shasta Ci (River Club)	Tracy	95304
+S Shasta St	Orange	92869
+S Shasta Way	Hemet	92543
+S Shasta Way	Orange	92869
+S Shasta Way	Upland	91786
+S Shattuck Pl	Orange	92866
+S Shaver Pl	Hanford	93230
+S Shaw Pl	Santa Ana	92704
+S Shawnee Dr	Santa Ana	92704
+S Shawnee Wy	Manteca	95336
+S Shedden Dr	Loma Linda	92354
+S Shedden St	Loma Linda	92354
+S Sheddon Dr	San Bernardino	92408
+S Sheffield Rd	Santa Ana	92704
+S Shelby Way	Upland	91786
+S Shelley St	Santa Ana	92703
+S Shelley St	Santa Ana	92704
+S Shelli Dr	Anaheim	92804
+S Shelly Ave	Fresno	93727
+S Shelter Bay	Hercules	94547
+S Shelton St	Burbank	91506
+S Shelton St	Santa Ana	92703
+S Shelton St	Santa Ana	92707
+S Shenandoah St	Visalia	93277
+S Shepard Dr	Santa Maria	93454
+S Sheri Way	Kerman	93630
+S Sheridan Ct	Visalia	93292
+S Sheridan St	Corona	92882
+S Sheriff Ave	San Jacinto	92583
+S Sherman Av	Manteca	95336
+S Sherman Ave	Corona	92882
+S Sherman Ave	Manteca	95336
+S Sherman St	Anaheim	92805
+S Sherman St	Corona	92882
+S Sherman St	Mh	95391
+S Sherman Way	Upland	91786
+S Sherrill St	Anaheim	92804
+S Sherwin Creek Pl	Ontario	91761
+S Sherwood Dr	Anaheim	92805
+S Sherwood Ln	San Bernardino	92408
+S Shields Av	Mh	95391
+S Shields Dr	Anaheim	92804
+S Shiloh Ave	Whittier	90603
+S Shinnecock Dr	Banning	92220
+S Shirk St	Visalia	93277
+S Shirley Ave	Fresno	93727
+S Shivom Ct	Anaheim	92808
+S Shoal Creek St	Banning	92220
+S Shoemaker Ave	Whittier	90602
+S Shore Dr	Chula Vista	91913
+S Shore Dr	Solana Beach	92075
+S Shorehang Ln	Encinitas	92024
+S Shoreline Bl	Mountain View	94041
+S Shoreline Blvd	Mountain View	94041
+S Showcase Dr S	San Bernardino	92408
+S Shulman Ave	Whittier	90602
+S Sidewinder Mountain Rd	San Bernardino	92410
+S Sidhant St	Mh	95391
+S Sidney	Winchester	92596
+S Sidney Cir	Winchester	92596
+S Siega Ave	Fresno	93725
+S Siena St	San Diego	92114
+S Sierra Ave	Oakdale	95361
+S Sierra Ave	Solana Beach	92075
+S Sierra Dawn Pl	Ontario	91762
+S Sierra Madre	Palm Desert	92260
+S Sierra Madre	Palm Springs	92264
+S Sierra Madre Dr	Palm Springs	92264
+S Sierra Nevada St	Stockton	95205
+S Sierra Pl	Upland	91786
+S Sierra St	Porterville	93257
+S Sierra Valley St	Mh	95391
+S Sierra Vista Ave	Fresno	93702
+S Sierra Vista Ave	Fresno	93725
+S Sierra Vista St	Porterville	93257
+S Sierra Way	San Bernardino	92408
+S Siet Pl	Anaheim	92806
+S Sievers Ave	Bre	 
+S Sievers Ave	Bre	92821
+S Sievers Ave	Brea	92821
+S Signal St	Ojai	93023
+S Silas Ln	Thousand Oaks	91320
+S Silktree Cir	Orange	92868
+S Silkwood Ln	Anaheim	92806
+S Silver Ct	Ontario	91762
+S Silver Maple Pl	Porterville	93257
+S Silver Oak Way	Ontario	91761
+S Silver Springs Rd	Lafayette	94549
+S Silver Spur	Santa Ana	92704
+S Silver Star Way	Ana	92808
+S Silver Star Way	Anaheim	92808
+S Silverado Creek Pl	Ontario	91761
+S Silverado Way	Anaheim	92807
+S Silverbrook Dr	Anaheim	92807
+S Silverstein Pl	Mh	95391
+S Silvervale St	Visalia	93277
+S Simas Rd	Santa Barbara Unincorporated	93454
+S Simas Rd	Santa Barbara Unincorporated	93458
+S Simas Rd	Santa Maria	93454
+S Simas Rd	Santa Maria	93458
+S Simon Ct	Visalia	93292
+S Simon St	Visalia	93292
+S Simplicidad St	Mh	95391
+S Simplicidate St	Mh	95391
+S Simpson Ave	Hemet	92543
+S Simpson Cir	Anaheim	92806
+S Sinarle St	Porterville	93257
+S Sinclair Av	Stockton	95215
+S Sinclair Ave	Upland	91786
+S Sinclair St	Anaheim	92806
+S Singer Dr	Escalon	95320
+S Singleton Dr	Santa Maria	93454
+S Sioux Cir	Banning	92220
+S Sirius Ave	Orange	92868
+S Siskiyou	Huron	93234
+S Siskiyou Ave	Kerman	93630
+S Sixth Ave	Avenal	93204
+S Sixth St	Banning	92220
+S Sixth St	Fresno	93702
+S Sixth St	Lompoc	93436
+S Sixth St	Oxnard	93030
+S Sixth St	Redlands	92373
+S Sixth St	San Jose	95112
+S Sixth St	Tracy	95304
+S Skylark Dr	San Bernardino	92405
+S Skyline Dr	Pismo Beach	93449
+S Skyline Dr	Thousand Oaks	91361
+S Skyline Dr	Thousand Oaks	91362
+S Skyridge Dr	Ana	92808
+S Skyridge Dr	Anaheim	92808
+S Skyview Dr	Palm Springs	92264
+S Slater Cir	Ontario	91761
+S Sleepy Meadow Ln	Anaheim	92807
+S Slope Dr	Santee	92071
+S Slope Dr	Twentynine Palms	92277
+S Small Rd	Manteca	95336
+S Smallwood St	Colton	92324
+S Smiley Dr	Del Rey	93616
+S Smith Ave	Corona	92882
+S Smith Ave	Kingsburg	93631
+S Smith Ave	Parlier	93648
+S Smith Ave	Reedley	93654
+S Smith Ave	Sanger	93657
+S Smith St	Corona	92882
+S Smith St	Santa Maria	93458
+S Smoke Tree Ln	Ontario	91762
+S Smokeridge Ter	Anaheim	92807
+S Smoketree Ave	Bloomington	92316
+S Smokewood St	Colton	92324
+S Smyrna Ave	Parlier	93648
+S Snapdragon Wy	Mh	95391
+S Snell Ln	Mh	95391
+S Snow Ave	Fresno	93706
+S Snow Creek Ln	Ontario	91761
+S Soboba Ave	San Jacinto	92583
+S Soboba Dr	Banning	92220
+S Soboba Rd	San Jacinto	92583
+S Soboba St	Banning	92220
+S Soboba St	San Jacinto	92583
+S Soderquist Rd	Turlock	95380
+S Sol Ct	Visalia	93292
+S Sol St	Visalia	93292
+S Solana Dr	Orange	92869
+S Solano	Blythe	92225
+S Solano Ave	Blythe	92225
+S Soledad St	Santa Barbara	93103
+S Solejar Dr	Whittier	90603
+S Solomon Dr	Anaheim	92807
+S Solvita Way	Elk Grove	95757
+S Somersby Ln	Santa Ana	92704
+S Somerston Way	Ontario	91761
+S Songbird Cir	Ana	92808
+S Songbird Cir	Anaheim	92808
+S Songish St	Anaheim	92804
+S Sonoma Ave	Cantua Creek	93608
+S Sonoma Ave	Five Points	93624
+S Sonoma Ave	Kerman	93630
+S Sonoma Ave	Tranquillity	93668
+S Sonora Way	Anaheim	92808
+S Sonrisa St	Mh	95391
+S Sonya Pl	Anaheim	92802
+S Sonya St	Anaheim	92802
+S Sophia St	Mh	95391
+S Sophia Way	Paso Robles	93446
+S Sordello Av	Mh	95391
+S Sorenson	Calipatria	92233
+S Sorenson Ave	Calipatria	92233
+S Sorenson St	Calipatria	92233
+S South Grade Rd	Pauma Valley	92061
+S South Gwin Rd	Mckinleyville	95519
+S South Hoover	Yosemite	95389
+S South Mountain Rd	Santa Paula	93060
+S South Mountain Rd	Somis	93066
+S South Quarry Rd	Bayside	95524
+S Southfork Dr	Norco	92860
+S Southland Ct	Manteca	95336
+S Southwind Cir	Thousand Oaks	91361
+S Southwind Dr	Whittier	90601
+S Sowell Ct	Visalia	93277
+S Sowell St	Visalia	93277
+S Spalding Ave	Fresno	93702
+S Spar St	Santa Ana	92704
+S Sparks St	Burbank	91506
+S Speed St	Santa Maria	93454
+S Spencer Ave	Upland	91786
+S Sperry Ave	Ventura	93003
+S Sperry Dr	Colton	92324
+S Sperry Rd	Denair	95316
+S Spinnaker St	Anaheim	92802
+S Spinnaker Way	Upland	91786
+S Split Rail Ln	Anaheim	92807
+S Sprague Ln	Anaheim	92802
+S Spring St	Arcata	95521
+S Spring St	Blythe	92225
+S Spring St	Fortuna	95540
+S Spring St	Lake Elsinore	92530
+S Spring St	Oak View	93022
+S Spring St	Ukiah	 
+S Springer Rd	Los Altos	94024
+S Springer Rd	Mountain View	94040
+S Springwood Dr	Anaheim	92808
+S Spruce Ave	Bloomington	92316
+S Spruce Ave	Rialto	92376
+S Spruce Ave	South San Francisco	94080
+S Spruce Ct	Visalia	93292
+S Spruce Rd (River Club)	Tracy	95304
+S Spruce St	Escondido	92025
+S Spruce St	Santa Ana	92703
+S Spruce St	Santa Ana	92704
+S Spruce St	Visalia	93292
+S Spyglass Ct	Ontario	91761
+S Spyglass Hill Ct	La Habra	90631
+S St	Arcata	95521
+S St	Bakersfield	93301
+S St	Bakersfield	93304
+S St	Eureka	95501
+S St	Eureka	95503
+S St	Fresno	93721
+S St	Hemet	92543
+S St	Newman	95360
+S St	Rio Linda	95673
+S St	Sacramento	95811
+S St	Sacramento	95816
+S St	Sacramento	95817
+S St	Sacramento	95819
+S St	Ventura	93004
+S St Albert Paseo	Ontario	91761
+S St Helena Hwy	Napa	94558
+S St Helena Hwy	St Helena	94574
+S St Hwy 101 St	Eureka	95503
+S St John Av	Escalon	95320
+S St Rt 99 E Frontage Rd	Manteca	95336
+S St Rt 99 E Frontage Rd	Ripon	95366
+S St Rt 99 E Frontage Rd	Stockton	95205
+S St Rt 99 E Frontage Rd	Stockton	95215
+S St Rt 99 W Frontage Rd	Manteca	95336
+S St Rt 99 W Frontage Rd	Stockton	95205
+S St Rt 99 W Frontage Rd	Stockton	95206
+S St Rt 99 W Frontage Rd	Stockton	95215
+S St St	Burbank	91502
+S Stadco Dr	Anaheim	92804
+S Stadium View Ave	Anaheim	92806
+S Stafford Rd	Thousand Oaks	91361
+S Stafford Rd	Westlake Village	91361
+S Stage Coach Ln	Fallbrook	92028
+S Stage Coach Rd	Anaheim	92807
+S Stallion Way	Ontario	91761
+S Stamy Rd	Whittier	90603
+S Standard Ave	Kerman	93630
+S Standard Ave	Santa Ana	92701
+S Standard Ave	Santa Ana	92705
+S Standard Ave	Santa Ana	92707
+S Stanford Ave	Fresno	93727
+S Stanford Ave	Ontario	91761
+S Stanford Pl	Whittier	90601
+S Stanford St	La Habra	90631
+S Stanford Way	Whittier	90601
+S Stanislaus St	Stockton	95202
+S Stanislaus St	Stockton	95203
+S Stanislaus St	Stockton	95206
+S Stanley Cup Way	Anaheim	92806
+S Stanley Rd	Stockton	95215
+S Stanza Pl	Mh	95391
+S Stapleton Ave	Imperial	92251
+S Starboard St	Santa Ana	92704
+S Starcross Dr	Desert Hot Springs	92240
+S Stardust Ct	Santa Maria	93454
+S Stardust Ct	Santa Maria	93455
+S Stardust Dr	Santa Maria	93454
+S Stardust Dr	Santa Maria	93455
+S Starfire Ave	Corona	92879
+S Starflower St	Bre	92821
+S Starflower St	Brea	92821
+S Stark Rd	Stockton	95206
+S Starks St	Porterville	93257
+S Starlight Dr	Anaheim	92807
+S Starlight St	Mh	95391
+S Starr St	Lakeport	95453
+S Starry Night Ln	Ontario	91762
+S Starview Ct	Ana	92808
+S Starview Ct	Anaheim	92808
+S State	Hemet	92543
+S State Ave	Kerman	93630
+S State College Blvd	Anaheim	92805
+S State College Blvd	Anaheim	92806
+S State College Blvd	Anaheim	92868
+S State College Blvd	Bre	92821
+S State College Blvd	Brea	92821
+S State College Blvd	Fullerton	92831
+S State College Blvd	Fullerton	92835
+S State College Pkwy	Anaheim	92806
+S State Highway 173	Lake Arrowhead	92352
+S State Hwy 29	Kelseyville	95451
+S State Hwy 29	Lower Lake	95457
+S State Hwy 29	Middletown	95461
+S State Hwy 49	Jackson	 
+S State Hwy 49	Jackson	95642
+S State Route 120	Ripon	95366
+S State Route 33	Tracy	95304
+S State Route 33	Unvn	95385
+S State St	Hemet	92543
+S State St	San Bernardino	92410
+S State St	San Jacinto	92582
+S State St	San Jacinto	92583
+S State St	Ukaih	 
+S State St	Ukiah	 
+S Stearman Ct	Tracy	95377
+S Stearns Rd	Oakdale	95361
+S Stearns St	Fowler	93625
+S Steckel	Santa Paula	93060
+S Steckel Dr	Santa Paula	93060
+S Steed Pl	Ontario	91762
+S Steele Dr	Anaheim	92804
+S Steele Rd	San Bernardino	92408
+S Steele St	San Bernardino	92408
+S Stefano Ct	Ontario	91761
+S Stehley St	Anaheim	92806
+S Steinegul Rd	Escalon	95320
+S Steinegul Rd	Oakdale	95361
+S Stellar Dr	Oxnard	93033
+S Stelling Rd	Cupertino	95014
+S Stephanie Ln	El Cajon	92019
+S Stephen Pl	Santa Maria	93454
+S Stephens Ave	Fresno	93706
+S Sterling Dr	Mh	95391
+S Sterling Rd	Bakersfield	93307
+S Stevenson Ct	Visalia	93277
+S Stevenson St	Visalia	93277
+S Stevenson St	Visalia	93291
+S Stillman Ave	Upland	91786
+S Stillman Way	Upland	91786
+S Stillwater Ln	Anaheim	92807
+S Stinson St	Anaheim	92801
+S Stockett Pl	Mh	95391
+S Stockton Av	Ripon	95366
+S Stockton St	Lodi	95240
+S Stockton St	Lodi	95242
+S Stockton St	Stockton	95203
+S Stockton St	Stockton	95206
+S Stoddard Ave	San Bernardino	92401
+S Stone Cir	Anaheim	92806
+S Stone Crest Way	Whittier	90601
+S Stonebrook Dr	Orange	92869
+S Stonecroft Ct	Thousand Oaks	91361
+S Stoneman St	Anaheim	92802
+S Stoneridge Dr	Whittier	90605
+S Stonington Rd	Laguna Beach	92651
+S Stony Pl	Anaheim	92804
+S Stormcroft Ct	Thousand Oaks	91361
+S Stover Ct	Visalia	93292
+S Stover St	Visalia	93292
+S Stow Av	Stockton	95215
+S Strada Pl	Anaheim	92807
+S Strand	Oceanside	92054
+S Stratford Av	Santa Maria	93454
+S Stratford Ave	Avenal	93204
+S Stratford Ave	Santa Maria	93454
+S Strathmore Pl	Anaheim	92802
+S Street	Merced	95340
+S Street	Merced	95341
+S Stresa Way	Anaheim	92808
+S Strub Ave	Whittier	90602
+S Strub Ave	Whittier	90605
+S Stunham Ln	Mh	95391
+S Suffolk Cmn	Santa Ana	92704
+S Sugar Pine Ln	Orange	92869
+S Sugarpine Ln	4-Or-16	92869
+S Sullivan St	Santa Ana	92704
+S Sulphur Mountain Rd	Ojai	93023
+S Sultana Ave	Ontario	91761
+S Sultana Ave	Ontario	91762
+S Sultana Ave	Upland	91786
+S Sumac Ln	Rialto	92376
+S Summer Breeze Ln	Anaheim	92808
+S Summer Home Dr	Manteca	95336
+S Summerfield Ln	Fresno	93725
+S Summerfield Way	Orange	92866
+S Summertree Rd	Ana	92807
+S Summertree Rd	Anaheim	92807
+S Summerview Cir	1-Fv-1	92704
+S Summit Circle Gln	Escondido	92026
+S Summit Ct	Colton	92324
+S Summit St	Ione	95640
+S Summit St	Visalia	93292
+S Sumter Ct	Visalia	93292
+S Sunburst Way	Anaheim	92806
+S Sundance Cir	Palm Springs	92262
+S Sundance Dr	Anaheim	92808
+S Sundown Ln	Oceanside	92056
+S Sunflower Cir	Palm Springs	92262
+S Sunflower Ct	Palm Springs	92262
+S Sunflower Loop	Palm Springs	92262
+S Sunflower Paseo	Ontario	91761
+S Sunflower Pso	Ontario	91761
+S Sunkist St	Anaheim	92806
+S Sunland Ave	Fresno	93725
+S Sunny Dunes Rd	Palm Springs	92264
+S Sunny Ln	Weott	95569
+S Sunnyhill Way	Ana	92808
+S Sunnyhill Way	Anaheim	92808
+S Sunnyside Ave	Fowler	93625
+S Sunnyside Ave	Fresno	93725
+S Sunnyside Ave	Fresno	93727
+S Sunnyside Ave	Laton	93242
+S Sunnyside Ave	San Bernardino	92408
+S Sunnyside Ave	San Bernardino	92410
+S Sunnyside Ave	Selma	93662
+S Sunnyvale Ave	Sunnyvale	94086
+S Sunrise Ave	Ontario	91761
+S Sunrise Ridge Dr	La Quinta	92253
+S Sunrise Way	Palm Springs	92262
+S Sunrise Way	Palm Springs	92264
+S Sunset	El Centro	92243
+S Sunset Ave	Banning	92220
+S Sunset Ave	El Centro	92243
+S Sunset Ave	Reedley	93654
+S Sunset Ave	San Jose	95116
+S Sunset Ave	San Jose	95116-2547
+S Sunset Canyon Dr	Burbank	91501
+S Sunset Crest St	Anaheim	92808
+S Sunset Crst	Anaheim	92808
+S Sunset Ct	San Jose	95116
+S Sunset Dr	El Centro	92243
+S Sunset Dr	Lodi	95240
+S Sunset Dr (River Club)	Tracy	95304
+S Sunset Ridge Dr	La Quinta	92253
+S Sunset Ridge Rd	Anaheim	92807
+S Sunset Ridge Rd	Anaheim	92808
+S Sunset St	Banning	92220
+S Sunset St	La Habra	90631
+S Sunset St	Lah	90631
+S Sunset St	Visalia	93291
+S Sunshine Ave	El Cajon	92020
+S Sunshine Cir	Palm Springs	92264
+S Sunstream Ln	Anaheim	92808
+S Sunwest Ln	San Bernardino	92408
+S Superior St	Santa Maria	93458
+S Sur	Newport Beach	92657
+S Surfside Dr	Port Hueneme	93041
+S Surrey Ln	Whittier	90601
+S Susan Ave	Kerman	93630
+S Susan St	Santa Ana	92704
+S Sutliff Av	Escalon	95320
+S Sutter Ave	Huron	93234
+S Sutter Ave	San Bernardino	92410
+S Sutter Ave	San Joaquin	93660
+S Sutter Creek Rd	Anaheim	92804
+S Sutter St	Stockton	95202
+S Sutter St	Stockton	95203
+S Sutter St	Stockton	95206
+S Sutton Pl	Palm Desert	92211
+S Suzyq Rd	Hawkins Bar	95527
+S Swallow Way	Anaheim	92807
+S Swallowtail Ln	Ontario	91762
+S Sweet Gum Ln	Bre	92821
+S Swidler Pl	Orange	92869
+S Swift Pl	Mh	95391
+S Sycamore Ave	Bloomington	92316
+S Sycamore Ave	Bre	92821
+S Sycamore Ave	Kerman	93630
+S Sycamore Ave	Rialto	92316
+S Sycamore Ave	Rialto	92376
+S Sycamore Dr (River Club)	Tracy	95304
+S Sycamore St	Santa Ana	92701
+S Sycamore St	Santa Ana	92707
+S Sylmar Ave	Fresno	93725
+S Sylmar Ave	Fresno	93727
+S Sylvan St	Anaheim	92804
+S Syracuse Ln	Santa Maria	93458

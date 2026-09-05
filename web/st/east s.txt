@@ -1,0 +1,345 @@
+East S Street	Benicia	94510
+East Sacramento Street	Altadena	91001
+East Sacramento Street	Los Angeles	90021
+East Saddle Drive	Long Beach	90815
+East Sagebank Street	Carson	90746
+East Saginaw Avenue	Dinuba	93618
+East Sahuayo Street	Lancaster	93535
+East Saint Francis Place	Long Beach	90805
+East Saint Irmo Walk	Long Beach	90803
+East Saint Joseph Street	Arcadia	91006
+East Salome Avenue	Tulare	93274
+East Salt Lake Street	Long Beach	90806
+East Samoa Street	Lindsay	93247
+East Samuel Court	Vacaville	95687
+East San Andreas Avenue	Los Angeles	90065
+East San Antonio Drive	Long Beach	90807
+East San Bernardino Road	Covina	91722
+East San Bernardino Road	Covina	91723
+East San Bernardino Road	West Covina	91790
+East San Bernardino Road	West Covina	91791
+East San Carlos Street	Compton	90221
+East San Carlos Street	Los Angeles	90063
+East San Clemente Drive	Merced	95341
+East San Joaquin Avenue	Tulare	93274
+East San Jose Avenue	Burbank	91501
+East San Jose Avenue	Burbank	91502
+East San Jose Avenue	Claremont	91711
+East San Juan Avenue	Venice	90291
+East San Juan Street	Compton	90221
+East San Luis Street	Compton	90221
+East San Marco Way	Long Beach	90803
+East San Marcos Place	Los Angeles	90042
+East San Marcus Street	Compton	90221
+East San Marino Avenue	Alhambra	91801
+East San Mateo Street	Compton	90221
+East San Miguel Street	Compton	90221
+East San Pablo Court	Long Beach	90813
+East San Pedro Street	Merced	95341
+East San Rafael Avenue	Los Angeles	90042
+East San Rafael Avenue	Los Angeles	90065
+East San Rafael Street	Compton	90221
+East San Raphael Drwy	San Diego	92130
+East San Vincente Street	Compton	90221
+East Sandalwood Avenue	Tulare	93274
+East Sanders Court	Visalia	93292
+East Sandhill Avenue	Carson	90746
+East Sandison Street	Wilmington	90744
+East Sandpoint Court	Carson	90746
+East Sandra Avenue	Arcadia	91006
+East Sandra Avenue	Tulare	93274
+East Sandwood Street	Long Beach	90808
+East Sandy Mush Road	Chowchilla	93610
+East Sandy Mush Road	El Nido	95317
+East Sandy Mush Road	Merced	93610
+East Sandy Mush Road	Merced	95341
+East Santa Ana Boulevard	Los Angeles	90002
+East Santa Ana Boulevard	Los Angeles	90059
+East Santa Anita Avenue	Burbank	91501
+East Santa Anita Avenue	Burbank	91502
+East Santa Anita Terrace	Arcadia	91006
+East Santa Clara Avenue	Venice	90291
+East Santa Clara Street	Arcadia	91006
+East Santa Fe Avenue	Azusa	91702
+East Santa Fe Avenue	Chowchilla	93610
+East Santa Fe Avenue	Le Grand	95333
+East Santa Fe Avenue	Merced	95340
+East Santa Fe Avenue	San Gabriel	91776
+East Santa Fe Street	Pomona	91767
+East Santa Rita Street	Compton	90220
+East Santa Ynez Street	San Gabriel	91775
+East Santiago Street	Covina	91724
+East Santona Court	La Habra	90631
+East Saunders Street	Compton	90221
+East Savarona Way	Carson	90746
+East Saxon Avenue	San Gabriel	91776
+East Scarboro Street	Los Angeles	90065
+East Scenic Drive	Monrovia	91016
+East Schinner Street	Compton	90221
+East School Avenue	Earlimart	93219
+East School Avenue	Porterville	93257
+East School Avenue	Visalia	93291
+East School Avenue	Visalia	93292
+East School Court	Visalia	93292
+East School St	Amador City	95601
+East School Street	Covina	91723
+East School Way	Redwood Valley	 
+East Scobie Street	Montague	96064
+East Scott Street	Long Beach	90805
+East Scranton Avenue	Porterville	93257
+East Scrivener Street	Long Beach	90808
+East Sea Breeze Drive	Long Beach	90803
+East Seaglass Circle	Playa Vista	90094
+East Seaside Avenue	San Pedro	90731
+East Seaside Walk	Long Beach	90803
+East Seaside Way	Long Beach	90802
+East Seaview Drive	Benicia	94510
+East Second Avenue	La Habra	90631
+East Section Center Street	Covina	91722
+East Sedona Avenue	Visalia	93291
+East Seeger Avenue	Visalia	93292
+East Seeger Court	Visalia	93277
+East Seeger Court	Visalia	93292
+East Selandia Lane	Carson	90746
+East Seldner Street	Los Angeles	90032
+East Selig Place	Los Angeles	90031
+East Septimo Street	Long Beach	90815
+East Sepulveda Boulevard	Carson	90745
+East Sepulveda Boulevard	Long Beach	90810
+East Sequoia Avenue	Tulare	93274
+East Sequoia Avenue	Visalia	93277
+East Sequoia Avenue	Visalia	93292
+East Sequoia Avenue	Woodlake	93286
+East Sequoia Drive	Dinuba	93618
+East Sequoia Drive	Merced	95340
+East Service Avenue	West Covina	91790
+East Service Street	Los Angeles	90063
+East Seton Hill Drive	Walnut	91789
+East Shalene Street	West Covina	91792
+East Shamwood Street	West Covina	91790
+East Shamwood Street	West Covina	91791
+East Shannon Parkway	Visalia	93291
+East Shauer Street	Compton	90222
+East Shaw Street	Long Beach	90803
+East Sheila Street	Los Angeles	90040
+East Shelley Street	Los Angeles	90032
+East Sheri Lane	Long Beach	90815
+East Sheridan Street	Los Angeles	90033
+East Sherman Cl	Venice	90291
+East Sherman Drive	Carson	90746
+East Shire Way	Long Beach	90815
+East Shoppers Lane	Covina	91723
+East Shorb Street	Alhambra	91801
+East Shoreline Drive	Long Beach	90802
+East Shrode Avenue	Monrovia	91016
+East Side Boulevard	Los Angeles	90063
+East Side Calpella Rd	Calpella	 
+East Side Calpella Rd	Ukiah	 
+East Side Ct	Desert Hot Springs	92241
+East Side Pl	Cathedral City	92234
+East Side Potter Valley Rd	Calpella	 
+East Side Potter Valley Rd	Potter Valley	 
+East Side Rancheria Rd	Hopland	 
+East Side Rd	Coffee Creek	96091
+East Side Rd	Lewiston	96052
+East Side Rd	Willits	 
+East Sierra Avenue	Earlimart	93219
+East Sierra Avenue	Pixley	93256
+East Sierra Avenue	Tulare	93274
+East Sierra Avenue	Woodlake	93286
+East Sierra Madre Avenue	Azusa	91702
+East Sierra Madre Avenue	Glendora	91741
+East Sierra Madre Boulevard	Pasadena	91107
+East Sierra Madre Boulevard	Sierra Madre	91024
+East Sierra View Street	Lindsay	93247
+East Sierra Way	Dinuba	93618
+East Sigman Street	Hacienda Heights	91745
+East Silva Street	Long Beach	90805
+East Silva Street	Long Beach	90807
+East Silvan Place	Carson	90745
+East Silver Maple Drive	Azusa	91702
+East Silver Ridge Way	Los Angeles	90039
+East Simmons Avenue	Montebello	90640
+East Siskiyou Street	Los Angeles	90023
+East Skyline Drive	La Habra	90631
+East Skyline Drive	Walnut	91789
+East Slauson Avenue	Huntington Park	90255
+East Slauson Avenue	Los Angeles	90001
+East Slauson Avenue	Los Angeles	90011
+East Slauson Avenue	Los Angeles	90040
+East Slauson Avenue	Los Angeles	90058
+East Slauson Avenue	Maywood	90270
+East Slauson Avenue	Montebello	90640
+East Sly Street	Dorris	96023
+East Smith Drive	Claremont	91711
+East Smith Place	Long Beach	90806
+East Smith Street	Long Beach	90805
+East Snow Creek Drive	Walnut	91789
+East Snow Drive	Los Angeles	90063
+East Snowden Avenue	Long Beach	90815
+East Solana Court	Los Angeles	90033
+East Soledad Pass Road	Palmdale	93550
+East Somerset Place	Long Beach	90807
+East Sonoma Street	Merced	95341
+East Sonora Avenue	Tulare	93274
+East Sorrento Drive	Long Beach	90803
+East South Bear Creek Drive	Le Grand	95333
+East South Bear Creek Drive	Merced	95333
+East South Bear Creek Drive	Merced	95340
+East South Bear Creek Drive	Merced	95365
+East South Street	Lakewood	90712
+East South Street	Long Beach	90805
+East South View Avenue	Visalia	93292
+East Southside Drive	Los Angeles	90022
+East Spaulding Court	Long Beach	90804
+East Spaulding Street	Long Beach	90804
+East Spaulding Way	Long Beach	90804
+East Spaulding Way	Long Beach	90813
+East Spazier Avenue	Burbank	91502
+East Spazier Avenue	Glendale	91201
+East Spencer Avenue	Tipton	93272
+East Spicer Street	Carson	90745
+East Spiers Street	Montague	96064
+East Spring Ranches Road	Grass Valley	95949
+East Spring Street	Long Beach	90806
+East Spring Street	Long Beach	90807
+East Spring Street	Long Beach	90808
+East Spring Street	Long Beach	90815
+East Spring Street	Signal Hill	90755
+East Springvale Drive	Los Angeles	90042
+East Springville Avenue	Porterville	93257
+East Springville Court	Porterville	93257
+East Spruce Avenue	Inglewood	90301
+East Spruce Street	Compton	90220
+East Spumante Court	Brentwood	94513
+East St	Anderson	96007
+East St	Aptos	95003
+East St	Auburn	95603
+East St	Boulder Creek	95006
+East St	Concord	94520
+East St	Concord	94521
+East St	Gilroy	95020
+East St	Healdsburg	95448
+East St	Hollister	95023
+East St	Honcut	95966
+East St	Lafayette	94549
+East St	Monte Rio	95462
+East St	Norco	92860
+East St	Oceanside	92054
+East St	Penngrove	94951
+East St	Pittsburg	94565
+East St	Raymond	93653
+East St	Redding	96001
+East St	Roseville	95678
+East St	San Rafael	94901
+East St	Santa Barbara	93103
+East St	Simi Valley	93065
+East St	Somis	93066
+East St	Tracy	95376
+East St	Trinidad	95570
+East St Johns Parkway	Visalia	93292
+East St Louis Street	Los Angeles	90033
+East Stadium Way	Los Angeles	90012
+East Stanford Avenue	Pixley	93256
+East Stanley Street	Compton	90220
+East Stapp Avenue	Visalia	93292
+East Stapp Court	Visalia	93292
+East Stapp Drive	Visalia	93292
+East Star Of India Lane	Carson	90746
+East Star Rd	Borrego Springs	92004
+East Starling Court	Merced	95341
+East State Highway 12	Rio Vista	94571
+East State Highway 12	Suisun City	94585
+East State Highway 3	Montague	96064
+East State Highway 3	Yreka	96097
+East State Highway 37	Vallejo	94592
+East State Highway 89	Mccloud	96057
+East State Street	Los Angeles	90033
+East State Street	Pasadena	91105
+East State University Drive	Long Beach	90815
+East State University Drive	Los Angeles	90032
+East Stearns Avenue	La Habra	90631
+East Stearns Street	Long Beach	90815
+East Steffen Street	Glendora	91741
+East Stephanie Court	Lancaster	93535
+East Stephanie Drive	Covina	91722
+East Stephanie Drive	Covina	91724
+East Stepney Place	Inglewood	90302
+East Stepney Street	Inglewood	90302
+East Stevens Avenue	La Habra	90631
+East Stewart Avenue	Visalia	93292
+East Stewart Court	Visalia	93292
+East Stillwater Way	Redding	96002
+East Stockbridge Avenue	Los Angeles	90032
+East Stocker Street	Glendale	91202
+East Stocker Street	Glendale	91207
+East Stockham Avenue	Tulare	93274
+East Stockton Avenue	Compton	90221
+East Stockton Street	Compton	90221
+East Stockwell Street	Compton	90222
+East Stratford Road	Los Angeles	90042
+East Street	Davis	95616
+East Street	Fort Jones	96032
+East Street	Happy Camp	96039
+East Street	Montague	96064
+East Street	Salinas	93905
+East Street	Soledad	93960
+East Street	Winters	95694
+East Street	Woodland	95695
+East Street	Woodland	95776
+East Striplin Frontage Road	Nicolaus	95659
+East Striplin Frontage Road	Pleasant Grove	95668
+East Stuart Avenue	West Covina	91790
+East Stuart Avenue	West Covina	91791
+East Success Drive	Porterville	93257
+East Sue Avenue	Visalia	93292
+East Sugarbird Court	Merced	95341
+East Sultan Circle	Carson	90746
+East Summers Meadow Road	Bridgeport	93517
+East Sun Lane	Rosemead	91770
+East Sunnyside Avenue	Visalia	93277
+East Sunnyside Avenue	Visalia	93292
+East Sunnyside Court	Visalia	93277
+East Sunnyview Avenue	Visalia	93291
+East Sunnyview Avenue	Visalia	93292
+East Sunnyview Court	Visalia	93291
+East Sunnyview Court	Visalia	93292
+East Sunrise Boulevard	Long Beach	90806
+East Sunrise Drive	Littlerock	93543
+East Sunrise Street	Los Angeles	90023
+East Sunset Avenue	Long Beach	90805
+East Sunset Avenue	San Gabriel	91776
+East Sunset Avenue	Tulare	93274
+East Sunset Avenue	Venice	90291
+East Sunset Court	Visalia	93292
+East Sunset Drive	Dinuba	93618
+East Sunset Hill Drive	West Covina	91791
+East Sunset Street	Long Beach	90805
+East Sunshine Court	Long Beach	90813
+East Sunwood Drive	Walnut	91789
+East Superba Avenue	Venice	90291
+East Superior Avenue	La Habra	90631
+East Superior Court	Los Angeles	90032
+East Supreme Court	Los Angeles	90032
+East Surrey Drive	Long Beach	90815
+East Susan Drive	Carson	90745
+East Sussex Lane	Los Angeles	90023
+East Sutter Avenue	Earlimart	93219
+East Sutter Avenue	Porterville	93257
+East Swanee Lane	Covina	91723
+East Swanee Lane	West Covina	91790
+East Swansea Circle	La Habra	90631
+East Sweet Avenue	Visalia	93291
+East Sweet Avenue	Visalia	93292
+East Sweet Court	Visalia	93291
+East Sweetbrier Street	Palmdale	93550
+East Swinford Street	San Pedro	90731
+East Swope Street	Carson	90745
+East Sycamore Avenue	Arcadia	91006
+East Sycamore Avenue	El Segundo	90245
+East Sycamore Avenue	La Habra	90631
+East Sycamore Avenue	Tulare	93274
+East Sycamore Avenue	Visalia	93292
+East Sycamore Court	Visalia	93292
+East Sycamore Park Drive	Los Angeles	90031
+East Sycamore Street	Farmersville	93223

@@ -1,0 +1,1028 @@
+Sumac	Desert Hot Springs	92240
+Sumac	Oak View	93022
+Sumac Av	Stockton	95207
+Sumac Ave	Hesperia	92345
+Sumac Ave	Irvine	92606
+Sumac Ave	Murrieta	92562
+Sumac Avenue	Palmdale	93550
+Sumac Cir	Concord	94521
+Sumac Court	Canyon Country	91387
+Sumac Ct	Beaumont	92223
+Sumac Ct	Brentwood	94513
+Sumac Ct	Corona	92883
+Sumac Ct	Fallbrook	92028
+Sumac Ct	Fontana	92337
+Sumac Ct	Healdsburg	95448
+Sumac Ct	Novato	94945
+Sumac Ct	San Luis Obispo	93401
+Sumac Ct	Victorville	92394
+Sumac Dr	Desert Hot Springs	92240
+Sumac Dr	Oak View	93022
+Sumac Dr	Ojai	93023
+Sumac Dr	San Diego	92105
+Sumac Dr	Sunnyvale	94086
+Sumac Drive	Sherman Oaks	91403
+Sumac Lane	Santa Monica	90402
+Sumac Ln	Camarillo	93012
+Sumac Ln	Fountain Valley	92708
+Sumac Ln	Newman	95360
+Sumac Ln	Sacramento	95820
+Sumac Ln	Squaw Valley	93675
+Sumac Loop	Yucaipa	92399
+Sumac Pl	Chula Vista	91915
+Sumac Pl	Corona	92882
+Sumac Pl	Escondido	92027
+Sumac Pl	Gilroy	95020
+Sumac Pl	Oceanside	92057
+Sumac Rd	Fallbrook	92028
+Sumac Ridge Dr	Ybl	92886
+Sumac Ridge Dr	Yorba Linda	92886
+Sumac Ridge Road	Malibu	90265
+Sumac Road	Canoga Park	91304
+Sumac Road	Inyokern	93527
+Sumac Smt	Fallbrook	92028
+Sumac St	Hemet	92545
+Sumac St	La Quinta	92253
+Sumac St	Union City	94587
+Sumac Street	La Verne	91750
+Sumac Summit	Fallbrook	92028
+Sumac Ter	Valley Center	92082
+Sumac Way	Antioch	94509
+Sumac Way	Half Moon Bay	94019
+Sumac Way	Salinas	93905
+Sumac Way Way	Salinas	93905
+Sumach Ln	Chino Hills	91709
+Sumar Ln	Redding	96003
+Sumatra Ave	Bakersfield	93311
+Sumatra Ave	San Jose	95122
+Sumatra Ct	Perris	92570
+Sumatra Dr	Sacramento	95838
+Sumatra Dr	Santa Rosa	95403
+Sumatra Ln	San Diego	92114
+Sumatra Pl	Costa Mesa	92626
+Sumatra St	Hayward	94544
+Sumatra Street	West Sacramento	95691
+Sumba Cir	Costa Mesa	92626
+Sumba Ct	San Jose	95123
+Sumerlin Ct	Elk Grove	95624
+Sumerlin Pl	Yucaipa	92399
+Sumi Ave	Westminster	92683
+Sumi Ct	Oroville	95966
+Sumi Road	Nevada City	95959
+Sumida Gardens Ln	Goleta	93111
+Sumida Gardens Ln	Santa Barbara Unincorporated	93111
+Sumiya Drive	Encino	91316
+Summa	Aptos	95003
+Summer	Boulder Creek	95006
+Summer Apts A-C St	Eureka	95501
+Summer Ave	Burlingame	94010
+Summer Ave	Citrus Heights	95621
+Summer Ave	Fairfax	94930
+Summer Ave	Lake Elsinore	92530
+Summer Avenue	Artesia	90701
+Summer Avenue	Norwalk	90650
+Summer Avenue	Santa Fe Springs	90670
+Summer Bloom Ln	Fallbrook	92028
+Summer Blossom Ave	San Jose	95122
+Summer Blossom Ct	San Jose	95122
+Summer Blossom St	Jurupa Valley	92509
+Summer Breeze	Banning	92220
+Summer Breeze	Irvine	92603
+Summer Breeze Court	Santa Clarita	91390
+Summer Breeze Ct	Rodeo	94572
+Summer Breeze Ct	Roseville	95661
+Summer Breeze Dr	Moreno Valley	92557
+Summer Breeze Ln	Bakersfield	93313
+Summer Breeze Ln	Huntington Beach	92648
+Summer Breeze Ln	Huntington Beach	92648-2127
+Summer Breeze Ln	Huntington Beach	92648-2128
+Summer Breeze Ln	Huntington Beach	92648-2129
+Summer Breeze Ln	Huntington Beach	92648-2141
+Summer Breeze St	Banning	92220
+Summer Breeze Way	Oceanside	92057
+Summer Camp Way	Truckee	96161
+Summer Canyon Rd	Chino Hills	91709
+Summer Cir	Brentwood	94513
+Summer Cir	Huntington Beach	92646
+Summer Cir	Huntington Beach	92646-8237
+Summer Cloud Ct	Folsom	95630
+Summer Cloud Dr	Rocklin	95765
+Summer Cloud Dr	Thousand Oaks	91362
+Summer Country Dr	Bakersfield	93313
+Summer Court	Merced	95340
+Summer Cove Cir	Sacramento	95838
+Summer Creek	Lake Forest	92630-5637
+Summer Creek	Lake Forest	92630-5638
+Summer Creek	Lake Forest	92630-5639
+Summer Creek	Lake Forest	92630-5640
+Summer Creek Ct	Bakersfield	93311
+Summer Creek Ct	Sacramento	95828
+Summer Creek Ct	Vista	92084
+Summer Creek Dr	Menifee	92586
+Summer Creek Dr	Turlock	95382
+Summer Creek Ln	Murrieta	92562
+Summer Creek Ln	Paso Robles	93446
+Summer Creek Rd	Bakersfield	93311
+Summer Crest Ct	Elk Grove	95624
+Summer Crest Dr	Turlock	95382
+Summer Crk	Lake Forest	92630
+Summer Ct	Bakersfield	93308
+Summer Ct	Banning	92220
+Summer Ct	El Cajon	92021
+Summer Ct	Imperial	92251
+Summer Ct	Riverside	92508
+Summer Ct	San Jose	95116
+Summer Ct	Vista	92084
+Summer Cypress Dr	Bakersfield	93313
+Summer Dain Ln	Wildomar	92595
+Summer Dawn Ct	Fair Oaks	95628
+Summer Dawn Ct	Murrieta	92563
+Summer Day Dr	Corona	92883
+Summer Day Ln	Sacramento	95834
+Summer Dr	Hollister	95023
+Summer Dr	Middletown	95461
+Summer Dr	Modesto	95355
+Summer Dr	Oceanside	92056
+Summer Dream Ct	Bakersfield	93311
+Summer Fallow Pl	Paso Robles	93446
+Summer Falls Cir	Sacramento	95828
+Summer Field Dr	Hanford	93230
+Summer Flower Rd	Perris	92570
+Summer Garden Ln	Turlock	95382
+Summer Garden Way	Sacramento	95833
+Summer Gate Avenue	Vallejo	94591
+Summer Glen Rd	Ramona	92065
+Summer Glen Vista	El Cajon	92021
+Summer Glen Way	Elk Grove	95757
+Summer Gln	Ramona	92065
+Summer Grape Ct	Winchester	92596
+Summer Green Ct	Moreno Valley	92557
+Summer Grove Circle	Fairfield	94534
+Summer Grove Drive	Fairfield	94534
+Summer Grove Ln	Huntington Beach	92648
+Summer Grove Ln	Huntington Beach	92648-6649
+Summer Grove Ln	Huntington Beach	92648-6650
+Summer Grove Place	Valencia	91354
+Summer Hill Ct	Danville	94526
+Summer Hill Ct	Murrieta	92563
+Summer Hill Dr	Anderson	96007
+Summer Hill Rd	Salida	95368
+Summer Holly Ave	Moreno Valley	92553
+Summer Holly Circle	Los Angeles	90077
+Summer Holly Circle	Palmdale	93550
+Summer Holly Ln	Encinitas	92024
+Summer Holly Ln	Nipomo	93444
+Summer Holly Way	Sacramento	95829
+Summer Holly Way	Yorba Linda	92886
+Summer Home Rd	Forest Glen	96041
+Summer House	Irvine	92603
+Summer House Ln	Lake Elsinore	92530
+Summer Knoll Way	Elk Grove	95624
+Summer Lake Cir	Brea	92821
+Summer Lake Ct	Antelope	95843
+Summer Lake Dr	Oakley	94561
+Summer Lake Ln	Colfax	95713
+Summer Land Drive	Linda	95901
+Summer Lane	Baldwin Park	91706
+Summer Lane	Lancaster	93536
+Summer Lane	Pomona	91767
+Summer Lane	Whittier	90602
+Summer Lawn Way	Hacienda Heights	91745
+Summer Lilac	Irvine	92620
+Summer Lilac Drive	Palmdale	93550
+Summer Ln	Crescent City	95531
+Summer Ln	Madera	93637
+Summer Ln	Menifee	92584
+Summer Ln	Nipomo	93444
+Summer Ln	Paradise	95969
+Summer Ln	Patterson	95363
+Summer Ln	Richmond	94806
+Summer Ln	Tracy	95377
+Summer Ln	Yucaipa	92399
+Summer Lynn Ct	La Quinta	92253
+Summer Maple Way	Canyon Country	91387
+Summer Meadow Ln	Sonoma	95476
+Summer Meadows Ct	Alamo	94507
+Summer Mist Ct	Sacramento	95828
+Summer Moon Rd	San Marcos	92078
+Summer Morning Dr	Hollister	95023
+Summer Oak Court	Santa Clarita	91390
+Summer Oak Ct	Antelope	95843
+Summer Oak Pl	Ybl	92886
+Summer Oak Pl	Yorba Linda	92886
+Summer Oaks Dr	Sonoma	95476
+Summer Park Ct	Crescent City	95531
+Summer Park Dr	Sacramento	95834
+Summer Phlox Ln	Patterson	95363
+Summer Pl	Auburn	95603
+Summer Pl	Olympic Valley	96146
+Summer Pl	San Jose	95138
+Summer Place Dr	El Cajon	92021
+Summer Place Rd	Forest Ranch	95942
+Summer Place Rd	Forest Ranch	95954
+Summer Place St	Fontana	92336
+Summer Pointe Dr	Elk Grove	95624
+Summer Pond Ct	Elk Grove	95624
+Summer Rain Dr	Windsor	95492
+Summer Rain Way	Citrus Heights	95621
+Summer Ranch Rd	Paso Robles	93446
+Summer Red Way	Brentwood	94513
+Summer Ridge Ct	Auburn	95603
+Summer Ridge Dr	Auburn	95603
+Summer Ridge Dr	Murrieta	92563
+Summer Rim Cir	Sacramento	95823
+Summer Run Ct	Moreno Valley	92555
+Summer Sage Rd	Poway	92064
+Summer Sage Way	Wildomar	92595
+Summer Sands Ct	Sacramento	95828
+Summer Savory Ct	Bakersfield	93313
+Summer School Ln	Lakeshore	93634
+Summer Set Cir	Banning	92220
+Summer Set Ln	Madera	93637
+Summer Set Way	Oceanside	92056
+Summer Shade Ct	Folsom	95630
+Summer Shade Ln	Redding	96003
+Summer Side Ave	Bakersfield	93309
+Summer Side Ct	Bakersfield	93309
+Summer Sky Cir	Rancho Mirage	92270
+Summer Sky Dr	Sacramento	95828
+Summer Sky Pl	Tustin	92782
+Summer Sky St	Chula Vista	91915
+Summer Sky St	San Diego	92130
+Summer Solstice Dr	Bakersfield	93313
+Summer Springs Dr	Bakersfield	93313
+Summer Squash Wkwy	San Jose	95133
+Summer Squash Ww	San Jose	95133
+Summer St	Adelanto	92301
+Summer St	Berkeley	94709
+Summer St	Coachella	92236
+Summer St	Dillon Beach	94929
+Summer St	Eastvale	92880
+Summer St	Eureka	95501
+Summer St	Eureka	95503
+Summer St	Fortuna	95540
+Summer St	Loleta	95551
+Summer St	Moorpark	93021
+Summer St	Ojai	93023
+Summer St	San Jose	95116
+Summer Star Way	Newcastle	95658
+Summer Stone Ct	Riverside	92508
+Summer Street	Salinas	93901
+Summer Stroll Cir	Sacramento	95823
+Summer Sun Ct	Elk Grove	95624
+Summer Sun Ln	Lakeside	92040
+Summer Sun Pl	Lakeside	92040
+Summer Sun Way	Elk Grove	95624
+Summer Sunset Dr	Sacramento	95828
+Summer Sunshine	Menifee	92585
+Summer Sunshine Dr	Menifee	92585
+Summer Tea Way	Elk Grove	95624
+Summer Thyme Court	Grass Valley	95949
+Summer Tree Ct	Simi Valley	93065
+Summer Tree Ln	Bakersfield	93309
+Summer Tree Ln	Corona	92881
+Summer Valley Ct	San Ramon	94582
+Summer View Cir	Camarillo	93012
+Summer View Cir	Encinitas	92024
+Summer View Dr	Oroville	95966
+Summer Villa Dr	Bakersfield	93313
+Summer Vista Ct	Elk Grove	95624
+Summer Vw	Mission Viejo	92692
+Summer Walk Dr	San Juan Capistrano	92675
+Summer Way	Corona	92883
+Summer Way	Escondido	92025
+Summer Way	Oak View	93022
+Summer Way	Pittsburg	94565
+Summer Wheat Dr	Windsor	95492
+Summer Wind Ct	Murrieta	92563
+Summer Wind St	Victorville	92394
+Summerain Ct	San Jose	95122
+Summerbreeze Cir	Chino Hills	91709
+Summerbreeze Court	Palmdale	93552
+Summerbreeze Court	Vacaville	95687
+Summerbreeze Ct	Rancho Cordova	95670
+Summerbreeze Drive	Vacaville	95687
+Summerbreeze Ln	San Diego	92128
+Summerbreeze Pl	Redding	96001
+Summerbreeze Way	San Diego	92128
+Summerbrook Ct	La Quinta	92253
+Summerbrook Ct	San Jose	95123
+Summerbrook Ln	San Jose	95123
+Summerbrook Way	Sacramento	95823
+Summerbrooke Cir	Napa	94558
+Summerchase Rd	San Jacinto	92582
+Summercloud Ln	Huntington Beach	92647
+Summercloud Ln	Huntington Beach	92647-4208
+Summercloud Ln	Huntington Beach	92647-4209
+Summercloud Ln	Huntington Beach	92647-4256
+Summercreek Dr	San Jose	95136
+Summercreek Dr	Santa Rosa	95404
+Summercreek Ln	San Ramon	94583
+Summercreek Way	Escondido	92029
+Summercrest Cir	Garden Grove	92844
+Summercrest Ln	Santee	92071
+Summerdale	Irvine	92620
+Summerdale Ave	Turlock	95382
+Summerdale Dr	Huntington Beach	92647
+Summerdale Dr	Huntington Beach	92647-5524
+Summerdale Dr	Huntington Beach	92647-5525
+Summerdale Dr	Huntington Beach	92647-5526
+Summerdale Dr	Huntington Beach	92647-5527
+Summerdale Dr	San Jose	95132
+Summerdale Drive	Pomona	91766
+Summerdale Rd	San Diego	92126
+Summerdale Way	San Diego	92126
+Summerdawn Pl	Encinitas	92024
+Summerdays Ct	San Jose	95132
+Summereve Ct	San Jose	95122
+Summerfaire Dr	Roseville	95747
+Summerfield	Aliso Viejo	92656
+Summerfield	Irvine	92614
+Summerfield	Mission Viejo	92692
+Summerfield Avenue	Whittier	90606
+Summerfield Cir	Brea	92821
+Summerfield Court	Fairfield	94534
+Summerfield Court	West Sacramento	95691
+Summerfield Ct	Chino	91710
+Summerfield Ct	Danville	94506
+Summerfield Ct	Lincoln	95648
+Summerfield Ct	Rancho Cordova	95670
+Summerfield Ct	Redding	96002
+Summerfield Ct	Spring Valley	91977
+Summerfield Dr	Antioch	94531
+Summerfield Dr	Bakersfield	93313
+Summerfield Dr	Bay Point	94565
+Summerfield Dr	Campbell	95008
+Summerfield Dr	Milpitas	95035
+Summerfield Dr	Moreno Valley	92557
+Summerfield Dr	Napa	94558
+Summerfield Dr	Rocklin	95677
+Summerfield Dr	San Jose	95121
+Summerfield Dr	Spring Valley	91977
+Summerfield Dr	Stockton	95209
+Summerfield Dr	Turlock	95382
+Summerfield Drive	Atwater	95301
+Summerfield Drive	Sherman Oaks	91423
+Summerfield Drive	Soledad	93960
+Summerfield Drive	Vacaville	95687
+Summerfield Drive	West Sacramento	95691
+Summerfield Lane	Olivehurst	95961
+Summerfield Ln	Huntington Beach	92646
+Summerfield Ln	Huntington Beach	92646-2034
+Summerfield Ln	Huntington Beach	92646-2035
+Summerfield Ln	Murrieta	92563
+Summerfield Ln	Poway	92064
+Summerfield Ln	Riverside	92503
+Summerfield Ln	San Juan Capistrano	92675
+Summerfield Pl	Escondido	92027
+Summerfield Pl	Rancho Cucamonga	91701
+Summerfield Rd	Santa Rosa	95405
+Summerfield St	Camarillo	93012
+Summerfield St	Danville	94506
+Summerfield St	Hemet	92545
+Summerfield St	Spring Valley	91977
+Summerfield St	Thousand Oaks	91360
+Summerfield Way	Beaumont	92223
+Summerford Cir	San Ramon	94583
+Summergarden Ct	San Jose	95132
+Summergate Ct	Sacramento	95823
+Summergate Dr	Tracy	95376
+Summerglen Ave	Murrieta	92563
+Summerglen Cir	Stanton	90680
+Summerglen Ct	Moorpark	93021
+Summerglen Dr	Corona	92879
+Summerglen Drive	Atwater	95301
+Summerglen Place	Valencia	91354
+Summergrove Ci	Roseville	95678
+Summergrove Ct	Fountain Valley	92708
+Summerhays Pl	Santa Rosa	95405
+Summerheights Dr	San Jose	95132
+Summerhill	Scotts Valley	95066
+Summerhill Ave	Los Altos	94024
+Summerhill Ave	Los Altos Hills	94024
+Summerhill Cir	Gilroy	95020
+Summerhill Ct	Alpine	91901
+Summerhill Ct	Coto De Caza	92679
+Summerhill Ct	Encinitas	92024
+Summerhill Ct	Indio	92201
+Summerhill Ct	Los Altos	94024
+Summerhill Ct	Oak Park	91377
+Summerhill Ct	Perris	92571
+Summerhill Ct	Roseville	95661
+Summerhill Ct	San Jose	95148
+Summerhill Ct	San Rafael	94903
+Summerhill Dr	Encinitas	92024
+Summerhill Dr	Lake Elsinore	92532
+Summerhill Dr	Oceanside	92057
+Summerhill Dr	Roseville	95661
+Summerhill Dr	Santa Maria	93454
+Summerhill Dr	Strawberry	95375
+Summerhill Drive	Los Angeles	90043
+Summerhill Lane	Stevenson Ranch	91381
+Summerhill Lane	Valencia	91354
+Summerhill Ln	Coarsegold	93614
+Summerhill Ln	Corona	92883
+Summerhill Ln	Fallbrook	92028
+Summerhill Ln	Kenwood	95452
+Summerhill Ln	Laguna Hills	92653
+Summerhill Ln	Lincoln	95648
+Summerhill Ln	Martinez	94553
+Summerhill Ln	Newcastle	95658
+Summerhill Ln	Woodside	94062
+Summerhill Place	Grass Valley	95949
+Summerhill Place	Stevenson Ranch	91381
+Summerhill Pt	Alpine	91901
+Summerhill Rd	Rancho Cucamonga	91737
+Summerhill Ter	Alpine	91901
+Summerhill View	Alpine	91901
+Summerhill Way	San Rafael	94903
+Summerholly Circle	Palmdale	93550
+Summerholly Dr	San Marcos	92078
+Summerholly Ln	Murrieta	92563
+Summerholme Pl	Hillsborough	94010
+Summerhome Park Rd	Forestville	95436
+Summerhouse Dr	Patterson	95363
+Summerland	Irvine	92602
+Summerland Ave	Palm Desert	92211
+Summerland Cir	Aliso Viejo	92656
+Summerland Cir	Laguna Niguel	92677
+Summerland Court	Grass Valley	95949
+Summerland Dr	San Jose	95134
+Summerland Heights Ln	Summerland	93067
+Summerland Heights Ln	Summerland	93108
+Summerland Ln	Fontana	92336
+Summerland Road	Aromas	95076
+Summerland St	Chula Vista	91913
+Summerland Street	Rancho Palos Verdes	90275
+Summerland Way	Brentwood	94513
+Summerland Wy	Roseville	95747
+Summerleaf Dr	Berry Creek	95916
+Summerleaf Dr	San Jose	95120
+Summerleaf Ln	Riverside	92504
+Summerleaf Pl	San Jose	95120
+Summerlin Ct	Beaumont	92223
+Summerlin Ct	Modesto	95356
+Summerlin Dr	Modesto	95356
+Summerlin Pl	Rancho Cucamonga	91730
+Summerly Pl	Lake Elsinore	92530
+Summermist Ct	San Jose	95122
+Summeroak Ct	Fountain Valley	92708
+Summerpark Ct	San Jose	95132
+Summerpark Ct	Thousand Oaks	91362
+Summerplace Ct	Corona	92881
+Summerplace Dr	Citrus Heights	95621
+Summerplace Dr	San Jose	95122
+Summerplace Drive	West Covina	91792
+Summerrain Dr	South San Francisco	94080
+Summers Ave	Novato	94945
+Summers Avenue	Olivehurst	95961
+Summers Ct	Riverside	92501
+Summers Ln	Fort Bragg	 
+Summers Ln	Sonora	95370
+Summers Pl	Shingletown	96088
+Summers Rd	Landers	92277
+Summers Rd	Landers	92285
+Summers Ridge Rd	San Diego	92121
+Summers Ridge Rd	San Diego	92126
+Summers St	Oroville	95966
+Summers St	Princeton	95970
+Summers St	Waterford	95386
+Summerscape Dr	Roseville	95747
+Summersdale Dr	Sacramento	95823
+Summerset	Irvine	92603
+Summerset Avenue	Atwater	95301
+Summerset Cir	Banning	92220
+Summerset Cir	Costa Mesa	92626
+Summerset Court	Atwater	95301
+Summerset Ct	Granite Bay	95746
+Summerset Ct	Hollister	95023
+Summerset Ct	Lodi	95242
+Summerset Ct	San Ramon	94583
+Summerset Dr	Brentwood	94513
+Summerset Dr	Hollister	95023
+Summerset Dr	Menifee	92586
+Summerset Drive	Fairfield	94534
+Summerset Drive	Rio Vista	94571
+Summerset Ln	Citrus Heights	95621
+Summerset Place	Inglewood	90305
+Summerset Rd	Hinkley	92347
+Summerset Rd	Newberry Springs	92365
+Summerset St	Corona	92879
+Summerset St	Fontana	92336
+Summerset St	Newberry Springs	92365
+Summerset Way	Aguanga	92536
+Summerset Way	Bakersfield	93308
+Summershade Dr	La Habra	90631
+Summershade Drive	La Mirada	90638
+Summershade Ln	Moorpark	93021
+Summershade Ln	San Diego	92126
+Summershore Ct	San Jose	95122
+Summershore Lane	Westlake Village	91361
+Summerside	Coto De Caza	92679
+Summerside Cir	Danville	94526
+Summerside Dr	Rancho Cucamonga	91737
+Summerside Dr	San Jose	95122
+Summerside Ln	Encinitas	92024
+Summerside St	Murrieta	92563
+Summersky Comm	Chico	95928
+Summersky Wy	Lodi	95242
+Summersong	Encinitas	92024
+Summersong Ct	Encinitas	92024
+Summersong Ct	San Jose	95132
+Summersong Ct	Turlock	95382
+Summersong Ln	Encinitas	92024
+Summersong Ln	Winchester	92596
+Summerstone	Irvine	92614
+Summerstone Ct	Rancho Cucamonga	91701
+Summerstone Ct	Riverside	92508
+Summersville Court	Vallejo	94591
+Summersweet Dr	Winchester	92596
+Summersweet Pl	Murrieta	92563
+Summersworth Pl	Fullerton	92833
+Summertide Way	Sacramento	95823
+Summertime Ave	Simi Valley	93065
+Summertime Court	Atwater	95301
+Summertime Dr	El Cajon	92021
+Summertime Dr	Tracy	95376
+Summertime Lane	Culver City	90230
+Summertime Lane	Suisun City	94585
+Summertime Ln	Culver City	90230
+Summertime Ln	Roseville	95747
+Summertime Ter	Riverside	92508
+Summerton Cir	Elk Grove	95624
+Summerton Dr	San Jose	95122
+Summerton Ln	Turlock	95382
+Summerton Way	Elk Grove	95624
+Summertown Street	Walnut	91789
+Summertrail Ct	Highland	92346
+Summertrail Pl	Highland	92346
+Summertree Ct	Fountain Valley	92708
+Summertree Ct	Sacramento	95841
+Summertree Ct	San Jose	95132
+Summertree Ct	Simi Valley	93065
+Summertree Dr	Perris	92571
+Summertree Dr	Rancho Cucamonga	91730
+Summertree Lane	Woodland	95695
+Summertree Ln	Corona	92881
+Summertree Ln	Santa Rosa	95403
+Summertree Ln	Santee	92071
+Summertree Ln	Stanton	90680
+Summerview Cir	Camarillo	93012
+Summerview Ct	San Diego	92126
+Summerview Ct	San Ramon	94583
+Summerview Dr	Murrieta	92563
+Summerview Dr	San Jose	95132
+Summerview Dr	Stockton	95210
+Summerview Ln	Huntington Beach	92648
+Summerview Ln	Huntington Beach	92648-4155
+Summerview Ln	Huntington Beach	92648-4156
+Summerview Ln	Huntington Beach	92648-4157
+Summerview Way	Oceanside	92056
+Summerview Way	Sacramento	95823
+Summerview Way	Vista	92083
+Summerville Ave	Tustin	92780
+Summerville Ct	Roseville	95747
+Summerville Lane	Palmdale	93551
+Summerwalk Ct	Newport Beach	92663
+Summerwell Way	Oceanside	92057
+Summerwind	Dana Point	92629
+Summerwind	Irvine	92614
+Summerwind Court	Plumas Lake	95961
+Summerwind Ct	Indio	92201
+Summerwind Ct	Newport Beach	92663
+Summerwind Ct	San Jose	95132
+Summerwind Dr	Lemoore	93245
+Summerwind Dr	Milpitas	95035
+Summerwind Dr	Roseville	95747
+Summerwind Drive	Palmdale	93551
+Summerwind Ln	Huntington Beach	92646
+Summerwind Ln	Huntington Beach	92646-8263
+Summerwind Ln	Huntington Beach	92646-8264
+Summerwind Ln	Huntington Beach	92646-8265
+Summerwind Ln	Huntington Beach	92646-8266
+Summerwind Ln	Huntington Beach	92646-8267
+Summerwind Ln	Huntington Beach	92646-8268
+Summerwind Ln	Lake Forest	92630
+Summerwind Ln	Lake Forest	92630-2453
+Summerwind Ln	Lake Forest	92630-2454
+Summerwind Ln	Manteca	95337
+Summerwind Pl	Carlsbad	92008
+Summerwind Street	Cerritos	90703
+Summerwind Trl	Forest Ranch	95942
+Summerwind Trl	Perris	92570
+Summerwind Way	Bakersfield	93308
+Summerwind Way	Milpitas	95035
+Summerwind Way	Sacramento	95831
+Summerwings Ct	San Jose	95132
+Summerwood	Aliso Viejo	92656
+Summerwood Ave	Simi Valley	93063
+Summerwood Avenue	Walnut	91789
+Summerwood Cir	Huntington Beach	92648
+Summerwood Cir	Huntington Beach	92648-6608
+Summerwood Cir	Menifee	92584
+Summerwood Cir	Sacramento	95841
+Summerwood Court	Vacaville	95688
+Summerwood Ct	Bakersfield	93313
+Summerwood Ct	Chico	95926
+Summerwood Ct	Corona	92882
+Summerwood Ct	Fountain Valley	92708
+Summerwood Ct	Granite Bay	95746
+Summerwood Ct	Paradise	95969
+Summerwood Ct	San Diego	92131
+Summerwood Ct	San Jose	95132
+Summerwood Dr	American Canyon	94503
+Summerwood Dr	Brentwood	94513
+Summerwood Dr	Fullerton	92833
+Summerwood Dr	Los Gatos	95030
+Summerwood Dr	Riverside	92505
+Summerwood Dr	Westminster	92683
+Summerwood Dr	Yucaipa	92399
+Summerwood Drive	Woodland	95695
+Summerwood Lane	Vacaville	95688
+Summerwood Ln	Lemon Grove	91945
+Summerwood Ln	Lompoc	93436
+Summerwood Ln	Stanton	90680
+Summerwood Ln	Ybl	92886
+Summerwood Ln	Yorba Linda	92886
+Summerwood Pkwy	Oroville	95966
+Summerwood Pl	Concord	94518
+Summerwood Pl	Garden Grove	92844
+Summerwood St	Westminster	92683
+Summerwood Way	Fontana	92335
+Summit	Boulder Creek	95006
+Summit	Felton	95018
+Summit	Irvine	92603
+Summit	Jackson	95642
+Summit	Los Gatos	95030
+Summit	Los Gatos	95033
+Summit	Riverdale	93656
+Summit	Salinas	93905
+Summit	Santa Cruz	95060
+Summit	Watsonville	95003
+Summit	Watsonville	95076
+Summit Ave	Box Canyon	91304
+Summit Ave	Cardiff	92007
+Summit Ave	Cardiff By The Sea	92007
+Summit Ave	Fallbrook	92028
+Summit Ave	Fontana	92336
+Summit Ave	Guerneville	95446
+Summit Ave	La Mesa	91941
+Summit Ave	Mill Valley	94941
+Summit Ave	Napa	94559
+Summit Ave	Palermo	95966
+Summit Ave	Rancho Cucamonga	91739
+Summit Ave	Redlands	92373
+Summit Ave	Rialto	92377
+Summit Ave	San Jose	95127
+Summit Ave	San Rafael	94901
+Summit Ave	Santee	92071
+Summit Ave	Simi Valley	93063
+Summit Ave	Sonora	95370
+Summit Ave & Frontage Rd NW	Fontana	92336
+Summit Avenue	Altadena	91001
+Summit Avenue	Lemon Cove	93244
+Summit Avenue	Loma Rica	95901
+Summit Avenue	Pasadena	91103
+Summit Avenue	Woodlake	93286
+Summit B Ave	Redlands	92373
+Summit & Beech NW	Fontana	92336
+Summit Blvd	Big Bear Lake	92315
+Summit Blvd	Cobb	95426
+Summit Brook Ct	Elk Grove	95624
+Summit Canyon	Los Gatos	95033
+Summit Cir	Bakersfield	93306
+Summit Cir	Camarillo	93012
+Summit Cir	Fullerton	92833
+Summit Cir	La Mesa	91941
+Summit Cir	Poway	92064
+Summit Cir	Temecula	92592
+Summit Cir	Walnut Creek	94598
+Summit Cir	Westminster	92683
+Summit Circle	Beverly Hills	90210
+Summit Circle	Mccloud	96057
+Summit Circle	Santa Clarita	91350
+Summit Circle Gln	Escondido	92026
+Summit Court	Beverly Hills	90210
+Summit Court	Delhi	95315
+Summit Court	Truckee	96161
+Summit Court	Yreka	96097
+Summit Cove Ln	Cardiff By The Sea	92007
+Summit Creek	Shaver Lake	93664
+Summit Creek Rd	Douglas City	96024
+Summit Creek Rd	Hayfork	96041
+Summit Crest	Escondido	92025
+Summit Crest	Santee	92071
+Summit Crest Cir	San Diego	92130
+Summit Crest Dr	Lake Forest	92630
+Summit Crest Dr	Riverside	92504
+Summit Crest Dr	Riverside	92506
+Summit Crest Dr	Santee	92071
+Summit Crest Drive	La Canada Flintridge	91011
+Summit Crest Ln	Clovis	93619
+Summit Crst	Escondido	92025
+Summit Ct	Corona	92883
+Summit Ct	Empire	95357
+Summit Ct	Hayward	94541
+Summit Ct	Las Flores	92688
+Summit Ct	Madera	93638
+Summit Ct	Pinole	94564
+Summit Ct	Redwood City	94062
+Summit Ct	San Diego	92127
+Summit Ct	South San Francisco	94080
+Summit Ct	Sunnyvale	94087
+Summit Ct	Ukiah	 
+Summit Cv	Palm Desert	92260
+Summit Dr	Banning	92220
+Summit Dr	Box Canyon	91304
+Summit Dr	Burlingame	94010
+Summit Dr	Calistoga	94515
+Summit Dr	Cathedral City	92234
+Summit Dr	Chula Vista	91910
+Summit Dr	Cobb	95426
+Summit Dr	Corte Madera	94925
+Summit Dr	Crestline	92325
+Summit Dr	Eastvale	92880
+Summit Dr	Emerald Hills	94062
+Summit Dr	Escondido	92025
+Summit Dr	Escondido	92027
+Summit Dr	Forest Falls	92339
+Summit Dr	Highland	92346
+Summit Dr	Hillsborough	94010
+Summit Dr	Huntington Beach	92648
+Summit Dr	La Mesa	91941
+Summit Dr	Laguna Beach	92651
+Summit Dr	Los Gatos	95033
+Summit Dr	Madera	93638
+Summit Dr	Other	94062
+Summit Dr	Palm Springs	92262
+Summit Dr	Paso Robles	93446
+Summit Dr	Pinole	94564
+Summit Dr	Pismo Beach	93449
+Summit Dr	Redding	96001
+Summit Dr	Redwood City	94062
+Summit Dr	Rocklin	95765
+Summit Dr	Running Springs	92382
+Summit Dr	Santa Rosa	95404
+Summit Dr	Shingletown	96088
+Summit Dr	Tracy	95377
+Summit Dr	Twentynine Palms	92277
+Summit Dr	Ventura	93001
+Summit Dr	Wrightwood	92397
+Summit Dr	Ybl	92886
+Summit Dr	Yorba Linda	92886
+Summit Drive	Beverly Hills	90210
+Summit Drive	Calabasas	91302
+Summit Drive	Fairfield	94534
+Summit Drive	Los Banos	93635
+Summit Drive	Mount Shasta	96067
+Summit Drive	Salinas	93905
+Summit Drive	Signal Hill	90755
+Summit Drive	South Pasadena	91030
+Summit Drive	Springville	93265
+Summit Drive	Topanga	90290
+Summit Drive	Truckee	96161
+Summit Drive	Virginia Lakes	93517
+Summit Drive	Whittier	90602
+Summit Drive Drive	Salinas	93905
+Summit Field Road	Carmel	93923
+Summit Gln	Escondido	92026
+Summit Hill Dr	Escondido	92027
+Summit Hill Dr	Lake Forest	92630
+Summit Hill Dr	Lake Forest	92630-0000
+Summit Hill Dr	Lake Forest	92630-6566
+Summit Hill Dr	Lake Forest	92630-6568
+Summit Hill Dr	Lake Forest	92630-6569
+Summit Hill Dr	Lake Forest	92630-6570
+Summit Hill Dr	Lake Forest	92630-6575
+Summit Hill Dr	Lake Forest	92630-6576
+Summit Hill Dr	Lake Forest	92630-6577
+Summit Hill Dr	Lake Forest	92630-6578
+Summit Hill Dr	Lake Forest	92630-7501
+Summit Hill Dr	Lake Forest	92630-7502
+Summit Hill Dr	Lake Forest	92630-7503
+Summit Hill Dr	Lake Forest	92630-7504
+Summit Hill Dr	Lake Forest	92630-7505
+Summit Hills Drive	Canyon Country	91387
+Summit Knoll Ct	Oak Park	91377
+Summit Knoll Road	Santa Clarita	91390
+Summit Lake Dr	Angwin	94508
+Summit Lake Rd	Big Bend	96011
+Summit Lake Rd	Burney	96013
+Summit Lakes Ct	Galt	95632
+Summit Lakes Way	Galt	95632
+Summit Lane	Atwater	95301
+Summit Ln	Berkeley	94708
+Summit Ln	Big Bear Lake	92315
+Summit Ln	Descanso	91916
+Summit Ln	El Cajon	92019
+Summit Ln	Escondido	92025
+Summit Ln	Granite Bay	95746
+Summit Ln	Indio	92203
+Summit Ln	Novato	94945
+Summit Ln	Oak Hills	92344
+Summit Ln	Rancho Cucamonga	91739
+Summit Ln	Santa Barbara	93108
+Summit Ln	Shaver Lake	93664
+Summit Meadow Rd	Bonita	91902
+Summit Mine Ct	Gold River	95670
+Summit Mountain Rd	Clovis	93619
+Summit-Mt Madonna Rd	Los Gatos	95033
+Summit Oak Dr	Lake Forest	92679
+Summit Oak Drive	Trabuco Canyon	92630
+Summit Park Cir	Murrieta	92562
+Summit Park Ct	El Cerrito	94530
+Summit Park Dr	Irvine	92603
+Summit Park Ln	El Cerrito	94530
+Summit Pass	Desert Hot Springs	92240
+Summit Peak Rd	Olympic Valley	96146
+Summit Pl	Cardiff By The Sea	92007
+Summit Pl	Escondido	92025
+Summit Pl	Jackson	95642
+Summit Pl	Laguna Beach	92651
+Summit Pl	Richmond	94801
+Summit Pl	Stockton	95207
+Summit Place	Beverly Hills	90210
+Summit Place	Monterey Park	91754
+Summit Place	Palmdale	93551
+Summit Point Ct	Bakersfield	93312
+Summit Point Drive	Los Angeles	90049
+Summit Point Way	San Marcos	92078
+Summit Pointe	Lake Forest	92630
+Summit Pt	Lake Forest	92630
+Summit Pt Way	San Marcos	92078
+Summit Ranch Rd	Alamo	94507
+Summit Rd	Alamo	94507
+Summit Rd	Berkeley	94708
+Summit Rd	Box Canyon	91304
+Summit Rd	Carnelian Bay	96140
+Summit Rd	Dulzura	91917
+Summit Rd	Fish Camp	93623
+Summit Rd	Gilroy	95020
+Summit Rd	Gilroy	95076
+Summit Rd	Lafayette	94549
+Summit Rd	Laguna Beach	92651
+Summit Rd	Lake Arrowhead	92352
+Summit Rd	Los Gatos	95033
+Summit Rd	Montecito	93108
+Summit Rd	Morgan Hill	95037
+Summit Rd	Oakhurst	93644
+Summit Rd	Paso Robles	93446
+Summit Rd	San Anselmo	94960
+Summit Rd	San Bruno	94066
+Summit Rd	Santa Barbara	93108
+Summit Rd	Santa Clara County E-SE	95020
+Summit Rd	Templeton	93465
+Summit Rd	Walnut Creek	94598
+Summit Rd	Watsonville	95076
+Summit Rd	Woodside	94062
+Summit Ridge	Riverside	92505
+Summit Ridge Cir	Moreno Valley	92557
+Summit Ridge Cir	Temecula	92590
+Summit Ridge Ct	San Jose	95148
+Summit Ridge Ct	Thousand Oaks	91362
+Summit Ridge Dr	Escondido	92027
+Summit Ridge Dr	Eureka	95503
+Summit Ridge Drive	Nevada City	95959
+Summit Ridge Drive	Walnut	91789
+Summit Ridge Pl	Redwood City	94062
+Summit Ridge Terr	Chico	95928
+Summit Ridge Way	San Diego	92120
+Summit Road	La Verne	91750
+Summit Road	Paradise Estates	93512
+Summit Road	Topanga	90290
+Summit Rock Ln	Murrieta	92563
+Summit Springs Rd	Woodside	94062
+Summit St	Auburn	95603
+Summit St	Elk Grove	95624
+Summit St	Eureka	95501
+Summit St	Jackson	95642
+Summit St	Menifee	92585
+Summit St	Oceanside	92054
+Summit St	Riverside	92504
+Summit St	San Francisco	94112
+Summit Station Rd	Arroyo Grande	93420
+Summit Street	Mammoth Lakes	93546
+Summit Ter	Vista	92083
+Summit To Summit Motorway	Topanga	90290
+Summit Trail	Lake Hughes	93532
+Summit Trail	Sylmar	91342
+Summit Trail	Topanga	90290
+Summit Trail Ct	Carlsbad	92010
+Summit Trail Rd	Chino Hills	91709
+Summit Trail Rd	Poway	92064
+Summit Trail Rd	Unincorporated	92679
+Summit Trl	Escondido	92025
+Summit Trl	Santa Rosa	95404
+Summit Trl	Vista	92083
+Summit Truck Trl	Hesperia	92344
+Summit Valley Rd	Hesperia	92345
+Summit View	Calimesa	92320
+Summit View Court	Canyon Country	91351
+Summit View Ct	Corona	92882
+Summit View Ct	Desert Hot Springs	92240
+Summit View Ct	Meadow Vista	95722
+Summit View Dr	Calimesa	92320
+Summit View Dr	Concord	94521
+Summit View Dr	San Ramon	94582
+Summit View Dr	Thousand Oaks	91362
+Summit View Drive	Canyon Country	91351
+Summit View Drive	Mccloud	96057
+Summit View Ln	Fair Oaks	95628
+Summit View Ln	Fortuna	95540
+Summit View Pl	Temecula	92592
+Summit View Ranch Rd	Santa Rosa	95404
+Summit View Rd	Thousand Oaks	91362
+Summit View St	Hesperia	92344
+Summit View Way	2	94531
+Summit Village Ln	Simi Valley	93063
+Summit Village Rd	Bakersfield	93306
+Summit Vista	Lake Forest	92630
+Summit Vista Dr	San Diego	92127
+Summit Vue Drive	Woodland Hills	91367
+Summit Vue Lane	Woodland Hills	91367
+Summit Way	Antioch	94509
+Summit Way	Delhi	95315
+Summit Way	Empire	95357
+Summit Way	Grass Valley	95949
+Summit Way	Indio	92203
+Summit Way	Laguna Beach	92651
+Summit Way	Los Gatos	95030
+Summit Way	Madera	93636
+Summit Way	Madera	93637
+Summit Way	Manteca	95336
+Summit Way	Petaluma	94952
+Summit Way	Redwood City	94062
+Summit Way	Sacramento	95820
+Summit Way	San Diego	92108
+Summit Way	San Francisco	94132
+Summit Way	Truckee	96161
+Summit Wood Ln	Meadow Vista	95722
+Summit Wood Rd	Los Altos Hills	94022
+Summit Woods	Los Gatos	95033
+Summit Wy	Manteca	95336
+Summitcrest	Rancho Santa Margarita	92679
+Summitpointe Cir	Corona	92881
+Summitridge Ct	Pittsburg	94565
+Summitridge Drive	Beverly Hills	90210
+Summitridge Drive	Diamond Bar	91765
+Summitridge Place	Beverly Hills	90210
+Summitrose Dr	Menifee	92584
+Summitrose Street	Sunland	91040
+Summitrose Street	Tujunga	91042
+Summitside Ln	Spring Valley	91977
+Summitview Court	Walnut	91789
+Summitview Dr	Fullerton	92833
+Summitview Lane	Palmdale	93551
+Summitview Ln	Chino Hills	91709
+Summitview Ln	Spring Valley	91977
+Summitville	Temecula	92592
+Summitville St	Temecula	92592
+Summitwood Rd	Los Altos Hills	94022
+Summoner Rd	Menifee	92585
+Summy Road	Meridian	95957
+Sumner	Aptos	95003
+Sumner	El Cajon	92021
+Sumner	Santa Cruz	95018
+Sumner	Santa Cruz	95060
+Sumner	Santa Cruz	95062
+Sumner Ave	Eastvale	92880
+Sumner Ave	El Cajon	92021
+Sumner Ave	Lake Elsinore	92530
+Sumner Ave	Napa	94558
+Sumner Ave	Ontario	91762
+Sumner Ave	Orange Cove	93646
+Sumner Ave	Reedley	93654
+Sumner Ave	San Francisco	94129
+Sumner Avenue	Avalon	90704
+Sumner Avenue	Claremont	91711
+Sumner Avenue	Los Angeles	90041
+Sumner Avenue	Pomona	91767
+Sumner Avenue	Santa Clarita	91350
+Sumner Ct	El Cajon	92021
+Sumner Dr	Saratoga	95070
+Sumner Ln	Santa Rosa	95405
+Sumner Pl	Cypress	90630
+Sumner Pl	El Cajon	92021
+Sumner Pl	Hayward	94541
+Sumner Pl	Orcutt	93455
+Sumner Pl	Santa Maria	93455
+Sumner St	Bakersfield	93305
+Sumner St	Lake Elsinore	92530
+Sumner St	San Francisco	94103
+Sumner Street	Yuba City	95991
+Sumner Way	Carmichael	95608
+Sumner Way	Culver City	90230
+Sumner Way	Oceanside	92058
+Sumo Cir	Garden Grove	92840
+Sumo Ct	Sacramento	95828
+Sumpul Way	Rancho Cordova	95742
+Sumter Ct	Thousand Oaks	91360
+Sumter Dr	Bakersfield	93304
+Sumter Dr	Fair Oaks	95628
+Sumter Drive	Los Angeles	90042
+Sumter Quay Ci	Stockton	95219
+Sumter St	Fontana	92336
+Sumter St	Fort Irwin	92310
+Sumter St	San Diego	92117
+Sumter Way	Tustin	92782
+Sumur Ln	Redding	96003

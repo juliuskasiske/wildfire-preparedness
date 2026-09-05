@@ -1,0 +1,71 @@
+Mojave	Irvine	92602
+Mojave Ave	Adelanto	92301
+Mojave Ave	Newberry Springs	92365
+Mojave Ave	Santa Rosa	95407
+Mojave Ave	Twentynine Palms	92277
+Mojave Bloom Row	Winchester	92596
+Mojave Court	Atwater	95301
+Mojave Court	Vacaville	95688
+Mojave Crossing Rd	Bakersfield	93313
+Mojave Ct	Aguanga	92536
+Mojave Ct	Anderson	96007
+Mojave Ct	Chico	95973
+Mojave Ct	Menifee	92585
+Mojave Ct	Walnut Creek	94598
+Mojave Desert Dr	Palm Desert	92211
+Mojave Dr	Adelanto	92301
+Mojave Dr	Barstow	92311
+Mojave Dr	Big River	92242
+Mojave Dr	Brentwood	94513
+Mojave Dr	Cabazon	92230
+Mojave Dr	Indio	92203
+Mojave Dr	Jurupa Valley	91752
+Mojave Dr	Morongo Valley	92256
+Mojave Dr	Phelan	92371
+Mojave Dr	Pinon Hills	92372
+Mojave Dr	Sacramento	95826
+Mojave Dr	San Jose	95120
+Mojave Dr	Victorville	92394
+Mojave Dr	Victorville	92395
+Mojave Drive	West Sacramento	95691
+Mojave Ln	Fort Irwin	92310
+Mojave Ln	Mission Viejo	92691
+Mojave Ln	Paso Robles	93446
+Mojave Ln	Victorville	92395
+Mojave Pointe	Baker	92309
+Mojave Ranch Rd	Joshua Tree	92252
+Mojave Rd	Adelanto	92301
+Mojave Rd	Daggett	92327
+Mojave Rd	Oak Hills	92344
+Mojave Rd	Twentynine Palms	92277
+Mojave Rd	Victorville	92394
+Mojave Red Ct	Menifee	92584
+Mojave River Rd	Cedarpines Park	92322
+Mojave Rose Ct	Murrieta	92563
+Mojave Sage St	Palm Desert	92211
+Mojave Sage St	Winchester	92596
+Mojave Scenic Dr	Wrightwood	92397
+Mojave St	Adelanto	92301
+Mojave St	Apple Valley	92308
+Mojave St	Hesperia	92345
+Mojave St	Lucerne Valley	92356
+Mojave St	San Francisco	94110
+Mojave St	Victorville	92392
+Mojave Tr	Kelseyville	95451
+Mojave Trail	Chatsworth	91311
+Mojave Trl	Helendale	92342
+Mojave Trl	Newberry Springs	92365
+Mojave View Cir	Corona	92882
+Mojave View Dr	Cedarpines Park	92322
+Mojave Way	Antioch	94531
+Mojave Way	Hollister	95023
+Mojeska Summit Rd	Corona	92883
+Mojica Way	La Grange	95329
+Mojo Ct	Newport Beach	92663
+Mojo Ln	Oakhurst	93644
+Mojo Ln	Redding	96002
+Mojo St	Hemet	92543
+Mojo Way	Hemet	92543
+Mojonera Ct	Los Gatos	95030
+Mojonera Ct	Los Gatos	95032
+Mojonnier Way	Wildomar	92595

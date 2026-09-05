@@ -1,0 +1,51 @@
+Mia Ave	Imperial	92251
+Mia Ave	Riverside	92503
+Mia Cir	San Jose	95136
+Mia Ct	Danville	94526
+Mia Ct	Fontana	92336
+Mia Ct	Redlands	92374
+Mia Dr	Newman	95360
+Mia Lane	Van Nuys	91405
+Mia Linda Ct	Granite Bay	95746
+Mia Loop	Yuba City	95993
+Mia Pl	Cathedral City	92234
+Mia Pl	Elk Grove	95758
+Mia Via	Dana Point	92624
+Mia Virginia Ct	Bakersfield	93312
+Mia Wy	Tracy	95376
+Miacarla Ln	Cottonwood	96022
+Miacomet Ct	Stockton	95215
+Miacomet Ct	Stockton	95219
+Miadora Court	Livingston	95334
+Miadora Ct	Modesto	95355
+Miami Ave	Bloomington	92316
+Miami Ave	Hayward	94545
+Miami Ave	Tahoma	96142
+Miami Ave	Westminster	92683
+Miami Cir	Indian Wells	92210
+Miami Cir	Westminster	92683
+Miami Court	Claremont	91711
+Miami Ct	San Diego	92117
+Miami Dr	San Jose	95122
+Miami Highlands Cir	Oakhurst	93644
+Miami Highlands Ct	Oakhurst	93644
+Miami Highlands Dr	Oakhurst	93644
+Miami Ln	Ventura	93004
+Miami Meadow Ln	Mariposa	95338
+Miami Mountain Rd	Fish Camp	93623
+Miami Mountain Rd	Mariposa	95338
+Miami Pl	Oakhurst	93644
+Miami Rd	Apple Valley	92307
+Miami St	Bakersfield	93306
+Miami St	Riverside	92506
+Miami St	Sacramento	95821
+Miami Street	Salinas	93905
+Miami Trl	Yucca Valley	92284
+Miami Way	Oakhurst	93644
+Miami Way	Pacific Palisades	90272
+Miami Way	San Diego	92117
+Mian St	Ferndale	95536
+Miano Court	Los Banos	93635
+Mias Canyon	Banning	92220
+Mias Canyon Rd	Banning	92220
+Miaterra Dr	Santa Rosa	95407

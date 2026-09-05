@@ -1,0 +1,12 @@
+88Th Place	Los Angeles	90002
+88Th Place	Los Angeles	90003
+88Th St	Colma	94015
+88Th St	Daly City	94015
+88Th St	Sacramento	95826
+88Th St	Sacramento	95828
+88Th Street	Los Angeles	90002
+88Th Street	Los Angeles	90003
+88Th Street	Los Angeles	90044
+88Th Street East	Lancaster	93535
+88Th Street East	Littlerock	93543
+88Th Street East	Palmdale	93552

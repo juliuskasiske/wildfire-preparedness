@@ -1,0 +1,42 @@
+34 33.414 N 115 44.697 W	Amboy	92304
+-34 Arreba St	Martinez	94553
+3443Golden Gate Way	Lafayette	94549
+34Th	San Diego	0
+34Th	Santa Cruz	95062
+34Th Ave	Blythe	92225
+34Th Ave	Cathedral City	92234
+34Th Ave	Clearlake	95422
+34Th Ave	Desert Hot Springs	92241
+34Th Ave	Palm Springs	92264
+34Th Ave	Sacramento	95822
+34Th Ave	Sacramento	95824
+34Th Ave	San Francisco	94116
+34Th Ave	San Francisco	94121
+34Th Ave	San Francisco	94122
+34Th Ave	San Francisco	94132
+34Th Place	Manhattan Beach	90266
+34Th St	Bakersfield	93301
+34Th St	Hermosa Beach	90254
+34Th St	Jurupa Valley	92509
+34Th St	Mcclellan	95652
+34Th St	Newport Beach	92663
+34Th St	North Highlands	95660
+34Th St	Paso Robles	93446
+34Th St	Richmond	94804
+34Th St	Richmond	94805
+34Th St	Sacramento	95816
+34Th St	Sacramento	95817
+34Th St	Sacramento	95820
+34Th St	San Diego	92102
+34Th St	San Diego	92104
+34Th St	San Diego	92116
+34Th St	San Jose	95116
+34Th Street	Hermosa Beach	90254
+34Th Street	Long Beach	90806
+34Th Street	Long Beach	90810
+34Th Street	Los Angeles	90011
+34Th Street	Los Angeles	90089
+34Th Street	Manhattan Beach	90266
+34Th Street	Santa Monica	90404
+34Th Street	Santa Monica	90405
+34Th Street West	Palmdale	93551

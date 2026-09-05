@@ -1,0 +1,325 @@
+Yuba	Irvine	92620
+Yuba Ave	El Cerrito	94530
+Yuba Ave	Oroville	95965
+Yuba Ave	San Jose	95117
+Yuba Ave	San Pablo	94806
+Yuba Ave	Westminster	92683
+Yuba Avenue	Nevada City	95959
+Yuba Cir	Huntington Beach	92646
+Yuba Cir	Huntington Beach	92646-5769
+Yuba Cir	Huntington Beach	92646-5770
+Yuba Cir	Huntington Beach	92646-5771
+Yuba Cir	Huntington Beach	92646-5772
+Yuba Cir	Huntington Beach	92646-8707
+Yuba Cir	Huntington Beach	92646-8708 
+Yuba Cir	Huntington Beach	92646-8709
+Yuba Cir	Huntington Beach	92646-8710 
+Yuba Cir	Huntington Beach	92646-8711
+Yuba Cir	Huntington Beach	92646-8712
+Yuba Cir	Huntington Beach	92646-8713
+Yuba Cir	Riverside	92503
+Yuba Cir	Temecula	92591
+Yuba Circle	Tulare	93274
+Yuba Close	Nevada City	95959
+Yuba Court	Suisun City	94585
+Yuba Crest Drive	Nevada City	95959
+Yuba Ct	Bay Point	94565
+Yuba Ct	Carmichael	95608
+Yuba Ct	Cold Springs	95335
+Yuba Ct	Long Barn	95335
+Yuba Ct	Rancho Cucamonga	91701
+Yuba Ct	San Bruno	94066
+Yuba Ct	Saratoga	95070
+Yuba Ct	Ventura	93004
+Yuba Dr	Mountain View	94041
+Yuba Dr	Santa Rosa	95407
+Yuba Dr	Soda Springs	95728
+Yuba Gap Drive	Soda Springs	95728
+Yuba Lane	Claremont	91711
+Yuba Nevada Road	Dobbins	95935
+Yuba Nevada Road	Dobbins	95962
+Yuba Pass Dr	Moreno Valley	92555
+Yuba Place	Woodland	95695
+Yuba Ranch Way	Oregon House	95962
+Yuba Rd	Phelan	92371
+Yuba Ridge Drive	Nevada City	95959
+Yuba Ridge Ln	Modesto	95354
+Yuba River Ave	Fountain Valley	92708
+Yuba River Cir	Sacramento	95831
+Yuba River Court	Grass Valley	95945
+Yuba River Ct	Indio	92203
+Yuba River Ct	Stockton	95206
+Yuba River Dr	Sonora	95370
+Yuba River Drive	Merced	95341
+Yuba St	Herlong	96113
+Yuba St	Hesperia	92345
+Yuba St	Nice	95464
+Yuba St	Redding	96001
+Yuba St	Richmond	94805
+Yuba Street	City Of Marysville	95901
+Yuba Street	Nicolaus	95659
+Yuba Street	Vallejo	94590
+Yuba Trail	Soda Springs	95728
+Yucaipa & 5Th NE	Yucaipa	92399
+Yucaipa Blvd	Yucaipa	92399
+Yucaipa Blvd & 1St St NW	Yucaipa	92399
+Yucaipa Creek Pl	Yucaipa	92399
+Yucaipa Creek Rd	Yucaipa	92399
+Yucaipa Ridge Rd	Yucaipa	92399
+Yucatan	Salinas	93905
+Yucatan Ave	Bakersfield	93314
+Yucatan Ave	Sacramento	95841
+Yucatan Avenue	Woodland Hills	91364
+Yucatan Ct	Moreno Valley	92557
+Yucatan Place	Cerritos	90703
+Yucatan Place	Diamond Bar	91765
+Yucatan Rd	Phelan	92371
+Yucatan Trl	Shasta	96087
+Yucatan Way	Fallbrook	92028
+Yucatan Way	Salinas	93905
+Yucatan Way	San Jose	95118
+Yucateca St	Perris	92570
+Yucca	El Centro	92243
+Yucca	Fillmore	93015
+Yucca	Hesperia	92345
+Yucca	Imperial	92251
+Yucca	Oxnard	93033
+Yucca	Santa Cruz	95062
+Yucca Ave	Barstow	92311
+Yucca Ave	El Centro	92243
+Yucca Ave	Fontana	92335
+Yucca Ave	Ful	92835
+Yucca Ave	Fullerton	92835
+Yucca Ave	Imperial	92251
+Yucca Ave	Irvine	92606
+Yucca Ave	Nuevo	92567
+Yucca Ave	Rialto	92376
+Yucca Ave	San Diego	92117
+Yucca Ave	San Jose	95124
+Yucca Ave	Twentynine Palms	92277
+Yucca Ave	Victorville	92395
+Yucca Avenue	Lancaster	93534
+Yucca Blossom Dr	Palm Desert	92211
+Yucca Blossom Ln	Yucca Valley	92284
+Yucca Blossom St	Palm Desert	92211
+Yucca Blvd	El Centro	92243
+Yucca Cir	Fountain Valley	92708
+Yucca Cir	Huntington Beach	92647
+Yucca Cir	Huntington Beach	92647-2331
+Yucca Cir	Twentynine Palms	92277
+Yucca Circle	La Verne	91750
+Yucca Circle Drive	Llano	93544
+Yucca Ct	Calimesa	92320
+Yucca Ct	Gilroy	95020
+Yucca Ct	Oxnard	93033
+Yucca Ct	Palm Desert	92260
+Yucca Ct	San Ramon	94583
+Yucca Dr	Big Bear City	92314
+Yucca Dr	Blythe	92225
+Yucca Dr	Camarillo	93012
+Yucca Dr	Campo	91906
+Yucca Dr	Corona	92882
+Yucca Dr	Desert Hot Springs	92240
+Yucca Dr	El Centro	92243
+Yucca Dr	Fillmore	93015
+Yucca Dr	Fontana	92337
+Yucca Dr	Indian Wells	92210
+Yucca Dr	Julian	92036
+Yucca Dr	Lake Elsinore	92532
+Yucca Dr	Moreno Valley	92553
+Yucca Dr	Palm Springs	92264
+Yucca Dr	Riverside	92505
+Yucca Dr	San Bernardino	92404
+Yucca Hill Dr	Alpine	91901
+Yucca Hill Rd	Alpine	91901
+Yucca Hills Road	Santa Clarita	91390
+Yucca House Way	Fontana	92337
+Yucca Lane	Altadena	91001
+Yucca Lane	Pasadena	91103
+Yucca Ln	Carpinteria	93013
+Yucca Ln	El Centro	92243
+Yucca Ln	Hemet	92545
+Yucca Ln	Homeland	92548
+Yucca Ln	Indio	92203
+Yucca Ln	Mountain Center	92561
+Yucca Ln	Thousand Oaks	91362
+Yucca Loma Rd	Apple Valley	92307
+Yucca Mesa Rd	Joshua Tree	92252
+Yucca Mesa Rd	Landers	92284
+Yucca Mesa Rd	Landers	92285
+Yucca Mesa Rd	Yucca Mesa	92284
+Yucca Mesa Rd	Yucca Valley	92284
+Yucca Park Rd	Morongo Valley	92256
+Yucca Pl	Palm Springs	92264
+Yucca Place	Castaic	91384
+Yucca Place	Glendora	91740
+Yucca Ranch Rd	Landers	92285
+Yucca Rd	Adelanto	92301
+Yucca Rd	Anza	92539
+Yucca Rd	Apple Valley	92307
+Yucca Rd	Bolinas	94924
+Yucca Rd	Descanso	91916
+Yucca Rd	El Mirage	92301
+Yucca Rd	Fallbrook	92028
+Yucca Rd	Madera	93638
+Yucca Rd	Mountain Center	92561
+Yucca Rd	Newberry Springs	92365
+Yucca Rd	Oceanside	92054
+Yucca Rd	Perris	92570
+Yucca Rd	Pinon Hills	92372
+Yucca Ridge Ln	San Marcos	92069
+Yucca Ridge Road	Glendora	91741
+Yucca St	Anza	92539
+Yucca St	Apple Valley	92308
+Yucca St	Buena Park	90621
+Yucca St	El Centro	92243
+Yucca St	Hesperia	92345
+Yucca St	Imperial	92251
+Yucca St	Imperial	92275
+Yucca St	Indio	92201
+Yucca St	Indio	92203
+Yucca St	Jamul	91935
+Yucca St	Lucerne Valley	92308
+Yucca St	Lucerne Valley	92356
+Yucca St	Menifee	92584
+Yucca St	Nuevo	92567
+Yucca St	Ocotillo	92259
+Yucca St	Oxnard	93033
+Yucca St	Perris	92570
+Yucca St	Port Hueneme	93041
+Yucca St	Santa Rosa	95405
+Yucca St	Santee	92071
+Yucca St	Temecula	92592
+Yucca St	Thousand Oaks	91362
+Yucca St	Trona	93562
+Yucca St	Wildomar	92584
+Yucca Street	El Segundo	90245
+Yucca Street	Los Angeles	90028
+Yucca Ter	Fallbrook	92028
+Yucca Terrace Dr	Oak Hills	92344
+Yucca Terrace Dr	Phelan	92371
+Yucca Terrace Dr	Pinon Hills	92372
+Yucca Trail	Los Angeles	90046
+Yucca Trail	Sierra Madre	91024
+Yucca Tree Dr	Palm Desert	92260
+Yucca Tree Street	Palmdale	93551
+Yucca Trl	Escondido	92026
+Yucca Trl	Mountain Center	92561
+Yucca Trl	Yucca Valley	92284
+Yucca Valley Rd	Anza	92539
+Yucca Valley Road	Valencia	91355
+Yucca Vista Ave	Yucca Valley	92284
+Yucca Way	Camarillo	93012
+Yucca Way	Fallbrook	92028
+Yucca Way	North Highlands	95660
+Yucca Way	Placer One	95747
+Yucca Wy	Clearlake Oaks	95423
+Yugen	Irvine	92618
+Yuhaaviatam Rd	Highland	92346
+Yuhnke Ln	Chico	95973
+Yuhre Ct	Elk Grove	95758
+Yuki Ct	Big River	92242
+Yuki Ct	Kelseyville	95451
+Yuki Ln	Carlsbad	92008
+Yuki Yama Ln	Palo Cedro	96073
+Yuki Yama Ln	Redding	96003
+Yukon Ave	Bakersfield	93308
+Yukon Ave	Costa Mesa	92626
+Yukon Ave	Perris	92571
+Yukon Ave	Simi Valley	93063
+Yukon Avenue	Hawthorne	90250
+Yukon Avenue	Inglewood	90303
+Yukon Avenue	Lawndale	90260
+Yukon Avenue	Torrance	90504
+Yukon Cir	Costa Mesa	92626
+Yukon Cir	Fontana	92336
+Yukon Court	Plumas Lake	95961
+Yukon Court	Tulare	93274
+Yukon Court	Vallejo	94589
+Yukon Ct	Hemet	92544
+Yukon Ct	Lake Arrowhead	92352
+Yukon Ct	Murrieta	92562
+Yukon Ct	Rio Linda	95673
+Yukon Ct	Roseville	95747
+Yukon Dr	Green Valley Lake	92341
+Yukon Dr	Huntington Beach	92648
+Yukon Dr	Huntington Beach	92648-1447
+Yukon Dr	Huntington Beach	92648-1448
+Yukon Dr	Huntington Beach	92648-1450
+Yukon Dr	Lake Arrowhead	92352
+Yukon Dr	Modesto	95350
+Yukon Dr	San Jacinto	92582
+Yukon Dr	Santa Rosa	95409
+Yukon Dr	Sunnyvale	94087
+Yukon Pl	Novato	94947
+Yukon Rd	Newberry Springs	92365
+Yukon Rd	Rialto	92377
+Yukon River Ave	Bakersfield	93311
+Yukon River Way	Rancho Cordova	95670
+Yukon St	Concord	94520
+Yukon St	Redlands	92374
+Yukon St	San Diego	92129
+Yukon St	San Francisco	94114
+Yukon St	Simi Valley	93063
+Yukon Street	Davis	95616
+Yukon Ter	Sunnyvale	94087
+Yukon Territory Av	Manteca	95337
+Yukon Territory Ave	Manteca	95337
+Yukon Trail	Canoga Park	91304
+Yukon Way	Nevada City	95959
+Yukon Way	Novato	94947
+Yukon Way	Poway	92064
+Yukon Way	Riverside	92505
+Yukonite Pl	Oxnard	93030
+Yula Way	Oakley	94561
+Yule Tree Ln	Sebastopol	95472
+Yule Tree Way	Manton	96059
+Yuletide Ave	Redding	96003
+Yuloni Dr	Lodi	95240
+Yulupa Ave	Santa Rosa	95405
+Yulupa Cir	Santa Rosa	95405
+Yuma Ave	Big River	92242
+Yuma Ave	Oceanside	92057
+Yuma Ave	Salton City	92274
+Yuma Cir	Sacramento	95827
+Yuma Court	Palmdale	93551
+Yuma Court	San Dimas	91773
+Yuma Court	Vacaville	95688
+Yuma Ct	Apple Valley	92307
+Yuma Ct	Ione	95640
+Yuma Ct	Moreno Valley	92557
+Yuma Ct	Riverside	92506
+Yuma Ct	Roseville	95747
+Yuma Ct	Santa Rosa	95403
+Yuma Ct	Stockton	95205
+Yuma Ct	Ventura	93001
+Yuma Ct	Walnut Creek	94598
+Yuma Dr	San Jose	95111
+Yuma Glen	Escondido	92026
+Yuma Gln	Escondido	92026
+Yuma Ln	Temecula	92592
+Yuma Pl	Westminster	92683
+Yuma Place	Los Angeles	90046
+Yuma Rd	Apple Valley	92307
+Yuma Rd	Julian	92036
+Yuma St	Santa Rosa	95403
+Yuma St	Simi Valley	93063
+Yuma St	Victorville	92395
+Yuma Terrace Ct	Eastvale	92880
+Yuma Trl	Yucca Valley	92284
+Yuma Way	Bakersfield	93308
+Yuma Way	Ful	92835
+Yuma Way	Fullerton	92835
+Yumi Way	Sacramento	95829
+Yunis Ct	Yucaipa	92399
+Yura Wy	Roseville	95661
+Yurok Cir	San Jose	95123
+Yurok Ct	San Jose	95123
+Yurok Ct	Simi Valley	93063
+Yurok Place	West Sacramento	95691
+Yuste Ln	Hollister	95023
+Yute Trl	Joshua Tree	92252
+Yuul Cir	San Jacinto	92582
+Yuzu St	Corona	92883
+Yuzu St	Spring Valley	91977
+Yuzu Way	Redlands	92374

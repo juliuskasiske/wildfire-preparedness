@@ -1,0 +1,405 @@
+San Madele Ave	Coalinga	93210
+San Madina Ct	Hanford	93230
+San Madina Dr	Hanford	93230
+San Madina Pl	Hanford	93230
+San Maiz St	Fountain Valley	92708
+San Malo Bch	Oceanside	92054
+San Manuel Blvd	Highland	92346
+San Manuel Blvd N	Highland	92346
+San Manuel Blvd S	Highland	92346
+San Marcello Cir	Buena Park	90620
+San Marco	Aliso Viejo	92656
+San Marco	Newport Beach	92660
+San Marco Ave	Madera	93637
+San Marco Ave	San Bruno	94066
+San Marco Ave	Temecula	92592
+San Marco Circle	Los Angeles	90068
+San Marco Ct	Manteca	95337
+San Marco Ct	Stockton	95212
+San Marco Dr	Modesto	95355
+San Marco Dr	Stockton	95212
+San Marco Dr	Temecula	92592
+San Marco Drive	Long Beach	90803
+San Marco Drive	Los Angeles	90068
+San Marco Pl	Bakersfield	93314
+San Marco Pl	Hemet	92544
+San Marco Pl	San Ramon	94583
+San Marco Street	Fairfield	94533
+San Marco Street	Vacaville	95687
+San Marco Street	West Sacramento	95691
+San Marco Way	American Canyon	94503
+San Marco Way	Newman	95360
+San Marco Way	Palm Springs	92262
+San Marcos	Desert Hot Springs	92240
+San Marcos	Mission Viejo	92692
+San Marcos Av	Los Olivos	93441
+San Marcos Ave	Redlands	92374
+San Marcos Ave	Riverside	92504
+San Marcos Ave	San Diego	92104
+San Marcos Ave	San Francisco	94116
+San Marcos Blvd	San Marcos	92069
+San Marcos Blvd	San Marcos	92078
+San Marcos Blvd	Vista	92081
+San Marcos Blvd W	San Marcos	92078
+San Marcos Cir	Mountain View	94043
+San Marcos Court	Salinas	93901
+San Marcos Ct	Adelanto	92301
+San Marcos Ct	Atascadero	93422
+San Marcos Ct	Concord	94518
+San Marcos Ct	Morgan Hill	95037
+San Marcos Ct	Novato	94945
+San Marcos Ct	Rocklin	95765
+San Marcos Ct	San Jose	95132
+San Marcos Ct	San Luis Obispo	93401
+San Marcos Ct	Santa Barbara Unincorporated	93111
+San Marcos Ct	Thousand Oaks	91320
+San Marcos Dr	Hemet	92543
+San Marcos Dr	Hemet	92545
+San Marcos Dr	Loma Linda	92354
+San Marcos Dr	Pittsburg	94565
+San Marcos Dr	San Jose	95132
+San Marcos Dr	Santa Rosa	95403
+San Marcos Dr	Stanton	90680
+San Marcos Dr	Temecula	92592
+San Marcos Drive	Pasadena	91107
+San Marcos Drive	Salinas	93901
+San Marcos Lane	Duarte	91010
+San Marcos Pass Rd	Ballard	93460
+San Marcos Pass Rd	Los Padres National Forest	93105
+San Marcos Pass Rd	Los Padres National Forest	93110
+San Marcos Pass Rd	San Marcos Pass/Kinevan	93105
+San Marcos Pass Rd	San Marcos Trout Club	93105
+San Marcos Pass Rd	Santa Barbara Unincorporated	93105
+San Marcos Pass Rd	Santa Barbara Unincorporated	93110
+San Marcos Pass Rd	Santa Barbara Unincorporated	93460
+San Marcos Pl	Chino	91710
+San Marcos Pl	Chula Vista	91911
+San Marcos Pl	Ful	92835
+San Marcos Pl	Fullerton	92835
+San Marcos Pl	Hemet	92544
+San Marcos Pl	San Jacinto	92583
+San Marcos Pl	San Rafael	94901
+San Marcos Place	Claremont	91711
+San Marcos Place	Los Angeles	90042
+San Marcos Rd	Atascadero	93422
+San Marcos Rd	Lucerne	95458
+San Marcos Rd	Paso Robles	93446
+San Marcos Rd	Saratoga	95070
+San Marcos Road	Carmel	93923
+San Marcos Road	Pebble Beach	93953
+San Marcos Road	San Dimas	91773
+San Marcos St	Fountain Valley	92708
+San Marcos St	Ventura	93001
+San Marcos St	Victorville	92392
+San Marcos Street	San Gabriel	91776
+San Marcos Ter	Sunnyvale	94085
+San Marcos Tr	Lucerne	95458
+San Marcos Trout Club	San Marcos Trout Club	93105
+San Marcos Way	Buena Park	90620
+San Marcos Way	North Highlands	95660
+San Marcos Way	Palm Springs	92262
+San Marcos Way	Santa Clara	95051
+San Marcos Wy	Santa Clara	95051
+San Marcus	Desert Hot Springs	92240
+San Marcus Dr	Hemet	92543
+San Marcus Drive	Vallejo	94590
+San Marcus Lane	Duarte	91010
+San Marcus Rd	Desert Hot Springs	92240
+San Marcus Street	Paramount	90723
+San Mardo Ave	San Jose	95127
+San Marin Dr	Novato	94945
+San Marin Ln	Sacramento	95835
+San Marino	Irvine	92614
+San Marino Ave	Hesperia	92344
+San Marino Ave	Salton City	92274
+San Marino Ave	San Jose	95127
+San Marino Ave	Ventura	93003
+San Marino Avenue	Montebello	90640
+San Marino Avenue	Paramount	90723
+San Marino Avenue	Pasadena	91107
+San Marino Avenue	San Marino	91108
+San Marino Avenue	Vallejo	94589
+San Marino Cir	Buena Park	90620
+San Marino Cir	Costa Mesa	92626
+San Marino Cir	Fountain Valley	92708
+San Marino Cir	Palm Desert	92260
+San Marino Cir	Rancho Mirage	92270
+San Marino Court	Newhall	91321
+San Marino Court	Tulare	93274
+San Marino Ct	Corona	92881
+San Marino Ct	Elk Grove	95758
+San Marino Ct	Hanford	93230
+San Marino Ct	La Quinta	92253
+San Marino Ct	Mission Viejo	92692
+San Marino Ct	Morgan Hill	95037
+San Marino Ct	Placentia	92870
+San Marino Ct	San Rafael	94901
+San Marino Ct	Walnut Creek	94598
+San Marino Dr	Bakersfield	93309
+San Marino Dr	Buena Park	90620
+San Marino Dr	Petaluma	94954
+San Marino Dr	Salida	95368
+San Marino Dr	San Marcos	92078
+San Marino Dr	San Rafael	94901
+San Marino Dr	Santa Barbara Unincorporated	93111
+San Marino Dr	Ventura	93003
+San Marino Dr	Yucca Valley	92284
+San Marino Drive	Davis	95618
+San Marino Ln	Brentwood	94513
+San Marino Ln	Hemet	92544
+San Marino Oaks	San Gabriel	91775
+San Marino Oaks Avenue	San Gabriel	91775
+San Marino Pl	Chula Vista	91914
+San Marino Pl	San Rafael	94901
+San Marino Rd	Palm Springs	92262
+San Marino St	Hemet	92545
+San Marino St	Oxnard	93033
+San Marino St	Rancho Cucamonga	91730
+San Marino St	Salton City	92274
+San Marino Street	Los Angeles	90006
+San Marino Street	Los Angeles	90019
+San Marino Way	Palm Desert	92260
+San Marino Way	Rancho Cucamonga	91739
+San Marino Way	Salinas	93901
+San Mario Dr	Solana Beach	92075
+San Marlo Way	Pacifica	94044
+San Marque Cir	Carmichael	95608
+San Martin Cir	Palm Springs	92264
+San Martin Court	Merced	95348
+San Martin Ct	Rancho Cucamonga	91737
+San Martin Ct	Salida	95368
+San Martin Dr	Bakersfield	93307
+San Martin Dr	Big Bear City	92314
+San Martin Dr	Modesto	95358
+San Martin Dr	Salida	95368
+San Martin Pl	Chino	91710
+San Martin Pl	Los Altos	94024
+San Martin Pl	Redding	96003
+San Martin Pl	Thousand Oaks	91360
+San Martin Rd	Victorville	92392
+San Martin St	Cathedral City	92234
+San Martin St	North Highlands	95660
+San Martin Ter	Sunnyvale	94085
+San Martin Way	Antioch	94531
+San Martin Way	Buena Park	90620
+San Martin Way	Newport Beach	92625
+San Martin Wy	Santa Barbara	93110
+San Martine Way	San Diego	92130
+San Martinez Grande Canyo Road	Castaic	91384
+San Martinez Grande Canyon Road	Castaic	91384
+San Martinez Road	Castaic	91384
+San Martino Ct	San Jose	95126
+San Martino Wy	Lodi	95240
+San Mateo	Rancho Santa Margarita	92688
+San Mateo Av	Goleta	93117
+San Mateo Ave	Burlingame	94010
+San Mateo Ave	Cantua Creek	93608
+San Mateo Ave	Carmel	93923
+San Mateo Ave	Coachella	92236
+San Mateo Ave	Coalinga	93210
+San Mateo Ave	Los Alamitos	90720
+San Mateo Ave	Los Gatos	95030
+San Mateo Ave	Redwood City	94063
+San Mateo Ave	Riverside	92504
+San Mateo Ave	San Bruno	94066
+San Mateo Ave	South San Francisco	94080
+San Mateo Ave	Ventura	93004
+San Mateo Avenue	Carmel	93923
+San Mateo Avenue	Palmdale	93551
+San Mateo Canyon Rd	Fallbrook	92028
+San Mateo Cir	Buena Park	90620
+San Mateo Cir	Corona	92882
+San Mateo Cir	Hemet	92543
+San Mateo Cir	Palm Springs	92264
+San Mateo Court	Merced	95348
+San Mateo Ct	Concord	94518
+San Mateo Ct	Fontana	92336
+San Mateo Ct	Rohnert Park	94928
+San Mateo Ct	Sacramento	95822
+San Mateo Ct	San Rafael	94903
+San Mateo Ct	Sunnyvale	94085
+San Mateo Dr	Bakersfield	93307
+San Mateo Dr	Cathedral City	92234
+San Mateo Dr	Half Moon Bay	94019
+San Mateo Dr	Hemet	92544
+San Mateo Dr	Loma Linda	92354
+San Mateo Dr	Menlo Park	94025
+San Mateo Dr	Palm Springs	92264
+San Mateo Dr	San Diego	92114
+San Mateo Dr	San Luis Obispo	93401
+San Mateo Drive	Salinas	93901
+San Mateo Drive	Vallejo	94590
+San Mateo Ln	Brisbane	94005
+San Mateo Pl	Oxnard	93033
+San Mateo Pl	Rancho Cucamonga	91701
+San Mateo Place	Salinas	93901
+San Mateo Point Ct	Chula Vista	91911
+San Mateo Rd	Berkeley	94707
+San Mateo Rd	Half Moon Bay	94019
+San Mateo Rd	Half Moon Bay	94062
+San Mateo Rd	Mendota	93640
+San Mateo Rd	Other	94019
+San Mateo Rd	Oxnard	93033
+San Mateo St	Avenal	93204
+San Mateo St	Chino	91710
+San Mateo St	El Cerrito	94530
+San Mateo St	Fountain Valley	92708
+San Mateo St	Oceanside	92058
+San Mateo St	Oxnard	93033
+San Mateo St	Richmond	94804
+San Mateo Street	Fairfield	94533
+San Mateo Street	Paramount	90723
+San Mateo Way	Coachella	92236
+San Mateo Way	Hemet	92544
+San Mateo Way	Modesto	95358
+San Mateo Way	Newport Beach	92625
+San Mateo Way	Novato	94945
+San Mateo Way	Sacramento	95822
+San Michel Dr E	Costa Mesa	92627
+San Michel Dr N	Costa Mesa	92627
+San Michel Dr S	Costa Mesa	92627
+San Michel Dr W	Costa Mesa	92627
+San Michele	Chowchilla	93610
+San Michele	Laguna Niguel	92677
+San Michele Court	Palmdale	93550
+San Michele Dr	Salida	95368
+San Michele Dr Dr	Concord	94520
+San Michele Rd	Moreno Valley	92551
+San Michelle Ct	Concord	94520
+San Michelle Dr	Concord	94520
+San Miguel	Bonita	91902
+San Miguel	Coto De Caza	92679
+San Miguel	Desert Hot Springs	92240
+San Miguel	Lake Elsinore	92530
+San Miguel	Lake Forest	92630
+San Miguel	Lake Forest	92630-7027
+San Miguel	Mission Viejo	92692
+San Miguel	Palm Springs	92264
+San Miguel	Palos Verdes Peninsula	90274
+San Miguel	Port Hueneme	93041
+San Miguel	Soledad	93960
+San Miguel Av	Santa Barbara	93109
+San Miguel Av	Santa Clara	95050
+San Miguel Av	Stockton	95210
+San Miguel Ave	Berkeley	94707
+San Miguel Ave	Bonita	91902
+San Miguel Ave	Chula Vista	91914
+San Miguel Ave	Daly City	94015
+San Miguel Ave	Lemon Grove	91945
+San Miguel Ave	San Bernardino	92407
+San Miguel Ave	San Diego	92113
+San Miguel Ave	San Diego	92114
+San Miguel Ave	San Luis Obispo	93405
+San Miguel Ave	Santa Clara	95050
+San Miguel Ave	Santa Rosa	95403
+San Miguel Ave	Spring Valley	91977
+San Miguel Ave	Sunnyvale	94085
+San Miguel Avenue	Los Banos	93635
+San Miguel Avenue	Lynwood	90262
+San Miguel Avenue	Salinas	93901
+San Miguel Avenue	South Gate	90280
+San Miguel Avenue	Venice	90291
+San Miguel Canyon	Royal Oaks	95076
+San Miguel Canyon	Salinas	93907
+San Miguel Canyon Road	Royal Oaks	95076
+San Miguel Canyon Road	Salinas	93907
+San Miguel Cir	Buena Park	90620
+San Miguel Cir	Pittsburg	94565
+San Miguel Cir	Placentia	92870
+San Miguel Cir	Port Hueneme	93041
+San Miguel Cir	Thousand Oaks	91360
+San Miguel Circle	Salinas	93901
+San Miguel Court	Manhattan Beach	90266
+San Miguel Ct	Antioch	94509
+San Miguel Ct	Bonita	91902
+San Miguel Ct	Chico	95973
+San Miguel Ct	Chula Vista	91911
+San Miguel Ct	Concord	94518
+San Miguel Ct	Fairfax	94930
+San Miguel Ct	Fountain Valley	92708
+San Miguel Ct	Guadalupe	93434
+San Miguel Ct	Milpitas	95035
+San Miguel Ct	Novato	94945
+San Miguel Ct	Oceanside	92057
+San Miguel Ct	Riverside	92508
+San Miguel Ct	Rocklin	95765
+San Miguel Ct	Rohnert Park	94928
+San Miguel Ct	Roseville	95747
+San Miguel Ct	San Pablo	94806
+San Miguel Cyn Rd	Royal Oaks	95076
+San Miguel Dr	23	94575
+San Miguel Dr	Beaumont	92223
+San Miguel Dr	Camarillo	93010
+San Miguel Dr	Chula Vista	91911
+San Miguel Dr	Corona	92879
+San Miguel Dr	Ful	92835
+San Miguel Dr	Fullerton	92835
+San Miguel Dr	Morgan Hill	95037
+San Miguel Dr	Newport Beach	92625
+San Miguel Dr	Newport Beach	92660
+San Miguel Dr	Victorville	92394
+San Miguel Dr	Walnut Creek	94596
+San Miguel Drive	Arcadia	91007
+San Miguel Drive	Lancaster	93535
+San Miguel Ln	Foster City	94404
+San Miguel Ln	Modesto	95355
+San Miguel Pl	Manteca	95336
+San Miguel Pl	Rancho Cucamonga	91730
+San Miguel Pl	San Ramon	94583
+San Miguel Pl	Santa Rosa	95403
+San Miguel Ranch Rd	Chula Vista	91914
+San Miguel Rd	Atascadero	93422
+San Miguel Rd	Bonita	91902
+San Miguel Rd	Chula Vista	91914
+San Miguel Rd	Concord	94518
+San Miguel Rd	Desert Hot Springs	92240
+San Miguel Rd	Madera	93636
+San Miguel Rd	Santa Rosa	95403
+San Miguel Road	Pasadena	91105
+San Miguel Road	Royal Oaks	95076
+San Miguel Road	Vallejo	94590
+San Miguel Road	Walnut	91789
+San Miguel St	Avila Beach	93424
+San Miguel St	Escalon	95320
+San Miguel St	Gilroy	95020
+San Miguel St	Lake Elsinore	92530
+San Miguel St	San Francisco	94112
+San Miguel St	Spring Valley	91977
+San Miguel St	Victorville	92392
+San Miguel St	Yountville	94599
+San Miguel Street	Paramount	90723
+San Miguel Street	Soledad	93960
+San Miguel Street	West Sacramento	95691
+San Miguel Street	Woodland Hills	91364
+San Miguel Way	Bakersfield	93306
+San Miguel Way	Bonita	91902
+San Miguel Way	Davis	95618
+San Miguel Way	Hemet	92544
+San Miguel Way	Merced	95340
+San Miguel Way	Montclair	91763
+San Miguel Way	Novato	94945
+San Miguel Way	Sacramento	95819
+San Miguel Way	San Carlos	94070
+San Miguel Way	San Jose	95111
+San Miguel Way	San Mateo	94403
+San Miguel Way	Santa Paula	93060
+San Miguel Way	Victorville	92394
+San Miguel Wy	Santa Paula	93060
+San Miguelito	San Diego	92154
+San Miguelito	Thousand Palms	92276
+San Miguelito Dr	Thousand Palms	92276
+San Miguelito Rd	Santa Barbara Unincorporated	93436
+San Mil Rd	Santa Ynez	93463
+San Milano Dr	Goleta	93117
+San Mina Ct	Chino	91710
+San Minete Ct	San Jose	95148
+San Miniato Ave	Bakersfield	93312
+San Miniso Cir	Fountain Valley	92708
+San Miquelito Dr	Thousand Palms	92276
+San Moritz	Poway	92064
+San Moritz Avenue	Merced	95348
+San Moritz Ct	Crestline	92407
+San Moritz Dr	Crestline	92325
+San Moritz Dr	San Jose	95132
+San Moritz Ln	Ceres	95307
+San Moritz Way	Crestline	92325

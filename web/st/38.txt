@@ -1,0 +1,39 @@
+38Th	Capitola	95010
+38Th	Capitola	95062
+38Th	Santa Cruz	95010
+38Th	Santa Cruz	95060
+38Th	Santa Cruz	95062
+38Th	Santa Cruz	95073
+38Th	Santa Cruz	SANTA
+38Th Ave	Clearlake	95422
+38Th Ave	Indio	92203
+38Th Ave	Palm Desert	92211
+38Th Ave	Sacramento	95822
+38Th Ave	Sacramento	95824
+38Th Ave	San Francisco	94116
+38Th Ave	San Francisco	94121
+38Th Ave	San Francisco	94122
+38Th Ave	Thousand Palms	92276
+38Th Place	Long Beach	90803
+38Th Place	Los Angeles	90062
+38Th Place	Manhattan Beach	90266
+38Th St	Bakersfield	93301
+38Th St	Jurupa Valley	92509
+38Th St	Newport Beach	92663
+38Th St	Paso Robles	93446
+38Th St	Richmond	94805
+38Th St	Sacramento	95816
+38Th St	Sacramento	95817
+38Th St	Sacramento	95820
+38Th St	San Diego	92102
+38Th St	San Diego	92105
+38Th St	San Diego	92113
+38Th St	San Diego	92116
+38Th Street	Los Angeles	90011
+38Th Street	Los Angeles	90037
+38Th Street	Manhattan Beach	90266
+38Th Street East	Lancaster	93535
+38Th Street East	Palmdale	93550
+38Th Street West	Lancaster	93536
+38Th Street West	Palmdale	93551
+38Thave	Santa Cruz	95062

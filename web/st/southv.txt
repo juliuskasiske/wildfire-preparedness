@@ -1,0 +1,29 @@
+Southview	Los Gatos	95033
+Southview	Santa Cruz	95060
+Southview Ave	Arroyo Grande	93420
+Southview Cir	Chula Vista	91910
+Southview Cir	Paso Robles	93446
+Southview Cir	Ventura	93003
+Southview Court	Palmdale	93550
+Southview Ct	Belmont	94002
+Southview Ct	Chula Vista	91910
+Southview Ct	Citrus Heights	95610
+Southview Ct	Redding	96001
+Southview Ct	San Jose	95138
+Southview Dr	Alamo	94507
+Southview Dr	Bickford Ranch	95648
+Southview Dr	Oroville	95966
+Southview Dr	Petaluma	94954
+Southview Dr	San Diego	92117
+Southview Dr	San Jose	95138
+Southview Dr	Ybl	92887
+Southview Dr	Yorba Linda	92887
+Southview Lane	Carmel Valley	93924
+Southview Ln	Alamo	94507
+Southview Pl	Indio	92201
+Southview Place	Pomona	91766
+Southview Road	Arcadia	91007
+Southview Road	San Gabriel	91775
+Southview Ter	San Anselmo	94960
+Southview Way	Redwood City	94062
+Southview Way	Woodside	94062

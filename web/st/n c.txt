@@ -1,0 +1,1036 @@
+N C	Imperial	92251
+N C	Westmorland	92281
+N C Ave	Imperial	92251
+N C Butte Rd	Gridley	95948
+N C Ct	Lompoc	93436
+N C & D Blvd	Blythe	92225
+N C St	Imperial	92251
+N C St	Lompoc	93436
+N C St	Madera	93637
+N C St	Madera	93638
+N C St	Oxnard	93030
+N C St	Oxnard	93036
+N C St	Perris	92570
+N C St	Sacramento	95811
+N C St	Stockton	95205
+N C St	Tracy	95376
+N C St	Tustin	92780
+N C St	Westmorland	92281
+N C St 1/2	Madera	93638
+N C St Or 301 E 5Th	Westmorland	92281
+N C St Or 301 E 6Th	Westmorland	92281
+N Caballo Way	Santa Maria	93458
+N Caballo Wy	Santa Maria	93458
+N Cabernet Pl	Hanford	93230
+N Cable Canyon Pl	Bre	92821
+N Cable Canyon Pl	Brea	92821
+N Cable Canyon Rd	San Bernardino	92407
+N Cabot Ct	Thousand Oaks	91360
+N Cabrera Ave	San Bernardino	92411
+N Cabrillo Dr	Chula Vista	91910
+N Cabrillo Hwy	El Granada	94019
+N Cabrillo Hwy	Half Moon Bay	94019
+N Cabrillo Hwy	Montara	94037
+N Cabrillo Hwy	Montara	94038
+N Cabrillo Hwy	Moss Beach	94037
+N Cabrillo Hwy	Moss Beach	94038
+N Cabrillo Park Dr	Santa Ana	92701
+N Cabrillo Park Dr	Santa Ana	92705
+N Cabrillo St	Orange	92869
+N Cabrillo Way	Hanford	93230
+N Cactus Ave	Rialto	92376
+N Cactus Cir	Highland	92346
+N Cactus Ct	Bre	92821
+N Cactus Ct	Hanford	93230
+N Cactus Ct	Highland	92346
+N Caddy Cir	Santa Ana	92703
+N Cadle Rd	Lodi	95240
+N Cady St	Linden	95236
+N Caesar Ave	Fresno	93727
+N Cahuilla Rd	Palm Springs	92262
+N Cahullia Rd	Palm Springs	92262
+N Cain Ct	Visalia	93292
+N Cain St	Visalia	93292
+N Caitlin St	San Bernardino	92407
+N Cajon Blvd	Muscoy	92407
+N Cajon Blvd	San Bernardino	92405
+N Cajon Blvd	San Bernardino	92407
+N Cajon Blvd	San Bernardino	92411
+N Cajon Cir	Camarillo	93012
+N Cajun Cir	Hanford	93230
+N Cajun Way	Hanford	93230
+N Cal Dr	Lockeford	95237
+N Cal Rio Pl	Stockton	95204
+N Calac Ln	Valley Center	92082
+N Calariva Dr	Stockton	95204
+N Calaveras Ave	Ontario	91764
+N Calaveras Ct	Ontario	91764
+N Calaveras St	Fresno	93701
+N Calaveras St	Fresno	93704
+N Calaveras St	Fresno	93711
+N Calaveras St	Fresno	93721
+N Calaveras St	Fresno	93728
+N Caleb Ln	San Bernardino	92407
+N Caliente Ct	Aguanga	92536
+N Califonia Ave	Beaumont	92223
+N California Ave	Beaumont	92223
+N California Ave	Oakdale	95361
+N California Ave	Palo Alto	94301
+N California Ave	Palo Alto	94303
+N California Ave	Palo Alto	94306
+N California Ave	Simi Valley	93065
+N California Blvd	Walnut Creek	94596
+N California St	Burbank	91504
+N California St	Burbank	91505
+N California St	Coalinga	93210
+N California St	Lake Elsinore	92530
+N California St	Lodi	95240
+N California St	Maxwell	95955
+N California St	Orange	92866
+N California St	Orange	92867
+N California St	San Bernardino	92407
+N California St	San Bernardino	92411
+N California St	Stockton	95202
+N California St	Stockton	95204
+N California St	Ventura	93001
+N Calle Alta	Orange	92869
+N Calle Alvarado	Palm Springs	92262
+N Calle Baja	Orange	92869
+N Calle Camellia	Camarillo	93010
+N Calle Cesar Chavez	Santa Barbara	93101
+N Calle Cesar Chavez	Santa Barbara	93103
+N Calle Circulo	Camarillo	93010
+N Calle De Marcus	Palm Springs	92262
+N Calle El Segundo	Palm Springs	92262
+N Calle Escadera	Temecula	92590
+N Calle Grande	Orange	92869
+N Calle La Cumbre	Camarillo	93010
+N Calle La Palmera	Camarillo	93010
+N Calle La Prada	Camarillo	93010
+N Calle La Rocha	Camarillo	93010
+N Calle La Roda	Camarillo	93010
+N Calle La Sombra	Camarillo	93010
+N Calle La Sombra	Simi Valley	93063
+N Calle Las Brisas	Palm Desert	92211
+N Calle Marcus	Palm Springs	92262
+N Calle Petaluma	Thousand Oaks	91360
+N Calle Portilla	Camarillo	93010
+N Calle Rolph	Palm Springs	92262
+N Calle Salto	Thousand Oaks	91360
+N Calle Santa Rosa	Palm Springs	92262
+N Calle Seville	San Clemente	92672
+N Calle Vista	Camarillo	93010
+N Calle Yucca	Thousand Oaks	91360
+N Callecita	Laguna Beach	92651
+N Callisch St	Fresno	93710
+N Callisch St	Fresno	93720
+N Callisch St	Fresno	93726
+N Callum Dr	Anaheim	92807
+N Calmante Way	Fresno	93730
+N Calzada Dr	Mh	95391
+N Camarillo Dr	Fresno	93730
+N Cambria Pl	Anaheim	92801
+N Cambria St	Anaheim	92801
+N Cambridge Ave	San Bernardino	92407
+N Cambridge Ave	Upland	91786
+N Cambridge Cir	Reedley	93654
+N Cambridge Ct	Palm Springs	92264
+N Cambridge Dr	Lemoore	93245
+N Cambridge Dr	Lodi	95242
+N Cambridge St	Orange	92865
+N Cambridge St	Orange	92866
+N Cambridge St	Orange	92867
+N Cambridge St	Santa Ana	92705
+N Camden Cir	Villa Park	92867
+N  Camden Dr	Elk Grove	95624
+N Camelback Ave	Carson	90745
+N Camelia Way	San Jacinto	92583
+N Camellia Ave	Ontario	91762
+N Camellia Dr	San Bernardino	92404
+N Camelot St	Porterville	93257
+N Camelot Way	Oxnard	93030
+N Camelot Way	Porterville	93257
+N Cameo Ct	Orange	92865
+N Cameron Rd	Galt	95632
+N Cameron Rd	Thornton	95632
+N Camino Arroyo	Ana	92807
+N Camino Arroyo	Anaheim	92807
+N Camino Arroyo	Palm Desert	92260
+N Camino Arroyo Pl	Palm Desert	92260
+N Camino Del Rio	San Diego	92108
+N Camino Del Sol Ave	Oxnard	93030
+N Camino Del Zuro	Thousand Oaks	91360
+N Camino Los Banos	San Jacinto	92583
+N Camino Real	Carmel By The Sea	93921
+N Camino Real	Jurupa Valley	92509
+N Camino Real	Palm Springs	92262
+N Campania Ct	Mh	95391
+N Camphor Ave	Rialto	92376
+N Camphor Pl	Orange	92868
+N Camphor Way	Upland	91786
+N Campo Tktl	Campo	91906
+N Campo Truck Tl	Campo	91906
+N Campus Ave	Ontario	91764
+N Campus Ave	Upland	91784
+N Campus Ave	Upland	91786
+N Campus Dr	Fresno	93740
+N Campus Way	Lake Elsinore	92530
+N Canada St	Ojai	93023
+N Canada St	Santa Barbara	93103
+N Canal	South San Francisco	94080
+N Canal St	Orange	92865
+N Canal St	South San Francisco	94080
+N Canary Dr	Visalia	93291
+N Candis Ave	Santa Ana	92706
+N Candle Tree Ln	Desert Hot Springs	92240
+N Candleberry Rd	Colton	92324
+N Candlewood St	Anaheim	92805
+N Canepa Rd	Stockton	95212
+N Cannon St	 	 
+N Cannon St	Orange	 
+N Cannon St	Orange	92869
+N Canoe Birch Ct	Concord	94521
+N Canon Dr	Imperial	92251
+N Cantara St	Colton	92324
+N Canter Ave	Camarillo	93010
+N Canyon Cir	Ana	92807
+N Canyon Cir	Anaheim	92807
+N Canyon Cir	Palm Springs	92264
+N Canyon Creek Ln	Fresno	93730
+N Canyon Crest Dr	Villa Park	92867
+N Canyon Ct	Unincorporated Alameda County	94552
+N Canyon Dr	Menifee	92587
+N Canyon Dr	Santa Maria	93454
+N Canyon Lake Dr	Canyon Lake	92587
+N Canyon Lake Dr	Sun City	92587
+N Canyon Lake North Dr	Canyon Lake	92587
+N Canyon Park Cir	Orange	92867
+N Canyon Rd	San Bernardino	92404
+N Canyon Terrace Dr	San Bernardino	92407
+N Canyon View Ave	Upland	91784
+N Canyon Way	Colfax	95713
+N Canyonlands Rd	Moorpark	93021
+N Capella Ct	Costa Mesa	92626
+N Capella Ct	Orange	92867
+N Capewood Pl	Stockton	95212
+N Capistrano Av	Stockton	95209
+N Capistrano Pl	Orange	92869
+N Capitol Av	San Jose	95133
+N Capitol Ave	Milpitas	95035
+N Capitol Ave	San Jose	95127
+N Capitol Ave	San Jose	95132
+N Capitol Ave	San Jose	95133
+N Capitola Ct	Porterville	93257
+N Capitola St	Porterville	93257
+N Capitola Way	Porterville	93257
+N Caprese Ct	Mh	95391
+N Capri Ct	Fresno	93711
+N Capri Ln	Mh	95391
+N Capri St	Orange	92865
+N Caran Av	Stockton	95207
+N Caran Rd	Stockton	95207
+N Cardillo Ave	Palm Springs	92262
+N Cardinal Av	Stockton	95215
+N Cardinal Privado	Ontario	91764
+N Cardinal St	Bre	92823
+N Carey Ct	Stockton	95212
+N Carica Ave	Fresno	93722
+N Carillo Rd	Ojai	93023
+N Carillo Rd	Palm Springs	92262
+N Carl Ct	Visalia	93291
+N Carl Dr	Visalia	93291
+N Carleton Ave	Anaheim	92801
+N Carleton St	San Bernardino	92407
+N Carlisle Pl	Orange	92869
+N Carlmont Pl	Simi Valley	93065
+N Carlos Ave	Ontario	91764
+N Carlos Pl	Ontario	91764
+N Carlos Way	Upland	91786
+N Carlotti Dr	Santa Maria	93454
+N Carlsbad Ave	Fresno	93722
+N Carlsbad Ct	Simi Valley	93063
+N Carlsbad St	Orange	92867
+N Carlson Dr	Bre	92821
+N Carlton Av	Stockton	95204
+N Carlton Ave	Blythe	92225
+N Carlton St	Blythe	92225
+N Carlton St	San Bernardino	92405
+N Carlton St	San Bernardino	92407
+N Carmalee Ave	Fresno	93727
+N Carmalita St	Hemet	92543
+N Carmel Cir	Palm Desert	92260
+N Carmel Dr	Villa Park	92867
+N Carmel Hills Drive	Carmel	93923
+N Carmel Vw	San Diego	92130
+N Carmelina St	San Bernardino	92407
+N Carmelita St	Hemet	92543
+N Carmelita St	Porterville	93257
+N Carmelita Way	Porterville	93257
+N Carmen Dr	Camarillo	93010
+N Carmen Figueroa Ln	Blythe	92225
+N Carmen Way	Blythe	92225
+N Carnation Dr	Rialto	92377
+N Carnation Way	Upland	91786
+N Carnegie Ave	Fresno	93722
+N Carol Ave	Fresno	93722
+N Carol Dr	Anaheim	92801
+N Carol St	La Habra	90631
+N Carolan Ave	Burlingame	94010
+N Carolyn Ct	Redlands	92374
+N Carolyn Way	Anaheim	92806
+N Carousel Pl	Anaheim	92806
+N Carousel St	Anaheim	92806
+N Carpenter Rd	Modesto	95350
+N Carpenter Rd	Modesto	95351
+N Carpenter Rd	Modesto	95355
+N Carpenter Rd	Modesto	95356
+N Carpenter Rd	Modesto	95358
+N Carpenter St	La Habra	90631
+N Carriage Ave	Fresno	93727
+N Carriage Hills Ct	Highland	92346
+N Carrie St	San Jacinto	92583
+N Carrillo Rd	Ojai	93023
+N Carrizo Ave	Ojai	93023
+N Carrizo St	Ojai	93023
+N Carroll Av	Stockton	95215
+N Carroll Ct	Hanford	93230
+N Carruth Ave	Fresno	93705
+N Carruth Ave	Fresno	93711
+N Carruth Ave	Fresno	93728
+N Carson Ct	Visalia	93291
+N Carson St	Hanford	93230
+N Carson St	Visalia	93291
+N Carson Way	Gold River	95670
+N Carver Ct	Simi Valley	93063
+N Casa Loma Dr	San Bernardino	92404
+N Casablanca St	Visalia	93292
+N Cascade Dr	Fresno	93730
+N Cascade St	Santa Ana	92703
+N Cascade Ter	Sunnyvale	94087
+N Case St	Orange	92865
+N Case St	Orange	92867
+N Casey Ave	Fresno	93723
+N Cashew Ave	Bre	92821
+N Cashmere Ter	Sunnyvale	94087
+N Casino Dr	Temecula	92592
+N Casino Rd	Temecula	92592
+N Casitas Vista Rd	Ventura	93001
+N Cason Ln	Porterville	93257
+N Caspian Ave	Fresno	93723
+N Cassandra Dr	San Bernardino	92407
+N Cassel Cir	Upland	91786
+N Castalian Ave	Thousand Oaks	91320
+N Castanya Way	Portola Valley	94028
+N Castellana	Palm Desert	92260
+N Castellina Ct	Mh	95391
+N Castellina Te	Mh	95391
+N Castilian Ave	Thousand Oaks	91320
+N Castillo Dr	San Bernardino	92407
+N Castle Ct	Simi Valley	93063
+N Castle Dr	Hanford	93230
+N Castle Rd	Sonoma	95476
+N Castle St	Simi Valley	93063
+N Castlemont	Simi Valley	93063
+N Castlemont Ct	Simi Valley	93063
+N Castlerock Ter	Sunnyvale	94087
+N Castletown	Orange	92869
+N Castlewood Way	Fresno	93730
+N Cat Ln	Santa Maria	93454
+N Catalina St	Burbank	91504
+N Catalina St	Burbank	91505
+N Catalina St	Orange	92869
+N Catalina St	Ventura	93001
+N Catalina St Pointaddress	Burbank	91504
+N Catalpa Ave	Anaheim	92801
+N Catalpa Ave	Highland	92346
+N Catalpa Ave	San Bernardino	92346
+N Catamaran Cir	Pittsburg	94565
+N Caterino Pl	Mh	95391
+N Catherine Ln	Linden	95236
+N Cato Ct	Visalia	93292
+N Catskills Cir	Upland	91786
+N Cattail Cir	Bre	92821
+N Cattail Ct	Fresno	93727
+N Cattle Dr	Clements	95227
+N Cava Ln	San Bernardino	92407
+N Cavatelli Wy	Mh	95391
+N Cavon Pl	Anaheim	92801
+N Cawston Ave	Hemet	92545
+N Cayton	Simi Valley	93065
+N Cayton Ave	Simi Valley	93065
+N Cayton Pl	Simi Valley	93065
+N Cayton St	Simi Valley	93065
+N Cecelia Ave	Fresno	93722
+N Cedar	Holtville	92250
+N Cedar Ave	Fresno	93702
+N Cedar Ave	Fresno	93703
+N Cedar Ave	Fresno	93710
+N Cedar Ave	Fresno	93720
+N Cedar Ave	Fresno	93726
+N Cedar Ave	Fresno	93730
+N Cedar Ave	Reedley	93654
+N Cedar Ave	Rialto	92377
+N Cedar Creek Cir	Ana	92807
+N Cedar Creek Cir	Anaheim	92807
+N Cedar Ct	Visalia	93292
+N Cedar Dr	San Bernardino	92407
+N Cedar E Manzanita	Sugarloaf	92386
+N Cedar Glen Dr	Anaheim	92807
+N Cedar Glenn Dr	Anaheim	92807
+N Cedar Hill Dr	Fresno	93722
+N Cedar Ln	Pine Grove	95665
+N Cedar Mountain Rd	Big Bear City	92314
+N Cedar Pine	Moorpark	93021
+N Cedar St	Chico	95926
+N Cedar St	Escondido	92025
+N Cedar St	Escondido	92026
+N Cedar St	Orange	92868
+N Cedar St	San Bernardino	92404
+N Cedar St	Ventura	93001
+N Cedarcrest Dr	Bre	92821
+N Cedarhill Cir	Villa Park	92867
+N Cedarpine	Moorpark	93021
+N Cedarwood Cir	Simi Valley	93063
+N Cedros Ave	Solana Beach	92075
+N Cemetary Rd	Santa Paula	93060
+N Center	Westmorland	92281
+N Center Ave	Ontario	91764
+N Center Ave	Westmorland	92281
+N Center Ct	Orcutt	93455
+N Center Ct	Santa Maria	93455
+N Center Dr	Villa Park	92867
+N Center Pl	Redlands	92373
+N Center School Rd	Somis	93066
+N Center St	Highland	92346
+N Center St	Orange	92866
+N Center St	Orange	92867
+N Center St	Redlands	92373
+N Center St	Stockton	95202
+N Center St	Stockton	95204
+N Center St	Stockton	95205
+N Center St	Turlock	95380
+N Center St	Westmorland	92281
+N Center St Or 5350 Forres	Westmorland	92281
+N Central Av	Lodi	95240
+N Central Av	Tracy	95376
+N Central Ave	Campbell	95008
+N Central Ave	Fillmore	93015
+N Central Ave	Highland	92346
+N Central Ave	San Jose	95128
+N Central Ave	Upland	91786
+N Central Ct	Visalia	93291
+N Central Pa	Mh	95391
+N Central Park Dr	Santa Maria	93458
+N Central St	Visalia	93291
+N Centre City Pkwy	Escondido	92025
+N Centre City Pkwy	Escondido	92026
+N Centre City Pky	Escondido	92026
+N Century	Simi Valley	93063
+N Century Ave	Simi Valley	93063
+N Century Blvd	Santa Ana	92703
+N Century Dr	Anaheim	92805
+N Century Pl	Simi Valley	93063
+N Century St	Visalia	93291
+N Cerritos Ave	Hanford	93230
+N Cerritos Ct	Hanford	93230
+N Cerritos Dr	Palm Springs	92262
+N Cerritos Rd	Palm Springs	92262
+N Cervantes Ct	Mh	95391
+N Cesar Chavez	Brawley	92227
+N Cesar Chavez	Brawley	92231
+N Cesar Chavez Ave	Brawley	92227
+N Cesar Chavez Rd	Brawley	92227
+N Cesar Chavez St	Brawley	92227
+N Cesar E Chavez Dr	Santa Maria	93458
+N Chablis Ct	Visalia	93291
+N Chadwick Ln	Fresno	93720
+N Chaffey Ct	Ontario	91762
+N Chain Dr	Simi Valley	93065
+N Chalet Cir	Thousand Oaks	91362
+N Champions Dr	Fresno	93730
+N Chance Ave	Fresno	93703
+N Chance Ave	Fresno	93710
+N Chance Ave	Fresno	93720
+N Chance Ave	Fresno	93726
+N Chance Ave	Fresno	93730
+N Chandler Ave	Simi Valley	93065
+N Chandler Ct	Selma	93662
+N Chandler Ranch Rd	Orange	92869
+N Channel Islands Blvd	Oxnard	93033
+N Channel Islands Dr	Camarillo	93012
+N Channing Cir	Fresno	93711
+N Channing Way	Fresno	93705
+N Channing Way	Fresno	93706
+N Channing Way	Fresno	93711
+N Chantel Ln	Stockton	95212
+N Chantilly St	Anaheim	92806
+N Chaparral Cir	San Bernardino	92407
+N Chaparral Ct	Hanford	93230
+N Chaparral Ct	Pioneer	95666
+N Chaparral Rd	Palm Springs	92262
+N Chappell Rd	Hollister	95023
+N Chardonnay Pl	Hanford	93230
+N Charlene Ct	San Bernardino	92407
+N Charlene Ter	Anaheim	92806
+N Charles Ave	Fresno	93711
+N Charles Ave	Fresno	93722
+N Charles St	Grover Beach	93433
+N Charles St	Hughson	95326
+N Charleston Way	Clovis	93619
+N Charlie Ln	Santa Maria	93454
+N Charro Ave	Thousand Oaks	91320
+N Charter Oak Ct	Visalia	93292
+N Charwood Ct	Bre	92821
+N Chason Way	San Bernardino	92407
+N Chateau Cir	Indian Wells	92210
+N Chateau Fresno Ave	Fresno	93723
+N Chateau Way	Hanford	93230
+N Chauncey Ln	Orange	92867
+N Chelsea Ln	Porterville	93257
+N Chelsea Way	Porterville	93257
+N Chelsey Ct	Camarillo	93010
+N Chelsey Ct	Orange	92867
+N Cherokee Ln	Acampo	95220
+N Cherokee Ln	Acampo	95632
+N Cherokee Ln	Galt	95220
+N Cherokee Ln	Galt	95632
+N Cherokee Ln	Lodi	95240
+N Cherokee Rd	Stockton	95205
+N Cherry Ave	Heber	92249
+N Cherry Ave	Ontario	91764
+N Cherry Rd	Lodi	95240
+N Cherry Sage Ave	Fresno	93730
+N Cherry St	Banning	92220
+N Cherry St	Chico	95926
+N Cherry St	Lockeford	95237
+N Cherry Tree Ln	Anaheim	92806
+N Cherry Way	Anaheim	92801
+N Cherry Way	Upland	91786
+N Cherryhill Ln	Fresno	93720
+N Cherryland Av	Stockton	95215
+N Cherrytree Rd	Colton	92324
+N Cherrywood St	Victor	95253
+N Cheryl Ave	Fresno	93705
+N Cheryl Ave	Fresno	93711
+N Cheshire Way	Upland	91784
+N Chesnut St	Lake Elsinore	92530
+N Chester Ave	Bakersfield	93308
+N Chester Ave Ext	Bakersfield	93308
+N Chester Ext Ave	Bakersfield	93308
+N Chestnut	Holtville	92250
+N Chestnut Ave	Clovis	93611
+N Chestnut Ave	Fresno	93702
+N Chestnut Ave	Fresno	93703
+N Chestnut Ave	Fresno	93710
+N Chestnut Ave	Fresno	93720
+N Chestnut Ave	Fresno	93726
+N Chestnut Ave	Fresno	93727
+N Chestnut Ave	Fresno	93730
+N Chestnut Ave	Holtville	92250
+N Chestnut Ave	Rialto	92376
+N Chestnut Ln	Camarillo	93012
+N Chestnut Ln	Santa Maria	93458
+N Chestnut St	La Habra	90631
+N Chestnut St	Lake Elsinore	92530
+N Chestnut St	Ventura	93001
+N Chestnut St	Woodbridge	95258
+N Chevington Ct	Orange	92867
+N Cheyenne St	Orange	92869
+N Chianni Ct	Visalia	93291
+N Chickadee Ave	Sanger	93657
+N Chico Ln	Mh	95391
+N Chilco Ct	Thousand Oaks	91360
+N Childress Rd	Stockton	95212
+N Chimayo Dr	Cathedral City	92234
+N Chimney Peak Rd	Big Bear City	92314
+N Chinowth St	Visalia	93291
+N Chippewa Ave	Anaheim	92801
+N Chiquita Ln	San Bernardino	92404
+N Chloe Dr	Fresno	93722
+N Chorro St	San Luis Obispo	93405
+N Chouteau St	Orange	92865
+N Chowchilla Blvd	Chowchilla	93610
+N Chris Ave	Fresno	93720
+N Chris Ct	Porterville	93257
+N Chrisden St	Ana	92807
+N Chrisden St	Anaheim	92807
+N Chrisman Rd	Tracy	95304
+N Christina St	Santa Maria	93454
+N Christine Cir	Villa Park	92867
+N Christine Ct	San Bernardino	92407
+N Christine St	Orange	92869
+N Christobal Ln	Colton	92324
+N Christopher Ave	Upland	91784
+N Christopher Dr	Porterville	93257
+N Christopher St	Fowler	93625
+N Christopher St	San Bernardino	92407
+N Chronicle Av	Stockton	95205
+N Chumash St	Orange	92867
+N Chuperosa Rd	Palm Springs	92262
+N Church Ave	Highland	92346
+N Church Ave	Reedley	93654
+N Church Ave	Rialto	92376
+N Church Ave	Rialto	92377
+N Church Ct	Visalia	93291
+N Church St	Lodi	95240
+N Church St	Redlands	92374
+N Church St	Simi Valley	93065
+N Church St	Ventura	93001
+N Church St	Visalia	93291
+N Churchill Ave	Fresno	93711
+N Churchill St	San Bernardino	92407
+N Ciancetti Ave	Fresno	93722
+N Cicero Ct	Simi Valley	93063
+N Cielito Lindo	Ana	92807
+N Cielito Lindo	Anaheim	92807
+N Cienega Ct	Highland	92346
+N Cienega Dr	Highland	92346
+N Cindy Ct	Visalia	93291
+N Cindy Ct	Woodbridge	95258
+N Cindy St	Visalia	93291
+N Cindy Wy	Woodbridge	95258
+N Cinnamon Dr	Lemoore	93245
+N Cirby Wy	Roseville	95661
+N Circelli Way	Hemet	92545
+N Circle Dr	Big Bear City	92314
+N Circle Dr	Idyllwild	92549
+N Circle Rd	San Bernardino	92405
+N Circulo Robel	Ana	92807
+N Circulo Robel	Anaheim	92807
+N Ciro Ave	Thousand Oaks	91360
+N Citadel Ave	San Bernardino	92407
+N Citracado Pkwy	Escondido	92029
+N Citron Ln	Anaheim	92801
+N Citron St	Anaheim	92801
+N Citron St	Anaheim	92805
+N Citrus Ave	Escondido	92027
+N Citrus Ave	Vista	92084
+N Citrus Ct	Visalia	93292
+N Citrus Edge Cir	Ana	92807
+N Citrus Edge Cir	Anaheim	92807
+N Citrus Ln	Fresno	93711
+N Citrus Pl	Bre	92821
+N Citrus Ranch Rd	Anaheim	92805
+N Citrus St	Orange	92867
+N Citrus St	Orange	92868
+N Citrus St	Santa Paula	93060
+N Citrus St	Visalia	93292
+N Citrus View Dr	Ana	92807
+N Citrus View Dr	Anaheim	92807
+N City Dr	San Marcos	92078
+N Civic Dr	Palm Springs	92262
+N Civic Dr	Walnut Creek	94596
+N Civic Dr	Walnut Creek	94597
+N Clairmont Ave	National City	91950
+N Clancy Ct	Visalia	93291
+N Clancy St	Visalia	93291
+N Clara St	Santa Ana	92703
+N Claremont	San Mateo	94401
+N Claremont Ave	Fresno	93727
+N Claremont Ave	San Jose	95127
+N Claremont St	San Mateo	94401
+N Claret Ln	Mh	95391
+N Claridge Dr	Orange	92869
+N Clark Ave	Los Altos	94022
+N Clark Ct	Visalia	93292
+N Clark St	Fresno	93701
+N Clark St	Fresno	93703
+N Clark St	Fresno	93710
+N Clark St	Fresno	93726
+N Clark St	Orange	92868
+N Clark St	Visalia	93292
+N Clark Ter	Anaheim	92806
+N Clarksburg Pl	Stockton	95207
+N Classics Ave	Fresno	93720
+N Claudia Ave	Simi Valley	93065
+N Claudia St	Simi Valley	93065
+N Claudina St	Anaheim	92805
+N Claudio Wy	Mh	95391
+N Clavele Ave	Moorpark	93021
+N Clavele Ct	Moorpark	93021
+N Clay Ct	Visalia	93291
+N Clay St	Visalia	93291
+N Clayton Ct	Camarillo	93010
+N Clear Creek Pl	Danville	94526
+N Clear Haven Dr	Oak Park	91377
+N Clear Lake Ln	Fresno	93730
+N Clearfield Pl	Simi Valley	93065
+N Clearhaven Dr	Oak Park	91377
+N Clearwater Cir	Upland	91784
+N Clementine St	Anaheim	92805
+N Clementine St	Oceanside	92054
+N Clements Rd	Clements	95227
+N Clements Rd	Linden	95236
+N Clements Rd	Lodi	95240
+N Clemson Dr	Anaheim	92801
+N Cleo Ave	Fresno	93722
+N Cleveland Ave	Fresno	93723
+N Cleveland Ct	Placentia	92870
+N Cleveland St	Oceanside	92054
+N Cleveland St	Orange	92865
+N Cleveland St	Orange	92866
+N Cleveland St	Orange	92867
+N Cliff Ave	Fillmore	93015
+N Cliff Cir	Desert Hot Springs	92240
+N Clifford Ave	Rialto	92376
+N Cliffwood Ave	Bre	92821
+N Cliffwood Park St	Bre	92821
+N Clinton St	Garden Grove	92843
+N Clinton St	Orange	92867
+N Clinton St	Santa Ana	92703
+N Cloud Crest Cir	Ana	92807
+N Cloud Crest Cir	Anaheim	92807
+N Cloud Dr	Paradise	95969
+N Clover Ave	Fresno	93727
+N Clover Ave	San Jose	95128
+N Clover Ct	Bre	92821
+N Cloverdale Ave	Upland	91786
+N Cloverdale Blvd	Cloverdale	95425
+N Cloverdale Pl	Mh	95391
+N Cloverdale St	Moorpark	93021
+N Cloverleaf Pl	Porterville	93257
+N Cloverleaf St	Porterville	93257
+N Clovis Ave	Fresno	93727
+N Club Rd	Biggs	95917
+N Club View Ci	Stockton	95204
+N Clubhouse	Somis	93066
+N Clubhouse Dr	Somis	93066
+N Cluff Av	Lodi	95240
+N Clybourn Av Pointaddress	Burbank	91505
+N Clybourn Ave	Burbank	91505
+N Clyde St	San Bernardino	92411
+N Clydesdale Cir	Paso Robles	93446
+N Co Rd 261	Altu	96101
+N Coalinga St	Coalinga	93210
+N Coast Highway	Oceanside	92054
+N. Coast Highway 10	Encinitas	92024
+N Coast Highway 101	Encinitas	92024
+N Coast Highway 101	Leucadia	92024
+N Coast Hwy	Encinitas	92024
+N Coast Hwy	Laguna Beach	92651
+N Coast Hwy	Oceanside	92054
+N Coast Hwy	Unincorporated	92651
+N Coast Hwy 101	Encinitas	92024
+N Coast Hwy 101	Solana Beach	92075
+N Cobb St	Porterville	93257
+N Cobb Way	Porterville	93257
+N Cobbler Dr	Fresno	93727
+N Cobblestone Dr	Orange	92869
+N Coburn St	Colton	92324
+N Coconut Palm Ln	Anaheim	92801
+N Codega Dr	Lockeford	95237
+N Coffman St	Anaheim	92805
+N Cogswell Pl	Hanford	93230
+N Colby Pl	Porterville	93257
+N Colby St	Orange	92869
+N Colcannon Ct	Mh	95391
+N Colcannon Dr	Mh	95391
+N Cold Mountain Way	San Bernardino	92407
+N Cole Ave	Highland	92346
+N Cole Dr	Stockton	95212
+N Coleen Ln	San Bernardino	92407
+N Colfax Ave	Fresno	93720
+N Colfax St	La Habra	90631
+N Colfax St	Lah	90631
+N Colfax Way	Upland	91784
+N Colgate St	Anaheim	92801
+N Colibri Ct	Moorpark	93021
+N Colima Ave	San Bernardino	92407
+N Colleen Av	Santa Maria	93458
+N Colleen Ave	Simi Valley	93063
+N College Ave	Fresno	93650
+N College Ave	Fresno	93701
+N College Ave	Fresno	93704
+N College Ave	Fresno	93711
+N College Ave	Fresno	93728
+N College Ave	Santa Ana	92706
+N College Dr	Santa Maria	93454
+N College Park Dr	Upland	91786
+N College St	La Habra	90631
+N College St	Lah	90631
+N College Way	Ontario	91764
+N Collier Ct	Simi Valley	93065
+N Colonia Rd	Oxnard	93030
+N Colonial Ave	Fresno	93704
+N Colonial Ave	Fresno	93711
+N Colony Grove Ln	Villa Park	92867
+N Colorado Ave	San Bernardino	92411
+N Colorado Ln	Orange	92867
+N Colorado St	Anaheim	92801
+N Colton Ave	Colton	92324
+N Colton Ave	San Bernardino	92410
+N Columbia Av	Moorpark	93021
+N Columbia Ave	Moorpark	93021
+N Columbia Ave	Ontario	91764
+N Columbia Ave	Reedley	93654
+N Columbia St	Hemet	92544
+N Columbine Pl	Anaheim	92801
+N Columbine St	Anaheim	92801
+N Columbine Way	Upland	91786
+N Columbus Dr	Fresno	93727
+N Colwyn Ave	Highland	92346
+N Commerce Ave	Moorpark	93021
+N Commerce St	Orange	92867
+N Commerce St	Orange	92868
+N Commerce St	Stockton	95202
+N Commerce St	Stockton	95204
+N Commercial Ave	Calipatria	92233
+N Commercial St	Blythe	92225
+N Commons Rd	Turlock	95380
+N Commonwealth Ave	Fullerton	92831
+N Community Dr	Anaheim	92806
+N Compass Cir	Chula Vista	91914
+N Comstock Ct	Visalia	93292
+N Comstock St	Orange	92865
+N Comstock St	Visalia	93292
+N Concepcion Av	Santa Maria	93454
+N Concepcion Ave	Santa Maria	93454
+N Concerto Dr	Ana	92807
+N Concerto Dr	Anaheim	92807
+N Concord Av	Santa Maria	93454
+N Concord Ave	Fullerton	92831
+N Concord Ave	Reedley	93654
+N Concord Ave	Santa Maria	93454
+N Concord Dr	Fresno	93720
+N Concord St	Santa Ana	92701
+N Concord St	Santa Ana	92705
+N Concourse St	La Habra	90631
+N Condor Ave	Bre	92823
+N Condor Ct	Sanger	93657
+N Condor St	Anaheim	92801
+N Conejo Ave	Modesto	95354
+N Conejo Dr	San Bernardino	92404
+N Conejo School Rd	Thousand Oaks	91362
+N Conestoga Ct	Hanford	93230
+N Conestoga Way	Anaheim	92807
+N Confer Rd	Stockton	95215
+N Congress Ave	Fresno	93720
+N Conley St	Porterville	93257
+N Connell Ave	Simi Valley	93063
+N Conner St	Porterville	93257
+N Connie Ave	Fresno	93722
+N Constance Ave	Fresno	93722
+N Constellation Ave	Clovis	93619
+N Contessa Ave	Fresno	93722
+N Contessa Ave	Fresno	93723
+N Conyer St	Visalia	93291
+N Cook Ct	Tustin	92782
+N Coolcrest Ave	Upland	91784
+N Coolcrest Ave	Upland	91786
+N Coolcrest Way	Upland	91784
+N Cooley Rd	El Centro	92243
+N Coolidge Av	Stockton	95215
+N Coolidge Ave	Anaheim	92801
+N Cooper Rd	Oxnard	93030
+N Cooper St	Santa Ana	92703
+N Copa De Oro Dr	Bre	92823
+N Copley St	Simi Valley	93063
+N Copley St	Simi Valley	93065
+N Coquille Dr	Lockeford	95237
+N Coral Ct	Discovery Bay	94505
+N Coral Tree Cir	Villa Park	92867
+N Coral Tree Rd	Colton	92324
+N Corby Ave	Camarillo	93010
+N Cord Rd	Clements	95227
+N Cordel Ave	Firebaugh	93622
+N Cordoba Ave	Spring Valley	91977
+N Cordon Gln	Escondido	92025
+N Cordova St	Burbank	91505
+N Cordova St	Oxnard	93030
+N Cordove St	Oxnard	93030
+N Corey Way	Fresno	93722
+N Corinth Av	Lodi	95242
+N Corlson Ave	Simi Valley	93063
+N Corlson Pl	Simi Valley	93063
+N Cornelia Ave	Fresno	93706
+N Cornelia Ave	Fresno	93722
+N Cornelia Ave	Fresno	93730
+N Cornelia Ave	Fresno	9377
+N Cornell Ave	Fullerton	92831
+N Cornell Cir	Moorpark	93021
+N Cornell Dr	Burbank	91504
+N Cornell St	Hemet	92544
+N Cornet Cir	Ana	92807
+N Cornet Cir	Anaheim	92807
+N Cornet Pl	Ana	92807
+N Cornet Pl	Anaheim	92807
+N Coro Dr	Colton	92324
+N Corona Ave	Ontario	91764
+N Corona Dr	Porterville	93257
+N Coronado Av	Stockton	95204
+N Coronado Cir	Fresno	93730
+N Coronet Cir	Palm Springs	92262
+N Corporate Dr	Fresno	93720
+N Corporate Way	Upland	91786
+N Corral Ct	Coarsegold	93614
+N Corral Hollow Rd	Tracy	95304
+N Corral Hollow Rd	Tracy	95376
+N Corral Hollow Rd	Tracy	95377
+N Corral Rd	Bell Canyon	91307
+N Correia Rd	Lodi	95242
+N Correia Rd	Stockton	95219
+N Corrida Pl	Orange	92869
+N Corry St	Fort Bragg	 
+N Cortona Ct	Visalia	93291
+N Cortona St	Visalia	93291
+N Corvette Dr	Ontario	91764
+N Cosby Way	Ana	92806
+N Cosby Way	Anaheim	92806
+N Costa De Oro Ave	Oxnard	93035
+N Costello Pl	Orange	92869
+N Cota St	Corona	92880
+N Cota St	Corona	92882
+N Cotswolds Ln	Orange	92869
+N Cotta Ct	Visalia	93292
+N Cotta St	Visalia	93292
+N Cottage Hill Dr	Orange	92867
+N Cottage Ln	Fresno	93720
+N Cottage Pl	Porterville	93257
+N Cottage St	Porterville	93257
+N Cotter St	Santa Ana	92706
+N Cottle Ave	Sanger	93657
+N Cotton St	Lockeford	95237
+N Cottonwood	El Centro	92243
+N Cottonwood Ave	El Centro	92243
+N Cottonwood Ct	Visalia	93291
+N Cottonwood Dr	El Centro	92243
+N Cottonwood St	Burney	96013
+N Cottonwood St	El Centro	92243
+N Cottonwood St	Orange	92865
+N Cottonwood St	Santa Ana	92705
+N Cottonwood St	Visalia	93291
+N Council Ave	Ontario	91764
+N Country Club Bl	Stockton	95204
+N Country Club Dr	Simi Valley	93065
+N Country Club Ln	Escondido	92029
+N Country Dr	Antelope	95843
+N County Center St	Visalia	93291
+N Court St	Blythe	92225
+N Court St	Los Osos	93402
+N Court St	Martinez	94553
+N Court St	Redding	96001
+N Court St	Visalia	93291
+N Courtland St	Arroyo Grande	93420
+N Courtland St	Orange	92867
+N Courtney Ave	Fresno	93730
+N Cove Dr	Indian Wells	92210
+N Coventry Ave	Fresno	93737
+N Coventry St	Orange	92867
+N Covina St	Mh	95391
+N Covington Ave	Simi Valley	93065
+N Covington Cir	Villa Park	92867
+N Cox Rd	Linden	95236
+N Coyote Dr	San Bernardino	92407
+N Coyote Ln	Orange	92869
+N Cozy Pl	Anaheim	92806
+N Cozy Ter	Anaheim	92806
+N Crabapple Dr	Fresno	93711
+N Cragmont Ave	San Jose	95127
+N Cragmont Ct	Simi Valley	93065
+N Cranberry Way	Upland	91786
+N Crane Ave	St Helena	94574
+N Crater Dr N	Shingletown	96088
+N Crawford Ave	Upland	91786
+N Creag Ave	Homeland	92548
+N Creative Dr	Fresno	93711
+N Crebs Way	Upland	91784
+N Creek Rd	Oak View	93022
+N Creek Rd	Ojai	93023
+N Creekbend	Clovis	93619
+N Creekside Dr	Chula Vista	91915
+N Creekside Dr	Pioneer	95666
+N Creekside St	Visalia	93291
+N Creekview Dr	Lockeford	95237
+N Creekview Dr	Orange	92869
+N Creekview Pl	Porterville	93257
+N Creekview St	Porterville	93257
+N Creighton Cir	Moorpark	93021
+N Crenshaw Ct	Visalia	93291
+N Crenshaw Rd	Visalia	93291
+N Crenshaw St	Visalia	93291
+N Crescent Av	Lodi	95240
+N Crescent Ave	San Bernardino	92405
+N Crescent Ave	San Bernardino	92410
+N Crescent Cir	Colton	92324
+N Crescent Dr	Desert Hot Springs	92240
+N Crescent Dr	Orange	92868
+N Crescent St	Desert Hot Springs	92240
+N Crescent St	San Bernardino	92407
+N Crescent Way	Anaheim	92801
+N Crest Ave	Martinez	94553
+N Crest Lake Cir	Bre	92821
+N Crest View Dr	Fresno	93730
+N Cresta Ave	Fresno	93722
+N Cresta Ave	Fresno	93723
+N Cresta Ct	Thousand Oaks	91360
+N Crestlane Cir	Upland	91786
+N Crestlane Pl	Anaheim	92805
+N Crestmoor Ave	Clovis	93619
+N Creston Ln	Somis	93066
+N Crestridge Pl	Anaheim	92805
+N Crestview Ave	San Bernardino	92404
+N Crestview Ave	San Bernardino	92410
+N Crestview Ave	Upland	91784
+N Crestview Cir	Porterville	93257
+N Crestview Cir	Villa Park	92867
+N Crestview Dr	Fullerton	92833
+N Crestview St	Porterville	93257
+N Crestwood St	Orange	92865
+N Crimea St	Ventura	93001
+N Criollo Cir	Orange	 
+N Cristy Ave	San Bernardino	92407
+N Crocker Ave	Ventura	93004
+N Crooked Palm Rd	Ventura	93001
+N Crosby Ave	Simi Valley	93065
+N Cross Creek Rd	Orange	92869
+N Crossgate St	Orange	92867
+N Crowe Ct	Visalia	93291
+N Crowe St	Visalia	93291
+N Crown Ridge Ln	Fresno	93730
+N Crown St	Anaheim	92801
+N Croydon Ave	Camarillo	93010
+N Crumal Ct	Visalia	93292
+N Crumal St	Visalia	93292
+N Crump Rd	Acampo	95220
+N Crystal Ave	Fresno	93705
+N Crystal Ave	Fresno	93728
+N Crystal Mountain Rd	Big Bear City	92314
+N Crystal Springs Ct	Clovis	93619
+N Cucamonga Ave	Ontario	91764
+N Cuesta Ln	San Bernardino	92405
+N Culpepper Pl	Stockton	95207
+N Culver Rd	Victorville	92394
+N Cumberland Dr	Cedar Glen	92407
+N Cumberland Dr	Lake Arrowhead	92352
+N Cunningham Ct	Orange	92867
+N Currier	Simi Valley	93065
+N Currier Ave	Simi Valley	93065
+N Curry Av	Lodi	95240
+N Curryer St	Santa Maria	93458
+N Curtis Ct	Anaheim	92806
+N Curtis Ln	San Bernardino	92407
+N Curtis Way	Anaheim	92806
+N Custer St	Santa Ana	92701
+N Cuyamaca St	El Cajon	92020
+N Cycod Pl	Bre	92821
+N Cymbal Pl	Ana	92807
+N Cymbal Pl	Anaheim	92807
+N Cymbal St	Anaheim	92807
+N Cymbal Way	Ana	92807
+N Cymbal Way	Anaheim	92807
+N Cymbidium Ct	Highland	92346
+N Cynthia St	San Bernardino	92407
+N Cypress Av	Santa Clara	95050
+N Cypress Ave	Clovis	93619
+N Cypress Ave	Colton	92324
+N Cypress Ave	Fresno	93727
+N Cypress Ave	Ontario	91762
+N Cypress Ave	Santa Clara	95050
+N Cypress Dr	San Bernardino	92407
+N Cypress Dr	Upland	91784
+N Cypress Rd	Palm Springs	92262
+N Cypress St	La Habra	90631
+N Cypress St	Lah	90631
+N Cypress St	Orange	 
+N Cypress St	Orange	92866
+N Cypress St	Orange	92867

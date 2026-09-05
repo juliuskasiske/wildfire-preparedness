@@ -1,0 +1,358 @@
+Lema Ave	Modesto	95351
+Lema Ct	Cobb	95426
+Lema Ct	Desert Hot Springs	92240
+Lema Dr	Nipomo	93444
+Lema Drive	Valencia	91355
+Lema Ln	Cobb	95426
+Lema Rd	Redding	96003
+Lema Way	San Diego	92119
+Lemac Street	Northridge	91325
+Lemac Street	Van Nuys	91406
+Lemaitre Dr	Eastvale	92880
+Leman Street	South Pasadena	91030
+Lemans Ter	Sunnyvale	94089
+Lemar	Oxnard	93036
+Lemar Ave	Oxnard	93036
+Lemar Dr	Roseville	95678
+Lemar Park Drive	Glendora	91740
+Lemar St	Oxnard	93036
+Lemarand Ave	San Diego	92115
+Lemarsh Street	Chatsworth	91311
+Lemarsh Street	North Hills	91343
+Lemarsh Street	Northridge	91324
+Lemarsh Street	Northridge	91325
+Lemarsh Street	San Fernando	91345
+Lemarsh Way	Sacramento	95822
+Lemas Rd	Sacramento	95828
+Lemas Rd	Sacramento	95829
+Lemat Pl	San Diego	92154
+Lemay Ct	Antioch	94509
+Lemay Ct	Corcoran	93212
+Lemay Ct	Rancho Mirage	92270
+Lemay Dr	March Air Reserve Base	92518
+Lemay Place	Van Nuys	91406
+Lemay St	Mather	95655
+Lemay Street	North Hollywood	91606
+Lemay Street	Reseda	91335
+Lemay Street	Van Nuys	91401
+Lemay Street	Van Nuys	91405
+Lemay Street	Van Nuys	91406
+Lemay Street	Van Nuys	91411
+Lemay Street	West Hills	91307
+Lemay Street	Winnetka	91306
+Lemay Way	Antioch	94509
+Lemberger Way	Sacramento	95829
+Lembert Dome Ave	Granite Bay	95661
+Lembert Dome Ci	Stockton	95212
+Lembert Dome Ct	Stockton	95212
+Lembert St	Simi Valley	93065
+Lembi Dr	Folsom	95630
+Lembo Lane	Palmdale	93550
+Lembogan Ct	Aliso Viejo	92656
+Lemee Ln	Mariposa	95338
+Lemen Avenue	Woodland	95776
+Lemen Lane	Vacaville	95688
+Lemenager Road	Sutter	95982
+Lemert St	Hesperia	92345
+Lemire Ct	Chula Vista	91910
+Lemire Dr	Chula Vista	91910
+Lemire Ln	Sebastopol	95472
+Lemitar Way	Sacramento	95833
+Lemke Dr	Pla	92870
+Lemke Dr	Placentia	92870
+Lemm Dr	Hemet	92544
+Lemm Rd	Durham	95938
+Lemmer Drive	Tarzana	91356
+Lemmer Street	Chatsworth	91311
+Lemmerich Ct	Fontana	92336
+Lemming St	Newberry Springs	92365
+Lemming Street	Lakewood	90715
+Lemmon Canyon Road	Sierraville	96126
+Lemmon Ct	Hanford	93230
+Lemmon Ct	Hollister	95023
+Lemmon Ter	Sunnyvale	94086
+Lemmon Way	Hanford	93230
+Lemmons St	Riverbank	95367
+Lemmore Pl	Stockton	95207
+Lemnos Dr	Costa Mesa	92626
+Lemnos Way	Oceanside	92056
+Lemoli Avenue	Gardena	90249
+Lemoli Avenue	Hawthorne	90250
+Lemoli Avenue	Inglewood	90303
+Lemoli Way	Hawthorne	90250
+Lemon	Simi Valley	93063
+Lemon Ave	Beaumont	92223
+Lemon Ave	Cypress	90630
+Lemon Ave	El Cajon	92020
+Lemon Ave	Escondido	92029
+Lemon Ave	Fontana	92335
+Lemon Ave	Fontana	92337
+Lemon Ave	La Mesa	91941
+Lemon Ave	Lemon Grove	91945
+Lemon Ave	Madera	93637
+Lemon Ave	Madera	93638
+Lemon Ave	Oxnard	93033
+Lemon Ave	Patterson	95363
+Lemon Ave	Perris	92570
+Lemon Ave	Perris	92571
+Lemon Ave	Rancho Cucamonga	91701
+Lemon Ave	Rancho Cucamonga	91727
+Lemon Ave	Rancho Cucamonga	91730
+Lemon Ave	Rancho Cucamonga	91736
+Lemon Ave	Rancho Cucamonga	91737
+Lemon Ave	Rancho Cucamonga	92407
+Lemon Ave	Vista	92084
+Lemon Avenue	Arcadia	91007
+Lemon Avenue	Duarte	91008
+Lemon Avenue	Long Beach	90805
+Lemon Avenue	Long Beach	90806
+Lemon Avenue	Long Beach	90807
+Lemon Avenue	Long Beach	90813
+Lemon Avenue	Monrovia	91016
+Lemon Avenue	San Gabriel	91775
+Lemon Avenue	Signal Hill	90755
+Lemon Avenue	Temple City	91780
+Lemon Avenue	Walnut	91789
+Lemon Bell Way	Sacramento	95824
+Lemon Blossom Ct	Sacramento	95824
+Lemon Blossom Ct	San Jose	95123
+Lemon Blossom Ln	Fallbrook	92028
+Lemon Blossom Ln	Patterson	95363
+Lemon Blossom Ln	Thermal	92274
+Lemon Cir	Buena Park	90620
+Lemon Cir	Clearlake Oaks	95423
+Lemon Cir	Cypress	90630
+Lemon Cir	La Mesa	91941
+Lemon Cir	North Tustin	92705
+Lemon Court	Carson	90746
+Lemon Court	Truckee	96161
+Lemon Cove Ct	Sacramento	95828
+Lemon Creek Drive	Walnut	91789
+Lemon Crest Dr	Lakeside	92040
+Lemon Ct	Bakersfield	93313
+Lemon Ct	Carson	90746
+Lemon Ct	Fontana	92335
+Lemon Ct	Fontana	92336
+Lemon Ct	Hillsborough	94010
+Lemon Ct	Napa	94558
+Lemon Dr	Blythe	92225
+Lemon Dr	Camarillo	93010
+Lemon Dr	Redding	96003
+Lemon Dr	Simi Valley	93063
+Lemon Dr	Ybl	 
+Lemon Dr	Ybl	92886
+Lemon Dr	Yorba Linda	92886
+Lemon Drive	La Mirada	90638
+Lemon Drive	Pomona	91768
+Lemon Drive	Whittier	90604
+Lemon Drop Ln	Jamestown	95327
+Lemon Drop St	Menifee	92584
+Lemon Grass Ave	Eastvale	92880
+Lemon Grass Ave	Fontana	92337
+Lemon Grass Ln	Gilroy	95020
+Lemon Grass Way	Chula Vista	91915
+Lemon Grass Way	Murrieta	92562
+Lemon Grove	Ventura	93003
+Lemon Grove Aly	San Luis Obispo	93401
+Lemon Grove Ave	Indio	92201
+Lemon Grove Ave	Jurupa Valley	92509
+Lemon Grove Ave	Lemon Grove	91945
+Lemon Grove Ave	Ventura	93003
+Lemon Grove Avenue	Los Angeles	90029
+Lemon Grove Avenue	Los Angeles	90038
+Lemon Grove Dr	Fallbrook	92028
+Lemon Grove Dr	Rancho Cucamonga	91730
+Lemon Grove Dr	Upland	91786
+Lemon Grove Ln	Corona	92881
+Lemon Grove Ln	Fair Oaks	95628
+Lemon Grove Ln	Montecito	93108
+Lemon Grove St	Rancho Mission Viejo	92675
+Lemon Grove Way	Lemon Grove	91945
+Lemon Grv	Irvine	92618
+Lemon Gum Ct	Moreno Valley	92555
+Lemon Gum Ln	Hemet	92545
+Lemon Heights Dr	North Tustin	92705
+Lemon Heights Dr	Oceanside	92056
+Lemon Hill Ave	Sacramento	95824
+Lemon Hill Ct	Oroville	95966
+Lemon Hill Dr	North Tustin	92705
+Lemon Hill Dr	Oroville	95966
+Lemon Hill Ter	Fullerton	92832
+Lemon Hill Trl	Napa	94558
+Lemon Hills Dr	Temecula	92592
+Lemon House Ct	Upland	91784
+Lemon Lane	Covina	91723
+Lemon Lane	Davis	95616
+Lemon Leaf Dr	Carlsbad	92011
+Lemon Leaf Ln	North Tustin	92705
+Lemon Lily Dr	Bakersfield	93314
+Lemon Ln	Arroyo Grande	93420
+Lemon Ln	Banning	92220
+Lemon Ln	Lemon Grove	91945
+Lemon Meadow Pl	Bakersfield	93313
+Lemon Park Way	Sacramento	95824
+Lemon Pepper Ave	Fontana	92336
+Lemon Pine Ct	San Diego	92129
+Lemon Pl	Chino	91710
+Lemon Pl	Escondido	92027
+Lemon Ranch Rd	Arroyo Grande	93420
+Lemon Ranch Rd	Montecito	93108
+Lemon St	Corona	92879
+Lemon St	Corona	92882
+Lemon St	Costa Mesa	92626
+Lemon St	Fair Oaks	95628
+Lemon St	Fontana	92335
+Lemon St	Fontana	92336
+Lemon St	Fountain Valley	92708
+Lemon St	Fullerton	92832
+Lemon St	Hesperia	92345
+Lemon St	Highland	92346
+Lemon St	La Mesa	91942
+Lemon St	Lah	90631
+Lemon St	Martinez	94553
+Lemon St	Menlo Park	94025
+Lemon St	Murrieta	92562
+Lemon St	Oceanside	92058
+Lemon St	Redlands	92374
+Lemon St	Riverside	92501
+Lemon St	San Luis Obispo	93405
+Lemon St	Spring Valley	91977
+Lemon St	Villa Park	92861
+Lemon St	Wildomar	92595
+Lemon Street	Alhambra	91803
+Lemon Street	City Of Marysville	95901
+Lemon Street	Lemon Cove	93244
+Lemon Street	Los Angeles	90021
+Lemon Street	Santa Clarita	91390
+Lemon Street	Stevinson	95374
+Lemon Street	Vallejo	94590
+Lemon Swirl Drive	Azusa	91702
+Lemon Ter	North Tustin	92705
+Lemon Tree	Irvine	92612
+Lemon Tree Cir	Upland	91786
+Lemon Tree Circle	Vacaville	95687
+Lemon Tree Ct	Hayward	94545
+Lemon Tree Ct	La Habra	90631
+Lemon Tree Ct	Orangevale	95662
+Lemon Tree Ct	San Marcos	92078
+Lemon Tree Dr	La Habra	90631
+Lemon Tree Dr	Madera	93637
+Lemon Tree Lane	Vacaville	95687
+Lemon Tree Rd	Moreno Valley	92555
+Lemon Twist Ave	Sacramento	95833
+Lemon Twist Ct	Sacramento	95833
+Lemon Valley Ave	Eastvale	92880
+Lemon Valley St	Sacramento	95824
+Lemon Via	Anaheim	92801
+Lemon View Way	Sacramento	95824
+Lemon Way	Fillmore	93015
+Lemon Wood Dr	Santa Paula	93060
+Lemona Ave	San Diego	92105
+Lemona Avenue	North Hills	91343
+Lemona Avenue	Panorama City	91402
+Lemona Avenue	San Fernando	91345
+Lemona Avenue	Sherman Oaks	91403
+Lemona Avenue	Van Nuys	91405
+Lemona Avenue	Van Nuys	91411
+Lemona Ln	North Tustin	92705
+Lemona Street	Woodlake	93286
+Lemonade Cir	Riverside	92503
+Lemonade Ln	Roseville	95747
+Lemonadeberry Ln	Vista	92084
+Lemonberry Pl	Thousand Oaks	91362
+Lemoncrest Avenue	Sylmar	91342
+Lemoncrest Dr	Lakeside	92040
+Lemondrop Ct	Sacramento	95824
+Lemonglaze Ct	San Diego	92130
+Lemongrass	Irvine	92604
+Lemongrass Ave	Yorba Linda	92886
+Lemongrass Cir	Bakersfield	93311
+Lemongrass Court	Santa Clarita	91350
+Lemongrass Dr	Ful	92835
+Lemongrass Dr	Fullerton	92835
+Lemongrass Ln	Fallbrook	92028
+Lemongrass Place	La Puente	91744
+Lemongrass St	Corona	92883
+Lemongrass St	Turlock	95380
+Lemongrass Way	Hesperia	92344
+Lemonhill Dr	Rocklin	95677
+Lemonroot St	Banning	92220
+Lemonscent Dr	Riverside	92507
+Lemonseed Dr	San Diego	92154
+Lemontree Ct	Antioch	94509
+Lemontree Ct	Mountain View	94040
+Lemontree Ln	Huntington Beach	92646
+Lemontree Ln	Huntington Beach	92646-7544
+Lemontree Ln	Huntington Beach	92646-7545
+Lemontree Ln	Huntington Beach	92646-7546
+Lemontree Ln	Huntington Beach	92646-7548
+Lemontree Road	West Sacramento	95691
+Lemontree Way	Antioch	94509
+Lemontree Wy	Roseville	95747
+Lemonwood	Santa Paula	93060
+Lemonwood Ave	Redlands	92374
+Lemonwood Avenue	Tulare	93274
+Lemonwood Cir	La Palma	90623
+Lemonwood Cir	Moreno Valley	92557
+Lemonwood Ct	Fontana	92337
+Lemonwood Ct	Ful	92835
+Lemonwood Ct	Fullerton	92835
+Lemonwood Ct	Hanford	93230
+Lemonwood Ct	Oceanside	92058
+Lemonwood Ct	San Jose	95120
+Lemonwood Ct	San Ramon	94582
+Lemonwood Dr	Chino Hills	91709
+Lemonwood Dr	Concord	94519
+Lemonwood Dr	Corona	92883
+Lemonwood Dr	Fallbrook	92028
+Lemonwood Dr	La Habra	90631
+Lemonwood Dr	Lah	90631
+Lemonwood Dr	Menifee	92584
+Lemonwood Dr	Moorpark	93021
+Lemonwood Dr	Santa Paula	93060
+Lemonwood Drive	Lancaster	93536
+Lemonwood Drive	Palmdale	93551
+Lemonwood Ln	Garden Grove	92840
+Lemonwood Ln	Garden Grove	92843
+Lemonwood Ln	Lemon Grove	91945
+Lemonwood Ln	Riverside	92508
+Lemonwood Ln	San Diego	92124
+Lemonwood Ln	Vista	92081
+Lemonwood Pl	Pittsburg	94565
+Lemonwood Pl	Rancho Cucamonga	91730
+Lemonwood St	Thousand Oaks	91320
+Lemonwood Street	La Verne	91750
+Lemonwood Way	Elk Grove	95758
+Lemonwood Way	Suisun City	94585
+Lemoore Ave	Lemoore	93245
+Lemoore Dr	San Carlos	94062
+Lemoore Dr	San Carlos	94070
+Lemoore St	Pismo Beach	93449
+Lemoore St	Yucca Valley	92284
+Lemora Ln	Escondido	92025
+Lemoran Avenue	Downey	90240
+Lemoran Avenue	Downey	90241
+Lemoran Avenue	Pico Rivera	90660
+Lemos	Santa Cruz	95060
+Lemos Avenue	Salinas	93901
+Lemos Avenue Avenue	Salinas	93901
+Lemos Ct	Hollister	95023
+Lemos Ln	Mendocino	 
+Lemos Ranch Dr	Loomis	95650
+Lemos Road	Hornbrook	96044
+Lemoyne Street	Los Angeles	90026
+Lemoyne Way	San Jose	95008
+Lemoyne Way	San Jose	95130
+Lemp Avenue	North Hollywood	91601
+Lemp Avenue	North Hollywood	91602
+Lemp Avenue	North Hollywood	91605
+Lemp Avenue	North Hollywood	91606
+Lemp Avenue	Studio City	91604
+Lemp Court	North Hollywood	91602
+Lemsford Avenue	Palmdale	93550
+Lemur Ct	Ventura	93003
+Lemur Drive	Mccloud	96057
+Lemur St	Santa Rosa	95401
+Lemur St	Ventura	93003
+Lemurian Rd	Redding	96002
+Lemurine Way	San Diego	92126

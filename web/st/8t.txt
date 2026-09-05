@@ -1,0 +1,191 @@
+8Th	Calexico	92231
+8Th	Carmel-By-The-Sea	93921
+8Th	Desert Hot Springs	92240
+8Th	Mariposa	95338
+8Th	Santa Cruz	95062
+8Th	Watsonville	95076
+8Th	Westmorland	92281
+8Th Av	Westhaven	95570
+8Th Ave	Blythe	92225
+8Th Ave	Clearlake	95422
+8Th Ave	Hanford	93230
+8Th Ave	Hesperia	92345
+8Th Ave	Kingsburg	93230
+8Th Ave	Kingsburg	93242
+8Th Ave	Kingsburg	93631
+8Th Ave	Laguna Beach	92651
+8Th Ave	Menlo Park	94025
+8Th Ave	Oakdale	95361
+8Th Ave	Ramona	92065
+8Th Ave	Redwood City	94063
+8Th Ave	Rio Linda	95673
+8Th Ave	Sacramento	95817
+8Th Ave	Sacramento	95818
+8Th Ave	Sacramento	95820
+8Th Ave	San Diego	92101
+8Th Ave	San Diego	92103
+8Th Ave	San Mateo	94401
+8Th Ave Dr	Kingsburg	93631
+8Th Avenue	Arcadia	91006
+8Th Avenue	Carmel	93923
+8Th Avenue	La Puente	91746
+8Th Avenue	Los Angeles	90008
+8Th Avenue	Los Angeles	90018
+8Th Avenue	Los Angeles	90019
+8Th Avenue	Los Angeles	90043
+8Th Avenue	Merced	95340
+8Th Avenue	Monrovia	91016
+8Th Avenue	Salinas	93955
+8Th Court	Hermosa Beach	90254
+8Th Ct	Hermosa Beach	90254
+8Th E St	Pittsburg	94565
+8Th Helena Drive	Los Angeles	90049
+8Th Hole Dr	Windsor	95492
+8Th Ln	Big Bear City	92314
+8Th Ln	South San Francisco	94080
+8Th Pl	Escondido	92029
+8Th Pl	Hermosa Beach	90254
+8Th Place	Hermosa Beach	90254
+8Th Place	Los Angeles	90017
+8Th Place	Manhattan Beach	90266
+8Th St	Arcata	95521
+8Th St	Bakersfield	93304
+8Th St	Banning	92220
+8Th St	Beaumont	92223
+8Th St	Berkeley	94710
+8Th St	Biggs	95917
+8Th St	Bloomington	92316
+8Th St	Blythe	92225
+8Th St	Borrego Springs	92004
+8Th St	Buena Park	90620
+8Th St	Buena Park	90621
+8Th St	Calexico	92231
+8Th St	Cayucos	93430
+8Th St	Ceres	95307
+8Th St	Coachella	92236
+8Th St	Coronado	92118
+8Th St	Cucamonga	91730
+8Th St	Desert Hot Springs	92240
+8Th St	Elverta	95626
+8Th St	Encinitas	92024
+8Th St	Eureka	95501
+8Th St	Fallbrook	92028
+8Th St	Firebaugh	93622
+8Th St	Fortuna	95540
+8Th St	Garden Grove	92840
+8Th St	Garden Grove	92843
+8Th St	Hemet	92544
+8Th St	Hermosa Beach	90254
+8Th St	Hesperia	92345
+8Th St	Holtville	92250
+8Th St	Huntington Beach	90742
+8Th St	Huntington Beach	92648
+8Th St	Huntington Beach	92648-4626
+8Th St	Huntington Beach	92648-4627
+8Th St	Huntington Beach	92648-4628
+8Th St	Huntington Beach	92648-4629
+8Th St	Huntington Beach	92648-4630
+8Th St	Huntington Beach	92648-4631
+8Th St	Huntington Beach	92648-4632
+8Th St	Huntington Beach	92648-4633
+8Th St	Huntington Beach	92648-4657
+8Th St	Huntington Beach	92648-4658 
+8Th St	Huntington Beach	92648-4659 
+8Th St	Huntington Beach	92648-4661 
+8Th St	Huntington Beach	92648-4663 
+8Th St	Huntington Beach	92648-5017
+8Th St	Huntington Beach	92648-5018
+8Th St	Huntington Beach	92648-5019
+8Th St	Huntington Beach	92648-5020
+8Th St	Huntington Beach	92648-5028
+8Th St	Huntington Beach	92648-5038 
+8Th St	Huntington Beach	92648-5039 
+8Th St	Huntington Beach	92648-5058 
+8Th St	Huntington Beach	92648-5059 
+8Th St	Huntington Beach	92648-5064 
+8Th St	Huntington Beach	92648-5065 
+8Th St	Huron	93234
+8Th St	Imperial Beach	91932
+8Th St	Keyes	95328
+8Th St	Kingsburg	93631
+8Th St	Lake Elsinore	92532
+8Th St	Lincoln	95648
+8Th St	Los Osos	93402
+8Th St	Mariposa	95338
+8Th St	Mendota	93640
+8Th St	Mentone	92359
+8Th St	Modesto	95350
+8Th St	Modesto	95354
+8Th St	Montara	94037
+8Th St	Napa	94559
+8Th St	National City	91950
+8Th St	Newport Beach	92661
+8Th St	Norco	92860
+8Th St	Oceanside	92054
+8Th St	Oceanside	92058
+8Th St	Orange Cove	93646
+8Th St	Oroville	95965
+8Th St	Parlier	93648
+8Th St	Paso Robles	93446
+8Th St	Petaluma	94952
+8Th St	Ramona	92065
+8Th St	Rancho Cucamonga	91730
+8Th St	Rancho Cucamonga	91739
+8Th St	Redding	96001
+8Th St	Redlands	92373
+8Th St	Reedley	93654
+8Th St	Richmond	94801
+8Th St	Rio Linda	95673
+8Th St	Riverbank	95367
+8Th St	Sacramento	95811
+8Th St	Sacramento	95814
+8Th St	Sacramento	95818
+8Th St	San Joaquin	93660
+8Th St	San Jose	95112
+8Th St	San Marcos	92078
+8Th St	Sanger	93657
+8Th St	Santa Rosa	95401
+8Th St	Scotia	95565
+8Th St	Seal Beach	90740
+8Th St	Shandon	93461
+8Th St	Sheridan	95681
+8Th St	Templeton	93465
+8Th St	Trona	93562
+8Th St	Turlock	95380
+8Th St	Union City	94587
+8Th St	Victorville	92392
+8Th St	Victorville	92395
+8Th St	Westwood	96137
+8Th St	Yucaipa	92399
+8Th St E	National City	91950
+8Th St E	Sonoma	95476
+8Th Street	City Of Marysville	95901
+8Th Street	Claremont	91711
+8Th Street	Davis	95618
+8Th Street	Downey	90241
+8Th Street	Gonzales	93926
+8Th Street	Greenfield	93927
+8Th Street	Gustine	95322
+8Th Street	Hermosa Beach	90254
+8Th Street	La Verne	91750
+8Th Street	Livingston	95334
+8Th Street	Los Angeles	90005
+8Th Street	Los Angeles	90014
+8Th Street	Los Angeles	90017
+8Th Street	Los Angeles	90021
+8Th Street	Los Angeles	90023
+8Th Street	Los Angeles	90036
+8Th Street	Manhattan Beach	90266
+8Th Street	Marina	93933
+8Th Street	Marysville	95901
+8Th Street	Newhall	91321
+8Th Street	Pacific Grove	93950
+8Th Street	Pomona	91766
+8Th Street	San Fernando	91340
+8Th Street	San Pedro	90731
+8Th Street	Soledad	93960
+8Th Street	West Sacramento	95605
+8Th Street East	Lancaster	93535
+8Th Street East	Palmdale	93550
+8Th Street West	Lancaster	93534
+8Th W St	Pittsburg	94565

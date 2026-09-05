@@ -1,0 +1,228 @@
+Day	Aptos	95003
+Day	Pacific Grove	93950
+Day Ave	Bakersfield	93308
+Day Ave	Concord	94520
+Day Ave	Loomis	95650
+Day Ave	Old Station	96071
+Day Ave	San Mateo	94403
+Day Break Court	Fairfield	94534
+Day Break Way	Ceres	95307
+Day Court	Woodland	95776
+Day Creek Bl	Rancho Cucamonga	91739
+Day Creek Blvd	Rancho Cucamonga	91737
+Day Creek Blvd	Rancho Cucamonga	91739
+Day Creek Blvd	Rancho Cucamonga	91939
+Day Creek Trl	Santee	92071
+Day Crek Blvd	Rancho Cucamonga	91739
+Day Ct	Santa Clara	95051
+Day Ct	Simi Valley	93065
+Day Dr	Carmichael	95608
+Day Dr	Jurupa Valley	91752
+Day Dr	Mira Loma	91752
+Day Dr	San Antonio Heights	91784
+Day Dr	Ventura	93003
+Day Dream Ct	Bakersfield	93312
+Day Drem Ct	Bakersfield	93312
+Day Drive	Fairfield	94533
+Day Lane	Bridgeport	93517
+Day Lillies Ln	Citrus Heights	95610
+Day Lilly Drive	Vacaville	95687
+Day Lily Av	Manteca	95337
+Day Lily Ave	Manteca	95337
+Day Lily Dr	Bakersfield	93304
+Day Lily Dr	Murrieta	92563
+Day Lily Drive	Newhall	91321
+Day Lily Lane	Panorama City	91402
+Day Lily Ln	Simi Valley	93065
+Day Ln	Redding	96002
+Day Pl	Westminster	92683
+Day Ranch Road	Bridgeport	93517
+Day Rd	Day	96056
+Day Rd	Fall River Mills	96028
+Day Rd	Gilroy	95020
+Day Rd	Goleta	93117
+Day Rd	Mcarthur	96028
+Day Rd	Mcarthur	96056
+Day Rd	Ventura	93003
+Day Rd	Windsor	95492
+Day Road	Grass Valley	95945
+Day Sailor Ct	Richmond	94804
+Day School Pl	Santa Rosa	95403
+Day Spring Road	Grass Valley	95945
+Day St	Moreno Valley	92553
+Day St	Moreno Valley	92557
+Day St	Nipomo	93444
+Day St	Perris	92570
+Day St	Riverside	92507
+Day St	San Diego	92105
+Day St	San Francisco	94110
+Day St	San Francisco	94131
+Day Star Cir	Corona	92881
+Day Star Ct	Vista	92084
+Day Star Dr	La Quinta	92253
+Day Star Way	Ramona	92065
+Day Street	Gonzales	93926
+Day Street	Sunland	91040
+Day Street	Tujunga	91042
+Day Valley	Aptos	95003
+Daya Way	Sacramento	95828
+Daybreak	Hemet	92545
+Daybreak	Irvine	92614
+Daybreak Cir	Thousand Oaks	91320
+Daybreak Court	Vacaville	95687
+Daybreak Ct	Bakersfield	93311
+Daybreak Ct	Chino Hills	91709
+Daybreak Ct	Hesperia	92344
+Daybreak Ct	Menifee	92584
+Daybreak Ct	Oceanside	92057
+Daybreak Ct	Redding	96001
+Daybreak Ct	San Jacinto	92582
+Daybreak Ct	San Ramon	94583
+Daybreak Ct	Santa Rosa	95404
+Daybreak Ct	Sonora	95370
+Daybreak Dr	Corona	92883
+Daybreak Dr	Huntington Beach	92646-7527
+Daybreak Dr	Huntington Beach	92646-7533
+Daybreak Drive	Dixon	95620
+Daybreak Drive	La Verne	91750
+Daybreak Drive	Merced	95348
+Daybreak Drive	Walnut	91789
+Daybreak Lane	Pomona	91767
+Daybreak Ln	Fontana	92337
+Daybreak Ln	Rancho Santa Margarita	92688
+Daybreak Ln	Sacramento	95821
+Daybreak Ln	Santee	92071
+Daybreak Ln	Templeton	93465
+Daybreak Pl	Escondido	92027
+Daybreak Pl	Rancho Cucamonga	91701
+Daybreak Pl	Vista	92084
+Daybreak St	Hemet	92545
+Daybreak St	Roseville	95747
+Daybreak Street	El Monte	91732
+Daybreak Street	Palmdale	93550
+Daybreak Trl	Moreno Valley	92557
+Daybreak Way	Beaumont	92223
+Daybreak Way	Bonsall	92003
+Daybreak Way	Palm Springs	92262
+Daybreak Way	Santa Clarita	91350
+Daybreeze Ct	Rancho Cucamonga	91730
+Daybreeze Dr	Rancho Cucamonga	91730
+Daybrook Ct	Sacramento	95829
+Daybrook Dr	Windsor	95492
+Daybrook Ter	Temecula	92591
+Daybrook Terrace	Temecula	92591
+Dayburst Way	Sacramento	95823
+Dayco Way	Bakersfield	93314
+Daydream Ave	Sacramento	95833
+Daydream Ct	Sacramento	95833
+Daydream Dr	Roseville	95747
+Daydream Way	Valencia	91354
+Dayflower Ct	Perris	92571
+Dayflower Ct	Waterford	95386
+Dayflower Way	San Diego	0
+Dayflower Way	San Diego	92130
+Daykin Street	Hacienda Heights	91745
+Daylight Ct	Lake Elsinore	92530
+Daylight Ct	Sacramento	95828
+Daylight Ct	Thousand Oaks	91362
+Daylight Dr	Palm Springs	92262
+Daylight Dr	Roseville	95747
+Daylight Drive	Agoura Hills	91301
+Daylight Drive	Merced	95348
+Daylight Ln	Huntington Beach	92646-7505
+Daylight Ln	Huntington Beach	92646-7547
+Daylight Pl	Danville	94526
+Daylight Pl	Ramona	92065
+Daylight Way	San Jose	95111
+Daylilly Ln	Patterson	95363
+Daylilly St	Fontana	92337
+Daylily	Rancho Santa Margarita	92688
+Daylily Cir	Palm Desert	92260
+Daylily Coast Ln	Rancho Cordova	95742
+Daylily Ct	Antioch	94531
+Daylily Ct	Rancho Cucamonga	91737
+Daylily Ct	San Marcos	92078
+Daylily Dr	Beaumont	92223
+Daylily Dr	Carlsbad	92011
+Daylily Dr	Perris	92571
+Daylily Ln	Chico	95926
+Daylily Ln	Lincoln	95648
+Daylily Place	Palmdale	93551
+Daylily St	Apple Valley	92308
+Dayloma Ave	Ventura	93003
+Daylor St	Elk Grove	95758
+Daymark Ct	San Diego	92131
+Daymark Rd	Corona	92883
+Dayna Way	Merced	95340
+Dayo Ct	San Jose	95148
+Days Island Rd	Novato	94945
+Daysailor Ct	San Diego	92154
+Daysha Ln	Reedley	93654
+Daysha Way	Redding	96003
+Dayspring Ct	Lake Elsinore	92530
+Dayspring Way	Sacramento	95823
+Dayspring Way	Temecula	92591
+Daystar	Irvine	92612
+Daystar Ct	Sacramento	95824
+Daystar Dr	Modesto	95355
+Daystar Dr	Perris	92571
+Daystar Dr	Roseville	95747
+Daystar Way	Palo Cedro	96073
+Daytime Ave	Fontana	92336
+Dayton Av	Santa Clara	95051
+Dayton Ave	Bakersfield	93304
+Dayton Ave	Barstow	92311
+Dayton Ave	Hesperia	92345
+Dayton Ave	Modesto	95356
+Dayton Ave	San Carlos	94070
+Dayton Ave	Santa Clara	95051
+Dayton Avenue	Hilmar	95324
+Dayton Avenue	Pomona	91766
+Dayton Court	Palmdale	93552
+Dayton Ct	Concord	94518
+Dayton Ct	San Jacinto	92583
+Dayton Ct	San Ramon	94583
+Dayton Dr	Lake Forest	92630
+Dayton Dr	Lake Forest	92630-0000
+Dayton Dr	Lake Forest	92630-3405
+Dayton Dr	Lake Forest	92630-3406
+Dayton Dr	Lake Forest	92630-3408
+Dayton Dr	Lemon Grove	91945
+Dayton Dr	Rancho Cucamonga	91730
+Dayton Herzog Ln	Stockton	95206
+Dayton Hupp Mill Rd	Magalia	95954
+Dayton Ln	Antioch	94509
+Dayton Ln	Temecula	92591
+Dayton Rd	Chico	95928
+Dayton Rd	Crescent City	95531
+Dayton Rd	Durham	95928
+Dayton St	Crescent City	95531
+Dayton St	Riverside	92508
+Dayton St	Sacramento	95838
+Dayton St	San Diego	92115
+Dayton St	Santa Rosa	95403
+Dayton St	Victorville	92395
+Dayton Street	Salinas	93901
+Dayton Way	Beverly Hills	90210
+Dayton Way	Beverly Hills	90211
+Dayton Way	Fontana	92337
+Dayton West Rd	Chico	95928
+Dayton West Rd	Durham	95928
+Dayton Wy	Beverly Hills	90210
+Daytona Ave	Mecca	92254
+Daytona Ave	Riverside	92503
+Daytona Avenue	Hacienda Heights	91745
+Daytona Cir	Huntington Beach	92646
+Daytona Cir	Huntington Beach	92646-7901
+Daytona Ct	Caruthers	93609
+Daytona Ct	Lathrop	95330
+Daytona Ct	Sacramento	95835
+Daytona Cv	Perris	92570
+Daytona Dr	Bakersfield	93306
+Daytona Dr	Goleta	93117
+Daytona Dr	Laguna Niguel	92677
+Daytona Dr	San Jose	95122
+Daytona Ln	Landers	92285
+Daytona St	Lemon Grove	91945
+Daywalt Ln	Sebastopol	95472
+Daywalt Rd	Sebastopol	95472

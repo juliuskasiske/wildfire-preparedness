@@ -1,0 +1,467 @@
+West S.P. Avenue	Atwater	95301
+West S Street	Merced	95341
+West Saddle Peak Road	Malibu	90265
+West Sady Avenue	Visalia	93291
+West Sady Court	Visalia	93291
+West Safford Avenue	Visalia	93291
+West Sagamore Way	Los Angeles	90065
+West Saginaw Avenue	Dinuba	93618
+West Sago Palm	West Covina	91790
+West Sago Palm Street	West Covina	91790
+West Saint Andrews Lane	Azusa	91702
+West Saint George Drive	San Dimas	91773
+West Saint Joseph Street	Arcadia	91007
+West Saint Thira Court	West Covina	91790
+West Saltair Terrace	Los Angeles	90049
+West Samoa Street	Lindsay	93247
+West Samuel Court	Vacaville	95687
+West San Antonio Drive	Long Beach	90807
+West San Bernardino Road	Covina	91722
+West San Bernardino Road	Covina	91723
+West San Bernardino Road	West Covina	91790
+West San Circle	Beverly Hills	90210
+West San Fernando Mission Boulevard	Granada Hills	91344
+West San Fernando Mission Boulevard	San Fernando	91345
+West San Fernando Road	Los Angeles	90031
+West San Fernando Road	Los Angeles	90039
+West San Fernando Road	Los Angeles	90065
+West San Joaquin Avenue	Tulare	93274
+West San Joaquin Court	Visalia	93277
+West San Joaquin Drive	Atwater	95301
+West San Joaquin Drive	Visalia	93277
+West San Jose Avenue	Claremont	91711
+West San Jose Avenue	La Habra	90631
+West San Jose Street	Chatsworth	91311
+West San Jose Street	San Fernando	91345
+West San Lucia Avenue	Porterville	93257
+West San Lucia Court	Porterville	93257
+West San Lucia Lane	Porterville	93257
+West San Marino Avenue	Alhambra	91801
+West San Marino Street	Los Angeles	90006
+West San Marino Street	Los Angeles	90019
+West San Mateo Avenue	Tulare	93274
+West San Miguel Street	Woodland Hills	91364
+West San Raphael Drwy	San Diego	92130
+West San Vicente Boulevard	Los Angeles	90019
+West San Vicente Boulevard	Los Angeles	90036
+West San Vicente Boulevard	Los Angeles	90048
+West San Vicente Boulevard	Los Angeles	90049
+West Sandal Lane	Los Angeles	90077
+West Sanders Avenue	Visalia	93291
+West Sandison Street	Wilmington	90744
+West Sandlewood Avenue	La Habra	90631
+West Sandra Avenue	Arcadia	91007
+West Sandra Avenue	Porterville	93257
+West Sandra Avenue	Tulare	93274
+West Sandra Circle	Porterville	93257
+West Sandra Court	Porterville	93257
+West Sandra Lane	Porterville	93257
+West Sandy Mush Road	El Nido	95317
+West Sandy Mush Road	Merced	95341
+West Sansinena Lane	La Habra	90631
+West Santa Anita Avenue	Burbank	91502
+West Santa Anita Avenue	San Gabriel	91776
+West Santa Anita Terrace	Arcadia	91007
+West Santa Barbara Street	Los Banos	93635
+West Santa Clara Avenue	Claremont	91711
+West Santa Clara Street	Arcadia	91007
+West Santa Cruz Street	San Pedro	90731
+West Santa Cruz Street	San Pedro	90732
+West Santa Fe Avenue	Merced	95340
+West Santa Fe Grade	Dos Palos	93620
+West Santa Fe Road	Merced	95348
+West Santa Fe Street	Pomona	91767
+West Santa Maria Avenue	Porterville	93257
+West Santa Monica Boulevard	Los Angeles	90025
+West Santa Monica Boulevard	Los Angeles	90029
+West Santa Monica Boulevard	Los Angeles	90038
+West Santa Monica Boulevard	Los Angeles	90067
+West Santa Rita Street	Encino	91316
+West Santa Rosalia Drive	Los Angeles	90008
+West Santa Susana Pass Road	Chatsworth	91311
+West Santa Ynez Street	Los Angeles	90026
+West Santo Tomas Drive	Los Angeles	90008
+West Sara Lane	Panorama City	91402
+West Sarah Street	Burbank	91505
+West Sarah Street	North Hollywood	91602
+West Saratoga Avenue	Tulare	93274
+West Saratoga Lane	San Pedro	90732
+West Saratoga Way	West Hills	91307
+West Sardinia Way	Porter Ranch	91326
+West Sardis Avenue	Los Angeles	90064
+West Saticoy Street	Canoga Park	91304
+West Saticoy Street	North Hollywood	91605
+West Saticoy Street	Panorama City	91402
+West Saticoy Street	Reseda	91335
+West Saticoy Street	Van Nuys	91405
+West Saticoy Street	Van Nuys	91406
+West Saticoy Street	Winnetka	91306
+West Saturn Street	Los Angeles	90019
+West Saturn Street	Los Angeles	90035
+West Savoy Street	Los Angeles	90012
+West Sawyer Street	Los Angeles	90034
+West Sawyer Street	Los Angeles	90035
+West Saxon Avenue	San Gabriel	91776
+West Sayre Street	Sylmar	91342
+West Scarlet Oak Avenue	Porterville	93257
+West Scenario Lane	Los Angeles	90077
+West Scenic Avenue	Los Angeles	90068
+West Scenic Drive	Monrovia	91016
+West Scenic Drive	Mount Shasta	96067
+West Schoenborn Street	North Hills	91343
+West School Avenue	Porterville	93257
+West School Avenue	Visalia	93291
+West School Court	Porterville	93257
+West School Court	Visalia	93291
+West School Street	Compton	90220
+West Scobie Street	Montague	96064
+West Scott Avenue	Los Angeles	90026
+West Scott Street	Long Beach	90805
+West Scout Way	Los Angeles	90026
+West Scranton Avenue	Porterville	93257
+West Scribner Lane	Inglewood	90305
+West Sea Spray Place	Playa Vista	90094
+West Sea View Avenue	Los Angeles	90065
+West Sea View Drive	Los Angeles	90065
+West Sea View Drive	Malibu	90265
+West Sea View Lane	Los Angeles	90065
+West Seabec Circle	Pacific Palisades	90272
+West Seabury Lane	Los Angeles	90077
+West Seacoast Place	Playa Vista	90094
+West Seaglass Circle	Playa Vista	90094
+West Seaside Boulevard	Long Beach	90802
+West Seaside Way	Long Beach	90802
+West Seaview Drive	Benicia	94510
+West Second Avenue South	Delhi	95315
+West Sedona Avenue	Visalia	93291
+West Seeger Avenue	Visalia	93277
+West Seeger Court	Visalia	93277
+West Selkirk Lane	Los Angeles	90077
+West Selma Avenue	Los Angeles	90028
+West Selma Avenue	Los Angeles	90046
+West Senalda Road	Los Angeles	90068
+West Senda De Maya	Sylmar	91342
+West Sepulveda Boulevard	Carson	90745
+West Sepulveda Boulevard	Harbor City	90710
+West Sepulveda Boulevard	Torrance	90501
+West Sepulveda Boulevard	Torrance	90502
+West Sepulveda Street	San Pedro	90731
+West Sepulveda Street	San Pedro	90732
+West Sequoia Avenue	Visalia	93277
+West Sequoia Avenue	Woodlake	93286
+West Sequoia Circle	Porterville	93257
+West Sequoia Court	Exeter	93221
+West Serenity Drive	Sun Valley	91352
+West Service Avenue	West Covina	91790
+West Sesnon Boulevard	Porter Ranch	91326
+West Severo Place	Encino	91436
+West Shadow Glen Circle	Porter Ranch	91326
+West Shadow Mountain Drive	Pacific Palisades	90272
+West Shadow Rock Lane	Stevenson Ranch	91381
+West Shadowlawn Avenue	Los Angeles	90039
+West Shadwell Street	Carson	90745
+West Shady Valley Lane	La Habra	90631
+West Shadygrove Street	Tujunga	91042
+West Shalomere Avenue	Sherman Oaks	91423
+West Shamhart Drive	Granada Hills	91344
+West Shamwood Street	Covina	91723
+West Shangri-La Drive	Beverly Hills	90210
+West Shannon Parkway	Visalia	93291
+West Shannon Valley Road	Acton	93510
+West Sharon Road	Arcadia	91007
+West Sharon Way	La Habra	90631
+West Shasta Avenue	Tulare	93274
+West Shauer Street	Compton	90222
+West Sheffield Drive	La Habra	90631
+West Sheldon Street	Sun Valley	91352
+West Shelley Lane	Porter Ranch	91326
+West Shelly Lane	Porterville	93257
+West Shelly Street	Altadena	91001
+West Shepard Street	San Pedro	90731
+West Sheringham Lane	Los Angeles	90049
+West Sherman Avenue	Gardena	90248
+West Sherman Circle	Van Nuys	91405
+West Sherman Place	West Hills	91307
+West Sherman Road	North Hollywood	91605
+West Sherman Way	Burbank	91505
+West Sherman Way	Canoga Park	91303
+West Sherman Way	North Hollywood	91605
+West Sherman Way	Reseda	91335
+West Sherman Way	Sun Valley	91352
+West Sherman Way	Van Nuys	91405
+West Sherman Way	Van Nuys	91406
+West Sherman Way	West Hills	91307
+West Sherman Way	Winnetka	91306
+West Sherway Street	West Covina	91790
+West Sheryl Circle	Carson	90745
+West Shetland Lane	Los Angeles	90049
+West Shields Drive	San Pedro	90731
+West Shippee Road	Merced	95341
+West Shorb Street	Alhambra	91801
+West Shorb Street	Alhambra	91803
+West Shore Rd	Belvedere	94920
+West Shore Rd	Lake Arrowhead	92352
+West Shore Road	Wilmington	90744
+West Shoreham Drive	West Hollywood	90069
+West Shoreline Drive	Long Beach	90802
+West Shuttle Drive	Atwater	95301
+West Side Dr	White Water	92282
+West Side Potter Valley Rd	Potter Valley	 
+West Sidon Avenue	La Habra	90631
+West Sierra Avenue	Earlimart	93219
+West Sierra Avenue	Visalia	93291
+West Sierra Avenue	Woodlake	93286
+West Sierra Madre Avenue	Azusa	91702
+West Sierra Madre Avenue	Glendora	91741
+West Sierra Madre Boulevard	Arcadia	91006
+West Sierra Madre Boulevard	Sierra Madre	91024
+West Sierra Mar Drive	West Hollywood	90069
+West Sierra Vista Avenue	Los Angeles	90029
+West Sierra Vista Avenue	Los Angeles	90038
+West Sierra Way	Dinuba	93618
+West Signature Drive	Granada Hills	91344
+West Silliker Avenue	La Habra	90631
+West Silva Lane	San Fernando	91340
+West Silver Lake Drive	Los Angeles	90026
+West Silver Lake Drive	Los Angeles	90039
+West Silver Lea Terrace	Los Angeles	90039
+West Silver Maple Drive	La Habra	90631
+West Silver Oak Terrace	Los Angeles	90041
+West Silvercrest Drive	Lindsay	93247
+West Silverspur Lane	La Habra	90631
+West Silverwind Way	Lancaster	93536
+West Silverwood Drive	Los Angeles	90041
+West Silvius Avenue	San Pedro	90731
+West Simonds Street	Granada Hills	91344
+West Singing Hills Drive	Porter Ranch	91326
+West Sister Elsie Drive	Tujunga	91042
+West Sky Valley Road	Los Angeles	90049
+West Skye Drive	Los Angeles	90038
+West Skyline Drive	La Habra	90631
+West Skyline Drive	Los Angeles	90046
+West Skyline Ranch Road	Canyon Country	91351
+West Skyview Lane	Valencia	91355
+West Slaughter Avenue	Porterville	93257
+West Slauson Avenue	Culver City	90230
+West Slauson Avenue	Culver City	90256
+West Slauson Avenue	Los Angeles	90003
+West Slauson Avenue	Los Angeles	90037
+West Slauson Avenue	Los Angeles	90043
+West Slauson Avenue	Los Angeles	90044
+West Slauson Avenue	Los Angeles	90047
+West Slauson Avenue	Los Angeles	90056
+West Slauson Avenue	Los Angeles	90058
+West Sloan Canyon Road	Castaic	91384
+West Sly Street	Dorris	96023
+West Smilax Street	Los Angeles	90004
+West Smiley Drive	Los Angeles	90016
+West Smith Drive	Claremont	91711
+West Smith Street	Pomona	91766
+West Snead Street	La Habra	90631
+West Sofia Lane	San Fernando	91340
+West Solano Avenue	Los Angeles	90012
+West Somma Way	Los Angeles	90077
+West Sonora Avenue	La Habra	90631
+West Sonora Avenue	Tulare	93274
+West Sonora Place	Claremont	91711
+West Sorrento Lane	Porter Ranch	91326
+West Sotello Street	Los Angeles	90012
+West Soults Drive	Tulare	93274
+West South Avenue	Delhi	95315
+West South Park Avenue	Los Angeles	90066
+West Southwest Drive	Los Angeles	90043
+West Southwood Drive	Woodland	95695
+West Spacecraft Drive	Atwater	95301
+West Spazier Avenue	Burbank	91502
+West Spazier Avenue	Burbank	91506
+West Spencer Avenue	Tipton	93272
+West Sperry Street	Los Angeles	90039
+West Spiers Street	Montague	96064
+West Split Oak Road	Chatsworth	91311
+West Sprague Street	Compton	90222
+West Spring Oak Drive	Los Angeles	90068
+West Spring Street	Long Beach	90806
+West Spring Street	Long Beach	90810
+West Spring Tree Court	La Habra	90631
+West Springville Avenue	Porterville	93257
+West Spruce Avenue	Inglewood	90301
+West Spruce Circle	Porter Ranch	91326
+West Spruce Street	Compton	90220
+West Spruce Street	Los Angeles	90012
+West Spruce Street	West Covina	91790
+West Spumante Court	Brentwood	94513
+West St	Albion	 
+West St	Anderson	96007
+West St	Berkeley	94702
+West St	Cambria	93428
+West St	City Of Shasta Lake	96019
+West St	Concord	94521
+West St	Coulterville	95311
+West St	Crockett	94525
+West St	Fort Bragg	 
+West St	Garden Grove	92840
+West St	Garden Grove	92841
+West St	Garden Grove	92843
+West St	Hayward	94545
+West St	Hollister	95023
+West St	La Mesa	91941
+West St	Laguna Beach	92651
+West St	Lemon Grove	91945
+West St	Monte Rio	95462
+West St	Morro Bay	93442
+West St	Napa	94559
+West St	Oceanside	92054
+West St	Petaluma	94952
+West St	Pittsburg	94565
+West St	Raymond	93653
+West St	Redding	96001
+West St	San Diego	92113
+West St	San Luis Obispo	93405
+West St	San Rafael	94901
+West St	Santa Maria	93458
+West St	Sausalito	94965
+West St	Sebastopol	95472
+West St	Somis	93066
+West St	Susanville	96130
+West St	Talmage	 
+West St	Tracy	95376
+West St	Trinidad	95570
+West St Andrews Avenue	La Habra	90631
+West St Andrews Place	Los Angeles	90047
+West St Bernard Street	Playa Del Rey	90293
+West St Charles Place	Los Angeles	90019
+West St Elmo Drive	Los Angeles	90019
+West St Ives Drive	West Hollywood	90069
+West St James Park	Los Angeles	90007
+West St Lawrence Drive	Merced	95348
+West St Moritz Drive	Tarzana	91356
+West Stacie Avenue	Porterville	93257
+West Stadium Avenue	Tulare	93274
+West Stagg Street	North Hollywood	91605
+West Stagg Street	Van Nuys	91406
+West Stagg Street	Winnetka	91306
+West Stallion Ranch Road	Sunland	91040
+West Stanford Avenue	Pixley	93256
+West Stanton Avenue	La Habra	90631
+West Star Rd	Borrego Springs	92004
+West Starburst Ct	Windsor	95492
+West Starburst Drive	West Covina	91790
+West Stardust Drive	West Covina	91790
+West Stare Street	North Hills	91343
+West Stare Street	Northridge	91325
+West Starlight Drive	West Covina	91790
+West Starlight Heights Drive	La Canada Flintridge	91011
+West Starlight Lane	Castaic	91384
+West State Drive	Los Angeles	90037
+West State Highway 12	Rio Vista	94571
+West State Highway 12	Suisun City	94585
+West State Highway 3	Yreka	96064
+West State Highway 3	Yreka	96097
+West State Highway 37	Vallejo	94592
+West State Highway 89	Mccloud	96057
+West State Highway 89	Mount Shasta	96057
+West State Highway 89	Mount Shasta	96067
+West State Route 66	Azusa	91702
+West State Route 66	Claremont	91711
+West State Route 66	Pomona	91767
+West State Street	Pasadena	91105
+West Steelhead Road	June Lake	93529
+West Steelhead Street	June Lake	93529
+West Steinbeck Drive	Los Angeles	90039
+West Stephenson St	Ukiah	 
+West Stewart Avenue	Visalia	93291
+West Stewart Court	Visalia	93291
+West Stewart Way	Long Beach	90807
+West Stocker Street	Glendale	91202
+West Stocker Street	Glendale	91207
+West Stocker Street	Los Angeles	90008
+West Stockwell Street	Compton	90222
+West Stone Bend Lane	Canoga Park	91304
+West Stone Canyon Road	Los Angeles	90077
+West Stoneham Way	La Habra	90631
+West Stoney Lane	Los Angeles	90049
+West Storm Parkway	Torrance	90501
+West Story Avenue	La Habra	90631
+West Stradella Court	Los Angeles	90077
+West Strata Lane	Los Angeles	90041
+West Stratford Circle	Los Angeles	90077
+West Stratford Lane	San Dimas	91773
+West Strathern Street	Canoga Park	91304
+West Strathern Street	North Hollywood	91605
+West Strathern Street	Sun Valley	91352
+West Strathern Street	Winnetka	91306
+West Strathmore Drive	Los Angeles	90024
+West Street	Salinas	93901
+West Street	San Ardo	93450
+West Street	Soledad	93960
+West Street	Suisun City	94585
+West Street	Vacaville	95688
+West Street	Woodland	95695
+West Studio Court	Los Angeles	90038
+West Stuhr Drive	San Gabriel	91775
+West Sue Avenue	Visalia	93277
+West Sueno Road	Woodland Hills	91364
+West Suffolk Avenue	Montebello	90640
+West Summer Maple Way	Lawndale	90260
+West Summerland Avenue	San Pedro	90731
+West Summerland Avenue	San Pedro	90732
+West Summerland Place	San Pedro	90731
+West Summerland Street	Rancho Palos Verdes	90275
+West Summerland Street	San Pedro	90732
+West Summers Meadow Road	Bridgeport	93517
+West Summershade Drive	La Habra	90631
+West Summit Circle	Beverly Hills	90210
+West Summit Street	Long Beach	90810
+West Summitrose Street	Tujunga	91042
+West Sunburst Street	Northridge	91325
+West Sunburst Street	Pacoima	91331
+West Sunburst Street	Sunland	91040
+West Sunburst Street	Sylmar	91342
+West Sundance Drive	Merced	95348
+West Sunflower Avenue	La Habra	90631
+West Sunflower Avenue	Los Angeles	90039
+West Sunkist Place	West Covina	91790
+West Sunnydell Trail	Los Angeles	90068
+West Sunnydip Trail	Los Angeles	90068
+West Sunnyside Avenue	Visalia	93277
+West Sunnyside Court	Visalia	93277
+West Sunnyside Drive	Visalia	93277
+West Sunnyview Avenue	Visalia	93291
+West Sunnyview Court	Visalia	93291
+West Sunrise Lane	San Pedro	90732
+West Sunrise Place	Playa Vista	90094
+West Sunset Avenue	Los Angeles	90027
+West Sunset Boulevard	Beverly Hills	90210
+West Sunset Boulevard	Los Angeles	90012
+West Sunset Boulevard	Los Angeles	90026
+West Sunset Boulevard	Los Angeles	90027
+West Sunset Boulevard	Los Angeles	90028
+West Sunset Boulevard	Los Angeles	90029
+West Sunset Boulevard	Los Angeles	90046
+West Sunset Boulevard	Los Angeles	90049
+West Sunset Boulevard	Los Angeles	90077
+West Sunset Boulevard	Pacific Palisades	90272
+West Sunset Boulevard	West Hollywood	90069
+West Sunset Drive	Los Angeles	90027
+West Sunset Drive	Visalia	93291
+West Sunset Place	Los Angeles	90005
+West Sunset Plaza Terrace	West Hollywood	90069
+West Sunshine Terrace	Studio City	91604
+West Superior Street	Chatsworth	91311
+West Superior Street	Northridge	91325
+West Susanne Marie Court	Azusa	91702
+West Swanee Lane	Covina	91723
+West Swanee Lane	West Covina	91790
+West Swearingen Avenue	Porterville	93257
+West Sweet Avenue	Visalia	93291
+West Sweet Court	Visalia	93291
+West Sweet Drive	Visalia	93291
+West Sweetzer Court	Los Angeles	90048
+West Switzer Avenue	Visalia	93291
+West Sycamore Avenue	Arcadia	91006
+West Sycamore Avenue	El Segundo	90245
+West Sycamore Drive	San Gabriel	91775
+West Sylvan Street	North Hollywood	91606
+West Sylvan Street	Van Nuys	91401
+West Sylvan Street	Van Nuys	91411
+West Sylvester Street	Los Angeles	90066

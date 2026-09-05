@@ -1,0 +1,45 @@
+Pajama Dr	Oceanside	92054
+Pajara Dr	Yucca Valley	92284
+Pajarito Court	Valencia	91355
+Pajarito Ct	Brentwood	94513
+Pajarito Ln	Rancho Santa Margarita	92679
+Pajaro	Freedom	95019
+Pajaro	Salinas	93901
+Pajaro Av	Manteca	95336
+Pajaro Ave	Manteca	95336
+Pajaro Ave	Salton City	92274
+Pajaro Ave	Ventura	93004
+Pajaro Circle	Salinas	93901
+Pajaro Court	Atwater	95301
+Pajaro Court	Livingston	95334
+Pajaro Court	Los Banos	93635
+Pajaro Court	Royal Oaks	95076
+Pajaro Ct	Auburn	95603
+Pajaro Ct	Sacramento	95864
+Pajaro Ct	San Jose	95120
+Pajaro Ct	Victorville	92395
+Pajaro Drive	Los Banos	93635
+Pajaro Hills Court	Royal Oaks	95076
+Pajaro Hills Drive	Royal Oaks	95076
+Pajaro Hills Lane	Royal Oaks	95076
+Pajaro Ln	Atascadero	93422
+Pajaro Ln	Coarsegold	93614
+Pajaro Ln	Forestville	95436
+Pajaro Ln	Nipomo	93444
+Pajaro Pkwy	Redding	96002
+Pajaro Pkwy	Redding	96003
+Pajaro Rd	Palm Springs	92262
+Pajaro Rd	San Juan Bautista	95045
+Pajaro Rd	Temecula	92590
+Pajaro St	Oxnard	93030
+Pajaro Street	Castroville	95012
+Pajaro Street	Salinas	93901
+Pajaro Vista	Watsonville	95076
+Pajaro Way	Salinas	93901
+Pajaro Way	San Diego	92127
+Pajaro Way	San Jose	95120
+Pajaro Way	Vallejo	94591
+Pajaro Wy	Stockton	95206
+Pajero Dr	Corona	92882
+Pajodo Pl	Vista	92084
+Pajora Way	Rancho Cordova	95742

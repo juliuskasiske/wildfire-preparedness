@@ -1,0 +1,317 @@
+S F	Imperial	92251
+S F	Westmorland	92281
+S F Dr	Imperial	92251
+S F Hwy	Imperial	92251
+S F Ln	Big Bear City	92314
+S F St	Bakersfield	93304
+S F St	Fresno	93706
+S F St	Imperial	92251
+S F St	Lompoc	93436
+S F St	Lompoc	93454
+S F St	Oxnard	93030
+S F St	Oxnard	93033
+S F St	Perris	92570
+S F St	Porterville	93257
+S F St	San Bernardino	92410
+S F St	Santa Maria	93454
+S F St	Santa Maria	93455
+S F St	Stockton	95205
+S F St	Westmorland	92281
+S Fable Privado	Ontario	91761
+S Fagin Ct	Tracy	95304
+S Fagin Dr	Tracy	95304
+S Fahrion Pl	Anaheim	92805
+S Fair Ave	Fresno	93706
+S Fair Oaks Ave	Sunnyvale	94086
+S Fairbanks	Sanger	93657
+S Fairbanks Ave	Sanger	93657
+S Fairfax Ave	Firebaugh	93622
+S Fairfax Dr	Bakersfield	93307
+S Fairfax Rd	Bakersfield	93241
+S Fairfax Rd	Bakersfield	93307
+S Fairfield	El Centro	92243
+S Fairfield Ave	El Centro	92243
+S Fairfield Dr	El Centro	92243
+S Fairfield Ln	Orange	92869
+S Fairfield Ln	Seal Beach	90740
+S Fairfield St	Burney	96013
+S Fairless Ave	Tranquillity	93668
+S Fairmont Av	Lodi	95240
+S Fairmont Av	Stockton	95206
+S Fairmont Blvd	Ana	92808
+S Fairmont Blvd	Anaheim	92807
+S Fairmont Blvd	Anaheim	92808
+S Fairmont Cir	Anaheim	92807
+S Fairmont Way	Orange	92869
+S Fairmount Paseo	Ontario	91762
+S Fairoaks Rd	Tracy	95304
+S Fairview Av	Goleta	93117
+S Fairview Av	Santa Barbara	93117
+S Fairview Ave	Fresno	93706
+S Fairview St	Burbank	91505
+S Fairview St	Santa Ana	92704
+S Fairway	Palm Springs	92264
+S Fairway Ave	Fresno	93727
+S Fairway Ave	Laton	93242
+S Fairway Ct	Visalia	93277
+S Fairway Dr	Lake Arrowhead	92352
+S Fairway Dr	Porterville	93257
+S Fairway Ln	Anaheim	92807
+S Fairway St	Visalia	93277
+S Faith Home Rd	Turlock	95380
+S Falcon Ave	Hanford	93230
+S Falcon St	Anaheim	92804
+S Falling Leaf Cir	Anaheim	92807
+S Falling Star Dr	Anaheim	92808
+S Fancher St	Selma	93662
+S Fann Pl	Anaheim	92804
+S Fann St	Anaheim	92804
+S Farralon Ln	Anaheim	92808
+S Farrell Ct	La Habra	90631
+S Farrell Dr	Palm Springs	92262
+S Farrell Dr	Palm Springs	92264
+S Farrrell Dr	Palm Springs	92262
+S Fashion Park St	Orange	92866
+S Fatima Ave	Laton	93242
+S Faywood St	Anaheim	92804
+S Feather St	Anaheim	92802
+S Feland Ave	Riverdale	93656
+S Feldner Rd	Orange	92868
+S Felkins Rd	Santa Paula	93060
+S Ferguson Privado	Ontario	91762
+S Fern Ave	Anaheim	92804
+S Fern Ave	Chino	91710
+S Fern Ave	Ontario	91762
+S Fern Ave	Upland	91786
+S Fern St	Rio Dell	95562
+S Fernando St	Colton	92324
+S Fernhill Ln	Anaheim	92807
+S Fernwood Cir	Sunnyvale	94085
+S Ferrari Way	Anaheim	92807
+S Ferree St	San Bernardino	92408
+S Ferrier Ct	La Habra	90631
+S Festival Dr	Ana	92808
+S Festival Dr	Anaheim	92808
+S Fielding Dr	Whittier	90604
+S Fiesta Ranch Rd	Temecula	92591
+S Fifth Ave	Avenal	93204
+S Fifth St	Fresno	93702
+S Fifth St	Lompoc	93436
+S Fifth St	Redlands	92373
+S Fifth St	Santa Paula	93060
+S Fig Ave	Bre	92821
+S Fig Ave	Caruthers	93609
+S Fig Ave	Fresno	93706
+S Fig St	Escondido	92025
+S Fig Tree Blvd	Chowchilla	93610
+S Figueroa	Ventura	93001
+S Figueroa St	Carson	90248
+S Figueroa St	Carson	90745
+S Figueroa St	Santa Ana	92703
+S Figueroa St	Santa Ana	92704
+S Figueroa St	Ventura	93001
+S Filbert Ave	Fresno	93727
+S Filbert St	Stockton	95205
+S Filice	Salinas	93905
+S Filice Street	Salinas	93905
+S Fillmore Ave	Bloomington	92316
+S Fillmore Ave	Rialto	92376
+S Finch Dr	Big Bear Lake	92315
+S Fine Ave	Fresno	93725
+S Fine Ave	Fresno	93727
+S Fine Rd	Linden	95236
+S Finngal Pl	Whittier	90601
+S Finrod Ct	Thousand Oaks	91361
+S Fir St	Porterville	93257
+S Fir St	Ventura	93001
+S Firebird Ave	Whittier	90605
+S Firefly Dr	Ana	92808
+S Firefly Dr	Anaheim	92808
+S Firenza Way	Orange	92869
+S Firethorne St	Bre	92821
+S First	Santa Maria	93455
+S First Ave	Avenal	93204
+S First Ave	Barstow	92311
+S First Ave	Whittier	90603
+S First Pl	Lompoc	93436
+S First St	Banning	92220
+S First St	Blythe	92225
+S First St	Brawley	92227
+S First St	Dunsmuir	96025
+S First St	Farmington	95230
+S First St	Fresno	93702
+S First St	Fresno	93721
+S First St	Lompoc	93436
+S First St	Orcutt	93455
+S First St	Santa Maria	93455
+S First St	Turlock	95380
+S Firwood Ln	Anaheim	92806
+S Fisher Ave	Reedley	93654
+S Fitch Mountain Ct	Healdsburg	95448
+S Fitch Mountain Rd	Healdsburg	95448
+S Fitzgerald Ln	Mh	95391
+S Fix Way	Ventura	93001
+S Flagstone Ave	Ontario	91762
+S Flicker Ct	Anaheim	92807
+S Flint Ridge Way	Anaheim	92808
+S Flint Way	San Bernardino	92408
+S Flintridge Dr	Santa Ana	92704
+S Flintridge Way	Ana	92808
+S Flintridge Way	Anaheim	92808
+S Flippen Dr	Anaheim	92802
+S Flood Rd	Auburn	95603
+S Flora Way	Santa Maria	93458
+S Flora Wy	Santa Maria	93458
+S Floral St	Visalia	93291
+S Flore St	Anaheim	92802
+S Florence Ave	Whittier	90601
+S Florette St	Anaheim	92804
+S Florez St	Colton	92324
+S Florida Ave	Banning	92220
+S Florida St	Banning	92220
+S Florin Ln	Anaheim	92804
+S Flower Ave	Bre	 
+S Flower Ave	Bre	92821
+S Flower Ave	Brea	92821
+S Flower Cir	Orange	92868
+S Flower Hill St	Bre	92821
+S Flower Hill St	Brea	92821
+S Flower St	Burbank	91502
+S Flower St	Orange	92868
+S Flower St	Santa Ana	92703
+S Flower St	Santa Ana	92707
+S Flower St	Stockton	95215
+S Floyd Ave	Fresno	93706
+S Floyd Ct	La Habra	90631
+S Foisy St	San Bernardino	92408
+S Foley Pl	Orange	92868
+S Folklore Loop	Union City	94587
+S Fonda St	La Habra	90631
+S Fonda St	Lah	90631
+S Fondren St	Orange	92868
+S Fontana Ct	Visalia	93277
+S Fontana St	Visalia	93277
+S Foothill Blvd	Cloverdale	95425
+S Foothill Blvd	Cupertino	95014
+S Foothill Rd	Banning	92220
+S Forbes Rd	Lincoln	95648
+S Forbes St	Lakeport	95453
+S Ford Ave	Fullerton	92832
+S Ford Ct	La Habra	90631
+S Fordham Ave	Fresno	93727
+S Forest Ave	Bloomington	92316
+S Forest Ave	Rialto	92376
+S Forest Ave	Santa Ana	92703
+S Forest Ave	Santa Ana	92704
+S Forest Ave	Whittier	90602
+S Forest Cir	Santa Ana	92703
+S Forest Dr	Colton	92324
+S Forest Hill Pl	Danville	94526
+S Forest Oaks Dr	Beaumont	92223
+S Forest Rd (River Club)	Tracy	95304
+S Foresthill St	Colfax	95713
+S Forestor Ln	Mh	95391
+S Fork Ct	Oroville	95966
+S Fork Diamond Mountain Rd	Calistoga	94515
+S Fork Dr	Canyon Lake	92587
+S Fork Indian Creek Rd	Douglas City	96024
+S Fork Ln	Los Altos Hills	94022
+S Fork Mad River Rd	Ruth	95526
+S Fork Trinity Trail	Forest Glen	96041
+S Fork Way	Folsom	95630
+S Forsyth Paseo	Ontario	91762
+S Fortrose Ct	Whittier	90603
+S Fortuna Bl	Fortuna	95540
+S Forty Ranch Ln	Tollhouse	93667
+S Fostoria St	Anaheim	92802
+S Founders Hill Rd	Whittier	90602
+S Four Wheel Dr	Norco	92860
+S Fourteenth St	Brawley	92227
+S Fourth	Santa Paula	93060
+S Fourth Ave	Avenal	93204
+S Fourth St	Fresno	93702
+S Fourth St	Fresno	93725
+S Fourth St	Lompoc	93436
+S Fourth St	Porterville	93257
+S Fourth St	Redlands	92373
+S Fourth St	Santa Paula	93060
+S Fowler	Selma	93662
+S Fowler Ave	Fowler	93625
+S Fowler Ave	Fresno	93725
+S Fowler Ave	Fresno	93727
+S Fowler Ave	Laton	93242
+S Fowler Ave	Selma	93662
+S Fowler Ave	Thousand Oaks	91320
+S Fowler Dr	Thousand Oaks	91320
+S Fowler Ln	Mh	95391
+S Fox Creek Ln	Ontario	91761
+S Fox Run Pl	Chula Vista	91914
+S Fox St	Ojai	93023
+S Foxdale Ln	Anaheim	92807
+S Foxenwood Cir	Santa Maria	93455
+S Foxglen Loop	Ontario	91761
+S Foxglove St	Bre	92821
+S Frances St	Sunnyvale	94086
+S Francis St	San Diego	92113
+S Francisco Ct	Antioch	94509
+S Francisco Pl	Anaheim	92807
+S Francisco St	Anaheim	92807
+S Francisco Way	Antioch	94509
+S Frank Ave	Fresno	93725
+S Franklin Ct	San Bernardino	92408
+S Franklin St	Cloverdale	95425
+S Franklin St	Fort Bragg	 
+S Franklin St	Hemet	92543
+S Franklin St	Napa	94559
+S Franklin St	Santa Ana	92703
+S Franklin St Unit A	Fort Bragg	95437
+S Frankwood Ave	Reedley	93654
+S Frankwood Ave	Sanger	93657
+S Frederick Av	Ripon	95366
+S Freeman	Calipatria	92233
+S Freeman St	Oceanside	92054
+S Freeport Ct	Thousand Oaks	91361
+S Freeway Dr	Napa	94558
+S Fremont Av	Manteca	95336
+S Fremont Ave	Manteca	95336
+S Fremont Rd	Lake Arrowhead	92352
+S Fremont St	Anaheim	92804
+S Fremont St	San Mateo	94401
+S Fremont St	San Mateo	94402
+S French Camp Rd	French Camp	95231
+S French Camp Rd	Stockton	95206
+S French Camp Rd	Stockton	95231
+S Fresno Av	Stockton	95203
+S Fresno Av	Stockton	95206
+S Fresno Coalinga Rd	Coalinga	93210
+S Fresno Coalinga Rd	Five Points	93624
+S Friant Rd (River Club)	Tracy	95304
+S Frick Rd	Stockton	95215
+S Friendly Woods Ln	Whittier	90605
+S Friends Ave	Whittier	90601
+S Friends Ave	Whittier	90602
+S Front Ave	Fresno	93725
+S Front St	Burbank	91502
+S Front St	Chowchilla	93610
+S Front St	Hercules	94547
+S Front Street	Soledad	93960
+S Frontage Rd	Nipomo	93444
+S Frontage St	Nipomo	93444
+S Frontier Ct	Anaheim	92807
+S Frosty Way	Santa Maria	93454
+S Frosty Way	Santa Maria	93455
+S Frosty Wy	Santa Maria	93454
+S Frosty Wy	Santa Maria	93455
+S Fruit Ave	Caruthers	93609
+S Fruit Ave	Fresno	93706
+S Fruit Ave	Riverdale	93656
+S Fth St	Coalinga	93210
+S Fuchsia Ave	Ontario	91762
+S Fulgham St	Visalia	93277
+S Fulton	Ojai	93023
+S Fulton Ct	Santa Maria	93458
+S Fulton St	Mh	95391
+S Fulton St	Ojai	93023
+S Fulton Way	Upland	91786
+S Furlong Way	Aguanga	92536
+S Furtado Gl	Mh	95391

@@ -1,0 +1,452 @@
+Fuchsia	Aliso Viejo	92656
+Fuchsia	Freedom	95019
+Fuchsia	Irvine	92604
+Fuchsia	Lake Forest	92630
+Fuchsia Ave	Indio	92201
+Fuchsia Ave	Rohnert Park	94928
+Fuchsia Avenue	Ivanhoe	93235
+Fuchsia Cir	Placentia	92870
+Fuchsia Cir	Redlands	92374
+Fuchsia Cir	Seal Beach	90740
+Fuchsia Circle	Santa Fe Springs	90670
+Fuchsia Court	Vallejo	94591
+Fuchsia Court	Woodland Hills	91367
+Fuchsia Ct	Adelanto	92301
+Fuchsia Ct	Corona	92883
+Fuchsia Ct	Fontana	92336
+Fuchsia Ct	Gilroy	95020
+Fuchsia Ct	Hercules	94547
+Fuchsia Ct	Mecca	92254
+Fuchsia Ct	Oceanside	92054
+Fuchsia Ct	Roseville	95747
+Fuchsia Ct	Sacramento	95823
+Fuchsia Ct	Unincorporated Alameda County	94541
+Fuchsia Dr	Hollister	95023
+Fuchsia Dr	Lodi	95242
+Fuchsia Dr	Rancho Cucamonga	91739
+Fuchsia Dr	San Jose	95125
+Fuchsia Dr	Sunnyvale	94086
+Fuchsia Drive	Benicia	94510
+Fuchsia Ln	Carlsbad	92011
+Fuchsia Ln	Modesto	95356
+Fuchsia Ln	Oak Hills	92344
+Fuchsia Ln	Perris	92571
+Fuchsia Ln	San Diego	92154
+Fuchsia Ln	San Ramon	94582
+Fuchsia Ln	Santa Paula	93060
+Fuchsia Ln	Victorville	92392
+Fuchsia Pl	Riverside	92503
+Fuchsia Pl	Ventura	93004
+Fuchsia St	Corona	92879
+Fuchsia St	Costa Mesa	92626
+Fuchsia St	Oxnard	93036
+Fuchsia St	Seal Beach	90740
+Fuchsia Way	Chico	95926
+Fuchsia Way	Healdsburg	95448
+Fuchsia Way	Mecca	92254
+Fuego Avenue	Pomona	91767
+Fuego Cir	Palm Springs	92264
+Fuego Ct	Indio	92203
+Fuego Street	Long Beach	90805
+Fuego Way	Elk Grove	95758
+Fuel Circle Drive	Atwater	95301
+Fuente	Rancho Santa Margarita	92688
+Fuente Ave	Hesperia	92344
+Fuente Ave	Oak Hills	92344
+Fuente Ave	Salton City	92274
+Fuente Ave	San Francisco	94132
+Fuente Ct	Antioch	94509
+Fuente Ct	Moreno Valley	92551
+Fuente Ct	Murrieta	92563
+Fuente De Flores	La Grange	95329
+Fuente De Paz	Rancho Murieta	95683
+Fuente Del Oro	Atascadero	93422
+Fuente Dr	Guadalupe	93434
+Fuente Dr	Oxnard	93030
+Fuente Ln	Hesperia	92344
+Fuente Ln	Sonoma	95476
+Fuente Pl	Lincoln	95648
+Fuente Querida Rd	Pinon Hills	92372
+Fuentes	Newport Beach	92660
+Fuentes Ct	National City	91950
+Fuentes Dr	Pioneer	95666
+Fuentes Dr S	Pioneer	95666
+Fuentes Ln	Simi Valley	93063
+Fuentes Rd	Atascadero	93422
+Fuentes St	Bakersfield	93313
+Fuera Ln	Montecito	93108
+Fuero Drive	Walnut	91789
+Fuerte Avenue	Walnut	91789
+Fuerte Bluff Dr	El Cajon	92019
+Fuerte Cir	Palm Springs	92262
+Fuerte Ct	Hemet	92545
+Fuerte Dr	El Cajon	92020
+Fuerte Dr	La Mesa	91941
+Fuerte Dr	Lake Forest	92630
+Fuerte Dr	Lake Forest	92630-8149
+Fuerte Dr	Santa Paula	93060
+Fuerte Drive	Walnut	91789
+Fuerte Estates Dr	El Cajon	92019
+Fuerte Farms Rd	El Cajon	92020
+Fuerte Heights Ln	El Cajon	92019
+Fuerte Hills Dr	El Cajon	92020
+Fuerte Knolls Ln	El Cajon	92020
+Fuerte Lane	La Habra	90631
+Fuerte Ln	Escondido	92026
+Fuerte Ranch Rd	El Cajon	92019
+Fuerte Rd	El Cajon	92020
+Fuerte Rd	Temecula	92590
+Fuerte Road	Walnut	91789
+Fuerte St	Fallbrook	92028
+Fuerte St	Oceanside	92054
+Fuerte Valley Dr	El Cajon	92019
+Fuerte Valley Rd	El Cajon	92019
+Fuerte Vista Ln	El Cajon	92020
+Fuertes St	Irvine	92617
+Fugate Ct	Moreno Valley	92551
+Fugate Landing	Dos Palos	93620
+Fugatt Ct	Anza	92539
+Fugler Rd	Santa Maria	93454
+Fuhrman Ct	Roseville	95747
+Fuhrman Wy	Roseville	95747
+Fuhrmann Dr	Paradise	95969
+Fuji Cir	Corona	92883
+Fuji Court	Canyon Country	91387
+Fuji Ct	Apple Valley	92308
+Fuji Ct	Roseville	95747
+Fuji Lane	Salinas	93908
+Fuji St	Eastvale	92880
+Fuji St	Moorpark	93021
+Fuji St	San Diego	92139
+Fuji Way	Hayward	94544
+Fujiko Dr	San Jose	95131
+Fujita Street	Torrance	90505
+Fujiyama Dr	Indio	92203
+Fujiyama Way	Redding	96001
+Fulai Ct	San Jose	95125
+Fulbar Ct	San Jose	95132
+Fulbourn Ct	Rancho Cucamonga	91730
+Fulbourne Dr	Bakersfield	93312
+Fulbright Ave	Redlands	92373
+Fulcher Avenue	North Hollywood	91601
+Fulcher Avenue	North Hollywood	91606
+Fulda Creek Ln	Emigrant Gap	95715
+Fulda Rd	Emigrant Gap	95715
+Fulgham Ln	Squaw Valley	93675
+Fulham Court	Palmdale	93551
+Fulham Ct	Galt	95632
+Fulham Ct	San Ramon	94583
+Fulham St	Corona	92880
+Fulham Way	San Diego	92139
+Fulhan St	Bakersfield	93311
+Fulkerson St	Santa Rosa	95404
+Fulkerth Rd	Ceres	95307
+Fulkerth Rd	Turlock	95380
+Full Circle	Davis	95618
+Full Moon	Irvine	92618
+Full Moon Court	Grass Valley	95949
+Full Moon Ct	Lakeside	92040
+Full Moon Ct	Murrieta	92563
+Full Moon Ct	Roseville	95747
+Full Moon Dr	Richmond	94803
+Full Moon Way	Danville	94506
+Full Moon Way	La Quinta	92253
+Full Sun	Irvine	92618
+Fullbright Avenue	Chatsworth	91311
+Fullbright Avenue	Winnetka	91306
+Fullbright Ct	Lathrop	95330
+Fullbright Place	Chatsworth	91311
+Fullbroke Dr	Thousand Oaks	91362
+Fullbrook Court	Glendale	91206
+Fulleerton Ave	Salton City	92274
+Fullen St	Sutter Creek	95685
+Fuller	Simi Valley	93065
+Fuller Av	Tracy	95377
+Fuller Ave	Cabazon	92230
+Fuller Ave	Hayward	94541
+Fuller Ave	San Jose	95125
+Fuller Ave	Simi Valley	93065
+Fuller Avenue	Los Angeles	90036
+Fuller Avenue	Los Angeles	90046
+Fuller Ct	Lincoln	95648
+Fuller Ct	Oakley	94561
+Fuller Ct	Redding	96003
+Fuller Ct	Riverside	92504
+Fuller Dr	Bakersfield	93307
+Fuller Dr	Granite Bay	95746
+Fuller Dr	Lake Pillsbury	95469
+Fuller Dr	Palm Desert	92260
+Fuller Drive	Claremont	91711
+Fuller Drive	Weed	96094
+Fuller Lake Road	Soda Springs	95728
+Fuller Lane	Dixon	95620
+Fuller Ln	Jackson	 
+Fuller Ln	Jackson	95642
+Fuller Ln	Lincoln	95648
+Fuller Mountain Rd	Annapolis	95412
+Fuller Rd	Paso Robles	93446
+Fuller Rd	San Luis Obispo	93401
+Fuller Rd	Twain Harte	95383
+Fuller Ridge Rd	Annapolis	95412
+Fuller St	Corona	92879
+Fuller St	Redwood City	94063
+Fuller St	Santa Clara	95054
+Fuller St	Simi Valley	93065
+Fuller St	Twentynine Palms	92277
+Fuller Ter	Sunnyvale	94086
+Fuller Way	Napa	94559
+Fuller Way	Sacramento	95821
+Fullercreek Rd	Chino Hills	91709
+Fullerfarm Street	Northridge	91325
+Fullerton Av	Stockton	95204
+Fullerton Ave	Buena Park	90621
+Fullerton Ave	Corona	92879
+Fullerton Ave	Corona	92881
+Fullerton Ave	Costa Mesa	92627
+Fullerton Ave	Murrieta	92562
+Fullerton Ave	Newport Beach	92663
+Fullerton Ave	Pacifica	94044
+Fullerton Ave	Salton City	92274
+Fullerton Ave	San Diego	92123
+Fullerton Court	Fairfield	94533
+Fullerton Creek Dr	Fullerton	92831
+Fullerton Ct	Perris	92571
+Fullerton Ct	Sacramento	95825
+Fullerton Ct	San Jose	95111
+Fullerton Dr	San Jose	95111
+Fullerton Dr	Thermal	92274
+Fullerton Dr	Turlock	95382
+Fullerton Dr	Victorville	92392
+Fullerton Drive	Fairfield	94533
+Fullerton Ln	Petaluma	94952
+Fullerton Ln	Victorville	92392
+Fullerton Ranch Rd	Lincoln	95648
+Fullerton Rd	Murrieta	92562
+Fullerton Road	La Habra	90631
+Fullerton Road	Rowland Heights	91748
+Fullerton Way	Cottonwood	96022
+Fullforce Rd	Lucerne Valley	92356
+Fullham St	Corona	92880
+Fullmoon Drive	Glendale	91206
+Fullmoon Street	Palmdale	93550
+Fulmar Ave	Ventura	93003
+Fulmar Avenue	Torrance	90501
+Fulmar Drive	Suisun City	94585
+Fulmar Ln	Aliso Viejo	92656
+Fulmar Pl	Grand Terrace	92313
+Fulmar St	San Diego	92114
+Fulmer Ct	Jurupa Valley	91752
+Fulmer Dr	Garden Grove	92840
+Fulmor Drive	Dixon	95620
+Fulmor Rd	Ferndale	95536
+Fulmore Rd	Ferndale	95536
+Fulson Rd	Hinkley	92347
+Fulstow Ct	Folsom	95630
+Fulton	Irvine	92620
+Fulton And Frank Way	Esparto	95627
+Fulton Av	Ripon	95366
+Fulton Ave	Bakersfield	93306
+Fulton Ave	Hemet	92544
+Fulton Ave	Palermo	95968
+Fulton Ave	Sacramento	95821
+Fulton Ave	Sacramento	95825
+Fulton Ave	Salton City	92274
+Fulton Ave	Sunnyvale	94089
+Fulton Avenue	Monterey Park	91755
+Fulton Avenue	North Hollywood	91605
+Fulton Avenue	Pasadena	91107
+Fulton Avenue	Sherman Oaks	91423
+Fulton Avenue	Studio City	91604
+Fulton Avenue	Vallejo	94591
+Fulton Avenue	Van Nuys	91401
+Fulton Court	Dixon	95620
+Fulton Court	Van Nuys	91401
+Fulton Crescent Dr	Carnelian Bay	96140
+Fulton Ct	Danville	94526
+Fulton Ct	Hanford	93230
+Fulton Ct	Hemet	92544
+Fulton Ct	Milpitas	95035
+Fulton Ct	Rancho Cucamonga	91730
+Fulton Ct	Santa Clara	95051
+Fulton Ct	Victorville	92392
+Fulton Drive	Fairfield	94534
+Fulton Gulch Rd	Hayfork	96041
+Fulton Ln	St Helena	94574
+Fulton Pl	Santa Rosa	95401
+Fulton Pl	Windsor	95492
+Fulton Rd	Fulton	95439
+Fulton Rd	Lucerne	95458
+Fulton Rd	San Marcos	92069
+Fulton Rd	San Mateo	94402
+Fulton Rd	Santa Rosa	95401
+Fulton Rd	Santa Rosa	95403
+Fulton Road	La Verne	91750
+Fulton Road	Pomona	91767
+Fulton Road	Pomona	91768
+Fulton Shipyard Rd	Antioch	94509
+Fulton Square Ln	Sacramento	95821
+Fulton St	Berkeley	94704
+Fulton St	Berkeley	94705
+Fulton St	Camarillo	93010
+Fulton St	Campbell	95008
+Fulton St	Columbia	95310
+Fulton St	Fresno	93701
+Fulton St	Fresno	93721
+Fulton St	Fresno	93728
+Fulton St	Hemet	92544
+Fulton St	Modesto	95350
+Fulton St	Ojai	93023
+Fulton St	Palo Alto	94301
+Fulton St	Palo Alto	94303
+Fulton St	Redwood City	94061
+Fulton St	Redwood City	94062
+Fulton St	San Diego	92111
+Fulton St	San Francisco	94102
+Fulton St	San Francisco	94117
+Fulton St	San Francisco	94118
+Fulton St	San Francisco	94121
+Fulton St	San Francisco	94122
+Fulton Street	Tulare	93274
+Fulton View Way	Santa Rosa	95401
+Fulton Way	Danville	94526
+Fulton Way	El Sobrante	94803
+Fulton Way	Hollister	95023
+Fulton Way	Salinas	93907
+Fulton Way	Stanton	90680
+Fulton Wells Avenue	Santa Fe Springs	90670
+Fultz Court	Merced	95341
+Fulvia St	Encinitas	92024
+Fulvia St	Leucadia	92024
+Fulweiler Ave	Auburn	95603
+Fulwood Ln	San Diego	92111
+Fumarole Court	Mccloud	96057
+Fumarole Drive	Mccloud	96057
+Fumarole Place	Mccloud	96057
+Fumasi Dr	Galt	95632
+Fumay Dr	Santa Rosa	95403
+Fume Blanc Court	Los Banos	93635
+Fume Blanc Ct	San Jose	95135
+Fume Blanc Street	Los Banos	93635
+Fume Blanc Way	Sacramento	95829
+Fume Dr	Palm Desert	92211
+Fumia Ct	San Jose	95131
+Fumia Dr	San Jose	95131
+Fumia Pl	San Jose	95131
+Funchal Ct	Elk Grove	95757
+Funchal Road	Los Angeles	90077
+Fundenhall Ct	Folsom	95630
+Fundy Ct	Tracy	95377
+Funk Way	Beaumont	92223
+Funny Cide Ct	Moreno Valley	92555
+Funny Cide Dr	Bakersfield	93307
+Funny Cide St	Napa	94559
+Funquest Dr	Fallbrook	92028
+Funston Av	Stockton	95205
+Funston Ave	San Francisco	94116
+Funston Ave	San Francisco	94118
+Funston Ave	San Francisco	94122
+Funston Ave	San Francisco	94129
+Funston Ave	San Luis Obispo	93401
+Funston Avenue	Hawaiian Gardens	90716
+Funston Avenue	Norwalk	90650
+Funston Avenue	Pacific Grove	93950
+Funston Ct	Tracy	95377
+Funston Dr	Sacramento	95833
+Funston Dr	San Jose	95136
+Funston Dr	Santa Rosa	95407
+Funston Rd	San Francisco	94123
+Funston Way	Empire	95357
+Fur Trader Ln	Stonyford	95979
+Fur Trader Ln	Stonyford	95987
+Furber Ln	Cloverdale	95425
+Furber Ln	Potter Valley	 
+Furia Pl	Santa Rosa	95403
+Furka Pass Rd	Homewood	96141
+Furlong	Irvine	92602
+Furlong Ave	Gilroy	95020
+Furlong Dr	Hanford	93230
+Furlong Dr	North Tustin	92705
+Furlong Dr	San Jose	95123
+Furlong Dr	Wilton	95693
+Furlong Lane	Duarte	91008
+Furlong Pl	San Diego	92130
+Furlong Rd	Sebastopol	95472
+Furlong Rd	Willits	 
+Furlong St	Belmont	94002
+Furlong St	Riverside	92505
+Furlong Way	Antioch	94531
+Furlow Dr	Redlands	92374
+Furman Ave	Ventura	93003
+Furman Ave	Westminster	92683
+Furman Court	Fairfield	94534
+Furman Ct	Rancho Cucamonga	91701
+Furman Ct	Rancho Mirage	92270
+Furman Drive	Claremont	91711
+Furman Place	Glendale	91206
+Furman Rd	La Palma	90623
+Furman St	Ventura	93003
+Furmint Way	Rancho Cordova	95670
+Furnace Creek Rd	El Cajon	92021
+Furnace Creek Rd	Ybl	92886
+Furnace Creek Rd	Yorba Linda	92886
+Furneaux Road	Olivehurst	95961
+Furner St	El Cajon	92020
+Furness Avenue	Los Angeles	90042
+Furness Avenue	Los Angeles	90065
+Furness Way	Antelope	95843
+Furnivall Avenue	Canyon Country	91351
+Furrow	Irvine	92602
+Furrow Ct	Roseville	95747
+Furrow Ct	Wildomar	92595
+Furrow Dr	Brentwood	94513
+Furrow Rd.	Rancho Mission Viejo	92694
+Furst Rd	Lucerne Valley	92356
+Furst St	Lucerne Valley	92356
+Furtado Ln	Half Moon Bay	94019
+Furtado Road	El Nido	95317
+Furukawa Way	Santa Maria	93458
+Furukawa Wy	Santa Maria	93458
+Fury Ct	Winchester	92596
+Fury Dr	Riverside	92505
+Fury Ln	El Cajon	92019
+Fury Ln	La Mesa	91941
+Fury St	Lemoore	93245
+Furyk Way	Hemet	92545
+Fusano Avenue	Sylmar	91342
+Fuschia Ave	Chino	91710
+Fuschia Circle	Santa Fe Springs	90670
+Fuschia Ct	Bakersfield	93313
+Fuschia Ct	Martinez	94553
+Fuschia Ct	Murrieta	92562
+Fuschia Dr	Twentynine Palms	92277
+Fuschia Lane	Palmdale	93552
+Fuschia Ln	Tustin	92780
+Fuschia Rd	Twentynine Palms	92277
+Fuschia Way	Oakley	94561
+Fusco Ave	Modesto	95354
+Fusco Ln	Alpine	91901
+Fushia Court	Valencia	91354
+Fushia Way	Moreno Valley	92555
+Fusilier Way	Sacramento	95826
+Fusion Pl	Temecula	92590
+Fusion Way	Sacramento	95829
+Futamase Ct	San Jose	95111
+Futura	San Clemente	92672
+Futura Dr	Ybl	92886
+Futura Dr	Yorba Linda	92886
+Futura Ln	Arroyo Grande	93420
+Futura Point	Thousand Oaks	91362
+Futura Rose Ave	Bakersfield	93313
+Futura St	San Diego	92130
+Futura Way	Santa Rosa	95409
+Future Dr	Redding	96001
+Future Place	Los Angeles	90065
+Future St	Loleta	95551
+Future Street	Los Angeles	90065
+Future Street C St	Ione	95640
+Futurity Ct	Antelope	95843
+Futurity Ln	Fallbrook	92028
+Futuro Ct	Elk Grove	95757
+Fuyu Dr	San Jose	95134
+Fuzzy Frog Ravine	Canyon	94516
+Fuzzy Ln	Anderson	96007

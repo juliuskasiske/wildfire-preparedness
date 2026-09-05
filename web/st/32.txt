@@ -1,0 +1,46 @@
+321½ Grove St	Roseville	95678
+323½ C St	Roseville	95678
+324½ B St	Roseville	95678
+325½ C St	Roseville	95678
+326½ Earl Av	Roseville	95678
+326½ Irene Av	Roseville	95678
+329½ B St	Roseville	95678
+329½ C St	Roseville	95678
+32Nd	Santa Cruz	95062
+32Nd Ave	Blythe	92225
+32Nd Ave	Clearlake	95422
+32Nd Ave	Desert Hot Springs	92241
+32Nd Ave	Sacramento	95822
+32Nd Ave	Sacramento	95824
+32Nd Ave	San Francisco	94116
+32Nd Ave	San Francisco	94121
+32Nd Ave	San Francisco	94122
+32Nd Pl	Hermosa Beach	90254
+32Nd Place	Hermosa Beach	90254
+32Nd Place	Manhattan Beach	90266
+32Nd St	Antelope	95843
+32Nd St	Bakersfield	93301
+32Nd St	Mcclellan	95652
+32Nd St	National City	91950
+32Nd St	Newport Beach	92663
+32Nd St	North Highlands	95660
+32Nd St	Paso Robles	93446
+32Nd St	Richmond	94804
+32Nd St	Sacramento	95816
+32Nd St	Sacramento	95817
+32Nd St	Sacramento	95820
+32Nd St	Sacramento	95822
+32Nd St	San Diego	0
+32Nd St	San Diego	92102
+32Nd St	San Diego	92104
+32Nd St	San Diego	92113
+32Nd St	San Diego	92116
+32Nd Street	Lancaster	93536
+32Nd Street	Los Angeles	90007
+32Nd Street	Los Angeles	90011
+32Nd Street	Manhattan Beach	90266
+32Nd Street	Santa Monica	90405
+32Nd Street East	Lancaster	93535
+32Nd Street East	Palmdale	93550
+32Nd Street West	Lancaster	93536
+32Nd Street West	Palmdale	93551

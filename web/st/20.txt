@@ -1,0 +1,149 @@
+20 1/2 Ave	Lemoore	93245
+20 1/2 Ave	Stratford	93266
+20 Mule Team Rd	Boron	93516
+20 N 01 Rd	Lake Pillsbury	95469
+20 N 01E Rd	Lake Pillsbury	95469
+20 N 02 Rd	Lake Pillsbury	95469
+20 N 03 Rd	Lake Pillsbury	95469
+20 N 04	Covelo	 
+20 N 04 Rd	Lake Pillsbury	95469
+20 N 08 Rd	Lake Pillsbury	95469
+20 N 12 Rd	Lake Pillsbury	95469
+20 N 16 Rd	Lake Pillsbury	95469
+20 N 33 Rd	Lake Pillsbury	95469
+200Th Street East	Lancaster	93535
+200Th Street East	Palmdale	93591
+201½ Fifth St	Roseville	95678
+202Nd Street East	Lancaster	93535
+203Rd Street	Torrance	90501
+203Rd Street East	Lancaster	93535
+204½ C St	Roseville	95678
+204½ Clinton Av	Roseville	95678
+204Th Street	Torrance	90502
+205Th Street	Lakewood	90715
+205Th Street	Torrance	90501
+205Th Street East	Lancaster	93535
+205Th Street East	Palmdale	93591
+206 Spruce	Herlong	96113
+206Th Street	Lakewood	90715
+206Th Street East	Lancaster	93535
+206Th Street East	Palmdale	93591
+207½ Clinton Av	Roseville	95678
+207½ Fifth St	Roseville	95678
+207½ Fourth St	Roseville	95678
+207Th Street	Lakewood	90715
+207Th Street	Torrance	90501
+207Th Street East	Llano	93544
+208½ C St	Roseville	95678
+208½ Vallejo Av	Roseville	95678
+208Th	Torrance	90501
+208Th Street	Lakewood	90715
+208Th Street	Torrance	90501
+208Th Street East	Llano	93544
+209Th Street	Lakewood	90715
+20Th	Santa Cruz	95062
+20Th	Satna Cruz	95062
+20Th Ave	Blythe	92225
+20Th Ave	Clearlake	95422
+20Th Ave	Desert Hot Springs	92240
+20Th Ave	Desert Hot Springs	92241
+20Th Ave	Desert Hot Springs	92258
+20Th Ave	Kingsburg	93631
+20Th Ave	Lemoore	93245
+20Th Ave	Lemoore	93266
+20Th Ave	North Palm Springs	92258
+20Th Ave	Palm Springs	92262
+20Th Ave	Riverdale	93656
+20Th Ave	Sacramento	95820
+20Th Ave	Sacramento	95822
+20Th Ave	Sacramento	95826
+20Th Ave	San Francisco	94116
+20Th Ave	San Francisco	94121
+20Th Ave	San Francisco	94122
+20Th Ave	San Francisco	94132
+20Th Ave	Stratford	93266
+20Th Avenue	Venice	90291
+20Th Century Blvd	Turlock	95380
+20Th Court	Hermosa Beach	90254
+20Th Ct	Hermosa Beach	90254
+20Th Ct	Oceano	93445
+20Th Helena Drive	Los Angeles	90049
+20Th Pl	Hermosa Beach	90254
+20Th Pl	Westminster	92683
+20Th Place	Hermosa Beach	90254
+20Th Place	Manhattan Beach	90266
+20Th St	Bakersfield	93301
+20Th St	Cayucos	93430
+20Th St	Del Mar	92014
+20Th St	Desert Hot Springs	92241
+20Th St	Hermosa Beach	90254
+20Th St	Highland	92346
+20Th St	Huntington Beach	92648
+20Th St	Huntington Beach	92648-3800
+20Th St	Huntington Beach	92648-3817
+20Th St	Huntington Beach	92648-3818
+20Th St	Huntington Beach	92648-3823
+20Th St	Huntington Beach	92648-3825
+20Th St	Huntington Beach	92648-3826
+20Th St	Huntington Beach	92648-3827
+20Th St	Huntington Beach	92648-3828
+20Th St	Huntington Beach	92648-3829
+20Th St	Huntington Beach	92648-3830
+20Th St	Huntington Beach	92648-3832
+20Th St	Huntington Beach	92648-3855 
+20Th St	Huntington Beach	92648-3856 
+20Th St	Huntington Beach	92648-3857
+20Th St	Huntington Beach	92648-3858 
+20Th St	Huntington Beach	92648-3859
+20Th St	Huntington Beach	92648-3861 
+20Th St	Huntington Beach	92648-3863 
+20Th St	Huntington Beach	92648-3865 
+20Th St	Huntington Beach	92648-3867 
+20Th St	Huntington Beach	92648-3869 
+20Th St	Huntington Beach	92648-3871 
+20Th St	Huntington Beach	92648-3911
+20Th St	Huntington Beach	92648-3913
+20Th St	Huntington Beach	92648-3914
+20Th St	Huntington Beach	92648-3925
+20Th St	Huntington Beach	92648-3938 
+20Th St	Huntington Beach	92648-3939 
+20Th St	Huntington Beach	92648-3940 
+20Th St	Huntington Beach	92648-3941
+20Th St	Huntington Beach	92648-3942 
+20Th St	Jurupa Valley	92509
+20Th St	National City	91950
+20Th St	Newport Beach	92663
+20Th St	Oceano	93445
+20Th St	Oroville	95965
+20Th St	Paso Robles	93446
+20Th St	Richmond	94801
+20Th St	Rio Linda	95673
+20Th St	Sacramento	95811
+20Th St	Sacramento	95818
+20Th St	Sacramento	95822
+20Th St	San Bernardino	92404
+20Th St	San Diego	92102
+20Th St	San Diego	92113
+20Th St	San Francisco	94107
+20Th St	San Francisco	94110
+20Th St	San Francisco	94114
+20Th St	San Pablo	94806
+20Th St	Westminster	92683
+20Th St E	National City	91950
+20Th St St	Bakersfield	93301
+20Th Street	Hermosa Beach	90254
+20Th Street	Lancaster	93535
+20Th Street	Los Angeles	90007
+20Th Street	Los Angeles	90011
+20Th Street	Los Angeles	90058
+20Th Street	Manhattan Beach	90266
+20Th Street	Pacific Grove	93950
+20Th Street	Palmdale	93550
+20Th Street	Santa Monica	90402
+20Th Street	Santa Monica	90403
+20Th Street	Santa Monica	90404
+20Th Street	Santa Monica	90405
+20Th Street East	Lancaster	93535
+20Th Street East	Palmdale	93550
+20Th Street West	Lancaster	93534
+20Th Street West	Palmdale	93551

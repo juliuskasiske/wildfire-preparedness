@@ -1,0 +1,74 @@
+West 70Th Street	Los Angeles	90003
+West 70Th Street	Los Angeles	90043
+West 70Th Street	Los Angeles	90044
+West 70Th Street	Los Angeles	90047
+West 71St Street	Los Angeles	90003
+West 71St Street	Los Angeles	90043
+West 71St Street	Los Angeles	90044
+West 71St Street	Los Angeles	90047
+West 73Rd Street	Los Angeles	90003
+West 73Rd Street	Los Angeles	90043
+West 73Rd Street	Los Angeles	90044
+West 73Rd Street	Los Angeles	90047
+West 74Th Place	Inglewood	90305
+West 74Th Street	Los Angeles	90001
+West 74Th Street	Los Angeles	90003
+West 74Th Street	Los Angeles	90043
+West 74Th Street	Los Angeles	90044
+West 74Th Street	Los Angeles	90045
+West 74Th Street	Los Angeles	90047
+West 75Th Place	Inglewood	90305
+West 75Th Place	Los Angeles	90045
+West 75Th Street	Los Angeles	90003
+West 75Th Street	Los Angeles	90043
+West 75Th Street	Los Angeles	90044
+West 75Th Street	Los Angeles	90045
+West 75Th Street	Los Angeles	90047
+West 76Th Place	Los Angeles	90045
+West 76Th Street	Inglewood	90305
+West 76Th Street	Los Angeles	90003
+West 76Th Street	Los Angeles	90043
+West 76Th Street	Los Angeles	90044
+West 76Th Street	Los Angeles	90045
+West 76Th Street	Los Angeles	90047
+West 77H Street	Los Angeles	90003
+West 77Th Place	Los Angeles	90045
+West 77Th Street	Inglewood	90305
+West 77Th Street	Los Angeles	90003
+West 77Th Street	Los Angeles	90043
+West 77Th Street	Los Angeles	90044
+West 77Th Street	Los Angeles	90045
+West 77Th Street	Los Angeles	90047
+West 78Th Place	Inglewood	90305
+West 78Th Place	Los Angeles	90043
+West 78Th Place	Los Angeles	90045
+West 78Th Place	Los Angeles	90047
+West 78Th Street	Inglewood	90305
+West 78Th Street	Los Angeles	90001
+West 78Th Street	Los Angeles	90003
+West 78Th Street	Los Angeles	90043
+West 78Th Street	Los Angeles	90044
+West 78Th Street	Los Angeles	90045
+West 78Th Street	Los Angeles	90047
+West 79Th Place	Los Angeles	90045
+West 79Th Street	Inglewood	90305
+West 79Th Street	Los Angeles	90003
+West 79Th Street	Los Angeles	90043
+West 79Th Street	Los Angeles	90044
+West 79Th Street	Los Angeles	90045
+West 79Th Street	Los Angeles	90047
+West 79Th Street	Playa Del Rey	90293
+West 7Th Street	Benicia	94510
+West 7Th Street	Claremont	91711
+West 7Th Street	Long Beach	90802
+West 7Th Street	Long Beach	90813
+West 7Th Street	Los Angeles	90005
+West 7Th Street	Los Angeles	90014
+West 7Th Street	Los Angeles	90017
+West 7Th Street	Los Angeles	90057
+West 7Th Street	Merced	95341
+West 7Th Street	Pomona	91766
+West 7Th Street	San Pedro	90731
+West 7Th Street	San Pedro	90732
+West 7Th Street North	Long Beach	90813
+West 7Th Street South	Long Beach	90813

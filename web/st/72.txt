@@ -1,0 +1,8 @@
+72Nd	Mecca	92254
+72Nd Ave	Mecca	92254
+72Nd Ave	Thermal	92274
+72Nd St	San Diego	92115
+72Nd Street	Long Beach	90805
+72Nd Street East	Littlerock	93543
+72Nd Street West	Lancaster	93536
+72Nd Street West	Palmdale	93551

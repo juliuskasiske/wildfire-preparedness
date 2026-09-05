@@ -1,0 +1,25 @@
+Calgary Ave	Sacramento	95841
+Calgary Ave	San Diego	92122
+Calgary Ave	Ventura	93004
+Calgary Ave	Ybl	92886
+Calgary Ave	Yorba Linda	92886
+Calgary Cir	Fontana	92336
+Calgary Ct	Lake Arrowhead	92352
+Calgary Ct	Menifee	92586
+Calgary Ct	Oakdale	95361
+Calgary Ct	San Diego	92122
+Calgary Ct	San Jose	95127
+Calgary Dr	Lake Arrowhead	92352
+Calgary Dr	Sunnyvale	94087
+Calgary Lane	Atwater	95301
+Calgary Lane	Los Angeles	90077
+Calgary Ln	Chico	95926
+Calgary Ln	Concord	94520
+Calgary Pl	Redding	96001
+Calgary Rd	Redding	96001
+Calgary St	Daly City	94014
+Calgary St	San Francisco	94134
+Calgary Way	Valley Center	92082
+Calgo Ln	Victorville	92394
+Calgrove Boulevard	Newhall	91321
+Calgrove Boulevard	Stevenson Ranch	91381

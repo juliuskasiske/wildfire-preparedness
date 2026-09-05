@@ -1,0 +1,53 @@
+Ct	Cupertino	95014
+Ct	Cupertino	95014-0929
+Ct	Cupertino	95014-0931
+Ct	Cupertino	95014-0932
+Ct	Cupertino	95014-0933
+Ct	Cupertino	95014-0934
+Ct	Cupertino	95014-0935
+Ct	Cupertino	95014-0936
+Ct	Cupertino	95014-0937
+Ct	Cupertino	95014-0963
+Ct	Cupertino	95014-0964
+Ct	Cupertino	95014-2609
+Ct	Cupertino	95014-3341
+Ct	Cupertino	95014-3342
+Ct	Cupertino	95014-3343
+Ct	Cupertino	95014-3344
+Ct	Cupertino	95014-3345
+Ct	Cupertino	95014-3346
+Ct	Cupertino	95014-3347
+Ct	Cupertino	95014-3352
+Ct	Cupertino	95014-3353
+Ct	Cupertino	95014-3354
+Ct	Cupertino	95014-3355
+Ct	Cupertino	95014-3356
+Ct	Cupertino	95014-3357
+Ct	Cupertino	95014-3419
+Ct	Cupertino	95014-3457
+Ct	Cupertino	95014-3458
+Ct	Cupertino	95014-3459
+Ct	Cupertino	95014-3460
+Ct	Cupertino	95014-3483
+Ct	Cupertino	95014-3484
+Ct	Cupertino	95014-3487
+Ct	Cupertino	95014-3488
+Ct	Cupertino	95014-3489
+Ct	Cupertino	95014-3490
+Ct	Cupertino	95014-3491
+Ct	Cupertino	95014-3497
+Ct	Cupertino	95014-3498
+Ct	Cupertino	95014-3499
+Ct	Cupertino	95014-6538
+Ct	Cupertino	95014-6539
+Ct	Cupertino	95014-6540
+Ct	Cupertino	95014-6541
+Ct	Cupertino	95014-6542
+Ct	Cupertino	95014-6543
+Ct	Cupertino	95014-7400
+Ct	Cupertino	95014-7401
+Ct Los Bancos	Indio	92203
+Ct Los Cerritos	Indio	92203
+Ct Los Pajaros	Indio	92203
+Ct San Francisco	Indio	92203
+Cte Santa Carmela	Indio	92203

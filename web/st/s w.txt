@@ -1,0 +1,406 @@
+S W St	Lompoc	93436
+S W St	Porterville	93257
+S Wabash Ave	Redlands	92373
+S Wabash Ave	Redlands	92374
+S Wagner Av	Stockton	95215
+S Wagner Rd	Escalon	95320
+S Wagner Rd	Ripon	95366
+S Wagner Rd	Stockton	95215
+S Wake Forest Ave	Ventura	93003
+S Wakefield Ave	Orange Cove	93646
+S Walch St	Porterville	93257
+S Walcott Av	Mh	95391
+S Waldby Ave	Fresno	93725
+S Waldby Ave	Fresno	93727
+S Waldo Ave	Fullerton	92833
+S  Wales Way	Elk Grove	95758
+S Walin St	Colton	92324
+S Walker Ave	Ontario	91761
+S Walker Ave	Ontario	91762
+S Walker Ln	Stockton	95215
+S Walking Wind Way	Hanford	93230
+S Wall St	La Habra	90631
+S Wallace St	La Habra	90631
+S Wallace St	Porterville	93257
+S Wallace Wy	Mh	95391
+S Walling Ave	Fresno	93727
+S Wallis Av	Santa Maria	93458
+S Wallis Ave	Santa Maria	93458
+S Walnut Av	Manteca	95337
+S Walnut Av	Ripon	95366
+S Walnut Ave	Bre	 
+S Walnut Ave	Bre	92821
+S Walnut Ave	Brea	92821
+S Walnut Ave	Caruthers	93609
+S Walnut Ave	Fresno	93705
+S Walnut Ave	Fresno	93706
+S Walnut Ave	Kerman	93630
+S Walnut Ave	Manteca	95337
+S Walnut Ave	Placentia	92870
+S Walnut Ave	Riverdale	93656
+S Walnut Ct	Tracy	95304
+S Walnut Ct	Visalia	93277
+S Walnut Dr	Santa Maria	93458
+S Walnut Grove Dr	Whittier	90601
+S Walnut Rd	Turlock	95380
+S Walnut St	Anaheim	92802
+S Walnut St	Anaheim	92805
+S Walnut St	Bre	92821
+S Walnut St	Colton	92324
+S Walnut St	Hemet	92543
+S Walnut St	La Habra	90631
+S Walnut St	Loomis	95650
+S Walnut St	Porterville	93257
+S Walnut Test Ave	Fresno	93706
+S Walter Ave	Thousand Oaks	91320
+S Walter Ct	Colton	92324
+S Walter Pl	Thousand Oaks	91320
+S Wanamaker Ave	Ontario	91761
+S Wanda Dr	Fullerton	92833
+S Warbler Cir	Anaheim	92807
+S Warbler St	Santa Ana	92704
+S Ward Ave	Fresno	93725
+S Warm Sands Dr	Palm Springs	92264
+S Warner Mtn View St	Eagl	96110
+S Warren Ave	Fresno	93706
+S Warren Rd	Hemet	92545
+S Warren Rd	San Jacinto	92582
+S Warthan St	Coalinga	93210
+S Warwick St	San Jacinto	92582
+S Wasatch Blvd	Thousand Oaks	91362
+S Wasco Rd	Anaheim	92804
+S Washburn Ave	Corona	92882
+S Washington Av	Manteca	95336
+S Washington Ave	Fullerton	92832
+S Washington Ave	Manteca	95336
+S Washington Ave	San Bernardino	92408
+S Washington Ave	Whittier	90601
+S Washington Ave	Whittier	90602
+S Washington Rd	Turlock	95380
+S Washington St	Bakersfield	93307
+S Washington St	Cloverdale	95425
+S Washington St	Lodi	95240
+S Washington St	Modesto	95351
+S Washoe Ave	Firebaugh	93622
+S Washoe Ave	Mendota	93640
+S Wateka	San Jacinto	92583
+S Wateka St	San Jacinto	92583
+S Water St	Orange	92866
+S Water Tower Rd	Valley Center	92082
+S Waterford Ct	San Bernardino	92408
+S Waterman	El Centro	92243
+S Waterman Ave	El Centro	92243
+S Waterman Ave	San Bernardino	92408
+S Waterman & E Mill SW	San Bernardino	92408
+S Waterwheel Way	Orange	92869
+S Watson Ave	Whittier	90605
+S Watson Ct	Visalia	93277
+S Watson St	La Habra	90631
+S Watson St	Visalia	93277
+S Watt Ave	Sacramento	95826
+S Watt Ave	Sacramento	95829
+S Watts Tree Farm Rd	Ojai	93023
+S Waukesha St	Porterville	93257
+S Wauwa	Riverdale	93656
+S Waverly Ave	Redding	96001
+S Waverly Dr	Anaheim	92802
+S Waverly Ln	Fresno	93727
+S Waverly Rd	Farmington	95230
+S Waverly Rd	Linden	95236
+S Waverly St	Orange	92866
+S Way	Lake Arrowhead	92352
+S Wayfield St	Orange	92866
+S Wayne Ct	French Camp	95231
+S Wayside Pl	Anaheim	92805
+S Wayside St	Anaheim	92805
+S Weakley	El Centro	92243
+S Weakley Ave	El Centro	92243
+S Weather Way	Banning	92220
+S Weber St	Selma	93662
+S Webster Ave	Anaheim	92804
+S Webster St	Anaheim	92804
+S Wedgewood Ln	La Habra	90631
+S Wedgewood Rd	San Ramon	94582
+S Weir Canyon Rd	Ana	92808
+S Weir Canyon Rd	Anaheim	92808
+S Weird Canyon Rd	Anaheim	92808
+S Weitzel St	Oceanside	92054
+S Welland Ave	Ontario	91761
+S Weller St	Fresno	93706
+S Wellington Pl	Porterville	93257
+S Wellington Pl	Thousand Oaks	91361
+S Wellington Rd	Orange	92869
+S Wellington Wy	Lodi	95242
+S Wells	Ventura	93004
+S Wells Rd	Ventura	93004
+S Wellsley Ct	Visalia	93277
+S Wellsley St	Visalia	93277
+S Welsummer Ave	Ontario	91761
+S Welty Rd	Tracy	95304
+S Welty Rd	Unvn	95385
+S Wendy Dr	Thousand Oaks	91320
+S Wesley Cir	Orange	92869
+S West Ave	Caruthers	93609
+S West Ave	Fresno	93706
+S West Ave	Fresno	93725
+S West Ave	Riverdale	93656
+S West Creek Village Way	Fresno	93706
+S West Ct	Visalia	93277
+S West Pl	Anaheim	92802
+S West St	Anaheim	92802
+S West St	Anaheim	92805
+S West St	Porterville	93257
+S West St	Visalia	93277
+S West St	Visalia	93291
+S Westberry Blvd	Madera	93637
+S Westbury Way	Santa Maria	93455
+S Westbury Wy	Santa Maria	93455
+S Westchester Dr	Anaheim	92801
+S Westchester Dr	Anaheim	92804
+S Western	Brawley	92227
+S Western Av	Santa Maria	93458
+S Western Ave	Anaheim	92801
+S Western Ave	Anaheim	92804
+S Western Ave	Brawley	92227
+S Western Ave	Hemet	92543
+S Western Ave	Santa Ana	92703
+S Western Ave	Santa Maria	93458
+S Western Ave	Waterford	95386
+S Western Ave	Whittier	90601
+S Western Ave & 222 W K St	Brawley	92227
+S Western St	Brawley	92227
+S Western St	Hemet	92543
+S Western St	Porterville	93257
+S Westford St	Anaheim	92807
+S Westgate Dr	Anaheim	92806
+S Westgate Rd	Santa Maria	93455
+S Westgate Rd	Santa Maria	93458
+S Westhaven Cir	Anaheim	92804
+S Westhaven Dr	Trinidad	95570
+S Westhaven Dr	Westhaven	95570
+S Westlake Blvd	Thousand Oaks	91361
+S Westlake Blvd	Thousand Oaks	91362
+S Westlawn Ave	Caruthers	93609
+S Westlawn Ave	Fresno	93706
+S Westlawn Ave	Riverdale	93656
+S Westmont Ln	Ontario	91761
+S Westmont Ln	Whittier	90601
+S Westmont Rd	Whittier	90601
+S Weston Pl	Hemet	92543
+S Westover Pl	Thousand Oaks	91320
+S Westridge Cir	Anaheim	92807
+S Westside Dr	Anaheim	92805
+S Westside St	Anaheim	92805
+S Westvale Dr	Anaheim	92804
+S Westwind Cir	Thousand Oaks	91361
+S Westwind Dr	El Cajon	92020
+S Westwood Rd	Porterville	93257
+S Westwood St	Porterville	93257
+S Weymouth Ct	Anaheim	92807
+S Wheatland Ave	Whittier	90605
+S Wheeler Pl	Orange	92869
+S Wheeler Place	Orange	92869
+S Wheeler St	Orange	92869
+S Whipple Mountain Rd	San Bernardino	92410
+S Whipple St	Fort Bragg	 
+S Whiskey Slough Rd	Stockton	95206
+S Whisman Rd	Mountain View	94041
+S Whispering Lakes Ct	Ontario	91761
+S Whispering Lakes Ln	Ontario	91761
+S Whispering Ridge Ln	Anaheim	92808
+S White Ave	Upland	91786
+S White Cottage Rd	Angwin	94508
+S White Ct	Upland	91786
+S White Dove Dr	Orcutt	93455
+S White Dove Dr	Santa Maria	93455
+S White Owl Ln	Stockton	95215
+S White Rd	San Jose	95127
+S White Rd	San Jose	95135
+S White Rd	San Jose	95148
+S White Rock Rd	Rancho Cordova	95670
+S White St	Hanford	93230
+S Whitegate Rd	Anaheim	92804
+S Whitehall Ln	St Helena	94574
+S Whitehall Pl	Thousand Oaks	91361
+S Whitener Ave	Parlier	93648
+S Whitestone Dr	Anaheim	92807
+S Whitley Gardens Dr	Paso Robles	93446
+S Whitman Ln	Santa Maria	93458
+S Whitman Pl	Chico	95928
+S Whitner Ave	Parlier	93648
+S Whitney Ave	Fresno	93702
+S Whitney Ave	Fresno	93725
+S Whitney Blvd	Rocklin	95677
+S Whitney St	Visalia	93277
+S Whittier Ave	Fresno	93727
+S Whittier Ave	Whittier	90601
+S Whittier Ave	Whittier	90602
+S Whittwood Dr	Whittier	90603
+S Whittwood Ln	Whittier	90603
+S Whitworth Rd	Newman	95360
+S Wicklund Rd	Mountain House	95391
+S Wicklund Rd	Tracy	95304
+S Widener Ave	Whittier	90603
+S Wiebe Rd	Big Bear Lake	92314
+S Wild Canyon Dr	Colton	92324
+S Wild Flax Pso	Ontario	91761
+S Wildcat Way	Porterville	93257
+S Wilde Pl	Anaheim	92802
+S Wilde St	Anaheim	92802
+S Wilder Pl	Mh	95391
+S Wildflower Ln	Ana	92808
+S Wildflower Ln	Anaheim	92808
+S Wildrose Dr	Bre	92821
+S Wildrose Ln	Ana	92808
+S Wildrose Ln	Anaheim	92808
+S Wildrye Ct	Mh	95391
+S Wildview Ter	Anaheim	92808
+S Wildwood	Hercules	94547
+S Wildwood Ave	Del Rey	93616
+S Wiley Pl	Mh	95391
+S Wilhoit Rd	Stockton	95206
+S Wilkie Av	Stockton	95203
+S Willard Ave	San Jose	95126
+S Willdan Rd	Ana	92808
+S Willdan Rd	Anaheim	92808
+S Willet Pl	Mh	95391
+S William Miller Dr	Anaheim	92804
+S Williams Dr	Porterville	93257
+S Williams Rd	Palm Springs	92264
+S Williams St	Bakersfield	93307
+S Williams St	Hanford	93230
+S Williams Wy	Ripon	95366
+S Williamsburg Pl	Whittier	90603
+S Willie James Jones Ave	San Diego	92102
+S Willie James Jones Ave	San Diego	92113
+S Willis Ct	Visalia	93277
+S Willis St	Santa Ana	92705
+S Willis St	Visalia	93277
+S Willis St	Visalia	93291
+S Willow	Fresno	93725
+S Willow Ave	Bloomington	92316
+S Willow Ave	Blythe	92225
+S Willow Ave	Fresno	93725
+S Willow Ave	Fresno	93727
+S Willow Ave	Rialto	92376
+S Willow Ave	Selma	93662
+S Willow Creek Dr	Tracy	95376
+S Willow Glen Rd	Stockton	95206
+S Willow Glenn Dr	Reedley	93654
+S Willow Ln	Big Bear City	92314
+S Willow Rd (River Club)	Tracy	95304
+S Willow Springs Rd	Orange	92869
+S Willow St	Blythe	92225
+S Willow St	French Camp	95231
+S Willowbrook Ln	Anaheim	92802
+S Willowcreek Ln	Ana	92808
+S Willowcreek Ln	Anaheim	92808
+S Willowgreen Ct	Thousand Oaks	91361
+S Willowood Dr	Oakdale	95361
+S Willowspring Dr	Encinitas	92024
+S Willsbrook Ct	Thousand Oaks	91361
+S Wilma Av	Ripon	95366
+S Wilma Way	Santa Maria	93458
+S Wilma Wy	Santa Maria	93458
+S Wilmington Ave	Carson	90745
+S Wilmington Ave	Carson	90810
+S Wilmington Dr	Ontario	91761
+S Wilshire Av	Mh	95391
+S Wilson	El Centro	92243
+S Wilson	Oxnard	93030
+S Wilson Av	Oxnard	93030
+S Wilson Ave	Ontario	91762
+S Wilson Ave	Oxnard	93030
+S Wilson Wy	Stockton	95205
+S Winchester Ave	Campbell	95008
+S Winchester Bl	Campbell	95008
+S Winchester Blvd	Campbell	95008
+S Winchester Blvd	Campbell	95008-3421
+S Winchester Blvd	Los Gatos	95008
+S Winchester Blvd	San Jose	95117
+S Winchester Blvd	San Jose	95128
+S Wind Ct	Visalia	93292
+S Windermere Cir	Bre	92821
+S Windflower Pl	Mh	95391
+S Windmill Ln	Anaheim	92807
+S Windsor Av	Stockton	95205
+S Windsor Blvd	Cambria	93428
+S Windward Cir	Thousand Oaks	91361
+S Windy Ridge Ct	Anaheim	92808
+S Winery Ave	Fresno	93702
+S Winery Ave	Fresno	93725
+S Winery Ave	Fresno	93727
+S Wineville Ave	Ontario	91761
+S Winfield Ave	Whittier	90603
+S Wing Levee Rd	Stockton	95206
+S Winners Cir	Palm Springs	92264
+S Winning Way	Sacramento	95823
+S Winnipeg Ave	Ontario	91761
+S Winston Ct	San Bernardino	92408
+S Winston Ct	Thousand Oaks	91361
+S Wintercrest Ave	Hanford	93230
+S Wintergreen St	Bre	92821
+S Winthrope St	Orange	92869
+S Winwood Paseo	Ontario	91761
+S Wisconsin Ave	Fallbrook	92028
+S Wisconsin St	Lake Elsinore	92530
+S Wisconsin St	Porterville	93257
+S Wishing Well Ln	Anaheim	92807
+S Wishon Ave	Hanford	93230
+S Wisteria Ave	Bloomington	92316
+S Wisteria Ave	Rialto	92316
+S Wisteria Ct	Ontario	91761
+S Wisteria Ln	Whittier	90602
+S Wolf Creek Dr	Temecula	92592
+S Wolfe Rd	French Camp	95231
+S Wolfe Rd	Sunnyvale	94086
+S Wolfe Rd	Sunnyvale	94087
+S Wolfinger Rd	Stockton	95206
+S Wolftrap St	Madera	93637
+S Wolters Ave	Fresno	93702
+S Wood	Salinas	93905
+S Wood Ranch Pkwy	Simi Valley	93065
+S Wood Rd	Camarillo	93010
+S Wood St	Santa Ana	92703
+S Wood St	Santa Ana	92704
+S Wood Street	Salinas	93905
+S Woodbury Dr	Orange	92866
+S Woodcreek Rd	Anaheim	92808
+S Woodhaven Dr	Palm Desert	92211
+S Woodlake St	Lake Elsinore	92530
+S Woodland Ave	Banning	92220
+S Woodland Ct	Visalia	93277
+S Woodland Dr	Buena Park	90620
+S Woodland Pl	Santa Ana	92707
+S Woodland St	Orange	92869
+S Woodland St	Oxnard	93035
+S Woodland St	Visalia	93277
+S Woodlark Dr	Ontario	91761
+S Woodlawn Dr	Orange	92869
+S Woodman St	San Diego	92114
+S Woodman St	San Diego	92139
+S Woodroe Ct	San Jose	95116
+S Woodrose Ct	Ana	92807
+S Woodrose Ct	Anaheim	92807
+S Woodrow Ave	Fresno	93702
+S Woodrow Ave	Fresno	93725
+S Woodruff Way	Ontario	91761
+S Woods Ave	Fullerton	92832
+S Woods Ct	La Habra	90631
+S Woodsbro Rd	Stockton	95206
+S Woodson Ave	Caruthers	93609
+S Woodson Dr	Ramona	92065
+S Woodstead Ave	Whittier	90603
+S Woodward Av	Manteca	95337
+S Woodward Ln	Whittier	90601
+S Wooten Dr	Kerman	93630
+S Workman Mill Rd	Whittier	90601
+S Worsham Canyon Dr	Whittier	90602
+S Worsham Dr	Whittier	90602
+S Wrangler Pl	Ontario	91761
+S Wrico Ave	Parlier	93648
+S Wright Rd	Santa Rosa	95407
+S Wright St	Santa Ana	92705
+S Wrightwood St	Orange	92869
+S Wyatt Ave	Riverdale	93656
+S Wyeth Pl	Mh	95391

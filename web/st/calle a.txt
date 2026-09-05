@@ -1,0 +1,237 @@
+Calle Abajo	National City	91950
+Calle Abajo	Palm Springs	92264
+Calle Abajo	San Diego	0
+Calle Abajo	San Diego	92139
+Calle Abedul	Thousand Oaks	91360
+Calle Abeto	Thousand Oaks	91360
+Calle Abierta	Santa Barbara Unincorporated	93111
+Calle Abrigada	Bakersfield	93311
+Calle Abril	San Clemente	92673
+Calle Abronia	Palm Springs	92264
+Calle Abuelito	San Diego	92129
+Calle Acervo	Carlsbad	92009
+Calle Acopada	Camarillo	93010
+Calle Acordarse	San Juan Capistrano	92675
+Calle Acuaducto	Littlerock	93543
+Calle Acueducto	Littlerock	93543
+Calle Adela	San Marcos	92069
+Calle Adobe	Rancho Santa Margarita	92688
+Calle Adra	Duarte	91010
+Calle Adriana	San Dimas	91773
+Calle Agata	San Dimas	91773
+Calle Agate	Cathedral City	92234
+Calle Agosto	San Dimas	91773
+Calle Agua	Moreno Valley	92551
+Calle Agua	San Clemente	92673
+Calle Agua Feliz	Santa Clarita	91390
+Calle Aguacero	Indio	92203
+Calle Aguadulce	San Diego	92139
+Calle Aguila	Camarillo	93012
+Calle Aguila	San Clemente	92672
+Calle Aguilar	Cathedral City	92234
+Calle Ajo	Palm Springs	92264
+Calle Akelia	San Clemente	92673
+Calle Alagon	Cathedral City	92234
+Calle Alamitos	Rancho Santa Margarita	92688
+Calle Alamo	Santa Barbara	93105
+Calle Alamo	Thousand Oaks	91360
+Calle Alamorio	Murrieta	92562
+Calle Albara	El Cajon	92019
+Calle Albarda	Rancho Santa Margarita	92688
+Calle Alberca	Camarillo	93010
+Calle Alcala	Mission Viejo	92691
+Calle Alcazar	Cathedral City	92234
+Calle Alcazar	San Clemente	92672
+Calle Alcazar	Walnut	91789
+Calle Alcazar	Ybl	92887
+Calle Alcazar	Yorba Linda	92887
+Calle Alcorisa	Tustin	92782
+Calle Alegre	San Jose	95120
+Calle Alegria	Fullerton	92833
+Calle Alella	Santa Barbara	93109
+Calle Alfredo	Temecula	92592
+Calle Alhena	Carlsbad	92009
+Calle Alicia	Coachella	92236
+Calle Alicia	San Clemente	92672
+Calle Alicia	Walnut	91789
+Calle Alimar	Rancho Santa Margarita	92688
+Calle Allegre	Glendale	91208
+Calle Allejandro	Jamul	91935
+Calle Allicante	Temecula	92592
+Calle Alma	Carlsbad	92009
+Calle Almaden	San Jose	95120
+Calle Almanza	Dana Point	92624
+Calle Almeja	San Clemente	92673
+Calle Almendra Rd	Paso Robles	93446
+Calle Almendro	Thousand Oaks	91360
+Calle Almirante	San Clemente	92673
+Calle Almonte	Santa Barbara	93109
+Calle Alondra	Lake Forest	92630
+Calle Alondra	Lake Forest	92630-2227
+Calle Alondra	Lake Forest	92630-2228
+Calle Alondra Rd	San Jose	95111
+Calle Alonso	Mission Viejo	92692
+Calle Alta	La Jolla	92037
+Calle Alta	Murrieta	92563
+Calle Alta	San Clemente	92672
+Calle Alta	Temecula	92592
+Calle Alta Dr	Murrieta	92563
+Calle Alta Rd	Murrieta	92563
+Calle Alta Vista	Dana Point	92624
+Calle Alta Vista	Thousand Oaks	91320
+Calle Altair	Chula Vista	91915
+Calle Altamira	Calabasas	91302
+Calle Altea	San Clemente	92673
+Calle Alto	Camarillo	93012
+Calle Alto	Moreno Valley	92555
+Calle Alto	Paso Robles	93446
+Calle Alto	San Dimas	91773
+Calle Altura	La Jolla	92037
+Calle Alucema	Thousand Oaks	91360
+Calle Alumbrado	San Clemente	92673
+Calle Alvarado	Palm Springs	92262
+Calle Amable	Glendale	91208
+Calle Amable	San Clemente	92673
+Calle Amadora	Winchester	92596
+Calle Aman	Lake Elsinore	92530
+Calle Amanacer	Rancho Santa Fe	92067
+Calle Amanda	San Dimas	91773
+Calle Amanecer	San Clemente	92673
+Calle Amapola	Desert Hot Springs	92240
+Calle Amapola	San Dimas	91773
+Calle Amapola	Thousand Oaks	91360
+Calle Amargosa	Hemet	92545
+Calle Ambiente	Rancho Santa Fe	92067
+Calle Ameno	San Clemente	92672
+Calle Americana	Cathedral City	92234
+Calle Amigable	Murrieta	92563
+Calle Amigo	La Quinta	92253
+Calle Amigo	Murrieta	92562
+Calle Amigo	Palmdale	93550
+Calle Amigo	San Clemente	92673
+Calle Amigos	Cathedral City	92234
+Calle Amigos	Coachella	92236
+Calle Amigos	Palm Springs	92264
+Calle Amistad	San Clemente	92673
+Calle Amistad Dr	Ramona	92065
+Calle Amorosa	Camarillo	93012
+Calle Ampola	Desert Hot Springs	92240
+Calle Ana	Poway	92064
+Calle Anabella	Coachella	92236
+Calle Anacapa	Encinitas	92024
+Calle Anacapa	San Clemente	92673
+Calle Andalucia	Murrieta	92562
+Calle Andalucia	San Clemente	92673
+Calle Andalucia	San Diego	92130
+Calle Andalucia	Santa Barbara	93109
+Calle Andar	Carlsbad	92009
+Calle Andorra	Tustin	92782
+Calle Andras	Murrieta	92563
+Calle Andrea	Ramona	92065
+Calle Andrea	San Dimas	91773
+Calle Andres	Duarte	91010
+Calle Andrew Drive	Redondo Beach	90277
+Calle Anejo	Dana Point	92624
+Calle Angelica	El Cajon	92019
+Calle Angelina	Temecula	92590
+Calle Angelitos	San Clemente	92673
+Calle Angosta	Temecula	92592
+Calle Angosta	Thousand Oaks	91360
+Calle Angostura	Riverside	92503
+Calle Animado	Indio	92203
+Calle Anita	Temecula	92592
+Calle Anita Rd	Temecula	92592
+Calle Anta	Elk Grove	95624
+Calle Antequera	Tustin	92782
+Calle Antilles	Riverside	92503
+Calle Antonio	Vista	92084
+Calle Anzuelo	Santa Barbara Unincorporated	93111
+Calle Aparejo	Santa Barbara Unincorporated	93111
+Calle Aquaducto	Littlerock	93543
+Calle Aquamarina	San Clemente	92673
+Calle Aragon	La Verne	91750
+Calle Aragon	Laguna Woods	92637
+Calle Aragon	Oak Park	91377
+Calle Aragon	Temecula	92592
+Calle Arandas	Palm Springs	92264
+Calle Arbol	Oceanside	92057
+Calle Arbolada	Pacific Palisades	90272
+Calle Arboleda	Elk Grove	95624
+Calle Arboleda	Hemet	92545
+Calle Arboleda	Novato	94949
+Calle Arboledo	Hemet	92545
+Calle Arboles	La Quinta	92253
+Calle Arcano	San Dimas	91773
+Calle Arcaro	Temecula	92592
+Calle Arcaro Rd	Temecula	92592
+Calle Arco	San Clemente	92672
+Calle Arcos	Rancho Santa Margarita	92688
+Calle Ardilla	Calabasas	91302
+Calle Ardilla	Rancho Mirage	92270
+Calle Arena	Camarillo	93012
+Calle Arena	Carpinteria	93013
+Calle Arenal	Lake Forest	92630
+Calle Arenal	Lake Forest	92630-2126
+Calle Arenal	Lake Forest	92630-2127
+Calle Arenal	Lake Forest	92630-2160
+Calle Arevalo	Temecula	92592
+Calle Argolla	Camarillo	93012
+Calle Ariana	San Clemente	92672
+Calle Arino	Thousand Oaks	91360
+Calle Arino	Valencia	91355
+Calle Arnaz	Coachella	92236
+Calle Arnaz	Temecula	92592
+Calle Aroba	La Quinta	92253
+Calle Arona	Chula Vista	91914
+Calle Arquero	Oceanside	92057
+Calle Arrebol	Murrieta	92563
+Calle Arrebol Rd	Murrieta	92563
+Calle Arriba	Palm Springs	92264
+Calle Arriba	San Diego	92139
+Calle Arroba	La Quinta	92253
+Calle Arroyo	Diablo	94528
+Calle Arroyo	San Dimas	91773
+Calle Arroyo	San Juan Capistrano	92675
+Calle Arroyo	Santa Clarita	91390
+Calle Arroyo	Shandon	93461
+Calle Arroyo	Thousand Oaks	91360
+Calle Arroyo Ln	Diablo	94528
+Calle Arruza	Temecula	92592
+Calle Artigas	Thousand Oaks	91360
+Calle Artino	Murrieta	92562
+Calle Artis	San Jose	95131
+Calle Asilo	Santa Barbara Unincorporated	93111
+Calle Aspero	San Juan Capistrano	92675
+Calle Asta	Morgan Hill	95037
+Calle Asturtas	San Diego	92128
+Calle Atapaneo	Nipomo	93444
+Calle Atavio	Morgan Hill	95037
+Calle Atocha	Indio	92203
+Calle Atria	Chula Vista	91915
+Calle Aurora	Camarillo	93010
+Calle Aurora	Moreno Valley	92551
+Calle Avanzado	San Clemente	92673
+Calle Aveituna	San Clemente	92673
+Calle Avelino	Duarte	91010
+Calle Avella	San Diego	92108
+Calle Avella	Temecula	92592
+Calle Avellano	Thousand Oaks	91360
+Calle Avenida	Bakersfield	93314
+Calle Aventura	Rancho Palos Verdes	90275
+Calle Aviador	San Juan Capistrano	92675
+Calle Avila	Cathedral City	92234
+Calle Avila	Chula Vista	91913
+Calle Avila	Coachella	92236
+Calle Avilla	Cathedral City	92234
+Calle Avilla	Coachella	92236
+Calle Avion	Granite Bay	95746
+Calle Ayora	Temecula	92592
+Calle Ayrton	Menifee	92586
+Calle Azorin	Mission Viejo	92692
+Calle Azteca	Desert Hot Springs	92240
+Calle Azucar	Murrieta	92562
+Calle Azul	Glendale	91208
+Calle Azul	La Quinta	92253
+Calle Azul	Laguna Woods	92637
+Calle Azul	Murrieta	92562
+Calle Azure	Temecula	92592

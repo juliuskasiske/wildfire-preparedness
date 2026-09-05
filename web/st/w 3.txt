@@ -1,0 +1,55 @@
+W 30Th Ave	San Mateo	94403
+W 30Th St	National City	91950
+W 30Th St	San Bernardino	92404
+W 30Th St	San Bernardino	92405
+W 30Th St	San Bernardino	92407
+W 31St Pl	San Bernardino	92405
+W 31St St	San Bernardino	92405
+W 32Nd Ave	Blythe	92225
+W 32Nd St	National City	91950
+W 33Rd St	National City	91950
+W 33Rd St	San Bernardino	92405
+W 34Th St	San Bernardino	92405
+W 35Th St	National City	91950
+W 35Th St	San Bernardino	92405
+W 36Th St	San Bernardino	92405
+W 38Th Ave	San Mateo	94403
+W 38Th St	San Bernardino	92405
+W 39Th Ave	San Mateo	94403
+W 39Th St	San Bernardino	92405
+W 3Rd	Calexico	92231
+W 3Rd	Imperial	92251
+W 3Rd	Westmorland	92281
+W 3Rd Ave	Chico	95926
+W 3Rd Ave	Escondido	92025
+W 3Rd Ave	Imperial	92251
+W 3Rd Ave	La Habra	90631
+W 3Rd Ave	Muscoy	92407
+W 3Rd Ave	San Bernardino	92407
+W 3Rd Ave	San Mateo	94402
+W 3Rd Rd	Imperial	92251
+W 3Rd St	Antioch	94509
+W 3Rd St	Beaumont	92223
+W 3Rd St	Bombay Beach	92257
+W 3Rd St	Calexico	92231
+W 3Rd St	Chico	95926
+W 3Rd St	Chico	95928
+W 3Rd St	Cloverdale	95425
+W 3Rd St	Corona	92882
+W 3Rd St	Eureka	95501
+W 3Rd St	Imperial	92251
+W 3Rd St	Madera	93637
+W 3Rd St	Morgan Hill	95037
+W 3Rd St	Palo Verde	92266
+W 3Rd St	Perris	92570
+W 3Rd St	Rialto	92376
+W 3Rd St	San Bernardino	92401
+W 3Rd St	San Bernardino	92410
+W 3Rd St	San Bernardino	92415
+W 3Rd St	San Jacinto	92583
+W 3Rd St	Santa Ana	92701
+W 3Rd St	Santa Ana	92703
+W 3Rd St	Santa Rosa	95401
+W 3Rd St	Tustin	92780
+W 3Rd St	Westmorland	92281
+W 3Rd St & 238 W 3Rd St	Westmorland	92281

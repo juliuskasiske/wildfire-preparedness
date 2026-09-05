@@ -1,0 +1,361 @@
+E G	Brawley	92227
+E G Ave	Brawley	92227
+E G Blvd	Brawley	92227
+E G Dr	Brawley	92227
+E G Rd	Brawley	92227
+E G St	Brawley	92227
+E G St	Colton	92324
+E G St	Encinitas	92024
+E G St	Oakdale	95361
+E G St	Ontario	91764
+E G St	Upland	91786
+E G Way	Brawley	92227
+E Gabilan Street	Salinas	93901
+E Gables Loop	Whittier	90603
+E Gabrielle Ln	Orange	92867
+E Gage St	Bakersfield	93305
+E Gaines Ct	Simi Valley	93063
+E Gainsborough	Thousand Oaks	91360
+E Gainsborough Rd	Orange	92869
+E Gainsborough Rd	Thousand Oaks	91360
+E Galalily Pl	Mh	95391
+E Galarose Pl	Mh	95391
+E Gale Ave	Industry	91715
+E Galen Dr	Anaheim	92807
+E Galena Ave	Simi Valley	93065
+E Galin Rd	French Camp	95231
+E Gamma Pl	Anaheim	92805
+E Garden Ave	Porterville	93257
+E Garden Green	Port Hueneme	93041
+E Garden Green Ave	Port Hueneme	93041
+E Garden Green St	Port Hueneme	93041
+E Garden View Dr	Ana	92808
+E Garden View Dr	Anaheim	92808
+E Gardena Blvd	Carson	90248
+E Gardena Blvd	Carson	90746
+E Gardenia Ave	Camarillo	93010
+E Gardenwood St	Mh	95391
+E Garfield Ave	Orange	92867
+E Garibaldi Av	Stockton	95215
+E Garland Ave	Fresno	93704
+E Garland Ave	Fresno	93726
+E Garland Ave	Fresno	93727
+E Garland Ave	Fresno	93737
+E Garland Cir	Ana	92807
+E Garland Cir	Anaheim	92807
+E Garland St	Anaheim	92807
+E Garland Ter	Sunnyvale	94086
+E Garner Ln	Stockton	95207
+E Garnet Ave	Orange	92869
+E Garnet Cir	Anaheim	92807
+E Garnet Ln	Orange	92869
+E Garnica Ct	Stockton	95215
+E Garrett Ave	Fresno	93706
+E Garrett Ave	Fresno	93725
+E Garrett Ave	Fresno	93727
+E Garrick Dr	Ana	92807
+E Garrick Dr	Anaheim	92807
+E Garrick St	Ontario	91762
+E Garrity Way	Orange	92867
+E Garry Ave	Santa Ana	92705
+E Garry Ave	Santa Ana	92707
+E Gary Av	Stockton	95212
+E Gary Ct	Simi Valley	93063
+E Gary Ln	Madera	93637
+E Gary Pl	Anaheim	92805
+E Garzas Road	Carmel Valley	93924
+E Gaschen Ave	Fresno	93725
+E Gates Ave	Orange	92865
+E Gateway Ln	Whittier	90602
+E Gatewood Ln	Anaheim	92807
+E Gatwick Ln	Fresno	93730
+E Gaviota Ct	Simi Valley	93065
+E Gawne Rd	Escalon	95320
+E Gawne Rd	Farmington	95320
+E Gawne Rd	Stockton	95215
+E Gay St	Corona	92879
+E Gayann Dr	Ana	92807
+E Gayann Dr	Anaheim	92807
+E Gaylin St	Whittier	90601
+E Geary St	Fresno	93706
+E Geary St	Fresno	93725
+E Geary St	Fresno	93727
+E Geary St	Stockton	95204
+E Gelid Ave	Anaheim	92806
+E Gelid Ct	Anaheim	92806
+E Gem Ct	Santa Maria	93454
+E Gemstone Dr	Acampo	95220
+E Gene Autry Way	Anaheim	92802
+E Gene Autry Way	Anaheim	92805
+E Gene Autry Way	Anaheim	92806
+E Genevieve St	Carson	90745
+E Genoa	Ontario	91761
+E Geoffrey Ave	Simi Valley	93063
+E George Ave	Fresno	93706
+E George St	Banning	92220
+E Georgetown Cir	Anaheim	92807
+E Georgetown Cir	Bre	92821
+E Georgetwon Cir	Anaheim	92807
+E Gerald Av	Stockton	95206
+E Gerald Cir	Anaheim	92806
+E Gerald St	Stockton	95206
+E Gerda Dr	Anaheim	92807
+E Germain St	Camarillo	93010
+E Gertrudita Ct	Upland	91786
+E Gettysburg Ave	Fresno	93704
+E Gettysburg Ave	Fresno	93726
+E Gettysburg Ave	Fresno	93727
+E Gettysburg Ave	Sanger	93657
+E Giacconi Pl	Mh	95391
+E Giavanna Ave	Fresno	93727
+E Giavanna Ave	Fresno	93737
+E Gibbons Ave	Porterville	93257
+E Gibralter St	Ontario	91764
+E Gibson Ave	Porterville	93257
+E Gibson Ave	Reedley	93654
+E Gibson St	Stockton	95204
+E Gilbert St	Fresno	93721
+E Gilbert St	San Bernardino	92404
+E Gilbert St	San Bernardino	92415
+E Gilea Ct	Santa Maria	93455
+E Gillett	El Centro	92243
+E Gillett Ave	El Centro	92243
+E Gillett Rd	El Centro	92243
+E Gillett St	El Centro	92243
+E Gilman St	Banning	92220
+E Gina Dr	Lockeford	95237
+E Gingerwood Rd	Ontario	91761
+E Ginkgo St	San Bernardino	92407
+E Ginzburg St	Mh	95391
+E Girona St	Mh	95391
+E Gish Rd	San Jose	95112
+E Glade Ct	Bre	92821
+E Gladwick St	Carson	90746
+E Glastonbury Ln	Orange	92869
+E Glaucus St	Encinitas	92024
+E Glaucus St	Leucadia	92024
+E Gleason Ave	Fowler	93625
+E Glen Albyn Ln	Orange	92869
+E Glen Arbor Ln	Anaheim	92807
+E Glen Arran Ln	Orange	92869
+E Glen Ct	Bre	92821
+E Glen Ct	Whittier	90601
+E Glen Oak St	Rialto	92376
+E Glencannon Dr	Whittier	90606
+E Glencannon St	Stockton	95210
+E Glencove Dr	Big Bear City	92314
+E Glencove Ln	Big Bear City	92314
+E Glencove Ln	Erwin Lake	92314
+E Glendale Ave	Orange	92865
+E Glendale Dr	Orange	92865
+E Glendon Cir	Santee	92071
+E Glendora Ave	Orange	92865
+E Glengarry Way	Fresno	93730
+E Glenlake Ln	Fresno	93730
+E Glenmare St	San Bernardino	92404
+E Glenn Ave	Coalinga	93210
+E Glenn Ave	Modesto	95350
+E Glenn Ave	Modesto	95351
+E Glenn Ave	Modesto	95358
+E Glenn Curtiss St	Carson	90746
+E Glenn Rd	Princeton	95970
+E Glenside Ln	Camarillo	93012
+E Glenview Ave	Ana	92807
+E Glenview Ave	Anaheim	92807
+E Glenview Rd	Stockton	95215
+E Glenwood Ave	Anaheim	92805
+E Glenwood Ave	Fullerton	92831
+E Glenwood Ave	Fullerton	92832
+E Glenwood Ave	Turlock	95380
+E Glenwood Pl	Santa Ana	92705
+E Glenwood Pl	Santa Ana	92707
+E Gloria Cir	Villa Park	92867
+E Glorietta Pl	Bre	92823
+E Gnekow Dr	Stockton	95212
+E Gobbi St	Ukiah	 
+E Gobbi St	Ukiah	95482
+E Gobind Bl	Mh	95391
+E Goble Ave	Fowler	93625
+E Goetz Ave	Santa Ana	92707
+E Gold Hill Rd	Lebec	93243
+E Golden Eagle Ave	Orange	92869
+E Golden Trails St	Ontario	91761
+E Golden Valley Way	Fresno	93730
+E Golden West Ave	Visalia	93292
+E Goldenrod Ln	Anaheim	92808
+E Goldenrod Ln	Orange	92867
+E Golf Ci	Manteca	95337
+E Golf Ct	Woodbridge	95258
+E Golf Glen Dr	Anaheim	92807
+E Golondrina Dr	Moorpark	93021
+E Golondrina St	Moorpark	93021
+E Gomes Way	Bre	92821
+E Gonder	Holtville	92250
+E Gonder Rd	Holtville	92250
+E Gonzales Rd	Oxnard	93030
+E Gonzales Rd	Oxnard	93036
+E Goodchild Ln	Santa Maria	93454
+E Goodfellow	Sanger	93657
+E Goodfellow Ave	Reedley	93654
+E Goodfellow Ave	Sanger	93657
+E Goodhue St	Whittier	90604
+E Goodwin Ct	Simi Valley	93063
+E Goshawk Ct	Stockton	95215
+E Goshen Ave	Fresno	93720
+E Goshen Ave	Visalia	93292
+E Gouda Ct	Mh	95391
+E Gould Ave	Fresno	93725
+E Gould St	Loma Linda	92354
+E Gould St	San Bernardino	92354
+E Gould St	San Bernardino	92408
+E Grace Pl	Santa Ana	92701
+E Grace St	Barstow	92311
+E Grace St	Linden	95236
+E Grace St	Santa Ana	92701
+E Graceland	Simi Valley	93065
+E Graceland St	Simi Valley	93065
+E Graceldo Ln	Whittier	90603
+E Grade Rd	Palomar Mountain	92060
+E Grade Rd	Santa Ysabel	92070
+E Grafton	El Centro	92243
+E Grafton Ave	El Centro	92243
+E Grafton Dr	El Centro	92243
+E Grafton Rd	El Centro	92243
+E Grafton St	Ontario	91761
+E Grafton St	Simi Valley	93063
+E Graham	Lake Elsinore	92530
+E Graham Ave	Lake Elsinore	92530
+E Graham Pl	Burbank	91502
+E Graham St	Lake Elsinore	92530
+E Granada Ave	Fresno	93720
+E Granada Cir	Bre	92823
+E Granada Ct	Ontario	91764
+E Grand Ave	Arroyo Grande	93420
+E Grand Ave	Escondido	92025
+E Grand Ave	Escondido	92027
+E Grand Ave	Fresno	93725
+E Grand Ave	Ojai	93023
+E Grand Ave	Oroville	95965
+E Grand Ave	Pomona	91766
+E Grand Ave	Porterville	93257
+E Grand Ave	South San Francisco	94080
+E Grand Ave	Winchester	92596
+E Grand Bahama Dr	Palm Springs	92264
+E Grand Blvd	Corona	92879
+E Grand Park St	Ontario	91710
+E Grand St	Ojai	93023
+E Grande Rio Dr	Woodbridge	95258
+E Grande Vista Dr	Whittier	90601
+E Grande Vista Pl	Whittier	90601
+E Grandview Dr	Barstow	92311
+E Grandview Dr	Bre	92823
+E Grandview St	Oceanside	92054
+E Granger Ave	Modesto	95350
+E Granger St	Camarillo	93010
+E Grangeville Blvd	Hanford	93230
+E Granite Dr	Granite Bay	95746
+E Granite St	Friant	93626
+E Grant Ave	Fresno	93701
+E Grant Ave	Fresno	93702
+E Grant Ave	Fresno	93727
+E Grant Line Rd	Tracy	95304
+E Grant Line Rd	Tracy	95376
+E Grant Line Rd	Tracy	95377
+E Grant Pl	San Mateo	94402
+E Grant St	Eureka	95501
+E Grant St	Rialto	92376
+E Grant St	Santa Ana	92701
+E Grant St	Santa Maria	93454
+E Granvia Valmonte	Palm Springs	92262
+E Grass Valley St	Colfax	95713
+E Grassland Rd	Lodi	95240
+E Graves Rd	Manteca	95336
+E Gray Ln	Orange	92869
+E Grayson Rd	Ceres	95307
+E Grayson Rd	Denair	95316
+E Grayson Rd	Hughson	95326
+E Grayson Rd	Modesto	95358
+E Grazia Av	Mh	95391
+E Grazia Ct	Mh	95391
+E Great Smokey Ct	Thousand Oaks	91362
+E Green Acres Dr	Fresno	93720
+E Green Clover Cir	Orange	92867
+E Green Dr	Murrieta	92563
+E Green Garden Ln	Orange	92867
+E Green Sage Ave	Fresno	93730
+E Greenbriar Dr	Ontario	91761
+E Greenbriar Ln	Bre	92821
+E Greenbrier	Rancho Santa Margarita	92679
+E Greenbury Way	Clovis	93619
+E Greengate St	Corona	92879
+E Greenhedge Ave	Anaheim	92806
+E Greenleaf Ave	Orange	92865
+E Greenleaf Rd	Escalon	95320
+E Greenoak Ln	Stockton	95212
+E Greensboro Ln	Anaheim	92807
+E Greensward St	Simi Valley	93065
+E Greenview Ct	Woodbridge	95258
+E Greenview Dr	Orange	92866
+E Greenway Ave	Turlock	95380
+E Greenwich Ave	Fresno	93720
+E Greenwich Pl	Palo Alto	94303
+E Greenwood Ave	La Habra	90631
+E Greenwood Ave	Lah	90631
+E Greenwood Ave	Orange	92869
+E Greenwood Ct	Hanford	93230
+E Greenwood Dr	Ana	92807
+E Greenwood Dr	Anaheim	92807
+E Greg Ct	Stockton	95215
+E Gregory Ct	Santa Maria	93454
+E Grenfall Ln	Big Bear City	92314
+E Gretl Ct	Ripon	95366
+E Gretta Ln	Anaheim	92806
+E Grevillea Ct	Ontario	91761
+E Grevillea St	Ontario	91761
+E Grey Fox Ln	Ontario	91761
+E Greys Creek Ct	Clovis	93619
+E Greystone Dr	Ontario	91761
+E Gridley Rd	Gridley	95948
+E Gridley Rd	Gridley	95965
+E Griffin St	Brawley	92227
+E Griffith Ave	Sanger	93657
+E Griffith Pl	Santa Ana	92707
+E Griffith Way	Fresno	93704
+E Griffith Way	Fresno	93726
+E Griffith Way	Fresno	93727
+E Grindley Ranch Rd	Whitmore	96096
+E Grindstone St	Woodbridge	95258
+E Grinnell Dr	Burbank	91501
+E Grizzley Creek Ct	Ontario	91761
+E Grooms Rd	Oakdale	95361
+E Groshen	El Centro	92243
+E Grove Av	Orange	 
+E Grove Av	Orange	92865
+E Grove Ave	Fresno	93706
+E Grove Ave	Fresno	93725
+E Grove Ave	Fresno	93727
+E Grove Ave	Orange	92865
+E Grove Ave	Orange	92867
+E Grove Ave	Visalia	93291
+E Grove Ave	Visalia	93292
+E Grove Ct	Visalia	93292
+E Grove Pl	Fullerton	92831
+E Grove St	Rialto	92376
+E Groveland Dr	Ontario	91761
+E Grovemont St	Santa Ana	92705
+E Grovemont St	Santa Ana	92706
+E Groves Rd	Farmington	95230
+E Grovewood Ln	Orange	92869
+E Grumbles	Imperial	92251
+E Grumbles Rd	Imperial	92251
+E Guadalupe Dr	Upland	91786
+E Guasti Rd	Ontario	91761
+E Guava Av	Lompoc	93436
+E Guava St	Oxnard	93033
+E Guernsey Av	Stockton	95205
+E Guernsey Av	Stockton	95215
+E Guiberson Rd	Fillmore	93015
+E Gum Ave	Reedley	93654
+E Gunnison Way	Colton	92324
+E Gutierrez St	Santa Barbara	93101
+E Gutierrez St	Santa Barbara	93103

@@ -1,0 +1,508 @@
+La Cabra	Mission Viejo	92691
+La Cadena	Diablo	94528
+La Cadena	Pasadena	91107
+La Cadena	Riverside	92501
+La Cadena	Santa Barbara	93103
+La Cadena	Vallejo	94590
+La Cadena Ave	Oak Hills	92344
+La Cadena Ave	Victorville	92392
+La Cadena Avenue	Arcadia	91007
+La Cadena Cir	Ybl	92886
+La Cadena Cir	Yorba Linda	92886
+La Cadena Ct	Palm Springs	92264
+La Cadena Ct	Temecula	92591
+La Cadena Dr	Colton	92324
+La Cadena Dr	Grand Terrace	92313
+La Cadena Dr	Laguna Hills	92653
+La Cadena Dr	Riverside	92501
+La Cadena Dr	Riverside	92507
+La Cadena Dr	Yucca Valley	92284
+La Cadena Ln	Corona	92879
+La Cadena Rd	Yucca Valley	92284
+La Cadena Way	La Habra	90631
+La Cadena Way	Sacramento	95835
+La Caida Ct	Santa Rosa	95409
+La Cala Place	San Marino	91108
+La Calandria Drive	Los Angeles	90032
+La Calandria Way	Los Angeles	90032
+La Calera St	San Juan Capistrano	92675
+La Calera Wy	Goleta	93117
+La Caleta	Mission Viejo	92692
+La Calle	Concord	94521
+La Calle Corta	Pacific Grove	93950
+La Calle Ct	Palo Alto	94306
+La Callecita	San Diego	92103
+La Callecita St	San Diego	92103
+La Calma	Escondido	92029
+La Calma Drive	Whittier	90603
+La Calma Drive	Whittier	90605
+La Calma Rd	San Juan Capistrano	92675
+La Cam Rd	Thousand Oaks	91320
+La Camarilla Pl	Nipomo	93444
+La Camesa St	San Diego	92129
+La Caminita	Lafayette	94549
+La Campana	San Marcos	92078
+La Campana Rd	Orinda	94563
+La Campana Way	Palm Springs	92262
+La Campana Way	Sacramento	95822
+La Cana Drive	Hacienda Heights	91745
+La Canada	Irvine	92602
+La Canada	Jurupa Valley	92509
+La Canada	La Jolla	92037
+La Canada	Lafayette	94549
+La Canada	Oxnard	93033
+La Canada	Santa Cruz	95060
+La Canada Ave	Oxnard	93033
+La Canada Boulevard	La Canada Flintridge	91011
+La Canada Cir	Buena Park	90620
+La Canada Crest Drive	La Canada Flintridge	91011
+La Canada Ct	Bloomington	92316
+La Canada Ct	Clayton	94517
+La Canada Ct	Fair Oaks	95628
+La Canada Ct	Los Gatos	95032
+La Canada Ct	Morgan Hill	95037
+La Canada Ct	Pinole	94564
+La Canada Ct	St Helena	94574
+La Canada Dr	Brea	92821
+La Canada Dr	Jurupa Valley	92509
+La Canada Dr	San Luis Obispo	93405
+La Canada Ln	Atascadero	93422
+La Canada Place	Sunland	91040
+La Canada Rd	Fallbrook	92028
+La Canada Rd	Hillsborough	94010
+La Canada Rd	Madera	93636
+La Canada Rd	Nicasio	94946
+La Canada St	Arroyo Grande	93420
+La Canada St	La Jolla	92037
+La Canada Verdugo Road	Altadena	91001
+La Canada Verdugo Road	Pasadena	91103
+La Canada Way	2-Cm-5	92627
+La Canada Way	Davis	95618
+La Canada Way	Salinas	93901
+La Canada Way	Sunland	91040
+La Canada Way	Thousand Palms	92276
+La Cantera Way	Beaumont	92223
+La Canyada Drive	Vallejo	94591
+La Capela Ln	Carlsbad	92009
+La Capela Pl	Carlsbad	92009
+La Capelle Road	La Mirada	90638
+La Capilla	Mission Viejo	92691
+La Capilla Ave	Fountain Valley	92708
+La Carlita Pl	Hermosa Beach	90254
+La Carlita Place	Hermosa Beach	90254
+La Carmela Dr	Palm Desert	92211
+La Carreterra	Laguna Niguel	92677
+La Carta Ave	Fountain Valley	92708
+La Carta Cir	Buena Park	90620
+La Cartera St	San Diego	92129
+La Casa	Freedom	95019
+La Casa Ave	La Habra	90631
+La Casa Ave	San Mateo	94403
+La Casa Avenue	Yuba City	95991
+La Casa Ct	Chico	95926
+La Casa Ct	Oakley	94561
+La Casa Ct	Rancho Cucamonga	91701
+La Casa Ct	Thousand Oaks	91362
+La Casa Ct	Walnut Creek	94598
+La Casa Dr	Moreno Valley	92555
+La Casa Dr	Oakley	94561
+La Casa Dr	San Marcos	92078
+La Casa Grande Cir	Santa Barbara Unincorporated	93117
+La Casa Lane	Los Angeles	90049
+La Casa Ln	Palo Cedro	96073
+La Casa Ln	San Marcos	92078
+La Casa Pl	Bakersfield	93306
+La Casa Rd	Joshua Tree	92252
+La Casa Via	Walnut Creek	94596
+La Casa Via	Walnut Creek	94598
+La Casa Way	Buena Park	90620
+La Casa Way	Hemet	92545
+La Casa Way	Mecca	92254
+La Casa Way	Sacramento	95835
+La Cascada	Rancho Santa Margarita	92688
+La Cascada Ct	Bakersfield	93314
+La Casita Ave	Fountain Valley	92708
+La Casita Ave	Ybl	92886
+La Casita Ave	Yorba Linda	92886
+La Casita Dr	San Marcos	92078
+La Casita Dr	Temecula	92590
+La Casita Dr	Twin Peaks	92391
+La Casita Lane	Monrovia	91016
+La Casita Ln	32	94595
+La Casita Spur	Twin Peaks	92391
+La Casita Way	Oceanside	92057
+La Castana Dr	Chico	95928
+La Castana Dr	Forest Ranch	95928
+La Castana Drive	Los Angeles	90046
+La Castana Way	Buena Park	90620
+La Castana Way	Sacramento	95823
+La Castellet Ct	San Jose	95148
+La Catrina	Rancho Santa Fe	92067
+La Causey Ct	Chino	91710
+La Cazadora	Rancho Santa Fe	92067
+La Cebra Ave	Fountain Valley	92708
+La Cell Avenue	Tulare	93274
+La Cerena Ave	Big Bear Lake	92315
+La Cerra Cir	Rancho Mirage	92270
+La Cerra Dr	Rancho Mirage	92270
+La Cesta Place	Tarzana	91356
+La Chapa Rd	Pala	92059
+La Chesnaye	Orinda	94563
+La Chica Dr	Chula Vista	91911
+La Chiquita Dr	Mission Viejo	92691
+La Chova Ct	Rancho Cordova	95670
+La Chusa Rd	Pala	92059
+La Cienaga Dr	Buena Park	90620
+La Cienega	Hawthorne	90250
+La Cienega Ave	Culver City	90232
+La Cienega Avenue	Culver City	90232
+La Cienega Avenue	Los Angeles	90034
+La Cienega Avenue	Vallejo	94589
+La Cienega Blvd	Culver City	90232
+La Cienega Blvd	Los Angeles	90034
+La Cienega Boulevard	Beverly Hills	90211
+La Cienega Boulevard	Culver City	90232
+La Cienega Boulevard	Hawthorne	90250
+La Cienega Boulevard	Inglewood	90304
+La Cienega Boulevard	Los Angeles	90016
+La Cienega Boulevard	Los Angeles	90034
+La Cienega Boulevard	Los Angeles	90035
+La Cienega Boulevard	Los Angeles	90045
+La Cienega Boulevard	Los Angeles	90048
+La Cienega Boulevard	Los Angeles	90056
+La Cienega Boulevard	West Hollywood	90069
+La Cienega Ct	Bakersfield	93313
+La Cienega Ct	Los Gatos	95030
+La Cienega Ct	Los Gatos	95032
+La Cienega Dr	Modesto	95350
+La Cienega Dr	North Highlands	95660
+La Cienega Dr	Wildomar	92530
+La Cienega Drive	Three Rivers	93271
+La Cienega Place	Los Angeles	90016
+La Cienega Place	Vallejo	94589
+La Cienega Rd	San Marcos	92069
+La Cienega St	Laguna Hills	92653
+La Cienega Way	Yuba City	95993
+La Cima	Anza	92539
+La Cima	Laguna Niguel	92677
+La Cima	San Clemente	92672
+La Cima	Soquel	95073
+La Cima	Watsonville	95076
+La Cima Ct	Citrus Heights	95621
+La Cima Dr	San Diego	92109
+La Cima Drive	La Mirada	90638
+La Cima Drive	Whittier	90603
+La Cima Drive	Whittier	90604
+La Cima Rd	Anza	92539
+La Cima Rd	Corona	92879
+La Cima Rd	El Sobrante	94803
+La Cima Rd	Santa Barbara	93101
+La Cincha	Rancho Santa Margarita	92688
+La Cintilla	Orinda	94563
+La Cintura Ct	San Diego	92129
+La Ciotat Way	Riverside	92501
+La Cita Ct	San Luis Obispo	93401
+La Clair Rd	Wilton	95693
+La Clarita Ave	San Jacinto	92582
+La Colima	Pismo Beach	93449
+La Colima Rd	Temecula	92591
+La Colina	Anza	92539
+La Colina	Soledad	93960
+La Colina Ct	Orange	92867
+La Colina Dr	Alamo	94507
+La Colina Dr	Bakersfield	93305
+La Colina Dr	Escondido	92027
+La Colina Dr	North Tustin	92705
+La Colina Dr	North Tustin	92780
+La Colina Dr	Oroville	95965
+La Colina Dr	Rancho Cucamonga	91701
+La Colina Dr	Rancho Cucamonga	91737
+La Colina Dr	Redlands	92374
+La Colina Dr.	Santa Ana	92705
+La Colina Drive	Springville	93265
+La Colina Ln	Anza	92539
+La Colina Rd	El Sobrante	94803
+La Colina Rd	San Diego	92131
+La Colina Rd	Santa Barbara	93110
+La Colina Street	Soledad	93960
+La Colina Ter	Anderson	96007
+La Colina Way	Carmichael	95608
+La Collette Pl	Ybl	92886
+La Collette Pl	Yorba Linda	92886
+La Collina	Joshua Tree	92252
+La Collina Drive	West Hollywood	90069
+La Collina St	Laguna Niguel	92677
+La Colmena Way	Los Alamitos	90720
+La Colonia Ave	Fountain Valley	92708
+La Colusa Dr	San Marcos	92078
+La Combadura Rd	Mission Canyon	93105
+La Con Ct	San Jose	95008
+La Con Ct	San Jose	95124
+La Concetta Dr	Ybl	92886
+La Concetta Dr	Yorba Linda	92886
+La Conchita Way	Big Bear City	92314
+La Condesa Dr	Palm Springs	92264
+La Condesa Drive	La Mirada	90638
+La Condesa Drive	Los Angeles	90049
+La Conner Dr	Sunnyvale	94087
+La Contempo Avenue	Palmdale	93550
+La Contenta Ct	Windsor	95492
+La Contenta Ln	Manteca	95337
+La Contenta Rd	Joshua Tree	92252
+La Contenta Rd	Yucca Valley	92284
+La Contenta Way	Sacramento	95831
+La Contera Ct	Sacramento	95834
+La Copita Ct	San Ramon	94583
+La Corde De Boya	Sonora	95370
+La Corona	Temecula	92591
+La Corona Avenue	Altadena	91001
+La Corona Ct	Campbell	95008
+La Corona Ct	Oak Park	91377
+La Corona Ct	Temecula	92591
+La Corona Dr	Pittsburg	94565
+La Corona St	Hayward	94544
+La Corona Way	Buena Park	90620
+La Coronilla Dr	Santa Barbara	93109
+La Corso Cir	Walnut Creek	94598
+La Corso Ct	Walnut Creek	94598
+La Corso Dr	Walnut Creek	94598
+La Corso Pl	Walnut Creek	94598
+La Corta Cir	Lemon Grove	91945
+La Corta St	Lemon Grove	91945
+La Corte Bonita	Concord	94521
+La Corte Ln	Gilroy	95020
+La Cortinilla Ave	Fountain Valley	92708
+La Cortita Street	Rowland Heights	91748
+La Coruna Dr	Sacramento	95823
+La Coruna Pl	Carlsbad	92009
+La Corunna Pl	Modesto	95356
+La Coruno Street	Davis	95618
+La Costa	Mission Viejo	92692
+La Costa Alta Dr	Moreno Valley	92555
+La Costa Ave	Carlsbad	92009
+La Costa Ave	Carlsbad	92011
+La Costa Ave	Chula Vista	91915
+La Costa Ave	Coachella	92236
+La Costa Ave	Encinitas	92024
+La Costa Ave	Leucadia	92024
+La Costa Blvd	Carlsbad	92011
+La Costa Cir	Buena Park	90620
+La Costa Cir	Palm Desert	92211
+La Costa Cir	Upland	91784
+La Costa Court	Auburn	95602
+La Costa Court	Fairfield	94534
+La Costa Court	Merced	95340
+La Costa Court	Vallejo	94591
+La Costa Ct	Atascadero	93422
+La Costa Ct	Bakersfield	93306
+La Costa Ct	Beaumont	92223
+La Costa Ct	Costa Mesa	92627
+La Costa Ct	Desert Hot Springs	92240
+La Costa Ct	Hesperia	92344
+La Costa Ct	Laguna Beach	92651
+La Costa Ct	Madera	93638
+La Costa Ct	Novato	94947
+La Costa Ct	Oceano	93445
+La Costa Ct	Redding	96003
+La Costa Ct	Riverbank	95367
+La Costa Ct	Yucaipa	92399
+La Costa Dr	Banning	92220
+La Costa Dr	Brentwood	94513
+La Costa Dr	Corona	92879
+La Costa Dr	Pittsburg	94565
+La Costa Dr	Rancho Mirage	92270
+La Costa Dr	Santa Maria	93454
+La Costa Dr	Santa Maria	93455
+La Costa Ln	Citrus Heights	95621
+La Costa Ln	Huntington Beach	92647
+La Costa Ln	Huntington Beach	92647-7016
+La Costa Ln	Huntington Beach	92647-7017
+La Costa Ln	Modesto	95355
+La Costa Ln	Vandenberg Village	93436
+La Costa Meadows Dr	San Marcos	92078
+La Costa Pl	Fontana	92336
+La Costa Pl	Oxnard	93033
+La Costa Place	Palos Verdes Peninsula	90274
+La Costa Place	Pomona	91766
+La Costa St	Bakersfield	93306
+La Costa Way	San Jose	95135
+La Cota Drive	Palmdale	93550
+La Count Ct	San Ramon	94583
+La Crena Ct	Lincoln	95648
+La Crescent Ln	Bre	92823
+La Crescent Loop	San Jose	95136
+La Crescent Pl	San Jose	95136
+La Crescenta	Mission Viejo	92691
+La Crescenta	Oxnard	93035
+La Crescenta	Rancho Santa Fe	92067
+La Crescenta	Ybl	92887
+La Crescenta	Yorba Linda	92887
+La Crescenta Ave	Fountain Valley	92708
+La Crescenta Ave	Victorville	92392
+La Crescenta Avenue	Alhambra	91803
+La Crescenta Avenue	Glendale	91208
+La Crescenta Avenue	La Crescenta	91214
+La Crescenta Avenue	Montrose	91020
+La Crescenta Dr	Big Bear City	92314
+La Crescenta Dr	Big Bear Lake	92314
+La Crescenta Dr	Big Bear Lake	92315
+La Crescenta Dr	Bre	92823
+La Crescenta Dr	Brea	92823
+La Crescenta Dr	Camarillo	93010
+La Crescenta Dr	Joshua Tree	92252
+La Crescenta Dr	Redding	96003
+La Crescenta Dr	Yucca Valley	92284
+La Crescenta St	Hesperia	92344
+La Crescenta St	Oxnard	93035
+La Crescenta Way	Atascadero	93422
+La Crescenta Way	San Rafael	94901
+La Crescentia Dr	Chula Vista	91910
+La Crescentia Dr	San Diego	92106
+La Cresenda Street	Vallejo	94590
+La Cresenta Avenue	Merced	95348
+La Cresenta Court	Yuba City	95993
+La Cresenta Dr	Bakersfield	93312
+La Cresenta Dr	Oroville	95965
+La Cresenta Dr	Oxnard	93035
+La Cresenta Rd	El Sobrante	94803
+La Cresta Ave	Riverside	92508
+La Cresta Blvd	El Cajon	92021
+La Cresta Cir	Huntington Beach	92646
+La Cresta Cir	Huntington Beach	92646-6000
+La Cresta Cir	Huntington Beach	92646-6027
+La Cresta Cir	Huntington Beach	92646-6042
+La Cresta Cir	Santa Barbara	93109
+La Cresta Court	Los Angeles	90038
+La Cresta Court	Los Banos	93635
+La Cresta Ct	Los Altos Hills	94022
+La Cresta Ct	Sacramento	95828
+La Cresta Dr	Apple Valley	92308
+La Cresta Dr	Arroyo Grande	93420
+La Cresta Dr	Bakersfield	93305
+La Cresta Dr	Dana Point	92629
+La Cresta Dr	El Cajon	92021
+La Cresta Dr	Hemet	92543
+La Cresta Dr	Los Altos Hills	94022
+La Cresta Dr	Menifee	92587
+La Cresta Dr	Palm Desert	92211
+La Cresta Dr	Petaluma	94952
+La Cresta Dr	Redlands	92373
+La Cresta Dr	San Diego	92107
+La Cresta Dr	Thousand Oaks	91362
+La Cresta Drive	La Habra	90631
+La Cresta Drive	Pasadena	91103
+La Cresta Drive	Vacaville	95688
+La Cresta Heights Ct	El Cajon	92021
+La Cresta Heights Rd	El Cajon	92021
+La Cresta Pl	Fullerton	92835
+La Cresta Place	Palos Verdes Peninsula	90274
+La Cresta Rd	El Cajon	92019
+La Cresta Rd	El Cajon	92021
+La Cresta Rd	Orinda	94563
+La Cresta Rd	Spring Valley	91977
+La Cresta Road	La Habra	90631
+La Cresta St	Highland	92346
+La Cresta Trl	El Cajon	92019
+La Cresta Way	Bonita	91902
+La Cresta Way	San Jose	95129
+La Cresta Way	Sylmar	91342
+La Cresta Wy	Stockton	95207
+La Croix Ave	Murrieta	92562
+La Croix Ct	Los Gatos	95032
+La Croix Dr	Roseville	95661
+La Cross Way	Riverside	92508
+La Crosse Ave	Colton	92324
+La Crosse Ave	Grand Terrace	92313
+La Crosse Ave	Oak View	93022
+La Crosse Ave	San Diego	92117
+La Crosse Ave	Santa Rosa	95409
+La Crosse Circle	Claremont	91711
+La Crosse Ct	Sunnyvale	94087
+La Crosse Dr	Milpitas	95035
+La Crosse Dr	Morgan Hill	95037
+La Crosse Dr	Oak View	93022
+La Crosse Dr	Sunnyvale	94087
+La Crosse Pl	Escondido	92025
+La Crosse Rd	Newberry Springs	92365
+La Crosse Street	Glendora	91741
+La Crosse Way	Riverside	92508
+La Crosse Way	Sacramento	95823
+La Cruz	Temecula	92590
+La Cruz Ave	Millbrae	94030
+La Cruz Avenue	Benicia	94510
+La Cruz Cir	Corona	92879
+La Cruz Dr	La Mesa	91941
+La Cruz Dr	Temecula	92590
+La Cruz Drive	Pacific Palisades	90272
+La Cruz Lane	Vacaville	95687
+La Cruz Pl	La Mesa	91941
+La Cruz Rock Ave	Bakersfield	93313
+La Cruz Way	Elk Grove	95757
+La Cruz Way	Paso Robles	93446
+La Cuarta	Whittier	90605
+La Cuarta Street	Whittier	90602
+La Cuarta Street	Whittier	90605
+La Cubre Dr	Victorville	92394
+La Cubre Dr	Victorville	92395
+La Cuenta Ct	San Diego	92124
+La Cuenta Dr	San Diego	92124
+La Cuerda	Rancho Santa Margarita	92688
+La Cuerva Drive	Rowland Heights	91748
+La Cuesta	Salinas	93905
+La Cuesta	Scotts Valley	95066
+La Cuesta Ave	Laguna Hills	92653
+La Cuesta Ave	Lagunitas	94938
+La Cuesta Cir	Ybl	92886
+La Cuesta Cir	Yorba Linda	92886
+La Cuesta Court	Salinas	93905
+La Cuesta Ct	Durham	95938
+La Cuesta Ct	Roseville	95747
+La Cuesta Ct	St Helena	94574
+La Cuesta Ct	Ventura	93003
+La Cuesta De Pauma	Valley Center	92082
+La Cuesta Dr	Burlingame	94010
+La Cuesta Dr	Greenbrae	94904
+La Cuesta Dr	La Mesa	91941
+La Cuesta Dr	Los Altos	94022
+La Cuesta Dr	Los Altos	94024
+La Cuesta Dr	Menlo Park	94028
+La Cuesta Dr	North Tustin	92705
+La Cuesta Dr	Other	94010
+La Cuesta Dr	Portola Valley	94028
+La Cuesta Dr	San Diego	92124
+La Cuesta Dr.	Santa Ana	92705
+La Cuesta Dr	Santa Rosa	95409
+La Cuesta Drive	Los Angeles	90046
+La Cuesta Lane	Encino	91316
+La Cuesta Ln	Citrus Heights	95621
+La Cuesta Rd	Hillsborough	94010
+La Cuesta Rd	Murrieta	92562
+La Cuesta Rd	Orinda	94563
+La Cuesta Trail	Rough And Ready	95975
+La Cueva	Rancho Santa Margarita	92688
+La Cueva Drive	Rowland Heights	91748
+La Cueva Way	Sacramento	95831
+La Culebra Cir	Camarillo	93012
+La Culebra Cr	Camarillo	93012
+La Cumbra Cir	Rancho Cordova	95670
+La Cumbra Ct	Murrieta	92562
+La Cumbra St	Oak View	93022
+La Cumbre	Laguna Niguel	92677
+La Cumbre	Somis	93066
+La Cumbre Ave	Chula Vista	91913
+La Cumbre Ave	Riverside	92505
+La Cumbre Cir	Corona	92879
+La Cumbre Cir	San Clemente	92672
+La Cumbre Cir	Santa Barbara	93105
+La Cumbre Cir	Ventura	93003
+La Cumbre Ct	Hillsborough	94010
+La Cumbre Dr	La Jolla	92037
+La Cumbre Dr	Somis	93066
+La Cumbre Drive	Pacific Palisades	90272
+La Cumbre Hills Ln	Santa Barbara	93110
+La Cumbre Ln	Corona	92879
+La Cumbre Ln	Nipomo	93444
+La Cumbre Plaza Ln	Santa Barbara	93105
+La Cumbre Rd	Hillsborough	94010
+La Cumbre Rd	Somis	93066
+La Cumbre St	Corona	92879

@@ -1,0 +1,601 @@
+E A	Brawley	92227
+E A Aaaast	Brawley	92227
+E A Ct	Colton	92324
+E A Dr	Brawley	92227
+E A St	Brawley	92227
+E A St	Oakdale	95361
+E A St	Port Hueneme	93041
+E A St	Upland	91786
+E Abatti	Heber	92249
+E Abbey Ln	Orange	92867
+E Abbey Rd	Ontario	91761
+E Abbeywood Rd	Orange	92867
+E Abbott Ave	Reedley	93654
+E Abbott Cir	Villa Park	92867
+E Abbottson St	Carson	90746
+E Aberdeen Ln	Villa Park	92867
+E Aberdeen Way	Fresno	93730
+E Abila St	Carson	90745
+E Abri St	Carson	90745
+E Absolut	Fresno	93725
+E Acacia	Hemet	92543
+E Acacia Ave	Clovis	93619
+E Acacia Ave	Fresno	93726
+E Acacia Ave	Hemet	92543
+E Acacia Ave	Hemet	92544
+E Acacia Ci (River Club)	Tracy	95304
+E Acacia Ct	Ontario	91761
+E Acacia Dr	Fresno	93704
+E Acacia Rd	Palm Springs	92262
+E Acacia St	Bre	92821
+E Acacia St	Brea	92821
+E Acacia St	Hemet	92543
+E Acacia St	Lodi	95240
+E Acacia St	Ontario	91761
+E Acacia St	Stockton	95202
+E Acacia St	Stockton	95205
+E Acacia Street	Salinas	93901
+E Academy Ln	Palm Desert	92211
+E Academy St	Woodbridge	95258
+E Acampo Rd	Acampo	95220
+E Acampo Rd	Acampo	95240
+E Acampo Rd	Clements	95227
+E Acampo Rd	Woodbridge	95258
+E Access Road	Calpella	 
+E Acequia Ave	Visalia	93291
+E Acequia Ave	Visalia	93292
+E Acequia Ct	Visalia	93292
+E Acheson Dr	Whittier	90601
+E Acme St	Oakley	94561
+E Acoma Dr	Carson	90746
+E Acorn Ct	Anaheim	92808
+E Acorn Ct	Simi Valley	93063
+E Acorn Ct	Stockton	95212
+E Acre Pl	Orange Park Acres	92869
+E Acton Ct	Simi Valley	93065
+E Ada Av	Stockton	95215
+E Adahmor Dr	Stockton	95212
+E Adams Av	Orange	92867
+E Adams Ave	Carson	90810
+E Adams Ave	Del Rey	93616
+E Adams Ave	Fowler	93625
+E Adams Ave	Fresno	93725
+E Adams Ave	Huntington Beach	92648
+E Adams Ave	Orange	92867
+E Adams Ave	Parlier	93648
+E Adams Ave	Reedley	93654
+E Adams Ranch Rd	Villa Park	92867
+E Adams St	Carson	90810
+E Adams St	Santa Ana	92707
+E Adams St	Stockton	95204
+E Addington Cir	Anaheim	92807
+E Addington Dr	Anaheim	92807
+E Addington St	Whittier	90602
+E Adele Ave	Cabazon	92230
+E Adele St	Anaheim	92805
+E Adell St	Madera	93638
+E Adelyne Ln	Santa Maria	93454
+E Adena Ave	Fresno	93727
+E Adena Ave	Fresno	93737
+E Adirondack Ct	Thousand Oaks	91362
+E Adler	Brawley	92227
+E Adler Ct	Brawley	92227
+E Adler Dr	Whittier	90606
+E Adler Ln	Brawley	92227
+E Adler Rd	Brawley	92227
+E Adler St	Brawley	92227
+E Adobe Ct	Hanford	93230
+E Adobe Way	Palm Springs	92262
+E Adomar St	Carson	90745
+E Adrian Way	Hanford	93230
+E Adriatic Way	San Bruno	94066
+E Aegean Way	San Bruno	94066
+E Aeroplane Blvd	Big Bear City	92314
+E Afton Ln	Anaheim	92805
+E Agape Ave	San Jacinto	92583
+E Agave St	Anaheim	92806
+E Agrarian St	Ontario	91762
+E Agua Caliente Rd	Sonoma	95476
+E Agua Dulce Dr	Desert Hot Springs	92240
+E Agua Way	Orange	92869
+E Ahwahnee Ave	Fresno	93720
+E Ahwanee Ave	Sunnyvale	94085
+E Aileen St	Camarillo	93010
+E Aircorp Way	Fresno	93727
+E Airport Av	Lompoc	93436
+E Airport Dr	Ontario	91761
+E Airport Dr	San Bernardino	92408
+E Airways Blvd	Fresno	93727
+E Ajit Ln	Fresno	93730
+E Al Ct	Sacramento	95838
+E Alama Creek Rd	Maricopa	93252
+E Alamar Av	Mission Canyon	93105
+E Alamar Av	Santa Barbara	93105
+E Alamar St	Thousand Oaks	91360
+E Alameda Ave	Burbank	91501
+E Alameda Ave	Burbank	91502
+E Alameda St	Manteca	95336
+E Alamitos Rd	Bre	92821
+E Alamitos Rd	Brea	92821
+E Alamo	Calipatria	92233
+E Alamo	Holtville	92250
+E Alamo Ave	Holtville	92250
+E Alamo Ct	Calipatria	92233
+E Alamo Ct	Holtville	92250
+E Alamo Ct	Porterville	93257
+E Alamo Dr	Calipatria	92233
+E Alamo Dr	Holtville	92250
+E Alamo Rd	Holtville	92250
+E Alamo Rd	Holtville	92251
+E Alamo St	Calipatria	92233
+E Alamo St	Holtville	92250
+E Alamo St	Simi Valley	93063
+E Alamos Ave	Fresno	93704
+E Alamos Ave	Fresno	93726
+E Alamos Ave	Sanger	93657
+E Alan Av	Woodbridge	95258
+E Alanda Ave	Orange	92869
+E Alberta St	Anaheim	92805
+E Alberta St	Ontario	91761
+E Albertina Av	Mh	95391
+E Albertoni St	Carson	90746
+E Albion Ave	Santa Ana	92705
+E Albion Ln	Orange	92866
+E Albreda St	Carson	90745
+E Albright Rd	Calipatria	92233
+E Alcala Dr	Santa Maria	93454
+E Alcazar Dr	Santa Maria	93455
+E Alcott	Calipatria	92233
+E Alcove Way	Anaheim	92805
+E Alden Ave	Anaheim	92806
+E Alden Pl	Anaheim	92806
+E Alden St	Simi Valley	93065
+E Alder Dr	Fresno	93730
+E Alder Grove Cir	Orange	92865
+E Alder Ln	Colton	92324
+E Alder St	Bre	92821
+E Alder St	Brea	92821
+E Alder St	Fort Bragg	 
+E Alder St	Stockton	95204
+E Alderdale Ave	Ana	92807
+E Alderdale Ave	Anaheim	92807
+E Alderly Ln	Orange	92867
+E Alderwood Ave	Orange	92865
+E Alejo Rd	Palm Springs	92262
+E Alessandro Blvd	Riverside	92506
+E Alessandro Blvd	Riverside	92507
+E Alessandro Blvd	Riverside	92508
+E Alessandro Blvd	Riverside	92553
+E Alexander Ave	Fresno	93725
+E Alexander Ave	Fresno	93727
+E Alexander Ave	San Bernardino	92404
+E Alexandria	Calipatria	92233
+E Alexandria St	Calipatria	92233
+E Alexendria St	Calipatria	92233
+E Alhambra Ave	Fresno	93728
+E Alice Ln	Villa Park	92867
+E Alisal	Salinas	93901
+E Alisal	Salinas	93905
+E Alisal Street	Salinas	93901
+E Alisal Street	Salinas	93905
+E Alisal Street Street	Salinas	93905
+E Aliso St	Ojai	93023
+E Alki Pl	Anaheim	92806
+E All View Dr	Banning	92220
+E Allen Rd	Escalon	95320
+E Allen Rd	Ripon	95366
+E Allen St	Rialto	92376
+E Allison Cir	Orange	92869
+E Alluvial Ave	Clovis	93611
+E Alluvial Ave	Clovis	93619
+E Alluvial Ave	Fresno	93720
+E Alma Ave	San Jose	95110
+E Alma Ave	San Jose	95112
+E Almendarez Privado	Ontario	91761
+E Almendra Dr	Fresno	93710
+E Almendro Way	Camarillo	93010
+E Almond Av	Lompoc	93436
+E Almond Av	Orange	92866
+E Almond Av	Orange	92869
+E Almond Ave	Madera	93637
+E Almond Ave	Madera	93638
+E Almond Ave	Orange	92866
+E Almond Ave	Orange	92869
+E Almond Ct	Clements	95227
+E Almond Dr	Anaheim	92805
+E Almond Dr	Bre	92821
+E Almond Dr	Brea	92821
+E Almond St	Clements	95227
+E Almondwood Dr	Manteca	95337
+E Almont Ave	Anaheim	92805
+E Almont Ave	Anaheim	92806
+E Aloha St	Camarillo	93010
+E Alondra Blvd	Carson	90248
+E Alondra Blvd	Carson	90746
+E Alondra Ct	Ontario	91764
+E Alondra St	Ontario	91764
+E Alpha Ln	Anaheim	92805
+E Alpha Pl	Anaheim	92805
+E Alpine Av	Stockton	95204
+E Alpine Av	Stockton	95205
+E Alpine Ct	Ana	92808
+E Alpine Ct	Anaheim	92808
+E Alpine St	Avenal	93204
+E Alpinview Dr	Big Bear City	92314
+E Alru St	Rialto	92376
+E Alta Ave	Fresno	93702
+E Alta Ave	Fresno	93727
+E Alta Dr	Villa Park	92867
+E Alta Green	Port Hueneme	93041
+E Alta Loma Dr	Palm Springs	92264
+E Alta Vista Way	San Jose	95127
+E Altair Ln	Ana	92808
+E Altair Ln	Anaheim	92808
+E Altamont Ct	Fresno	93720
+E Altarinda Dr	Orinda	94563
+E Alto Ct	San Bernardino	92404
+E Alto Dr	San Bernardino	92404
+E Alto Ln	Fullerton	92831
+E Alton Ave	Santa Ana	92606
+E Alton Ave	Santa Ana	92705
+E Alton Ave	Santa Ana	92707
+E Altura Ave	Orange	92867
+E Alvarado Ct	Ontario	91764
+E Alvarado St	Fallbrook	92028
+E Alvarado St	Ontario	91764
+E Alvin Av	Santa Maria	93454
+E Alvin Ave	Santa Maria	93454
+E Alvin Drive	Salinas	93906
+E Alvin Drive Drive	Salinas	93906
+E Alviso St	Simi Valley	93065
+E Amado	Palm Springs	92262
+E Amado Rd	Palm Springs	92262
+E Amador Ave	Galt	95632
+E Amador St	Fresno	93706
+E Amanda Cir	Ana	92807
+E Amanda Cir	Anaheim	92807
+E Amanda Ln	Fresno	93737
+E Amanda St	Highland	92346
+E Amanda St	San Bernardino	92346
+E Amanda St	San Bernardino	92404
+E Amande Ct	Stockton	95212
+E Amanecer Privado	Ontario	91761
+E Amapola Ave	Orange	92869
+E Amaryllis Ave	Fresno	93730
+E Amate Cir	Villa Park	92867
+E Amber Ave	Fresno	93706
+E Amber Ave	Orange	92865
+E Amber Way	Hanford	93230
+E Amberley Privado	Ontario	91762
+E Amberwood St	Ana	92808
+E Amberwood St	Anaheim	92808
+E Amboy Av	Stockton	95205
+E Amendola Dr	Fresno	93725
+E Ameno Dr	Palm Springs	92262
+E Amerage Ave	Fullerton	92832
+E American	Reedley	93654
+E American	Squaw Valley	93675
+E American Ave	Beaumont	92223
+E American Ave	Del Rey	93612
+E American Ave	Del Rey	93616
+E American Ave	Fowler	93625
+E American Ave	Fresno	93625
+E American Ave	Fresno	93725
+E American Ave	Orange Cove	93646
+E American Ave	Reedley	93654
+E American Ave	Sanger	93657
+E American Ave	Squaw Valley	93675
+E American River Rd	Ontario	91761
+E Amerige Ave	Fullerton	92831
+E Amerige Ave	Fullerton	92832
+E Ames Ave	Anaheim	92806
+E Ames Cir	Anaheim	92806
+E Amesbury Cir	Whittier	90602
+E Amherst Ave	Fresno	93703
+E Amherst Ave	Fresno	93727
+E Amherst Ave	Fresno	93737
+E Amherst St	Moorpark	93021
+E Amigo Dr	Parlier	93648
+E Amigos Privado	Ontario	91761
+E Amy Dr	French Camp	95231
+E Anaconda St	Whittier	90603
+E Anahurst Pl	Santa Ana	92707
+E Analitis Dr	Lodi	95240
+E Anapamu St	Santa Barbara	93101
+E Anapamu St	Santa Barbara	93103
+E Ancep St	Whittier	90603
+E Anchor Bay Ln	Murrieta	92563
+E Anderholt Rd	Calexico	92231
+E Andersen Ave	Fresno	93727
+E Anderson St	Stockton	95205
+E Anderson St	Stockton	95206
+E Andrade Ave	Hemet	92544
+E Andrea Ct	Visalia	93292
+E Andrea Dr	Oxnard	93033
+E Andreas Ave	San Bernardino	92404
+E Andreas Rd	Palm Springs	92262
+E Andres Ave	Porterville	93257
+E Andres Ct	Porterville	93257
+E Andrews Ave	Fresno	93704
+E Andrews Ave	Fresno	93726
+E Andrews Ave	Fresno	93727
+E Andrews Ave	Fresno	93737
+E Angel View Ter	Orange	92869
+E Angeleno Av	Burbank	91501
+E Angeleno Ave	Burbank	91501
+E Angeleno Ave	Burbank	91502
+E Angelina Av	Mh	95391
+E Anise Way	Upland	91786
+E Anita St	Stockton	95205
+E Anita St	Upland	91786
+E Ann Ave	Parlier	93648
+E Ann Dr	Reedley	93654
+E Anna Sparks Wy	Mckinleyville	95519
+E Annadale	Reedley	93654
+E Annadale	Sanger	93657
+E Annadale Ave	Fresno	93706
+E Annadale Ave	Fresno	93725
+E Annadale Ave	Reedley	93654
+E Annadale Ave	Sanger	93657
+E Annette St	Moorpark	93021
+E Annie Way	Santa Maria	93454
+E Annie Wy	Santa Maria	93454
+E Antelope Creek Dr	Ontario	91761
+E Antelope Way	Ontario	91761
+E Anthony Wy	Lompoc	93436
+E Antioch St	Simi Valley	93063
+E Antler Rd	Ontario	91761
+E Anza	Calexico	92231
+E Anza Ave	Calexico	92231
+E Anza Dr	Palm Springs	92264
+E Anza Rd	Calexico	92231
+E Anza St	Calexico	92231
+E Apache Dr	Manteca	95336
+E Appalachian Ct	Thousand Oaks	91362
+E Appaloosa Ave	Clovis	93619
+E Appaloosa Trl	Orange	92869
+E Apple Tree Ln	4-Or-16	92869
+E Apple Tree Ln	Orange	92869
+E Appletree Ln	Orange	92869
+E Applewood St	Colton	92324
+E Arabella Wy	Mh	95391
+E Arabian Ave	Orange	92869
+E Arabian Pl	Ontario	91761
+E Arapaho Ct	Manteca	95336
+E Arata Rd	Stockton	95215
+E Arbela Dr	Whittier	90603
+E Arbeth St	Rialto	92377
+E Arbor Ave	Sunnyvale	94085
+E Arbor Cir	Bre	92821
+E Arbor Ln	Big Bear City	92314
+E Arbor Ln	Ontario	91762
+E Arboretum Rd	Ana	92807
+E Arboretum Rd	Anaheim	92807
+E Arbutus Ave	Anaheim	92805
+E Arcade St	Stockton	95204
+E Arcata Ct	Visalia	93292
+E Arch Airport Rd	Stockton	95206
+E Arch Rd	Stockton	95215
+E Ardelle Av	Stockton	95215
+E Ardenwood Ave	Simi Valley	93063
+E Ardita Dr	Whittier	90603
+E Ardmore St	Anaheim	92807
+E Ardmore St	San Bernardino	92404
+E Arenas	Palm Springs	92262
+E Arenas Rd	Palm Springs	92262
+E Arenga Ct	Mh	95391
+E Aretha Ave	Fowler	93625
+E Arizona Pl	Anaheim	92805
+E Arlee Pl	Anaheim	92805
+E Arlen Ave	Visalia	93277
+E Arlen Ave	Visalia	93292
+E Arlen Ct	Visalia	93292
+E Arlington Rd	Stockton	95205
+E Armando St	Upland	91786
+E Armory Ct	Colton	92324
+E Armstrong Av	Santa Maria	93454
+E Armstrong Ave	Santa Maria	93454
+E Armstrong Rd	Lodi	95240
+E Armstrong Rd	Lodi	95242
+E Arnaudo Bl	Mh	95391
+E Arno Crescent	Anaheim	92807
+E Arno Crescent St	Anaheim	92807
+E Arques Ave	Santa Clara	94085
+E Arques Ave	Sunnyvale	94085
+E Arrellaga St	Santa Barbara	93101
+E Arrellaga St	Santa Barbara	93103
+E Arrieta Cir	La Mesa	91941
+E Arrigone Wy	Linden	95236
+E Arrow Hwy	Upland	91785
+E Arrow Hwy	Upland	91786
+E Arrowhead Rd	San Bernardino	92404
+E Arrowhead Way	Anaheim	92808
+E Arroyo Vista Dr	Highland	92346
+E Art Townsend Dr	San Bernardino	92408
+E Artesia Blvd	Carson	90746
+E Artesian Ave	San Jacinto	92583
+E Artesian St	San Jacinto	92583
+E Artessa Way	Ontario	91761
+E Arthur Ln	Santa Maria	93454
+E Arthur Rd	Escalon	95320
+E Artisan Ct	Anaheim	92805
+E Arturo Bl	Mh	95391
+E Arturo St	Upland	91786
+E Arvin St	Bakersfield	93308
+E Asbury Pl	Anaheim	92806
+E Ascot Pl	Fresno	93720
+E Ash Av	Santa Maria	93454
+E Ash Ave	Coalinga	93210
+E Ash Ave	Fullerton	92831
+E Ash Ave	Fullerton	92832
+E Ash Ave	Hanford	93230
+E Ash Ave	Santa Maria	93454
+E Ash Ct	Mh	95391
+E Ash St	Bre	 
+E Ash St	Bre	92821
+E Ash St	Brea	92821
+E Ash St	Lemoore	93245
+E Ash St	Oxnard	93033
+E Ash Tree Ln	Colton	92324
+E Ashbury Ln	Upland	91784
+E Ashcroft Ave	Fresno	93704
+E Ashcroft Ave	Fresno	93726
+E Ashcroft Ave	Fresno	93727
+E Ashcroft Ave	Sanger	93657
+E Ashfield Ln	Anaheim	92808
+E Ashford Ave	Orange	92867
+E Ashgate Ct	Ontario	91761
+E Ashgate Pl	Ontario	91761
+E Ashgate Way	Ontario	91761
+E Ashlan	Sanger	93657
+E Ashlan Ave	Clovis	93619
+E Ashlan Ave	Fresno	93704
+E Ashlan Ave	Fresno	93726
+E Ashlan Ave	Fresno	93727
+E Ashlan Ave	Sanger	93657
+E Ashland Ave	Visalia	93277
+E Ashland Ct	Visalia	93277
+E Ashley Ct	Whittier	90603
+E Ashley Ln	Stockton	95212
+E Ashmill St	Carson	90745
+E Ashton Ln	Linden	95236
+E Ashwood Ct	San Bernardino	92404
+E Asiago Ct	Mh	95391
+E Aspen Ct	Reedley	93654
+E Aspen Dr	Reedley	93654
+E Aspen Dr	San Bernardino	92404
+E Aspen St	Bre	92821
+E Aspen St	Ontario	91761
+E Aspen St	Santa Ana	92705
+E Aspen St	Santa Ana	92706
+E Aspenwood Ct	San Bernardino	92404
+E Aster St	Upland	91786
+E Asteridge Pl	Mh	95391
+E Astoria Cir	Ana	92807
+E Astoria Cir	Anaheim	92807
+E Atchison St	Fresno	93706
+E Atchison St	Fresno	93725
+E Atchison St	Fresno	93727
+E Aten	El Centro	92243
+E Aten	Imperial	92251
+E Aten Dr	El Centro	92243
+E Aten Rd	Imperial	92251
+E Athens Ave	Fresno	93720
+E Athens Ave	Orange	92867
+E Athens Ave	Villa Park	92867
+E Atherton Dr	Manteca	95337
+E Atkins Ave	Visalia	93292
+E Atkins Ct	Visalia	93292
+E Atkinson Rd	Lodi	95240
+E Atlantic Ave	Highland	92346
+E Atlee St	Stockton	95204
+E Attalla St	Ontario	91761
+E Atwood Ave	Fresno	93727
+E Atwood Ct	Orange	92866
+E Auburn Dr	Visalia	93292
+E Auburn View Ln	Anaheim	92807
+E Auburn Way	Ontario	91761
+E Audrie Ave	Fresno	93725
+E Audrie Ave	Fresno	93727
+E Audubon Dr	Fresno	93720
+E August Ave	Reedley	93654
+E Augusta St	Woodbridge	95258
+E Aurelia St	Simi Valley	93063
+E Aurora	El Centro	92243
+E Aurora Ave	El Centro	92243
+E Aurora Crest Dr	Whittier	90605
+E Aurora Dr	El Centro	92243
+E Aurora Ln	Mh	95391
+E Aurora Ln	San Bernardino	92408
+E Aurora Ln	Whittier	90605
+E Austin Ave	Orange	92869
+E Austin Creek Rd	Cazadero	95421
+E Austin Way	Fresno	93704
+E Austin Way	Fresno	93726
+E Austin Way	Fresno	93727
+E Auto Center Dr	Fresno	93710
+E Auto Mall Dr	Thousand Oaks	91362
+E Autry Dr	Ana	92808
+E Autry Dr	Anaheim	92808
+E Autumn Hill Way	Orange	92869
+E Autumn Ridge Ct	Orange	92866
+E Autumn Sage Ave	Fresno	93730
+E Autumnridge Ct	Orange	92866
+E Ava Dr	Fresno	93730
+E Avalon Ave	Highland	92346
+E Avalon Ave	Santa Ana	92705
+E Avalon Ave	Santa Ana	92706
+E Avalon Ct	Upland	91784
+E Avalon Rd	Whittier	90601
+E Avante Ave	Fresno	93720
+E Ave	Bombay Beach	92257
+E Ave	Coronado	92118
+E Ave	Hesperia	92345
+E Ave	National City	91950
+E Ave	Redding	96002
+E Ave E	Auburn	95603
+E Ave W	Auburn	95603
+E Avena Rd	Escalon	95320
+E Avendia Bernardo South	Anaheim	92807
+E Avenell Ave	Fresno	93722
+E Avenell Ave	Fresno	93725
+E Avenida Arbol	Ana	92807
+E Avenida Arbol	Anaheim	92807
+E Avenida Bernardo	Anaheim	92807
+E Avenida Bernardo N	Anaheim	92807
+E Avenida Bernardo North	Anaheim	92807
+E Avenida Cordoba	San Clemente	92672
+E Avenida Cornelio	San Clemente	92672
+E Avenida De Las Flores	Thousand Oaks	91360
+E Avenida De Las Flores	Thousand Oaks	91362
+E Avenida De Las Montanas	Cathedral City	92234
+E Avenida De Los Arboles	Thousand Oaks	91360
+E Avenida De Los Arboles	Thousand Oaks	91362
+E Avenida De Los Arboles Ave	Thousand Oaks	91360
+E Avenida De Los Lobos Marinos	San Clemente	92672
+E Avenida De Santiago	Anaheim	92807
+E Avenida De Vientos	Anaheim	92807
+E Avenida De Vinedos	Anaheim	92807
+E Avenida De Yorba	Anaheim	92807
+E Avenida Granada	Palm Springs	92264
+E Avenida Juarez	Ana	92808
+E Avenida Juarez	Anaheim	92808
+E Avenida Junipero	San Clemente	92672
+E Avenida La Vida	Anaheim	92807
+E Avenida Magdalena	San Clemente	92672
+E Avenida Navarro	Anaheim	92807
+E Avenida Otono	Thousand Oaks	91362
+E Avenida Palizada	San Clemente	92672
+E Avenida Palmar	4-Or-16	92869
+E Avenida Palmar	Orange	92869
+E Avenida Pico	San Clemente	92672
+E Avenida Portola	Anaheim	92807
+E Avenida Ramona	San Clemente	92672
+E Avenida San Antonio	San Clemente	92672
+E Avenida San Gabriel	San Clemente	92672
+E Avenida San Juan	San Clemente	92672
+E Avenida Serra	Anaheim	92807
+E Avenida Simi	Simi Valley	93063
+E Avenue A	Blythe	92225
+E Avenue B	Blythe	92225
+E Avenue D Rd	Manteca	95337
+E Avenue L	Calimesa	92320
+E Avery St	San Bernardino	92404
+E Aviation Rd	Fallbrook	92028
+E Aviation Rd	San Diego	92114
+E Avigation Way	Fresno	93727
+E Avila Privado	Ontario	91761
+E Avila St	Del Rey	93616
+E Avion Ave	Ontario	91761
+E Avion St	Ontario	91761
+E Avo Rd	Fallbrook	92028
+E Avocado St	Bre	92821
+E Avon Pl	Anaheim	92805
+E Axelson Dr	Fresno	93730
+E Ayers Av	Escalon	95320
+E Azalea Cir	Palm Springs	92264
+E Azalea Way	Ana	92808
+E Azalea Way	Anaheim	92808
+E Azalea Way	Bre	92823
+E Aztec Ct	Simi Valley	93063
+E Azurite Cir	Palm Desert	92260

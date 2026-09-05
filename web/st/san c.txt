@@ -1,0 +1,183 @@
+San Calvino Cir	Buena Park	90620
+San Candelo St	Fountain Valley	92708
+San Capistrano	Coachella	92236
+San Capistrano Dr	Coachella	92236
+San Capistrano Way	Buena Park	90620
+San Carlo	Irvine	92614
+San Carlo	Mountain Center	92561
+San Carlo Ave	San Bernardino	92407
+San Carlo Ct	Danville	94526
+San Carlo Ct	Manteca	95337
+San Carlo Lane	Los Banos	93635
+San Carlos	Carmel-By-The-Sea	93921
+San Carlos	Rancho Santa Margarita	92688
+San Carlos Ave	Concord	94518
+San Carlos Ave	El Cerrito	94530
+San Carlos Ave	El Granada	94018
+San Carlos Ave	Half Moon Bay	94018
+San Carlos Ave	Madera	93637
+San Carlos Ave	Madera	93638
+San Carlos Ave	Mountain View	94043
+San Carlos Ave	Palm Desert	92260
+San Carlos Ave	Redwood City	94061
+San Carlos Ave	San Carlos	94002
+San Carlos Ave	San Carlos	94070
+San Carlos Ave	Sausalito	94965
+San Carlos Avenue	Carmel By The Sea	93921
+San Carlos Avenue	South Gate	90280
+San Carlos Ci	Roseville	95747
+San Carlos Cir	Corona	92879
+San Carlos Court	Merced	95348
+San Carlos Court	San Dimas	91773
+San Carlos Court	Vacaville	95688
+San Carlos Court	West Sacramento	95691
+San Carlos Ct	Palo Alto	94306
+San Carlos Ct	Pittsburg	94565
+San Carlos Ct	Rancho Cucamonga	91739
+San Carlos Ct	Rohnert Park	94928
+San Carlos Ct	Spring Valley	91978
+San Carlos Ct	Victorville	92392
+San Carlos Ct	Walnut Creek	94598
+San Carlos Dr	Antioch	94509
+San Carlos Dr	Fullerton	92831
+San Carlos Dr	Hemet	92543
+San Carlos Dr	Paso Robles	93446
+San Carlos Dr	Petaluma	94952
+San Carlos Dr	San Diego	92119
+San Carlos Dr	San Luis Obispo	93401
+San Carlos Dr	Sonoma	95476
+San Carlos Dr	Spring Valley	91977
+San Carlos Dr	Spring Valley	91978
+San Carlos Dr	Thousand Oaks	91320
+San Carlos Dr	Thousand Palms	92276
+San Carlos Dr	Walnut Creek	94598
+San Carlos Drive	Pomona	91767
+San Carlos Drive	Salinas	93901
+San Carlos Ln	Costa Mesa	92626
+San Carlos Ln	Modesto	95355
+San Carlos N Dr	Walnut Creek	94598
+San Carlos Pl	Escondido	92026
+San Carlos Pl	Morgan Hill	95037
+San Carlos Pl	Pittsburg	94565
+San Carlos Rd	Atascadero	93422
+San Carlos Rd	Borrego Springs	92004
+San Carlos Rd	Desert Hot Springs	92240
+San Carlos Rd	Palm Springs	92262
+San Carlos Rd	Santa Barbara	93103
+San Carlos Road	Arcadia	91006
+San Carlos Road	Pebble Beach	93953
+San Carlos St	Blythe	92225
+San Carlos St	Fountain Valley	92708
+San Carlos St	Martinez	94553
+San Carlos St	Needles	92363
+San Carlos St	San Francisco	94110
+San Carlos St	San Jose	95126
+San Carlos St	Selma	93662
+San Carlos St	Spring Valley	91977
+San Carlos St	Yountville	94599
+San Carlos St	Yucaipa	92399
+San Carlos Street	Carmel	93923
+San Carlos Street	Carmel By The Sea	93921
+San Carlos Street	Fairfield	94533
+San Carlos Street	Los Angeles	90063
+San Carlos Street	Paramount	90723
+San Carlos Street	Pebble Beach	93953
+San Carlos Way	Bakersfield	93309
+San Carlos Way	Brentwood	94513
+San Carlos Way	Buena Park	90620
+San Carlos Way	Morgan Hill	95037
+San Carlos Way	Novato	94945
+San Carlos Way	Palmdale	93550
+San Carlos Way	Pla	92870
+San Carlos Way	Placentia	92870
+San Carlos Way	Rocklin	95765
+San Carlos Way	Sacramento	95817
+San Carlos Way	Sacramento	95820
+San Carlos Wy	Stockton	95207
+San Carmela Ct	Rancho Cucamonga	91739
+San Carpino Dr	Goleta	93117
+San Carrizo Way	Mountain View	94043
+San Cassino Wy	Goleta	93117
+San Cataldo Avenue	Long Beach	90815
+San Cayetano Rd	Atascadero	93422
+San Cayetano St	Fillmore	93015
+San Celemente Cir	Palm Desert	92260
+San Celeste St	Moreno Valley	92551
+San Chapelle Ct	Indio	92203
+San Circle	Beverly Hills	90210
+San Clemente	Irvine	92602
+San Clemente	Lake Elsinore	92530
+San Clemente	Santa Barbara	93109
+San Clemente Ave	Atascadero	93422
+San Clemente Ave	Modesto	95356
+San Clemente Ave	Oxnard	93035
+San Clemente Ave	San Jose	95118
+San Clemente Ave	Vista	92084
+San Clemente Ave Ave	Vista	92084
+San Clemente Avenue	Alhambra	91803
+San Clemente Avenue	Gustine	95322
+San Clemente Avenue	Salinas	93901
+San Clemente Cir	Corona	92882
+San Clemente Cir	Huntington Beach	92649
+San Clemente Cir	Huntington Beach	92649-2109
+San Clemente Cir	Huntington Beach	92649-2110
+San Clemente Cir	Palm Desert	92260
+San Clemente Court	Merced	95341
+San Clemente Ct	Thousand Oaks	91320
+San Clemente Dr	Corte Madera	94925
+San Clemente Dr	Costa Mesa	92626
+San Clemente Dr	Indio	92203
+San Clemente Dr	Menlo Park	94025
+San Clemente Dr	Newport Beach	92660
+San Clemente Dr	Rancho Cucamonga	91730
+San Clemente Dr	Santa Rosa	95404
+San Clemente Drive	Carmel Valley	93924
+San Clemente Drive	Merced	95341
+San Clemente Drive	Newhall	91321
+San Clemente Drive	Rancho Palos Verdes	90275
+San Clemente Ln	Chino	91710
+San Clemente Ln	Corona	92882
+San Clemente Ln	Foster City	94404
+San Clemente Ln	Morgan Hill	95037
+San Clemente Ln	Placentia	92870
+San Clemente Rd	El Granada	94018
+San Clemente Rd	El Granada	94019
+San Clemente Rd	Palm Springs	92262
+San Clemente St	Fountain Valley	92708
+San Clemente St	Hayward	94544
+San Clemente St	Hemet	92545
+San Clemente St	Laguna Beach	92651
+San Clemente St	Lake Elsinore	92530
+San Clemente St	Needles	92363
+San Clemente St	San Diego	92107
+San Clemente St	Santa Paula	93060
+San Clemente St	Ventura	93001
+San Clemente Street	Fairfield	94533
+San Clemente Ter	San Diego	92122
+San Clemente Ter	Sunnyvale	94085
+San Clemente Trail	Carmel	93923
+San Clemente Way	Buena Park	90620
+San Clemente Way	Camarillo	93010
+San Clemente Way	Montclair	91763
+San Clemente Way	Mountain View	94043
+San Clemente Way	Sacramento	95831
+San Clemente Way	Vista	92084
+San Clemete Court	Palmdale	93550
+San Colla St	La Jolla	92037
+San Como Ct	Camarillo	93012
+San Como Ln	Camarillo	93012
+San Como Wy	Goleta	93117
+San Conrado Ter	Sunnyvale	94085
+San Corzo St	Fountain Valley	92708
+San Cosme Dr	Citrus Heights	95610
+San Cristobal	Indio	92201
+San Cristobal Ave	Indio	92201
+San Cristobal Bay Dr	Moreno Valley	92553
+San Cristobal Cir	Palm Desert	92260
+San Cristobal Dr	Riverside	92506
+San Cristobal Drive	La Mirada	90638
+San Cristobal Rd	Hemet	92544
+San Cristobal Rd	Spring Valley	91977
+San Cristobal St	Indio	92201
+San Cristoval Cir	Palm Desert	92260
+San Cristoval Ct	Morgan Hill	95037

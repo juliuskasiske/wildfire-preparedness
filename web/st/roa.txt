@@ -1,0 +1,991 @@
+Roa Dr	Carson	90746
+Roach	Freedom	95019
+Roach Dr	La Mesa	91942
+Roach St	San Francisco	94133
+Roache	Freedom	95019
+Road	Carmel Valley	93924
+Road 0	Benbow	95542
+Road 1	Chowchilla	93610
+Road 1	Chowchilla	93620
+Road 10	Chowchilla 	93610
+Road 10 1/2	Chowchilla	93610
+Road 10 1/2	Firebaugh	93622
+Road 100	Dinuba	93618
+Road 100	Tulare	93274
+Road 100	Visalia	93277
+Road 100	Visalia	93291
+Road 104	Dinuba	93618
+Road 104	Earlimart	93219
+Road 104	Pixley	93256
+Road 104	Sultana	93666
+Road 104	Tipton	93272
+Road 105	Dinuba	93618
+Road 105	Sultana	93666
+Road 1052	Dobbins	95935
+Road 106	Sultana	93666
+Road 108	Cutler	93615
+Road 108	Dinuba	93618
+Road 108	Tulare	93274
+Road 108	Visalia	93277
+Road 108	Visalia	93291
+Road 109	Dinuba	93618
+Road 11	Chowchilla	93610
+Road 112	Cutler	93615
+Road 112	Delano	93215
+Road 112	Dinuba	93618
+Road 112	Earlimart	93219
+Road 112	Pixley	93256
+Road 112	Tipton	93272
+Road 112	Tulare	93274
+Road 112	Visalia	93291
+Road 114	Cutler	93615
+Road 114	Dinuba	93618
+Road 114	Orosi	93647
+Road 116	Cutler	93615
+Road 116	Orosi	93647
+Road 118	Cutler	93615
+Road 118	Tulare	93274
+Road 12	Chowchilla	93610
+Road 12	Kingsburg	93631
+Road 120	Cutler	93615
+Road 120	Dinuba	93618
+Road 120	Earlimart	93219
+Road 120	Orange Cove	93646
+Road 120	Orosi	93647
+Road 120	Pixley	93256
+Road 120	Tipton	93272
+Road 121	Visalia	93291
+Road 122	Pixley	93256
+Road 122	Visalia	93291
+Road 124	Cutler	93615
+Road 124	Orange Cove	93646
+Road 124	Orosi	93647
+Road 124	Pixley	93256
+Road 124	Tipton	93272
+Road 124	Tulare	93274
+Road 124	Visalia	93277
+Road 124	Visalia	93291
+Road 125	Orosi	93647
+Road 126	Earlimart	93219
+Road 126	Orosi	93647
+Road 126	Pixley	93256
+Road 126	Tulare	93274
+Road 127	Cutler	93615
+Road 127	Orosi	93647
+Road 127	Visalia	93291
+Road 128	Cutler	93615
+Road 128	Delano	93215
+Road 128	Earlimart	93219
+Road 128	Orange Cove	93646
+Road 128	Orosi	93647
+Road 128	Pixley	93256
+Road 128	Tipton	93272
+Road 128	Tulare	93274
+Road 13	Chowchilla	93610
+Road 13	Firebaugh	93622
+Road 130	Cutler	93615
+Road 130	Earlimart	93219
+Road 130	Orosi	93647
+Road 130	Pixley	93256
+Road 130	Tulare	93274
+Road 131	Pixley	93256
+Road 132	Cutler	93615
+Road 132	Earlimart	93219
+Road 132	Orange Cove	93646
+Road 132	Orosi	93647
+Road 132	Pixley	93256
+Road 132	Tulare	93274
+Road 132	Visalia	93292
+Road 134	Earlimart	93219
+Road 134	Pixley	93256
+Road 136	Cutler	93615
+Road 136	Delano	93215
+Road 136	Earlimart	93219
+Road 136	Orange Cove	93646
+Road 136	Orosi	93647
+Road 136	Pixley	93256
+Road 136	Tipton	93272
+Road 136	Tulare	93274
+Road 138	Visalia	93292
+Road 139	Orosi	93647
+Road 14	Chowchilla	93610
+Road 14	Madera	93637
+Road 14	Madera	93638
+Road 14 1/2	Chowchilla	93610
+Road 140	Cutler	93615
+Road 140	Orange Cove	93646
+Road 140	Orosi	93647
+Road 140	Pixley	93256
+Road 140	Tipton	93272
+Road 140	Tulare	93274
+Road 140	Visalia	93292
+Road 142	Orosi	93647
+Road 142	Tulare	93274
+Road 144	Cutler	93615
+Road 144	Delano	93215
+Road 144	Dinuba	93618
+Road 144	Earlimart	93219
+Road 144	Orange Cove	93646
+Road 144	Orosi	93647
+Road 144	Pixley	93256
+Road 144	Tipton	93272
+Road 144	Tulare	93274
+Road 144	Visalia	93292
+Road 145	Friant	93626
+Road 148	Delano	93215
+Road 148	Earlimart	93219
+Road 148	Orosi	93647
+Road 148	Tipton	93272
+Road 148	Tulare	93274
+Road 148	Visalia	93292
+Road 148W Colin	Delano	93215
+Road 15	Chowchilla	93610
+Road 15	Madera	93637
+Road 15 1/2	Chowchilla	93610
+Road 15 1/2	Madera	93637
+Road 15 1/4	Chowchilla	93610
+Road 15 3/4	Chowchilla	93610
+Road 150	Delano	93215
+Road 150	Orosi	93647
+Road 150	Visalia	93292
+Road 151	Pixley	93256
+Road 152	Delano	93215
+Road 152	Earlimart	93219
+Road 152	Ivanhoe	93235
+Road 152	Orosi	93647
+Road 152	Pixley	93256
+Road 152	Strathmore	93267
+Road 152	Tipton	93272
+Road 152	Tulare	93274
+Road 152	Visalia	93292
+Road 153	Visalia	93292
+Road 154	Orosi	93647
+Road 154	Visalia	93292
+Road 155	Visalia	93292
+Road 156	Delano	93215
+Road 156	Ivanhoe	93235
+Road 156	Visalia	93292
+Road 157	Ivanhoe	93235
+Road 158	Ivanhoe	93235
+Road 158	Visalia	93292
+Road 159	Ivanhoe	93235
+Road 159	Visalia	93292
+Road 16	Chowchilla	93610
+Road 16	Corcoran	93212
+Road 16	Kingsburg	93631
+Road 16	Little River	 
+Road 16	Madera	93637
+Road 160	Delano	93215
+Road 160	Earlimart	93219
+Road 160	Ivanhoe	93235
+Road 160	Orosi	93647
+Road 160	Pixley	93256
+Road 160	Tipton	93272
+Road 160	Visalia	93292
+Road 161	Ivanhoe	93235
+Road 162	Ivanhoe	93235
+Road 162	Orosi	93647
+Road 162	Visalia	93292
+Road 164	Delano	93215
+Road 164	Farmersville	93223
+Road 164	Ivanhoe	93235
+Road 164	Orosi	93647
+Road 164	Pixley	93256
+Road 164	Strathmore	93267
+Road 164	Tulare	93274
+Road 164	Visalia	93292
+Road 166	Tulare	93274
+Road 166	Visalia	93292
+Road 167	Tulare	93274
+Road 168	Delano	93215
+Road 168	Earlimart	93219
+Road 168	Orosi	93647
+Road 168	Porterville	93257
+Road 168	Strathmore	93267
+Road 168	Tipton	93272
+Road 168	Tulare	93274
+Road 168	Visalia	93292
+Road 17	Chowchilla	93610
+Road 17	Madera	93637
+Road 17 1/2	Chowchilla	93610
+Road 17 1/2	Madera	93637
+Road 17 3/4	Madera	93637
+Road 170	Visalia	93292
+Road 172	Delano	93215
+Road 172	Strathmore	93267
+Road 172	Visalia	93292
+Road 176	Delano	93215
+Road 176	Earlimart	93219
+Road 176	Exeter	93221
+Road 176	Farmersville	93223
+Road 176	Orosi	93647
+Road 176	Pixley	93256
+Road 176	Porterville	93257
+Road 176	Strathmore	93267
+Road 176	Terra Bella	93270
+Road 176	Visalia	93292
+Road 18	Chowchilla	93610
+Road 18	Little River	 
+Road 18	Madera	93637
+Road 18 1/2	Chowchilla	93610
+Road 18 1/2	Madera	93637
+Road 18 3/4	Chowchilla	93610
+Road 18 3/4	Madera	93637
+Road 180	Exeter	93221
+Road 180	Lindsay	93247
+Road 180	Porterville	93257
+Road 180	Strathmore	93267
+Road 180	Visalia	93292
+Road 180	Woodlake	93286
+Road 182	Exeter	93221
+Road 182	Lindsay	93247
+Road 182	Visalia	93292
+Road 184	Earlimart	93219
+Road 184	Exeter	93221
+Road 184	Lindsay	93247
+Road 184	Porterville	93257
+Road 184	Terra Bella	93270
+Road 184	Visalia	93292
+Road 184	Woodlake	93286
+Road 188	Delano	93215
+Road 188	Exeter	93221
+Road 188	Lindsay	93247
+Road 188	Strathmore	93267
+Road 188	Visalia	93292
+Road 188	Woodlake	93286
+Road 19	Chowchilla	93610
+Road 19	Little River	 
+Road 19	Madera	93637
+Road 19 1/2	Chowchilla	93610
+Road 19 1/2	Madera	93637
+Road 190	Porterville	93257
+Road 191	Porterville	93257
+Road 192	Delano	93215
+Road 192	Earlimart	93219
+Road 192	Exeter	93221
+Road 192	Lindsay	93247
+Road 192	Porterville	93257
+Road 192	Strathmore	93267
+Road 192	Terra Bella	93270
+Road 192	Woodlake	93286
+Road 193	Porterville	93257
+Road 194	Porterville	93257
+Road 194	Woodlake	93286
+Road 196	Exeter	93221
+Road 196	Lindsay	93247
+Road 196	Porterville	93257
+Road 196	Strathmore	93267
+Road 196	Visalia	93292
+Road 196	Woodlake	93286
+Road 197	Woodlake	93286
+Road 198	Lindsay	93247
+Road 198	Strathmore	93267
+Road 20	Chowchilla 	93610
+Road 20	Corcoran	93212
+Road 20	Kingsburg	93631
+Road 20	Madera	93637
+Road 20	San Pablo	94806
+Road 20 1/2	Chowchilla	93610
+Road 20 1/2	Madera	93637
+Road 20 1/2	Madera	93638
+Road 200	Delano	93215
+Road 200	Exeter	93221
+Road 200	Lindsay	93247
+Road 200	North Fork	93643
+Road 200	O'Neals	93645
+Road 200	Porterville	93257
+Road 200	Strathmore	93267
+Road 200	Woodlake	93286
+Road 201	Lindsay	93247
+Road 201	O Neals	93645
+Road 202	Porterville	93257
+Road 203	Lindsay	93247
+Road 204	Exeter	93221
+Road 204	Lindsay	93247
+Road 204	Madera	93626
+Road 204	Madera	93636
+Road 204	Porterville	93257
+Road 204	Strathmore	93267
+Road 204	Woodlake	93286
+Road 206	Friant	93626
+Road 206	Porterville	93257
+Road 206	Woodlake	93286
+Road 206 Road	Madera 	93626
+Road 207	Coarsegold	93614
+Road 208	California Hot Springs	93207
+Road 208	Delano	93215
+Road 208	Earlimart	93219
+Road 208	Exeter	93221
+Road 208	Friant	93626
+Road 208	Lindsay	93247
+Road 208	Madera	93636
+Road 208	Porterville	93257
+Road 208	Strathmore	93267
+Road 208	Terra Bella	93270
+Road 209	Madera	93636
+Road 21	Chowchilla	93610
+Road 21	Madera	93637
+Road 21	Madera	93638
+Road 21 1/2	Madera	93637
+Road 210	Delano	93215
+Road 210	Exeter	93221
+Road 210	Friant	93626
+Road 210	O Neals	93645
+Road 211	Friant	93626
+Road 212	Exeter	93221
+Road 212	Lindsay	93247
+Road 212	Porterville	93257
+Road 212	Strathmore	93267
+Road 212	Woodlake	93286
+Road 213	Terra Bella	93270
+Road 214	Lindsay	93247
+Road 214	Woodlake	93286
+Road 216	Delano	93215
+Road 216	Earlimart	93219
+Road 216	Exeter	93221
+Road 216	Friant	93626
+Road 216	Lindsay	93247
+Road 216	Porterville	93257
+Road 216	Strathmore	93267
+Road 216	Terra Bella	93270
+Road 217	Exeter	93221
+Road 218	Lindsay	93247
+Road 22	Chowchilla	93610
+Road 22	Madera	93637
+Road 22	Madera	93638
+Road 22 1/2	Chowchilla	93610
+Road 22 1/2	Madera	93637
+Road 220	California Hot Springs	93207
+Road 220	Exeter	93221
+Road 220	Lindsay	93247
+Road 220	Oakhurst	93644
+Road 220	Porterville	93257
+Road 220	Strathmore	93267
+Road 220	Woodlake	93286
+Road 221	North Fork	93643
+Road 221	Wishon	93669
+Road 222	Bass Lake	93604
+Road 222	Lindsay	93247
+Road 222	North Fork	93643
+Road 222	Oakhurst	93644
+Road 222	Porterville	93257
+Road 222	Strathmore	93267
+Road 222	Wishon	93669
+Road 222	Woodlake	93286
+Road 223	Lindsay	93247
+Road 223	North Fork	93643
+Road 223	North Fork	93644
+Road 223	North Fork	93673
+Road 223	Porterville	93257
+Road 224	Delano	93215
+Road 224	Exeter	93221
+Road 224	Lindsay	93247
+Road 224	North Fork	93643
+Road 224	Porterville	93257
+Road 224	Strathmore	93267
+Road 224	Terra Bella	93270
+Road 225	North Fork	93610
+Road 225	North Fork	93643
+Road 226	Exeter	93221
+Road 226	Lindsay	93247
+Road 226	North Fork	93643
+Road 227	Exeter	93221
+Road 228	Exeter	93221
+Road 228	Lindsay	93247
+Road 228	North Fork	93643
+Road 228	Strathmore	93267
+Road 228	Terra Bella	93270
+Road 228	Woodlake	93286
+Road 229A	North Fork	93643
+Road 229B	North Fork	93643
+Road 23	Chowchilla	93610
+Road 23	Madera	93637
+Road 23 1/2	Chowchilla	93610
+Road 23 1/2	Madera	93637
+Road 230	North Fork	93643
+Road 230	Strathmore	93267
+Road 231	Strathmore	93267
+Road 232	California Hot Springs	93207
+Road 232	Lindsay	93247
+Road 232	Porterville	93257
+Road 232	Strathmore	93267
+Road 232	Terra Bella	93270
+Road 233	Madera	93643
+Road 233	North Fork	93643
+Road 234	Ducor	93218
+Road 234	Strathmore	93267
+Road 234	Terra Bella	93270
+Road 235	Auberry	93602
+Road 235	North Fork	93643
+Road 236	California Hot Springs	93207
+Road 236	Ducor	93218
+Road 236	Lindsay	93247
+Road 236	North Fork	93643
+Road 236	Porterville	93257
+Road 236	Strathmore	93267
+Road 236	Terra Bella	93270
+Road 236	Woodlake	93286
+Road 237	Terra Bella	93270
+Road 238	Lindsay	93247
+Road 238	Porterville	93257
+Road 238	Terra Bella	93270
+Road 239	Terra Bella	93270
+Road 24	Chowchilla	93610
+Road 24	Corcoran	93212
+Road 24	Kingsburg	93631
+Road 24	Madera	93637
+Road 24	Madera	93638
+Road 24	Tulare	93274
+Road 24 1/2	Madera	93637
+Road 24 1/2	Madera	93638
+Road 240	California Hot Springs	93207
+Road 240	Ducor	93218
+Road 240	Lindsay	93247
+Road 240	Terra Bella	93270
+Road 242	Lindsay	93247
+Road 242	Terra Bella	93270
+Road 243	Porterville	93257
+Road 244	Exeter	93221
+Road 244	Lemon Cove	93244
+Road 244	Lindsay	93247
+Road 244	Porterville	93257
+Road 244	Strathmore	93267
+Road 244	Terra Bella	93270
+Road 244	Woodlake	93286
+Road 246	Exeter	93221
+Road 246	Lindsay	93247
+Road 248	California Hot Springs	93207
+Road 248	Ducor	93218
+Road 248	Lemon Cove	93244
+Road 248	Lindsay	93247
+Road 248	Porterville	93257
+Road 248	Strathmore	93267
+Road 248	Terra Bella	93270
+Road 25	Chowchilla	93610
+Road 25	Madera	93637
+Road 25	Madera	93638
+Road 25 1/2	Madera	93637
+Road 25 1/2	Madera	93638
+Road 250	Lindsay	93247
+Road 250	Strathmore	93267
+Road 252	Lindsay	93247
+Road 252	Porterville	93257
+Road 252	Strathmore	93267
+Road 252	Terra Bella	93270
+Road 254	Lindsay	93247
+Road 254	Strathmore	93267
+Road 256	California Hot Springs	93207
+Road 256	Ducor	93218
+Road 256	Lindsay	93247
+Road 256	Porterville	93257
+Road 256	Strathmore	93267
+Road 256	Terra Bella	93270
+Road 258	Strathmore	93267
+Road 26	Chowchilla	93610
+Road 26	Madera	93636
+Road 26	Madera	93637
+Road 26	Madera	93638
+Road 26 1/2	Madera	93637
+Road 26 1/2	Madera	93638
+Road 26 3/4	Madera	93637
+Road 260	Ducor	93218
+Road 260	Lindsay	93247
+Road 260	Terra Bella	93270
+Road 261	Terra Bella	93270
+Road 264	Porterville	93257
+Road 264	Terra Bella	93270
+Road 267	Terra Bella	93270
+Road 268	Porterville	93257
+Road 268	Terra Bella	93270
+Road 27	Chowchilla	93610
+Road 27	Madera	93636
+Road 27	Madera	93637
+Road 27	Madera	93638
+Road 27 1/2	Madera	93637
+Road 270	Porterville	93257
+Road 270	Terra Bella	93270
+Road 272	California Hot Springs	93207
+Road 272	Porterville	93257
+Road 272	Terra Bella	93270
+Road 274	Bass Lake	93604
+Road 274	North Fork	93643
+Road 274	Porterville	93257
+Road 276	Porterville	93257
+Road 276	Strathmore	93267
+Road 28	Corcoran	93212
+Road 28	Kingsburg	93631
+Road 28	Madera	93637
+Road 28	Madera	93638
+Road 28	Tulare	93274
+Road 28 1/2	Madera	93636
+Road 28 1/2	Madera	93637
+Road 28 1/2	Madera	93638
+Road 28 1/4	Madera	93637
+Road 28 1/4	Madera	93638
+Road 28 3/4	Madera	93638
+Road 284	Porterville	93257
+Road 288	California Hot Springs	93207
+Road 29	Madera	93636
+Road 29	Madera	93637
+Road 29	Madera	93638
+Road 29	Raymond	93653
+Road 29 1/2	Madera	93636
+Road 29 1/2	Madera	93637
+Road 29 1/2	Madera	93638
+Road 29 1/2 Road	Madera 	93638
+Road 29 1/4	Madera	93638
+Road 296	Porterville	93257
+Road 3	Chowchilla	93610
+Road 3	Sausalito	94965
+Road 30	Alpaugh	93201
+Road 30	Madera	93637
+Road 30	Madera	93638
+Road 30	Tulare	93274
+Road 30 1/2	Madera	93636
+Road 30 1/2	Madera	93638
+Road 30 1/2	Madera 	93637
+Road 31	Madera	93636
+Road 31	Madera	93637
+Road 31	Madera	93638
+Road 31 1/2	Madera	93637
+Road 32	Alpaugh	93201
+Road 32	Corcoran	93212
+Road 32	Earlimart	93219
+Road 32	Kingsburg	93631
+Road 32	Madera	93636
+Road 32	Madera	93637
+Road 32	Tulare	93274
+Road 32 1/2	Madera	93637
+Road 320	Porterville	93257
+Road 320	Springville	93265
+Road 33	Kingsburg	93631
+Road 33	Madera	93636
+Road 33	Madera	93637
+Road 33 1/2	Madera	93636
+Road 33 1/2	Madera	93638
+Road 331	Bass Lake	93604
+Road 34	Alpaugh	93201
+Road 34	Kingsburg	93631
+Road 34	Madera	93636
+Road 34 1/2	Madera	93636
+Road 34 3/4	Madera	93636
+Road 35	Madera	93636
+Road 35	Madera	93637
+Road 35	Madera	93638
+Road 35 1/2	Madera	93636
+Road 36	Alpaugh	93201
+Road 36	Kingsburg	93631
+Road 36	Madera	93636
+Road 36	Tulare	93274
+Road 36 1/2	Madera	93636
+Road 37	Madera	93636
+Road 37 1/2	Madera	93636
+Road 37 3/4	Madera	93636
+Road 38	Alpaugh	93201
+Road 38	Earlimart	93219
+Road 38	Madera	93636
+Road 38	Reedley	93654
+Road 39	Alpaugh	93201
+Road 39	Madera	93636
+Road 39 1/2	Madera	93636
+Road 4	Chowchilla	93610
+Road 40	Alpaugh	93201
+Road 40	Corcoran	93212
+Road 40	Dinuba	93618
+Road 40	Earlimart	93219
+Road 40	Kingsburg	93631
+Road 40	Madera	93636
+Road 40	Reedley	93654
+Road 400	Coarsegold	93614
+Road 400	Madera	93636
+Road 400	Madera	93638
+Road 406	Coarsegold	93614
+Road 406	Madera	93636
+Road 407	Raymond	93653
+Road 411	Raymond	93653
+Road 415	Coarsegold	93614
+Road 415	Raymond	93653
+Road 416	Coarsegold	93614
+Road 417	Coarsegold	93614
+Road 419	Oakhurst	93644
+Road 42	Alpaugh	93201
+Road 42	Reedley	93654
+Road 42	Tulare	93274
+Road 420	Coarsegold	93614
+Road 420	Oakhurst	93644
+Road 422	Oakhurst	93644
+Road 423	Oakhurst	93644
+Road 425A	Oakhurst	93644
+Road 425B	Oakhurst	93644
+Road 425C	Coarsegold	93614
+Road 426	Bass Lake	93604
+Road 426	Oakhurst	93644
+Road 426 Dr	Oakhurst	93644
+Road 427	Oakhurst	93644
+Road 428	Oakhurst	93644
+Road 432	Bass Lake	93604
+Road 434	Bass Lake	93604
+Road 44	Kingsburg	93631
+Road 44	Reedley	93654
+Road 44	Tulare	93274
+Road 44	Visalia	93277
+Road 44	Visalia	93291
+Road 4502	Idyllwild	92549
+Road 46	Alpaugh	93201
+Road 46	Tulare	93274
+Road 48	Dinuba	93618
+Road 48	Reedley	93654
+Road 48	Tulare	93274
+Road 48	Visalia	93277
+Road 48	Visalia	93291
+Road 5	Chowchilla	93610
+Road 5 1/2	Chowchilla	93610
+Road 5 1/2	Firebaugh	93622
+Road 50	Alpaugh	93201
+Road 50	Visalia	93291
+Road 52	Kingsburg	93631
+Road 52	Reedley	93654
+Road 52	Tulare	93274
+Road 52	Visalia	93277
+Road 52	Visalia	93291
+Road 56	Dinuba	93618
+Road 56	Reedley	93654
+Road 56	Tulare	93274
+Road 56	Visalia	93277
+Road 56	Visalia	93291
+Road 57	Dinuba	93618
+Road 58	Dinuba	93618
+Road 58	Kingsburg	93631
+Road 6	Chowchilla	93610
+Road 6	Firebaugh	93622
+Road 60	Dinuba	93618
+Road 60	Kingsburg	93631
+Road 60	Tulare	93274
+Road 60	Visalia	93277
+Road 60	Visalia	93291
+Road 600	Ahwahnee	93601
+Road 600	Madera	93638
+Road 600	Raymond	93653
+Road 601	Ahwahnee	93601
+Road 602	Madera	93638
+Road 603	Madera	93638
+Road 603	Raymond	93653
+Road 606	Raymond	93653
+Road 607	Madera	93638
+Road 607	Raymond	93653
+Road 608	Raymond	93653
+Road 612	Coarsegold	93614
+Road 612	Raymond	93653
+Road 613	Raymond	93653
+Road 619	Ahwahnee	93601
+Road 62	Dinuba	93618
+Road 62	Reedley	93654
+Road 620	Oakhurst	93644
+Road 621	Ahwahnee	93601
+Road 628	Ahwahnee	93601
+Road 630	Oakhurst	93644
+Road 632	Oakhurst	93644
+Road 64	Dinuba	93618
+Road 64	Earlimart	93219
+Road 64	Reedley	93654
+Road 64	Tipton	93272
+Road 64	Tulare	93274
+Road 64	Visalia	93291
+Road 66	Dinuba	93618
+Road 66	Visalia	93291
+Road 67	Visalia	93291
+Road 68	Dinuba	93618
+Road 68	Reedley	93654
+Road 68	Tulare	93274
+Road 68	Visalia	93277
+Road 68	Visalia	93291
+Road 69	Visalia	93291
+Road 7	Chowchilla	93610
+Road 7	Firebaugh	93622
+Road 70	Dinuba	93618
+Road 70	Visalia	93291
+Road 71	Visalia	93291
+Road 72	Corcoran	93212
+Road 72	Dinuba	93618
+Road 72	Reedley	93654
+Road 72	Tipton	93272
+Road 72	Visalia	93291
+Road 72A	Mariposa	95338
+Road 74	Dinuba	93618
+Road 75	Dinuba	93618
+Road 76	Dinuba	93618
+Road 76	Tulare	93274
+Road 76	Visalia	93291
+Road 8	Chowchilla	93610
+Road 8	Firebaugh	93622
+Road 8	Kingsburg	93631
+Road 8 1/2	Firebaugh	93622
+Road 80	Dinuba	93618
+Road 80	Earlimart	93219
+Road 80	Pixley	93256
+Road 80	Tipton	93272
+Road 80	Tulare	93274
+Road 80	Visalia	93291
+Road 800	Raymond	93653
+Road 81	Earlimart	93219
+Road 810	Raymond	93653
+Road 812	Raymond	93653
+Road 820	Raymond	93653
+Road 84	Dinuba	93618
+Road 84	Earlimart	93219
+Road 84	Tulare	93274
+Road 84	Visalia	93291
+Road 86	Dinuba	93618
+Road 86	Visalia	93277
+Road 88	Dinuba	93618
+Road 88	Pixley	93256
+Road 88	Tipton	93272
+Road 88	Visalia	93291
+Road 9	Chowchilla	93610
+Road 9	Firebaugh	93622
+Road 9	Madera	93637
+Road 92	Dinuba	93618
+Road 92	Tulare	93274
+Road 92	Visalia	93277
+Road 92	Visalia	93291
+Road 96	Dinuba	93618
+Road 96	Pixley	93256
+Road 96	Tipton	93272
+Road 96	Tulare	93274
+Road A	Garberville	95542
+Road A	New Harris	95542
+Road A	Redway	95542
+Road A	Whitethorn	95589
+Road B	Garberville	95542
+Road B	Garberville	95554
+Road B	Honeydew	95542
+Road B	New Harris	95542
+Road B	Redway	95554
+Road B	Redwood Valley	 
+Road B	Whitethorn	95554
+Road B	Whitethorn	95589
+Road C	Bridgeville	95526
+Road C	Miranda	95553
+Road C	Miranda	95554
+Road C	New Harris	95542
+Road C	Redwood Valley	 
+Road D	Garberville	95542
+Road D	New Harris	95542
+Road D	Weott	95569
+Road D-5	Davis	95616
+Road D-6	Davis	95616
+Road D Rd	Garberville	95542
+Road E	Garberville	95542
+Road E	New Harris	95542
+Road E	Redwood Valley	 
+Road E-2B	Davis	95616
+Road E-3C	Davis	95616
+Road E-4B	Davis	95616
+Road F	Redwood Valley	 
+Road Gulch Rd	Post Mountain	96041
+Road H	New Harris	95542
+Road J	New Harris	95542
+Road L	Benbow	95542
+Road L	Garberville	95542
+Road L	New Harris	95542
+Road M	New Harris	95542
+Road N	Redwood Valley	 
+Road No. 2	Clearlake Oaks	95423
+Road O	Garberville	95542
+Road Runner	Desert Hot Springs	92241
+Road Runner Cir	Needles	92363
+Road Runner Dr	Santa Maria	93455
+Road Runner Dr	Twentynine Palms	92277
+Road Runner Gln	Escondido	92029
+Road Runner Lane	Springville	93265
+Road Runner Ln	Beaumont	92223
+Road Runner Ln	Clovis	93619
+Road Runner Ln	Fountain Valley	92708
+Road Runner Ln	Raymond	93653
+Road Runner Ln	Templeton	93465
+Road Runner Ridge	Riverside	92503
+Road Runner Ridge St	Riverside	92503
+Road Runner Road	Canyon Country	91387
+Road Runner St	Apple Valley	92308
+Road Runner Ter	Sunnyvale	94087
+Road Runner Way	Perris	92570
+Road Runner Way	Redding	96003
+Road To Bali	San Diego	92127
+Road To Morocco	San Diego	92127
+Road To Ranches	Nicasio	94946
+Road To Rio	San Diego	92127
+Road To Singapore	San Diego	92127
+Road To The Cure	San Diego	92121
+Road To Utopia	San Diego	92127
+Road To Zanzibar	San Diego	92127
+Roadhouse Ct	Roseville	95747
+Roading Dr	San Jose	95123
+Roadrunner	Irvine	92603
+Roadrunner	Riverside	92504
+Roadrunner Av	Newbury Park	91320
+Roadrunner Ave	San Jacinto	92582
+Roadrunner Ave	Thousand Oaks	91320
+Roadrunner Cir	Banning	92220
+Roadrunner Cir	Fawnskin	92333
+Roadrunner Court	Penn Valley	95946
+Roadrunner Ct	Chula Vista	91915
+Roadrunner Ct	Ione	95640
+Roadrunner Ct	Palm Desert	92260
+Roadrunner Ct	Roseville	95747
+Roadrunner Ct	Unincorporated	92679
+Roadrunner Ct	Vidal	92280
+Roadrunner Dr	Banning	92220
+Roadrunner Dr	Borrego Springs	92004
+Roadrunner Dr	Brea	92823
+Roadrunner Dr	Corona	92881
+Roadrunner Dr	Indian Wells	92210
+Roadrunner Dr	Ione	95640
+Roadrunner Dr	Orcutt	93455
+Roadrunner Dr	Patterson	95363
+Roadrunner Dr	Roseville	95747
+Roadrunner Dr	Santa Maria	93455
+Roadrunner Dr	Ventura	93003
+Roadrunner Dr S	Borrego Springs	92004
+Roadrunner Drive	Fairfield	94533
+Roadrunner Drive	La Verne	91750
+Roadrunner Drive	Palmdale	93551
+Roadrunner Drive	Penn Valley	95946
+Roadrunner Lane	Chalfant Valley	93512
+Roadrunner Lane	Littlerock	93543
+Roadrunner Lane Ln	Imperial	92251
+Roadrunner Ln	Aliso Viejo	92656
+Roadrunner Ln	Arroyo Grande	93420
+Roadrunner Ln	Boulevard	91905
+Roadrunner Ln	Imperial	92251
+Roadrunner Ln	Joshua Tree	92252
+Roadrunner Ln	La Quinta	92253
+Roadrunner Ln	Landers	92285
+Roadrunner Ln	Moreno Valley	92557
+Roadrunner Ln	Oceanside	92057
+Roadrunner Ln	Phelan	92371
+Roadrunner Ln	Twentynine Palms	92277
+Roadrunner Ln	Victorville	92392
+Roadrunner Rd	Boulevard	91905
+Roadrunner Rd	Fontana	92336
+Roadrunner Rd	Joshua Tree	92252
+Roadrunner Rd	Landers	92285
+Roadrunner Rd	San Marcos	92078
+Roadrunner Rd	Yucca Valley	92284
+Roadrunner Rdg	Valley Center	92082
+Roadrunner Ridge	Riverside	92503
+Roadrunner Ridge	Valley Center	92082
+Roadrunner Ridge S	Valley Center	92082
+Roadrunner Road	Palos Verdes Peninsula	90274
+Roadrunner Rut Rd	Pioneertown	92268
+Roadrunner St	Brentwood	94513
+Roadrunner Trl	Banning	92220
+Roadrunner Trl	Riverside	92504
+Roadrunner Way	Anza	92539
+Roadrunner Way	Lancaster	93536
+Roadrunner Way	Perris	92570
+Roadrunner Way	Simi Valley	93065
+Roadrunner Way	Vacaville	95688
+Roads End Dr	Garden Grove	92840
+Roads End Dr	Perris	92570
+Roads End Pl	Sacramento	95827
+Roads End Rd	Mcarthur	96056
+Roads End Street	Glendale	91205
+Roads Ends Drive	Glendale	91205
+Roadside Drive	Agoura Hills	91301
+Roadside Pl	Spring Valley	91977
+Roan Cir	Corona	92883
+Roan Cir	Victorville	92394
+Roan Ct	Anderson	96007
+Roan Ct	Antelope	95843
+Roan Ct	Cloverdale	95425
+Roan Ct	Corona	92883
+Roan Ct	Fortuna	95540
+Roan Ct	Norco	92860
+Roan Ct	Rancho Cucamonga	91737
+Roan Ct	Roseville	95747
+Roan Ct	Sutter Creek	95685
+Roan Ct	Walnut Creek	94596
+Roan Dr	Danville	94526
+Roan Dr	Havasu	92363
+Roan Dr	Needles	92363
+Roan Dr	Tracy	95376
+Roan Fields Pl	Elk Grove	95624
+Roan Ln	Walnut Creek	94596
+Roan Pl	Woodside	94062
+Roan Ranch Cir	Elk Grove	95624
+Roan Ranch Rd	Menifee	92585
+Roan Ranch Rd	Sun City	92585
+Roan Rd	Chino Hills	91709
+Roan Rd	Garden Grove	92843
+Roan Rd	San Diego	92129
+Roan Rd	Victorville	92394
+Roan Road	Rancho Palos Verdes	90275
+Roan St	San Jose	95123
+Roan St	Simi Valley	93065
+Roan Way	Aguanga	92536
+Roan Way	San Diego	92129
+Roane	North Tustin	92705
+Roane Dr	Oceanside	92057
+Roane St	Eureka	95501
+Roanne Cir	Irvine	92604
+Roanne Dr	La Habra	90631
+Roanne Dr	Lah	90631
+Roanne Way	Rancho Cordova	95742
+Roanoak	West Covina	91791
+Roanoak Pl	Riverside	92506
+Roanoak Way	Chino Hills	91709
+Roanoake St	Temecula	92591
+Roanoke	Irvine	92620
+Roanoke Ave	Redding	96001
+Roanoke Ave	Sacramento	95838
+Roanoke Ave	Tustin	92780
+Roanoke Ave	Ybl	92887
+Roanoke Ave	Yorba Linda	92887
+Roanoke Ct	Bakersfield	93306
+Roanoke Ct	Cypress	90630
+Roanoke Ct	Stockton	95209
+Roanoke Ct	Turlock	95382
+Roanoke Dr	Ladera Ranch	92694
+Roanoke Dr	Martinez	94553
+Roanoke Ln	Costa Mesa	92626
+Roanoke Place	La Canada Flintridge	91011
+Roanoke Rd	Apple Valley	92307
+Roanoke Rd	Berkeley	94705
+Roanoke Rd	El Cajon	92020
+Roanoke Rd	Menifee	92586
+Roanoke River Ct	Rancho Cordova	95670
+Roanoke Road	Claremont	91711
+Roanoke Road	San Gabriel	91775
+Roanoke Road	San Marino	91108
+Roanoke St	Hayward	94544
+Roanoke St	Placentia	92870
+Roanoke St	San Diego	92139
+Roanoke St	San Francisco	94131
+Roanoke St	San Jacinto	92582
+Roanoke & Viewpoint Ct	Martinez	94553
+Roanwood Ct	Antioch	94509
+Roanwood Drive	Palos Verdes Peninsula	90274
+Roanwood Way	Concord	94521
+Roaring Brook Way	Lakehead	96051
+Roaring Camp	Felton	95018
+Roaring Camp Court	Plumas Lake	95961
+Roaring Camp Dr	Gold River	95670
+Roaring Camp Rd	Poway	92064
+Roaring Creek Cir	Eastvale	92880
+Roaring Creek Rd	Igo	96047
+Roaring Creek Street	West Sacramento	95691
+Roaring Fork Dr	Winchester	92596
+Roaring Fork St	Bakersfield	93306
+Roaring Rapids Way	Linda	95901
+Roaring Ridge Rd	Mcarthur	96065
+Roaring Ridge Rd	Montgomery Creek	96065
+Roaring River Ave	Bakersfield	93311
+Roaring River Ct	Coarsegold	93614
+Roaring River Dr	Coarsegold	93614
+Roaring River Way	Coarsegold	93614
+Roaring Water Way	Los Gatos	95030
+Roaring Water Way	Los Gatos	95033
+Roark Dr	Ripon	95366
+Roark Drive	Alhambra	91803
+Roark Ln	Sacramento	95828
+Roatan Ct	San Ramon	94583

@@ -1,0 +1,43 @@
+W Yacht Harbor Dr	Stockton	95204
+W Yale Ave	Anaheim	92801
+W Yale Ave	Coalinga	93210
+W Yale Ave	Fresno	93705
+W Yale Ave	Fresno	93722
+W Yale Ave	Fresno	93723
+W Yale Ave	Orange	92867
+W Yale Ct	Upland	91786
+W Yale Loop	Irvine	92604
+W Yale Loop	Irvine	92614
+W Yale St	Ontario	91762
+W Yanonali St	Santa Barbara	93101
+W Yardley St	San Bernardino	92407
+W Yates Ave	Porterville	93257
+W Yellowstone Dr	Hanford	93230
+W Yermo Rd	Yermo	92398
+W Yettner Rd	French Camp	95231
+W Yokuts Av	Stockton	95207
+W York Cir	Anaheim	92804
+W Yorkshire Dr	Stockton	95207
+W Yosemite Av	Lathrop	95330
+W Yosemite Av	Lathrop	95337
+W Yosemite Av	Manteca	95336
+W Yosemite Av	Manteca	95337
+W Yosemite Ave	Madera	93637
+W Yosemite Ave	Madera	93638
+W Yosemite Ave	Manteca	95336
+W Yosemite Ave	Manteca	95337
+W Yosemite Ave A	Manteca	95337
+W Yosemite Ave R	Manteca	95337
+W Yosemite Ave Shell Bldg	Manteca	95337
+W Yosemite Dr	Big Bear Lake	92315
+W Young	Calipatria	92233
+W Young Ave	Fresno	93706
+W Young Rd	Calipatria	92233
+W Young Rd	Fillmore	93015
+W Younger Ave	San Jose	95110
+W Younger Ave	San Jose	95113
+W Yowlumne Ave	Porterville	93257
+W Yucca St	Ontario	91762
+W Yucca St	Oxnard	93033
+W Yuma Cir	Santa Ana	92704
+W Yvonne Pl	Anaheim	92801

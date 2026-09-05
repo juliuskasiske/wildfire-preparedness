@@ -1,0 +1,28 @@
+Calypso	Aptos	95003
+Calypso	Irvine	92618
+Calypso Cir	Indio	92201
+Calypso Ct	Elk Grove	95624
+Calypso Ct	Milpitas	95035
+Calypso Ct	Pioneer	95666
+Calypso Ct	Rancho Cucamonga	91737
+Calypso Ct	San Jose	95127
+Calypso Dr	Vista	92081
+Calypso Lane	Canyon Country	91351
+Calypso Ln	Foster City	94404
+Calypso Ln	Mendocino	 
+Calypso Ln	Milpitas	95035
+Calypso Ln	Roseville	95661
+Calypso Ln	San Carlos	94070
+Calypso Ln	Victorville	92394
+Calypso Pl	Encinitas	92024
+Calypso Pl	San Diego	92106
+Calypso Ranch Drive	Plumas Lake	95961
+Calypso Rd	Palm Desert	92211
+Calypso Shores	Novato	94949
+Calypso St	Aliso Viejo	92656
+Calypte Ln	Granite Bay	95746
+Calyptra Dr	Lodi	95240
+Calyso Cir	Indio	92201
+Calyspo Cir	Indio	92201
+Calyx Ave	Indio	92201
+Calyx Ct	Elk Grove	95624

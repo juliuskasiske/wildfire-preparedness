@@ -1,0 +1,290 @@
+Mark	Watsonville	95076
+Mark Allen Dr	Modesto	95350
+Mark Av	Carpinteria	93013
+Mark Av	Santa Barbara Unincorporated	93013
+Mark Av	Santa Clara	95051
+Mark Ave	Bakersfield	93241
+Mark Ave	Escondido	92027
+Mark Ave	Santa Clara	95051
+Mark Avenue	Palmdale	93550
+Mark Avenue	Vallejo	94589
+Mark Cir	Carlsbad	92010
+Mark Cir	La Palma	90623
+Mark Cir	Villa Park	92861
+Mark Court	Agoura Hills	91301
+Mark Court	North San Juan	95960
+Mark Ct	Bakersfield	93304
+Mark Ct	Concord	94520
+Mark Ct	Hemet	92544
+Mark Ct	Jurupa Valley	92509
+Mark Ct	Oakdale	95361
+Mark Ct	Rocklin	95765
+Mark Ct	Simi Valley	93065
+Mark Ct	Turlock	95380
+Mark Dr	Desert Hot Springs	92240
+Mark Dr	Petaluma	94954
+Mark Dr	San Rafael	94903
+Mark Dr	Simi Valley	93065
+Mark Dr	Twentynine Palms	92277
+Mark Hopkins Ave	Rio Oso	95674
+Mark Hopkins Avenue	Rio Oso	95674
+Mark Hopkins Ct	Sacramento	95818
+Mark Hopkins Road	Rio Oso	95674
+Mark Keppel Street	Paramount	90723
+Mark Lane	Salinas	93907
+Mark Lee Dr	Jamul	91935
+Mark Lee Rd	Mariposa	95338
+Mark Leslie Dr	Palm Springs	92264
+Mark Ln	Antioch	94509
+Mark Ln	Costa Mesa	92626
+Mark Ln	Elk Grove	95624
+Mark Ln	Huntington Beach	92647
+Mark Ln	Huntington Beach	92647-4115
+Mark Ln	Jamul	91935
+Mark Ln	Paradise	95969
+Mark Ln	San Francisco	94108
+Mark Ln	Sutter Creek	95685
+Mark Ln	Ybl	92886
+Mark Ln	Yorba Linda	92886
+Mark Mead Ln	Modesto	95356
+Mark Pl	Escondido	92027
+Mark Pl	Greenbrae	94904
+Mark Place	Beverly Hills	90210
+Mark Randy Pl	Modesto	95350
+Mark Rd	Madera	93636
+Mark Rd	Madera 	93638
+Mark Rd	Moreno Valley	92555
+Mark Rd	Weaverville	96093
+Mark River Ct	Sacramento	95831
+Mark Spitz Pl	Santa Clara	95051
+Mark St	Elk Grove	95624
+Mark St	Redding	96001
+Mark St	Susanville	96130
+Mark Stevens Rd	Poway	92064
+Mark Street	Los Angeles	90033
+Mark Ter	Rancho Mirage	92270
+Mark Ter	San Diego	92117
+Mark Ter	Tiburon	94920
+Mark Thomas Drive	Monterey	93940
+Mark Thomas Drive	Yuba City	95993
+Mark Trl	Hemet	92544
+Mark Trl	Jamul	91935
+Mark Trl	Sonora	95370
+Mark Twain	Moreno Valley	92557
+Mark Twain Ave	Bakersfield	93312
+Mark Twain Ave	Sacramento	95820
+Mark Twain Ave	San Rafael	94903
+Mark Twain Avenue	Tulare	93274
+Mark Twain Ct	Eastvale	92880
+Mark Twain Ct	Menifee	92586
+Mark Twain Ct	Santa Clara	95050
+Mark Twain Dr	Antioch	94531
+Mark Twain Dr	Twain Harte	95383
+Mark Twain Ln	Catheys Valley	95306
+Mark Twain Pl	Stockton	95207
+Mark Twain St	Palo Alto	94303
+Mark Way	Napa	94558
+Mark Way	Wildomar	92595
+Mark West Commons Cir	Santa Rosa	95403
+Mark West Ln	Santa Rosa	95404
+Mark West Springs Rd	Santa Rosa	95403
+Mark West Springs Rd	Santa Rosa	95404
+Mark West Station Rd	Santa Rosa	95403
+Mark West Station Rd	Windsor	95492
+Markab Dr	San Diego	92126
+Markar Rd	Poway	92064
+Markdale Avenue	Norwalk	90650
+Markdale Ln	Lincoln	95648
+Marke St	Indio	92201
+Markel Drive	Newhall	91321
+Markeley Lane	Fairfield	94533
+Markell Ln	Fallbrook	92028
+Marken Ln	Huntington Beach	92647
+Marken Ln	Huntington Beach	92647-6324
+Marken Ln	Huntington Beach	92647-6325
+Marken Ln	Huntington Beach	92647-6327
+Marken Ln	Huntington Beach	92647-6328
+Marken Ln	Huntington Beach	92647-6329
+Marken Ln	Huntington Beach	92647-6374
+Marker Ave	Camarillo	93010
+Marker Ln	Borrego Springs	92004
+Marker Rd	San Diego	92130
+Markerry Ave	El Cajon	92019
+Market	Piru	93040
+Market	San Diego	92101
+Market	Santa Cruz	95060
+Market Av	Mckinleyville	95519
+Market Ave	Morro Bay	93442
+Market Ave	Richmond	94801
+Market Ave	Richmond	94806
+Market Ave	San Pablo	94806
+Market Avenue	Davis	95616
+Market Blvd	Sacramento	95834
+Market Circle	Salinas	93907
+Market Circle	Salinas	93908
+Market Ct	Fullerton	92832
+Market Hill Way	Bakersfield	93312
+Market Lane	Dixon	95620
+Market Pl	Chico	95928
+Market Pl	Cypress	90630
+Market Pl	Escondido	92029
+Market Pl	Menlo Park	94025
+Market Pl	San Ramon	94583
+Market Pl N	Escondido	92029
+Market Place	Lomita	90717
+Market Place	San Ramon	94583
+Market Place Drive	Monterey Park	91755
+Market Place Square	Rio Vista	94571
+Market St	Bieber	96009
+Market St	Camp Meeker	95419
+Market St	Chico	95973
+Market St	Chula Vista	91910
+Market St	College City	95912
+Market St	College City	95931
+Market St	Colusa	95932
+Market St	Concord	94520
+Market St	Corona	92880
+Market St	Ferndale	95536
+Market St	Fillmore	93015
+Market St	Folsom	95630
+Market St	Galt	95632
+Market St	Gilroy	95020
+Market St	Indio	92201
+Market St	Ione	95640
+Market St	Jurupa Valley	92509
+Market St	Loleta	95551
+Market St	Los Gatos	95032
+Market St	Mcarthur	96056
+Market St	Milpitas	95035
+Market St	Needles	92363
+Market St	Piru	93040
+Market St	Port Hueneme	93041
+Market St	Redding	96001
+Market St	Redding	96003
+Market St	Richmond	94801
+Market St	Riverside	92501
+Market St	Roseville	95747
+Market St	San Diego	0
+Market St	San Diego	92101
+Market St	San Diego	92102
+Market St	San Diego	92114
+Market St	San Francisco	94102
+Market St	San Francisco	94103
+Market St	San Francisco	94104
+Market St	San Francisco	94105
+Market St	San Francisco	94108
+Market St	San Francisco	94111
+Market St	San Francisco	94114
+Market St	San Francisco	94131
+Market St	San Jose	95050
+Market St	San Jose	95113
+Market St	San Rafael	94901
+Market St	Santa Clara	95050
+Market St	Stonyford	95979
+Market St	Temecula	92501
+Market St	Thermal	92274
+Market St	Trona	93562
+Market St	Turlock	95380
+Market St	Ventura	93003
+Market St	Vista	92084
+Market St	Walnut Grove	95690
+Market St	Windsor	95492
+Market St E	San Rafael	94901
+Market Street	Glendale	91208
+Market Street	Long Beach	90805
+Market Street	Los Banos	93635
+Market Street	Newhall	91321
+Market Street	Planada	95365
+Market Street	Soledad	93960
+Market Street	Venice	90291
+Market Street	Yuba City	95991
+Market Trail	Sylmar	91342
+Market Way	Salinas	93901
+Marketplace	Irvine	92602
+Marketplace Ave	San Diego	92113
+Marketplace Dr	Goleta	93117
+Marketplace Dr	Madera	93637
+Marketta Ct	Elk Grove	95624
+Marketview	Irvine	92602
+Markev St	Anaheim	92804
+Markev St	Garden Grove	92804
+Markey Ln	Brentwood	94513
+Markfield Way	Sacramento	95829
+Markham Ave	Modesto	95358
+Markham Ave	Perris	92570
+Markham Ave	Redwood City	94063
+Markham Ave	San Bruno	94066
+Markham Ave	San Jose	95125
+Markham Ave	Thousand Oaks	91360
+Markham Avenue	Vacaville	95688
+Markham Court	Fairfield	94534
+Markham Ct	Hayward	94542
+Markham Ct	Tracy	95377
+Markham Dr	Thousand Oaks	91360
+Markham Dr	Tracy	95377
+Markham Lane	Salinas	93908
+Markham Ln	Ladera Ranch	92694
+Markham Pl	Santa Rosa	95401
+Markham Place	Pasadena	91105
+Markham Ravine Dr	Lincoln	95648
+Markham Rd	Barstow	92311
+Markham Rd	Oro Grande	92368
+Markham Rd	Riverside	92508
+Markham Road	Visalia	93291
+Markham St	Adelanto	92301
+Markham St	El Mirage	92301
+Markham St	Fountain Valley	92708
+Markham St	Perris	92570
+Markham St	Perris	92571
+Markham St	Riverside	92504
+Markham St	Riverside	92508
+Markham St	San Diego	92111
+Markham Street	Tulare	93274
+Markham Ter	Sunnyvale	94086
+Markham Way	Bakersfield	93312
+Markham Way	Palm Springs	92264
+Markham Way	Sacramento	95818
+Markham Wy	Ripon	95366
+Markham Wy	Roseville	95747
+Markingdon Ave	San Jose	95127
+Markland Drive	Monterey Park	91755
+Markland Drive	Nevada City	95959
+Marklee Way	Modesto	95355
+Marklein Avenue	North Hills	91343
+Marklein Avenue	San Fernando	91345
+Markley Creek Dr	Antioch	94509
+Markley Mine Rd	Fiddletown	95629
+Markley Road	Yuba City	95993
+Markley Way	Carmichael	95608
+Marko Ln	Pine Grove	95665
+Markon Dr	Garden Grove	92841
+Markon Dr	Garden Grove	92845
+Markos Ct	Sacramento	95841
+Markovich Ln	Richmond	94806
+Markridge Road	La Crescenta	91214
+Markridge Road	Tujunga	91042
+Markross Ct	Morgan Hill	95037
+Marks Ave	San Jose	95118
+Marks Blvd	Pittsburg	94565
+Marks Court	Dinuba	93618
+Marks Dr	Hollister	95023
+Marks Dr	Tustin	92782
+Marks Rd	Alamo	94507
+Marks Rd	Barstow	92311
+Marks Rd	Twentynine Palms	92277
+Marks Rd	Wonder Valley	92277
+Marks Road	Agoura Hills	91301
+Marks Road	Rio Vista	94571
+Markstay Street	Rowland Heights	91748
+Markston Rd	Sacramento	95825
+Markton Street	Los Angeles	90061
+Markuson Rd	Modjeska Canyon	92676
+Markway Lane	Pomona	91767
+Markwood Court	Beale Afb	95903
+Markwood Ct	San Jose	95148
+Markwood Dr	Redding	96002
+Markwood Dr	Santee	92071
+Markwood Ln	Fair Oaks	95628
+Markwood Rd	Perris	92570
+Markwood Street	Duarte	91010
+Marky Way	La Mesa	91941

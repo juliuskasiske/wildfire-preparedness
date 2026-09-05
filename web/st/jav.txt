@@ -1,0 +1,37 @@
+Java	Irvine	92618
+Java Ave	Lemoore	93245
+Java Ave	Lemoore	93245-9733
+Java Court	West Sacramento	95691
+Java Ct	Sacramento	95835
+Java Dr	San Ramon	94582
+Java Dr	Sunnyvale	94089
+Java Dr	Yucca Valley	92284
+Java Drive	Beverly Hills	90210
+Java Hills Dr	Fallbrook	92028
+Java Ln	Lemon Grove	91945
+Java Pl	Oxnard	93036
+Java Rd	Costa Mesa	92626
+Java Sea Dr	Dana Point	92629
+Java St	Cypress	90630
+Java St	Morro Bay	93442
+Java St	San Francisco	94117
+Java Way	Chula Vista	91915
+Javalambre Drive	Whittier	90601
+Javan Ln	Carmichael	95608
+Javan Way	Suisun City	94585
+Javelin Ct	Roseville	95747
+Javelin Ct	Thousand Oaks	91320
+Javelin Rd	Phelan	92371
+Javelin Street	Torrance	90502
+Javelin Way	Spring Valley	91977
+Javelina Ct	Jurupa Valley	92509
+Javelina Rd	Apple Valley	92307
+Javelina Rd	Bella Vista	96008
+Javelle Rd	Newberry Springs	92365
+Javete Ct	Stockton	95209
+Javete Wy	Stockton	95209
+Javey Ct	Hickman	95323
+Javier Pl	Moreno Valley	92557
+Javier Place	Davis	95618
+Javier St	San Diego	92117
+Javore Dr	Santa Rosa	95407

@@ -1,0 +1,9 @@
+.T01N R09E	Twentynine Palms	92277
+.T02N R04E	Pioneertown	92268
+.T03N R03W	Apple Valley	92308
+.T03N R05W	Hesperia	92345
+.T04N R02E	Lucerne Valley	92356
+.T05N R24E	Needles	92363
+.T06N R13E	Amboy	92304
+.T08N R13E	Essex	92332
+.T09N R03E	Newberry Springs	92365

@@ -1,0 +1,15 @@
+57Th Ave	Sacramento	95822
+57Th Ave	Thermal	92274
+57Th Place	Long Beach	90803
+57Th St	Jurupa Valley	92509
+57Th St	Sacramento	95817
+57Th St	Sacramento	95819
+57Th St	Sacramento	95820
+57Th St	San Diego	92114
+57Th Street	Huntington Park	90255
+57Th Street	Los Angeles	90011
+57Th Street	Los Angeles	90043
+57Th Street	Los Angeles	90058
+57Th Street	Los Angeles	90062
+57Th Street East	Palmdale	93552
+57Th Street West	Lancaster	93536

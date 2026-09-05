@@ -1,0 +1,346 @@
+E Vail Av	Stockton	95205
+E Val Mar Cir	Highland	92346
+E Val Mar Rd	San Bernardino	92404
+E Val Monte Dr	Hemet	92543
+E Val Verde Dr	Hemet	92543
+E Valadez St	Upland	91786
+E Valaria Ct	Highland	92346
+E Valencia Ave	Anaheim	92805
+E Valencia Ave	Burbank	91501
+E Valencia Ave	Burbank	91502
+E Valencia Ave Av	Burbank	91501
+E Valencia Cir	Villa Park	92867
+E Valencia Dr	Fullerton	92831
+E Valencia Dr	Fullerton	92832
+E Valencia Dr	Orange	92869
+E Valencia Mesa Dr	Fullerton	92835
+E Valencia St	Anaheim	92805
+E Valencia St	Rialto	92376
+E Valerio St	Santa Barbara	93101
+E Valerio St	Santa Barbara	93103
+E Valhalla Dr	Fresno	93730
+E Vallejo Ave	Temecula	92592
+E Vallejo Rd	Temecula	92592
+E Valley Blvd	Colton	92324
+E Valley Blvd	Rialto	92376
+E  Valley Dr	Elk Grove	95624
+E Valley Dr	Villa Park	92867
+E Valley Edge Dr	Fresno	93727
+E Valley Forge Dr	Anaheim	92807
+E Valley Forge Dr	Fresno	93720
+E Valley Forge Dr	Orange	92869
+E Valley Gate Dr	Anaheim	92807
+E Valley Glen Ln	Orange	92867
+E Valley Oak Pl	Santa Maria	93454
+E Valley Oak Pl	Woodbridge	95258
+E Valley Oaks Ct	Visalia	93292
+E Valley Oaks Dr	Visalia	93292
+E Valley Pkwy	Escondido	92025
+E Valley Pkwy	Escondido	92027
+E Valley Pkwy	Indio	92201
+E Valley Pky	Escondido	92025
+E Valley Pky	Escondido	92027
+E Valley Rd	Montecito	93108
+E Valley Rd	Toro Canyon	93108
+E Valley St	Coalinga	93210
+E Valley St	San Bernardino	92408
+E Valley St	Willits	 
+E Valley St	Willits	95490
+E Valley Trl	Redding	96003
+E Valley View Ct	Upland	91784
+E Valley View Dr	Fullerton	92832
+E Valleywood St	Colton	92324
+E Valmonte Sur	Palm Springs	92262
+E Valna Dr	Whittier	90602
+E Valna Dr	Whittier	90605
+E Van Bibber Ave	Orange	92866
+E Van Buren St	Carson	90810
+E Van Duzen N Loop Loop	Mad River	95552
+E Van Duzen N Rd	Mad River	95552
+E Van Koevering St	Rialto	92376
+E Van Ln	Willits	 
+E Van Mar Ln	Galt	95632
+E Van Wyk Ln	Ripon	95366
+E Vance Pl	Santa Ana	92701
+E Vance St	Santa Ana	92701
+E Vandalia Ave	Porterville	93257
+E Vanderbilt Ct	Sunnyvale	94087
+E Vanderbilt St	Ontario	91761
+E Vanderbilt Way	San Bernardino	92408
+E Vanderbilt Way	San Bernardino	92415
+E Vanessa Ct	Napa	94558
+E Vanity Ln	Ana	92807
+E Vanity Ln	Anaheim	92807
+E Vanowen Ave	Orange	92867
+E Vaquero Ct	Chula Vista	91910
+E Varene Ct	Linden	95236
+E Varner Ct	Santa Maria	93458
+E Vartikian Ave	Fresno	93710
+E Vassar Ave	Fresno	93703
+E Vassar Ave	Fresno	93704
+E Vassar Ave	Fresno	93722
+E Vassar Ave	Fresno	93727
+E Vassar Ave	Fresno	93737
+E Vassar Ave	Visalia	93292
+E Vassar Ct	Visalia	93292
+E Veldt	Rancho Mirage	92270
+E Veleta Dr	Fresno	93730
+E Velie Dr	Visalia	93292
+E Venice Way	Anaheim	92808
+E Ventura Blvd	Camarillo	93010
+E Ventura Blvd	Camarillo	93012
+E Ventura Blvd	Oxnard	93036
+E Ventura Blvd	Somis	93066
+E Ventura Rd	Palm Springs	92262
+E Ventura Rd	Santa Maria	93454
+E Ventura Rd	Santa Maria	93455
+E Ventura St	Avenal	93204
+E Ventura St	Fillmore	93015
+E Ventura St	Fresno	93702
+E Ventura St	Fresno	93721
+E Ventura St	Santa Paula	93060
+E Venture Wy	Manteca	95336
+E Vera Cruz Rd	Palm Springs	92264
+E Vera St	Simi Valley	93063
+E Veranda Dr	Fresno	93730
+E Verano Ave	Sonoma	95476
+E Verba Santa Dr	Palm Desert	92260
+E Verde Ave	Anaheim	92806
+E Verde Cir	Anaheim	92805
+E Verde Dr	San Bernardino	92404
+E Verde Pl	Anaheim	92805
+E Verde School	Holtville	92250
+E Verde School St	Holtville	92250
+E Verde Vista Dr	Thousand Oaks	91360
+E Verdon Rd	Stockton	95215
+E Verdugo Av	Burbank	91501
+E Verdugo Ave	Burbank	91501
+E Verdugo Ave	Burbank	91502
+E Vereda Sur	Palm Springs	92262
+E Verigan Rd	Manteca	95336
+E Veritas Av	Manteca	95337
+E Vermont Ave	Anaheim	92805
+E Vermont Ave	Anaheim	92806
+E Vermont Ave	Escondido	92025
+E Vermont Ave	Fresno	93720
+E Vernaccia Dr	Lockeford	95237
+E Vernalis Rd	Tracy	95304
+E Verona Rd	Palm Springs	92262
+E Veronica St	Stockton	95215
+E Verrue Ave	Fresno	93702
+E Versaille Ct	Orange	92867
+E Veterans Ct	Upland	91786
+E Veterans Way	Placentia	92870
+E Via Acapulco	Palm Springs	92262
+E Via Albero Dr	Fresno	93730
+E Via Altamira	Palm Springs	92262
+E Via Arboles	Anaheim	92807
+E Via Azzurra Way	Fresno	93730
+E Via Bella Ave	Fresno	93730
+E Via Bravo	Villa Park	92867
+E Via Breve	Simi Valley	93063
+E Via Bruno	Anaheim	92806
+E Via Burton	Anaheim	92806
+E Via Burton Ave	Anaheim	92806
+E Via Burton St	Anaheim	92806
+E Via Casella Dr	Fresno	93727
+E Via Casilina Pa	Escalon	95320
+E Via Casilina Pa	Farmington	95230
+E Via Cesena Dr	Fresno	93730
+E Via Colusa	Palm Springs	92262
+E Via Corral	Anaheim	92807
+E Via Corsica Pl	Fresno	93730
+E Via Corto	Desert Hot Springs	92240
+E Via Corvina	Ontario	91764
+E Via Corza	Camarillo	93010
+E Via Del Nogal	Camarillo	93010
+E Via Del Oro	Fresno	93720
+E Via Del Palma Ave	Whittier	90602
+E Via Del Parque	Fresno	93720
+E Via Dorata Way	Fresno	93730
+E Via El Estribo	Anaheim	92807
+E Via Escola Ave	Orange	92867
+E Via Escuela	Palm Springs	92262
+E Via Escuela Way	Palm Springs	92262
+E Via Escuella	Palm Springs	92262
+E Via Estrada	Anaheim	92807
+E Via Estrella Dr	Fresno	93730
+E Via Ferrari Ave	Anaheim	92806
+E Via Fiano	Ontario	91764
+E Via Fiore Ave	Fresno	93730
+E Via Firenza Dr	Fresno	93727
+E Via Fresco	Anaheim	92807
+E Via Giglio Dr	Fresno	93730
+E Via Girasoli Dr	Fresno	93730
+E Via La Paloma	Orange	92869
+E Via La Plata	Fresno	93720
+E Via Lardo Ave	Orange	92869
+E Via Lupino Dr	Fresno	93730
+E Via Manzi Dr	Fresno	93727
+E Via Marbella Dr	Fresno	93730
+E Via Martens	Anaheim	92806
+E Via Miralago Dr	Fresno	93727
+E Via Mirasol Ln	Fresno	93730
+E Via Monte Verdi Ave	Clovis	93619
+E Via Montiano Ave	Clovis	93619
+E Via Palermo	Anaheim	92806
+E Via Palmi Dr	Fresno	93730
+E Via Peccio Dr	Fresno	93727
+E Via Personico Pl	Fresno	93737
+E Via Prato Dr	Fresno	93730
+E Via Rancho Pky	Escondido	92025
+E Via Ribazo	Ana	92807
+E Via Ribazo	Anaheim	92807
+E Via Roma	Colton	92324
+E Via Roma Dr	Fresno	93730
+E Via Rosso	Ontario	91764
+E Via Sabia	Anaheim	92807
+E Via San Loppia Dr	Fresno	93727
+E Via Sentieri Dr	Fresno	93730
+E Via Siena	Anaheim	92806
+E Via Sofia Dr	Fresno	93730
+E Via Taranto	Anaheim	92806
+E Via Terrano	Ontario	91764
+E Via Ulivo Dr	Fresno	93730
+E Via Vela	Camarillo	93010
+E Via Venito	Colton	92324
+E Via Verde Dr	Fresno	93730
+E Via Villaggio	Indian Wells	92210
+E Via Villagio	Ontario	91764
+E Via Viola Way	Fresno	93730
+E Vickie Av	Santa Maria	93454
+E Vickie Ave	Santa Maria	93454
+E Vicksberry	Orange	92869
+E Victor Ave	Visalia	93292
+E Victor Ct	Whittier	90605
+E Victor Rd	Lockeford	95237
+E Victor Rd	Lockeford	95240
+E Victor Rd	Lodi	95240
+E Victoria Ave	San Bernardino	92408
+E Victoria Ave	Ventura	93003
+E Victoria Ct	Lake Arrowhead	92352
+E Victoria Ct	San Pablo	94806
+E Victoria Dr	Alpine	91901
+E Victoria St	Carson	90248
+E Victoria St	Carson	90746
+E Victoria St	Carson	90747
+E Victoria St	Rialto	92376
+E Victoria St	Santa Barbara	93101
+E Victoria St	Santa Barbara	93103
+E Victoria St	Simi Valley	93065
+E Victory St	Banning	92220
+E Viento Way	San Bernardino	92404
+E View Dr	Santa Paula	93060
+E View Point Ln	Anaheim	92807
+E View St	Fallbrook	92028
+E View Way	Murrieta	92562
+E Viewmount Ct	Anaheim	92808
+E Viewpoint Ln	Anaheim	92807
+E Viewpoint St	Upland	91784
+E Viewrim Dr	Anaheim	92808
+E Vigilant	Carson	90746
+E Viking Ave	Anaheim	92806
+E Villa	El Centro	92243
+E Villa Ave	El Centro	92243
+E Villa Dr	Villa Park	92867
+E Villa Park Rd	Orange	92867
+E Villa Park Rd	Villa Park	92867
+E Villa Rd	El Centro	92243
+E Villa Real Dr	Orange	92867
+E Villa Rita Dr	Whittier	90603
+E Villa Vista Way	Orange	92867
+E Villa Woods Cir	Villa Park	92867
+E Village Center Loop Rd	San Diego	92130
+E Village Dr	Clements	95227
+E Village Dr	Lodi	95227
+E Village Sq	Palm Springs	92262
+E Village Way	Orange	92865
+E Villaggio	Palm Springs	92262
+E Villanova Rd	Ojai	93023
+E Villanueva Dr	Orange	92867
+E Villareal Dr	Orange	92867
+E Villorio Dr	Palm Springs	92262
+E Villorrio Dr	Palm Springs	92262
+E Villoy Ave	Visalia	93292
+E Villoy Ct	Visalia	93292
+E Villrrrio Dr	Palm Springs	92262
+E Vina Ln	Stockton	95212
+E Vince	Ventura	93001
+E Vince St	Mh	95391
+E Vince St	Ventura	93001
+E Vincentia Rd	Palm Springs	92262
+E Vine Av	Escalon	95320
+E Vine Av	Orange	92869
+E Vine Ave	4-Or-16	92869
+E Vine Ave	Fresno	93706
+E Vine Ave	Fresno	93725
+E Vine Ave	Orange	92869
+E Vine Ave	Visalia	93291
+E Vine Ave	Visalia	93292
+E Vine Ct	Visalia	93292
+E Vine St	Fowler	93625
+E Vine St	Lodi	95240
+E Vine St	Orange	92869
+E Vine St	Redlands	92373
+E Vine St	Stockton	95202
+E Vine St	Stockton	95203
+E Vine St	Stockton	95205
+E Vineland Ave	Los Gatos	95030
+E Vineland Ave	Monte Sereno	95030
+E Vineyard Av	Oxnard	93036
+E Vineyard Ave	Oxnard	93036
+E Vino Ave	Reedley	93654
+E Vintage	Indian Wells	92210
+E Vintage Dr	Indian Wells	92210
+E Vintage St	Nipomo	93444
+E Viogner Dr	Lockeford	95237
+E Violet Ln	Ontario	91762
+E Violetta St	Ventura	93004
+E Virginia	Santa Paula	93060
+E Virginia Ave	Anaheim	92806
+E Virginia Ave	Santa Ana	92706
+E Virginia Dr	Santa Paula	93060
+E Virginia St	Rialto	92376
+E Virginia St	San Jose	95110
+E Virginia St	San Jose	95112
+E Virginia St	San Jose	95113
+E Virginia Ter	Santa Paula	93060
+E Virginia Terrace Ter	Santa Paula	93060
+E Virginia Way	Barstow	92311
+E Visalia St	Hanford	93230
+E Vista Ave	Daly City	94014
+E Vista Ave	Visalia	93292
+E Vista Canyon Rd	Orange	92867
+E Vista Chino	Cathedral City	92234
+E Vista Chino	Palm Springs	92262
+E Vista Chino Rd	Palm Springs	92262
+E Vista Del Amigo	Anaheim	92807
+E Vista Del Cerro	Anaheim	92807
+E Vista Del Dia	Anaheim	92807
+E Vista Del Este	Anaheim	92807
+E Vista Del Gaviota Ave	Orange	92865
+E Vista Del Monte	Hemet	92543
+E Vista Del Playa Ave	Orange	92865
+E Vista Del Rio	Anaheim	92807
+E Vista Del Sol	Ana	92808
+E Vista Del Sol	Anaheim	92808
+E Vista Del Valle	Anaheim	92807
+E Vista Dr	Visalia	93292
+E Vista Hermosa St	Simi Valley	93065
+E Vista Merriam	San Marcos	92069
+E Vista Mesa Way	Orange	92867
+E Vista Point Dr	Orange	92867
+E Vista Ridge Dr	Orange	92867
+E Vista Rio Ct	Woodbridge	95258
+E Vista Royale Cir	Palm Desert	92211
+E Vista Royale Dr	Orange	92867
+E Vista Way	Vista	92084
+E Vistapark Dr	Moorpark	93021
+E Vita Av	Mh	95391
+E Vita Ct	Mh	95391
+E Vivani St	Mh	95391
+E Vivian Dr	Pleasant Hill	94523
+E Vodden St	Rialto	92376
+E Voorman Ave	Fresno	93701
+E Voorman Ave	Fresno	93727
+E Vua Corto	Desert Hot Springs	92240

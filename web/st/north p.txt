@@ -1,0 +1,272 @@
+North Pacer Court	Walnut	91789
+North Pacheco Drive	Sherman Oaks	91403
+North Pacific Avenue	Glendale	91202
+North Pacific Avenue	Glendale	91203
+North Pacific Avenue	Long Beach	90802
+North Pacific Avenue	Long Beach	90805
+North Pacific Avenue	Long Beach	90806
+North Pacific Avenue	Long Beach	90807
+North Pacific Avenue	Long Beach	90813
+North Pacific Avenue	San Pedro	90731
+North Pacific Avenue West	Long Beach	90802
+North Pacific Coast Highway	El Segundo	90245
+North Pacific Coast Highway	Hermosa Beach	90254
+North Pacific Coast Highway	Redondo Beach	90277
+North Pacific Coast Highway	Santa Monica	90402
+North Pala Avenue	Pacoima	91331
+North Pala Avenue	Sylmar	91342
+North Palermo Way	La Habra	90631
+North Palisades Drive	Pacific Palisades	90272
+North Palm Avenue	Alhambra	91801
+North Palm Avenue	West Hollywood	90069
+North Palm Drive	Azusa	91702
+North Palm Drive	Beverly Hills	90210
+North Palm Drive	Signal Hill	90755
+North Palm Place	Porterville	93257
+North Palm Street	La Habra	90631
+North Palm Street	Pixley	93256
+North Palm Street	Porterville	93257
+North Palm Street	Tulare	93274
+North Palm Street	Visalia	93292
+North Palm Street	Woodlake	93286
+North Palmer Court	Long Beach	90813
+North Palmerston Place	Los Angeles	90027
+North Palo Cedro Drive	Diamond Bar	91765
+North Palo Drive	Tarzana	91356
+North Palomares Street	Pomona	91766
+North Palomares Street	Pomona	91767
+North Palomino Drive	Covina	91724
+North Palos Verdes Street	San Pedro	90731
+North Pamela Lane	La Habra	90631
+North Pampas Road	Woodland Hills	91364
+North Pannes Avenue	Compton	90221
+North Paradise Drive	Los Angeles	90032
+North Paradise Ranch Road	Castaic	91384
+North Paramount Boulevard	Long Beach	90805
+North Paramount Drive	Los Angeles	90068
+North Parcels Street	Pomona	91768
+North Parcher Trail	Tujunga	91042
+North Parish Place	Burbank	91504
+North Parish Place	Burbank	91506
+North Park Avenue	Baldwin Park	91706
+North Park Avenue	Covina	91723
+North Park Avenue	Inglewood	90302
+North Park Avenue	Irwindale	91706
+North Park Avenue	Long Beach	90815
+North Park Avenue	Montebello	90640
+North Park Avenue	Pomona	91768
+North Park Center Drive	Los Angeles	90068
+North Park Circle	Long Beach	90813
+North Park Court	Visalia	93291
+North Park Ct	Martinez	94553
+North Park Ct	Turlock	95382
+North Park Drive	Los Angeles	90026
+North Park Drive	Pixley	93256
+North Park Drive	Porterville	93257
+North Park Drive	Vacaville	95688
+North Park Ln	Mckinleyville	95519
+North Park Paseo	Los Angeles	90033
+North Park Place	La Habra	90631
+North Park Place	Porterville	93257
+North Park St	Thousand Oaks	91362
+North Park Street	Porterville	93257
+North Park Street	Visalia	93291
+North Park View Street	Los Angeles	90026
+North Park View Street	Porterville	93257
+North Park Way	San Diego	92104
+North Parker Street	San Pedro	90731
+North Parkside Avenue	Los Angeles	90031
+North Parkside Street	Visalia	93291
+North Parkwest Drive	Porterville	93257
+North Parkwood Avenue	Pasadena	91107
+North Parkwood Court	Visalia	93291
+North Parmelee Avenue	Compton	90222
+North Parmer Avenue	Los Angeles	90026
+North Parnell Way	Altadena	91001
+North Parsons Street	La Habra	90631
+North Parthenia Place	North Hills	91343
+North Partridge Avenue	Los Angeles	90039
+North Pasadena Avenue	Azusa	91702
+North Pasadena Avenue	Glendora	91741
+North Pasadena Avenue	Long Beach	90806
+North Pasadena Avenue	Los Angeles	90031
+North Pasadena Avenue	Los Angeles	90065
+North Pasadena Avenue	Pasadena	91103
+North Paseo Drive	Los Angeles	90065
+North Paskenta Road	Pacific Palisades	90272
+North Pasqual Avenue	San Gabriel	91775
+North Pass Avenue	Burbank	91505
+North Passmore Drive	Los Angeles	90068
+North Patriot Street	Visalia	93291
+North Patsy Drive	Porterville	93257
+North Patsy Lane	Porterville	93257
+North Patsy Street	Porterville	93257
+North Patterson Drive	Twin Lakes	93517
+North Patton Avenue	San Pedro	90732
+North Patton Street	Los Angeles	90026
+North Paul Jones Avenue	Wilmington	90744
+North Paulina Avenue	Redondo Beach	90277
+North Paulsen Avenue	Compton	90220
+North Paulsen Avenue	Compton	90222
+North Peace Valley Road	Lebec	93243
+North Peach Avenue	Van Nuys	91411
+North Peak Ln	Fontana	92336
+North Peak Rd	Julian	92036
+North Peak Vista Dr	Lakeside	92040
+North Peak Way	Julian	92036
+North Pearce Avenue	Long Beach	90808
+North Pearl Avenue	Compton	90221
+North Pearson Drive	Porterville	93257
+North Peck Avenue	Manhattan Beach	90266
+North Peck Road	El Monte	91731
+North Peck Road	El Monte	91732
+North Peck Road	Irwindale	91706
+North Peck Road	South El Monte	91733
+North Pelago Court	Visalia	93291
+North Peluso Avenue	Sunland	91040
+North Penfield Avenue	Chatsworth	91311
+North Penfield Avenue	Winnetka	91306
+North Penfield Avenue	Woodland Hills	91364
+North Penmar Avenue	Venice	90291
+North Pennington Avenue	Wilmington	90744
+North Pennsylvania Avenue	Glendora	91741
+North Pepper Street	Burbank	91505
+North Pepper Street	Woodlake	93286
+North Peppertree Court	Visalia	93291
+North Peppertree Street	Visalia	93291
+North Pepperwood Avenue	Long Beach	90808
+North Pepperwood Avenue	Long Beach	90815
+North Peralta Court	Tulare	93274
+North Perdido Lane	Los Angeles	90077
+North Perry Avenue	Dinuba	93618
+North Perry Avenue	Wilmington	90744
+North Pershore Avenue	San Dimas	91773
+North Petaluma Avenue	Delhi	95315
+North Petaluma Street	Tulare	93274
+North Peterson Avenue	Long Beach	90813
+North Petit Avenue	Encino	91436
+North Petit Avenue	Granada Hills	91344
+North Pettis Way	Porterville	93257
+North Peyton Way	Canoga Park	91304
+North Pheasant Drive	Los Angeles	90065
+North Philbert Drive	Beverly Hills	90210
+North Phillipe Lane	Yreka	96097
+North Phillips Avenue	West Covina	91791
+North Phillips Way	Los Angeles	90042
+North Piccadilly Lane	Porterville	93257
+North Pico Street	Planada	95365
+North Pienza Street	Visalia	93291
+North Pier S Avenue	Long Beach	90802
+North Pier S Avenue	San Pedro	90731
+North Pine Avenue	Long Beach	90813
+North Pine Crest Drive	Los Angeles	90042
+North Pine Crest Lane	Walnut	91789
+North Pine Grove Avenue	Los Angeles	90042
+North Pine Hill Drive	Sunland	91040
+North Pine Nut Drive	Encino	91316
+North Pine Orchard Street	Pacoima	91331
+North Pine Ridge Lane	Northridge	91325
+North Pine St	Ukiah	 
+North Pine Street	Dorris	96023
+North Pine Street	Nevada City	95959
+North Pine Street	Pixley	93256
+North Pine Street	Pomona	91767
+North Pine Street	San Gabriel	91775
+North Pine Street	San Gabriel	91776
+North Pine Street	Woodlake	93286
+North Pinecrest Road	Agoura Hills	91301
+North Pinehurst Road	Los Angeles	90068
+North Pinewood Street	Delhi	95315
+North Pinkham Street	Visalia	93292
+North Pinon Pine Lane	Littlerock	93543
+North Pintado Drive	Diamond Bar	91765
+North Pintoresca Drive	Pacific Palisades	90272
+North Pinyon Avenue	Tujunga	91042
+North Pioneer Avenue	Wilmington	90744
+North Pioneer Avenue	Woodland	95776
+North Pioneer Boulevard	Long Beach	90808
+North Pioneer Road	Walnut	91789
+North Pisa Street	Visalia	93291
+North Pkwy	Sacramento	95823
+North Pl	Redlands	92373
+North Place	Los Angeles	90031
+North Place Road	Los Banos	93635
+North Placer St	Weaverville	96093
+North Plainsburg Road	Merced	95365
+North Plainsburg Road	Planada	95365
+North Plano Street	Porterville	93257
+North Plantation Lane	Walnut	91789
+North Platina Drive	Diamond Bar	91765
+North Platt Avenue	West Hills	91307
+North Plaza Drive	Visalia	93291
+North Plum Way	Porterville	93257
+North Plymouth Boulevard	Los Angeles	90004
+North Poinsettia Avenue	Compton	90221
+North Poinsettia Avenue	Manhattan Beach	90266
+North Poinsettia Drive	Los Angeles	90046
+North Poinsettia Place	Los Angeles	90036
+North Poinsettia Place	Los Angeles	90046
+North Point Cir	Belvedere	94920
+North Point Dr	Paradise	95969
+North Point Drive	Yuba City	95991
+North Point Ln	La Jolla	92093
+North Point Rd	Chico	95973
+North Point St	San Francisco	94109
+North Point St	San Francisco	94123
+North Point St	San Francisco	94133
+North Pointe Dr	Lake Forest	92630-2225
+North Pointe Dr	Lake Forest	92630-2270
+North Pointe Pl	Modesto	95355
+North Pointe Place	Woodland Hills	91367
+North Pole Ln	Riverside	92503
+North Pole Pl	San Jose	95124
+North Polk Street	Tulare	93274
+North Pomelo Drive	West Hills	91307
+North Ponderosa Way	Nevada City	95959
+North Ponderosa Way	Rough And Ready	95975
+North Pondosa Avenue	San Gabriel	91776
+North Ponet Drive	Los Angeles	90068
+North Poplar Avenue	Montebello	90640
+North Poppy Avenue	Monrovia	91016
+North Poppy Street	Los Angeles	90042
+North Port Ln	Menifee	92584
+North Porter Ranch Drive	Chatsworth	91311
+North Porter Road	Porterville	93257
+North Porter Valley Drive	Porter Ranch	91326
+North Portia Street	Los Angeles	90026
+North Portola Avenue	Los Angeles	90032
+North Potosi Avenue	Studio City	91604
+North Powell Avenue	Azusa	91702
+North Powell Court	Visalia	93291
+North Prairie Avenue	Inglewood	90301
+North Prasa Road	Woodland Hills	91364
+North Pratos Court	Visalia	93291
+North Pratos Street	Visalia	93291
+North Preble Avenue	Wilmington	90744
+North Preston Street	Visalia	93291
+North Prestwick Drive	Los Angeles	90027
+North Prewett Street	Los Angeles	90031
+North Pride Court	Visalia	93291
+North Primrose Avenue	Alhambra	91801
+North Primrose Avenue	Monrovia	91016
+North Primrose Court	Porter Ranch	91326
+North Prince Street	Los Angeles	90031
+North Priscilla Lane	Burbank	91505
+North Prism Drive	Los Angeles	90041
+North Progress Place	Los Angeles	90033
+North Prospect Avenue	Hermosa Beach	90254
+North Prospect Avenue	Redondo Beach	90277
+North Prospect Avenue	Redondo Beach	90278
+North Prospect Street	Porterville	93257
+North Prospectors Road	Diamond Bar	91765
+North Prospero Drive	Covina	91722
+North Prospero Drive	Covina	91723
+North Provence Lane	Tujunga	91042
+North Provence Road	San Gabriel	91775
+North Provo Avenue	Tujunga	91042
+North Pt	Discovery Bay	94505
+North Pueblo Avenue	Los Angeles	90032
+North Puente Avenue	Baldwin Park	91706
+North Puente Avenue	La Puente	91746
+North Puente Avenue	West Covina	91790
+North Pyrites Street	Los Angeles	90032

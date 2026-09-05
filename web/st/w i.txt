@@ -1,0 +1,81 @@
+W I	Brawley	92227
+W I Ct	Brawley	92227
+W I Dr	Brawley	92227
+W I St	Brawley	92227
+W I St	Colton	92324
+W I St	Encinitas	92024
+W I St	Oakdale	95361
+W I St	Ontario	91762
+W Iberia St	Jurupa Valley	91752
+W Idaho Ave	Lemoore	93245
+W Idlewood Way	Hanford	93230
+W Idyllwild Pl	Mh	95391
+W Idylwild	Bass Lake	93604
+W Ike Crow Rd	Crows Landing	95313
+W Illilouette Fall	Mariposa	95338
+W Illumination Dr	Fresno	93711
+W Imola Ave	Napa	94558
+W Imola Ave	Napa	94559
+W Imperial	Imperial	92251
+W Imperial Ave	Calexico	92231
+W Imperial Ct	Palm Desert	92211
+W Imperial Hwy	Bre	 
+W Imperial Hwy	Bre	92821
+W Imperial Hwy	Bre	92835
+W Imperial Hwy	Brea	92821
+W Imperial Hwy	La Habra	90631
+W Imperial Hwy	Ocotillo	92259
+W Imperial St	Ocotillo	92259
+W Imperial View Ct	Rocklin	95677
+W Imperial Way	Hanford	93230
+W Incense Cedar Rd	Julian	92036
+W Independence Pl	Hanford	93230
+W Indian Rock	Winterhaven	92283
+W Indian Rock Rd	Vista	92083
+W Indian Rock Rd	Vista	92084
+W Indian School	Banning	92220
+W Indian School Ln	Banning	92220
+W Indian Trl	San Bernardino	92407
+W Indiana Ave	Caruthers	93609
+W Indianapolis Ave	Fresno	93705
+W Indianapolis Ave	Fresno	93722
+W Indianapolis Ave	Fresno	93723
+W Indigo Dr	Mh	95391
+W Indigo Pl	Oxnard	93036
+W Industrial Pkwy	San Bernardino	92407
+W Industry Way	Lemoore	93245
+W Ingram St	Stockton	95204
+W Inman Av	Stockton	95204
+W Interstate 8	Winterhaven	92283
+W Inverness Rd	Thousand Oaks	91361
+W Invitar Ln	Mh	95391
+W Ionia Pl	Anaheim	92801
+W Iota Rd	Fresno	93728
+W Iowa Ave	Sunnyvale	94086
+W Iris	Oxnard	93033
+W Iris Av	Stockton	95210
+W Iris Ave	Visalia	93277
+W Iris Ct	Visalia	93277
+W Iris St	Oxnard	93033
+W Irongate Ln	Santa Ana	92703
+W Ironwood Ct	Bre	92821
+W Irving Pl	Anaheim	92805
+W Irvington Ave	San Bernardino	92407
+W Isabel St	Burbank	91506
+W Isabella Ave	Kerman	93630
+W Isabella Dr	Colton	92324
+W Ischia Dr	Oxnard	93035
+W Island Ave	San Diego	92101
+W  Island Ct	Elk Grove	95758
+W Island View St	Oxnard	93035
+W Islay St	Santa Barbara	93101
+W Isle Way	Oxnard	93035
+W Isleton Pl	Oxnard	93030
+W Isleton St	Oxnard	93030
+W Ivy Av	Stockton	95206
+W Ivy Ave	Coalinga	93210
+W Ivy St	Fallbrook	92028
+W Ivy St	Hanford	93230
+W Ivy St	Roseville	95678
+W Ivy St	San Diego	92101
+W Ivywood Dr	Oxnard	93030

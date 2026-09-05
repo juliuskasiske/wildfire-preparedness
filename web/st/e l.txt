@@ -1,0 +1,550 @@
+E L St	Chula Vista	91911
+E L St	Colton	92324
+E La Avenida Dr	Ontario	91761
+E La Cadena Dr	Riverside	92507
+E La Calma Dr	Whittier	90603
+E La Calma Dr	Whittier	90605
+E La Chiquita Ave	Los Gatos	95032
+E La Costa Cir	Palm Desert	92211
+E La Cresta Ave	Anaheim	92806
+E La Crosse Ave	Fowler	93625
+E La Cuarta St	Whittier	90602
+E La Cuarta St	Whittier	90605
+E La Cumbre Dr	Orange	92869
+E La Deney Ct	Ontario	91764
+E La Deney Dr	Ontario	91764
+E La Deney Way	Ontario	91764
+E La Entrada Dr	Bre	92823
+E La Entrada Pl	Ful	92835
+E La Entrada Pl	Fullerton	92835
+E La Follette Av	Stockton	95205
+E La Forge St	Whittier	90603
+E La Forge St	Whittier	90605
+E La France Dr	Fresno	93720
+E La Gracia	Santa Maria	93455
+E La Grange Ave	Thousand Oaks	91320
+E La Habra Blvd	La Habra	90631
+E La Habra Blvd	Lah	90631
+E La Hacienda Dr	San Bernardino	92404
+E La Hermosa Dr	Whittier	90603
+E La Jolla Dr (River Club)	Tracy	95304
+E La Jolla St	Anaheim	92806
+E La Jolla St	Anaheim	92870
+E La Jolla St	Ontario	91761
+E La Jolla St	Placentia	92870
+E La Lindura Dr	Whittier	90603
+E La Loma Ave	Somis	93066
+E La Mesa Av	Stockton	95207
+E La Mesa St	Anaheim	92806
+E La Meseta Way	Whittier	90603
+E La Mirada Wy	Stockton	95212
+E La Noria	Santa Maria	93455
+E La Palma Ave	Ana	92806
+E La Palma Ave	Ana	92807
+E La Palma Ave	Anaheim	92801
+E La Palma Ave	Anaheim	92805
+E La Palma Ave	Anaheim	92806
+E La Palma Ave	Anaheim	92807
+E La Palma Ave	Ybl	92887
+E La Palma Ave	Yorba Linda	92887
+E La Paloma Dr (River Club	Tracy	95304
+E La Paz Cir	Anaheim	92807
+E La Paz Way	Anaheim	92807
+E La Quinta Dr	Fresno	93720
+E La Quinta Dr	Fresno	93730
+E La Quinta Way	Whittier	90603
+E La Rosa Rd	Mariposa	95338
+E La Salle Ave	Fresno	93728
+E La Salle Ave	Visalia	93292
+E La Salle Ct	Visalia	93292
+E La Salle St	Ontario	91761
+E La Salle St	Woodbridge	95258
+E La Salos Dr	Whittier	90603
+E La Sierra Dr	Fresno	93728
+E La Spezia Wy	Stockton	95215
+E La Verne Way	Palm Springs	92264
+E La Veta Av	Orange	92866
+E La Veta Ave	Orange	92866
+E La Veta Ave	Orange	92869
+E La Vida Ave	Visalia	93277
+E La Vida Ave	Visalia	93292
+E La Vida Ct	Visalia	93292
+E Lacey Blvd	Hanford	93230
+E Lacy Ave	Anaheim	92805
+E Ladell Cir	Santa Ana	92701
+E Ladera Ln	Anaheim	92807
+E Ladner St	Whittier	90603
+E Ladybug Pso	Ontario	91761
+E Ladyfern Ln	Ana	92808
+E Ladyfern Ln	Anaheim	92808
+E Lael Dr	Orange	92866
+E Lafayette St	Stockton	95203
+E Lafayette St	Stockton	95205
+E Lafayette St	Stockton	95215
+E Laguna Av	Santa Maria	93454
+E Laguna Ave	Laton	93242
+E Laguna Ave	Santa Maria	93454
+E  Laguna Ct	Elk Grove	95758
+E Laguna Ct	Orange	92867
+E  Laguna Way	Elk Grove	95758
+E Lahr Ln	Santa Maria	93454
+E Laird St	Lockeford	95237
+E Lake	Watsonville	95076
+E Lake Av	Manteca	95337
+E Lake Crest Ln	Anaheim	92807
+E Lake Ct	Antioch	94509
+E Lake Ct	Banning	92220
+E Lake Ct	Desert Hot Springs	92241
+E Lake Dr	Antioch	94509
+E  Lake Dr	Elk Grove	95758
+E Lake Dr	Orange	92866
+E Lake Dr	San Diego	92119
+E Lake Hill Dr	Orange	92867
+E Lake Pl	Antioch	94509
+E Lake Sherwood Dr	Thousand Oaks	91361
+E Lake Street	Salinas	93901
+E Lakeshore Dr	Lake Elsinore	92530
+E Lakeshore Dr	San Ramon	94582
+E Lakeside Ave	Orange	92867
+E Lakeside Dr	Palm Springs	92264
+E Lakeside Dr (River Club)	Tracy	95304
+E Lakeside Pkwy	Santa Maria	93454
+E Lakeside Pl	Corona	92879
+E Laketop Dr	Anaheim	92807
+E Lakeview Ave	Nuevo	92567
+E Lakeview Dr	Fresno	93730
+E Lakeview Loop	Placentia	92870
+E Lakeview Lp	Placentia	92870
+E Lakeview Rd	Lakeside	92040
+E Lakeview Rd	Santa Maria	93455
+E Lakeview Trl	Orange	92869
+E Lakshore Dr	Lake Elsinore	92530
+E Lamar	Salinas	93906
+E Lamar Street	Salinas	93906
+E Lambda Ln	Anaheim	92805
+E Lambda Pl	Anaheim	92805
+E Lambert Ct	Lockeford	95237
+E Lambert Rd	Bre	 
+E Lambert Rd	Bre	92821
+E Lambert Rd	Brea	92821
+E Lambert Rd	Fullerton	92835
+E Lambert Rd	La Habra	90631
+E Lambert Rd	Lah	90631
+E Lambert Rd	Whittier	90602
+E Lambert Rd	Whittier	90603
+E Lambert Rd	Whittier	90604
+E Lambert Rd	Whittier	90605
+E Lambert Rd	Whittier	90606
+E Lambeth Ct	Orange	92869
+E Lamona Ave	Fresno	93703
+E Lamona Ave	Fresno	93727
+E Lamp Post Way	Anaheim	92807
+E Lancaster Ave	Anaheim	92806
+E Lancaster Dr	Stockton	95207
+E Lance Dr	Stockton	95205
+E Lancet Dr	Whittier	90603
+E Landen St	Camarillo	93010
+E Landing Ln	Stockton	95206
+E Landing Way	Sacramento	95831
+E Landmark Ln	Bre	92823
+E Landmark Pl	Stockton	95215
+E Landmark Way	Clovis	93619
+E Landon Dr	Ana	92807
+E Landon Dr	Anaheim	92807
+E Lane Ave	Fresno	93702
+E Lane Ave	Fresno	93727
+E Lang St	Hanford	93230
+E Langdon Dr	Anaheim	92807
+E Lani Ave	Anaheim	92807
+E Lansdale Ct	Simi Valley	93065
+E Lansing Ave	Sanger	93657
+E Lansing Pl	Simi Valley	93065
+E Lansing Way	Fresno	93704
+E Lansing Way	Fresno	93726
+E Lansing Way	Fresno	93727
+E Lansing Way	Fresno	93737
+E Lantern Paseo	Ontario	91761
+E Larch Rd	Tracy	95304
+E Larch St	Simi Valley	93065
+E Lark Ave	Visalia	93292
+E Lark Ellen Ln	Anaheim	92806
+E Lark St	Oxnard	93033
+E Lark St	Woodbridge	95258
+E Larkellen Ct	Oak Park	91377
+E Larkin Rd	Biggs	95917
+E Larkspur Ave	Bre	92821
+E Larkspur Cir	Ana	92807
+E Larkspur Cir	Anaheim	92807
+E Larkspur Dr	Antioch	94531
+E Larkspur Dr	San Bernardino	92404
+E Larkspur Ln	Beaumont	92223
+E Larkstone Ave	Orange	92869
+E Larkstone Cir	Orange	92869
+E Larkstone Dr	Orange	92869
+E Laroda Cir	Reedley	93654
+E Larrylyn Dr	Whittier	90603
+E Larsen Ave	Fresno	93706
+E Las Cumbres Dr	Whittier	90603
+E Las Flores Av	Santa Maria	93454
+E Las Flores Ave	Santa Maria	93454
+E Las Flores Pl	Santa Maria	93454
+E Las Flores Way	Santa Maria	93454
+E Las Flores Wy	Santa Maria	93454
+E Las Palmas Ave	Patterson	95363
+E Las Palmas Dr	Fresno	93730
+E Las Palmas Dr	Ful	92835
+E Las Palmas Dr	Fullerton	92835
+E Las Posas Ave	Camarillo	93012
+E Las Posas Cir	Camarillo	93012
+E Las Posas Rd	Camarillo	93010
+E Las Posas Rd	Camarillo	93012
+E Las Positas Ci	Stockton	95212
+E Las Tunas Rd	Santa Barbara	93103
+E Las Tunis Ave	Del Rey	93616
+E Lashburn St	Whittier	90603
+E Lashburn St	Whittier	90604
+E Lassen Ave	Chico	95973
+E Lassen St	Avenal	93204
+E Latham Ave	Hemet	92543
+E Lathrop Rd	Lathrop	95330
+E Lathrop Rd	Manteca	95336
+E Lathrop Rd	Manteca	95337
+E Latigo Ave	Oxnard	93030
+E Latimer Ave	Campbell	95008
+E Latonia Ave	Laton	93242
+E Lauder St	Carson	90745
+E Laura Ave	Visalia	93277
+E Laura Ave	Visalia	93292
+E Laura Ct	Visalia	93277
+E Laura Ct	Visalia	93292
+E Laurel	Salinas	93905
+E Laurel	Salinas	93906
+E Laurel Av	Lompoc	93436
+E Laurel Ave	Colton	92324
+E Laurel Ave	Fresno	93702
+E Laurel Ave	Fresno	93727
+E Laurel Ave	Fresno	93737
+E Laurel Ave	Porterville	93257
+E Laurel Ave	Visalia	93277
+E Laurel Ave	Visalia	93292
+E Laurel Cir	Palm Springs	92262
+E Laurel Creek Dr	San Mateo	94403
+E Laurel Creek Rd	Belmont	94002
+E Laurel Ct	Visalia	93292
+E Laurel Drive	Salinas	93905
+E Laurel Drive	Salinas	93906
+E Laurel Drive Drive	Salinas	93906
+E Laurel Ridge Ln	Camarillo	93012
+E Laurel St	Colton	92324
+E Laurel St	Fort Bragg	 
+E Laurel St	Fort Bragg	95437
+E Laurel St	Oxnard	93033
+E Laurel Valley Ln	Ontario	91761
+E Laurelhurst Dr	Moorpark	93021
+E Laurelhurst Rd	Moorpark	93021
+E Laurelwood Dr	San Bernardino	92408
+E Laurin Dr	Linden	95236
+E Laurite Ave	Fresno	93706
+E Laurite Ave	Fresno	93725
+E Laurite Ave	Fresno	93727
+E Lavender Ct	Orange	92867
+E Lavender Dr	Ontario	91762
+E Laverne Ln	Mill Valley	94941
+E Lawnbrook Dr	Fresno	93720
+E Lawson Av	Mh	95391
+E Le Conte Pass Ct	Clovis	93619
+E Le Parc Dr	Fresno	93720
+E Leaflock Ave	Thousand Oaks	91361
+E Leafwood Dr	Anaheim	92807
+E Leanna Ct	Chula Vista	91911
+E Learned Av	Stockton	95205
+E Leatrice Ln	Anaheim	92802
+E Leaverton Ct	Ana	92807
+E Leaverton Ct	Anaheim	92807
+E Lebanon Ave	Clovis	93619
+E Lebec Trl	Frazier Park	93225
+E Lebo St	Whittier	90603
+E Lecont Ct	Simi Valley	93063
+E Ledyard	Aptos	95003
+E Lee Av	Escalon	95320
+E Lee Ct	Stockton	95215
+E Lee Dr	Santa Maria	93454
+E Lee St	San Bernardino	92408
+E Lee St	Simi Valley	93065
+E Leeds Ave	Orange	92867
+E Leffco Rd	Whittier	90603
+E Leffingwell Rd	Whittier	90603
+E Leffingwell Rd	Whittier	90604
+E Legacy Dr	Mh	95391
+E Leighton Dr	Ventura	93001
+E Leisure Ave	Fresno	93727
+E Leland Rd	Pittsburg	94565
+E Lemon Av	Escalon	95320
+E Lemon Av	Lompoc	93436
+E Lemon Ave	Fresno	93706
+E Lemon Creek Cir	Orange	92869
+E Lemon Dr	Camarillo	93010
+E Lemon Grove Ln	Corona	92881
+E Lemon St	Colton	92324
+E Lemon St	Villa Park	92867
+E Lemonwood Dr	Upland	91786
+E Lena Privado	Ontario	91761
+E Lenita Ln	Santa Ana	92705
+E Leonardini Rd	Stockton	95215
+E Leonardo Wy	Mh	95391
+E Leopoldo Ct	Santa Maria	93454
+E Leroy Av	Ripon	95366
+E Leslie Dr	Hemet	92543
+E Lester Ave	Fresno	93720
+E Letson Ave	Laton	93242
+E Lettuce	Heber	92249
+E Lettuce St	Heber	92249
+E Lettuce Street St	Heber	92249
+E Levee Rd	Elverta	95626
+E Levee Rd	Rio Linda	95673
+E Levee Rd	Sacramento	95626
+E Levee Rd	Sacramento	95833
+E Levee Rd	Sacramento	95835
+E Levee Rd	Sacramento	95836
+E Levee Rd	Sacramento	95838
+E Lewis Ave	Fresno	93701
+E Lewis Ave	Fresno	93727
+E Lewis Ave	Orange	92869
+E Lewis Ct	Fowler	93625
+E Lewis Dr	Orange	92869
+E Lewis Rd	Santa Maria	93454
+E Lewis St	Madera	93637
+E Lewis St	Stockton	95205
+E Lewis St	Ventura	93001
+E Lewiston Ave	Laton	93242
+E Lewiston St	Ontario	91761
+E Lexington Ave	El Cajon	92019
+E Lexington Ave	El Cajon	92020
+E Lexington Ave	Fresno	93720
+E Lexington Ave	Orange	92867
+E Lexington St	Upland	91784
+E Liberty Ave	Anaheim	92801
+E Liberty Ave	Fresno	93702
+E Liberty Ave	Fresno	93727
+E Liberty Hill Rd	Fresno	93720
+E Liberty Rd	Acampo	95220
+E Liberty Rd	Acampo	95227
+E Liberty Rd	Clements	95227
+E Liberty Rd	Clements	95277
+E Liberty Rd	Clements	95337
+E Liberty Rd	Galt	95220
+E Liberty Rd	Galt	95227
+E Liberty Rd	Galt	95362
+E Liberty Rd	Galt	95632
+E Lilac Rd	Escondido	92026
+E Liliana Paseo	Ontario	91764
+E Lily Paseo	Ontario	91761
+E Lincoln Av	Orange	92865
+E Lincoln Ave	4-Or-1	92865
+E Lincoln Ave	Anaheim	92805
+E Lincoln Ave	Anaheim	92806
+E Lincoln Ave	Chico	95926
+E Lincoln Ave	Del Rey	93616
+E Lincoln Ave	Escondido	92026
+E Lincoln Ave	Escondido	92027
+E Lincoln Ave	Fowler	93625
+E Lincoln Ave	Fresno	93706
+E Lincoln Ave	Fresno	93725
+E Lincoln Ave	Hemet	92544
+E Lincoln Ave	Madera	93638
+E Lincoln Ave	Orange	92865
+E Lincoln Ave	Orange Cove	93646
+E Lincoln Ave	Parlier	93648
+E Lincoln Ave	Reedley	93654
+E Lincoln Ave	Sacramento	95818
+E Lincoln Ave 1/2	Madera	93638
+E Lincoln Cir	Villa Park	92867
+E Lincoln Paseo	Ontario	91762
+E Lincoln Rd	Stockton	95207
+E Lincoln St	Banning	92220
+E Lincoln St	Carson	90745
+E Lincoln St	Porterville	93257
+E Lincoln St	Villa Park	92867
+E Linda Mesa Ave	Danville	94526
+E Linda Vista Ave	Ventura	93001
+E Linda Vista Dr	Bakersfield	93308
+E Linda Vista Dr	Whittier	90602
+E Lindbrook Ln	Fresno	93720
+E Linden Ave	Burbank	91502
+E Linden Ave	Fresno	93725
+E Linden Ave	Reedley	93654
+E Linden Ave	Selma	93662
+E Lindenwood Dr	Ontario	91761
+E Lindo Ave	Chico	95926
+E Lindsay Ln	Santa Paula	93060
+E Lindsay Privado Dr	Ontario	91761
+E Lindsay St	Stockton	95202
+E Lindsay St	Stockton	95205
+E Lindsey Dr	Palm Springs	92262
+E Lindsey Privado Dr	Ontario	91761
+E Lindsey Rd	Calipatria	92233
+E Lindskog Dr	Whittier	90603
+E Lingo Ave	Reedley	93654
+E Linne Rd	Tracy	95304
+E Linwood Ave	Turlock	95380
+E Lisa Ave	Fresno	93720
+E Lisbon Ct	Whittier	90601
+E Lisco St	Whittier	90603
+E Little Dr	Pla	92870
+E Little Dr	Placentia	92870
+E Little John Rd	Stockton	95215
+E Little Third St	San Bernardino	92410
+E Live Oak Creek Way	Ontario	91761
+E Live Oak Ct	Anaheim	92805
+E Live Oak Dr	Anaheim	92805
+E Live Oak Dr	Orange	92869
+E Live Oak Rd	Lodi	95212
+E Live Oak Rd	Lodi	95240
+E Live Oak Rd	Stockton	95212
+E Liverno Av	Mh	95391
+E Liverpool Ct	Oak Park	91377
+E Livingston St	Banning	92220
+E Liz Te	Mh	95391
+E Lizbeth Ave	Anaheim	92806
+E Lizbeth Ct	Anaheim	92806
+E Ln	Big Bear City	92314
+E Ln	Lake Arrowhead	92352
+E Loch Avon Dr	Whittier	90606
+E Loch Lomond Dr	Whittier	90606
+E Lochleven Ln	Orange	92869
+E Locke Rd	Lockeford	95237
+E Lockeford Ranch Dr	Lockeford	95237
+E Lockeford St	Lodi	95240
+E Lockmont Cir	Ana	92808
+E Lockmont Cir	Anaheim	92808
+E Lockwood Rd	Frazier Park	93225
+E Lockwood Valley Rd	Frazier Park	93225
+E Locust Av	Lompoc	93436
+E Locust Ave	Clovis	93619
+E Locust Ave	Coalinga	93210
+E Locust Ave	Fresno	93720
+E Locust Ave	Orange	92867
+E Locust Ave	Porterville	93257
+E Locust Ct	Ontario	91761
+E Locust Ct	San Bernardino	92404
+E Locust St	Bre	92821
+E Locust St	Lodi	95240
+E Locust St	Ontario	91761
+E Lodi Av	Lodi	95240
+E Lodosa Dr	Whittier	90605
+E Loftus Ln	Fresno	93710
+E Loftwood Ln	Orange	92867
+E Loftwood Ln	Orange	92869
+E Logan Ct	Visalia	93292
+E Loker Ave	Carlsbad	92010
+E Lolita Ln	Orange	92869
+E Lolita St	Orange	92869
+E Loma Lind Rd	Temecula	92592
+E Loma Linda	Temecula	92592
+E Loma Linda Ave	Fresno	93720
+E Loma Linda Dr	Temecula	92592
+E Loma Linda Rd	Temecula	92592
+E Loma Sola Ct	Upland	91786
+E Lomas Privadas Dr	San Bernardino	92404
+E Lombardy Ln	Banning	92220
+E Lomita Ave	Orange	92867
+E Lomita Ave	Orange	92869
+E Lomita Blvd	Carson	90744
+E Lomita Blvd	Carson	90745
+E Lomita Dr	Rialto	92376
+E Lomita Pl	Highland	92346
+E Lone Oak Ave	Sanger	93657
+E Lone Oak Rd	Escalon	95320
+E Lone Tree Rd	Escalon	95320
+E Lone Tree Rd	Manteca	95336
+E Lone Tree Rd	Oakdale	95361
+E Longbranch Dr	Anaheim	92807
+E Longhorn St	Ontario	91761
+E Longridge Dr	Orange	92867
+E Longview Av	Stockton	95207
+E Longview Ln	Coarsegold	93614
+E Lookout Ln	Anaheim	92807
+E Lookout St	Lake Elsinore	92530
+E Loomis Rd	Stockton	95205
+E Loop Dr	Camarillo	93010
+E Lopez Ln	Fresno	93730
+E Lorca Dr	Rancho Mirage	92270
+E Lorca St	Mh	95391
+E Lorena Ave	Fresno	93706
+E Lorena Ave	Fresno	93721
+E Lorena Ave	Fresno	93725
+E Lorena Ave	Fresno	93727
+E Lorene St	Whittier	90601
+E Loretta Av	Stockton	95207
+E Los Altos Ave	Clovis	93619
+E Los Altos Ave	Fresno	93710
+E Los Angeles Av	Moorpark	93021
+E Los Angeles Av	Simi Valley	93063
+E Los Angeles Ave	Moorpark	93021
+E Los Angeles Ave	Simi Valley	93063
+E Los Angeles Ave	Simi Valley	93065
+E Los Angeles Ave	Somis	93066
+E Los Angeles Dr	Vista	92084
+E Los Arboles Ave	Orange	92869
+E Los Cerritos Dr	Stockton	95212
+E Los Cocos	Rancho Mirage	92270
+E Los Felices	Palm Springs	92262
+E Los Felices Cir	Palm Springs	92262
+E Los Felices Ct	Palm Springs	92262
+E Los Felis Av	Stockton	95210
+E Los Flores Dr	San Bernardino	92404
+E Los Lotes Ave	Whittier	90605
+E Los Olivos St	Santa Barbara	93103
+E Los Olivos St	Santa Barbara	93105
+E Los Padres Dr	Thousand Oaks	91361
+E Los Posas Cir	Palm Springs	92264
+E Lotus Pl	Bre	92821
+E Louisa Ter	Santa Maria	93454
+E Louise Av	Escalon	95320
+E Louise Av	Lathrop	95330
+E Louise Av	Manteca	95336
+E Louise Av	Manteca	95337
+E Louise Av	Ripon	95366
+E Louise Ave	Manteca	95336
+E Louise Ave	Manteca	95337
+E Louise Dr	Palm Springs	92262
+E Lovelace Rd	Manteca	95336
+E Lowe Ave	Fresno	93702
+E Lowe Ave	Fresno	93727
+E Lowell Av	Tracy	95376
+E Lowell St	Ontario	91761
+E Lower Lake Rd	Thousand Oaks	91361
+E Loyola Ave	Fresno	93720
+E Loyola Ave	Visalia	93292
+E Loyola Cir	Moorpark	93021
+E Loyola St	Moorpark	93021
+E Lubell Ln	Acampo	95220
+E Lucas Ct	Simi Valley	93063
+E Lucerne Dr	Hemet	92543
+E Lucero Ct	Camarillo	93010
+E Lucero St	Thousand Oaks	91360
+E Luchessa Av	Gilroy	95020
+E Luchessa Ave	Gilroy	95020
+E Lugonia Ave	Redlands	92374
+E Luis Estrada Rd	Beaumont	92223
+E Luna Paseo	Ontario	91764
+E Luna Way	Palm Springs	92262
+E Lurelane St	Rialto	92376
+E Lureline Ct	Upland	91784
+E Lurline Ct	Upland	91784
+E Lyell Ave	Fresno	93702
+E Lyell Ave	Fresno	93727
+E Lyle St	Whittier	90601
+E Lylewood Way	Clovis	93619
+E Lynch Rd	Manteca	95336
+E Lyndhurst Ave	Camarillo	93010
+E Lynn Haven Ct	Ontario	91764
+E Lynn Way	Thousand Palms	92276
+E Lynnwood Ave	Orange	92869
+E Lynwood Ave	Orange	92869
+E Lynwood Dr	Highland	92346
+E Lynwood Dr	San Bernardino	92404
+E Lynwood St	Simi Valley	93065
+E Lyons Rd	Ripon	95366
+E Lytle Creek Loop	Ontario	91761
+E Lytle Creek Loop N	Ontario	91761

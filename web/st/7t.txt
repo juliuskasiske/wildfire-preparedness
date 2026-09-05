@@ -1,0 +1,242 @@
+7Th	Calexico	92231
+7Th	Calipatria	92233
+7Th	Carmel-By-The-Sea	93921
+7Th	Desert Hot Springs	92240
+7Th	Gonzales	93926
+7Th	Greenfield	93927
+7Th	Heber	92249
+7Th	Ramona	92065
+7Th	Santa Cruz	95060
+7Th	Santa Cruz	95062
+7Th	Santa Cruz	95066
+7Th	Santa Cruz	A 950
+7Th	Soledad	93960
+7Th	Watsonville	95076
+7Th	Westmorland	92281
+7Th Apts A-D St	Arcata	95521
+7Th Av	Trinidad	95570
+7Th Ave	Calexico	92231
+7Th Ave	Clearlake	95422
+7Th Ave	Corcoran	93212
+7Th Ave	Crockett	94525
+7Th Ave	Escondido	92025
+7Th Ave	Hanford	93230
+7Th Ave	Jamestown	95327
+7Th Ave	Kingsburg	93230
+7Th Ave	Kingsburg	93631
+7Th Ave	Laguna Beach	92651
+7Th Ave	Lakeport	95453
+7Th Ave	Mecca	92254
+7Th Ave	Menlo Park	94025
+7Th Ave	Oakdale	95361
+7Th Ave	Oroville	95965
+7Th Ave	Redwood City	94063
+7Th Ave	Rio Linda	95673
+7Th Ave	Sacramento	95817
+7Th Ave	Sacramento	95818
+7Th Ave	Sacramento	95820
+7Th Ave	San Bruno	94066
+7Th Ave	San Diego	92101
+7Th Ave	San Diego	92103
+7Th Ave	San Mateo	94401
+7Th Ave	San Mateo	94402
+7Th Ave	Victorville	92395
+7Th Ave Dr	Kingsburg	93631
+7Th Avenue	Arcadia	91006
+7Th Avenue	Carmel	93923
+7Th Avenue	Hacienda Heights	91745
+7Th Avenue	La Puente	91746
+7Th Avenue	Los Angeles	90008
+7Th Avenue	Los Angeles	90018
+7Th Avenue	Los Angeles	90019
+7Th Avenue	Los Angeles	90043
+7Th Avenue	Merced	95340
+7Th Avenue	Salinas	93955
+7Th Avenue	Venice	90291
+7Th Avenue Dr	Kingsburg	93631
+7Th Cir	Calexico	92231
+7Th Corps Circle	Seaside	93955
+7Th Court	Hermosa Beach	90254
+7Th Ct	Hermosa Beach	90254
+7Th Division Place	Seaside	93955
+7Th Dr	Calexico	92231
+7Th E St	Pittsburg	94565
+7Th Helena Drive	Los Angeles	90049
+7Th Ln	Big Bear City	92314
+7Th Ln	South San Francisco	94080
+7Th Pl	Calimesa	92320
+7Th Pl	Escondido	92029
+7Th Pl	Hermosa Beach	90254
+7Th Pl	Yucaipa	92399
+7Th Place	Arcadia	91006
+7Th Place	Carmel	93923
+7Th Place	Hermosa Beach	90254
+7Th Place	Los Angeles	90021
+7Th Place	Manhattan Beach	90266
+7Th Rd	Hanford	93230
+7Th St	Arcata	95521
+7Th St	Armona	93230
+7Th St	Bakersfield	93304
+7Th St	Beaumont	92223
+7Th St	Berkeley	94710
+7Th St	Big Bear City	92314
+7Th St	Biggs	95917
+7Th St	Bloomington	92316
+7Th St	Buena Park	90621
+7Th St	Calexico	92231
+7Th St	Calimesa	92320
+7Th St	Cayucos	93430
+7Th St	Ceres	95307
+7Th St	Coachella	92236
+7Th St	Coalinga	93210
+7Th St	Coronado	92118
+7Th St	Del Mar	92014
+7Th St	Desert Hot Springs	92240
+7Th St	Encinitas	92024
+7Th St	Escondido	92025
+7Th St	Eureka	95501
+7Th St	Firebaugh	93622
+7Th St	Fortuna	95540
+7Th St	Galt	95632
+7Th St	Garden Grove	92840
+7Th St	Havasu Lake	92363
+7Th St	Hayward	94541
+7Th St	Hemet	92544
+7Th St	Hermosa Beach	90254
+7Th St	Highland	92346
+7Th St	Hollister	95023
+7Th St	Hughson	95326
+7Th St	Huntington Beach	90742
+7Th St	Huntington Beach	92648
+7Th St	Huntington Beach	92648-4600
+7Th St	Huntington Beach	92648-4606
+7Th St	Huntington Beach	92648-4607
+7Th St	Huntington Beach	92648-4608
+7Th St	Huntington Beach	92648-4609
+7Th St	Huntington Beach	92648-4610
+7Th St	Huntington Beach	92648-4611
+7Th St	Huntington Beach	92648-4612
+7Th St	Huntington Beach	92648-4613
+7Th St	Huntington Beach	92648-4666 
+7Th St	Huntington Beach	92648-4667 
+7Th St	Huntington Beach	92648-4668 
+7Th St	Huntington Beach	92648-4669 
+7Th St	Huntington Beach	92648-4682 
+7Th St	Huntington Beach	92648-4684 
+7Th St	Huntington Beach	92648-4687
+7Th St	Huntington Beach	92648-4693 
+7Th St	Huntington Beach	92648-4699 
+7Th St	Huntington Beach	92648-5005
+7Th St	Huntington Beach	92648-5006 
+7Th St	Huntington Beach	92648-5007
+7Th St	Huntington Beach	92648-5008
+7Th St	Huntington Beach	92648-5044 
+7Th St	Huntington Beach	92648-5045
+7Th St	Huntington Beach	92648-5046
+7Th St	Huntington Beach	92648-5047 
+7Th St	Huntington Beach	92648-5048
+7Th St	Huntington Beach	92648-5048 
+7Th St	Huntington Beach	92648-5049 
+7Th St	Huntington Beach	92648-5079 
+7Th St	Huntington Beach	92648-5080 
+7Th St	Huron	93234
+7Th St	Imperial	92251
+7Th St	Imperial Beach	91932
+7Th St	Keyes	95328
+7Th St	Kingsburg	93631
+7Th St	Lincoln	95648
+7Th St	Los Osos	93402
+7Th St	Mariposa	95338
+7Th St	Mecca	92254
+7Th St	Mendota	93640
+7Th St	Modesto	95351
+7Th St	Modesto	95354
+7Th St	Montara	94037
+7Th St	Napa	94559
+7Th St	National City	91950
+7Th St	Newport Beach	92661
+7Th St	Niland	92257
+7Th St	Norco	92860
+7Th St	Oakley	94561
+7Th St	Oroville	95965
+7Th St	Parlier	93648
+7Th St	Paso Robles	93446
+7Th St	Perris	92570
+7Th St	Petaluma	94952
+7Th St	Phelan	92371
+7Th St	Phelan	92392
+7Th St	Ramona	92065
+7Th St	Rancho Cucamonga	91729
+7Th St	Rancho Cucamonga	91730
+7Th St	Redding	96001
+7Th St	Redlands	92374
+7Th St	Reedley	93654
+7Th St	Richmond	94801
+7Th St	Rio Linda	95673
+7Th St	Riverbank	95367
+7Th St	Riverside	92501
+7Th St	Riverside	92507
+7Th St	Rodeo	94572
+7Th St	Sacramento	95811
+7Th St	Sacramento	95814
+7Th St	San Bernardino	92410
+7Th St	San Jacinto	92582
+7Th St	San Jacinto	92583
+7Th St	San Joaquin	93660
+7Th St	San Jose	95112
+7Th St	Sanger	93657
+7Th St	Santa Rosa	95401
+7Th St	Santa Rosa	95404
+7Th St	Scotia	95565
+7Th St	Seal Beach	90740
+7Th St	Templeton	93465
+7Th St	Trona	93562
+7Th St	Turlock	95380
+7Th St	Union City	94587
+7Th St	Victorville	92392
+7Th St	Victorville	92395
+7Th St	Westhaven	95570
+7Th St	Westmorland	92281
+7Th St	Westwood	96137
+7Th St	Yermo	92398
+7Th St	Yucaipa	92399
+7Th St & Broadway St	El Centro	92243
+7Th St E	Sonoma	95476
+7Th St & La Paz Dr NW	Victorville	92395
+7Th St W	Sonoma	95476
+7Th Standard Rd	Bakersfield	93314
+7Th Standard Rd	Shafter	93314
+7Th Street	City Of Marysville	95901
+7Th Street	Davis	95616
+7Th Street	Downey	90241
+7Th Street	Gonzales	93926
+7Th Street	Greenfield	93927
+7Th Street	Gustine	95322
+7Th Street	Hermosa Beach	90254
+7Th Street	King City	93930
+7Th Street	La Verne	91750
+7Th Street	Livingston	95334
+7Th Street	Long Beach	90803
+7Th Street	Long Beach	90804
+7Th Street	Long Beach	90813
+7Th Street	Los Angeles	90005
+7Th Street	Los Angeles	90014
+7Th Street	Los Angeles	90017
+7Th Street	Los Angeles	90021
+7Th Street	Los Angeles	90023
+7Th Street	Manhattan Beach	90266
+7Th Street	Pacific Grove	93950
+7Th Street	San Fernando	91340
+7Th Street	Santa Monica	90401
+7Th Street	Santa Monica	90402
+7Th Street	Santa Monica	90403
+7Th Street	Santa Monica	90405
+7Th Street	Soledad	93960
+7Th Street	West Sacramento	95605
+7Th Street	West Sacramento	95691
+7Th Street	Whittier	90602
+7Th Street East	Lancaster	93535
+7Th Street West	Lancaster	93534
+7Th Street West	Palmdale	93551
+7Th W St	Pittsburg	94565
+7The Dr	Kingsburg	93631

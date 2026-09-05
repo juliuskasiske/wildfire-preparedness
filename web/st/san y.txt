@@ -1,0 +1,30 @@
+San Ynez Dr	Hemet	92543
+San Ysabel Dr	Desert Hot Springs	92240
+San Ysidro	Cathedral City	92234
+San Ysidro	Gilroy	95020
+San Ysidro Ave	Cathedral City	92234
+San Ysidro Ave	Gilroy	95020
+San Ysidro Avenue	Valencia	91355
+San Ysidro Blvd	San Diego	92173
+San Ysidro Blvd	San Ysidro	0
+San Ysidro Blvd	San Ysidro	92173
+San Ysidro Cir	Buena Park	90620
+San Ysidro Cir	Palm Desert	92260
+San Ysidro Ct	Danville	94526
+San Ysidro Ct	Ventura	93003
+San Ysidro Drive	Beverly Hills	90210
+San Ysidro Lane	Acton	93510
+San Ysidro Ln	Bakersfield	93312
+San Ysidro Ln	Montecito	93108
+San Ysidro Ln	Nipomo	93444
+San Ysidro Rd	Montecito	93108
+San Ysidro St	Camarillo	93010
+San Ysidro St	Victorville	92392
+San Ysidro Way	Palmdale	93550
+San Ysidro Way	Sacramento	95864
+San Ysidro Way	Salinas	93901
+San Ysidro Way	San Jose	95111
+San Ysidro Way	Santa Clara	95051
+San Ysidro Wy	Santa Clara	95050
+San Ysidro Wy	Santa Clara	95051
+San Yuba Way	Buena Park	90620

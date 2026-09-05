@@ -1,0 +1,911 @@
+Apache	Topanga	90290
+Apache	Tustin	92782
+Apache Ave	Adelanto	92301
+Apache Ave	Bakersfield	93309
+Apache Ave	Barstow	92311
+Apache Ave	Salton City	92274
+Apache Ave	San Diego	92117
+Apache Ave	Thousand Oaks	91362
+Apache Ave	Ventura	93001
+Apache Ave	Yermo	92398
+Apache Cir	Oroville	95966
+Apache Cir	Palm Springs	92264
+Apache Cir	Thousand Oaks	91360
+Apache Circle	Salinas	93906
+Apache Court	Castaic	91384
+Apache Court	Penn Valley	95946
+Apache Creek Rd	Orange	92867
+Apache Ct	Antioch	94531
+Apache Ct	Camarillo	93010
+Apache Ct	Coarsegold	93614
+Apache Ct	Gilroy	95020
+Apache Ct	Lafayette	94549
+Apache Ct	Modesto	95350
+Apache Ct	Olympic Valley	96146
+Apache Ct	Paso Robles	93446
+Apache Ct	San Jose	95123
+Apache Ct	San Ramon	94583
+Apache Dr	Big River	92242
+Apache Dr	Buena Park	90620
+Apache Dr	Chula Vista	91910
+Apache Dr	Fort Irwin	92310
+Apache Dr	Julian	92036
+Apache Dr	Lake Forest	92630
+Apache Dr	Lake Forest	92630-3522
+Apache Dr	Lake Forest	92630-3523
+Apache Dr	Lake Forest	92630-3525
+Apache Dr	Lake Forest	92630-3526
+Apache Dr	Lake Forest	92630-3527
+Apache Dr	Lake Forest	92630-3528
+Apache Dr	Lake Forest	92630-3529
+Apache Dr	Lake Forest	92630-3530
+Apache Dr	Lake Forest	92630-3531
+Apache Dr	Lake Forest	92630-3532
+Apache Dr	Perris	92570
+Apache Dr	Pla	92870
+Apache Dr	Placentia	92870
+Apache Dr	Sanger	93657
+Apache Dr	Victorville	92394
+Apache Dr	Wagon Wheel	92679
+Apache Glen	Escondido	92027
+Apache Hill Cir	Menifee	92584
+Apache Hill Rd	Oroville	95966
+Apache Hill Rd	Palermo	95966
+Apache Lane	Carson	90745
+Apache Ln	Carson	90745
+Apache Ln	Chino Hills	91709
+Apache Ln	Modesto	95350
+Apache Ln	Paradise	95969
+Apache Ln	Redding	96003
+Apache Mountains St	Desert Hot Springs	92240
+Apache Pass	Pioneertown	92268
+Apache Pass	Rimrock	92268
+Apache Plume Court	Palmdale	93550
+Apache Plume Dr	Murrieta	92563
+Apache Plume Drive	Palmdale	93550
+Apache Plume Ln	Victorville	92394
+Apache Plume Street	Lancaster	93536
+Apache Ranch Rd	Ahwahnee	93601
+Apache Rd	Adelanto	92301
+Apache Rd	Apple Valley	92307
+Apache Rd	Coarsegold	93614
+Apache Rd	Indian Wells	92210
+Apache Rd	Palm Springs	92264
+Apache Rd	Perris	92570
+Apache Rd	Poway	92064
+Apache Rd	Westminster	92683
+Apache River Ave	Fountain Valley	92708
+Apache Road	Montague	96064
+Apache St	Indio	92203
+Apache St	Oceanside	92056
+Apache St	San Jacinto	92582
+Apache St	Santa Rosa	95403
+Apache Street	Merced	95348
+Apache Street	West Sacramento	95691
+Apache Tr	Clearlake Oaks	95423
+Apache Trail	Agoura Hills	91301
+Apache Trail	Chatsworth	91311
+Apache Trail	Los Gatos	95030
+Apache Trail	Nevada City	95959
+Apache Trail Dr	Lake Forest	92630
+Apache Trail Dr	Lake Forest	92630-5704
+Apache Trail Dr	Lake Forest	92630-5705
+Apache Trl	Apple Valley	92307
+Apache Trl	Arroyo Grande	93420
+Apache Trl	Cabazon	92230
+Apache Trl	Los Gatos	95030
+Apache Trl	Morongo Valley	92256
+Apache Trl	Rimforest	92378
+Apache Trl	Riverside	92507
+Apache Trl	Yucca Valley	92284
+Apache Way	Citrus Heights	95621
+Apache Way	Walnut	91789
+Apaloosa Way	Palm Desert	92211
+Apapas Ln	San Jacinto	92583
+Apapas Rd	Pala	92059
+Aparicio Way	Galt	95632
+Aparri Avenue	Castaic	91384
+Apartment Ln	Sacramento	95825
+Apatite Ave	Hesperia	92345
+Apatite Ave	Victorville	92395
+Apawamis Rd	Desert Hot Springs	92240
+Apel Ln	Huntington Beach	92649
+Apel Ln	Huntington Beach	92649-4601
+Apel Ln	Huntington Beach	92649-4602
+Apel Ln	Huntington Beach	92649-4603
+Apel Ln	Huntington Beach	92649-4604
+Apel Ln	Huntington Beach	92649-4605
+Apel Ln	Huntington Beach	92649-4606
+Apel Ln	Huntington Beach	92649-4661
+Apel Ln	Huntington Beach	92649-4662
+Apennines Cir	San Jose	95138
+Apennines St	Fort Irwin	92310
+Aperture Cir	San Diego	92108
+Apex Ave	Banning	92220
+Apex Avenue	Los Angeles	90026
+Apex Avenue	Los Angeles	90039
+Apex Cir	Huntington Beach	92647
+Apex Cir	Huntington Beach	92647-5728
+Apex Ct	Bakersfield	93312
+Apex Ct	Martinez	94553
+Apex Lane	Linda	95901
+Apex Loop	Folsom	95630
+Apex Pl	Escondido	92026
+Apex St	Banning	92220
+Apex Way	San Diego	92108
+Aphena Ave	Mission Viejo	92691
+Aphrodite	West Covina	91790
+Aphrodite Lane	Canyon Country	91351
+Aphrodite St	Bakersfield	93306
+Apia Dr	Cypress	90630
+Apiary Ct	Bakersfield	93313
+Apiary Drive	Davis	95616
+Apiary Way	Hughson	95326
+Apica Ave	Oroville	95966
+Apica Ct	Oroville	95966
+Apion Ct	Paso Robles	93446
+Apis Rd	Temecula	92592
+Apland Pl	Antelope	95843
+Aplicella Ct	Manteca	95337
+Aplin St	Highland	92346
+Aplite Ct	Citrus Heights	95610
+Apodaca Pl	Chico	95928
+Apolena Ave	Newport Beach	92662
+Apolena Way	Palmdale	93550
+Apollo	Hercules	94547
+Apollo	Mission Viejo	92691
+Apollo	West Covina	91790
+Apollo Avenue	Palmdale	93550
+Apollo Ci	Roseville	95661
+Apollo Cir	Los Alamitos	90720
+Apollo Court	Grass Valley	95949
+Apollo Court	Vallejo	94591
+Apollo Ct	Antioch	94509
+Apollo Ct	Folsom	95630
+Apollo Ct	La Quinta	92253
+Apollo Ct	Madera	93638
+Apollo Ct	Manteca	95336
+Apollo Ct	Menifee	92586
+Apollo Ct	Novato	94947
+Apollo Ct	San Jose	95121
+Apollo Ct	Seal Beach	90740
+Apollo Ct	Simi Valley	93065
+Apollo Ct	Walnut Creek	94598
+Apollo Dr	Barstow	92311
+Apollo Dr	Folsom	95630
+Apollo Dr	San Jose	95121
+Apollo Dr	Vista	92084
+Apollo Drive	Lake Hughes	93532
+Apollo Drive	Los Angeles	90046
+Apollo Heights Ct	Saratoga	95070
+Apollo Ln	Aguanga	92536
+Apollo Ln	Foster City	94404
+Apollo Ln	Huntington Beach	92647
+Apollo Ln	Huntington Beach	92647-2440
+Apollo Ln	Mountain View	94043
+Apollo Ln	Paradise	95969
+Apollo Ln	Redding	96003
+Apollo Pl	Santa Clara	95050
+Apollo Pl	Santa Clara	95051
+Apollo Pl	Windsor	95492
+Apollo Place	Gardena	90249
+Apollo Rd	Tiburon	94920
+Apollo St	Bakersfield	93306
+Apollo St	Brea	92821
+Apollo St	Redding	96002
+Apollo St	San Diego	92111
+Apollo St	San Francisco	94124
+Apollo Street	El Segundo	90245
+Apollo Way	Beaumont	92223
+Apollo Way	Desert Hot Springs	92241
+Apollo Way	Downey	90242
+Apollo Way	Hollister	95023
+Apollo Way	Pleasant Hill	94523
+Apollo Way	Santa Rosa	95407
+Apollo Way	Saratoga	95070
+Apollo Way	Sebastopol	95472
+Apollo Way	Sunnyvale	94085
+Apollo Wy	Vandenberg Village	93436
+Apolonia	Imperial	92251
+Apolonia Dr	Imperial	92251
+Apolonia Rd	Imperial	92251
+Apore St	La Mesa	91941
+Apostal Rd	Escondido	92025
+Apostle Ln	Riverside	92506
+Apostolic Lane	Salinas	93907
+Apostolic Ln	Salinas	93907
+Apostolo Cir	Sacramento	95824
+Apothic Way	Sacramento	95829
+App St	Jamestown	95327
+Appache Rd	Indian Wells	92210
+Appalachian	Claremont	91711
+Appalachian Av	Manteca	95337
+Appalachian Ave	Manteca	95337
+Appalachian Cir	Pla	92870
+Appalachian Cir	Placentia	92870
+Appalachian Ct	Thousand Oaks	91362
+Appalachian Dr	Martinez	94553
+Appalachian Dr	Perris	92570
+Appalachian Dr	Pleasant Hill	94523
+Appalachian Dr	Sacramento	95827
+Appalachian Drive	Castaic	91384
+Appalachian Pl	Chula Vista	91915
+Appalachian St	Chino	91710
+Appalachian St	Desert Hot Springs	92240
+Appalachian St	Fountain Valley	92708
+Appalachian Street	Soledad	93960
+Appalachian Way	Martinez	94553
+Appalachian Way	Redding	96001
+Appalachian Way	San Diego	92129
+Appalachians Way	Fontana	92337
+Appaloosa	Scotts Valley	95066
+Appaloosa Ave	Bakersfield	93314
+Appaloosa Ave	Hesperia	92345
+Appaloosa Ave	Jurupa Valley	92509
+Appaloosa Ave	Oakdale	95361
+Appaloosa Cir	Petaluma	94954
+Appaloosa Court	Atwater	95301
+Appaloosa Court	Fairfield	94533
+Appaloosa Court	Grass Valley	95949
+Appaloosa Court	Penn Valley	95946
+Appaloosa Ct	Alta Loma	91737
+Appaloosa Ct	Auburn	95603
+Appaloosa Ct	Canyon Lake	92587
+Appaloosa Ct	Chino	91710
+Appaloosa Ct	Coalinga	93210
+Appaloosa Ct	Folsom	95630
+Appaloosa Ct	Hollister	95023
+Appaloosa Ct	Modesto	95356
+Appaloosa Ct	Petaluma	94954
+Appaloosa Ct	Pinole	94564
+Appaloosa Ct	Rancho Cucamonga	91701
+Appaloosa Ct	Rancho Cucamonga	91737
+Appaloosa Ct	Santa Rosa	95401
+Appaloosa Ct	Santee	92071
+Appaloosa Ct	Victorville	92394
+Appaloosa Ct	Walnut Creek	94596
+Appaloosa Ct	Ybl	92886
+Appaloosa Ct	Yorba Linda	92886
+Appaloosa Dr	Folsom	95630
+Appaloosa Dr	Hemet	92545
+Appaloosa Dr	Lakeside	92040
+Appaloosa Dr	Paso Robles	93446
+Appaloosa Dr	Petaluma	94954
+Appaloosa Dr	San Jacinto	92582
+Appaloosa Dr	San Martin	95046
+Appaloosa Dr	Walnut Creek	94596
+Appaloosa Drive	Lancaster	93536
+Appaloosa Drive	Springville	93265
+Appaloosa Drive	Walnut	91789
+Appaloosa Lane	Palos Verdes Peninsula	90274
+Appaloosa Ln	Bell Canyon	91307
+Appaloosa Ln	Bloomington	92316
+Appaloosa Pl	Elk Grove	95624
+Appaloosa Pl	Rocklin	95677
+Appaloosa Place	Castaic	91384
+Appaloosa Place	Hornbrook	96044
+Appaloosa Ranch Court	Plumas Lake	95961
+Appaloosa Rd	Apple Valley	92308
+Appaloosa Rd	Heber	92249
+Appaloosa Rd	Lower Lake	95457
+Appaloosa Rd	Madera	93636
+Appaloosa Rd	San Diego	92131
+Appaloosa Road	Canyon Country	91387
+Appaloosa Road	Visalia	93292
+Appaloosa St	Brawley	92227
+Appaloosa St	Chino	91710
+Appaloosa St	Norco	92860
+Appaloosa Tr	Santa Maria	93455
+Appaloosa Trl	Big Bear City	92314
+Appaloosa Trl	Erwin Lake	92314
+Appaloosa Trl	Healdsburg	95448
+Appaloosa Trl	Orcutt	93455
+Appaloosa Trl	Pinole	94564
+Appaloosa Way	Antioch	94531
+Appaloosa Way	Arroyo Grande	93420
+Appaloosa Way	Atwater	95301
+Appaloosa Way	Fairfield	94533
+Appaloosa Way	Gonzales	93926
+Appaloosa Way	Hollister	95023
+Appaloosa Way	King City	93930
+Appaloosa Way	Los Altos Hills	94022
+Appaloosa Way	Montclair	91763
+Appaloosa Way	Navarro	 
+Appaloosa Way	Oceanside	92057
+Appaloosa Way	Redwood Valley	 
+Appaloosa Way	Sonora	95370
+Appaloosa Way	Sunland	91040
+Appalosa Ct	Tracy	95376
+Appalosa Wy	Tracy	95376
+Appalusa St	Brawley	92227
+Apparel Way	San Francisco	94124
+Appari Dr	Mission Viejo	92692
+Appel Ct	Folsom	95630
+Appelby Street	Venice	90291
+Appellate Ct	Carmichael	95608
+Appellation Ln	American Canyon	94503
+Appenzel Ln	Manteca	95337
+Appenzel Pl	Manteca	95337
+Apperly Way	Rancho Cordova	95670
+Appersett Lp	Roseville	95747
+Apperson Ct	Corcoran	93212
+Apperson Mine Rd	Mariposa	95338
+Apperson Pl	Santa Clara	95050
+Apperson Ridge Ct	San Jose	95148
+Apperson Ridge Dr	San Jose	95148
+Apperson Street	Sunland	91040
+Apperson Street	Tujunga	91042
+Appert Ct	San Diego	92111
+Appex Ave	Banning	92220
+Appey Way	Sonora	95370
+Appia Ct	Walnut Creek	94598
+Appian	Irvine	92602
+Appian Ave	Victorville	92395
+Appian Ct	Danville	94526
+Appian Ct	El Sobrante	94803
+Appian Ct	Martinez	94553
+Appian Dr	Rancho Cucamonga	91739
+Appian Dr	San Diego	92139
+Appian Knoll Ct	El Sobrante	94803
+Appian Ln	San Jose	95116
+Appian Rd	Carlsbad	92010
+Appian Village Ct	El Sobrante	94803
+Appian Village Dr	El Sobrante	94803
+Appian Way	Auburn	95603
+Appian Way	Camarillo	93010
+Appian Way	Carmichael	95608
+Appian Way	El Sobrante	94803
+Appian Way	Fairfield	94534
+Appian Way	Fontana	92337
+Appian Way	Indian Wells	92210
+Appian Way	Joshua Tree	92252
+Appian Way	Lomita	90717
+Appian Way	Long Beach	90803
+Appian Way	Long Beach	90814
+Appian Way	Los Angeles	90046
+Appian Way	Manteca	95337
+Appian Way	Mission Viejo	92691
+Appian Way	Montebello	90640
+Appian Way	Morgan Hill	95037
+Appian Way	Murrieta	92562
+Appian Way	Navarro	 
+Appian Way	North Tustin	92705
+Appian Way	Palm Desert	92211
+Appian Way	Pinole	94564
+Appian Way	Redding	96002
+Appian Way	Richmond	94803
+Appian Way	Riverside	92506
+Appian Way	San Carlos	94070
+Appian Way	San Jacinto	92583
+Appian Way	Santa Monica	90401
+Appian Way	Sebastopol	95472
+Appian Way	South San Francisco	94080
+Appian Way	Sunfair	92252
+Appian Way	Twentynine Palms	92277
+Appian Way	Ventura	93003
+Appian Way #A	El Sobrante	94803
+Appian Wy	Manteca	95337
+Applause Pl	San Jose	95134
+Apple	Aptos	95003
+Apple	Greenfield	93927
+Apple	Spring Valley	91977
+Apple Ave	Brawley	92227
+Apple Ave	Hayward	94541
+Apple Ave	Jurupa Valley	92509
+Apple Ave	Lemoore	93245
+Apple Ave	Patterson	95363
+Apple Ave	Rialto	92377
+Apple Ave	Ukiah	 
+Apple Ave	Unincorporated Alameda County	94541
+Apple Ave	Ventura	93004
+Apple Ave	Wrightwood	92397
+Apple Avenue	Bellflower	90706
+Apple Avenue	Grass Valley	95945
+Apple Avenue	Greenfield	93927
+Apple Avenue	Torrance	90501
+Apple Blossom	Watsonville	95076
+Apple Blossom Ct	Highland	92346
+Apple Blossom Ct	Menifee	92585
+Apple Blossom Ct	Santa Rosa	95403
+Apple Blossom Ct	Santee	92071
+Apple Blossom Ct	Sebastopol	95472
+Apple Blossom Dr	San Jose	95123
+Apple Blossom Ln	Apple Valley	92308
+Apple Blossom Ln	Campbell	95008
+Apple Blossom Ln	Corona	92881
+Apple Blossom Ln	Lake Elsinore	92530
+Apple Blossom Ln	Los Gatos	95032
+Apple Blossom Ln	Manteca	95337
+Apple Blossom Ln	Moreno Valley	92553
+Apple Blossom Ln	Sebastopol	95472
+Apple Blossom Ln	Templeton	93465
+Apple Blossom Ln	Tuolumne	95379
+Apple Blossom Ln	Turlock	95382
+Apple Blossom Ln	Vista	92084
+Apple Blossom Way	Carmichael	95608
+Apple Blossom Way	Grass Valley	95945
+Apple Blossom Way	Hemet	92545
+Apple Blossom Way	Oceanside	92058
+Apple Blossom Way	San Jacinto	92583
+Apple Blossom Way	Santa Rosa	95403
+Apple Blossom Wy	Stockton	95209
+Apple Brook Way	Elk Grove	95624
+Apple Canyon Ln	Riverside	92503
+Apple Canyon Rd	Bakersfield	93306
+Apple Canyon Rd	Beaumont	92223
+Apple Canyon Rd	Mountain Center	92561
+Apple Cir	Hanford	93230
+Apple Colony Rd	Tuolumne	95379
+Apple Court	Pike	95960
+Apple Court	Pomona	91767
+Apple Court	Woodland	95776
+Apple Cove Ct	Sacramento	95828
+Apple Creek Dr	Paradise	95969
+Apple Creek Dr	Perris	92571
+Apple Creek Dr	Victorville	92395
+Apple Creek Lane	Hacienda Heights	91745
+Apple Creek Ln	Santa Rosa	95401
+Apple Creek Ln	Yorba Linda	92886
+Apple Creek Rd	Menifee	92586
+Apple Ct	Applegate	95703
+Apple Ct	Concord	94518
+Apple Ct	Corona	92883
+Apple Ct	Crescent City	95531
+Apple Ct	Fontana	92336
+Apple Ct	Hollister	95023
+Apple Ct	Holtville	92250
+Apple Ct	Indio	92201
+Apple Ct	Madera	93638
+Apple Ct	Simi Valley	93065
+Apple Dr	Brea	92821
+Apple Dr	Chino	91710
+Apple Dr	Concord	94518
+Apple Farm Ct	Bakersfield	93307
+Apple Farm Ln	Salida	95368
+Apple Gate Dr	Fontana	92337
+Apple Gate Rd	Murrieta	92563
+Apple Gln	Escondido	92025
+Apple Grey Ct	Rocklin	95765
+Apple Grey Ln	Rocklin	95765
+Apple Grove Av	Lathrop	95330
+Apple Grove Ct	Eastvale	92880
+Apple Grove Ct	San Jose	95135
+Apple Grove Lane	Sylmar	91342
+Apple Grove Ln	Santa Barbara	93105
+Apple Grove Ln	Santa Barbara Unincorporated	93105
+Apple Grove Way	Rancho Cordova	95670
+Apple Hill	Los Gatos	95030
+Apple Hill	Los Gatos	95033
+Apple Hill Cir	Berry Creek	95916
+Apple Hill Dr	Brentwood	94513
+Apple Hill Dr	Sonora	95370
+Apple Hill Rd	Modesto	95355
+Apple Hill Ter	Brentwood	94513
+Apple Hollow Lp	Roseville	95747
+Apple Julianna Court	Grass Valley	95945
+Apple Knoll	Boulder Creek	95006
+Apple Lane	Davis	95616
+Apple Lane	Los Banos	93635
+Apple Lane	Oregon House	95962
+Apple Lane	Yreka	96097
+Apple Ln	Anza	92539
+Apple Ln	Auburn	95603
+Apple Ln	Clearlake Oaks	95423
+Apple Ln	Fontana	92336
+Apple Ln	Holtville	92250
+Apple Ln	Julian	92036
+Apple Ln	Oxnard	93036
+Apple Ln	Paradise	95969
+Apple Ln	Rancho Cucamonga	91737
+Apple Ln	Redding	96002
+Apple Ln	Redway	95542
+Apple Ln	Rohnert Park	94928
+Apple Ln	Santa Rosa	95407
+Apple Ln	Turlock	95380
+Apple Mill Dr	Elk Grove	95624
+Apple Moss Ct	Eastvale	92880
+Apple Orchard Ct	Rancho Cordova	95670
+Apple Orchard Dr	Yorba Linda	92886
+Apple Orchard Lane	Nevada City	95959
+Apple Orchard Ln	Burney	96013
+Apple Orchard Ln	Riverside	92506
+Apple Orchard Ln	San Luis Obispo	93405
+Apple Orchard Way	Half Moon Bay	94019
+Apple Park Way	Cupertino	95014
+Apple Pear Ct	Elk Grove	95624
+Apple Pie Ridge Road	Big Sur	93920
+Apple Pl	Pittsburg	94565
+Apple Rd	Anza	92539
+Apple Rd	Templeton	93465
+Apple Rd	Wilton	95693
+Apple Seed Ln	Mariposa	95338
+Apple St	Bakersfield	93307
+Apple St	Fountain Valley	92708
+Apple St	Huron	93234
+Apple St	Madera	93638
+Apple St	Oceanside	92054
+Apple St	Spring Valley	91977
+Apple Street	Dunsmuir	96025
+Apple Street	Greenfield	93927
+Apple Street	Los Angeles	90016
+Apple Street	Newhall	91321
+Apple Ter	San Jose	95111
+Apple Tree	Irvine	92612
+Apple Tree Ct	Madera	93637
+Apple Tree Ct	Orangevale	95662
+Apple Tree Ct	Sonoma	95476
+Apple Tree Dr	Madera	93637
+Apple Tree Dr	San Diego	92124
+Apple Tree Dr	Tustin	92780
+Apple Tree Lane	Fairfield	94533
+Apple Tree Ln	Beaumont	92223
+Apple Tree Ln	Cupertino	95014
+Apple Tree Ln	Hemet	92545
+Apple Tree Ln	Meadow Vista	95722
+Apple Tree Ln	Skyforest	92385
+Apple Tree Pl	Upland	91784
+Apple Tree Rd	Big Bear Lake	92315
+Apple Tree St	Hemet	92545
+Apple Tree Way	Gilroy	95020
+Apple Tree Way	Orcutt	93455
+Apple Tree Way	San Bernardino	92408
+Apple Tree Wy	Orcutt	93455
+Apple Valley	Scotts Valley	95066
+Apple Valley	Watsonville	95076
+Apple Valley Court	Atwater	95301
+Apple Valley Ct	Bakersfield	93312
+Apple Valley Ct	Fair Oaks	95628
+Apple Valley Dr	San Jose	95125
+Apple Valley Dr	Sonora	95370
+Apple Valley Ln	Cohasset	95973
+Apple Valley Ln	Eureka	95503
+Apple Valley Ln	Freshwater	95503
+Apple Valley Ln	Santa Rosa	95403
+Apple Valley Rd	Apple Valley	92307
+Apple Valley Rd	Apple Valley	92308
+Apple Valley Rd	Sonoma	95476
+Apple Valley & Seneca Rd NE	Apple Valley	92307
+Apple Valley & Us Hwy 18 SE	Apple Valley	92307
+Apple View Way	Paradise	95969
+Apple Vista Dr	Wrightwood	92397
+Apple Vly	Irvine	92602
+Apple Way	Brawley	92227
+Apple Way	Nuevo	92567
+Apple Way	Twain Harte	95383
+Apple White Rd	San Bernardino	92407
+Apple Wy	Roseville	95747
+Appleberry Ct	Corona	92883
+Appleberry Dr	San Rafael	94903
+Appleblossom Ct	Santee	92071
+Appleblossom Dr	Bakersfield	93309
+Appleblossom Ln	Moreno Valley	92553
+Appleblossom Street	La Puente	91744
+Applebrook Ct	Tracy	95377
+Appleby Ct	Moreno Valley	92553
+Appleby Ct	Poway	92064
+Appleby Dr	Huntington Beach	92648
+Appleby Dr	Huntington Beach	92648-1405
+Appleby Dr	Huntington Beach	92648-1406
+Appleby Ln	Poway	92064
+Appleby St	Corona	92881
+Appleby Street	Downey	90240
+Appleby Way	Citrus Heights	95621
+Applecart Ct	Wildomar	92595
+Applecreek Ct	Bakersfield	93313
+Applecross Avenue	Azusa	91702
+Applecross Ct	Folsom	95630
+Applecross Dr	Riverside	92507
+Applecross Ln	Huntington Beach	92648
+Applecross Ln	Huntington Beach	92648-3720
+Applecross Ln	Huntington Beach	92648-3721
+Applecross Ln	Huntington Beach	92648-3751
+Applecross Ln	Huntington Beach	92648-3752
+Applecross Ln	Ybl	92887
+Applecross Ln	Yorba Linda	92887
+Appledale Avenue	Whittier	90606
+Applefield Drive	Whittier	90601
+Applefield Lane	Topanga	90290
+Applefield St	Thousand Oaks	91320
+Applegarth Ln	Antioch	94509
+Applegate Cir	Corona	92882
+Applegate Court	Santa Clarita	91390
+Applegate Court	Vacaville	95687
+Applegate Ct	Murrieta	92562
+Applegate Ct	Rancho Cucamonga	91739
+Applegate Ct	Riverside	92508
+Applegate Ct	San Jose	95119
+Applegate Ct	Tracy	95376
+Applegate Dr	Corona	92882
+Applegate Dr	Modesto	95350
+Applegate Dr	Oakdale	95361
+Applegate Dr	Sacramento	95826
+Applegate Dr	San Jose	95119
+Applegate Drive	Happy Camp	96039
+Applegate Lane	West Sacramento	95691
+Applegate Ln	Chino Hills	91709
+Applegate Ln	Durham	95938
+Applegate Ln	Oakley	94561
+Applegate Rd	Applegate	95703
+Applegate Rd	Auburn	95603
+Applegate Rd	Landers	92285
+Applegate Rd	Murrieta	92563
+Applegate Road	Atwater	95301
+Applegate Road	Merced	95301
+Applegate School Rd	Applegate	95703
+Applegate St	Chula Vista	91913
+Applegate St	Hayward	94545
+Applegate St	Murrieta	92563
+Applegate St	Ontario	91762
+Applegate Terrace	Chatsworth	91311
+Applegate Way	Arroyo Grande	93420
+Applegate Way	Landers	92285
+Applegate Way	Twentynine Palms	92277
+Appleglen Ct	Moorpark	93021
+Appleglen Dr	Irvine	92602
+Appleglen St	Antioch	94531
+Applehurst Way	Elk Grove	95758
+Applejack Drive	Grass Valley	95949
+Applejack Way	Santa Rosa	95407
+Appleleaf Ln	Manteca	95336
+Applenut Lane	Vallejo	94591
+Appleridge Dr	Encinitas	92024
+Appleridge Ln	Sebastopol	95472
+Appleridge Place	Fairfield	94534
+Applesbury Ct	Rancho Cordova	95742
+Appleseed Ln	Hemet	92544
+Appleseed Way	Sebastopol	95472
+Applestill Rd	El Centro	92243
+Appleton	Aptos	95003
+Appleton	Irvine	92602
+Appleton Ave	San Francisco	94110
+Appleton Ct	Carmichael	95608
+Appleton Ct	Oceanside	92057
+Appleton Ct	Stockton	95219
+Appleton Dr	Idyllwild	92549
+Appleton Dr	San Jose	95117
+Appleton Dr	Simi Valley	93065
+Appleton Rd	Simi Valley	93065
+Appleton Rd	Victorville	92392
+Appleton Road	Crowley Lake	93546
+Appleton St	Hesperia	92345
+Appleton St	Phelan	92371
+Appleton St	Riverside	92504
+Appleton St	San Diego	92117
+Appleton St	San Francisco	94129
+Appleton St	Victorville	92392
+Appleton Street	Grass Valley	95945
+Appleton Street	Los Angeles	90039
+Appleton Way	Bakersfield	93311
+Appleton Way	Ceres	95351
+Appleton Way	Los Angeles	90066
+Appleton Way	Perris	92570
+Appleton Way	Pomona	91767
+Appleton Way	Sonoma	95476
+Appleton Way	Venice	90291
+Appleton Wy	Stockton	95219
+Appletree	Mission Viejo	92692
+Appletree Ave	Camarillo	93012
+Appletree Cir	Murrieta	92563
+Appletree Court	Cerritos	90703
+Appletree Ct	Camarillo	93012
+Appletree Dr	Perris	92571
+Appletree Dr	Santa Rosa	95403
+Appletree Ln	Alamo	94507
+Appletree Ln	Bakersfield	93309
+Appletree Ln	Hollister	95023
+Appletree Ln	Mountain View	94040
+Appletree Ln	Victorville	92395
+Appletree St	Hemet	92545
+Appleway	Brawley	92227
+Applewhite Rd	Lytle Creek	92407
+Applewhite Rd	San Bernardino	92407
+Applewilde Dr	San Marcos	92078
+Applewine Rd	Shaver Lake	93664
+Applewood	Boulder Creek	95006
+Applewood Ave	Fontana	92336
+Applewood Cir	Fullerton	92833
+Applewood Cir	Huntington Beach	92646
+Applewood Cir	Huntington Beach	92646-1855
+Applewood Cir	Huntington Beach	92646-1856
+Applewood Cir	Huntington Beach	92646-1857
+Applewood Cir	Huntington Beach	92646-1858
+Applewood Cir	Huntington Beach	92646-1859
+Applewood Cir	Huntington Beach	92646-1860
+Applewood Cir	Huntington Beach	92646-1861
+Applewood Cir	Huntington Beach	92646-1862
+Applewood Cmn	Brentwood	94513
+Applewood Ct	Lake Elsinore	92530
+Applewood Ct	Lathrop	95330
+Applewood Ct	Murrieta	92563
+Applewood Ct	Napa	94558
+Applewood Ct	Orangevale	95662
+Applewood Ct	San Diego	92131
+Applewood Ct	San Juan Capistrano	92675
+Applewood Dr	El Cajon	92021
+Applewood Dr	Lodi	95242
+Applewood Dr	Mentone	92359
+Applewood Dr	Rancho Cucamonga	91730
+Applewood Dr	San Jose	95129
+Applewood Dr	San Ramon	94582
+Applewood Drive	Fairfield	94534
+Applewood Lane	Castaic	91384
+Applewood Lane	Nevada City	95959
+Applewood Ln	Camarillo	93012
+Applewood Ln	Hesperia	92344
+Applewood Ln	Portola Valley	94028
+Applewood Ln	Sebastopol	95472
+Applewood Ln	Vista	92081
+Applewood Ln	Yucaipa	92399
+Applewood Pl	Murrieta	92562
+Applewood Rd	Apple Valley	92308
+Applewood Rd	Honeydew	95542
+Applewood St	Chino	91708
+Applewood St	Hemet	92544
+Applewood St	Highland	92346
+Applewood Street	Tulare	93274
+Applewood Way	Lake Elsinore	92530
+Applewood Way	Modesto	95355
+Applewood Wy	Lathrop	95330
+Appley Way	Los Gatos	95032
+Appley Way	San Jose	95124
+Appling Ave	Pla	92870
+Appling Ave	Placentia	92870
+Appling Ci	Stockton	95209
+Appolinaris Dr	Ukiah	 
+Appollo Ct	Napa	94559
+Appollo Way	Sacramento	95822
+Appolon Dr	Rancho Cordova	95742
+Appomatox Ct	Rancho Cucamonga	91737
+Appomattox	Irvine	92620
+Appomattox St	Fort Irwin	92310
+Appomattox Way	Carmichael	95608
+Apprentice Ct	Sacramento	95817
+Approach Ave	Chino	91708
+Approach Ct	Fair Oaks	95628
+Approach Rd	San Diego	92154
+Appy Ridge Way	Elk Grove	95757
+Appy Way	Arroyo Grande	93420
+Apra Street	Compton	90220
+Aprender St	Rancho Mission Viejo	92694
+Aprica Pl	San Diego	92131
+Apricot Ave	Brea	92821
+Apricot Ave	Campbell	95008
+Apricot Ave	Chino	91708
+Apricot Ave	Fontana	92337
+Apricot Ave	Nuevo	92567
+Apricot Ave	Oak View	93022
+Apricot Ave	Patterson	95363
+Apricot Ave	Rancho Cucamonga	91701
+Apricot Ave	Rancho Cucamonga	91737
+Apricot Avenue	Winters	95694
+Apricot Cir	Fountain Valley	92708
+Apricot Cir	Hayward	94541
+Apricot Circle	Vacaville	95688
+Apricot Court	Atwater	95301
+Apricot Court	Dixon	95620
+Apricot Court	Los Banos	93635
+Apricot Ct	Chula Vista	91915
+Apricot Ct	Hesperia	92345
+Apricot Ct	Pittsburg	94565
+Apricot Ct	San Rafael	94903
+Apricot Dr	Irvine	92618
+Apricot Drive	Palmdale	93550
+Apricot Hl	Saratoga	95070
+Apricot Lane	Beverly Hills	90210
+Apricot Lane	Dixon	95620
+Apricot Lane	Pomona	91767
+Apricot Lane	Royal Oaks	95076
+Apricot Ln	Concord	94518
+Apricot Ln	Garden Grove	92840
+Apricot Ln	Hemet	92543
+Apricot Ln	Hollister	95023
+Apricot Ln	Indio	92201
+Apricot Ln	Los Gatos	95030
+Apricot Ln	Madera	93637
+Apricot Ln	Mountain View	94040
+Apricot Ln	Oxnard	93033
+Apricot Ln	Palm Desert	92211
+Apricot Ln	Riverside	92506
+Apricot Ln	Santa Rosa	95407
+Apricot Ln	Spring Valley	91977
+Apricot Ln	Westminster	92683
+Apricot Ln	Wildomar	92595
+Apricot Ln	Wilton	95693
+Apricot Pl	Corona	92879
+Apricot Place	Santa Clarita	91390
+Apricot Rd	Simi Valley	93063
+Apricot St	Banning	92220
+Apricot St	Nipomo	93444
+Apricot St	Oak View	93022
+Apricot St	Simi Valley	93063
+Apricot St	Tustin	92782
+Apricot Street	Greenfield	93927
+Apricot Street	Live Oak	95953
+Apricot Street	Lynwood	90262
+Apricot Terrace	Davis	95618
+Apricot Tree Ct	Elk Grove	95624
+Apricot Tree Ln	Eastvale	92880
+Apricot Tree Ln	Spring Valley	91977
+Apricot Tree Pl	Upland	91784
+Apricot Tree Rd	Winchester	92596
+Apricot Tree Way	Oceanside	92058
+Apricot Way	Brentwood	94513
+Apricot Way	Carson	90746
+Apricot Way	Gilroy	95020
+Apricot Way	Nuevo	92567
+Apricot Way	San Jose	95133
+Apricot Woods Way	Elk Grove	95624
+April Ann Ave	Bakersfield	93312
+April Ave	Hesperia	92345
+April Ave	South San Francisco	94080
+April Avenue	Winton	95388
+April Cir	Armona	93202
+April Court	Lomita	90717
+April Court	Vacaville	95687
+April Court	Vallejo	94591
+April Ct	Modesto	95354
+April Ct	Moreno Valley	92551
+April Ct	Oroville	95966
+April Ct	Pleasant Hill	94523
+April Dawn Way	Fontana	92336
+April Dr	Huntington Beach	92648
+April Dr	Huntington Beach	92648-3713
+April Dr	Huntington Beach	92648-3775
+April Dr	Riverside	92503
+April Dr	San Jose	95138
+April Dr	Temecula	92591
+April Lane	Tujunga	91042
+April Lane	Yuba City	95991
+April Leigh Ter	San Diego	92126
+April Ln	Banning	92220
+April Ln	Mountain View	94040
+April Ln	Palo Cedro	96073
+April Ln	Santa Paula	93060
+April Pl	Manteca	95336
+April Pl	Mountain View	94040
+April Rd	Riverside	92503
+April Road	Agoura Hills	91301
+April Shower Dr	Riverside	92503
+April St	Bakersfield	93309
+April St	Orangevale	95662
+April Way	Campbell	95008
+April Way	Manteca	95336
+April Way	West Covina	91792
+April Wy	Manteca	95336
+Aprilla	Irvine	92614
+Aprilsong Ct	San Jose	95131
+Apron Avenue	Atwater	95301
+Apron Ln	Beaumont	92223
+Apsis Ave	San Jose	95124
+Apsis Ct	San Jose	95124
+Apsley Ct	Bakersfield	93311
+Apsley Rd	North Tustin	92705
+Apsley Road	Palos Verdes Peninsula	90274
+Aptos	Aptos	95003
+Aptos Ave	San Francisco	94127
+Aptos Ave	San Jose	95111
+Aptos Avenue	Hacienda Heights	91745
+Aptos Beach	Aptos	95003
+Aptos Beach Ct	San Jose	95139
+Aptos Cir	Citrus Heights	95610
+Aptos Court	Atwater	95301
+Aptos Creek	Aptos	95003
+Aptos Creek Court	Plumas Lake	95961
+Aptos Ct	San Ramon	94583
+Aptos Ct	Santa Rosa	95403
+Aptos Ct	Union City	94587
+Aptos Dr	Turlock	95382
+Aptos Hill	Aptos	95003
+Aptos Ln	Stockton	95206
+Aptos Pl	Danville	94526
+Aptos Rancho	Aptos	95003
+Aptos Ridge	Watsonville	95076
+Aptos School	Aptos	95003
+Aptos St	Riverside	92508
+Aptos View	Aptos	95003
+Aptos Village	Aptos	95003
+Aptos Way	San Ramon	94583
+Aptos Way	South San Francisco	94080
+Aptos Wharf	Aptos	95003
+Apuesto Way	Coto De Caza	92679
+Apulia Court	Porter Ranch	91326

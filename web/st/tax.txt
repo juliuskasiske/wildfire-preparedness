@@ -1,0 +1,6 @@
+Taxco Ct	Camarillo	93010
+Taxco Ct	Chula Vista	91910
+Taxco Dr	Dana Point	92629
+Taxco St	Coachella	92236
+Taxco Way	Coachella	92236
+Taxiway	Paso Robles	93446

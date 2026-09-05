@@ -1,0 +1,252 @@
+Lee	Calexico	92231
+Lee	Imperial	92251
+Lee	Irvine	92620
+Lee	Santa Cruz	95060
+Lee	Watsonville	95076
+Lee Ann Cir	San Jacinto	92582
+Lee Ann Ct	San Luis Obispo	93401
+Lee Ann Dr	Eureka	95503
+Lee Ann Ln	Menifee	92584
+Lee Anne Ln	Menifee	92584
+Lee Av	Stockton	95206
+Lee Ave	Adelanto	92301
+Lee Ave	Calexico	92231
+Lee Ave	Escondido	92027
+Lee Ave	Half Moon Bay	94019
+Lee Ave	La Mesa	91941
+Lee Ave	La Mesa	91942
+Lee Ave	Napa	94559
+Lee Ave	Newman	95360
+Lee Ave	San Diego	92109
+Lee Ave	San Francisco	94112
+Lee Ave	Turlock	95380
+Lee Avenue	Arcadia	91006
+Lee Avenue	Claremont	91711
+Lee Avenue	East Garrison	93933
+Lee Avenue	Gustine	95322
+Lee Avenue	South El Monte	91733
+Lee Barr Rd	Lower Lake	95457
+Lee Bert Way	Crestline	92325
+Lee Brook Way	Sacramento	95838
+Lee Chemical Dr	Cadiz	92319
+Lee Cir	Calexico	92231
+Lee Cir	Chula Vista	91911
+Lee Cir	Hanford	93230
+Lee Cir	Huntington Beach	92647
+Lee Cir	Huntington Beach	92647-6208
+Lee Circle	Rosemead	91770
+Lee Court	Stevenson Ranch	91381
+Lee Court	Woodland	95776
+Lee Creek Drive	Diamond Bar	91765
+Lee Ct	Carlsbad	92008
+Lee Ct	Chino	91710
+Lee Ct	Clearlake Oaks	95423
+Lee Ct	Fortuna	95540
+Lee Ct	San Diego	92106
+Lee Ct	Shelter Cove	95589
+Lee Ct	Sonoma	95476
+Lee Dr	Bakersfield	93304
+Lee Dr	Buena Park	90620
+Lee Dr	Calexico	92231
+Lee Dr	Citrus Heights	95610
+Lee Dr	Cypress	90630
+Lee Dr	Escondido	92027
+Lee Dr	Jenner	95450
+Lee Dr	Joshua Tree	92252
+Lee Dr	Los Gatos	95033
+Lee Dr	Menlo Park	94025
+Lee Dr	Mountain View	94040
+Lee Dr	Perris	92570
+Lee Dr	Sacramento	95815
+Lee Dr	Santa Barbara	93110
+Lee Dr	Twentynine Palms	92277
+Lee Dr	Vista	92083
+Lee Dr	Westminster	92683
+Lee Drive	Azusa	91702
+Lee Drive	Glendale	91201
+Lee Drive	Woodland	95776
+Lee Lane	El Monte	91731
+Lee Lane	Nevada City	95959
+Lee Lane	South Gate	90280
+Lee Ln	Coachella	92236
+Lee Ln	Concord	94518
+Lee Ln	Eureka	95503
+Lee Ln	Garden Grove	92840
+Lee Ln	La Jolla	92037
+Lee Ln	Murrieta	92563
+Lee Ln	Nipton	92364
+Lee Pl	Oxnard	93035
+Lee Pl	Placentia	92870
+Lee Pl	San Jose	95131
+Lee Place	Pomona	91766
+Lee Rd	Alta	95701
+Lee Rd	Calexico	92231
+Lee Rd	Fall River Mills	96028
+Lee Rd	Imperial	92251
+Lee Rd	Lucerne	95458
+Lee Rd	Mcarthur	96056
+Lee Rd	Perris	92570
+Lee Road	Ballico	95303
+Lee Road	Cutler	93615
+Lee Road	Mammoth Lakes	93546
+Lee Road	Nicolaus	95659
+Lee Road	Snelling	95369
+Lee Road	Truckee	96161
+Lee Road	Winton	95388
+Lee School Cross Rd	Wilton	95693
+Lee School Rd	Wilton	95693
+Lee Spring Rd	Cobb	95426
+Lee St	Blythe	92225
+Lee St	Calexico	92231
+Lee St	Cypress	90630
+Lee St	Imperial	92251
+Lee St	Mill Valley	94941
+Lee St	Modesto	95354
+Lee St	Moreno Valley	92553
+Lee St	Nice	95464
+Lee St	Oroville	95965
+Lee St	Redding	96001
+Lee St	San Bernardino	92408
+Lee St	Santa Rosa	95404
+Lee St	Selma	93662
+Lee St	Simi Valley	93065
+Lee St	Upper Lake	95485
+Lee St	Walnut Creek	94595
+Lee Street	Los Angeles	90023
+Lee Street	Rosemead	91770
+Lee Street	Torrance	90503
+Lee Street	Vallejo	94590
+Lee Terrace Ct	San Jose	95127
+Lee Tr	Lucerne	95458
+Lee Trl	Aguanga	92536
+Lee View Ln	Redding	96003
+Lee Vining Avenue	Lee Vining	93541
+Lee Vining Intake Road	Lee Vining	93541
+Lee Way	Milpitas	95035
+Lee Way	San Diego	92126
+Lee Way	San Jose	95131
+Lee Way	Stanton	90680
+Lee Wy	Roseville	95661
+Leeann Ln	Encinitas	92024
+Leeanne Avenue	Yuba City	95993
+Leeanne Ln	Menifee	92584
+Leebe Avenue	Pomona	91768
+Leecrest Court	Nevada City	95959
+Leecrest Ln	Huntington Beach	92646
+Leecrest Ln	Huntington Beach	92646-3938
+Leecrest Ln	Huntington Beach	92646-3939
+Leedham Pl	Arroyo Grande	93420
+Leedom Dr	Highland	92346
+Leedom Rd	Hughson	95326
+Leeds Ave	Cupertino	95014
+Leeds Ave	Simi Valley	93063
+Leeds Avenue	King City	93930
+Leeds Cir	Westminster	92683
+Leeds Court	Benicia	94510
+Leeds Ct	Auburn	95603
+Leeds Ct	Citrus Heights	95621
+Leeds Ct	Danville	94526
+Leeds Ct	Indio	92203
+Leeds Ct	Richmond	94806
+Leeds Dr	Auburn	95603
+Leeds Ln	Aliso Viejo	92656
+Leeds Ln	Goleta	93117
+Leeds Ln	Poway	92064
+Leeds Ln	Tracy	95377
+Leeds Rd	Copper Mountain	92252
+Leeds Rd	Joshua Tree	92252
+Leeds Road	Merced	95340
+Leeds St	Bakersfield	93311
+Leeds St	Simi Valley	93063
+Leeds St	Simi Valley	93065
+Leeds St	Winchester	92596
+Leeds Street	Downey	90242
+Leeds Street	Norwalk	90650
+Leeds Street	South Gate	90280
+Leeds Way	Covina	91722
+Leeds Way	Fort Bragg	 
+Leeds Way	Modesto	95356
+Leedy Avenue	Sylmar	91342
+Leedy Ln	Fair Oaks	95628
+Leek Rd	Empire	95357
+Leek Rd	Modesto	95357
+Leeland Way	Tustin	92782
+Leemans Way	Elk Grove	95757
+Leena Way	Temecula	92592
+Leepin Ln	Forestville	95436
+Leepish Dr	Oceanside	92058
+Leer Ct	Modesto	95356
+Leerae Ct	Turlock	95380
+Leeridge Terrace	Glendale	91206
+Lees Avenue	Long Beach	90808
+Lees Avenue	Long Beach	90815
+Lees Court	Merced	95340
+Lees Ln	Auburn	95603
+Lees Ln	Auburn	95658
+Lees Pl	Martinez	94553
+Lees Rd	Redwood Valley	 
+Leesa Ann Ct	San Jose	95124
+Leesburg	Irvine	92620
+Leesburg Court	Fairfield	94533
+Leesburg Pl	Stockton	95207
+Leesburg Way	Elk Grove	95624
+Leesbury Ct	Newport Beach	92660
+Leesbury Way	Rowland Heights	91748
+Leescott Avenue	Van Nuys	91406
+Leesdale Avenue	Harbor City	90710
+Leese	Salinas	93907
+Leese Drive	Salinas	93907
+Leese Drive Drive	Salinas	93907
+Leese Ln	Novato	94945
+Leese St	San Francisco	94110
+Leeseme Ln	Ceres	95351
+Leeson Ln	Corona	92879
+Leesville-Lodoga Rd	Stonyford	95936
+Leesville-Lodoga Rd	Stonyford	95979
+Leesville Rd	Maxwell	95955
+Leesville Rd	Williams	95987
+Leeta St	Bakersfield	93307
+Leete Ave	Santa Rosa	95404
+Leever Ln	Orangevale	95662
+Leeverlen Ct	Blue Lake	95525
+Leeves Road	Royal Oaks	95076
+Leeview Ct	Culver City	90232
+Leeward	Santa Cruz	95062
+Leeward Ave	Pismo Beach	93449
+Leeward Ave	San Marcos	92078
+Leeward Ave	Vista Del Mar	92274
+Leeward Avenue	Cerritos	90703
+Leeward Avenue	Los Angeles	90005
+Leeward Cir	Thousand Oaks	91361
+Leeward Court	Merced	95340
+Leeward Court	Vacaville	95687
+Leeward Court	Vallejo	94591
+Leeward Ct	Menifee	92584
+Leeward Ct	Oceanside	92054
+Leeward Ct	Roseville	95678
+Leeward Ct	San Jose	95122
+Leeward Dr	Dana Point	92629
+Leeward Dr	Huntington Beach	92646
+Leeward Dr	Huntington Beach	92646-6951
+Leeward Dr	Huntington Beach	92646-6952
+Leeward Dr	Huntington Beach	92646-6961
+Leeward Dr	Mecca	92254
+Leeward Dr	San Jose	95122
+Leeward Glen Rd	Lafayette	94549
+Leeward Ln	Foster City	94404
+Leeward Ln	Newport Beach	92660
+Leeward Pl	Pittsburg	94565
+Leeward Point Dr	Bakersfield	93312
+Leeward Rd	Belvedere	94920
+Leeward Rd	The Sea Ranch	95497
+Leeward St	Carlsbad	92011
+Leeward St	Hayward	94545
+Leeward Way	Lake Elsinore	92530
+Leeward Way	Moreno Valley	92555
+Leeward Way	Oxnard	93035
+Leeward Way	Pittsburg	94565
+Leeward Way	Sacramento	95831
+Leewill Ave	Rio Linda	95673
+Leewood Ct	Los Gatos	95032
+Leewood Pl	Concord	94521
+Leewood Way	Concord	94521

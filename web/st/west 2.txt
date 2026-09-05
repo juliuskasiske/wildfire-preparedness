@@ -1,0 +1,192 @@
+West 204Th Street	Torrance	90501
+West 204Th Street	Torrance	90502
+West 205Th Street	Torrance	90501
+West 206Th Street	Torrance	90501
+West 207Th Street	Torrance	90501
+West 208Th Street	Torrance	90501
+West 209Th Street	Torrance	90501
+West 209Th Street	Torrance	90502
+West 20Th Street	Lancaster	93536
+West 20Th Street	Long Beach	90806
+West 20Th Street	Long Beach	90810
+West 20Th Street	Los Angeles	90007
+West 20Th Street	Los Angeles	90016
+West 20Th Street	Los Angeles	90018
+West 20Th Street	Merced	95340
+West 20Th Street	San Pedro	90731
+West 20Th Street	San Pedro	90732
+West 20Th Street	Signal Hill	90755
+West 210Th Street	Torrance	90501
+West 210Th Street	Torrance	90502
+West 211Th Street	Torrance	90501
+West 212Th Street	Carson	90745
+West 212Th Street	Torrance	90501
+West 212Th Street	Torrance	90502
+West 213Th Place	Carson	90745
+West 213Th Street	Carson	90745
+West 213Th Street	Torrance	90501
+West 213Th Street	Torrance	90502
+West 214Th Street	Carson	90745
+West 214Th Street	Torrance	90501
+West 214Th Street	Torrance	90502
+West 215Th Street	Carson	90745
+West 215Th Street	Torrance	90501
+West 216Th Street	Carson	90745
+West 216Th Street	Torrance	90501
+West 216Th Street	Torrance	90502
+West 218Th Place	Carson	90745
+West 218Th Street	Carson	90745
+West 218Th Street	Torrance	90501
+West 219Th Place	Carson	90745
+West 219Th Street	Carson	90745
+West 219Th Street	Torrance	90501
+West 219Th Street	Torrance	90502
+West 21St Street	Long Beach	90806
+West 21St Street	Long Beach	90810
+West 21St Street	Los Angeles	90007
+West 21St Street	Los Angeles	90016
+West 21St Street	Los Angeles	90018
+West 21St Street	Merced	95340
+West 21St Street	San Pedro	90731
+West 21St Street	San Pedro	90732
+West 220Th Street	Carson	90745
+West 220Th Street	Torrance	90501
+West 220Th Street	Torrance	90502
+West 221St Street	Torrance	90501
+West 222Nd Street	Carson	90745
+West 222Nd Street	Torrance	90501
+West 222Nd Street	Torrance	90502
+West 223Rd Street	Carson	90745
+West 223Rd Street	Torrance	90501
+West 223Rd Street	Torrance	90502
+West 224Th Place	Carson	90745
+West 224Th Street	Carson	90745
+West 224Th Street	Torrance	90501
+West 225Th Street	Carson	90745
+West 225Th Street	Torrance	90501
+West 225Th Street	Torrance	90502
+West 226Th Place	Carson	90745
+West 226Th Street	Carson	90745
+West 226Th Street	Torrance	90501
+West 226Th Street	Torrance	90502
+West 226Th Street	Torrance	90505
+West 227Th Place	Torrance	90502
+West 227Th Street	Torrance	90501
+West 227Th Street	Torrance	90502
+West 228Th Street	Carson	90745
+West 228Th Street	Torrance	90501
+West 228Th Street	Torrance	90502
+West 229Th Place	Carson	90745
+West 229Th Street	Carson	90745
+West 229Th Street	Torrance	90502
+West 22Nd Place	Los Angeles	90007
+West 22Nd Place	Los Angeles	90018
+West 22Nd Street	Los Angeles	90007
+West 22Nd Street	Los Angeles	90018
+West 22Nd Street	Merced	95340
+West 22Nd Street	San Pedro	90731
+West 22Nd Street	San Pedro	90732
+West 230Th Street	Carson	90745
+West 231St Street	Carson	90745
+West 231St Street	Torrance	90501
+West 232Nd Place	Carson	90745
+West 232Nd Street	Carson	90745
+West 232Nd Street	Torrance	90502
+West 232Nd Street	Torrance	90505
+West 233Rd Street	Carson	90745
+West 234Th Place	Carson	90745
+West 234Th Street	Carson	90745
+West 235Th Street	Carson	90745
+West 235Th Street	Torrance	90505
+West 236Th Court	Carson	90745
+West 237Th Place	Torrance	90501
+West 237Th Street	Harbor City	90710
+West 237Th Street	Torrance	90501
+West 237Th Street	Torrance	90505
+West 238Th Street	Torrance	90501
+West 239Th Street	Torrance	90501
+West 23Rd Street	Long Beach	90806
+West 23Rd Street	Long Beach	90810
+West 23Rd Street	Los Angeles	90007
+West 23Rd Street	Los Angeles	90016
+West 23Rd Street	Los Angeles	90018
+West 23Rd Street	Merced	95340
+West 23Rd Street	San Pedro	90731
+West 23Rd Street	San Pedro	90732
+West 23Rd Street	Signal Hill	90755
+West 240Th Street	Harbor City	90710
+West 242Nd Street	Torrance	90505
+West 244Th Street	Torrance	90505
+West 246Th Street	Lomita	90717
+West 247Th Street	Lomita	90717
+West 24Th Street	Los Angeles	90007
+West 24Th Street	Los Angeles	90018
+West 24Th Street	Los Angeles	90034
+West 24Th Street	Merced	95340
+West 24Th Street	San Pedro	90731
+West 251St Street	Harbor City	90710
+West 253Rd Street	Harbor City	90710
+West 254Th Street	Harbor City	90710
+West 254Th Street	Lomita	90717
+West 255Th Street	Harbor City	90710
+West 256Th Street	Harbor City	90710
+West 257Th Street	Harbor City	90710
+West 259Th Street	Harbor City	90710
+West 25Th Helena Drive	Los Angeles	90049
+West 25Th Street	Long Beach	90806
+West 25Th Street	Long Beach	90810
+West 25Th Street	Los Angeles	90007
+West 25Th Street	Los Angeles	90018
+West 25Th Street	Los Angeles	90034
+West 25Th Street	Merced	95340
+West 25Th Street	San Pedro	90731
+West 25Th Street	San Pedro	90732
+West 260Th Street	Harbor City	90710
+West 261St Street	Harbor City	90710
+West 262Nd Street	Harbor City	90710
+West 262Nd Street	Palos Verdes Peninsula	90274
+West 26Th Place	Los Angeles	90018
+West 26Th Place	San Pedro	90731
+West 26Th Place	San Pedro	90732
+West 26Th Street	Merced	95340
+West 26Th Street	San Pedro	90731
+West 26Th Street	San Pedro	90732
+West 27Th Drive	San Pedro	90731
+West 27Th Place	San Pedro	90731
+West 27Th Street	Long Beach	90806
+West 27Th Street	Long Beach	90810
+West 27Th Street	Los Angeles	90007
+West 27Th Street	Los Angeles	90018
+West 27Th Street	Merced	95340
+West 27Th Street	San Pedro	90731
+West 27Th Street	San Pedro	90732
+West 28Th Street	Long Beach	90806
+West 28Th Street	Los Angeles	90007
+West 28Th Street	Los Angeles	90016
+West 28Th Street	Los Angeles	90018
+West 28Th Street	Merced	95340
+West 28Th Street	San Pedro	90731
+West 29Th Place	Los Angeles	90018
+West 29Th Place	San Pedro	90731
+West 29Th Street	Long Beach	90806
+West 29Th Street	Long Beach	90810
+West 29Th Street	Los Angeles	90007
+West 29Th Street	Los Angeles	90016
+West 29Th Street	Los Angeles	90018
+West 29Th Street	San Pedro	90731
+West 29Th Street	Signal Hill	90755
+West 2Nd Street	Azusa	91702
+West 2Nd Street	Benicia	94510
+West 2Nd Street	Claremont	91711
+West 2Nd Street	Dorris	96023
+West 2Nd Street	Los Angeles	90004
+West 2Nd Street	Los Angeles	90012
+West 2Nd Street	Los Angeles	90026
+West 2Nd Street	Los Angeles	90036
+West 2Nd Street	Los Angeles	90057
+West 2Nd Street	Los Angeles	90063
+West 2Nd Street	Merced	95341
+West 2Nd Street	Pomona	91766
+West 2Nd Street	San Dimas	91773
+West 2Nd Street	San Pedro	90731
+West 2Nd Street	San Pedro	90732

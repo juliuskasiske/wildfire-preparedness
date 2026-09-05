@@ -1,0 +1,170 @@
+East G Street	Benicia	94510
+East G Street	Wilmington	90744
+East Gable Lane	La Habra	90631
+East Gabriel Garcia Marquez Street	Los Angeles	90033
+East Gage Avenue	Bell Gardens	90201
+East Gage Avenue	Huntington Park	90255
+East Gage Avenue	Los Angeles	90001
+East Gage Avenue	Los Angeles	90003
+East Gage Avenue	Los Angeles	90040
+East Gage Avenue East	Los Angeles	90001
+East Gail Avenue	Tulare	93274
+East Gaillard Street	San Dimas	91773
+East Gale Avenue	Hacienda Heights	91745
+East Gale Avenue	Rowland Heights	91748
+East Galeano Street	Long Beach	90815
+East Gallarno Drive	Covina	91722
+East Gambier Street	Los Angeles	90032
+East Ganahl Street	Los Angeles	90033
+East Ganahl Street	Los Angeles	90063
+East Gannon Drive	Tulare	93274
+East Garden Avenue	Porterville	93257
+East Garden Court	Tulare	93274
+East Gardena Boulevard	Carson	90746
+East Gardena Boulevard	Gardena	90248
+East Garfield Avenue	Glendale	91204
+East Garfield Avenue	Glendale	91205
+East Garfield Avenue	Tulare	93274
+East Garford Street	Long Beach	90815
+East Garibaldi Avenue	San Gabriel	91775
+East Garnet Street	Los Angeles	90023
+East Garnet Way	Walnut	91789
+East Garrison Drive	East Garrison	93933
+East Garryanna Drive	Beale Afb	95903
+East Garvanza Avenue	Los Angeles	90042
+East Garvey Avenue	Monterey Park	91754
+East Garvey Avenue	Monterey Park	91755
+East Garvey Avenue	South El Monte	91733
+East Garvey Avenue North	West Covina	91790
+East Garvey Avenue North	West Covina	91791
+East Garvey Avenue South	Covina	91724
+East Garvey Avenue South	West Covina	91791
+East Garvey Street	Covina	91724
+East Gassen Place	Los Angeles	90065
+East Genevieve Street	Carson	90745
+East Gerald Avenue	Dinuba	93618
+East Gerard Avenue	Merced	95341
+East Ghent Street	Glendora	91740
+East Ghent Street	San Dimas	91773
+East Gibbons Avenue	Porterville	93257
+East Gibson Avenue	Porterville	93257
+East Gibson Road	Woodland	95776
+East Gillig Avenue	Los Angeles	90031
+East Gilman Street	Long Beach	90815
+East Giordano Street	La Puente	91744
+East Gladstone Street	Azusa	91702
+East Gladstone Street	Covina	91722
+East Gladstone Street	Glendora	91740
+East Gladstone Street	La Verne	91750
+East Gladstone Street	San Dimas	91773
+East Gladwick Street	Carson	90746
+East Gladwick Street	Compton	90220
+East Gladys Street	Compton	90221
+East Gleason Avenue	Los Angeles	90033
+East Gleason Avenue	Los Angeles	90063
+East Gleason Street	Los Angeles	90022
+East Gleason Street	Monterey Park	91755
+East Glen Cir	Modesto	95355
+East Glen Ellen Place	Los Angeles	90042
+East Glenalbyn Drive	Los Angeles	90065
+East Glenallen Lane	Altadena	91001
+East Glenarm Street	Pasadena	91105
+East Glenarm Street	Pasadena	91106
+East Glencoe Avenue	Compton	90221
+East Glencoe Street	Compton	90221
+East Glendon Way	Alhambra	91801
+East Glendon Way	San Gabriel	91776
+East Glenlyn Drive	Azusa	91702
+East Glenmuir Avenue	Los Angeles	90065
+East Glenn Avenue	Los Angeles	90023
+East Glenn Curtiss Street	Carson	90746
+East Glenoaks Boulevard	Glendale	91201
+East Glenoaks Boulevard	Glendale	91202
+East Glenoaks Boulevard	Glendale	91206
+East Glenoaks Boulevard	Glendale	91207
+East Glenwood Avenue	Tulare	93274
+East Gloria Street	West Covina	91792
+East Gobbi St	Ukiah	 
+East Gobbi St	Ukiah	95482
+East Gold Court	Beale Afb	95903
+East Gold Lane	Walnut	91789
+East Goldcrest Street	Long Beach	90815
+East Golden Bough Drive	Covina	91724
+East Golden Street	Compton	90221
+East Golden Way	Dinuba	93618
+East Golden West Avenue	Visalia	93292
+East Goldfield Avenue	Long Beach	90807
+East Goleta Court	Tulare	93274
+East Goodwick Drive	West Covina	91792
+East Goodwin Avenue	Los Angeles	90039
+East Gordon Street	Long Beach	90805
+East Goshen Avenue	Visalia	93292
+East Gossamer Street	Long Beach	90808
+East Grace Avenue	Inglewood	90301
+East Grace Avenue	La Habra	90631
+East Gracita Place	Los Angeles	90042
+East Grade Rd	Palomar Mountain	92060
+East Grade Rd	Santa Ysabel	92070
+East Gragmont Street	Covina	91722
+East Graham Place	Burbank	91502
+East Granada Street	Los Angeles	90042
+East Granada Street	Los Angeles	90065
+East Grand Avenue	Alhambra	91801
+East Grand Avenue	El Segundo	90245
+East Grand Avenue	Pomona	91766
+East Grand Avenue	Porterville	93257
+East Grand Avenue	Rosemead	91770
+East Grand Avenue	San Gabriel	91776
+East Grand Boulevard	Venice	90291
+East Grandveiw Avenue	Sierra Madre	91024
+East Grandview Avenue	Arcadia	91006
+East Grandview Avenue	Sierra Madre	91024
+East Granite Avenue	June Lake	93529
+East Grant Avenue	Winters	95694
+East Grant Road	Chowchilla	93610
+East Grant Street	Signal Hill	90755
+East Grant Street	Wilmington	90744
+East Graves Avenue	Monterey Park	91754
+East Graves Avenue	Monterey Park	91755
+East Graves Avenue	Rosemead	91770
+East Green Dr	Murrieta	92563
+East Green Street	Claremont	91711
+East Green Street	Pasadena	91101
+East Green Street	Pasadena	91105
+East Green Street	Pasadena	91106
+East Green Street	Pasadena	91107
+East Greendale Street	West Covina	91790
+East Greenhaven Street	Covina	91722
+East Greenhaven Street	Covina	91724
+East Greenleaf Boulevard	Compton	90220
+East Greenleaf Boulevard	Compton	90221
+East Greenmeadow Road	Long Beach	90808
+East Greenview Drive	Glendora	91741
+East Greenville Drive	West Covina	91790
+East Greenville Drive	West Covina	91791
+East Greenway Terrace	La Habra	90631
+East Greenwood Avenue	La Habra	90631
+East Greenwood Avenue	San Gabriel	91775
+East Grenora Way	Long Beach	90815
+East Grevilla Street	Pomona	91767
+East Greystone Avenue	Monrovia	91016
+East Grinnell Drive	Burbank	91501
+East Griswold Road	Covina	91722
+East Grove Avenue	Atwater	95301
+East Grove Avenue	Visalia	93291
+East Grove Avenue	Visalia	93292
+East Grove Court	Visalia	93292
+East Grove Hill Lane	La Mirada	90638
+East Grove Street	Farmersville	93223
+East Grove Street	Pomona	91767
+East Grovecenter Street	Covina	91722
+East Grovecenter Street	Covina	91723
+East Grovecenter Street	Covina	91724
+East Grovecenter Street	West Covina	91790
+East Grovecenter Street	West Covina	91791
+East Groverdale Street	Covina	91722
+East Groverdale Street	Covina	91724
+East Guess Street	Rosemead	91770
+East Guirado Street	Los Angeles	90023
+East Gulf Avenue	Carson	90745
+East Gum Avenue	Woodland	95776

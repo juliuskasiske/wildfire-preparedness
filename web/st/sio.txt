@@ -1,0 +1,40 @@
+Sioc St	Colusa	95932
+Sioux Ave	Clearlake	95422
+Sioux Ave	San Diego	92117
+Sioux Ave	Ventura	93001
+Sioux Ave	Yucca Valley	92284
+Sioux Cir	Riverside	92503
+Sioux Creek Dr	Bakersfield	93312
+Sioux Ct	Antelope	95843
+Sioux Ct	Apple Valley	92308
+Sioux Ct	City Of Shasta Lake	96019
+Sioux Ct	Kelseyville	95451
+Sioux Ct	Magalia	95954
+Sioux Ct	Simi Valley	93063
+Sioux Dr	City Of Shasta Lake	96003
+Sioux Dr	City Of Shasta Lake	96019
+Sioux Dr	Denair	95316
+Sioux Dr	Fawnskin	92333
+Sioux Dr	Indian Wells	92210
+Sioux Dr	Lake Forest	92630
+Sioux Dr	Lake Forest	92630-3541
+Sioux Dr	Lake Forest	92630-3542
+Sioux Dr	Lake Forest	92630-3543
+Sioux Dr	Perris	92570
+Sioux Ln	Los Altos	94022
+Sioux Ln	San Jose	95123
+Sioux Ln	San Ramon	94583
+Sioux Pl	Bakersfield	93312
+Sioux Rd	Apple Valley	92308
+Sioux Rd	Coarsegold	93614
+Sioux Rd	Perris	92570
+Sioux Rd	Westminster	92683
+Sioux River Cir	Fountain Valley	92708
+Sioux St	Colusa	95932
+Sioux St	Fontana	92336
+Sioux St	Santa Rosa	95403
+Sioux Trail	Camptonville	95922
+Sioux Trl	Big River	92242
+Sioux Trl	Los Gatos	95030
+Sioux Trl	Yucca Valley	92284
+Sioux Way	Portola Valley	94028

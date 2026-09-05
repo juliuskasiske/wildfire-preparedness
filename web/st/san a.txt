@@ -1,0 +1,331 @@
+San Abella Dr	Encinitas	92024
+San Acacio St	Bakersfield	93311
+San Adriano Ct	San Luis Obispo	93405
+San Adriano Way	Buena Park	90620
+San Alano Cir	Buena Park	90620
+San Alberto Way	San Diego	92114
+San Alejandro	San Diego	92154
+San Aleso Ave	San Francisco	94127
+San Aleso Ave	Sunnyvale	94085
+San Aleso Ave	Sunnyvale	94085-1410
+San Aleso Ave	Sunnyvale	94085-3508
+San Aleso Ct	Novato	94945
+San Aleso Ct	Santa Rosa	95409
+San Alfonso	San Diego	92154
+San Alfredo Cir	Buena Park	90620
+San Alfredo Cir	Fountain Valley	92708
+San Aliso Ct	Eastvale	92880
+San Almada Rd	Corona	92882
+San Alto Way	Buena Park	90620
+San Altos Cir	Citrus Heights	95621
+San Altos Pl	Lemon Grove	91945
+San Alvarado Cir	Corona	92882
+San Amadeo	Laguna Woods	92637
+San Amadeo Ct	Roseville	95747
+San Ambrosio	Rancho Santa Margarita	92688
+San Andrade Dr	Encinitas	92024
+San Andrea Ave	Madera	93637
+San Andreas	Desert Hot Springs	92240
+San Andreas	La Selva Bch	95076
+San Andreas	La Selva Beach	95076
+San Andreas	Salinas	93901
+San Andreas	Watsonville	95076
+San Andreas	Watsonville	A 950
+San Andreas Ave	Half Moon Bay	94019
+San Andreas Ave	San Jose	95118
+San Andreas Avenue	Los Angeles	90065
+San Andreas Court	Merced	95340
+San Andreas Ct	Concord	94518
+San Andreas Ct	Milpitas	95035
+San Andreas Ct	Modesto	95354
+San Andreas Ct	Sunnyvale	94086
+San Andreas Dr	Danville	94506
+San Andreas Dr	Menlo Park	94025
+San Andreas Dr	Milpitas	95035
+San Andreas Dr	Novato	94945
+San Andreas Dr	Rancho Cucamonga	91737
+San Andreas Rd	Joshua Tree	92252
+San Andreas Rd	Yucca Valley	92284
+San Andreas St	Adelanto	92301
+San Andreas St	Chula Vista	91913
+San Andreas St	Desert Hot Springs	92240
+San Andreas Street	Fairfield	94533
+San Andreas Trail	San Bruno	94066
+San Andreas Trail Parking2 Blvd	San Bruno	94019
+San Andreas Trl	San Bruno	94019
+San Andreas Valley Rd	Burlingame	94010
+San Andreas Valley Rd	Other	94010
+San Andreas Valley Rd	Other	94019
+San Andreas Valley Rd	San Mateo	94019
+San Andreas Way	Salinas	93901
+San Andreas Way	San Francisco	94127
+San Andreas Way	Vallejo	94589
+San Andres	Del Mar	92014
+San Andres	Rancho Santa Margarita	92688
+San Andres Ave	Atascadero	93422
+San Andres Ave	Cypress	90630
+San Andres Cir	Thousand Oaks	91360
+San Andres Dr	Del Mar	92014
+San Andres Dr	Hemet	92545
+San Andres Dr	Pittsburg	94565
+San Andres Dr	Solana Beach	92075
+San Andres Ln	Mission Viejo	92691
+San Andres St	Fountain Valley	92708
+San Andres St	Santa Barbara	93101
+San Andres St	Spring Valley	91977
+San Andres Way	Claremont	91711
+San Angelo	Foothill Ranch	92610
+San Angelo	Foothill Ranch	92610-0000
+San Angelo	Foothill Ranch	92610-1728
+San Angelo	Foothill Ranch	92610-1729
+San Angelo	Lake Forest	92610
+San Angelo	Rancho Santa Margarita	92688
+San Angelo Av	Santa Barbara Unincorporated	93111
+San Angelo Ave	Joshua Tree	92252
+San Angelo Ave	La Mesa	91942
+San Angelo Ave	Madera	93637
+San Angelo Ave	Simi Valley	93063
+San Angelo Ave	Westminster	92683
+San Angelo Avenue	La Puente	91746
+San Angelo Avenue	Montebello	90640
+San Angelo Court	Fairfield	94533
+San Angelo Ct	Citrus Heights	95621
+San Angelo Dr	Huntington Beach	92647
+San Angelo Dr	Huntington Beach	92647-7200
+San Angelo Dr	Huntington Beach	92647-7247
+San Angelo Dr	Huntington Beach	92647-7251
+San Angelo Dr	Huntington Beach	92647-7252
+San Angelo Dr	Huntington Beach	92647-7253
+San Angelo Dr	Huntington Beach	92647-7254
+San Angelo Dr	Huntington Beach	92647-7255
+San Angelo Dr	Huntington Beach	92647-7256
+San Angelo Dr	Huntington Beach	92647-7257
+San Angelo Dr	Huntington Beach	92647-7258
+San Angelo Dr	Huntington Beach	92647-7259
+San Angelo Dr	Huntington Beach	92647-7260
+San Angelo Dr	Huntington Beach	92647-7261
+San Angelo Dr	Huntington Beach	92647-7262
+San Angelo Dr	Huntington Beach	92647-7267
+San Angelo Dr	Huntington Beach	92647-7268
+San Angelo Dr	Huntington Beach	92647-7269
+San Angelo Dr	Huntington Beach	92647-7270
+San Angelo Dr	Huntington Beach	92647-7271
+San Angelo Dr	Huntington Beach	92647-7272
+San Angelo Dr	Huntington Beach	92647-7273
+San Angelo Dr	Huntington Beach	92647-7274
+San Angelo Dr	Huntington Beach	92647-7275
+San Angelo Dr	Huntington Beach	92647-7276
+San Angelo Dr	Huntington Beach	92647-7277
+San Angelo Dr	Huntington Beach	92647-7278
+San Angelo Dr	Huntington Beach	92647-7279
+San Angelo Dr	Huntington Beach	92647-7280
+San Angelo Dr	Huntington Beach	92647-7281
+San Angelo Dr	Huntington Beach	92647-7282
+San Angelo Dr	Huntington Beach	92647-7283
+San Angelo Dr	Huntington Beach	92647-7284
+San Angelo Dr	Huntington Beach	92647-7285
+San Angelo Dr	Huntington Beach	92647-7286
+San Angelo Dr	Huntington Beach	92647-7287
+San Angelo Dr	Huntington Beach	92647-7288
+San Angelo Dr	Huntington Beach	92647-7289
+San Angelo Dr	Huntington Beach	92647-7290
+San Angelo Dr	Huntington Beach	92647-7291
+San Angelo Dr	Huntington Beach	92647-7292
+San Angelo Dr	Huntington Beach	92647-7293
+San Angelo Dr	Huntington Beach	92647-7294
+San Angelo Dr	Huntington Beach	92647-7295
+San Angelo Dr	Huntington Beach	92647-7296
+San Angelo Dr	Huntington Beach	92647-7297
+San Angelo Dr	Huntington Beach	92647-9217
+San Angelo Dr	Huntington Beach	92647-9218
+San Angelo Dr	Huntington Beach	92647-9219
+San Angelo Dr	Huntington Beach	92647-9220
+San Angelo Dr	Huntington Beach	92647-9221
+San Angelo Drive	Claremont	91711
+San Angelo Drive	Salinas	93901
+San Angelo Drive Drive	Salinas	93901
+San Angelo Pl	Chula Vista	91914
+San Angelo Rd	Palm Springs	92262
+San Angelo St	Simi Valley	93063
+San Angelo Street	Fairfield	94533
+San Anseline Avenue	Lakewood	90713
+San Anseline Avenue	Long Beach	90808
+San Anseline Avenue	Long Beach	90815
+San Anselmo	Rancho Santa Margarita	92688
+San Anselmo Ave	Millbrae	94030
+San Anselmo Ave	Palm Desert	92260
+San Anselmo Ave	San Anselmo	94960
+San Anselmo Ave	San Bernardino	92410
+San Anselmo Ave	San Bruno	94066
+San Anselmo Ave	San Francisco	94127
+San Anselmo Avenue	South Gate	90280
+San Anselmo Court	Merced	95348
+San Anselmo Court	Plumas Lake	95961
+San Anselmo Dr	Big Bear City	92314
+San Anselmo Dr	Murrieta	92563
+San Anselmo Ln	Pla	92870
+San Anselmo Ln	Placentia	92870
+San Anselmo Ln	Roseville	95747
+San Anselmo Ln	Sacramento	95835
+San Anselmo Rd	Atascadero	93422
+San Anselmo St	Chula Vista	91913
+San Anselmo St	San Diego	92109
+San Anselmo Street	Fairfield	94533
+San Anselmo Way	San Jose	95119
+San Anselmo Way	Sunnyvale	94086
+San Anselo Wy	Santa Barbara Unincorporated	93111
+San Antero Pl	Santa Barbara Unincorporated	93111
+San Antonia Drive	King City	93930
+San Antonia St	Avila Beach	93424
+San Antonia Way	Valley Center	92082
+San Antonio	Carmel-By-The-Sea	93921
+San Antonio	Greenfield	93927
+San Antonio	King City	93930
+San Antonio	Newport Beach	92660
+San Antonio	Salinas	93901
+San Antonio	Soledad	93960
+San Antonio	Watsonville	95076
+San Antonio Ave	Berkeley	94707
+San Antonio Ave	Chino	91708
+San Antonio Ave	Chino	91710
+San Antonio Ave	Fullerton	92835
+San Antonio Ave	Palo Alto	94303
+San Antonio Ave	Palo Alto	94306
+San Antonio Ave	San Bruno	94066
+San Antonio Ave	San Diego	92106
+San Antonio Avenue	Carmel	93923
+San Antonio Avenue	Carmel By The Sea	93921
+San Antonio Avenue	Dinuba	93618
+San Antonio Avenue	La Mirada	90638
+San Antonio Avenue	Paramount	90723
+San Antonio Avenue	Pomona	91766
+San Antonio Avenue	Salinas	93901
+San Antonio Avenue	South Gate	90280
+San Antonio Cir	Daly City	94014
+San Antonio Cir	Mountain View	94040
+San Antonio Cir	Palm Desert	92260
+San Antonio Cir	Placentia	92870
+San Antonio Circle	Salinas	93901
+San Antonio Court	Fairfield	94533
+San Antonio Court	Merced	95348
+San Antonio Creek Rd	Mt Baldy	91759
+San Antonio Creek Rd	Santa Barbara Unincorporated	93111
+San Antonio Cres E	Upland	91784
+San Antonio Cres W	Upland	91784
+San Antonio Ct	Lompoc	93436
+San Antonio Ct	San Jose	95116
+San Antonio Ct	Santa Barbara Unincorporated	93111
+San Antonio Ct	Walnut Creek	94598
+San Antonio Dr	Buena Park	90620
+San Antonio Dr	Cathedral City	92234
+San Antonio Dr	Chico	95973
+San Antonio Dr	Colusa	95987
+San Antonio Dr	Corona	92882
+San Antonio Dr	Green Valley Lake	92341
+San Antonio Dr	King City	93930
+San Antonio Dr	Morgan Hill	95037
+San Antonio Dr	Rancho Cucamonga	91739
+San Antonio Dr	Rohnert Park	94928
+San Antonio Dr	Santa Rosa	95405
+San Antonio Dr	Stockton	95207
+San Antonio Dr	Walnut Creek	94598
+San Antonio Dr	Williams	95987
+San Antonio Drive	Greenfield	93927
+San Antonio Drive	King City	93930
+San Antonio Drive	Montebello	90640
+San Antonio Drive	Norwalk	90650
+San Antonio Drive	Palmdale	93550
+San Antonio Drive	Salinas	93901
+San Antonio Falls Tract	Mt Baldy	91759
+San Antonio Ln	Roseville	95747
+San Antonio Pl	San Diego	92106
+San Antonio Pl	San Francisco	94133
+San Antonio Pl	San Jose	95116
+San Antonio Pl	Santa Clara	95051
+San Antonio Pl	Santa Rosa	95405
+San Antonio Plaza	Long Beach	90807
+San Antonio Rd	Atascadero	93422
+San Antonio Rd	Livermore	94550
+San Antonio Rd	Lompoc	93436
+San Antonio Rd	Los Alamos	93440
+San Antonio Rd	Los Altos	94022
+San Antonio Rd	Mountain View	94040
+San Antonio Rd	Mountain View	94040-1216
+San Antonio Rd	Mountain View	94043
+San Antonio Rd	Novato	94945
+San Antonio Rd	Orcutt	93455
+San Antonio Rd	Palm Springs	92262
+San Antonio Rd	Palo Alto	94043
+San Antonio Rd	Palo Alto	94303
+San Antonio Rd	Palo Alto	94303-4613
+San Antonio Rd	Palo Alto	94306
+San Antonio Rd	Petaluma	94952
+San Antonio Rd	San Jose	95140
+San Antonio Rd	Santa Clara	95140
+San Antonio Rd	Ybl	 
+San Antonio Rd	Ybl	92886
+San Antonio Rd	Yorba Linda	92886
+San Antonio Road	Arcadia	91007
+San Antonio Road	Bradley	93426
+San Antonio Road	King City	93930
+San Antonio Rose Ct	San Diego	92127
+San Antonio St	Desert Hot Springs	92240
+San Antonio St	Fountain Valley	92708
+San Antonio St	Hayward	94544
+San Antonio St	Menlo Park	94025
+San Antonio St	Moreno Valley	92557
+San Antonio St	Ojai	93023
+San Antonio St	San Jose	95116
+San Antonio St	San Juan Bautista	95045
+San Antonio St	San Mateo	94401
+San Antonio St	San Pablo	94806
+San Antonio St	Thousand Oaks	91320
+San Antonio St	Yountville	94599
+San Antonio Street	Los Banos	93635
+San Antonio Street	Soledad	93960
+San Antonio Valley Rd	Livermore	94550
+San Antonio Valley Rd	San Jose	94550
+San Antonio Valley Rd	San Jose	94550-8415
+San Antonio Valley Rd	San Jose	95140
+San Antonio Water Co Rd	Upland	91784
+San Antonio Way	Montclair	91763
+San Antonio Way	Morgan Hill	95037
+San Antonio Way	Sacramento	95819
+San Antonio Way	Vallejo	94590
+San Antonio Way	Valley Center	92082
+San Antonio Way	Walnut Creek	94598
+San Anzio Wy	Goleta	93117
+San Aquario Dr	San Diego	92109
+San Ardo	Desert Hot Springs	92240
+San Ardo Ave	Atascadero	93422
+San Ardo Ave	Cathedral City	92234
+San Ardo Circle	La Mirada	90638
+San Ardo Ct	Camarillo	93012
+San Ardo Ct	Concord	94518
+San Ardo Ct	Novato	94945
+San Ardo Ct	St Helena	94574
+San Ardo Ct	Walnut Creek	94598
+San Ardo Cv	San Diego	92130
+San Ardo Dr	Buena Park	90621
+San Ardo Dr	San Jose	95125
+San Ardo Drive	La Mirada	90638
+San Ardo Rd	Desert Hot Springs	92240
+San Ardo Road	Lockwood	93932
+San Ardo Road	San Ardo	93450
+San Ardo Street	Torrance	90501
+San Ardo Ter	Sunnyvale	94086
+San Ardo Way	Belmont	94002
+San Ardo Way	Mountain View	94043
+San Ardo Way	North Highlands	95660
+San Ardo Wy	Santa Barbara Unincorporated	93111
+San Arturo Ave	Hemet	92545
+San Arturo Cir	Buena Park	90620
+San Asis Dr	Coachella	92236
+San Augustin Dr	Paso Robles	93446
+San Augustine	Scotts Valley	95066
+San Augustine Avenue	Merced	95348
+San Augustine Drive	Glendale	91206
+San Augustine Drive	Merced	95348
+San Augustine Way	Sacramento	95831
+San Augustine Way	San Diego	92130
+San Augusto Ter	Sunnyvale	94085

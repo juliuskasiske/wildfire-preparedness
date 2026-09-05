@@ -1,0 +1,51 @@
+Marjal Ave	Bakersfield	93309
+Marjan Avenue	Los Angeles	90056
+Marjan Ln	Huntington Beach	92647
+Marjan Ln	Huntington Beach	92647-3423
+Marjan Ln	Huntington Beach	92647-3424
+Marjan Ln	Huntington Beach	92647-3425
+Marjan Ln	Huntington Beach	92647-3426
+Marjan Ln	Huntington Beach	92647-3427
+Marjan Place	Harbor City	90710
+Marjay Dr	Lakeside	92040
+Marjean Ln	Lakeside	92040
+Marjo Ct	Oceanside	92056
+Marjon Drive	Nevada City	95959
+Marjon Way	Sacramento	95828
+Marjoram Court	Santa Clarita	91350
+Marjoram Ct	Sacramento	95831
+Marjoram Dr	Bakersfield	93314
+Marjoram Dr	Brentwood	94513
+Marjoram Dr	Morgan Hill	95037
+Marjoram Way	Fontana	92336
+Marjori	Thousand Oaks	91320
+Marjori Ave	Thousand Oaks	91320
+Marjori Dr	Thousand Oaks	91320
+Marjorie Ave	Brawley	92227
+Marjorie Ave	Chico	95926
+Marjorie Ave	Escondido	92027
+Marjorie Ave	Hemet	92543
+Marjorie Ave	Thousand Oaks	91320
+Marjorie Avenue	Claremont	91711
+Marjorie Avenue	Torrance	90503
+Marjorie Avenue	Torrance	90505
+Marjorie Court	Salinas	93907
+Marjorie Cres	Redlands	92373
+Marjorie Crest	Redlands	92373
+Marjorie Ct	Mountain View	94043
+Marjorie Dr	Modesto	95350
+Marjorie Dr	Napa	94558
+Marjorie Dr	San Diego	92114
+Marjorie Lane	Salinas	93907
+Marjorie Ln	Carlsbad	92008
+Marjorie Pl	Cambria	93428
+Marjorie Pl	Escondido	92027
+Marjorie Road	Salinas	93907
+Marjorie St	Oceanside	92056
+Marjorie Street	Mount Shasta	96067
+Marjorie Street	Pico Rivera	90660
+Marjorie Way	Sacramento	95820
+Marjorie Way	Salinas	93907
+Marjorie Wy	Roseville	95747
+Marjories Pl	Santa Rosa	95404
+Marjory St	Oroville	95965

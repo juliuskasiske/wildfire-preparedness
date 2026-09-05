@@ -1,0 +1,42 @@
+Calle Haberio	Menifee	92585
+Calle Hacienda	Carlsbad	92010
+Calle Hacienda	Highland	92346
+Calle Halcon	Temecula	92592
+Calle Haleigh	Pacific Palisades	90272
+Calle Haya	Thousand Oaks	91360
+Calle Helene	Thousand Palms	92276
+Calle Heraldo	San Clemente	92673
+Calle Hermosa	Bakersfield	93309
+Calle Hermosa	Dana Point	92624
+Calle Hermosa	Indio	92201
+Calle Hermosa	Morgan Hill	95037
+Calle Hermosa	Murrieta	92563
+Calle Hermosa	San Diego	92127
+Calle Hermosa	San Dimas	91773
+Calle Hermosa	San Luis Obispo	93401
+Calle Hermosa	Santa Clarita	91390
+Calle Hermosa	Thousand Oaks	91360
+Calle Hermosa Rd	Murrieta	92563
+Calle Hermoso	Montecito	93108
+Calle Hermoso	Rancho Cucamonga	91737
+Calle Hernandez Rd	Needles	92363
+Calle Hidalgo	Carlsbad	92009
+Calle Hidalgo	La Quinta	92253
+Calle Hidalgo	San Clemente	92673
+Calle Hierba	Bakersfield	93311
+Calle Higuera	Camarillo	93010
+Calle Hija	Bakersfield	93309
+Calle Hilario	Temecula	92592
+Calle Hogar	Mission Viejo	92691
+Calle Hondanada	Thousand Oaks	91360
+Calle Hondanda	Thousand Oaks	91360
+Calle Horca	Rancho Santa Margarita	92688
+Calle Horizonte	Lake Forest	92630
+Calle Horizonte	Lake Forest	92630-2145
+Calle Hueneme	La Quinta	92253
+Calle Huenme	La Quinta	92253
+Calle Huerta	La Quinta	92253
+Calle Huerte	La Quinta	92253
+Calle Huerto	Murrieta	92562
+Calle Huerto	Vista	92084
+Calle Huuerto	Murrieta	92562

@@ -1,0 +1,216 @@
+Reece Ct	Richmond	94804
+Reece Ct	Ripon	95366
+Reece Dr	Corona	92882
+Reece Ln	Chico	95973
+Reece St	San Bernardino	92411
+Reece Wade Court	Winton	95388
+Reece Wade Drive	Winton	95388
+Reece Way	San Jose	95133
+Reecemar Ave	Orangevale	95662
+Reecer Dr	Rocklin	95677
+Reed	Brookdale	95007
+Reed	Santa Cruz	95060
+Reed Ave	Grand Terrace	92313
+Reed Ave	San Diego	92109
+Reed Ave	Sunnyvale	94086
+Reed Avenue	Tulare	93274
+Reed Avenue	West Sacramento	95605
+Reed Avenue	West Sacramento	95691
+Reed Avenue West	Truckee	96161
+Reed Blvd	Mill Valley	94941
+Reed Cir	Cathedral City	92234
+Reed Cir	Mill Valley	94941
+Reed Cir	Napa	94558
+Reed Court	Benicia	94510
+Reed Court	Los Banos	93635
+Reed Ct	Chula Vista	91911
+Reed Ct	Clearlake	95422
+Reed Ct	Fontana	92336
+Reed Ct	Goleta	93117
+Reed Ct	Healdsburg	95448
+Reed Ct	Menifee	92584
+Reed Ct	Rancho Mirage	92270
+Reed Ct	Ripon	95366
+Reed Ct	Sacramento	95826
+Reed Ct	San Diego	92154
+Reed Ct	St Helena	94574
+Reed Dr	American Canyon	94503
+Reed Dr	Fontana	92336
+Reed Dr	Moraga	94556
+Reed Dr	San Diego	92154
+Reed Drive	Davis	95616
+Reed Drive	Dixon	95620
+Reed Drive	Lomita	90717
+Reed Drive	Vacaville	95687
+Reed Knoll	Los Gatos	95033
+Reed Lane	La Habra	90631
+Reed Lane	Rackerby	95914
+Reed Lane	Stevenson Ranch	91381
+Reed Ln	Auburn	95602
+Reed Ln	Durham	95938
+Reed Ln	Idyllwild	92549
+Reed Ln	Paradise	95969
+Reed Ln	Paso Robles	93446
+Reed Loop Rd	Garberville	95542
+Reed Mtn Rd	Benbow	95542
+Reed Park Dr	Chico	95926
+Reed Pl	Banning	92220
+Reed Pl	Kensington	94707
+Reed Ranch Rd	Tiburon	94920
+Reed Rd	Blythe	92225
+Reed Rd	Cobb	95426
+Reed Rd	Escondido	92027
+Reed Rd	Oakdale	95361
+Reed Road	Yuba City	95991
+Reed Road	Yuba City	95993
+Reed St	Bakersfield	93314
+Reed St	Fontana	92336
+Reed St	Laguna Beach	92651
+Reed St	Mill Valley	94941
+Reed St	Nice	95464
+Reed St	San Francisco	94109
+Reed St	Santa Clara	95050
+Reed Street	Covina	91723
+Reed Street	Knights Landing	95645
+Reed Street	Lomita	90717
+Reed Street	Redondo Beach	90278
+Reed Ter	Escondido	92027
+Reed Ter	Sunnyvale	94086
+Reed Valley Rd	Aguanga	92536
+Reed Valley Rd	Hemet	92544
+Reed Way	Concord	94518
+Reed Way	Hayward	94541
+Reed Way	Loma Linda	92354
+Reed Way	Port Hueneme	93041
+Reeder Ave	Bakersfield	93309
+Reeder Ave	Oxnard	93033
+Reeder Ln	Huntington Beach	92646
+Reeder Ln	Huntington Beach	92646-5235
+Reeder Ln	Pioneer	95666
+Reeder St	Oxnard	93033
+Reedgrass Ct	American Canyon	94503
+Reedhurst Ave	San Jose	95118
+Reedland Cir	San Ramon	94582
+Reedland Woods Way	Tiburon	94920
+Reedley College	Reedley	93654
+Reedley Pl	Moorpark	93021
+Reedley St	Moorpark	93021
+Reedley Street	Pacoima	91331
+Reedley Street	Panorama City	91402
+Reedley Ter	San Diego	92130
+Reeds Way	San Jacinto	92582
+Reedsport Ct	Huntington Beach	92648
+Reedsport Ct	Huntington Beach	92648-6239
+Reedsport Ct	Huntington Beach	92648-6240
+Reedsport Ct	Sacramento	95826
+Reedsport Dr	Bakersfield	93309
+Reedvale Lane	Los Angeles	90049
+Reedview Drive	Rowland Heights	91748
+Reedy Ave	Highland	92346
+Reedy Camp Rd	Big Bend	96011
+Reedy Camp Rd	Big Bend	96065
+Reedy Drive	Browns Valley	95918
+Reedywoods Ln	Yucaipa	92399
+Reef	Laguna Niguel	92677
+Reef	West Covina	91790
+Reef Bay Pl	Dana Point	92629
+Reef Break Way	Encinitas	92024
+Reef Cir	Carlsbad	92008
+Reef Cir	Placentia	92870
+Reef Cir	Port Hueneme	93041
+Reef Circle Way	Port Hueneme	93041
+Reef Ct	Discovery Bay	94505
+Reef Ct	Pismo Beach	93449
+Reef Ct	Roseville	95661
+Reef Ct	Sacramento	95831
+Reef Ct	Santa Barbara	93109
+Reef Ct	Stockton	95206
+Reef Ct	Tracy	95376
+Reef Dr	Pittsburg	94565
+Reef Dr	San Diego	92154
+Reef Lane	Harbor City	90710
+Reef Ln	Helendale	92342
+Reef Ln	Huntington Beach	92646
+Reef Ln	Huntington Beach	92646-6506
+Reef Ln	Huntington Beach	92646-6507
+Reef Ln	Huntington Beach	92646-6552
+Reef Ln	Huntington Beach	92646-6553
+Reef Ln	Huntington Beach	92646-6554
+Reef Ln	Huntington Beach	92646-6555
+Reef Ln	Huntington Beach	92646-6560
+Reef Mall	Marina Del Rey	90292
+Reef Point	Nevada City	95959
+Reef Point Ct	Rodeo	94572
+Reef Point Dr	Newport Beach	92657
+Reef Point Dr	Rodeo	94572
+Reef Point Dr	Turlock	95382
+Reef Point Rd	Moss Beach	94038
+Reef Point Way	Oceanside	92058
+Reef R Way	Malibu	90265
+Reef St	Oxnard	93035
+Reef St	Ventura	93001
+Reef Street	Marina Del Rey	90292
+Reef View Cir	Newport Beach	92625
+Reef Way	Corona	92880
+Reef Way	Malibu	90265
+Reef Way	Oxnard	93035
+Reefer Court	Grass Valley	95945
+Reefton Ave	Cypress	90630
+Reefton Court	Calabasas	91302
+Reel Cir	Sacramento	95832
+Reel Lane	Stevenson Ranch	91381
+Reel Way	Anderson	96007
+Reenel Way	Sacramento	95832
+Reepert Rd	Menifee	92584
+Rees Ct	Redlands	92374
+Rees Rd	Escondido	92026
+Rees Rd	San Marcos	92069
+Rees St	Riverside	92504
+Rees Street	Playa Del Rey	90293
+Reese Ave	Bakersfield	93307
+Reese Ave	Colusa	95932
+Reese Ave #B	Colusa	95932
+Reese Circle	Salinas	93907
+Reese Court	Palmdale	93552
+Reese Crk	Ladera Ranch	92694
+Reese Lane	Grass Valley	95945
+Reese Ln	Ramona	92065
+Reese Rd	Chico	95973
+Reese Rd	Sacramento	95828
+Reese Road	Merced	95340
+Reese Road	Torrance	90505
+Reese St	Oceanside	92054
+Reese St	Redwood City	94061
+Reese Way	1-Ws-2	92655
+Reesha Way	Weed	96094
+Reeside Avenue	Monterey	93940
+Reetey Ave	Orangevale	95662
+Reeve Ct	Stockton	95219
+Reeve Drive	La Mirada	90638
+Reeve Rd	Carlsbad	92011
+Reeve St	Garden Grove	92843
+Reeve St	Santa Clara	95050
+Reeve St	Santa Clara	95050-4241
+Reeve Street	Compton	90220
+Reever Way	Altadena	91001
+Reeves Ave	Carson	90810
+Reeves Avenue	Bellflower	90706
+Reeves Avenue	Long Beach	90810
+Reeves Avenue	Yuba City	95991
+Reeves Canyon Rd	Redwood Valley	 
+Reeves Court	Suisun City	94585
+Reeves Ct	Lincoln	95648
+Reeves Ct	Rancho Cucamonga	91730
+Reeves Ct	San Francisco	94130
+Reeves Ct	San Jose	95127
+Reeves Drive	Beverly Hills	90212
+Reeves Ln	Lakeport	95453
+Reeves Pkwy	San Jacinto	92582
+Reeves Place	Glendale	91205
+Reeves Place	Pomona	91767
+Reeves Rd	Ojai	93023
+Reeves Rd	Smith River	95567
+Reeves Street	Happy Camp	96039
+Reeves Street	Los Angeles	90035
+Reeves Way	Folsom	95630
+Reevesbury Drive	Beverly Hills	90210

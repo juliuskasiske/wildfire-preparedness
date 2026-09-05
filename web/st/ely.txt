@@ -1,0 +1,43 @@
+Ely Avenue	Artesia	90701
+Ely Avenue	Cerritos	90703
+Ely Avenue	Lakewood	90715
+Ely Avenue	Long Beach	90808
+Ely Blvd S	Petaluma	94954
+Ely Cir	San Diego	92114
+Ely Ct	Elk Grove	95624
+Ely Ct	Modesto	95355
+Ely Ct	San Jose	95123
+Ely Ln	Redding	96001
+Ely Pl	Palo Alto	94306
+Ely Rd	Petaluma	94954
+Ely Rd	Redding	96002
+Ely St	Oceanside	92054
+Ely Way	Oakhurst	93644
+Ely Way	Simi Valley	93065
+Elyar Mountain Ct	Newman	95360
+Elyce Ct	Moreno Valley	92553
+Elynor Ct	La Quinta	92253
+Elyria Drive	Los Angeles	90065
+Elyse Ct	Modesto	95355
+Elyse Ln	Mckinleyville	95519
+Elysee Dr	Paradise	95969
+Elysee Rd	Paradise	95969
+Elysia St	Corona	92882
+Elysian	Irvine	92618
+Elysian Ave	Penngrove	94951
+Elysian Avenue	Pomona	91767
+Elysian Blvd	Big Bear City	92314
+Elysian Ct	Eastvale	92880
+Elysian Ct	Tracy	95376
+Elysian Dr	Julian	92036
+Elysian Park Avenue	Los Angeles	90026
+Elysian Park Drive	Los Angeles	90026
+Elysian Pl	San Jose	95125
+Elysian Place	Grass Valley	95945
+Elysian Way	Nevada City	95959
+Elysium St	Bakersfield	93304
+Elysse Ln	Santa Rosa	95409
+Elysse St	Eastvale	92880
+Elyssee St	San Diego	92123
+Elystan Cir	Westminster	92683
+Elyzza Cir	Winchester	92596
