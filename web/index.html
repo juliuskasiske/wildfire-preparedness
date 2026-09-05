@@ -53,13 +53,11 @@ a{color:var(--ember);text-decoration-thickness:1px;text-underline-offset:2px}
 .hero{position:relative;overflow:hidden;background:var(--paper-deep);
       border-bottom:2.5px solid var(--ink);padding:38px 0 30px}
 #contours{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
-#form-section{padding-top:26px}
+#form-section{padding:26px 20px 36px}
 .hero .wrap{position:relative}
 h1{font-size:clamp(34px,8.2vw,50px);line-height:1.0;font-weight:800;
    letter-spacing:-.035em;margin:0 0 14px;text-wrap:balance}
 h1 .free{color:var(--ember);display:block}
-.lede{font-size:clamp(16px,4vw,18.5px);color:var(--ink-soft);margin:0;max-width:34em}
-.lede strong{color:var(--ink);font-weight:600}
 
 /* ---------- what you get ---------- */
 section{padding:34px 0}
@@ -162,7 +160,6 @@ button.go{
 button.go:hover{background:var(--ember-dark)}
 button.go:disabled{background:var(--ink-faint);cursor:not-allowed}
 button.go:focus-visible{outline:3px solid color-mix(in srgb,var(--focus) 45%,transparent);outline-offset:2px}
-.under-btn{text-align:center;color:var(--ink-faint);font-size:14px;margin:11px 0 0}
 
 .err{color:var(--ember-dark);font-size:14.5px;font-weight:600;margin:9px 0 0;display:none}
 .err.on{display:block}
@@ -295,8 +292,6 @@ dialog::backdrop{background:rgba(22,19,15,.55)}
   <svg id="contours" aria-hidden="true"></svg>
   <div class="wrap">
     <h1>Is your home ready for fire season?<span class="free">Find out for free.</span></h1>
-    <p class="lede"><strong>Enter your address.</strong> You get an assessment built for your
-       specific home, not a generic checklist. It is free, and no salesperson will call.</p>
   </div>
 </header>
 
@@ -468,7 +463,6 @@ dialog::backdrop{background:rgba(22,19,15,.55)}
         <p class="err" id="err"></p>
 
         <button type="button" class="go" id="send">Get my report</button>
-        <p class="under-btn">Free. No account. Takes about a minute.</p>
       </form>
   </section>
 
