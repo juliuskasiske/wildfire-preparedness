@@ -274,6 +274,9 @@ dialog::backdrop{background:rgba(22,19,15,.55)}
            font-size:19px;cursor:pointer;color:var(--ink);flex:0 0 auto}
 .dlg-body{padding:20px 22px 26px;overflow-y:auto;font-size:14.5px;line-height:1.55;color:var(--ink-soft)}
 .dlg-body h4{color:var(--ink);font-size:15.5px;font-weight:700;margin:20px 0 6px}
+.pkey{background:var(--paper);border-left:3px solid var(--ember);border-radius:0 8px 8px 0;
+      padding:13px 15px;margin:0 0 18px}
+.pkey p{margin:0;color:var(--ink)}
 .dlg-body h4:first-child{margin-top:0}
 .dlg-body p,.dlg-body li{margin:0 0 9px}
 .dlg-body ul{margin:0 0 9px;padding-left:20px}
@@ -436,11 +439,9 @@ dialog::backdrop{background:rgba(22,19,15,.55)}
         <div class="consent">
           <label class="opt">
             <input type="checkbox" id="consent" name="consent">
-            <span>I agree that my address, email and answers may be stored and processed to
-                  produce my assessment, and that Julius Kasiske may contact me about home
-                  hardening and wildfire defense.</span>
+            <span>I agree to the privacy policy.</span>
           </label>
-          <button type="button" class="privacy-link" id="openPrivacy">How your data is handled</button>
+          <button type="button" class="privacy-link" id="openPrivacy">Privacy policy</button>
         </div>
 
         <p class="err" id="err"></p>
@@ -500,7 +501,7 @@ dialog::backdrop{background:rgba(22,19,15,.55)}
 
 <dialog id="privacyDlg" aria-labelledby="pTitle">
   <div class="dlg-head">
-    <h3 id="pTitle">How your data is handled</h3>
+    <h3 id="pTitle">Privacy policy</h3>
     <button class="dlg-close" id="closePrivacy" aria-label="Close">&times;</button>
   </div>
   <div class="dlg-body" id="privacyBody"></div>
@@ -575,6 +576,14 @@ function addressBlock(){
 
 function privacyHTML(){
   return `
+<div class="pkey">
+  <p><strong>The short version.</strong> Your address and answers are used to build your
+     assessment, which is emailed to you. <strong>Julius Kasiske may also contact you afterwards
+     about home hardening and wildfire defense,</strong> including products or services he may
+     offer. Nothing is sold or shared with anyone else, and you can tell him to stop at any time
+     by replying to any email or writing to the address below.</p>
+</div>
+
 <p>This notice explains what happens to the information you enter on this page. It is written
    to satisfy both the EU General Data Protection Regulation (GDPR) and the California Consumer
    Privacy Act as amended by the CPRA, because the person running this site is in Europe and the
