@@ -194,8 +194,8 @@ export async function onRequestPost({ request, env }) {
   return json({ ok: true, due });
 }
 
-/** Anything other than POST on this path. */
-export async function onRequest({ request }) {
-  if (request.method === 'POST') return; // handled above
-  return json({ error: 'method not allowed' }, 405);
-}
+/* No generic onRequest export here, deliberately. In Pages Functions a module
+   that exports onRequest has it handle EVERY method, and it takes precedence
+   over onRequestPost. Exporting both meant onRequestPost was never called and
+   every submission got 405. Pages already answers 405 for a method with no
+   handler, so onRequestPost alone is both correct and sufficient. */
