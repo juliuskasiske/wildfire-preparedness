@@ -5,9 +5,19 @@ The signup page. One HTML file, one server function, one database table.
 ```
 web/
   index.html              the whole page: copy, form, success screen, privacy notice
-  functions/api/submit.js runs on Cloudflare when the form is submitted
+  st/                     the address suggestion index, 2,676 static shards
   schema.sql              the database table (already applied, kept for reference)
+
+functions/                NOT inside web/, and that matters, see below
+  api/submit.js           runs on Cloudflare when the form is submitted
 ```
+
+**Why `functions/` is at the repo root and not in `web/`.** Cloudflare Pages
+only looks for a `functions` directory at the top level of the project. A
+`functions` directory inside the build output directory is deployed as static
+files, so the endpoint does not exist and every POST is answered 405 by the
+static asset handler, with an empty body and no error anywhere. Moving it into
+`web/` will silently break the form again.
 
 ---
 
@@ -66,8 +76,10 @@ pick the repo, then set:
 - **Build output directory**: `web`
 - **Root directory**: leave as `/`
 
-Cloudflare finds `web/functions/` on its own and turns it into the `/api/submit`
-endpoint.
+With root `/`, Pages picks up the top-level `functions/` directory and turns it
+into the `/api/submit` endpoint, while serving the site itself out of `web/`.
+Do not set the root directory to `web`: that would put `functions/` outside the
+project and the endpoint would disappear.
 
 ### 3. Bind the database
 
