@@ -274,9 +274,10 @@ dialog::backdrop{background:rgba(22,19,15,.55)}
            font-size:19px;cursor:pointer;color:var(--ink);flex:0 0 auto}
 .dlg-body{padding:20px 22px 26px;overflow-y:auto;font-size:14.5px;line-height:1.55;color:var(--ink-soft)}
 .dlg-body h4{color:var(--ink);font-size:15.5px;font-weight:700;margin:20px 0 6px}
-.pkey{background:var(--paper);border-left:3px solid var(--ember);border-radius:0 8px 8px 0;
-      padding:13px 15px;margin:0 0 18px}
-.pkey p{margin:0;color:var(--ink)}
+.dlg-body ol{margin:0 0 11px;padding-left:22px}
+.dlg-body ol li{margin:0 0 7px}
+.pintro{margin-bottom:6px}
+.pcontact{margin-top:20px;padding-top:14px;border-top:1px solid var(--rule)}
 .dlg-body h4:first-child{margin-top:0}
 .dlg-body p,.dlg-body li{margin:0 0 9px}
 .dlg-body ul{margin:0 0 9px;padding-left:20px}
@@ -575,113 +576,121 @@ function addressBlock(){
 }
 
 function privacyHTML(){
+  const c = CONTROLLER;
   return `
-<div class="pkey">
-  <p><strong>The short version.</strong> Your address and answers are used to build your
-     assessment, which is emailed to you. <strong>Julius Kasiske may also contact you afterwards
-     about home hardening and wildfire defense,</strong> including products or services he may
-     offer. Nothing is sold or shared with anyone else, and you can tell him to stop at any time
-     by replying to any email or writing to the address below.</p>
-</div>
+<p class="pintro">This privacy policy sets out how personal data submitted through this website is
+   processed. It is issued in accordance with Regulation (EU) 2016/679 (General Data Protection
+   Regulation) and, in respect of residents of California, the California Consumer Privacy Act of
+   2018 as amended by the California Privacy Rights Act.</p>
 
-<p>This notice explains what happens to the information you enter on this page. It is written
-   to satisfy both the EU General Data Protection Regulation (GDPR) and the California Consumer
-   Privacy Act as amended by the CPRA, because the person running this site is in Europe and the
-   people using it are in California.</p>
-
-<h4>Who is responsible</h4>
-<p>The controller of your data, and the person you contact about any of it, is:</p>
+<h4>1. Controller</h4>
+<p>The controller responsible for the processing described in this policy, within the meaning of
+   Art. 4(7) GDPR, is:</p>
 ${addressBlock()}
 
-<h4>What is collected</h4>
-<ul>
-  <li>The property address you enter.</li>
-  <li>Your email address.</li>
-  <li>Your answers to the five questions.</li>
-  <li>The date and time you submitted, and a coarse technical record of the request
-      (country and browser type) kept by our hosting provider for security.</li>
-</ul>
-<p>Nothing else. There is no account, no password, no advertising tracker, no analytics
-   cookie and no third-party marketing pixel on this page.</p>
+<h4>2. Categories of personal data processed</h4>
+<p>The following categories of personal data are processed when the form on this website is
+   submitted:</p>
+<ol type="a">
+  <li>the property address entered by the data subject;</li>
+  <li>the email address entered by the data subject;</li>
+  <li>the responses given to the five survey questions;</li>
+  <li>the date and time of submission;</li>
+  <li>the country from which the request originated and the browser user agent string, retained
+      for the purpose of preventing misuse of the form.</li>
+</ol>
+<p>No further personal data is collected. This website sets no advertising cookies, no analytics
+   cookies and no third-party tracking technologies. IP addresses are not stored.</p>
 
-<h4>Why it is collected, and the legal basis</h4>
-<ul>
-  <li><strong>To produce and send your assessment.</strong> Legal basis: performance of a
-      service you asked for (GDPR Art. 6(1)(b)).</li>
-  <li><strong>To contact you later about home hardening and wildfire defense,</strong>
-      including products or services that may be offered. Legal basis: your consent
-      (GDPR Art. 6(1)(a)), given by ticking the box. You may withdraw it at any time.</li>
-  <li><strong>To understand, in aggregate, how Californians are handling wildfire risk.</strong>
-      Legal basis: legitimate interest in research (GDPR Art. 6(1)(f)). Anything published from
-      this is aggregated and never identifies you or your address.</li>
-</ul>
+<h4>3. Purposes of processing and legal bases</h4>
+<ol type="a">
+  <li><strong>Preparation and delivery of the requested assessment.</strong> The property address
+      and the survey responses are processed in order to produce the assessment requested by the
+      data subject and to transmit it by email. Legal basis: Art. 6(1)(b) GDPR.</li>
+  <li><strong>Communications concerning home hardening and wildfire defense.</strong> The email
+      address is processed in order to contact the data subject subsequently in relation to home
+      hardening and wildfire defense, including products and services which the controller may
+      offer. Legal basis: Art. 6(1)(a) GDPR. Consent is given by checking the consent box before
+      submission and may be withdrawn at any time in accordance with section 9.</li>
+  <li><strong>Statistical research into wildfire preparedness.</strong> The survey responses are
+      processed in order to analyze how homeowners in California manage wildfire risk. Legal
+      basis: Art. 6(1)(f) GDPR. Findings derived from this processing are published in aggregated
+      form only and do not permit the identification of any data subject or property.</li>
+</ol>
 
-<h4>Withdrawing consent</h4>
-<p>Email <a href="mailto:${CONTROLLER.email}">${CONTROLLER.email}</a> and say so. You will be
-   removed from any contact list. Withdrawing consent does not affect processing that already
-   happened, and does not stop the assessment you already asked for.</p>
+<h4>4. Recipients and processors</h4>
+<p>Personal data is disclosed to the following recipients, each acting as a processor on the
+   documented instructions of the controller:</p>
+<ol type="a">
+  <li>Cloudflare, Inc., which provides hosting for this website and stores form submissions;</li>
+  <li>Google LLC, in so far as is necessary to transmit email correspondence.</li>
+</ol>
+<p>Personal data is not sold and is not shared for cross-context behavioral advertising within the
+   meaning of the CCPA as amended by the CPRA. There are no further recipients.</p>
 
-<h4>Who else sees it</h4>
-<ul>
-  <li><strong>Cloudflare, Inc.</strong> hosts this page and stores the submissions. They act as
-      a processor on documented instructions and do not use your data for their own purposes.</li>
-  <li>Email is sent using Google (Gmail), which processes the message in order to deliver it.</li>
-</ul>
-<p>Your data is <strong>not sold</strong> and <strong>not shared</strong> for cross-context
-   behavioral advertising, as those terms are defined by the CPRA. There is no other recipient.</p>
+<h4>5. Transfers to third countries</h4>
+<p>Personal data is stored on infrastructure located in the United States and may be accessed from
+   Germany. Transfers outside the European Economic Area are carried out on the basis of the
+   Standard Contractual Clauses adopted by the European Commission pursuant to Art. 46(2)(c) GDPR,
+   which the processors named in section 4 incorporate into their data processing terms.</p>
 
-<h4>Where it goes</h4>
-<p>Data is stored on infrastructure in the United States and may be accessed from Germany.
-   Transfers out of the EEA rely on the European Commission's Standard Contractual Clauses,
-   which our hosting provider incorporates by default.</p>
+<h4>6. Retention periods</h4>
+<ol type="a">
+  <li>The property address, email address and survey responses are erased 24 months after
+      submission, unless an ongoing business relationship requires longer retention.</li>
+  <li>Where consent is withdrawn or erasure is requested, the data is erased within 30 days, save
+      in so far as retention is required in order to demonstrate that the request was made.</li>
+  <li>Aggregated data which no longer permits the identification of a data subject is retained
+      without limitation of time.</li>
+</ol>
 
-<h4>How long it is kept</h4>
-<ul>
-  <li>Your address, answers and email are kept for <strong>24 months</strong> from submission,
-      then deleted, unless you are still in active contact about a service.</li>
-  <li>If you withdraw consent or ask for deletion, everything is deleted within 30 days,
-      except where a record must be kept to prove that you asked.</li>
-  <li>Aggregated, de-identified research figures that cannot be traced back to you may be
-      kept indefinitely.</li>
-</ul>
+<h4>7. Rights of the data subject under the GDPR</h4>
+<p>The data subject has the right to obtain access to their personal data (Art. 15 GDPR), to
+   obtain rectification (Art. 16), to obtain erasure (Art. 17), to obtain restriction of
+   processing (Art. 18), to data portability (Art. 20) and to object to processing carried out on
+   the basis of legitimate interests (Art. 21). Requests are to be addressed to the controller at
+   the address given in section 1 and are answered without undue delay.</p>
 
-<h4>Your rights if the GDPR applies to you</h4>
-<p>You can ask to see your data, correct it, delete it, restrict or object to how it is used,
-   receive a portable copy, and withdraw consent. You also have the right to complain to a
-   supervisory authority. The controller is established in Munich, so that is the Bayerisches
-   Landesamt f&uuml;r Datenschutzaufsicht (BayLDA), Promenade 27, 91522 Ansbach, Germany.</p>
+<h4>8. Rights of residents of California</h4>
+<p>Under the CCPA as amended by the CPRA, residents of California have the right to know what
+   personal information is collected, used and disclosed; to request its deletion; to request
+   correction of inaccurate personal information; to opt out of its sale or sharing; to limit the
+   use of sensitive personal information; and not to be subject to discrimination for exercising
+   any of these rights. The controller neither sells nor shares personal information and does not
+   collect any category designated as sensitive under the CPRA. Requests are to be addressed to
+   the controller at the address given in section 1 and are answered within 45 days. A request may
+   be submitted by an authorized agent.</p>
 
-<h4>Your rights if you are a California resident</h4>
-<p>Under the CCPA as amended by the CPRA, you have the right to:</p>
-<ul>
-  <li>know what personal information is collected, used and disclosed;</li>
-  <li>delete personal information we hold about you;</li>
-  <li>correct inaccurate personal information;</li>
-  <li>opt out of sale or sharing. We do not sell or share, so there is nothing to opt out of,
-      but the right stands;</li>
-  <li>limit the use of sensitive personal information. We do not collect any category that the
-      CPRA defines as sensitive;</li>
-  <li>not be discriminated against for exercising any of these rights. The assessment is free
-      and stays free either way.</li>
-</ul>
-<p>To exercise any of these, email <a href="mailto:${CONTROLLER.email}">${CONTROLLER.email}</a>.
-   You will get a response within 45 days. You may use an authorized agent.</p>
+<h4>9. Withdrawal of consent</h4>
+<p>Consent given for the purpose described in section 3(b) may be withdrawn at any time with
+   effect for the future, either by replying to any email received from the controller or by
+   writing to the address given in section 1. Withdrawal does not affect the lawfulness of
+   processing carried out on the basis of consent before its withdrawal, and does not affect the
+   delivery of an assessment already requested.</p>
 
-<h4>Automated decisions</h4>
-<p>The assessment is generated from public records and your answers, and is reviewed by a person
-   before it is sent. No decision with a legal or similarly significant effect on you is made
-   automatically.</p>
+<h4>10. Automated decision-making</h4>
+<p>The assessment is produced from public records and from the responses provided, and is reviewed
+   by a natural person before it is sent. No decision producing legal effects concerning the data
+   subject, or similarly significantly affecting the data subject, is taken on an automated basis
+   within the meaning of Art. 22 GDPR.</p>
 
-<h4>Children</h4>
-<p>This service is not directed at anyone under 16, and information from under-16s is not
-   knowingly collected. We do not sell or share the personal information of minors.</p>
+<h4>11. Minors</h4>
+<p>This service is not directed at persons under the age of 16 and personal data relating to such
+   persons is not knowingly collected. The controller does not sell or share the personal
+   information of minors.</p>
 
-<h4>Changes</h4>
-<p>If this notice changes materially, the version you consented to still governs the data
-   already collected. The current version is always the one on this page.</p>
+<h4>12. Amendments</h4>
+<p>The controller may amend this policy. The version in force at the time of a submission governs
+   the personal data collected on that occasion. The version published on this page is the version
+   currently in force.</p>
 
-<p style="margin-top:18px;color:#8B837A;font-size:13.5px">Last updated when this page was
-   published. Questions: <a href="mailto:${CONTROLLER.email}">${CONTROLLER.email}</a>.</p>`;
+<h4>13. Supervisory authority</h4>
+<p>The data subject has the right to lodge a complaint with a supervisory authority pursuant to
+   Art. 77 GDPR. The authority competent for the controller is:</p>
+<address>Bayerisches Landesamt f&uuml;r Datenschutzaufsicht<br>Promenade 27<br>91522 Ansbach<br>Germany</address>
+
+<p class="pcontact">Enquiries relating to this policy are to be addressed to
+   <a href="mailto:${c.email}">${c.email}</a>.</p>`;
 }
 
 const dlg=document.getElementById('privacyDlg');
