@@ -71,7 +71,7 @@ h2{font-size:23px;font-weight:700;letter-spacing:-.02em;margin:0 0 18px;line-hei
    boxes they read as two big empty panels between the headline and the form,
    which is the opposite of getting out of the way. A plain row with a rule
    under it is quieter and takes half the height. */
-.tellme{padding:22px 20px 6px}
+.tellme{padding:22px 20px 24px}
 .disc{border-bottom:1px solid var(--rule)}
 .disc:first-of-type{border-top:1px solid var(--rule)}
 .disc summary{
@@ -306,34 +306,7 @@ dialog::backdrop{background:rgba(22,19,15,.55)}
 </header>
 
 <main>
-  <section class="wrap tellme">
-    <details class="disc">
-      <summary>What the assessment tells you</summary>
-      <div class="disc-body">
-        <ul class="pillars">
-          <li><b>Will my home survive?</b><span>Where you are exposed, which side takes the wind, and what to fix first, starting with what costs nothing.</span></li>
-          <li><b>Am I leaving money on the table?</b><span>Which insurance discounts your home already qualifies for, and which are worth doing the work for.</span></li>
-          <li><b>Can I get proper coverage again?</b><span>What insurers look at, and what moves the needle if you have been non-renewed or pushed onto the FAIR Plan.</span></li>
-          <li><b>Do the new rules apply to me?</b><span>What California now requires for your property, and by when.</span></li>
-        </ul>
-      </div>
-    </details>
-
-    <details class="disc">
-      <summary>Who is behind this, and why it is free</summary>
-      <div class="disc-body">
-        <p>Hi, I'm Julius. I'm researching how Californians are actually handling wildfire risk.
-           I can't answer that from data alone, so I built a free assessment for your specific home
-           and <strong>trade it for your honest take on 5 questions.</strong></p>
-        <p>Nobody will call you. The assessment is built from public records, and the answers you
-           give go into research that is only ever published in aggregate.</p>
-      </div>
-    </details>
-  </section>
-
   <section class="wrap" id="form-section">
-    <h2>Get your free assessment</h2>
-
       <form id="f" novalidate autocomplete="off">
 
         <!-- Not a step. The address is the thing being assessed, not a survey
@@ -489,6 +462,31 @@ dialog::backdrop{background:rgba(22,19,15,.55)}
          your contacts so it doesn't land in spam. Nothing else is sent to you unless you ask.</p>
     </div>
   </section>
+  <section class="wrap tellme">
+    <details class="disc">
+      <summary>What the assessment tells you</summary>
+      <div class="disc-body">
+        <ul class="pillars">
+          <li><b>Will my home survive?</b><span>Where you are exposed, which side takes the wind, and what to fix first, starting with what costs nothing.</span></li>
+          <li><b>Am I leaving money on the table?</b><span>Which insurance discounts your home already qualifies for, and which are worth doing the work for.</span></li>
+          <li><b>Can I get proper coverage again?</b><span>What insurers look at, and what moves the needle if you have been non-renewed or pushed onto the FAIR Plan.</span></li>
+          <li><b>Do the new rules apply to me?</b><span>What California now requires for your property, and by when.</span></li>
+        </ul>
+      </div>
+    </details>
+
+    <details class="disc">
+      <summary>Who is behind this, and why it is free</summary>
+      <div class="disc-body">
+        <p>Hi, I'm Julius. I'm researching how Californians are actually handling wildfire risk.
+           I can't answer that from data alone, so I built a free assessment for your specific home
+           and <strong>trade it for your honest take on 5 questions.</strong></p>
+        <p>Nobody will call you. The assessment is built from public records, and the answers you
+           give go into research that is only ever published in aggregate.</p>
+      </div>
+    </details>
+  </section>
+
 </main>
 
 <footer>
