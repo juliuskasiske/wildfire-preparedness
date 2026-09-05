@@ -86,6 +86,14 @@ input[type=text]:focus,input[type=email]:focus{
   border-color:var(--focus);background:#fff;
 }
 .field-group{margin-bottom:22px}
+.contact{background:var(--card);border:1px solid var(--rule);border-radius:16px;
+         padding:20px 18px;margin-bottom:14px;
+         box-shadow:0 1px 2px rgba(22,19,15,.05),0 10px 30px rgba(22,19,15,.06)}
+.contact .hint{margin-bottom:9px}
+.fielderr{color:var(--ember-dark);font-size:14px;font-weight:600;margin:7px 0 0;display:none}
+.fielderr.on{display:block}
+.field-bad input{border-color:var(--ember);background:#FCF3EF}
+.consent{border:0;border-top:0;padding-top:0;margin-top:16px}
 
 /* tap-to-answer options */
 .opts{display:grid;gap:9px}
@@ -133,7 +141,7 @@ button.go:focus-visible{outline:3px solid color-mix(in srgb,var(--focus) 45%,tra
 .prog i{flex:1;height:5px;border-radius:3px;background:var(--rule);
         transition:background .25s ease}
 .prog i.done{background:var(--ember)}
-.prog i.now{background:var(--ember);box-shadow:0 0 0 3px color-mix(in srgb,var(--ember) 18%,transparent)}
+.prog i.now{background:var(--ember)}
 .progtxt{font-size:13px;font-weight:600;color:var(--ink-faint);margin:0 0 16px;
          display:flex;justify-content:space-between}
 
@@ -280,30 +288,34 @@ dialog::backdrop{background:rgba(22,19,15,.55)}
   <section class="wrap" id="form-section">
     <h2>Get your free assessment</h2>
 
-    <div class="stepper">
       <form id="f" novalidate autocomplete="off">
 
+        <!-- Not a step. The address is the thing being assessed, not a survey
+             answer, and it has to stay visible while the error under it is
+             read and corrected. -->
+        <div class="contact">
+          <div class="field-group">
+            <label class="field" for="address">Your property address</label>
+            <p class="hint">Street number, street, city and ZIP. California only for now.</p>
+            <input type="text" id="address" name="address" autocomplete="street-address"
+                   placeholder="815 El Medio Ave, Pacific Palisades, CA 90272">
+            <p class="fielderr" id="addressErr"></p>
+          </div>
+          <div class="field-group" style="margin-bottom:0">
+            <label class="field" for="email">Your email</label>
+            <p class="hint">Where the assessment is sent. Nothing else goes to this address.</p>
+            <input type="email" id="email" name="email" autocomplete="email"
+                   inputmode="email" placeholder="you@example.com">
+            <p class="fielderr" id="emailErr"></p>
+          </div>
+        </div>
+
+        <div class="stepper">
         <div class="prog" id="prog" aria-hidden="true"></div>
         <p class="progtxt"><span id="progNow"></span><span id="progLeft"></span></p>
 
         <div class="viewport" id="viewport">
           <div class="track" id="track">
-
-            <!-- 0 - contact -->
-            <section class="step" data-step="contact">
-              <p class="qtitle">Which property should we assess?</p>
-              <p class="qhint">Built for this exact address, so the full street address matters.</p>
-              <div class="field-group">
-                <label class="field" for="address">Property address</label>
-                <input type="text" id="address" name="address" autocomplete="street-address"
-                       placeholder="815 El Medio Ave, Pacific Palisades, CA 90272">
-              </div>
-              <div class="field-group" style="margin-bottom:0">
-                <label class="field" for="email">Your email</label>
-                <input type="email" id="email" name="email" autocomplete="email"
-                       inputmode="email" placeholder="you@example.com">
-              </div>
-            </section>
 
             <!-- 1 - concern change -->
             <section class="step" data-step="q1" hidden>
@@ -389,30 +401,32 @@ dialog::backdrop{background:rgba(22,19,15,.55)}
               <p class="ends"><span>One-off amount, not per year</span></p>
             </section>
 
-            <!-- 6 - consent and send -->
-            <section class="step" data-step="consent" hidden>
-              <p class="qtitle">Last thing, then it is on its way</p>
-              <p class="qhint">We need your permission to look up and store the address you gave us.</p>
-              <label class="opt">
-                <input type="checkbox" id="consent" name="consent">
-                <span>I agree that my address, email and answers may be stored and processed to
-                      produce my assessment, and that Julius Kasiske may contact me about home
-                      hardening and wildfire defence.</span>
-              </label>
-              <button type="button" class="privacy-link" id="openPrivacy">How your data is handled</button>
-            </section>
-
           </div>
         </div>
-
-        <p class="err" id="err"></p>
 
         <div class="stepnav">
           <button type="button" class="btn-back" id="back" hidden>Back</button>
           <button type="button" class="btn-next" id="next">Continue</button>
         </div>
+        </div><!-- /stepper -->
+
+        <!-- Not a step either. Consent is a legal act, not an answer, and it
+             belongs next to the button that acts on it. -->
+        <div class="consent">
+          <label class="opt">
+            <input type="checkbox" id="consent" name="consent">
+            <span>I agree that my address, email and answers may be stored and processed to
+                  produce my assessment, and that Julius Kasiske may contact me about home
+                  hardening and wildfire defence.</span>
+          </label>
+          <button type="button" class="privacy-link" id="openPrivacy">How your data is handled</button>
+        </div>
+
+        <p class="err" id="err"></p>
+
+        <button type="button" class="go" id="send">Get my report</button>
+        <p class="under-btn">Free. No account. Takes about a minute.</p>
       </form>
-    </div>
   </section>
 
   <section class="wrap" id="done">
@@ -625,16 +639,99 @@ document.getElementById('closePrivacy').addEventListener('click',()=>dlg.close()
 dlg.addEventListener('click',e=>{ if(e.target===dlg) dlg.close(); });
 
 /* ---------------------------------------------------------------------------
+   Address checking.
+
+   Not a full USPS parser, and it does not need to be. It needs to catch the
+   four things that make an address useless to us: no house number, no street,
+   no city, no ZIP. Plus the one that makes it unanswerable: not California.
+
+   This same function is duplicated in functions/api/submit.js. Two copies of
+   forty lines beats a build step for one file.
+--------------------------------------------------------------------------- */
+const CA_ZIP_MIN = 90001, CA_ZIP_MAX = 96162;   // 90001 Los Angeles to 96162 Truckee
+const STATE_NAMES = {AL:'Alabama',AK:'Alaska',AZ:'Arizona',AR:'Arkansas',CO:'Colorado',
+  CT:'Connecticut',DE:'Delaware',FL:'Florida',GA:'Georgia',HI:'Hawaii',ID:'Idaho',
+  IL:'Illinois',IN:'Indiana',IA:'Iowa',KS:'Kansas',KY:'Kentucky',LA:'Louisiana',
+  ME:'Maine',MD:'Maryland',MA:'Massachusetts',MI:'Michigan',MN:'Minnesota',
+  MS:'Mississippi',MO:'Missouri',MT:'Montana',NE:'Nebraska',NV:'Nevada',
+  NH:'New Hampshire',NJ:'New Jersey',NM:'New Mexico',NY:'New York',NC:'North Carolina',
+  ND:'North Dakota',OH:'Ohio',OK:'Oklahoma',OR:'Oregon',PA:'Pennsylvania',
+  RI:'Rhode Island',SC:'South Carolina',SD:'South Dakota',TN:'Tennessee',TX:'Texas',
+  UT:'Utah',VT:'Vermont',VA:'Virginia',WA:'Washington',WV:'West Virginia',
+  WI:'Wisconsin',WY:'Wyoming'};
+
+function parseAddress(raw){
+  const bad = (why) => ({ ok:false, why });
+  let s = String(raw ?? '').trim().replace(/\s+/g,' ');
+  if (s.length < 8) return bad('Enter the full address, including the city and ZIP.');
+
+  // ZIP: the last five-digit group in the string.
+  const zipM = s.match(/\b(\d{5})(?:-\d{4})?\b(?![\s\S]*\b\d{5}\b)/);
+  if (!zipM) return bad('Add the 5-digit ZIP code.');
+  const zip = Number(zipM[1]);
+
+  let before = s.slice(0, zipM.index).replace(/[\s,]+$/,'');
+
+  // A written state wins over the ZIP, because people mistype ZIPs far more
+  // often than they mistype the state they live in.
+  const stateM = before.match(/[\s,]((?:[A-Za-z]{2})|California|Calif\.?)\s*$/i);
+  let stateAbbr = null;
+  if (stateM){
+    const t = stateM[1].replace(/\./g,'').toUpperCase();
+    if (t === 'CALIFORNIA' || t === 'CALIF' || t === 'CA') stateAbbr = 'CA';
+    else if (STATE_NAMES[t]) stateAbbr = t;
+    if (stateAbbr) before = before.slice(0, stateM.index).replace(/[\s,]+$/,'');
+  }
+  if (stateAbbr && stateAbbr !== 'CA')
+    return bad(`That address is in ${STATE_NAMES[stateAbbr]}. Right now we can only assess homes in California.`);
+  if (!stateAbbr && (zip < CA_ZIP_MIN || zip > CA_ZIP_MAX))
+    return bad(`ZIP ${zipM[1]} is not a California ZIP code. Right now we can only assess homes in California.`);
+  if (stateAbbr === 'CA' && (zip < CA_ZIP_MIN || zip > CA_ZIP_MAX))
+    return bad(`ZIP ${zipM[1]} is not a California ZIP code. Please check it.`);
+
+  // House number, at the front. Accepts 815, 815A, 815-817, 1/2 style suffixes.
+  const numM = before.match(/^(\d{1,6}[A-Za-z]?(?:\s?[-–/]\s?\d{1,6}[A-Za-z]?)?)(?=[\s,])/);
+  if (!numM) return bad('Start with the house number, for example 815 El Medio Ave.');
+  const houseNumber = numM[1];
+
+  const rest = before.slice(numM[0].length).replace(/^[\s,]+/,'');
+  if (!rest) return bad('Add the street name and the city.');
+
+  // Street and city. With commas we can split them properly; without, we only
+  // check there is enough there to be both, which is all we need to know.
+  const parts = rest.split(',').map(x=>x.trim()).filter(Boolean);
+  let street, city;
+  if (parts.length >= 2){
+    street = parts[0];
+    city   = parts.slice(1).join(', ');
+  } else {
+    const words = rest.split(' ').filter(Boolean);
+    if (words.length < 3) return bad('Add both the street name and the city, for example 815 El Medio Ave, Pacific Palisades.');
+    // Without a comma the boundary is a guess. It does not matter: we only
+    // need to know both are present, and the full string is what gets stored.
+    street = words.slice(0, words.length-1).join(' ');
+    city   = words[words.length-1];
+  }
+
+  const letters = (t)=> (t.match(/[A-Za-z]/g)||[]).length;
+  if (letters(street) < 2) return bad('That street name does not look right.');
+  if (letters(city)   < 2) return bad('Add the city.');
+  if (/^\d+$/.test(city)) return bad('Add the city.');
+
+  return { ok:true, houseNumber, street, city, state:'CA', zip:String(zip).padStart(5,'0') };
+}
+
+/* ---------------------------------------------------------------------------
    The stepper.
 
-   Six bullet points but five questions: question 3 is a fork. Answer 4 or 5 on
-   preparedness and you get asked what motivated the work; answer 1 to 3 and you
-   get asked what stopped you. Only one of the two is ever in the flow, so the
-   progress bar counts seven steps either way.
---------------------------------------------------------------------------- */
+   Five steps, one per question. The address, the email and the consent box are
+   deliberately not steps: they are not survey answers, and the consent box has
+   to sit beside the button that acts on it.
 
-// Chrome restores control state across reloads. On a research form that is a
-// data-integrity bug rather than a convenience, so everything is cleared.
+   Six questions on paper, five in the flow: question 3 forks on question 2.
+   Answer 4 or 5 and you are asked what motivated the work, 1 to 3 and you are
+   asked what stopped you.
+--------------------------------------------------------------------------- */
 window.addEventListener('pageshow',()=>{
   document.querySelectorAll('input[type=radio],input[type=checkbox]').forEach(i=>i.checked=false);
   document.querySelectorAll('input[type=text],input[type=email]').forEach(i=>i.value='');
@@ -648,23 +745,17 @@ const progNow  = document.getElementById('progNow');
 const progLeft = document.getElementById('progLeft');
 const backBtn  = document.getElementById('back');
 const nextBtn  = document.getElementById('next');
+const sendBtn  = document.getElementById('send');
 const err      = document.getElementById('err');
 
 const stepEls = {};
 document.querySelectorAll('.step').forEach(el=>{ stepEls[el.dataset.step]=el; });
 
-let at = 0;                 // index into flow()
-const rank = [];            // ordered list of motivation keys
+let at = 0;
+const rank = [];
 
-/* Which branch of question 3 applies. 4 or 5 means they consider themselves
-   prepared, so we ask what motivated it. Anything lower asks what blocked it. */
-function branch(){
-  const v = +val('q2_preparedness');
-  return v >= 4 ? 'q3a' : 'q3b';
-}
-function flow(){
-  return ['contact','q1','q2',branch(),'q4','q5','consent'];
-}
+function branch(){ return Number(val('q2_preparedness')) >= 4 ? 'q3a' : 'q3b'; }
+function flow(){ return ['q1','q2',branch(),'q4','q5']; }
 function val(name){
   const el = document.querySelector(`input[name="${name}"]:checked`);
   return el ? el.value : null;
@@ -681,23 +772,17 @@ function paintRank(){
 document.querySelectorAll('#rankBox .opt').forEach(el=>{
   el.addEventListener('click', e=>{
     e.preventDefault();
-    const v = el.dataset.v;
-    const i = rank.indexOf(v);
-    if(i > -1) rank.splice(i,1); else rank.push(v);
+    const v=el.dataset.v, i=rank.indexOf(v);
+    if(i>-1) rank.splice(i,1); else rank.push(v);
     paintRank();
   });
 });
 
 /* ---------- movement ---------- */
-function sizeTo(el){
-  // The viewport owns the height so the card never jumps and the buttons stay put.
-  viewport.style.height = el.scrollHeight + 'px';
-}
+function sizeTo(el){ viewport.style.height = el.scrollHeight + 'px'; }
 
 /* A step's height changes for reasons other than navigation: the web font
-   arriving after first paint, an error message wrapping onto two lines, rank
-   badges appearing. Measuring once on render is how the email field ended up
-   clipped, so the active step is observed instead. */
+   arriving after first paint, rank badges appearing, an error wrapping. */
 const ro = new ResizeObserver(()=>{
   const active = stepEls[flow()[at]];
   if(active) viewport.style.height = active.scrollHeight + 'px';
@@ -709,10 +794,7 @@ function render(){
   at = Math.max(0, Math.min(at, f.length-1));
   const id = f[at];
 
-  // Only the steps in the current flow exist in the row, so translating by
-  // index lines up without any arithmetic about the skipped branch.
   Object.entries(stepEls).forEach(([k,el])=>{ el.hidden = !f.includes(k); });
-
   track.style.transform = `translateX(${-at*100}%)`;
   document.querySelectorAll('.step').forEach(el=>{
     const active = el.dataset.step === id;
@@ -720,110 +802,144 @@ function render(){
     el.querySelectorAll('input,button').forEach(c=>{ c.tabIndex = active ? 0 : -1; });
   });
 
-  prog.innerHTML = f.map((_,i)=>
-    `<i class="${i<at?'done':i===at?'now':''}"></i>`).join('');
-  progNow.textContent  = `Step ${at+1} of ${f.length}`;
-  progLeft.textContent = at===f.length-1 ? 'Ready to send' : `${f.length-1-at} to go`;
+  prog.innerHTML = f.map((_,i)=>`<i class="${i<at?'done':i===at?'now':''}"></i>`).join('');
+  progNow.textContent  = `Question ${at+1} of ${f.length}`;
+  progLeft.textContent = at===f.length-1 ? 'Last one' : `${f.length-1-at} to go`;
 
   backBtn.hidden = at===0;
-  const last = at===f.length-1;
-  nextBtn.textContent = last ? 'Get my report' : 'Continue';
-  nextBtn.classList.toggle('final', last);
+  // Nothing to continue to on the last question. The send button below is next.
+  nextBtn.hidden = at===f.length-1;
 
   err.classList.remove('on');
   sizeTo(stepEls[id]);
 }
 
 function fail(msg){ err.textContent=msg; err.classList.add('on'); return false; }
+function fieldFail(inputId, errId, msg){
+  document.getElementById(errId).textContent=msg;
+  document.getElementById(errId).classList.add('on');
+  document.getElementById(inputId).closest('.field-group').classList.add('field-bad');
+  return false;
+}
+function fieldClear(inputId, errId){
+  document.getElementById(errId).classList.remove('on');
+  document.getElementById(inputId).closest('.field-group').classList.remove('field-bad');
+}
 
-function validate(id){
-  if(id==='contact'){
-    const a=document.getElementById('address').value.trim();
-    const e=document.getElementById('email').value.trim();
-    if(a.length<8)  return fail('Please enter the full address, including the city.');
-    if(!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(e)) return fail('That email address does not look right.');
-    return true;
-  }
+function validateStep(id){
   if(id==='q1' && !val('q1_concern_change')) return fail('Pick a number from 1 to 5.');
   if(id==='q2' && !val('q2_preparedness'))   return fail('Pick a number from 1 to 5.');
   if(id==='q4' && !val('q4_interest'))       return fail('Pick a number from 1 to 5.');
   if(id==='q3a' && rank.length===0) return fail('Tap at least one, in order of importance.');
   if(id==='q3b' && !document.querySelectorAll('input[name="q3_barriers"]:checked').length)
     return fail('Tick at least one.');
-  if(id==='q5'){
-    const raw=document.getElementById('budget').value.replace(/[^0-9]/g,'');
-    if(raw==='') return fail('Enter an amount. Zero is a valid answer.');
-    return true;
-  }
-  if(id==='consent' && !document.getElementById('consent').checked)
-    return fail('Please tick the box so we are allowed to process your address.');
+  if(id==='q5' && document.getElementById('budget').value.replace(/[^0-9]/g,'')==='')
+    return fail('Enter an amount. Zero is a valid answer.');
   return true;
 }
 
 let moved=false;
 function go(dir){
   const f=flow();
-  if(dir>0 && !validate(f[at])) return;
-  if(dir>0 && at===f.length-1){ submit(); return; }
+  if(dir>0 && !validateStep(f[at])) return;
   at+=dir; render();
-  // After the first move, park the card at the top of the screen. Not on load,
-  // which would yank the page before the reader has chosen to start.
-  if(moved) document.querySelector('.stepper').scrollIntoView({block:'start',behavior:'smooth'});
+  if(moved) document.querySelector('.stepper').scrollIntoView({block:'center',behavior:'smooth'});
   moved=true;
 }
 backBtn.addEventListener('click',()=>go(-1));
 nextBtn.addEventListener('click',()=>go(1));
 
-/* Choosing on a 1-to-5 scale moves you on by itself. The pause is long enough
-   to see the answer land, short enough not to feel like waiting. */
-document.querySelectorAll('.likert input').forEach(i=>{
-  i.addEventListener('change',()=>{ setTimeout(()=>go(1),260); });
+/* Bound to the label's click rather than the input's change, so that going
+   Back and tapping the same number again still moves you on. On change alone
+   it does nothing, which strands people. The timer is cleared each time
+   because a label click also fires a click on the input inside it. */
+let advTimer=null;
+document.querySelectorAll('.likert label').forEach(l=>{
+  l.addEventListener('click',()=>{
+    clearTimeout(advTimer);
+    advTimer=setTimeout(()=>{
+      if(at < flow().length-1) go(1); else render();   // nowhere to go on the last
+    },260);
+  });
 });
 
-/* Enter advances from the text fields rather than submitting the form early. */
+/* Check the address as they leave the field, not only when they submit. */
+const addressEl=document.getElementById('address');
+addressEl.addEventListener('blur',()=>{
+  if(!addressEl.value.trim()) return;
+  const r=parseAddress(addressEl.value);
+  if(r.ok) fieldClear('address','addressErr'); else fieldFail('address','addressErr',r.why);
+});
+addressEl.addEventListener('input',()=>fieldClear('address','addressErr'));
+document.getElementById('email').addEventListener('input',()=>fieldClear('email','emailErr'));
+
 document.getElementById('f').addEventListener('keydown',e=>{
-  if(e.key==='Enter'){ e.preventDefault(); go(1); }
+  if(e.key==='Enter'){ e.preventDefault(); if(at<flow().length-1) go(1); }
 });
 
-/* Digits only, formatted with thousands separators as they type. */
 const budget=document.getElementById('budget');
 budget.addEventListener('input',()=>{
-  const digits=budget.value.replace(/[^0-9]/g,'').slice(0,9);
-  budget.value = digits ? Number(digits).toLocaleString('en-US') : '';
+  const d=budget.value.replace(/[^0-9]/g,'').slice(0,9);
+  budget.value = d ? Number(d).toLocaleString('en-US') : '';
 });
 
 window.addEventListener('resize',()=>{ sizeTo(stepEls[flow()[at]]); });
 document.fonts.ready.then(()=>sizeTo(stepEls[flow()[at]]));
 
 /* ---------- send ---------- */
-async function submit(){
-  const answers={
-    q1_concern_change: +val('q1_concern_change'),
-    q2_preparedness:   +val('q2_preparedness'),
-    q4_interest:       +val('q4_interest'),
-    q5_budget_usd:     Number(document.getElementById('budget').value.replace(/[^0-9]/g,'')),
-    q3_branch:         branch()==='q3a' ? 'motivations' : 'barriers',
-    q3_motivations:    branch()==='q3a' ? rank.slice() : [],
-    q3_barriers:       branch()==='q3b'
-      ? [...document.querySelectorAll('input[name="q3_barriers"]:checked')].map(i=>i.value) : []
-  };
+sendBtn.addEventListener('click', async ()=>{
+  err.classList.remove('on');
 
-  nextBtn.disabled=true; nextBtn.textContent='Sending…';
+  const parsed = parseAddress(addressEl.value);
+  if(!parsed.ok){
+    fieldFail('address','addressErr',parsed.why);
+    addressEl.focus(); addressEl.scrollIntoView({block:'center',behavior:'smooth'});
+    return;
+  }
+  fieldClear('address','addressErr');
+
+  const email=document.getElementById('email').value.trim();
+  if(!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)){
+    fieldFail('email','emailErr','That email address does not look right.');
+    document.getElementById('email').focus();
+    document.getElementById('email').scrollIntoView({block:'center',behavior:'smooth'});
+    return;
+  }
+  fieldClear('email','emailErr');
+
+  // Send them back to the first question they skipped rather than just saying no.
+  const f=flow();
+  for(let i=0;i<f.length;i++){
+    if(!validateStep(f[i])){ at=i; render(); fail('One question still needs an answer.');
+      document.querySelector('.stepper').scrollIntoView({block:'center',behavior:'smooth'}); return; }
+  }
+
+  if(!document.getElementById('consent').checked)
+    return fail('Please tick the box so we are allowed to process your address.');
+
+  sendBtn.disabled=true; sendBtn.textContent='Sending…';
   const due=dueDate();
   try{
     const res=await fetch('/api/submit',{
-      method:'POST',
-      headers:{'Content-Type':'application/json'},
+      method:'POST', headers:{'Content-Type':'application/json'},
       body:JSON.stringify({
-        address:document.getElementById('address').value.trim(),
-        email:document.getElementById('email').value.trim(),
-        answers, consent:true,
+        address: addressEl.value.trim(), email, consent:true,
+        answers:{
+          q1_concern_change:+val('q1_concern_change'),
+          q2_preparedness:  +val('q2_preparedness'),
+          q4_interest:      +val('q4_interest'),
+          q5_budget_usd:    Number(budget.value.replace(/[^0-9]/g,'')),
+          q3_branch:        branch()==='q3a' ? 'motivations' : 'barriers',
+          q3_motivations:   branch()==='q3a' ? rank.slice() : [],
+          q3_barriers:      branch()==='q3b'
+            ? [...document.querySelectorAll('input[name="q3_barriers"]:checked')].map(i=>i.value) : []
+        },
         page_tz:Intl.DateTimeFormat().resolvedOptions().timeZone
       })
     });
     if(!res.ok) throw new Error('status '+res.status);
   }catch(ex){
-    nextBtn.disabled=false; nextBtn.textContent='Get my report';
+    sendBtn.disabled=false; sendBtn.textContent='Get my report';
     return fail('Something went wrong sending that. Please try again, or email '+CONTROLLER.email+'.');
   }
 
@@ -832,7 +948,7 @@ async function submit(){
   const done=document.getElementById('done');
   done.classList.add('on');
   done.scrollIntoView({block:'start',behavior:'smooth'});
-}
+});
 
 render();
 </script>

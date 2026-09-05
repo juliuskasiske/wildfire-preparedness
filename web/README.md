@@ -121,10 +121,44 @@ FROM submissions, json_each(json_extract(answers,'$.q3_motivations')) j
 GROUP BY motive ORDER BY avg_rank;
 ```
 
+## Address validation
+
+Every submission has to be an address we can actually produce a report for, so
+the address is parsed rather than merely length-checked, on the client for a
+useful message and again on the server because that is the copy that decides.
+
+Required, or the submission is refused:
+
+- a house number at the front
+- a street name
+- a city
+- a 5-digit ZIP
+- California. A written state wins over the ZIP, because people mistype ZIPs
+  more often than they mistype the state they live in. Failing that, the ZIP
+  must fall in 90001 to 96162, which spans Los Angeles to Truckee and does not
+  overlap Nevada (889xx) or Hawaii (967xx).
+
+Out-of-state addresses are named in the error: "That address is in Nevada."
+That is a coverage limit, not a preference, and saying so is better than a
+vague rejection.
+
+The parsed pieces land in the `addr_parts` column as JSON, so the assessment
+step does not have to parse the string again. One known softness: without
+commas the street/city boundary is a guess, so "815 El Medio Ave Pacific
+Palisades CA 90272" splits as street "El Medio Ave Pacific", city "Palisades".
+Both are present, which is what the check is for, and the full string is stored
+verbatim in `address` regardless.
+
+The rule lives in `parseAddress()`, duplicated in `index.html` and
+`functions/api/submit.js`. Two copies of forty lines beat adding a build step
+for one file. Change both.
+
 ## The survey
 
 Six questions on paper, five in practice: question 3 forks on the answer to
-question 2, so nobody sees both halves.
+question 2, so nobody sees both halves. Only the five questions are steps: the
+address, the email and the consent box sit outside the stepper, because they
+are not survey answers.
 
 | Key | Question | Shape |
 |---|---|---|
