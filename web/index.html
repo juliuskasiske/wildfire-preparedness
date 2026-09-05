@@ -63,14 +63,35 @@ h1 .free{color:var(--ember);display:block}
 /* ---------- what you get ---------- */
 section{padding:34px 0}
 h2{font-size:23px;font-weight:700;letter-spacing:-.02em;margin:0 0 18px;line-height:1.2}
-.pillars{display:grid;gap:16px;margin:0;padding:0;list-style:none}
+.pillars{display:grid;gap:14px;margin:0;padding:0;list-style:none}
 .pillars li{padding-left:15px;border-left:3px solid var(--ember)}
 .pillars b{display:block;font-size:17.5px;font-weight:700;letter-spacing:-.012em;margin-bottom:2px}
 .pillars span{color:var(--ink-soft);font-size:15.5px;line-height:1.45}
 
-.trade{background:var(--paper-deep);border-radius:12px;padding:20px 22px;margin-top:26px}
-.trade p{margin:0;font-size:16px;color:var(--ink-soft)}
-.trade p strong{color:var(--ink);font-weight:600}
+/* Two expanders instead of two blocks of prose. The page's job is to get an
+   address typed in; everything that explains or reassures is one tap away for
+   whoever wants it, and costs one line for whoever does not. Native <details>,
+   so it works with no JavaScript and reads correctly to a screen reader. */
+.tellme{padding:20px 0 6px}
+.disc{border:1px solid var(--rule);border-radius:12px;background:var(--card);
+      margin-bottom:9px;overflow:hidden}
+.disc summary{
+  list-style:none;cursor:pointer;padding:15px 46px 15px 17px;position:relative;
+  font-size:16.5px;font-weight:600;letter-spacing:-.01em;color:var(--ink);
+}
+.disc summary::-webkit-details-marker{display:none}
+.disc summary::after{
+  content:"";position:absolute;right:19px;top:50%;width:9px;height:9px;
+  border-right:2px solid var(--ink-faint);border-bottom:2px solid var(--ink-faint);
+  transform:translateY(-70%) rotate(45deg);transition:transform .18s ease;
+}
+.disc[open] summary::after{transform:translateY(-30%) rotate(225deg)}
+.disc summary:hover{background:var(--paper)}
+.disc summary:focus-visible{outline:3px solid color-mix(in srgb,var(--focus) 40%,transparent);outline-offset:-3px}
+.disc-body{padding:2px 17px 18px}
+.disc-body p{margin:0 0 11px;font-size:15.5px;color:var(--ink-soft);line-height:1.5}
+.disc-body p:last-child{margin-bottom:0}
+.disc-body p strong{color:var(--ink);font-weight:600}
 
 /* ---------- form ---------- */
 .hint{color:var(--ink-faint);font-size:14.5px;margin:0 0 12px;line-height:1.4}
@@ -243,7 +264,7 @@ dialog::backdrop{background:rgba(22,19,15,.55)}
 .dlg-body address{font-style:normal;background:var(--paper);border-radius:8px;padding:12px 14px;color:var(--ink)}
 
 @media (min-width:620px){
-  .pillars{grid-template-columns:1fr 1fr;gap:18px 24px}
+  .pillars{grid-template-columns:1fr 1fr;gap:16px 22px}
   .stepper{padding:24px 28px 26px}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
@@ -261,20 +282,29 @@ dialog::backdrop{background:rgba(22,19,15,.55)}
 </header>
 
 <main>
-  <section class="wrap">
-    <h2>What the assessment tells you</h2>
-    <ul class="pillars">
-      <li><b>Will my home survive?</b><span>Where you are exposed, which side takes the wind, and what to fix first, starting with what costs nothing.</span></li>
-      <li><b>Am I leaving money on the table?</b><span>Which insurance discounts your home already qualifies for, and which are worth doing the work for.</span></li>
-      <li><b>Can I get proper coverage again?</b><span>What insurers look at, and what moves the needle if you have been non-renewed or pushed onto the FAIR Plan.</span></li>
-      <li><b>Do the new rules apply to me?</b><span>What California now requires for your property, and by when.</span></li>
-    </ul>
+  <section class="wrap tellme">
+    <details class="disc">
+      <summary>What the assessment tells you</summary>
+      <div class="disc-body">
+        <ul class="pillars">
+          <li><b>Will my home survive?</b><span>Where you are exposed, which side takes the wind, and what to fix first, starting with what costs nothing.</span></li>
+          <li><b>Am I leaving money on the table?</b><span>Which insurance discounts your home already qualifies for, and which are worth doing the work for.</span></li>
+          <li><b>Can I get proper coverage again?</b><span>What insurers look at, and what moves the needle if you have been non-renewed or pushed onto the FAIR Plan.</span></li>
+          <li><b>Do the new rules apply to me?</b><span>What California now requires for your property, and by when.</span></li>
+        </ul>
+      </div>
+    </details>
 
-    <div class="trade">
-      <p>Hi, I'm Julius. I'm researching how Californians are actually handling wildfire risk.
-         I can't answer that from data alone, so I built a free assessment for your specific home
-         and <strong>trade it for your honest take on 5 questions.</strong></p>
-    </div>
+    <details class="disc">
+      <summary>Who is behind this, and why it is free</summary>
+      <div class="disc-body">
+        <p>Hi, I'm Julius. I'm researching how Californians are actually handling wildfire risk.
+           I can't answer that from data alone, so I built a free assessment for your specific home
+           and <strong>trade it for your honest take on 5 questions.</strong></p>
+        <p>Nobody will call you. The assessment is built from public records, and the answers you
+           give go into research that is only ever published in aggregate.</p>
+      </div>
+    </details>
   </section>
 
   <section class="wrap" id="form-section">
