@@ -139,7 +139,7 @@ input[type=text]:focus,input[type=email]:focus{
      border:1.5px solid var(--rule);border-radius:10px;background:var(--paper);
      cursor:pointer;font-size:16px;line-height:1.35;transition:border-color .12s,background .12s}
 .opt:hover{border-color:var(--ink-faint)}
-.opt input{margin:2px 0 0;width:20px;height:20px;flex:0 0 auto;accent-color:var(--ember)}
+.opt input{margin:.5px 0 0;width:20px;height:20px;flex:0 0 auto;accent-color:var(--ember)}
 .opt:has(input:checked){border-color:var(--ember);background:#FCF3EF}
 .opt:has(input:focus-visible){outline:3px solid color-mix(in srgb,var(--focus) 32%,transparent)}
 .opt em{font-style:normal;color:var(--ink-faint);display:block;font-size:14px;margin-top:1px}
@@ -206,7 +206,7 @@ button.go:focus-visible{outline:3px solid color-mix(in srgb,var(--focus) 45%,tra
 /* tap-in-order ranking */
 .rank .opt{padding:11px 13px;font-size:15.5px}
 .rank .opt input{position:absolute;opacity:0;width:0;height:0}
-.badge{flex:0 0 auto;width:24px;height:24px;border-radius:50%;border:1.5px solid var(--rule);
+.badge{flex:0 0 auto;width:24px;height:24px;margin-top:-1.5px;border-radius:50%;border:1.5px solid var(--rule);
   display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:800;
   color:var(--ink-faint);background:#fff}
 .rank .opt.picked{border-color:var(--ember);background:#FCF3EF}
@@ -415,7 +415,7 @@ dialog::backdrop{background:rgba(22,19,15,.55)}
 
             <!-- 5 - budget -->
             <section class="step" data-step="q5" hidden>
-              <p class="qtitle">What would you be willing to spend defending your home against wildfire?</p>
+              <p class="qtitle">What would you be willing to spend on defending your home against wildfire?</p>
               <p class="qhint">A rough number is fine. Zero is a real answer.</p>
               <div class="money">
                 <span>$</span>
