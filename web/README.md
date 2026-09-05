@@ -162,12 +162,22 @@ are not survey answers.
 
 | Key | Question | Shape |
 |---|---|---|
-| `q1_concern_change` | How concern has changed over two years | 1 to 5 |
-| `q2_preparedness` | How ready the home is | 1 to 5 |
-| `q3_motivations` | What drove the work, **asked when q2 is 4 or 5** | ranked list |
-| `q3_barriers` | What stopped them, **asked when q2 is 1 to 3** | multi-select |
-| `q4_interest` | Interest in doing more | 1 to 5 |
-| `q5_budget_usd` | What they would spend | whole dollars |
+| `q1_concern_change` | Compared with two years ago, how worried are you | 1 to 5 |
+| `q2_preparedness` | How much have you already done | 1 to 5 |
+| `q3_motivations` | What made you do it, **asked when q2 is 4 or 5** | ranked list |
+| `q3_barriers` | What has stopped you doing more, **asked when q2 is 1 to 3** | multi-select |
+| `q4_interest` | How interested are you in doing more | 1 to 5 |
+| `q5_budget_usd` | What would you be willing to spend | whole dollars |
+
+Question 2 asks how much has been **done**, not how ready the home **is**. That
+is deliberate: both forks of question 3 ask about the doing, so a question
+about a state would not join up with either. "How ready is your home" followed
+by "what made you do it" is a non-sequitur, and readiness is also harder to
+answer honestly than effort.
+
+The 1-to-5 scales are written out rather than numbered. A bare number makes the
+reader translate it into a meaning before they can answer, which is work the
+survey should be doing for them. The stored value is still 1 to 5.
 
 `q3_branch` records which fork was asked, so an empty `q3_barriers` means
 "not asked" rather than "asked and left blank". `q3_motivations` is order

@@ -145,32 +145,26 @@ button.go:focus-visible{outline:3px solid color-mix(in srgb,var(--focus) 45%,tra
 .progtxt{font-size:13px;font-weight:600;color:var(--ink-faint);margin:0 0 16px;
          display:flex;justify-content:space-between}
 
-.viewport{overflow:hidden}
-/* No height transition here on purpose. Animating height was stalling
-   mid-transition and leaving the taller steps clipped, which is the one bug
-   this layout cannot afford. The sideways slide is the movement people
-   actually notice; the height just snaps under it. */
-.track{display:flex;align-items:flex-start;
-       transition:transform .32s cubic-bezier(.4,0,.2,1)}
+.viewport{overflow:hidden;position:relative}
+/* The slide is done by scrolling this box, not by transforming the track.
+   Both a height transition and a transform transition stalled part-way here,
+   leaving the wrong question on screen with no way to recover. scrollLeft is a
+   property rather than an animation: it cannot be left half-applied, and where
+   smooth scrolling is unavailable or the user has asked for reduced motion it
+   simply jumps, which is still correct. */
+.track{display:flex;align-items:flex-start}
 .step{flex:0 0 100%;min-width:100%;padding:1px}
 .step[hidden]{display:none}
 
 .qtitle{font-size:19.5px;font-weight:700;letter-spacing:-.018em;margin:0 0 6px;line-height:1.25}
 .qhint{color:var(--ink-faint);font-size:14.5px;margin:0 0 15px;line-height:1.4}
 
-/* 1 to 5 scale, laid out as one row so it costs almost no height */
-.likert{display:grid;grid-template-columns:repeat(5,1fr);gap:7px}
-.likert label{position:relative;display:flex;align-items:center;justify-content:center;
-  height:56px;border:1.5px solid var(--rule);border-radius:10px;background:var(--paper);
-  font-size:19px;font-weight:700;cursor:pointer;
-  transition:border-color .12s,background .12s,color .12s}
-.likert label:hover{border-color:var(--ink-faint)}
-.likert input{position:absolute;opacity:0;width:0;height:0}
-.likert label:has(input:checked){border-color:var(--ember);background:var(--ember);color:#fff}
-.likert label:has(input:focus-visible){outline:3px solid color-mix(in srgb,var(--focus) 40%,transparent)}
-.ends{display:flex;justify-content:space-between;gap:12px;margin-top:9px;
-      font-size:13px;color:var(--ink-faint);line-height:1.3}
-.ends span:last-child{text-align:right}
+/* The 1-to-5 scales are written out rather than numbered. A number makes the
+   reader translate it into a meaning before answering, which is exactly the
+   work a survey should be doing for them. The value stored is still 1 to 5. */
+.scale .opt{padding:12px 13px;font-size:15.5px}
+.scale{gap:7px}
+.note{margin:9px 0 0;font-size:13px;color:var(--ink-faint);line-height:1.3}
 
 /* tap-in-order ranking */
 .rank .opt{padding:11px 13px;font-size:15.5px}
@@ -209,9 +203,7 @@ button.go:focus-visible{outline:3px solid color-mix(in srgb,var(--focus) 45%,tra
 .btn-back:focus-visible,.btn-next:focus-visible{
   outline:3px solid color-mix(in srgb,var(--focus) 45%,transparent);outline-offset:2px}
 
-@media (prefers-reduced-motion:reduce){
-  .track{transition:none}
-}
+
 
 /* ---------- success ---------- */
 #done{display:none}
@@ -319,36 +311,34 @@ dialog::backdrop{background:rgba(22,19,15,.55)}
 
             <!-- 1 - concern change -->
             <section class="step" data-step="q1" hidden>
-              <p class="qtitle">Over the last two years, how has your concern about wildfire risk changed?</p>
+              <p class="qtitle">Compared with two years ago, how worried are you about wildfire reaching your home?</p>
               <p class="qhint">Your own sense of it, not what the news says.</p>
-              <div class="likert" data-likert="q1_concern_change">
-                <label><input type="radio" name="q1_concern_change" value="1"><span>1</span></label>
-                <label><input type="radio" name="q1_concern_change" value="2"><span>2</span></label>
-                <label><input type="radio" name="q1_concern_change" value="3"><span>3</span></label>
-                <label><input type="radio" name="q1_concern_change" value="4"><span>4</span></label>
-                <label><input type="radio" name="q1_concern_change" value="5"><span>5</span></label>
-              </div>
-              <p class="ends"><span>Dropped a lot</span><span>About the same</span><span>Grown a lot</span></p>
+          <div class="opts scale">
+            <label class="opt"><input type="radio" name="q1_concern_change" value="1"><span>A lot less worried</span></label>
+            <label class="opt"><input type="radio" name="q1_concern_change" value="2"><span>A little less worried</span></label>
+            <label class="opt"><input type="radio" name="q1_concern_change" value="3"><span>About the same</span></label>
+            <label class="opt"><input type="radio" name="q1_concern_change" value="4"><span>A little more worried</span></label>
+            <label class="opt"><input type="radio" name="q1_concern_change" value="5"><span>A lot more worried</span></label>
+          </div>
             </section>
 
             <!-- 2 - preparedness -->
             <section class="step" data-step="q2" hidden>
-              <p class="qtitle">If a wildfire reached your street, how ready is your home?</p>
-              <p class="qhint">Your honest read. Most people land in the middle.</p>
-              <div class="likert" data-likert="q2_preparedness">
-                <label><input type="radio" name="q2_preparedness" value="1"><span>1</span></label>
-                <label><input type="radio" name="q2_preparedness" value="2"><span>2</span></label>
-                <label><input type="radio" name="q2_preparedness" value="3"><span>3</span></label>
-                <label><input type="radio" name="q2_preparedness" value="4"><span>4</span></label>
-                <label><input type="radio" name="q2_preparedness" value="5"><span>5</span></label>
-              </div>
-              <p class="ends"><span>Not ready at all</span><span>Somewhat</span><span>Fully ready</span></p>
+              <p class="qtitle">How much have you already done to protect your home from wildfire?</p>
+              <p class="qhint">Clearing, hardening, anything at all. Most people have done less than they mean to.</p>
+          <div class="opts scale">
+            <label class="opt"><input type="radio" name="q2_preparedness" value="1"><span>Nothing yet</span></label>
+            <label class="opt"><input type="radio" name="q2_preparedness" value="2"><span>A couple of small things</span></label>
+            <label class="opt"><input type="radio" name="q2_preparedness" value="3"><span>Some of it</span></label>
+            <label class="opt"><input type="radio" name="q2_preparedness" value="4"><span>Most of what I know to do</span></label>
+            <label class="opt"><input type="radio" name="q2_preparedness" value="5"><span>Everything I can think of</span></label>
+          </div>
             </section>
 
             <!-- 3a - motivations (shown when q2 is 4 or 5) -->
             <section class="step" data-step="q3a" hidden>
-              <p class="qtitle">What drove you to do that work?</p>
-              <p class="qhint">Tap in order, most important first.</p>
+              <p class="qtitle">What made you do it?</p>
+              <p class="qhint">Tap your reasons in order, the biggest one first.</p>
               <div class="opts rank tight" id="rankBox">
                 <label class="opt" data-v="keep_coverage"><span class="badge"></span><span>Keeping my coverage</span></label>
                 <label class="opt" data-v="lower_premium"><span class="badge"></span><span>Lowering my premium</span></label>
@@ -361,7 +351,7 @@ dialog::backdrop{background:rgba(22,19,15,.55)}
 
             <!-- 3b - barriers (shown when q2 is 1 to 3) -->
             <section class="step" data-step="q3b" hidden>
-              <p class="qtitle">What has stopped you doing more so far?</p>
+              <p class="qtitle">What has stopped you doing more?</p>
               <p class="qhint">Tick everything that is true.</p>
               <div class="opts tight">
                 <label class="opt"><input type="checkbox" name="q3_barriers" value="too_expensive"><span>Too expensive</span></label>
@@ -377,16 +367,15 @@ dialog::backdrop{background:rgba(22,19,15,.55)}
 
             <!-- 4 - interest -->
             <section class="step" data-step="q4" hidden>
-              <p class="qtitle">How interested are you in doing more to protect your home?</p>
-              <p class="qhint">Either way the assessment is free.</p>
-              <div class="likert" data-likert="q4_interest">
-                <label><input type="radio" name="q4_interest" value="1"><span>1</span></label>
-                <label><input type="radio" name="q4_interest" value="2"><span>2</span></label>
-                <label><input type="radio" name="q4_interest" value="3"><span>3</span></label>
-                <label><input type="radio" name="q4_interest" value="4"><span>4</span></label>
-                <label><input type="radio" name="q4_interest" value="5"><span>5</span></label>
-              </div>
-              <p class="ends"><span>Not interested</span><span>Maybe</span><span>Very interested</span></p>
+              <p class="qtitle">How interested are you in doing more?</p>
+              <p class="qhint">Either way the assessment is free, and nobody will call you.</p>
+          <div class="opts scale">
+            <label class="opt"><input type="radio" name="q4_interest" value="1"><span>Not interested</span></label>
+            <label class="opt"><input type="radio" name="q4_interest" value="2"><span>Probably not</span></label>
+            <label class="opt"><input type="radio" name="q4_interest" value="3"><span>Maybe, if it were simple</span></label>
+            <label class="opt"><input type="radio" name="q4_interest" value="4"><span>Yes, fairly interested</span></label>
+            <label class="opt"><input type="radio" name="q4_interest" value="5"><span>Yes, very interested</span></label>
+          </div>
             </section>
 
             <!-- 5 - budget -->
@@ -398,7 +387,7 @@ dialog::backdrop{background:rgba(22,19,15,.55)}
                 <input type="text" id="budget" name="q5_budget_usd" inputmode="numeric"
                        autocomplete="off" placeholder="0">
               </div>
-              <p class="ends"><span>One-off amount, not per year</span></p>
+              <p class="note">A one-off amount, not per year.</p>
             </section>
 
           </div>
@@ -781,6 +770,27 @@ document.querySelectorAll('#rankBox .opt').forEach(el=>{
 /* ---------- movement ---------- */
 function sizeTo(el){ viewport.style.height = el.scrollHeight + 'px'; }
 
+/* Scroll the step into place. offsetLeft is the exact distance whatever the
+   widths turn out to be, so this cannot drift the way a percentage or an
+   index-times-width calculation did.
+
+   The animation is decorative and is never trusted. A smooth scroll is an
+   animation like any other, and an animation that is throttled, backgrounded
+   or running in a tab that is not compositing stalls part-way, which here
+   means stranding the reader on half of the wrong question with no way back.
+   So the final position is asserted again once the animation should be over. */
+let slideGuard = null;
+function slideTo(el){
+  const target = el.offsetLeft;
+  const smooth = !matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if (smooth) viewport.scrollTo({ left: target, behavior: 'smooth' });
+  else        viewport.scrollLeft = target;
+  clearTimeout(slideGuard);
+  slideGuard = setTimeout(()=>{
+    if (Math.abs(viewport.scrollLeft - target) > 1) viewport.scrollLeft = target;
+  }, 420);
+}
+
 /* A step's height changes for reasons other than navigation: the web font
    arriving after first paint, rank badges appearing, an error wrapping. */
 const ro = new ResizeObserver(()=>{
@@ -795,7 +805,7 @@ function render(){
   const id = f[at];
 
   Object.entries(stepEls).forEach(([k,el])=>{ el.hidden = !f.includes(k); });
-  track.style.transform = `translateX(${-at*100}%)`;
+  slideTo(stepEls[id]);
   document.querySelectorAll('.step').forEach(el=>{
     const active = el.dataset.step === id;
     el.style.visibility = active ? 'visible' : 'hidden';
@@ -854,7 +864,7 @@ nextBtn.addEventListener('click',()=>go(1));
    it does nothing, which strands people. The timer is cleared each time
    because a label click also fires a click on the input inside it. */
 let advTimer=null;
-document.querySelectorAll('.likert label').forEach(l=>{
+document.querySelectorAll('.scale label').forEach(l=>{
   l.addEventListener('click',()=>{
     clearTimeout(advTimer);
     advTimer=setTimeout(()=>{
@@ -883,7 +893,11 @@ budget.addEventListener('input',()=>{
   budget.value = d ? Number(d).toLocaleString('en-US') : '';
 });
 
-window.addEventListener('resize',()=>{ sizeTo(stepEls[flow()[at]]); });
+window.addEventListener('resize',()=>{
+  const el = stepEls[flow()[at]];
+  viewport.scrollLeft = el.offsetLeft;   // instant on resize, no animation wanted
+  sizeTo(el);
+});
 document.fonts.ready.then(()=>sizeTo(stepEls[flow()[at]]));
 
 /* ---------- send ---------- */
