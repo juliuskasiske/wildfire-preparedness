@@ -13,27 +13,34 @@ web/
 
 ## Before it can go live
 
-**One blocking item.** The privacy notice needs a postal address for the person
-collecting the data. Both the California CPRA and the EU GDPR require it to be
-shown before consent is taken, so this is not optional and not something to
-guess at.
-
-Open `index.html`, find `const CONTROLLER`, and fill in the three nulls:
+The privacy notice is complete. The controller is set in `index.html`:
 
 ```js
 const CONTROLLER = {
   name:    "Julius Kasiske",
-  street:  null,          // <- REQUIRED before launch
-  city:    null,          // <- REQUIRED before launch
-  country: null,          // <- REQUIRED before launch
+  street:  "Barer Strasse 48",
+  city:    "80799 Munich",
+  country: "Germany",
   email:   "juliuskasiske@gmail.com"
 };
 ```
 
-Until they are filled in, the privacy notice shows a red warning in place of the
-address, so the page cannot quietly go live looking complete when it is not.
+Because the controller is in Munich, the notice now names the supervisory
+authority people can complain to: the Bayerisches Landesamt fuer
+Datenschutzaufsicht, which covers the private sector in Bavaria.
 
----
+**Still outstanding, and not something this code can do for you:**
+
+- **An Impressum.** A site operated from Germany generally needs one under
+  section 5 DDG, with the same name and postal address, reachable from every
+  page. The privacy notice is not a substitute. This is separate from anything
+  in the code and worth an hour of a German lawyer's time.
+- **A legal read of the notice.** It is written to satisfy GDPR and the CPRA
+  and it is thorough, but it was not written by a lawyer, and it makes promises
+  about retention and contact that you have to actually keep.
+- **The 24-month deletion promise.** The notice says data is deleted after 24
+  months. Nothing enforces that yet. It needs a scheduled job before the first
+  records age out.
 
 ## Deploying
 
